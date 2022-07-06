@@ -1,0 +1,204 @@
+https://fr.banggood.com/2_8-Inch-ILI9341-240x320-SPI-TFT-LCD-Display-Touch-Panel-SPI-Serial-Port-Module-p-1206782.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+2,8 pouces ILI9341 240x320 SPI TFT LCD Module de port série SPI à écran tactile
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Téléchargement de fichier: http://files.banggood.com/2017/12/2.8-spi-9341.zip
+
+Caractéristiques:
+
+
+
+Type: écran tactile
+
+Écran: série SPI de 2,8 po
+
+Zone d'affichage: 46 (L) X 65 (H) mm
+
+Taille: 86 x 50 mm
+
+Élément pilote: matrice active a-Si TFT
+
+Disposition des pixels: bande verticale RVB
+
+Pilote IC: ILI9341
+
+Rétroéclairage: blanc LED
+
+Direction de visualisation: 6 heures
+
+Profondeur de couleur: 262K / 65K
+
+Résolution (points): 240RGB * 320Dots
+
+Compatible 5V, utiliser avec la logique 3.3V ou 5V
+
+Besoin d'au moins 4 E / S de votre MCU
+
+Avec plaque PCB (y compris alimentation IC, SD), compatible avec l'interface 5110
+
+
+
+Emballage inclus:
+
+
+
+1 x 2,8 "TFT LCD Module d'écran tactile
+	1 x stylo tactile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,180 @@
+https://fr.banggood.com/Wholesale-ATMEGA328-328p-16MHz-Pro-Mini-PCB-Module-Board-5V-p-68534.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+ATMEGA328 328p 5V 16MHz Compatible Arduino Nano Taille Module de Panneau
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arduino ATMEGA328 ProMini 328p 5V 16MHz est disponible dès maintenant à partir de notre entrepôt US
+
+Livraison gratuite à US dans 3-6 jours ouvrables
+Navire au Canada, au Brésil dans 7-10 jours
+
+ATMEGA328 328p 5V 16MHz Compatible Arduino Nano Taille Module de Panneau
+
+Description:
+
+Nouvelle version, Pro Mini 328 5v 16MHz, compatible Arduino
+Composants de haute qualité et matériel de soudure
+Bootloader prêt, brancher pour démarrer.
+
+Emballage inclut:
+
+1 x Pro Mini 328 5V 16MHz compatible Arduino
+
+Commentaires du client Mattias Schlenker:
+
+Si le téléchargement de croquis utilise l'IDE Arduino échoue, suivez ces étapes pour mettre à jour le chargeur de démarrage:
+
+-Preparez un uno Arduino, méga ou similaire à agir en tant que fournisseur de services Internet comme décrit à http://arduino.cc/en/Tutorial/ArduinoISP
+-Connectez-le comme indiqué dans flasbootloader_connected.png (revue de photo de sku099688)
+-Utilisez IDE Arduino pour flasher le bootloader de la pro / pro mini-correspondant (5V, 16MHz) pour SKU099688 ou SKU066315
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,
+
+

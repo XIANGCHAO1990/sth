@@ -1,0 +1,299 @@
+1722368
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/D4/3F/497f0e7d-0a9a-4eb4-a4ca-0d5fe92278ee.jpg
+LILYGO® TTGO T-Internet-POE ESP32-WROOM LAN8720A Chip Adaptador Ethernet y placa de expansión del descargador Hardware programable
+https://es.banggood.com/LILYGO-TTGO-T-Internet-POE-ESP32-WROOM-LAN8720A-Chip-Ethernet-Adapter-And-Downloader-Expansion-Board-Programmable-Hardware-p-1722368.html?cur_warehouse=CN&ID=6292769&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Más información: https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE Detalle del producto :1. Compatible con el modo PoE A (alimentado por un par de datos) y el modo PoE B (alimentado por un par de respaldo) y MDIX automático, lo que permite el uso de cables Ethernet directos y cruzados. 2. La huella de 20 agujas con 3.3V, potencia V + y 15 ESP32GPIO están disponibles para su aplicación.  3. La huella compacta de 75 mm por 40 mm es compatible con 4 orificios de montaje de tornillos M2.5 o 4-40 normales. 4. Se ha creado un pequeño submódulo de consola serie de programación / USB para que el módulo Inter-POE se pueda programar fácilmente para satisfacer las necesidades de aplicación del usuario. Característica:
+
+
+
+Especificaciones de hardware
+
+
+
+Chipset
+ESPRESSIF-ESP32-WROOM, chip LAN8720A Ethernet, chip de administración de energía SI3404
+
+
+DESTELLO
+4MB 
+
+
+SRAM 
+520 kB SRAM
+
+
+Botón
+BOT, descanso
+
+
+Dispositivo externo
+Ranura para tarjeta TF, interfaz de tipo C, transformador PA2369NL 1825-S, interfaz HR861153C Ethernet-POE
+
+
+USB a TTL
+CP2104
+
+
+Interfaz modular
+ Tarjeta SD, UART, SPI, I2C, PWM, I2S, ADC
+
+
+Reloj de a bordo
+Oscilador de cristal de 32.768MHz 
+
+
+Rango de temperatura de trabajo
+ -40 ℃ ~ + 85 ℃
+
+
+Peso
+26.85g
+
+
+Tamaño
+70*52.3*17mm
+
+
+Especificaciones de la fuente de alimentación
+
+
+
+Entrada de fuente de alimentación
+Tipo-C USB 5V
+
+
+HR861153C Interfaz Ethernet-POE 50V
+
+
+Tensión de trabajo
+2.7V-3.6V
+
+
+Corriente máxima de salida
+Acerca de 1.2A
+
+
+Corriente de carga
+500mA
+
+
+USB
+USB tipo C
+
+
+Wifi
+
+
+
+Estándar
+FCC / CE-RED / IC / TELEC / KCC / SRRC / NCC (chip esp32)
+
+
+Protocolo
+802.11 b / g / n (802.11n, velocidad de hasta 150 Mbps) Polimerización A-MPDU y A-MSDU, admite intervalo de protección de 0,4 μS
+
+
+Rango de frecuencia
+2,4 GHz ~ 2,5 GHz (2400 M ~ 2483,5 M)
+
+
+Transmitir energía
+22dBm
+
+
+Distancia de comunicación
+300m
+
+
+Bluetooth
+
+
+
+Protocolo
+Cumple con el estándar bluetooth v4.2BR / EDR y BLE
+
+
+Frecuencia de radio
+Con receptor NZIF de sensibilidad de -97dBm, emisor AFH de clase 1, clase 2 y clase 3
+
+
+Frecuencia de audio
+Frecuencia de audio CVSD y SBC
+
+
+Especificación de software
+
+
+
+Modo Wifi
+Estación / SoftAP / SoftAP + Station / P2P
+
+
+Mecanismo de seguridad
+WPA / WPA2 / WPA2-Enterprise / WPS
+
+
+Cifrado Tipo 
+AES / RSA / ECC / SHA
+
+
+Actualización de firmware
+Descarga UART / OTA (a través de la red / host para descargar y escribir firmware)
+
+
+Desarrollo de software
+Admite el desarrollo de servidores en la nube / SDK para el desarrollo de firmware del usuario
+
+
+Protocoloo de red
+IPv4, IPv6, SSL, TCP / UDP / HTTP / FTP / MQTT
+
+
+Configuración de usuario
+AT + conjunto de instrucciones, servidor en la nube, android / iSOapp
+
+
+SO
+FreeRTSO
+
+El paquete incluye:1 x T-Internet-POE 1 x pin de doble fila 1 x Tarjeta de expansión de descarga (opcional)Nota: La interfaz USB solo tiene una función de carga, el producto necesita un programa de descarga. 
+
+
+
+

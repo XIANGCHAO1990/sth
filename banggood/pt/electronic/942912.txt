@@ -1,0 +1,194 @@
+https://pt.banggood.com/10Pcs-Geekcreit-Ultrasonic-Module-HC-SR04-Distance-Measuring-Ranging-Transducer-Sensor-DC5V-2-450cm-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-942912.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+10Pcs Geekcreit® Ultrasonic Module HC-SR04 Distance Measuring Ranging Transducer Sensor DC5V 2-450cm Geekcreit for Arduino - products that work with official Arduino boards
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:
+
+Tensão de trabalho: 5V (DC)
+Corrente estática: menos de 2mA.
+Sinal de saída: Sinal de frequência elétrica, nível alto 5V, nível baixo 0V.
+Ângulo do sensor: não mais do que 15 graus.
+Distância de detecção: 2cm-450cm.
+Alta precisão: até 0,3 cm
+Sinal de acionamento de entrada: impulso TTL de 10us
+Sinal Ech0: sinal de saída TTL PWL
+Modo de conexão:
+VCC
+trig (T)
+ech0 (R)
+GND
+
+Método de uso:
+
+Módulo de alimentação com 5 V, a saída será 5 V enquanto obstáculo na faixa, ou 0 V se não. O pino de saída deste módulo é usado como uma saída de comutação quando o módulo anti-roubo, e sem os pés quando está variando os módulos.
+Nota: o módulo deve ser inserido no circuito antes de ser alimentado, o que evita a produção de alto nível de operação incorreta; caso contrário, energize novamente.
+
+Princípio de funcionamento do módulo:
+
+1. Adote o gatilho IO fornecendo pelo menos 10us de sinal de alto nível.
+2. O módulo envia automaticamente oito ondas quadradas de 40 kHz e detecta automaticamente se recebe o sinal de pulso de retorno.
+3. Se houver sinais retornando, através da saída de alto nível e o tempo de continuação de alto nível é o tempo desde a transmissão do ultrassom até a recepção. Distância de teste = (tempo de nível alto * som (340M / S) / 2.
+
+Nota:
+
+Este módulo não é adequado para conexão com energia elétrica, se você precisar conectar este módulo com energia eletrônica, deixe o terminal GND deste módulo ser conectado primeiro, caso contrário, isso afetará o funcionamento normal do módulo
+
+Incluído no Pacote:
+
+10 x HC-SR04 Transdutor de medição de distância de módulo ultrassônico
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

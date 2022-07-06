@@ -1,0 +1,307 @@
+1297185
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/8E/04/4251dc1b-2baa-4f7d-ab00-f26a62b3bc41.jpg
+RIDEN® UM34/UM34C APP USB 3.0 için Type-C DC Voltmetre Ampermetre Gerilim Akım Ölçer Batarya Şarj Ölçüm Kablosu Direnç Test Cihazı
+https://tr.banggood.com/RIDEN-UM34-or-UM34C-For-APP-USB-3_0-Type-C-DC-Voltmeter-Ammeter-Voltage-Current-Meter-Battery-Charge-Measure-Cable-Resistance-Tester-p-1297185.html?cur_warehouse=CN&ID=6299185&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teknik parametre:
+
+	Ürün Modeli:UM34(Tip A) / UM34C(Tip B) Ekran ekran:1.44 İnç renkli LCD ekran
+	Voltaj ölçüm aralığı:4-24.000V Voltaj ölçüm çözünürlüğü:0.01V
+	Akım ölçüm aralığı:0-5.0000A Akım ölçüm çözünürlüğü:0.001A
+	Kapasite birikim aralığı:0-99999mAh Voltaj ölçüm doğruluğu:±(0.2%+1digit)
+	Enerji birikimi aralığı:0-999,99Wh Akım ölçüm doğruluğu:±(%0,8+3 basamak)
+	Yük empedansı aralığı:0.8Ω-9999.9Ω Zaman ölçüm aralığı:0-99h59min59s
+	Sıcaklık aralığı:-10℃-100℃/0℉-200℉ Sıcaklık ölçüm hatası:±3℃/±6℉
+	Ekran parlaklık ayarı: 0-5 seviye Otomatik ekran kapanma süresi: 0-9 dakika
+	Gerilim grafik aralığı:0-24.00V Akım grafik aralığı:-4.000A
+	Yenileme hızı:2Hz Hızlı şarj tanıma modu:QC2.0, QC3.0, APPLE 2.4A/2.1A/1A/0.5A, Android DCP
+	Ürün boyutu:71.2mmx30.5mmx12.4mm(UM34C)/71,2mmx30.5mmx11,3mm(UM34)
+	Ürün ağırlığı:22.87g(UM34C)/18.39g (UM34) (Ambalaj yok); 51,43g(UM34C)/46,95g (UM34)(ambalajlı)
+
+Not: 
+
+1. UM34 iletişim sürümü değildir, UM34C bluetooth bağlantısı ile iletişim sürümüdür. Ve UM34C'de PC yazılımı yoktur, sadece android için APP'ye sahiptir.
+	2. Telefon Android (Android 5.0 ve üzeri, 18 çeşit dil desteği, çince, ingilizce ve rusya ....)
+	3, Kullanım kılavuzu ve Android APP indirme bağlantısı: http://www.mediafire.com/folder/5c877rc21tp1p/UM34
+4, Android APP için:
+	C: APP yalnızca android 5.0 ve üstünü destekler.
+	B: APP'nin arka planda yapmasına izin verin, temizlenmeyin.
+	C: APP'nin kendi kendine başlamasına izin verin.
+	D: Ekran kilitlendikten sonra APP'nin kalmasına izin verin, temizlenmeyin.
+
+
+
+
+ürün modeli
+
+UM24(C)
+
+UM34(C)
+
+UM25(C)
+
+
+
+USB girişi
+
+USB 2.0
+
+
+USB 3.0 bağlantı noktası
+OPPO telefon VOOC desteği,
+
+OnePlus DASH'i
+
+
+
+USB 2.0
+
+Huawei hızlı şarj desteği
+
+
+
+
+Genişletme bağlantı noktası
+
+Mikro USB
+
+Mikro USB/Type-C
+
+Mikro USB/Type-C
+
+
+
+Özel fonksiyon
+
+
+
+
+Ekranı kapatmak için bir düğme, voltaj akımı 2'si 1 arada grafik,
+
+onları renk ayarlamak için ücretsiz
+
+
+
+
+Gerilim ölçüm aralığı
+
+4.5-24V
+
+4-24V
+
+
+
+Mevcut ölçüm aralığı
+
+0-3.000A
+
+0-4.000A
+
+0-5.0000A
+
+
+
+Gerilim ölçüm çözünürlüğü
+
+0.01V
+
+0.001V
+
+
+
+Mevcut ölçüm çözünürlüğü
+
+0.001A
+
+0.0001A
+
+
+
+Kapasite birikim aralığı
+
+0-99999mAh
+
+
+
+Enerji birikim aralığı
+
+0-99999mWh
+
+0-99999mWh-999,99Wh
+
+0-99999mWh
+
+
+
+Ürün Modu
+
+QC2.0, QC3.0
+
+QC2.0, QC3.0, ELMA 2.4A/ 2.1A /1A/ 0.5A
+				Andriod DCP, SAMSNG
+
+
+
+
+
+Paket içeriği:
+
+1 x USB 3.0 Type-C DC Voltmetre Ampermetre Gerilim Akım Ölçer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

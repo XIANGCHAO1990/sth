@@ -1,0 +1,143 @@
+https://pt.banggood.com/Hiseeu-4-PCS-8CH-POE-H_265-NVR-Camera-System-48V-CCTV-System-1080P-Indoor-Outdoor-Camera-Waterproof-2MP-Security-Video-Surveillance-Set-p-1834831.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Hiseeu 4 PCS 8CH POE H.265 NVR Camera System 48V CCTV System 1080P Indoor Outdoor Camera Waterproof 2MP Security Video Surveillance Set
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EmRecursos:Em- Câmera de gravação de áudio 4MP POE: BUm microfone integrado integrado permite que você ouça o som ao redor da câmera, registre o que as pessoas dizem e torne-o autêntico com a gravação de som e vídeo.- Simplifique a instalação do POE, fácil de configurar: Poder over Ethernet significa que as câmeras IP se conectam ao NVR com um único cabo que transmite dados e energia, sem necessidade de conectar o cabo de alimentação, menor risco de vazamento elétrico e fácil de configurar. Isso literalmente simplificou a instalação e reduziu os custos.- Codificação de vídeo de alta eficiência H.265: H.265 (HEVC) duplica a eficiência de codificação em comparação com seu predecessor H.264. Isso significa que o vídeo H.265 economiza cerca de 50% da taxa de bits com a mesma qualidade de codificação.- Um controle remoto externo está disponível: Ao conectar o Sistema de Câmera CCTV POE Hiseeu 1080P ao monitor, um controle remoto externo pode substituir o mouse para operar.- Fácil acesso através do aplicativo gratuito para dispositivos móveis e software para PC: Quando você sair de casa, não precisa se preocupar com a segurança de sua propriedade. Ao usar o sistema cctv sem fio Hiseeu, você pode visualizar vídeo ao vivo remotamente a qualquer hora e em qualquer lugar com wi-fi / 4G no smartphone / iPad / PC. Com o aplicativo gratuito "XMEye", os usuários podem acessar as imagens por meio de seu dispositivo inteligente (IOS / Android) ou software de computador (Windows): CMS. Assista transmissões ao vivo e reproduções instantaneamente, ajudando você a se manter informado quando e onde quiser. Você também pode ver remotamente pelo IE Broswer.- Caixa de metal impermeável, amplamente utilizada para interior e exterior: Temperatura de trabalho da câmera: -25°C ~ 50°C (-13° ~ 122°)- Detecções de movimento e alerta de e-mail: Ao customizar a área de detecção de movimento, um e-mail de alerta instantâneo será enviado a você assim que os cativites anormais forem detectados pela câmera. Você pode obter informações na área de vídeo em qualquer lugar e a qualquer hora. Nunca é tarde para tomar medidas defensivas com antecedência.EmEspecificação NVR:EmEspecificação NVR8CH POE NVRSistemaProcessador principalMicroprocessador embutido de nível técnicoSistema operacionalSistema operacional LINUX embutidoRecurso do sistemaGravação em tempo real multicanal de forma síncrona, reprodução em tempo real multicanal, operação de rede multiusuário multicanal, backup USB.InterfaceInterface de operaçãoInterface GUI de cores reais de 16 bits suporta operação de mouseVisualizar 04/01/08/16VídeoPadrão de vídeoAMIGO; NTSCCodificação de imagemH.265Monitorar a qualidadeVGA, HDMI: Alta definiçãoEntrada de vídeoCâmera IP 8 * 3MP / 8 * 1080P / 16 * 720PDetecções de movimentoSuporte (depende da câmera)ÁudioCompressão de áudioG.711AInterfonesimGravar e reproduzirModo de gravaçãomanual> alarme> detecções de movimento> tempoReprodução local4 * 3 MP / 8 * 1080P / 16ch * 720PPesquisa de vídeoHora, data, evento, pesquisa de canaisArmazenamento e backupVídeo ArmazenamentoDisco rígido local, redeModo de backupBackup de rede, HDD portátil USB, impressões USB, impressões SATAInterfaceEntrada de vídeo (BNC)N / DSaida de video1 canal VGA, 1 canal HDMI saída HDSaída de loopN / DE/S de áudioNãoE/S de alarmeNÃOPorta de rede1 * porta Ethernet auto-adaptável RJ45 1000M; 8 * portas POE suportam fonte de alimentação poe  porta USB2 * Porta USB 2.0: uma é para mouse, a outra é para disco flash USB para backupPorta HDD1 portas SATA de 3,5 '', suporte máximo de 6 TB (HDD é opcional)De outrosPoder48V/3AONVIFApoio, suporteTemperatura0 - +50 grausUmidade10%-90%DimensãoL300mm* W235mm*H45mmPesoCerca de 2KGEspecificação da câmera:Sensor1 / 2.8 "2.0MP 1080P CMOS de varredura progressiva MínimoCor: 0.1Lux @(F1.2,AGC ON),0 LUX com RIIluminaçãoB/W 0,01 Lux @ (F1.2, AGC ON), 0 LUX com RIObturador Eletrônico1/30s-1/100000sLente3.6mmAuto IrissNÃODia noiteRI-CUTRI 3pcs RI Led Array, RI distância: cerca de 15mTaxas de bits64Kpbs～12MpbsControle de taxa de bitsVBR/CBRResolução máxima1920*1080ContextoBrilho, contraste, saturação, nitidez, equilíbrio de brancoInterface de redeRJ45PoderDC12V, POEÀ prova d'águaIP66EmEmIncluído no Pacote:Em4 x câmeras POE H.265 2MP à prova d'água1 x 8CH POE NVR1 x adaptador de energia 48V/3A para POE NVR1 x ratoCabos Ethernet 4 x 20 metros1 x cabo HDMI (presente grátis)2 x adesivo de advertência (presente grátis)Alguns parafusos 
+
+
+
+

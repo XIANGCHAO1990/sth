@@ -1,0 +1,145 @@
+1934895
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/8C/91/5e466eac-aad9-4f5e-9c34-2f4459237745.jpg
+DL24M-H 2-200V 600W 3mA-40A Indicador de voltaje de carga electrónico Banco de energía Batería Probador 18650 Capacidad del paquete Monitor Verificador herramienta
+https://es.banggood.com/DL24M-H-2-200V-600W-3mA-40A-Electronic-Load-Voltage-Indicator-Power-Bank-Battery-Tester-18650-Pack-Capacity-Monitor-Checker-Tool-p-1934895.html?cur_warehouse=CN&ID=6292509&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introducción a la operación clave de funciones de uso frecuente:1) Presione brevemente el botón "ON/OFF" para iniciar y detener, presione brevemente la esquina superior izquierda del botón "M" para mover el cursor y luego ajuste el valor correspondiente con el botón "+/-"2) Mantenga presionado el botón "+/-" al mismo tiempo para borrar todos los datos acumulados, como la capacidad actual, el tiempo de la batería, etc. (Mantenga presionado el botón "ON/OFF" para ingresar al fondo, también se puede borrar en el menú de fondo)3) Mantenga presionado el botón "M" y el modo de función comenzará a parpadear, luego presione brevemente el botón "+/-" para seleccionar la función (CC/CV/CR/CP/BRT/PT)4) En el modo APAGADO, mantenga presionado el botón "ENCENDIDO/APAGADO" para ingresar a la interfaz de fondo, luego presione brevemente el botón "M" para cambiar la columna de configuración y el botón "+/-" para ajustar el número5) Presione brevemente el botón "+/-" en la columna de precisión de corriente constante de la interfaz de configuración de fondo para cambiar la precisión de corriente constante (10mA o 1mA)6) Cuando el sistema no esté suministrando energía, mantenga presionado el botón "M" y no lo suelte. Luego encienda de nuevo. Ingrese la opción de potencia de empalme y salte al valor de potencia real antes de soltar7) Mantenga presionado el botón "M", el modo de función comienza a parpadear, presione brevemente el botón "M" nuevamente para ingresar el valor de ajuste de configuración de la descarga de tiempo limitado y el valor de la columna de voltaje de corte.Botones principales del panel y descripción:Ⅰ: indicador Bluetooth (intermitente esperando la conexión Bluetooth, la luz larga indica una conexión exitosa)Ⅱ: Botón de aumento de válvula "+" (presione brevemente el botón para aumentar el número, mantenga presionado el botón para aumentar continuamente, cuando el modo esté parpadeando, presione brevemente el botón para retroceder)Ⅲ: Botón de configuración "M" (presione prolongadamente la tecla "M" para iniciar el modo de función, presione la tecla "+" o "-" para cambiar el modo CC/CV/CP/CR/BRT/PT, presione prolongadamente la tecla "M" para modo de función de inicio, presione brevemente "M" nuevamente Tecla para cambiar entre descarga de tiempo y voltaje de corte. Presione la tecla "+" o "-" para establecer el valor, el valor predeterminado es APAGADO)Ⅳ: Botón de reducción de valor "-" (presione brevemente el botón para disminuir el número y mantenga presionado el botón para disminuir continuamente. Cuando el modo esté parpadeando, presione brevemente para avanzar)Ⅴ: Botón de encendido/apagado "ON/OFF" (presione brevemente el botón, está encendido o apagadoMantenga presionado el botón para ingresar a la configuración de fondo del producto y use el botón "M" y el botón "+" o "-" para configurar los parámetros)Cuatro modos de operación de operación:1. Operación de corriente constante (CC)2. Operación de resistencia constante (CR)3. Operación de potencia constante (CP)4. Operación de voltaje constante (CV)Parámetros y descripción del anfitrión:1. Pruebe varias entradas de alimentación de CC2. Entradas de puerto de detección MiNi USB3. Entradas de puerto de detección micro USB4. Entradas de puerto de detección USB tipo c5. Conjunto DIY Diferentes posiciones de puente de reserva de energía (150W/300W/450W/600W)6. Sonda de temperatura NTC externa7. Asiento de aguja recto XH2.54-2P (ignore, no hay coincidencia)8. Asiento de aguja recto XH2.54-2P (ignore, no hay coincidencia)9. Cable 8p conectado al panel10. Fuente de alimentación del sistema DC5.5 (debe suministrar DC12V 1A)11. Aumenta la potencia y amplía la interfaz.12. Resistencia X4pcsPaquete incluido: (opcional)150W Tipo #1:1 x DL24M -150W Color Pantalla Bluetooth Curva de control digital Versión Prueba de carga1 fuente de alimentación DC12V 1A1 x 5 juego de tornillos macho y hembra1 sonda de temperatura.1 x línea de pinza de cocodrilo roja y negra de una sola línea1 x US al adaptador de la UE1 placa de prueba adaptadora.300W Tipo #2:1 x DL24M-150W Host Color Pantalla Bluetooth Curva de control digital Versión Prueba de carga1 fuente de alimentación DC12V 1A2 x 5 juego de tornillos macho y hembra1 sonda de temperatura.1 x línea de pinza de cocodrilo roja y negra de una sola línea1 x US al adaptador de la UE1 x accesorios de ventilador de 150W1 placa de prueba adaptadora.450W Tipo #3:1 x DL24M-150W Host Color Pantalla Bluetooth Curva de control digital Versión Prueba de carga1 fuente de alimentación DC12V 1A3 x 5 juego de tornillos macho y hembra1 sonda de temperatura.1 x línea de pinza de cocodrilo roja y negra de una sola línea1 x US al adaptador de la UE2 accesorios de ventilador de 150W1 placa de prueba adaptadora.600W Tipo #4:1 x DL24M-150W Host Color Pantalla Bluetooth Curva de control digital Versión Prueba de carga1 fuente de alimentación DC12V 1A4 x 5 juego de tornillos macho y hembra1 sonda de temperatura.1 x línea de pinza de cocodrilo roja y negra de una sola línea1 x US al adaptador de la UE3 accesorios de ventilador de 150W1 placa de prueba adaptadora.
+
+
+
+

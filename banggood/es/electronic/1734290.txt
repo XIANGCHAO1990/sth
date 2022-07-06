@@ -1,0 +1,144 @@
+https://es.banggood.com/SDR-Transceiver-and-Receiver-Switch-Antenna-Sharer-TR-Switch-Box-with-Gas-Discharge-Protection-160MHz-p-1734290.html?cur_warehouse=USA&rmmds=CategoryElectronicsPop
+Transceptor SDR y conmutador Receptor Antena Conmutador Sharer TR Caja con protección contra descarga de gas 160MHz
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificación:Impedancia: 50ΩRango de frecuencia: DC -160MHzPotencia máxima de TX: 100 WUmbral de detección de RF: <10 mW (1.8MHz-30MHz probado)Tiempo de encendido: <20 ms / tiempo de liberación: <190 msPérdida de inserción: <0.3dB @ 144MHz (0.2dB típico)Aislamiento RX:> 38dB @ 144MHz (40dB típico)Protección contra descarga de gasFuente de alimentación: 13,8 V CC 200 mAPeso: 430gTamaño: 126 * 119 * 52 MMCómo usar una antena al mismo tiempo para la radio y SDR:1. Este compartidor es una antena compartida entre la radio y el SDR. Después de recibir los productos, abra la caja, retire el "puente" en el medio y cámbielo a un estado de control automático, es decir: cuando la radio está transmitiendo, el canal de recepción SDR se cierra automáticamente y la radio cuando no está transmitiendo , la radio recibe la señal junto con el SDR.2. No es necesario cablear las tomas en la parte frontal del panel y no es necesario conectar la línea PTT distribuida.3. Los conectores traseros corresponden a la interfaz de fuente de alimentación (VDC), la interfaz de radio (RADIO), la interfaz SDR y la interfaz de antena (ANTENA), respectivamente, y se conectan al alimentador de acuerdo con cada interfaz.4. Se recomienda utilizar el alimentador con un buen rendimiento de protección y cubrirlo con un anillo magnético.5. Se recomienda que el compartidor y la carcasa de la radio estén conectados a tierra, ya que la radio puede interferir con el SDR al transmitir.6. Después de quitar el puente en la caja, es normal que la luz TRX en el panel esté siempre en rojo; cuando la radio no está transmitiendo, el SDR en el panel es verde y está en estado de funcionamiento normal; cuando la radio está transmitiendo, la luz SDR en el panel estará apagada y el SSB seguirá la idea de comunicación. Es normal que el sonido cambie, que la luz indicadora parpadee y que el relé emita un sonido.El paquete incluye:1 x Host1 cable de alimentación.1 x 3.60cm SMA a SMA línea de conexión1 x línea de control PTT
+
+
+
+

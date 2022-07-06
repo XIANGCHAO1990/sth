@@ -1,0 +1,145 @@
+1777980
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/49/72/033e19b0-03a7-4ecb-ad50-cc4386a25db9.jpeg
+ZK-1002M 100W + 100W Bluetooth 5.0 Placa amplificadora de áudio de potência Estéreo AMP Amplificador Home Theater AUX USB 100W * 2
+https://pt.banggood.com/ZK-1002M-100W+100W-Bluetooth-5_0-Power-Audio-Amplifier-board-Stereo-AMP-Amplificador-Home-Theater-AUX-USB-100W+2-p-1777980.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Característica:Nome do ProdutoMódulo amplificador de potência MINI 2 * 100W Bluetooth5.0Modelo de produtoZK-1002MModelo de chipChip amplificador domésticoEntrada de áudioBluetooth + AUX + disco flash USB + USB do computador (plug and play)Fonte de energiaDC5-24V (alta tensão recomendada para alta potência)Alto-falante adaptador20-200W; 4-8ΩCanaisestéreo esquerdo e direito (estéreo)Versão bluetooth5,0 (> 15 metros sem oclusão)Nome bluetoothWuzhi AudioMecanismo de proteçãoProteção contra superaquecimento, sobrecorrente e curto-circuitoTamanho do produto60x60x29mmPeso do Produtocerca de 104g (embalagem)Dica: Para ter potência de saída suficiente se a entrada de áudio for suficiente e a tensão / corrente de alimentação for suficiente. A tensão da fonte de alimentação é mais alta e a potência relativa será maior. Os alto-falantes com impedâncias diferentes terão potência de saída diferente. No caso de tensão e corrente suficientes, quanto maiores os ohms da buzina, menor é a potência sonora relativa. Por favor preste atenção!Tensão de alimentação:12V ----- 8Ω / 20W + 20W, 4Ω / 40W + 40W15V ----- 8Ω / 35W + 35W, 4Ω / 60W + 60W19V ----- 8Ω / 55W + 55W, 4Ω / 80W + 80W24V ----- 8Ω / 70W + 70W, 4Ω / 100W + 100WO pacote inclui:1 x MINI 2 * 100W Bluetooth5.0 kit de módulo amplificador de potênciaPergunta e resposta:1. Como escolher uma fonte de alimentação?A fonte de alimentação do módulo é crítica. A fonte de alimentação requer pequena ondulação de saída e baixa resistência interna.Quanto mais alta a tensão, mais alta é a corrente e melhor é a potência de saída. Se você tiver apenas 12V 1A, pode trazer um alto-falante de 3-4 polegadas. Se você tem 19V 5A ou superior, não há problema com 8-10 polegadas e a fonte de alimentação deve ser altamente valorizada. Se a voltagem estiver muito baixa, o som ficará distorcido depois que o som for amplificado. Se a corrente for muito baixa, o alto-falante diminuirá a tensão, funcionará de maneira anormal ou a qualidade do som será deteriorada.Recomenda-se usar fonte de alimentação 18V19V24V com corrente acima de 3A. Se você tiver apenas uma fonte de alimentação 9V12V ou 1A 2A, ela também pode ser usada, mas a potência é pequena. Preste atenção ao volume máximo ao usá-lo, pois pode afetar a qualidade do som.2. Como escolher um alto-falante?A buzina comumente usada é geralmente de 4 ohms ou 8 ohms. Se a potência do seu alto-falante for baixa, ele pode ser usado entre 10W-30W.A tensão da fonte de alimentação é pequena para evitar que o amplificador queime após a queima. Por exemplo, selecione uma fonte de alimentação abaixo de 15V. Se você for um alto-falante de 50W-100w, não se preocupe com o desgaste do alto-falante. Você pode escolher a fonte de alimentação 12-24V. Quanto mais alta a tensão escolhida, mais alto será o som ou potência de saída. A potência do alto-falante não é recomendada para exceder 100W, caso contrário, a qualidade do som será afetada.3. Como escolher o modo de entrada de áudio Bluetooth ou AUX?Este módulo amplificador de áudio segue o princípio de conexão de hardware primeiro. Uma conexão USB bem-sucedida está no modo USB e a inserção AUX está no modo AUX. Se o USB não estiver conectado e o AUX não estiver conectado, ele está no modo bluetooth, que oferece suporte para reconexão automática. Alterne o modo com o prompt de modo. Ao escolher o modo de entrada de áudio USB, é importante observar que o USB pode se conectar diretamente ao computador e outros dispositivos com saída de áudio USB sem instalar um driver. A entrada USB é uma entrada sem perdas, boa qualidade de som, sem interferência, sem ruído.4. Quando o som fica mais alto, o fenômeno do som turvo aparece.O som está distorcido. Altere a fonte de alimentação do adaptador com uma classificação de voltagem mais alta.5. Depois que o som fica mais alto, ele pára.A alimentação de entrada é insuficiente e a própria fonte de alimentação é desligada intermitentemente. Substitua a fonte de alimentação por uma maior. Ou a potência de saída é muito grande, a placa do amplificador de potência está seriamente aquecida e ocorre proteção térmica, reduzindo o uso de energia ou melhorando a dissipação de calor.
+
+
+
+

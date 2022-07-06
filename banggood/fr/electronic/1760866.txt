@@ -1,0 +1,350 @@
+https://fr.banggood.com/17HS3401-34mm-Nema-17-Stepper-Motor-42-Motor-42BYGH-1_3A-28N_cm-4-lead-for-3D-Printer-CNC-Laser-Engraving-p-1760866.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+17HS3401 34mm Nema 17 moteur pas à pas 42 moteur 42BYGH 1.3A 28N.cm 4 dérivations pour imprimante 3D gravure Laser CNC
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spécification:
+
+
+
+
+					Modèle
+
+					17HS3401
+
+
+
+					Phase
+
+					2
+
+
+
+					Angle de pas
+
+					1,8 °
+
+
+
+					Taille du moteur
+
+					42 x 34mm
+
+
+
+					Arbre
+
+					Arbre "D" 21 x Ф5mm
+
+
+
+					Chemin de sortie
+
+					Ligne de prise "4"
+
+
+
+					Fils de moteur
+
+					Ligne Dupont (1M)
+
+
+
+					Lecteur d'adaptateur
+
+					Entraînement pas à pas biphasé
+
+
+
+					Portée
+
+					Imprimantes 3D, équipement de surveillance, machines médicales, machines textiles,
+					Machines d'emballage, éclairage de scène, gravure laser, automatisation
+					Équipement, équipement non standard, machine de placement ect.
+
+
+
+
+
+Spécifications électriques:
+
+
+
+
+						Modèle No.
+
+						Étape
+						Angle
+
+						Moteur
+						Longueur
+
+						Noté 
+						Courant
+
+						La résistance
+						/Phase
+
+						Inductance
+						/Phase
+
+						En portant
+						Couple
+
+						Détente
+						Couple
+
+						Inertie de
+						Rotor
+
+						  Conduire 
+
+
+
+						(°)
+
+						(L) millimètre
+
+						(UNE)
+
+						(Ω)
+
+						(mH)
+
+						(N.cm) 
+
+						(N.cm) 
+
+						(G. cm²)
+
+						(Non.)
+
+
+
+						17HS3401
+
+						1.8
+
+						34
+
+						1.3
+
+						2.4
+
+						2.8
+
+						28
+
+						1.6
+
+						34
+
+						4
+
+
+
+
+
+Spécifications générales:
+
+
+
+
+							Pas d'angle de précision
+
+							± 5% (pas complet, sans frais)
+
+
+
+							Précision de la résistance
+
+							± 10%
+
+
+
+							Inductance de précision
+
+							± 20%
+
+
+
+							Hausse de température
+
+							80deg Max (courant nominal, 2 phase sur)
+
+
+
+							Température ambiante
+
+							(- 20 °) - (+ 50 °)
+
+
+
+							La resistance d'isolement
+
+							100MΩ min, 500VDC
+
+
+
+							Force d'insultion
+
+							500VAC pendant une minute
+
+
+
+
+
+
+
+
+Traits:
+
+			1. Faible bruit.
+
+			2. Faible chaleur.
+
+			3. Fonctionnement en douceur.
+
+			4. Bonnes performances d'accélération.
+
+
+
+Emballage inclus:
+	1 X 17HS3401 moteur pas à pas
+
+
+
+

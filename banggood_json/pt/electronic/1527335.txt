@@ -1,0 +1,405 @@
+1527335
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/B8/7D/b4995611-6a41-4a02-aaac-c0391650d356.jpg
+5 pcs M18 Bluetooth 4.2 Módulo Receptor de Áudio Lossless Car Speaker Amplificador de Fone De Ouvido Placa Reequipamento Sem Fio
+https://pt.banggood.com/5pcs-M18-Bluetooth-4_2-Audio-Receiver-Module-Lossless-Car-Speaker-Headphone-Amplifier-Board-Wireless-Refit-p-1527335.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manual do Usuário: Clique aqui para abrir
+
+	Para diferentes necessidades de clientes, oferecemos 3 versões para você escolher:
+
+
+
+
+
+
+
+
+
+Função / Modelo
+
+M18 (este item)
+
+M28 (ID do produto: 1486747)
+
+M38 (ID do produto: 1486746)
+
+
+
+Micro fonte de alimentação
+
+×
+
+√
+
+√
+
+
+
+Jack de fone de ouvido de áudio
+
+×
+
+√
+
+×
+
+
+
+Amplificador embutido
+
+×
+
+×
+
+√ (5W + 5W)
+
+
+
+Alimentado por bateria de lítio
+
+√
+
+√
+
+√
+
+
+
+Suporte a placa de som USB, unidade livre
+
+×
+
+×
+
+√
+
+
+
+Memória / ajuste de volume
+
+√
+
+×
+
+×
+
+
+
+Mute interface mudo
+
+√
+
+×
+
+×
+
+
+
+Extensão do botão
+
+√
+
+×
+
+×
+
+
+
+Versão Bluetooth
+
+bluetooch V4.2
+
+
+
+Suporte Bluetooth protocolo
+
+HFPV1.7, A2DPV1.2, AVRCPV1.5, AVCTPV1.2, AVDTPV1.2
+
+
+
+Suporte ao formato
+
+Suporte a decodificação sem perdas de WAV / WMA / FLAC / APE / MP3, saída estéreo de dois canais
+
+
+
+Tensão operacional
+
+5V/3.7V-4.2V
+
+
+
+Status de transmissão não conectado
+
+5.5MA
+
+
+
+Status de trabalho da conexão
+
+20MA
+
+
+
+Sono profundo
+
+3UA
+
+
+
+Distância de transmissão
+
+20 metros (ambiente de interferência vazio ou baixo)
+
+
+
+Temperatura de operação
+
+ -40 ° C a + 85 ° C
+
+
+
+Sensibilidade
+
+ -87dbm
+
+
+
+
+Introdução:
+
+
+
+Este produto MH-M18 é uma solução de design de baixa potência Bluetooth, suportando a mais recente transmissão de Bluetooth 4.2, reprodução estéreo sem perdas de dois canais, conexão Bluetooth depois que o módulo é conectado a Bluetooth, muito conveniente. Em um ambiente aberto, a distância da conexão Bluetooth pode ser de até 20 metros.
+
+Amplamente utilizado em uma variedade de Bluetooth recepção de áudio, uma variedade de modificações de áudio DIY.
+
+
+
+
+
+PIN
+
+Função
+
+Descrição
+
+
+
+1
+
+CHAVE
+
+Terminal de controle de botão (4 funções de botão, resistores adicionais, como diagrama de fiação)
+
+
+
+2
+
+MUDO
+
+Terminal de controle de mudo (saída de alto nível 3.3V quando emudecimento, baixo nível de saída durante a reprodução)
+
+
+
+3
+
+VCC
+
+Fonte de alimentação positiva 5V (fonte de alimentação de bateria de lítio 3.7V requer diodo de curto-circuito)
+
+
+
+4
+
+GND
+
+Potência negativa / terra do sinal de áudio
+
+
+
+5
+
+L
+
+Saída do canal esquerdo
+
+
+
+6
+
+R
+
+Saída do canal direito
+
+
+
+
+
+
+Descrição da função:
+
+
+
+Versão Bluetooth V4.2, suporta a tecnologia de conexão automática Bluetooth, suporta decodificação sem perdas WAV / WMA / FLAC / APE / MP3, saída de canal duplo estéreo.
+
+Depois que o módulo é ligado, o telefone celular procura o nome Bluetooth MH-M18 / MH-M28 / MH-M38 e pode reproduzir música depois de conectar o Bluetooth.
+
+
+
+O pacote inclui:
+
+	5 x M18 módulo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,208 @@
+1206782
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/DE/26/ebb27e89-c2b9-4de0-8488-37da3f1b2651.JPG
+2.8 Inch ILI9341 240x320 SPI TFT LCD Display Touch Panel SPI Serial Port Module
+https://www.banggood.com/2_8-Inch-ILI9341-240x320-SPI-TFT-LCD-Display-Touch-Panel-SPI-Serial-Port-Module-p-1206782.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File download: http://files.banggood.com/2017/12/2.8-spi-9341.zip
+
+Specifications:
+
+	 
+
+Type: Touch Panel
+
+Screen: 2.8" SPI Serial
+
+Display area: 46(W) X 65(H)mm
+
+Size: 86 x 50 mm
+
+Driver element: a-Si TFT active matrix
+
+Pixel arrangement: RGB vertical stripe
+
+Driver IC: ILI9341
+
+Backlight: White LED
+
+Viewing direction: 6 o’clock
+
+Color depth: 262K/65K
+
+Resolution (dots): 240RGB*320Dots
+
+5V compatible, use with 3.3V or 5V logic
+
+Need at least 4 IOs from your MCU
+
+With PCB plate (including power supply IC, SD), compatible with 5110 interface
+
+	 
+
+Package included:
+
+	 
+
+1 x 2.8" TFT LCD Display Touch Panel Module
+	1 x Touch Pen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	 
+
+	 
+
+
+,,,,,,
+
+
+

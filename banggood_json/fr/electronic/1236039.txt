@@ -1,0 +1,435 @@
+1236039
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/95/A5/745de595-4c6c-4b5a-b626-e51d0ca7a0f1.jpg
+Arc Briquet d'Allumage du Feu DC3-5V 3A Kit d'Allumage Electronique à Haute Pression Bricolage
+https://fr.banggood.com/EQKIT-Arc-Ignition-Lighter-DC3-5V-3A-DIY-High-Pressure-Electronic-Lighter-Module-Kit-p-1236039.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comment c'est léger:
+
+
+
+
+
+Caractéristique:
+
+
+
+
+Nom: HV-1 allumeur haute-pression (kit de bricolage, vous devez l'assembler)
+
+
+Tension d'entrée: DC3-5V
+
+
+Courant d'entrée: 3A
+
+
+Courant de fonctionnement: pas moins de 2.5A
+
+
+Mode de fonctionnement: boost d'oscillation auto-excité
+
+
+Fréquence de travail: environ 20 KHz
+
+
+Temps de travail continu: 10 secondes
+
+
+Longueur de l'arc: environ 5 mm
+
+
+Taille: 71 x 18 x 12 mm (L x W x H)
+
+
+Interrupteur d'allumage: oui
+
+
+Poids: 15 g
+
+Liste:
+
+
+
+
+
+NON.
+
+
+Nom du Composant
+
+
+Marqueur PCB
+
+
+Paramètre
+
+
+QTÉ
+
+
+
+
+					1
+				
+
+					Résistances à film de carbone
+				
+
+					R1
+				
+
+					33R/1W
+				
+
+					1
+				
+
+
+
+					2
+				
+
+					Condensateur électrolytique
+				
+
+					C1
+				
+
+					470UF
+				
+
+					1
+				
+
+
+
+					3
+				
+
+					Diode
+				
+
+					D1
+				
+
+					1N5819
+				
+
+					1
+				
+
+
+
+					4
+				
+
+					Bouton
+				
+
+					SW1
+				
+
+					6*6*5mm
+				
+
+					1
+				
+
+
+
+					5
+				
+
+					Transistor
+				
+
+					Q1
+				
+
+					D880
+				
+
+					1
+				
+
+
+
+					6
+				
+
+					Terminal Batterie
+				
+
+					JK1
+				
+
+					KF301-2P
+				
+
+					1
+				
+
+
+
+					7
+				
+
+					Transformateur
+				
+
+					T1
+				
+
+					14*15*8
+				
+
+					1
+				
+
+
+
+					8
+				
+
+					PCB
+				
+
+					-
+				
+
+					18*71mm
+				
+
+					1
+				
+
+
+
+					9
+				
+
+					Vis
+				
+
+					Q1
+				
+
+					M3 * 5
+				
+
+					1
+				
+
+
+
+					10
+				
+
+					Noyau
+
+
+					Q1
+				
+
+					M3
+				
+
+					1
+				
+
+
+
+					11
+				
+
+					Attacher
+				
+
+					T1
+				
+
+					3*100mm
+				
+
+					1
+				
+
+
+
+
+
+
+
+Emballage inclut:
+
+
+
+
+1 x Arc Kit d'Allumage du Feu 
+
+
+
+
+Après assemblage, pour référence seulement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

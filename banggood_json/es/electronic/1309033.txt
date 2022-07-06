@@ -1,0 +1,176 @@
+1309033
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/DC/36/8f82ca99-5261-41bf-bf73-17038f0eaef0.JPG
+Sensor Capacitivo de Humedad del Suelo No es Fácil de Corroer  Módulo de Alto Voltaje para Arduino
+https://es.banggood.com/Capacitive-Soil-Moisture-Sensor-Not-Easy-To-Corrode-Wide-Voltage-Monitor-Module-p-1309033.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:
+
+Este sensor capacitivo de humedad del suelo se distingue de la mayoría de los sensores resistivos en el mercado y utiliza detección capacitiva para detectar la humedad del suelo. Se evita el problema de que el sensor de resistencia se corroe fácilmente y su vida útil se amplía considerablemente.
+
+El sensor tiene un chip de regulador de voltaje incorporado que admite un entorno de trabajo de 3.3 voltios, lo que significa que funciona incluso en una placa de control Arduino de 3.3V. Una PC miniatura como la Raspberry Pi solo necesita un módulo externo de conversión ADC (señal analógica a digital) para funcionar.
+¡Con una pantalla externa y una placa base, puedes hablar con tus plantas! Vea si tiene sed y no necesita más agua para humedecer.
+Voltaje de funcionamiento: 3.3 VDC
+Voltaje de salida: 0 ~ 3.0 VDC
+Interfaz: PH2.54-3P
+Tamaño: 98 x 23 mm (LxW)
+
+Paquete incluido:
+
+1 x Sensor capacitivo de humedad del suelo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

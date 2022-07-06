@@ -1,0 +1,191 @@
+1005123
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/9A/2A/1561e54c-3b35-4e40-8de3-fc3efd632b87.jpeg
+LM2596 DC-DC Voltaj Regülatörü Ekran ile Ayarlanabilir Step Down Güç Kaynağı Modülü
+https://tr.banggood.com/LM2596-DC-DC-Voltage-Regulator-Adjustable-Step-Down-Power-Supply-Module-With-Display-p-1005123.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Şartname:
+
+
+
+1. Voltmetre ile voltaj ölçer hatası ± 0.1V, 0-40V aralığı gösterir. (Not: Voltmetrenin doğruluğunu sağlamak için lütfen giriş voltajının 4V ve üzeri olduğundan emin olun)
+	2. Ölçüm giriş veya çıkış voltajını değiştirmek için tuşa dokunun ve ölçülen voltajları gösteren bir ışık gösterisi vardır.
+	3. Hafıza fonksiyonunu kapatın, son kez ölçülen güç voltajı değerlerinden sonraki yolu gösterin
+	4. LED ekranını kapatmak için dokunmatik düğmeye 3 saniye basın, LED ekranını açmak için düğmeye tekrar dokunun
+	5. Bant terminalleri, demir olmaması da kullanımı kolay olabilir ve tutma teli bağlantı noktası
+	6. Giriş voltajı 4.0-40V (çıkış voltajına olan giriş voltajı 1.5v'den yüksek olmalıdır.)
+	7. Ayarlanabilir çıkış voltajı aralığı 1.25V-37V sürekli ayarlanabilir (giriş voltajı, çıkış voltajından yaklaşık 1.5V yüksek olmalıdır)
+	8. 3A'ya kadar maksimum çıkış akımı, 2A'nın normal ve kararlı çalışma akımı
+	9. ikinci nesil anahtarlama voltaj regülatörüne ait dahili salınım frekansı 150KHz, düşük güç tüketimi, yüksek verimlilik
+	10. Mevcut anahtarlama LED'leri kırmızıdır
+
+
+
+Paket içeriği:
+
+
+1 x DC-DC kademeli voltaj dönüştürücü
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

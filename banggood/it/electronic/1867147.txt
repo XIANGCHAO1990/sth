@@ -1,0 +1,143 @@
+https://it.banggood.com/LILYGO-TTGO-T-Call-V1_4-CH9102F-QFN24-ESP32-Wireless-Module-GPRS-Antenna-SIM-Card-SIM800L-Board-p-1867147.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+LILYGO® TTGO T-Call V1.4 CH9102F QFN24 ESP32 Modulo wireless GPRS Antenna Scheda SIM SIM800L Scheda
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristica:Specifiche hardware ChipsetESPRESSIF-ESP32 Microprocessore LX6 dual-core a 32 bit Xtensa® 240MHzVELOCEFlash QSPI 4MB / PSRAM 8MBSRAM 520 kB SRAMPulsanteRipristinaDa USB a TTLCH9102F Interfaccia modulareUART, SPI, SDIO, I2C, LED PWM, TV PWM, I2S, IRGPIO, sensore tattile condensatore, preamplificatore ADC, DACLNAOrologio di bordoOscillatore a cristallo 40MHz Tensione di lavoro2.7V-3.6VCorrente di lavoroCirca 70 mACorrente del sonnoCirca 300uAcarta SIMSupporta solo la scheda SIM NanoIntervallo di temperatura di lavoro-40℃ ~ +85℃Dimensioni e peso78,83 mm * 28,92 mm * 8,06 mm (11,77 g)Specifiche dell'alimentatore Alimentazione elettricaUSB 5V/1ACorrente di carica500mABatteriaBatteria al litio da 3,7 VJST Connettore2Pin 1.25mmUSBTipo-CWifi StandardFCC/CE-ROSSO/IC/TELEC/KCC/SRRC/NCCProtocollo802.11 b/g/n (802.11n, velocità fino a 150 Mbps) polimerizzazione A-MPDU e A-MSDU, supporto 0.4μS Intervallo di protezioneIntervallo di frequenze2,4 GHz~2,5 GHz (2400 M~2483,5 M)Potenza di trasmissione22dBmDistanza di comunicazione300mBluetooth Protocollosoddisfare gli standard Bluetooth v4.2BR/EDR e BLEFrequenza radiocon sensibilità di -97dBm Ricevitore NZIF Classe 1, Classe 2 e Classe 3 emettitore AFHFrequenza audioFrequenza audio CVSD e SBCSpecifiche del software Modalità WifiStazione/SoftAP/SoftAP+Stazione/P2PMeccanismo di sicurezzaWPA/WPA2/WPA2-Enterprise/WPSCrittografia Tipo AES/RSA/ECC/SHAAggiornamento del firmwareDownload UART/OTA (tramite rete/host per scaricare e scrivere firmware)Sviluppo softwareSupporta lo sviluppo di server cloud/SDK per lo sviluppo del firmware dell'utenteProtocollolo di reteIPv4, IPv6, SSL, TCP/UDP/HTTP/FTP/MQTTConfigurazione utenteAT + Set di istruzioni, server cloud, Android/iOSappOSFreeRTOSMore Information: https://github.com/Xinyuan-LilyGO/TTGO-T-CallLa confezione include:1 x T-Call1 x cavo di alimentazione2 x intestazione pin1 x GPRS antenna (9 cm)
+
+
+
+

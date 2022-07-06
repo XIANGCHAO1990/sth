@@ -1,0 +1,208 @@
+https://fr.banggood.com/Geekcreit-0_96-Inch-OLED-I2C-IIC-Communication-Display-128+64-LCD-Module-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1535708.html?cur_warehouse=CN&ID=229&rmmds=CategoryElectronicsPop
+Geekcreit® 0.96 pouces OLED I2C IIC Communication Display 128 * 64 LCD Module Geekcreit for Arduino - produits compatibles avec les cartes officielles Arduino
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>More details: Click here to open<<<
+
+	Définition de la broche:
+
+
+
+VCC: 3,3 à 5 V
+
+GND: Terre
+
+SCL: horloge série
+
+SDA: données série
+
+Fonctionnalité:
+
+
+Taille: 0,96 pouces
+
+Résolution: 128 * 64
+
+Couleur: blanc, bleu (facultatif)
+
+Angle de vision:> 160 °
+
+Plate-forme de support: série 51, série MSP430, STM32/2, etc.
+
+Consommation d'énergie ultra faible: 0,04 W en fonctionnement normal
+
+Prise en charge large de la tension: DC 3.3V-5V
+
+Température de fonctionnement: -30 ° C ~ 80 ° C
+
+Puce de pilote: SSD1306
+
+Méthode de communication: IIC, seulement 2 ports E / S
+
+Rétro-éclairage: auto-éclairage OLED, aucun rétro-éclairage requis
+
+Le forfait comprend:
+
+		1 x module OLED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

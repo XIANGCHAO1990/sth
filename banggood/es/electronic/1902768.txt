@@ -1,0 +1,448 @@
+https://es.banggood.com/GTMEDIA-V8-Finder-Pro-Satellite-Signal-Finder-DVB-S2X-S2-S-T2-T-C-ATSC-C-H_265-Support-Youtube-Auto-Calculate-Angle-of-AZ-EL-VCM-ACM-p-1902768.html?cur_warehouse=CN&ID=43101&rmmds=CategoryElectronicsPop
+GTMEDIA V8 Buscador Pro Buscador de señal de satélite DVB-S2X S2 S T2 TC ATSC-C H.265 Soporte Youtube Calcular automáticamente el ángulo de AZ EL VCM ACM
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificaciones:
+
+
+
+Características clave:
+
+
+4.3 Inch Alta Definición TFT LCD Pantalla
+
+
+Totalmente compatible con DVB-S2X / S2 / S / T2 / T / C, MPEG-2 / MPEG-4
+
+
+Admite decodificación de hardware H.264 / H.265 (10 bits)
+
+
+Dispositivo de medición digital para la intensidad y calidad de la señal. Admite el preajuste de toda la información del satélite
+
+
+Búsqueda de bucle de soporte
+
+
+Analizador de espectro
+
+
+Admite escaneo de Auto, Blind, Manual o NIT
+
+
+Sonido para señal de bloqueo
+
+
+Calcular automáticamente el ángulo de AZ, EL
+
+
+Soporta DISEQC 1.0 / 1.1 / 1.2, Unicable, tono 0 / 22kHz
+
+
+Altavoz integrado
+
+
+Admite salida AV y entrada AV
+
+
+Soporta ambas salidas HDMI 
+
+
+Admite entrada de cámara AHD
+
+
+Función de brújula de apoyo
+
+
+Admite visualización de energía en tiempo real, con recordatorio de baja potencia
+
+
+Soporta Youtube para USB wifi 2.4G
+
+
+Protección corta de LNB
+
+
+7.4V / 4000mAh Li-ion Batería incluido
+
+
+Actualización de software a través del puerto USB
+
+
+Fácil de cargar
+
+
+Especificaciones:
+
+
+ESTÁNDARES DE TRANSMISIÓN: DVB-S2X / S2 / S, DVB-T2 / T, DVB-C / ATSC-C, MPEG-2, MPEG-4, H.264 / H.265 (10 bits)
+
+
+Soporta softcam: rollo automático BISS, rollo automático PowerVu, TNT (19.2E)
+
+
+Soporta VCM, ACM, multi-stream, T2MI, Multi-PLP
+
+
+Soporta IKS: para CCCAM, NEWCAM, MGCAM
+
+
+ENTRADA/DEMODULACIÓN SATÉLITE
+
+
+Conector Tipo
+F Tipo
+
+
+Frecuencia de entrada
+950 a 2150 MHz
+
+
+Nivel de entrada de señal
+-65 to -25 dBm
+
+
+Control de interruptor de banda
+22KHz
+
+
+Suministro de LNB 
+13V / 18V, máximo 350mA
+
+
+Demodulación Tipo
+DVB-S2 QPSK, DVB-S2 QPSK / 8PSK / 16APSK / 32APSK, DVB-S2X QPSK / 8PSK / 16APSK / 32APSK / 64APSK
+
+
+Velocidad de símbolo
+2<$<45 M de banda (SCPC / MCPC)
+
+
+ENTRADA / DEMODULACIÓN DVB-T2 / T / Cable
+
+
+Conector Tipo
+Mujer Tipo
+
+
+Frecuencia de entrada
+48 a 862 MHz
+
+
+Nivel de entrada de señal
+-80 dBm (MAX)
+
+
+Suministro de hormigas
+5 V CC a 120 mA MAX
+
+
+Demodulación Tipo
+QPSK, 16QAM, 32QAM, 64QAM, 128QAM, 256QAM
+
+
+CARACTERÍSTICAS LCD
+
+
+LCD Tipo
+TFT Transmisivo
+
+
+Número de puntos
+800 RGB (H) x 480 (V)
+
+
+Active área (W * H)
+95.04 x 53.86mm
+
+
+Interfaz de salida AV
+
+
+Conector Tipo
+3.5 mm jack
+
+
+Salida de vídeo
+CVBS
+
+
+Salida de audio
+Salida de audio estéreo L/R
+
+
+Conector de salida HDMI
+
+
+Formato
+HDMI 1.3a
+
+
+Interfaz de entrada AV
+
+
+Conector Tipo
+3.5 mm jack
+
+
+Entrada de video
+CVBS
+
+
+Entrada de audio
+Entrada de audio estéreo L/R
+
+
+Interfaz de entrada AHD
+
+
+Conector Tipo
+BNC hembra 
+
+
+Impedancia
+75Ω
+
+
+Rango de frecuencia
+corriente continua～2GHz
+
+
+Soporte de entrada de video
+NTSC / PAL, 720P / 1080P
+
+
+PROCESAMIENTO DE AUDIO/VIDEO
+
+
+descompresión de vídeo
+MPEG-2 MP @ HL, decodificación MPEG-1, resolución MPEG-4 ASP @ l5 HD, H.264 / H.265 MP y HP @ L4, decodificador HW JPEG
+
+
+Tasa de resolución
+Cuadro PAL-25 @ 7200 * 576, cuadro NTSC -30 @ 720 * 480
+
+
+Compatibilidad singular
+Soporte de conversión para diferentes formatos de video.
+
+
+Formatoo de video
+Conversión 4: 3, 16: 9, Pan & Scan y Letter Caja
+
+
+Descompresión de audio
+MPEG-1 Capa I/II, MPEG-2 Capa I/II
+
+
+Modo de salida de audio
+Estéreo, Mono, R / L
+
+
+PUERTO DE SERVICIO DE DATOS
+
+
+Conector 
+USB 
+
+
+Protocolo de datos
+Interfaz USB 2.0
+
+
+Sistema de gestión de archivos
+NTFS, FAT32, FAT16
+
+
+Formatoo de archivo
+Medios: TS, mkv, mp4, avi, flv, f4v, ts, m2ts, mov, 3gpAudio: wma, mp3Foto: jpg, jpeg, bmp, img
+
+
+Opción PVR
+Soporte de grabación de archivos TS
+
+
+Opción WIFI
+Soporte de redes a través de USB WIFI
+
+
+FUENTE DE ALIMENTACIÓN
+
+
+Li-Lon Batería
+7,4 V / 4000 mAh (prevalecerá la máquina detrás del etiquetado)
+
+
+Adaptador
+SALIDA: corriente continua 9V / 2.5A, INTUPT: 100～240VAC 50 / 60Hz (estará sujeto a la configuración real)
+
+
+El consumo de energía
+Máx.10W
+
+
+CARACTERÍSTICAS FÍSICAS
+
+
+Tamaño de la dimensión del producto (W * D * H)
+123 * 204 * 45 (milímetro)
+
+
+Peso neto del producto
+0.6kg
+
+
+Tamaño de la caja de embalaje (W * D * H)
+260 * 200 * 57 (milímetro)
+
+
+Peso del paquete
+0.85kg
+
+
+Temperatura
+Operación 0～+45℃; Almacenamiento -10 ~ + 60℃
+
+
+Humedad
+20~90%, no condensado
+
+Rasgo: GTMEDIA V8 Finder Pro es un DVB-S2X/S2/S/T2/T/C y MPEG-2/4 H.264/H.265 Medidor combinado portátil compatible con (10 bits), con su tamaño compacto, peso ligero, interfaz de usuario intuitiva, largas horas de funcionamiento de la batería y un rico conjunto de funciones, el medidor proporciona todas las funciones necesarias para la instalación y verificación del servicio de televisión digital por satélite, señal de antena y cable. señal para casas residenciales o unidades de viviendas múltiples4.3 Inch Alta Definición TFT LCD Pantalla Totalmente compatible con DVB-S2X / S2 / S / T2 / T / C, MPEG-2 / MPEG-4 Admite decodificación de hardware H.264 / H.265 (10 bits) Dispositivo de medición digital para la intensidad y calidad de la señal. Admite el preajuste de toda la información del satélite Búsqueda de bucle de soporte Analizador de espectro Admite escaneo de Auto, Blind, Manual o NIT Sonido para señal de bloqueo Calcular automáticamente el ángulo de AZ, EL Soporta DISEQC 1.0 / 1.1 / 1.2, Unicable, tono 0 / 22kHz Altavoz integrado Admite salida AV y entrada AV Soporta ambas salidas HDMI  Admite entrada de cámara AHD Función de brújula de apoyo Admite visualización de energía en tiempo real, con recordatorio de baja potencia Soporta Youtube para USB wifi 2.4G Protección corta de LNB 7.4V / 4000mAh Li-ion Batería incluido Actualización de software a través del puerto USB Fácil de cargar El paquete incluye:1 x GTMEDIA V8 Finder Pro (Otros productos no están incluidos)1 adaptador de corriente.1 manual de usuario.1 x Almacenamiento BolsaBolsa de almacenamiento: [Enlace]
+
+
+
+

@@ -1,0 +1,145 @@
+1925270
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/A1/4C/f313c01c-a337-4d5a-9e58-4d0fd1a54c6f.jpg
+Modulo relè 5V 12V 24V 1/2/4/6/8 canali con relè di attivazione livello alto/basso isolamento optoaccoppiatore
+https://it.banggood.com/5V-12V-24V-1-or-2-or-4-or-6-or-8-Channel-Relay-Module-with-Optocoupler-Isolation-High-or-Low-Level-Trigger-Relay-p-1925270.html?cur_warehouse=CN&ID=49552528397&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifica:1. L'interfaccia normalmente aperta limita il carico pesante: AC 250V/10A, DC 30V/10A2. Adottare l'isolamento del fotoaccoppiatore, attivare la corrente 5MA3. Tensione di lavoro del modulo: 5V 12V 24V4. Il modulo può essere attivato dai ponticelli per impostare il livello alto/basso5. Impostazione della tolleranza ai guasti, anche se la linea di controllo è interrotta. Il relè non funzionerà6. Indicatore di alimentazione (verde), indicatore di stato del relè (rosso)7. L'interfaccia può essere collegata direttamente tramite la morsettieraDefinizioni e funzioni dei pin del prodotto: DC+: alimentazione positiva (selezionata in base alla tensione di funzionamento del relè)DC-: massa alimentazioneIN o INx: ingresso segnale di controlloNO o NOx: terminale di accesso al carico, normalmente apertoCOM o COMx: accesso al carico, comuneNC o NCx: terminale di accesso al carico, normalmente chiusoIl pacchetto include:1 x modulo relè 1/2/4/6/8 canali (opzionale)
+
+
+
+

@@ -1,0 +1,402 @@
+1444361
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/5A/7D/d706bf38-c5cb-4f91-9919-ed917636dc04.jpeg
+HANPOSE 17HS8401S-PG Nema 17 Extruder Gear Stepper Motor 42 Motor Ratio Planetary Gear Stepper Motor
+https://www.banggood.com/HANPOSE-17HS8401S-PG-Nema-17-Extruder-Gear-Stepper-Motor-42-Motor-Ratio-Planetary-Gear-Stepper-Motor-p-1444361.html?cur_warehouse=CN&ID=6120235&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+HANPOSE 17HS8401S-PG Nema 17 Extruder Gear Stepper Motor 42 Motor Ratio Planetary Gear Stepper Motor
+Certification: CE, ROSH, ISO, FCC
+
+Specification:
+
+
+
+
+				Product Model
+
+				17HS8401S-PGXXX
+
+
+
+				Stepper Motor Length
+
+				48mm
+
+
+
+				Shaft Size
+
+				"D" Shaft 16x8mm
+
+
+
+				Motor Lead
+
+				Plug
+
+
+
+				Including Wire
+
+				1M Dupoint Wire
+
+
+
+
+Gear Reducer Ratio
+
+
+
+Model
+
+				3.71-1
+
+				5.18-1
+
+				14-1
+
+				19-1
+
+				27-1
+
+				51-1
+
+
+
+				Reduction
+
+				3.71
+
+				5.18
+
+				14
+
+				19
+
+				27
+
+				51
+
+
+
+				Box Length
+
+				29
+
+				29
+
+				37
+
+				37
+
+				37
+
+				45
+
+
+
+
+Planetary Gear Reducer Technical Parameters
+
+
+
+
+				Internal Gear Material
+
+				45# Steel
+
+
+
+				Output Bearing Form
+
+				Ball Bearings
+
+
+
+				Radial Load
+
+				≤35N
+
+
+
+				Axial Load
+
+				≤25N
+
+
+
+				Radial Clearance
+
+				≤0.04mm
+
+
+
+				Axial Clearance
+
+				≤0.03mm
+
+
+
+				Backlash(No Load)
+
+				≤2°
+
+
+
+
+Note: The Planetary Gear Stepper Motor Holding Torque= 17HS8401-S Stepper Motor Holding Torque * Reduction * 0.8
+	Warning: The Box Can Bear Less Than 16 N.M Torque
+
+17HS8401-S Stepper Motor Electrical Specifications:
+
+
+
+
+				Model No.
+
+				Step
+				Angle
+
+				Motor 
+				Length
+
+				Rated 
+				Current
+
+				Resistance
+				/Phase
+
+				Inductance
+				/Phase
+
+				Holding 
+				Torque
+
+				Detent
+				Torque
+
+				Inertia Of
+				Rotor
+
+				  Lead 
+
+
+
+				( °)
+
+				(L)mm
+
+				(A)
+
+				(Ω)
+
+				(mH)
+
+				(N.cm) 
+
+				(N.cm) 
+
+				(G. cm²)
+
+				(No.)
+
+
+
+				17HS8401-S
+
+				1.8
+
+				48
+
+				1.8
+
+				1.8
+
+				3.2
+
+				52
+
+				2.6
+
+				68
+
+				4
+
+
+
+
+Applications:
+	Used for robots stepper motor,
+	Electronic automatic equipment stepping motor,
+	Medical instrument stepping motor,
+	Advertising instrument stepper motor,
+	Lighting& audio equipment stepper motor,
+	Printer stepper motor, textile machinery stepper motor,
+	Cnc router stepper motor.
+	3D printer
+Package Included:
+1 x HANPOSE 17HS8401S-PGXXX Extruder Gear Stepper Motor 
+
+More Details: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

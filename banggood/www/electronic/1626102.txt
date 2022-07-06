@@ -1,0 +1,208 @@
+https://www.banggood.com/YL160-4-in-1-Magnetic-Stripe-Credit-Card-EMV-IC-Chip-RFID-PSAM-Card-Reader-Writer-Duplicator-p-1626102.html?cur_warehouse=USA&rmmds=CategoryElectronicsPop
+YL160 4-in-1 Magnetic Stripe Credit Card EMV IC Chip RFID PSAM Card Reader Writer Duplicator
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: Magnetic stripe card can only be read but not written, contact IC card + induction IC card + PSAM card can be read and writtenFeatures :
+
+
+POST, USB powered
+	Compatible with EMV4.3/PBOC3.0 specification
+	support multi-functional PSAM operation
+	LED light prompt data transmission process
+	.Long Service Life Magnetic Head
+	Support the function of the SAM card operation
+	Use USB to communication with PC
+	Thin, light, beautiful, practical
+	Support magnetic /IC chips /13.56mhz RFID NFC /PSAM cards
+	USB interface, plug and play, no need to install additional drivers
+	USB interface, truly plug and play, no need to install drivers
+	Read magnetic cards, IC card reader, proximity card function
+	Reading the full three-track magnetic card, support bi-directional swipe
+	Provide many development platform interface function and application example
+	Support Windows 7, Windows 8, Win2008, Windows 2003, Windows 2000, XP, Linux, etc
+	Can read&write a variety of memory card and supports T = 0 and T = 1 communication protocol CPU card
+	Green LED flashes to indicate credit card data being output, after the completion of a three-track card full output Beeper
+	Providing a full range of library function, providing the perfect description of the development, points, examples, and a variety of development languages ​​call example source code (including: c # 2003, c + + builder, Adelphi, Powerbuilder, VB .net2003, VB6.0, java)
+	 
+
+Specification :
+
+
+Model: YL160
+	Colour: Black
+	Weight: 180g
+	Material: ABS
+	Storage capacity: 8K
+	Type: Multi Card Reader
+	Sensing distance: 3~10 (cm)
+	Power supply: 0.1 (W)
+	Working frequency: 13.56 (Khz)
+	Card reading time: 0.1 (s)
+	Dimensions: 160 × 45 × 45 mm / 6.3x1.8x1.8 in
+	USB cable length: 1.5 meters
+	Applicable card types: Magnetic cards, contact IC cards, psam cards, induction IC cards
+	 
+
+Package includeds :
+
+
+1 x Card reader
+	1 x CD
+	 
+
+Details pictures :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

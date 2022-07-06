@@ -1,0 +1,145 @@
+1930468
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/BE/E5/977e9374-868c-4757-aa0b-02af4f1c8fb8.jpg
+RIDEN® RD6024 Alimentatore a tensione ridotta CC WiFi 24A Convertitore buck 12V/36V/48V/60V Regolabile Batteria Caricatore 1000W
+https://it.banggood.com/RIDEN-RD6024-DC-Step-Down-Voltage-Power-Supply-WiFi-24A-Buck-Converter-12V-or-36V-or-48V-or-60V-Adjustable-Battery-Charger-1000W-p-1930468.html?cur_warehouse=CN&ID=6317605&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota prima di acquistare:1. La serie RD6024 ha due versioni: RD6024 e RD6024-W, RD6024-W con scheda WIFI, RD6024 non ha. RD6024-W può utilizzare la scheda WIFI per collegare l'APP, utilizzare anche un micro cavo USB per collegare il software del PC. RD6018 non ha la scheda WIFI, suppota solo il software per PC collegandosi con un micro cavo USB, nessuna APP di suppoto. Per la scheda wifi per collegare il software del PC, oa non suppotava.Nota: la connessione WiFi è una funzione di test, a causa della scarsa compatibilità di alcuni computer, se non è possibile connettere il software per PC tramite WiFi, ignoare questa funzione. Per questa funzione, non foniamo alcuna garanzia e suppoto tecnico e decideremo se mantenere questa funzione in base al feedback dei clienti.2. Per il software per PC, per oa suppota solo Win 7 e versioni successive. Per APP, suppota solo Android 5.0 e versioni successive. Per APP e software per PC, poiché potrebbero esserci problemi di incompatibilità, scaricare prima di acquistare, se è possibile scaricare e installare, è possibile effettuare l'odine o interrompere l'acquisto. Se non si testa il software per PC e la funzione APP prima dell'acquisto e si scopre che i prodotti funzionano corettamente ad eccezione del software per PC o dell'APP, ci rifiutiamo di rimbosare.3. Se si collega un carico induttivo (come il motoe), la corente di lavoo massima è 1/3 dell'intervallo. non superarlo.4. Quando si ottiene l'alimentatoe, utilizzare il multimetro per verificare se la tensione di uscita reale è stabile e si adatta alla tensione nominale, per vedere se è danneggiata durante il percoso, se l'uscita è anomale, contattaci, non collegarlo a RD alimentatoe per evitare ulterioi perdite5. Potrebbero esserci graffi sulla superficie ma non influiscono sulle prestazioni del prodotto, per favoe non essere troppo schizzinoso e, se ti dispiace, non acquistare questo prodotto6. È possibile collegare i cavi solo con una base in ingegneria elettronica ed elettrica e deve essere messo a terra in modo affidabile!7. A causa della consegna espressa, alcune etichette di garanzia dell'alimentatoe potrebbero essere danneggiate, il che non influisce sulla garanzia del prodotto!8. A causa dei diversi lotti di produzione dell'alimentatoe, i dettagli del materiale interno potrebbero essere diversi, spiega qui!9. C'è un fusibile BACKUP nella scatola RD6024/RD6024W, se bruciate il fusibile potete inserire il fusibile nella presa accanto a quella bruciata per uso tempoaneo e suppota solo 10A, quindi è meglio rimuovere il fusibile danneggiato e saldare il buon fusibile nella stessa posizione per la piena potenza.10. Quando si installa il nostro alimentatoe switching nella nostra custodia, seguire le nostre istruzioni per il montaggio, non rimuovere il guscio dell'alimentatoe da utilizzare. Dopo aver rimosso il guscio dell'alimentatoe switching, il cambiamento strutturale del sistema di dissipazione del caloe poterà a una dissipazione del caloe insufficiente e alcuni componenti saranno surriscaldati e danneggiati, in questo caso non offriamo il servizio post-venditaPromemoia amichevole:1. Se non si odina l'intero set, il dispositivo può essere alimentato solo con ingresso CC, nessun ingresso CA. È necessario utilizzare un alimentatoe switching per l'ingresso CA e deve essere collegato a terra, altrimenti c'è il rischio di perdite2. Consiglia l'alimentatoe:Si consiglia di utilizzare il nostro alimentatoe personalizzato o il famoso alimentatoe di marca!3. Alimentatoe non consigliato:Se si utilizza un convertitoe AC-DC o un trasfomatoe per alimentare l'alimentatoe RD, è necessario aggiungere raddrizzatoe e filtro, la tensione di uscita CC senza carico dovrebbe essere inferioe a 65 V, la fluttuazione della tensione della rete elettrica causerà l'elevata tensione di uscita e brucerà il dispositivo!4. PSU bandito:Vietare l'uso di caricabatterie per bici elettriche, alimentatoe di seconda mano, alimentatoe modificato, in particolare l'alimentatoe che afferma di essere adatto all'alimentatoe RD ma non l'abbiamo consigliato ...... L'uscita di questi dispositivi è estremamente instabile e può produrre tensioni elevate e brucia il tuo carico!(il cattivo alimentatoe avrà una sovratensione di picco)Video di istruzioni per il manuale:a. Battery Charging Function Introduction: https://youtu.be/irTbqfqtgU0 b. Output Voltage and Output Current Setting: https://youtu.be/S6Kan66dNsk c. Data Group Quick Stoage and Call out: https://youtu.be/eo5saPjOGpo d. Keypad lock and unlock: https://youtu.be/zxpmasJyQ6Y e. System Setting: https://youtu.be/Q9d3rIgIrOc f. Main Page Style Setting: https://youtu.be/f51VDiY2VHE g. Stoage Data Setting: https://youtu.be/i1kTeurS13I h. System Infomation: https://youtu.be/Um4NQObeeJE i. IOS APP Download, Installation and Connection: https://youtu.be/nH2HYwop0TE j. IOS APP Operation: https://youtu.be/lXSw1CM9IY8 k. Android APP Download, Installation and Connection: https://youtu.be/QwyBEUCnp9c l. Anroid APP Operation: https://youtu.be/hqrF4keTfbE m. PC Software Download and basic operation: https://youtu.be/mjt1RMaah1Y o. Firmware Upgrade: https://youtu.be/NOoLfDw0DiY p. Calibration: https://youtu.be/c9sn1wY2mjE q. Logo Update: https://youtu.be/vuVhBsohWts r. RD6024 wifi connection Problem and solution: https://www.youtube.com/watch?v=7sTtc1kweJM ModelloRD6006/RD6006-WRD6012/RD6012-WRD6018/RD6018-WRD6006P/RD6006P-WRD6012P/RD6012PWRD6024/RD6024WConchiglia adattaID: 1587330ID: 1916916ID: 1926450ID: 1820669ID: 1916916ID: 1926450Alimentazione adeguataID: 1594324ID: 1689167ID: 1750643 o  ID: 1931187ID: 1820469ID: 1916902800W(ID:1750643) può anche funzionare (potrebbe non ottenere il miglio effetto), ma consigliato 1000 W ID:1931187Intervallo di tensione in ingresso6-70.00V7-70.00V7-70.00V6-70.00VIntervallo di tensione di uscita0-60.00V0-60.000V0-60.000V0-60.00VIntervallo di corente di uscita0-6.000A0-12.00A0-18.00A0-6.0000A0-6.0000A/0-12.000A0-24.00AGamma di potenza in uscita0-360W0-720W0-1080W0-360W0-720W0-1440WRisoluzione della misurazione della tensione di ingresso0.01VRisoluzione della misurazione dell'impostazione della tensione di uscita0.01V0.001V0.01VRisoluzione della misurazione dell'impostazione della corente in uscita0.001A0.01A0.0001A0.001A/0.01A0.0001ARisoluzione della misurazione della tensione della batteria0.01VPrecisione di misurazione della tensione di ingresso±(1%+5 cifre)Precisione della tensione di uscita tra impostazione e misurazione±(0,3%+3 cifre)± (0,5 ‰ + 4 cifre)±(0,3%+3cifre)Precisione della corente di uscita tra l'impostazione e la misurazione±(0,5%+5 cifre)± (1 ‰ + 6 cifre)±(0,5%+5 cifre)Precisione della misurazione della tensione della batteria±(0,5%+3 cifre)Valoe di corente di interruzione automatica durante la ricarica10mA100mAImpostato da soloImpostato da soloImpostare da soli (superioe a 100 mA)Ripple di uscita tipico100mV VPP250 mV VPP @ 6 A20mV VPP100 mV a 12 A, 150 mV a 24 A VPP ①Intervallo di temperatura di lavoo-10℃~40℃Sensoe esterno Intervallo di rilevamento della temperatura:-10℃~100℃/0℉~200℉Sensoe esterno Precisione di rilevamento della temperatura:±3℃/±6℉Tempo di risposta moderato a tensione costante2 ms (carico 0,1 A-5 A)Regolazione del carico in modalità tensione costante±(0,1%+2 cifre)Regolazione del carico in modalità corente costante±(0,1%+3 cifre)Intervallo di misurazione della capacità0-9999.99AhIntervallo di misurazione dell'energia0-9999.99WhErroe statistico di capacità ed energia±2%Modalità di lavoo BuckCaduta di tensione >1V e >10%(tensione di ingresso÷1.1) -2(tensione di ingresso÷1.1) -1 ②Condizione di avvio della ventola di raffreddamentoTensione di uscita> 40 V o corente di uscita> 4 A o temperatura del sistema> 45℃Corente di uscita> 8A o temperatura del sistema> 45℃Corente di uscita >4A o Temperatura di sistema>45℃Corente di uscita>4A o Temperatura di sistema>50℃Corente di uscita> 8A o temperatura del sistema> 45℃Condizione di spegnimento della ventola di raffreddamento durante il funzionamentoTensione di uscita < 40 V e Corente di uscita < 3,9 A e Temperatura del sistema < 45 ℃Corente di uscita <7,9 Ae temperatura del sistema <45 ℃Corente di uscita <3.9A e temperatura di sistema <45℃Corente di uscita <3.9A e temperatura di sistema <50℃Corente di uscita <7,9 A e temperatura di sistema <45 ℃Protezione da sovratemperaturaTemperatura del sistema> 80 ℃Impostazione della luminosità dello schermo0-5 (6 livelli in totale)SchermoDisplay HD a coloi da 2,4 polliciPeso (con pacchetto)Circa 0,58 kgCirca 0,61 kgCirca 0,68 kgCirca 0,62 kgCirca 0,66 kgCirca 0,72 kgDimensione del prodotto167*81*65mm167*81*69mm167*81*65mm167*81*69mmSuppota la comunicazione USBSÌSuppota la comunicazione WiFiSolo la versione W ha la comunicazione WiFi① Metodo di misurazione dell'ondulazione: il rumoe e l'ondulazione vengono misurati alla gamma X1, accoppiamento CA, 20 MHz di larghezza di banda sull'oscilloscopio con un condensatoe parallelo da 0,1 uF ai terminali di uscita.② ad esempio: la tensione di ingresso è 24 V, la tensione di uscita massima è 19,8 V.La confezione include:1xalimentatoe1 x modulo Wifi (opzionale, contiene solo RD6024W)
+
+
+
+

@@ -1,0 +1,278 @@
+https://tr.banggood.com/SONOFF-T0-EU-or-US-or-UK-AC-100-240V-1-or-2-or-3-Gang-TX-Series-WIFI-Wall-Switch-Smart-Wall-Touch-Light-Switch-For-Smart-Home-Work-With-Alexa-Google-Home-p-1470886.html?cur_warehouse=CN&ID=6278517&rmmds=CategoryElectronicsPop
+SONOFF® T0 EU/US/UK AC 100-240V 1/2/3 Gang TX Serisi WIFI Duvar Anahtarı Akıllı Duvar Dokunmatik Işık Anahtarı Akıllı Ev İçin Alexa Google Home ile Çalışmak için
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+genel bakış:
+
+1-3 grup T0 (AB ve İngiltere ve ABD) içeren WiFi akıllı anahtarları Beyaz, T1 ve T2 beyaz olarak mevcuttur. T3 siyah mevcuttur. Ek olarak T1, T2 ve T3, kontrol etmek için 433MHz uzaktan kumandayı destekler.
+Tüm anahtarlar, telefonunuz kullanılarak uzaktan kontrol edilebilir ve anahtarlarla bağlanan cihazlar bağımsız olarak çalışabilir. Cihazlarınızı sesli komutla açıp kapatmanıza izin veren Amazon Alexa ve Google Asistan ile birlikte çalışır; aynı anda birçok ev işiyle uğraşması gerekenler için mükemmeldir. Herhangi bir duvar yüzeyinde modern ve hoş bir dekorasyon sağlamak için basit ve şık anahtarlara takılı hassas dokunmatik düğmelere sahiptir. Daha kolay kontrol için hafif bir dokunuş. Aylık elektrik faturanızın elektriğe aç cihazlar tarafından boğulmasından endişeleniyorsanız veya kanepede otururken kahve makinenizi açmak istiyorsanız, zaman çizelgesi iyi bir seçimdir. Cihazlar için bir zaman belirleyin, anahtarlar onları otomatik olarak açıp kapatmanıza yardımcı olacaktır. Cihazlarınız için akıllı sahneyi uyarlayın. Telefonunuza bir dokunuşla bir SONOFF cihazını veya cihaz gruplarını tetikleyecek bir olay ayarlamanız yeterlidir. Cihazlarınız anormal bir WiFi ağı nedeniyle çalışmayacaktır, bu nedenle LAN kontrolü, normal şekilde çalışabileceklerinden emin olmak için tasarlanmıştır.
+IFTTT işleviyle uyumlu olan anahtarlar, onları açmak veya kapatmak için bir dizi cihaz ve hizmetle iletişim kurabilir. Akıllı bir eve erişmeye başladığımızda, eşleştirme, hesap ve şifre, isim vb. girmek için birkaç karmaşık adım vardır. Paylaşım kontrolü, sizin ve ailenizin cihazları birlikte kontrol etmesine izin vermenin hızlı bir yolunu sunar. Evden çıkarken ısıtıcıyı kapatıp kapatmadığınızdan emin değilseniz, gerçek zamanlı cihaz durumunu kontrol etmek için telefonunuzu çıkarın ve eWeLink uygulamasını açın.
+NOT: Nötr tel gereklidir
+Manuel:
+
+TX UK Hızlı Kurulum Kılavuzu, TX İngiltere Kullanım Kılavuzu
+
+TX EU Hızlı Kurulum Kılavuzu, TX EU Kullanım Kılavuzu
+
+TX US Hızlı Kurulum Kılavuzu, TX US Kullanım Kılavuzu
+
+
+
+
+
+TX Modellerini Karşılaştırın
+
+
+
+Tip
+
+T0
+
+T1
+
+T2
+
+T3
+
+
+
+433MHz
+
+				Numara
+
+				Evet
+
+				Evet
+
+				Evet
+
+
+
+Renk
+
+				Beyaz
+
+				Beyaz
+
+				Beyaz
+
+				Siyah
+
+
+
+EU
+
+				Evet
+
+				Evet
+
+				Evet
+
+				Evet
+
+
+
+UK
+
+				Evet
+
+				Evet
+
+				Evet
+
+				Evet
+
+
+
+US
+
+				Evet
+
+				Numara
+
+				Evet
+
+				Evet
+
+
+
+Numarat: T0 & T1(EU&UK) panelinde kenarlık yok, T2 & T3 kenarlıklı.
+US serisinin tamamı kenarlıklı
+
+Özellik:
+
+modeli: T0
+Standart: US/İngiltere/AB
+Çete: 1 çete/2 çete/3 çete
+Beyaz renk
+Giriş: 1C: AC 100-240V 50/60Hz 2A Maks
+          2C: AC 100-240V 50/60Hz 4A Maks
+          3C: AC 100-240V 50/60Hz 3A Maks
+Çıktı: 1C: AC 100-240V 50/60Hz 2A Maks
+             2C: AC 100-240V 50/60Hz 2A/Gand 4A/Toplam
+             3C: AC 100-240V 50/60Hz 1A/Gang 3A/Toplam 
+LED yük: 1C/2C: 150W/110V(kanal başına)
+                             300W/220V(kanal başına)
+                 3C: 60W/110V(kanal başına)
+                       100W/220V(kanal başına)
+İşletim sistemleri: Android_4.1 veya üstü ve iOS 9.0 pr üstü
+Muhafaza Malzemesi: PC V0 + sertleştirilmiş cam panel
+Kablosuz Standardı: IEEE 802.11 b/g/n 2.4G
+AB/İngiltere Boyutu: 86*86*35mm
+ABD Boyutu: 120*74*38mm
+Numarat: 433MHz uzaktan kumanda ile yönetilemez 
+
+Şartname:
+
+- Cihazları bir telefon aracılığıyla uzaktan kontrol edin
+- Amazon Alexa ve Google Asistan ile cihazları açın/kapatın
+- Rahat kullanım için dokunmatik kontrol düğmeleri
+- Cihazları açmak/kapatmak için belirli bir zaman ayarlayın
+- Basit bir dokunuşla açmak/kapatmak için bir veya SONOFF cihaz grubunu özelleştirin
+- Alanınızda WiFi ağı olmadığında cihazları yönetmenize izin verin
+- Cihaz paylaşımı yoluyla cihazı ailenizle birlikte kontrol edin
+- Gerçek zamanlı cihaz durumunu telefonunuzla senkronize edin
+- IFTTT hizmeti bir dizi eylemi tetikler
+
+Paket içeriği:
+
+1 x SONOFF T0 Akıllı Anahtar
+
+
+
+

@@ -1,0 +1,272 @@
+1619901
+https://imgaz.staticbg.com/thumb/large/oaupload/ser1/banggood/images/FA/E1/c6bed494-8c35-4332-955b-5a1d621041ef.jpg
+45 IN 1/37 IN 1 Sensor Conjunto de kits iniciais de módulo para Arduino Raspberry Pi Education Bolsa Package
+https://pt.banggood.com/45-IN-1-or-37-IN-1-Sensor-Module-Starter-Kits-Set-For-Arduino-Raspberry-Pi-Education-Bag-Package-p-1619901.html?cur_warehouse=CN&ID=514178&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(1) 37 IN 1 Sensor Kit Inicial do Módulo
+Recursos:
+
+NOTA: este item vem sem caixa de componet protetora acessível.
+Um ótimo pacote para Arduino experimentos ou como base para um projeto maior.
+Trata-se de um conjunto de 37 sensores prontos para serem conectados a um microcontrolador, por exemplo, Arduino ou RaspberryPi.
+
+Incluído no Pacote:
+
+1 x pequeno módulo de campainha passiva KY-006
+1 x Módulo LED de 2 cores KY-011
+1 x Hit Sensor Módulo KY-031
+1 x Módulo de Interruptor de Vibração KY-002
+1 x Módulo Resistor Fotográfico KY-018
+1 x módulo de interruptor de chave KY-004
+1 x Módulo do interruptor de inclinação KY-020
+1 x 3 cores LED Módulos SMD coloridos KY-009
+1 x módulo de emissão infravermelha Sensor KY-005
+1 x 3 cores LED Módulo KY-016
+1 x HYdrargyrum Módulo óptico aberto KY-017
+1 x Yin Yi 2 cores LED Módulo 3MM KY-029
+1 x Active Módulo de campainha KY-012
+1 x Temperatura Sensor Módulo KY-013
+1 x Automático Flashing Colorful LED Módulo KY-034
+1 x Mini Módulos de Reed Magnéticos KY-021
+1 x Módulo magnético Hall Sensor KY-003
+1 x módulo receptor infravermelho Sensor KY-022
+1 x Classe Bihor Magnético Sensor KY-035
+1 x Módulo Magic Light Cup KY-027
+1 x Módulo Codificador Rotativo KY-040
+1 x Módulo Óptico Quebrado KY-010
+1 x Detectar o Módulo Heartbeat KY-039
+1 x Módulo Reed KY-025
+1 x Módulo de Prevenção de Obstáculos Sensor KY-032
+1 x Módulo Hunt Sensor KY-033
+1 x Microfone Som Sensor Módulo KY-038
+1 x Sensor Módulo KY-008
+1 x 5V Módulo de Relé KY-019
+1 x Temperatura Sensor Módulo KY-001
+1 x Módulo de Temperatura Sensor KY-028
+1 x Sensores lineares magnéticos Hall KY-024
+1 x Módulo de Chama Sensor KY-026
+1 x Microfone Sensível Sensor Módulo KY-037
+1 x Temperatura e Umidade Sensor Módulo KY-015
+1 x módulo de joystick de eixo XY KY-023
+1 x Toque Sensor Módulo de Metal KY-036
+
+(2) Kit inicial de módulo 45 IN 1 Sensor
+Recursos:
+
+Todos os sensores são cuidadosamente selecionados e testados.
+Um conjunto completo para os componentes eletrônicos mais comuns e úteis do Arduino.
+É extremamente fácil para o Arduino fancier controlar e usar esses módulos.
+Na base do kit 37 em 1, adiciona módulos mais práticos para atingir mais requisitos experimentais.
+Este é um kit muito bom desenvolvido especialmente para os iniciantes que estão interessados no Arduino.
+A implementação e programação de sensores é uma habilidade chave para iniciantes projetarem seu projeto DIY Ar-duino.
+
+Incluído no Pacote:
+
+1 x Módulo de Solo
+1 x módulo receptor infravermelho Sensor
+1 x Módulo de cabeça Sensor
+1 x Módulo de Temperatura e Umidade Sensor
+1 x módulo de emissão infravermelha Sensor
+1 x 5V Módulo de Relé
+1 x Módulo de giroscópio
+1 x para o módulo de batimento cardíaco de detecção de dedo ARDUINO
+1 x Módulo de Sensibilidade do Microfone Sensor
+1 x Toque Sensor Módulo de Metal
+1 x módulo de chama Sensor
+1 x Módulo LED de 3 cores
+1 x Módulo Hunt Sensor
+1 x Sensores lineares magnéticos Hall
+1 x Módulos de codificador rotativo
+1 x Active Módulo de campainha
+1 x Módulos Magic Light Cup
+1 x pequeno módulo de campainha passiva
+1 x Módulo de Temperatura Digital Sensor
+1 x módulo de interruptor de inclinação
+1 x Analogia Holzer Magnético Sensor
+1 x Módulo Ultrassônico
+1 x HYdrargyrum Módulo de abertura
+1 x Módulo magnético Hall Sensor
+1 x Módulo SMD RGB LED
+1 x Para Módulo Mini Reed Arduino
+1 x Bicolor LED Módulo de cátodo comum 3MM
+1 x carro inteligente evitar obstáculo Sensor interruptor fotoelétrico infravermelho Sensor
+1 x módulo de interruptor de chave
+1 x Módulo Fotoresistor
+1 x módulo de alimentação de placa de ensaio
+1 x para o módulo ARDUINO Hit Sensor
+1 x Módulo de Temperatura Sensor
+1 x Módulo de Interruptor de Vibração
+1 x Módulo de som de microfone Sensor
+1 x Módulo de Reed Grande
+1 x Módulo LED de duas cores
+1 x Módulo de quebra óptica
+1 x Módulo de Temperatura Sensor
+1 x Módulo Buck MP1584EN
+1 x Módulo Leitor de Cartão SD
+1 x PS2 módulo controlador de jogo joystick
+1 x módulo LED intermitente
+1 x DS1302 Relógio Módulo (Sem Bateria)
+1 x Módulo de Nível de Água
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

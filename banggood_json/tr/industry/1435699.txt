@@ -1,0 +1,673 @@
+1435699
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/9D/0E/d74cb47f-1aa0-4faf-a2e6-9371b0a7dcb7.jpg
+MUSTOOL X1 Cep 6000 Sayım Gerçek RMS Klemp Metre AC / DC Gerilim ve Akım Dijital Multimetre Kare Dalga Çıkışlı Otomatik Dijital Metre Ω / V / A / Diyot / Frekans / Süreklilik Testi
+https://tr.banggood.com/MUSTOOL-X1-Pocket-6000-Counts-True-RMS-Clamp-Meter-AC-or-DC-VoltageandCurrent-Digital-Multimeter-Automatic-Digital-Meter-With-Square-Wave-Output--or-V-or-A-or-Diode-or-Frequency-or-Continuity-Test-p-1435699.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DC akım, AC Akım, DC Gerilim, AC Gerilim Testini destekleyin
+
+Genel Bakış:
+
+
+
+Bu, cep boyutunda 3 5/6 basamaklı otomatik bir dijital sayaçtır. 
+
+Kararlı performans, yüksek hassasiyet, yüksek güvenilirlik, net okuma ve aşırı yük korumasına sahiptir. 
+
+AAA 1.5V pil ile çalıştırılan cihaz, geniş ekranlı LCD ekranı ve güçlendirilmiş güç kaynağını benimser. 
+
+2.3V düşük pilin kenarında bile, arka ışık ve el fenerinin yüksek parlaklığını sağlayabilir. 
+
+Sayacın taşınması kolaydır ve kullanıcılar arasında çok popülerdir. 
+
+Cihazın arka ışığı 15 saniye sonra otomatik olarak açılıp kapatılabilir. 
+
+Bu cihaz serisi, DC voltajı ve AC voltajı, AC ve DC akımı 600A, direnç, kapasitans, diyot, sıcaklık, süreklilik testi, kare dalga çıkışı, frekans ölçümü ve gerçek RMS'yi ölçmek için kullanılabilir. 
+
+Laboratuvarlar, fabrikalar, radyo meraklıları ve aileler için üstün bir araç ve ideal bir araçtır.
+
+
+
+Özellikleri:
+
+
+
+
+
+           Fonksiyon
+
+ 
+
+
+
+DC gerilimi DCV
+
+   √     
+
+
+
+AC voltajı ACV
+
+   √
+
+
+
+DC akım DCA
+
+   √
+
+
+
+AC akım ACA
+
+   √
+
+
+
+Direnç / Diyot / Açma-Kapama Testi / Kondansatör
+
+   √
+
+
+
+Frekans F
+
+   √
+
+
+
+Kare dalga çıkışı
+
+   √
+
+
+
+NCV
+
+   √
+
+
+
+Tam birim sembolü
+
+   √
+
+
+
+Arka ışık manuel / Otomatik kapanma
+
+   √
+
+
+
+Gerçek RMS ölçümü
+
+   √
+
+
+
+Sıcaklık(℃ / ℉)
+
+   √
+
+
+
+El feneri aydınlatması
+
+   √
+
+
+
+
+
+Özellikler:
+
+1.DC voltajı (DCV)
+
+
+
+
+        Doğruluk
+				 Aralık
+
+           6000counts
+
+            çözüm
+
+
+
+6V
+
+         ±(% 0,5 + 3)
+
+0.001V
+
+
+
+60V
+
+0.01V
+
+
+
+600V
+
+0.1V
+
+
+
+1000V
+
+         ±(% 0,8 + 10)
+
+1V
+
+
+
+
+2. AC voltajı (ACV)
+
+
+
+
+        Doğruluk
+				Aralık
+
+                6000counts
+
+               çözüm
+
+
+
+6V
+
+              ±(% 0,8 + 3)
+
+0.001V
+
+
+
+60V
+
+0.01V
+
+
+
+600V
+
+0.1V
+
+
+
+750V
+
+             ±(% 1,2 + 10)
+
+1V
+
+
+
+
+3.DC akımı (DC A)
+
+
+
+
+        Doğruluk
+				Aralık
+
+             6000counts
+
+çözüm
+
+
+
+60A
+
+            ±(% 2 + 30)
+
+0.01A
+
+
+
+600A
+
+0.1A
+
+
+
+
+4.AC akımı(AC A)
+
+
+
+
+        Doğruluk
+				Aralık
+
+             6000counts
+
+çözüm
+
+
+
+60A
+
+ 
+
+0.01A
+
+
+
+600A
+
+0.1A
+
+
+
+
+5. Direnç (Ω)
+
+
+
+
+      Doğruluk
+				Aralık
+
+             6000counts
+
+               çözüm
+
+
+
+ 600Ω
+
+±(% 0.8 + 5)
+
+0.1Ω
+
+
+
+6kΩ
+
+±(% 0,8 + 3)
+
+1Ω
+
+
+
+60kΩ
+
+10Ω
+
+
+
+600kΩ
+
+100Ω
+
+
+
+6 milyon
+
+1kΩ
+
+
+
+40 milyon
+
+±(% 2,5 + 3)
+
+10kΩ
+
+
+
+
+6. Diyot ve süreklilik testi
+
+
+
+
+ Aralık
+
+görüntü değeri
+
+    test koşulu
+
+
+
+
+
+Diyot ileri voltaj düşüşü
+
+İleri DC akımı yaklaşık 1mA, açık devre voltajı yaklaşık 3V
+
+
+
+Sesli uyarı uzun çalıyor ve testin direnci (50 ± 20) Ω değerinden az.
+
+Açık devre voltajı yaklaşık 3V'dur, iki hızlı fonksiyon geçişi için "SEÇ" tuşuna basın
+
+
+
+
+7. Kapasite (C)
+
+
+
+
+          Doğruluk
+				Aralık
+
+             6000counts
+
+                çözüm
+
+
+
+60nF
+
+±(% 3,5 + 20)
+
+10pF
+
+
+
+600nF
+
+100pF
+
+
+
+6uF
+
+1nF
+
+
+
+60uF
+
+10nF
+
+
+
+600uF
+
+100nF
+
+
+
+6mF
+
+±(% 5 + 3)
+
+1uF
+
+
+
+30mF
+
+10uF
+
+
+
+
+8. Frekans ölçümü
+
+
+
+
+          Doğruluk
+				Aralık
+
+              6000counts
+
+                çözüm
+
+
+
+10Hz
+
+±(% 0.1 + 3)
+
+0.01Hz
+
+
+
+100Hz
+
+0.1Hz
+
+
+
+1kHz
+
+1Hz
+
+
+
+10kHZ
+
+10Hz
+
+
+
+100kHz
+
+100Hz
+
+
+
+1MHz
+
+1kHz
+
+
+
+10MHz
+
+10kHz
+
+
+
+
+9. Sıcaklık ölçümü (° C / ° F)
+
+
+
+
+            Doğruluk
+				Aralık
+
+                   6000counts
+
+     çözüm
+
+
+
+(-20-1000) ℃
+
+±(% 1,0 + 5)<400 ℃; ±(% 1,5 + 15)≥400 ℃
+
+1 ℃
+
+
+
+(0-1832) ℉
+
+±(% 0,75 + 5)<750 ℉; ±(% 1,5 + 15)≥750 ℉
+
+1 ℉
+
+
+
+
+Paket İçeriği:
+
+1 x MUSTOOL X1 Klemp Metre (pil dahil değildir)
+1 x Test Uçları
+1 x Sıcaklık Probe
+1 x İngilizce Kullanım Kılavuzu
+
+Detay Resimleri:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

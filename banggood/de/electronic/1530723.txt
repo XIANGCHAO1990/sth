@@ -1,0 +1,337 @@
+https://de.banggood.com/3000W-AC220V-250V-to-DC-48V-62A-ZVS-Heating-Switching-Power-Supply-R48-3000e3-For-Induction-Heater-p-1530723.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+3000 W AC220V-250V bis DC 48V 62A ZVS Heizungsschaltnetzteil R48-3000e3 Für Induktionsheizung
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tipps: Dieses Produkt ist die Stromversorgung für die Kommunikationsbasisstation, die eine Kommunikationsverbindung mit dem Gehäuse haben sollte. Wenn Sie keine Kommunikationsverbindung haben, flackert das gelbe Licht. Dies ist ein normales Phänomen und hat keinen Einfluss auf die normale Ausgangsleistung.Merkmal:
+
+
+
+Hoher Wirkungsgrad, reduziert den Stromverbrauch für niedrigere Betriebskosten
+
+Die volle Ausgangsleistung (3 kW) bis + 45 ° C ermöglicht Einsparungen beim Klimasystem und bei den Betriebskosten
+
+Breiter Eingangsspannungsbereich für den Einsatz in anspruchsvollsten Umgebungen
+
+Hot-Plug-fähig - erleichtert zukünftige Erweiterungen und einfache Wartung
+
+Konform mit globalen Standards - liefern Sie Qualität, Leistung und Zuverlässigkeit, unabhängig von den Anforderungen der Anwendung oder des Standorts
+
+
+
+Beschreibung:
+
+
+
+Der hocheffiziente Gleichrichter mit 3000 W (Modell R48-3000e3) wandelt Standard-Wechselspannungen in stabile Nenn-Gleichspannungen von -48 V um, die an die Anwendungsanforderungen angepasst werden können. 
+
+Der R48-3000e3 ist ein Gleichrichter mit konstanter Leistung, der mit der neuesten patentierten Switchmode-Technologie entwickelt wurde und die DSP-Funktionalität (Digital Signaling Processor) für einen effizienten Betrieb verwendet.
+
+Für eine höhere Belastbarkeit können Gleichrichter parallel geschaltet und mit Hilfe einer separaten Steuerung eine intelligente Steuerung hinzugefügt werden.
+
+
+
+
+
+
+AC-Eingang
+
+
+
+Eingangsspannung, nominal
+
+200 bis 250 VAC
+
+
+
+Eingangsspannung, zulässige Variation
+
+85 bis 300 VAC
+
+
+
+Leitungsfrequenz
+
+45 to 65 Hz
+
+
+
+Maximaler Eingangsstrom
+
+22 A
+
+
+
+Leistungsfaktor
+
+> 0,99 für 50% -100% Last
+
+
+
+THD (Total Harmonic Distortion)
+
+≤5% für 50% -100% Last, ≤2% ohne Last
+
+
+
+DC-Ausgang
+
+
+
+Ausgangsspannung, nicht einstellbar
+
+48V DC
+
+
+
+Ausgangsleistung
+
+Maximal 3000W
+
+
+
+Ausgangsleistung, reduziert für Eingangsspannung
+
+Siehe Zeichnung
+
+
+
+Ausgangsstrom
+
+62.5A@-48VDC
+
+
+
+Ausgangsstrombegrenzungssollwert
+
+0 to 62.5A
+
+
+
+Spitzeneffizienz
+
+95,5%
+
+
+
+Temperaturreduzierung
+
+Volle Ausgangsleistung bis + 45 ° C bei einem Eingangsspannungsbereich von 176-264 VAC
+
+
+
+Steuerung und Überwachung
+
+
+
+Gleichrichteralarm und Signalisierung Alarm und Status werden über den CAN-Bus an die Systemsteuerung gemeldet
+
+
+
+Visuelle Anzeigen Grün LED: Normal Betrieb Gelbe LED: Alarm (bedeutet keine Kommunikationsverbindung)
+					Rote LED: Fehler
+
+
+
+Umwelt
+
+
+
+Temperaturbereich, Betrieb
+
+-40 bis 70 ° C, -40 bis + 158 ° F.
+
+
+
+Temperaturbereich, Lagerung
+
+-40 bis + 70 ° C, -40 bis + 158 ° F.
+
+
+
+Relative Luftfeuchtigkeit
+
+0 bis 95%
+
+
+
+Höhe
+
+2000 m bei voller Leistung
+
+
+
+EMV
+
+ETSI EN300 386: 2005, Klasse B.
+
+
+
+ 
+
+EN55022, Klasse B.
+
+
+
+Sicherheit
+
+EN 60950-1; IEC 60950
+
+
+
+Mechanik
+
+
+
+Abmessungen (H x B x T) 41 x 84,5 x 330 mm / 1,61 x 3,33 x 13 Zoll
+
+
+
+Gewicht 1,5 kg
+
+
+
+
+Paket beinhaltet:
+
+	1 x Netzteil
+
+
+
+
+
+

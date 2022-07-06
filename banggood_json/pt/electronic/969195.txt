@@ -1,0 +1,175 @@
+969195
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/6B/B7/1b667a6d-8259-4675-8d6f-b21db57d464a.JPG
+Geekcreit® 8A DC5-30V a DC1,25-30V 150KHz Automático Reforçar Regulagem de tensão do módulo de potência ajustável de redução com proteção contra curto-circuito / superaquecimento
+https://pt.banggood.com/Geekcreit-8A-DC5-30V-to-DC1_25-30V-150KHz-Automatic-Step-Up-Step-Down-Adjustable-Power-Module-Voltage-Regulation-With-Short-Circuit-or-Overtemperature-Protection-p-969195.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parâmetros do módulo:
+
+Tensão de entrada: DC5-30V
+Corrente de entrada: 8A (MAX) pico 10A (6A trabalho muito tempo)
+Corrente quiescente: 4mA (a tensão de operação não é a mesma, haverá erros)
+Tensão de saída: 1,25-30V continuamente ajustável
+Corrente de saída: 10A (MAX) (5A calor natural longo dentro)
+Faixa de corrente de saída: 0,2-10A
+Temperatura de trabalho: -40 a + 85 graus
+Freqüência de operação: 150KHz
+Eficiência de conversão: típica 91% (12V volta 12V5A) máximo 93%
+Proteção de sobrecorrente: lá
+Proteção de curto-circuito: (proteção de limitação)
+Proteção contra sobretemperatura: (reduz automaticamente a tensão de saída após sobretemperatura)
+Proteção de polaridade reversa de entrada: Nenhuma, (se necessário, insira a string no diodo)
+Saída anti-anti-irrigação: Sim, não há necessidade de carregar mais diodo de bloqueio.
+Conexão: saída do terminal, (IN é a entrada, saída OUT)
+
+
+Método de ajuste de corrente de saída:
+
+
+
+1. Ajuste do potenciômetro CV, dependendo dos seus requisitos de carga, a tensão de saída é definida para o valor de tensão que você precisa.
+
+2. Potenciômetro CC no sentido anti-horário localizado a cerca de 30 voltas, (ou seja, a corrente de saída é definida no mínimo), conectado ao LED, potenciômetro CC sintonizado na corrente desejada. Depois de carregar a bateria, a bateria está totalmente descarregada e, em seguida, para a saída, ajuste para o CC atual desejado (certifique-se de usar para carregar baterias completamente descarregadas antes de permitir a transferência, porque a energia da bateria é deixada no mais, o carregamento a corrente é menor.) Por favor, não use a forma de transferência de corrente de curto-circuito, a estrutura do circuito do módulo não pode causar curto-circuito na forma de transferência
+
+Incluído no Pacote:
+
+	1 x módulo de potência ajustável Reforçar de abaixamento automático
+
+
+
+
+

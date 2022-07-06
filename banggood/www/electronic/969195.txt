@@ -1,0 +1,173 @@
+https://www.banggood.com/Geekcreit-8A-DC5-30V-to-DC1_25-30V-150KHz-Automatic-Step-Up-Step-Down-Adjustable-Power-Module-Voltage-Regulation-With-Short-Circuit-or-Overtemperature-Protection-p-969195.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® 8A DC5-30V to DC1.25-30V 150KHz Automatic Step Up Step Down Adjustable Power Module Voltage Regulation With Short Circuit / Overtemperature Protection
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Module parameters:
+
+Input voltage: DC5-30V
+Input current: 8A (MAX)  peak 10A (6A work a long time)
+Quiescent current: 4mA (operating voltage is not the same there will be errors)
+Output voltage: 1.25-30V continuously adjustable
+Output Current: 10A (MAX) (5A long natural heat inside)
+Output current range: 0.2-10A
+Working temperature: -40 to + 85 degrees
+Operating frequency: 150KHz
+Conversion efficiency: Typical 91% (12V turn 12V5A) maximum 93%
+Overcurrent protection: there
+Short circuit protection: (limiting protection)
+Overtemperature protection: (automatically reduce the output voltage after overtemperature)
+Input reverse polarity protection: None, (if necessary, please enter the string into the diode)
+Output anti-anti-irrigation: Yes, no need for charging plus blocking diode.
+Connection: Terminal output, (IN is the input, OUT output)
+
+
+Output current adjustment method:
+
+	 
+
+1. CV potentiometer adjustment, depending on your load requirements, the output voltage is set to the voltage value you need.
+
+2. CC potentiometer counterclockwise located about 30 laps, (ie, the output current is set to a minimum), connected to the LED, potentiometer CC tune to the desired current. After charging for battery, the battery fully discharged, and then to output, adjust to your desired current CC, (be sure to use for charging batteries completely discharged before being allowed to transfer, because the battery power is left in the more, the charging current is smaller.) Please do not use the short-circuit current way of transfer, the circuit structure of the module can not short-circuit the way transfer
+
+Package included:
+
+	1 x Automatic Step Up Step Down Adjustable Power Module
+
+
+
+
+

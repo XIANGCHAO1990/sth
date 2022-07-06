@@ -1,0 +1,145 @@
+1816774
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/C3/A2/9b30c1bd-9137-4710-90ec-03796c226d85.jpg
+SI4732 Todos Banda Rádio FM AM (MW e SW) e SSB (LSB e USB) com alto-falante Antena Lithium Bateria
+https://pt.banggood.com/SI4732-All-Band-Radio-FM-AM-(MW-And-SW)-And-SSB-(LSB-And-USB)-With-Antenna-Lithium-Battery-Speaker-p-1816774.html?cur_warehouse=CN&ID=6303419&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recursos:1) FM, AM (MW e SW) e SSB (LSB e USB);2) Filtro de largura de banda de áudio 0,5, 1, 1,2, 2,2, 3 e 4Khz;3) 22 bandas comerciais e de radioamador pré configuradas;4) Controle BFO; e5) Interruptor de passo de frequência (1, 5 e 10KHz);Especificação:Use uma bateria de lítio de 3,6 V 1000MA （apenas para a versão montada）Suporta carregamento USBA saída de áudio suporta fone de ouvido 3,5MMSuporte de saída de 1,5 W para alto-falante de 8 ohmsFM suporta antena de fone de ouvidoA interface da antena usa BNCO PCB mantém o pacote SI4735, os usuários podem substituir o chip sozinhos e o software é compatívelBand band[] = {{FM_BAND_TYPE, 8400, 10800, 10430, 10},{LW_BAND_TYPE, 100, 510, 300, 1},{MW_BAND_TYPE, 520, 1720, 810, 10},{SW_BAND_TYPE, 1720, 3500, 1900, 1}, // 160 meters{SW_BAND_TYPE, 3500, 4500, 3700, 1}, // 80 meters{SW_BAND_TYPE, 4500, 5500, 4850, 5},{SW_BAND_TYPE, 5500, 6300, 6000, 5},{SW_BAND_TYPE, 6300, 7800, 7050, 5}, // 40 meters{SW_BAND_TYPE, 7800, 10000, 9600, 5},{SW_BAND_TYPE, 10000, 11000, 10100, 1}, // 30 meters{SW_BAND_TYPE, 11000, 12500, 11940, 5},{SW_BAND_TYPE, 12500, 13900, 13600, 5},{SW_BAND_TYPE, 13900, 14500, 14270, 1}, // 20 meters{SW_BAND_TYPE, 14500, 15900, 15300, 5},{SW_BAND_TYPE, 15900, 17900, 17600, 5},{SW_BAND_TYPE, 17900, 18300, 18100, 1},  // 17 meters{SW_BAND_TYPE, 18300, 21900, 21200, 1},  // 15 mters{SW_BAND_TYPE, 21900, 26200, 24940, 1},  // 12 meters{SW_BAND_TYPE, 26200, 27900, 27500, 1},  // CB band (11 meters){SW_BAND_TYPE, 27900, 30000, 28400, 1}}; // 10 metersO pacote inclui:1 x Host com shell + antena (Bateria incluídos)OU1 x Placa finalizada + alto-falante + antena (Bateria não incluído)Detalhes da imagem:
+
+
+
+

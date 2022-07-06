@@ -1,0 +1,142 @@
+https://fr.banggood.com/BH1750FVI-Digital-Light-Intensity-Sensor-Module-AVR-3V-5V-p-915826.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Module de capteur d&#39;intensité lumineuse numérique BH1750FVI AVR 3V-5V
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manual: Click here to open<<<    Fonctionnalités:    ROHM original chip BH1750FVI   Convertisseur 16 bits AD intégré au capteur   Digital output directly, omitting complex calculations and calibration   Ne pas distinguer la lumière ambiante   Spectral characteristics close to visual sensitivity   Mesure de haute précision une large gamme de luminosité à moins de 1 lux  Spécification:    Type: GY-302   Taille: 18,5 x 13,9 mm   Power supply: 3 - 5V   Plage de données: 0-65535  Emballage inclus:    1 x BH1750FVI module de capteur d'intensité lumineuse numérique      
+
+
+

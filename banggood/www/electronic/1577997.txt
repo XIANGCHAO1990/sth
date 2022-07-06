@@ -1,0 +1,211 @@
+https://www.banggood.com/DC-DC-5-32V-to-0_8-30V-Power-Supply-Step-Down-Module-Adjustable-Buck-Regulator-5A-Constant-LED-Driver-Battery-Charging-Voltage-Board-p-1577997.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+DC-DC 5-32V to 0.8-30V Power Supply Step Down Module Adjustable Buck Regulator 5A Constant LED Driver Battery Charging Voltage Board
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview:
+
+	 
+
+The module uses high-quality chips, high efficiency (up to 95%), low heat generation, maximum 5A current, and TI's op-amp control output current, making the overall output very stable.
+
+This module uses a low-ESR filter capacitor to reduce ripple voltage to 50mV!
+
+	 
+
+Features:
+
+	 
+
+Module nature: non-isolated buck module
+
+Rectification mode: asynchronous rectification
+
+Wiring port: Input mode: IN+ input positive, IN- input negative
+
+Output mode: OUT+ output positive, OUT-output negative
+
+Input voltage: DC 5V-32V
+
+Output voltage: DC 0.8V-30V
+
+Output current: Adjustable , Max 5A
+
+Conversion efficiency: 95% (maximum)
+
+Switching frequency: 300KHz
+
+Output ripple: 50mV (maximum) 20M bandwidth
+
+Load adjustment rate: +/-0.5%
+
+Voltage regulation rate: +/- 2.5%
+
+Operating temperature: -40°C to +85°C
+
+Size: 51 x 26.3 x 14 (length x width x height) (mm)
+
+	 
+
+Package Included:
+
+	 
+
+1 x DC-DC 5A Adjustable Buck Regulator Power Supply Module
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,337 @@
+https://fr.banggood.com/3000W-AC220V-250V-to-DC-48V-62A-ZVS-Heating-Switching-Power-Supply-R48-3000e3-For-Induction-Heater-p-1530723.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+3000W AC220V-250V à DC 48V 62A ZVS alimentation à découpage de chauffage R48-3000e3 pour chauffage à Induction
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conseils: Ce produit est l'alimentation de la station de base de communication, qui doit avoir une connexion de communication avec le châssis. Si vous n'avez pas de connexion de communication, le voyant jaune clignotera, ce qui est un phénomène normal et n'affecte pas la puissance de sortie normale.Fonctionnalité:
+
+
+
+Rendement élevé, réduit la consommation d'énergie pour des coûts d'exploitation inférieurs
+
+La puissance de sortie totale (3 kW) jusqu'à + 45 ° C permet des économies sur le système climatique et les coûts d'exploitation
+
+Large plage de tension d'entrée pour fonctionner dans les environnements les plus exigeants
+
+Hot-pluggable - facilite les extensions futures et une maintenance facile
+
+Conforme aux normes mondiales - offre qualité, performances et fiabilité, quelles que soient les exigences de l'application ou de l'emplacement
+
+
+
+La description:
+
+
+
+Le redresseur à haut rendement de 3000 W (modèle R48-3000e3) est conçu pour convertir les tensions d'alimentation CA standard en une tension nominale stable de -48 V CC réglable en fonction des besoins de l'application. 
+
+Le R48-3000e3 est un redresseur de puissance constante conçu avec la dernière technologie de commutation brevetée, utilisant la fonctionnalité DSP (Digital Signaling Processor) pour un fonctionnement efficace.
+
+Pour une capacité de charge plus élevée, les redresseurs peuvent être connectés en parallèle et une commande intelligente peut être ajoutée à l'aide d'un contrôleur séparé.
+
+
+
+
+
+
+Entrée CA
+
+
+
+Tension d'entrée, nominale
+
+200 à 250 VCA
+
+
+
+Tension d'entrée, variation autorisée
+
+85 à 300 VCA
+
+
+
+Fréquence de ligne
+
+45 to 65 Hz
+
+
+
+Courant d'entrée maximum
+
+22 A
+
+
+
+Facteur de puissance
+
+> 0,99 pour une charge de 50% à 100%
+
+
+
+THD (distorsion harmonique totale)
+
+≤5% pour une charge de 50% à 100%, ≤2% sans charge
+
+
+
+Sortie CC
+
+
+
+Tension de sortie, non réglable
+
+48V DC
+
+
+
+Puissance de sortie
+
+3000 W maximum
+
+
+
+Puissance de sortie, déclassée pour la tension d'entrée
+
+Voir le diagramme
+
+
+
+Courant de sortie
+
+62,5A@-48VDC
+
+
+
+Point de consigne de limite de courant de sortie
+
+0 to 62.5A
+
+
+
+Efficacité maximale
+
+95,5%
+
+
+
+Déclassement de température
+
+Pleine puissance de sortie jusqu'à + 45 ° C à une plage de tension d'entrée de 176-264VAC
+
+
+
+Contrôle et surveillance
+
+
+
+Redresseur Alarme et signalisation Alarme et état signalés via le bus CAN au contrôleur système
+
+
+
+Indications visuelles Vert LED: normale Fonctionnement LED jaune: alarme (signifie aucune connexion de communication)
+					LED rouge: échec
+
+
+
+Environnement
+
+
+
+Plage de température, fonctionnement
+
+-40 à 70 ° C, -40 à + 158 ° F
+
+
+
+Plage de température, stockage
+
+-40 à + 70 ° C, -40 à + 158 ° F
+
+
+
+Humidité relative
+
+0 à 95%
+
+
+
+Altitude
+
+2000 m, 6560 ft à pleine puissance
+
+
+
+EMC
+
+ETSI EN300 386: 2005, Classe B.
+
+
+
+ 
+
+EN55022, classe B
+
+
+
+sécurité
+
+EN 60950-1; CEI 60950
+
+
+
+Mécanique
+
+
+
+Dimensions (H x L x P) 41x84,5x330 mm / 1,61x3,33x13 pouces
+
+
+
+Poids 1,5 kg / 3,41 lb
+
+
+
+
+Le forfait comprend:
+
+	1 x alimentation
+
+
+
+
+
+

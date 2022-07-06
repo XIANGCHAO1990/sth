@@ -1,0 +1,190 @@
+1211151
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/69/39/9f6bc43a-4152-4ebf-bdc3-568231e69ff4.jpg
+Módulo 9V DSO-SHELL DSO150 Digital Osciloscópio montado JYETech original
+https://pt.banggood.com/Original-JYETech-Assembled-DSO-SHELL-DSO150-Digital-Oscilloscope-Module-9V-p-1211151.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Osciloscópio DSO Shell (DSO150):
+
+1. O DSO Shell tem um bandwitch semelhante ao DSO138, embora contenha melhorias significativas na estrutura, mecânica e operação.
+2. Display e MCU agora estão montados na mesma placa (placa principal) para evitar o uso de pin-headers entre placas. O feedback de DSO138 usuários mostrou que soldar nos cabeçotes de pino é freqüentemente problemático para muitos iniciantes. O canal analógico é colocado em uma placa separada que contém a maioria das peças instaladas pelo usuário. Isso traz uma melhor separação entre circuitos analógicos e digitais. Sem a parte analógica, a placa-mãe é na verdade uma placa de controle para fins gerais que pode ser usada em muitas outras aplicações. A placa-mãe está totalmente instalada (exceto alguns componentes de retenção) e testada na fábrica antes da embalagem.
+3. DSO Shell vem com gabinete completo. O painel frontal e os suportes superior / inferior são flexíveis para fácil modificação pelo usuário.
+4. O codificador giratório foi adicionado. Isso torna o ajuste dos parâmetros muito mais rápido e fácil.
+5. A sensibilidade do DSO Shell foi estendida em ambas as direções e é maior e mais ampla do que o DSO138. Atinge 5mV / div --- 20V / div enquanto o DSO138 é apenas 10mV / div --- 5V / div.
+6. O DSO Shell funciona com fonte de alimentação de 9 V (não use tensão de alimentação superior a 10 V!). Os usuários precisam preparar sua própria fonte de alimentação, já que ela não está incluída nos kits. O conector de alimentação da placa-mãe aceita plugue DC padrão de 5,5 mm / 2,1 mm. Um conector de 2 pinos alternativo (passo de 0,1 ") também é fornecido para conveniência de conexão a diferentes fontes de alimentação.
+
+Características dos indicadores:
+
+Número do canal: 1
+Largura de banda analógica: 0 - 200 KHz
+Sensibilidade: 5mV / Div - 20V / Div
+Erro de sensibilidade: <5%
+Resolução: 12 bits
+Impedância de entrada: 1M ohm
+Tensão máxima de entrada: 50Vpk
+Acoplamento: DC, AC, GND
+Taxa máxima de amostragem em tempo real: 1Msps
+Base de tempo: 10us / Div - 500s / Div
+Comprimento do registro: 1024
+Modos de gatilho: Auto, Normal, Único
+Tipos de gatilho: borda ascendente / descendente
+Posição do gatilho: 1/2 do tamanho do buffer fixo
+Cor de 2,4 polegadas TFT LCD com resolução 320 x 240
+Fonte de alimentação: 9V DC (certifique-se de que a fonte de alimentação seja 9V, menor ou maior que 9V causará problemas.)
+Corrente de alimentação: 120mA @ 9V
+Dimensão: 115 mm x 75 mm x 22 mm
+Peso: 100 gramas (não incluindo cabos e fonte de alimentação)
+
+Informações de atualização: acessórios de componentes e placa PCB fizeram uma série de alterações (agora é a última versão do 109-15001-00E)
+Firmwares: Click to open
+Users Manual: Click to open
+Mainboard Schematic: Click to open
+Analog board Schematic: Click to open
+How to Use the DSO150 Library: Click to open
+Source codes: Click to open
+FAQ, Tips, and Troubleshooting: Click to open
+
+O pacote inclui:
+
+1 x Montado DSO150 Digital Osciloscópio
+1 x instrução EN
+
+
+
+
+
+

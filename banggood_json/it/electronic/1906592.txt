@@ -1,0 +1,145 @@
+1906592
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/35/39/ea76993f-9c48-4537-911a-e846f1272995.jpg
+5PCS M5Stack® M5Stamp C3 ESP32 Scheda di sviluppo WiFi + Bluetooth Potenza ultra bassa ESP32-C3 RISC-V MCU
+https://it.banggood.com/5PCS-M5Stack-M5Stamp-C3-ESP32-Development-Board-WiFi+Bluetooth-Ultra-Low-Power-ESP32-C3-RISC-V-MCU-p-1906592.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:M5Stack ha appena aggiunto una nuova famiglia alla sua popolare serie di moduli con Stamp-C3. il nuovo Stamp-C3 dotato di MCU ESPRESSIF ESP32-C3 RISC-V con Wifi e connettività Bluetooth 5 (LE) per dispositivi IoT edge come elettrodomestici e automazione industriale. Combinando l'avvio protetto basato su RSA-3072 e la crittografia flash basata su AES-128-XTS, M5Stack offre un modo più sicuro per rispondere ai problemi di sicurezza Bluetooth, rendendolo anche ottimale per le apparecchiature IoT industriali che raccolgono i dati dei sensori all'interno di una fabbrica o un edificio.Lo Stamp-C3 è basato su un microcontrollore RISC-V a 32 bit e opera a una frequenza di clock massima di 160 MHz. Con 400 KB di memoria flash interna RAM e 4 MB, può facilitare molti casi d'uso diversi che coinvolgono dispositivi collegati. Lo Stamp-C3 fornisce il supporto completo Bluetooth® 5.0 a lungo raggio (LR) comprese le funzioni di rete a lungo raggio e mesh e raggiunge la costruzione dispositivi con un'ampia copertura e una migliore usabilità. Inoltre, l'eccezionale involucro in plastica resistente al calore è sostenuto a una temperatura di esercizio più elevata.Caratteristiche:- STILE MULTIPLO: Sono disponibili tre tipi di opzioni di saldatura (SMT, DIP, flyw1re), con custodia in plastica resistente alle alte temperature, temperatura di picco = 230 ℃ELEVATA INTEGRAZIONE: Stamp-C3 contiene 5 V-> 3,3 V DC/DC design, GPIOx13, RGB programmabile LED x1, pulsante Reset x1, pulsante x1, antenna 3D, fornendo una comunicazione wireless stabile e affidabile.SVILUPPO A BASSO CODICE:Stamp-C3 è completamente compatibile con Arduin0, ESP32-IDF e altre piattaforme di sviluppo tradizionali per creare rapidamente varie applicazioni. (Supporto UIFlow in arrivo)PinMap:Il pacchetto include:5 x M5Timbro C35 x adesivo resistente al caloreApplicazione:- Prototipazione fai da te- Elettrodomestici- Automazione industrialeSpecifiche:SpecificheParametriESP32-C3Processore single-core RISC-V a 32 bit, con clock a 160 MHzMagazzinaggio384KB ROM, 400KB SRAM, 8KB RTC SRAM, 4MB FLASHWifiLa banda a 2,4 GHz supporta larghezza di banda di 20 MHz e 40 MHz, protocollo IEEE 802.11 b/g/n, velocità dati fino a 150 MbpsBluetoothBluetooth 5, Bluetooth mesh, supporto velocità 125 Kbps, 500 Kbps, 1 Mbps, 2 MbpsTensione di ingresso5V @ 500mAHMIPulsante fisico programmabile x 1, pulsante di ripristino debug x 1, RGB programmabile LED (SK6812) x 1Interfaccia USBTipo C x1Antenna Tipo2.4G 3D AntennaRisorse dell'interfaccia periferica del moduloADC, GPIO, SPI, UART, I2C, I2S, PWM, RMT, DMA, porta seriale USB, TWAIInterfaccia IO x13G21, G20, G9, G18, G19, G1, G0, Gl0, G8, G7, G6, G5, G4Spaziatura dell'interfaccia IO2.54mmPeso netto3.8gTaglia del prodotto34 * 20 * 4.5mmDimensione dell'imballaggioSacchetto sigillante 85*55mm (traslucido)Schema: Clicca qui per aprireLa shell supporta il profilo di riflusso:Link correlati:Scheda tecnica ESP32-C3
+
+
+
+

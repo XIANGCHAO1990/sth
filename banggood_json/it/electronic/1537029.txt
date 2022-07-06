@@ -1,0 +1,266 @@
+1537029
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/0D/D1/909bd2ac-a1c4-4ff7-91fd-912638b765bb.JPG
+Voltmetro ICL7107 Kit di produzione elettronica fai-da-te Voltmetro digitale DC5V 35mA Voltmetro
+https://it.banggood.com/ICL7107-Voltmeter-DIY-Electronic-Production-Kit-DC5V-35mA-Voltage-Meter-Digital-Voltmeter-p-1537029.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+
+	Nome del kit: ICL7107 Kit fai da te voltmetro
+
+Dimensioni PCB: 70,6 * 39 mm
+
+Dimensioni dell'apertura di montaggio della testa: 77 * 40 mm
+
+Dimensioni della finestra di visualizzazione: 51 * 24 mm
+
+Soldering manual: Clicca qui.
+
+Parametri elettrici:
+
+
+Tensione di lavoro: DC5V
+
+Corrente di lavoro: 35mA
+
+Precisione della misurazione: può essere calibrato per ottenere una maggiore precisione e nessun parametro al momento.
+
+Campo di misura: diviso in 3 file, file 0-2V Misura piccola tensione
+
+                                                            File 0-20V che misura la bassa tensione
+
+                                                            0-200 V, misurando la tensione più alta.
+
+Metodo di selezione della gamma: giunti di saldatura con selezione dell'ingranaggio sulla scheda,
+
+Quando i due punti del file 0-2V sono saldati insieme e la resistenza del resistore di saldatura RX è 1K, l'intervallo di misurazione è 0-2V;
+
+Quando si saldano 2 punti di file 0-20 V insieme, la resistenza di saldatura RX è 100 K, il campo di misurazione è 0-20 V;
+
+Quando si saldano 2 punti di file 0-200 V insieme, la resistenza di saldatura RX è 1 M, l'intervallo di misurazione è 0-200 V;
+
+Display overrange: la prima posizione mostra 1 o -1
+
+Nel kit, l'RX è disponibile in 100K e 1M e l'acquirente seleziona la saldatura in base al suo intervallo di misurazione. Questo voltmetro può anche essere cambiato in un amperometro. Il metodo per cambiare il misuratore di corrente: il PCB riserva una posizione di saldatura con resistenza ad alta precisione da 2 W 0,1 ohm sulla scheda, salda questa resistenza e quindi RX non ha bisogno di essere saldato. Questo è un amperometro 0-2A.
+
+Colore display: rosso
+
+Strumenti necessari per realizzare la produzione: servono multimetri, ferri da stiro elettrici e pinze ad acqua.
+
+
+Il pacchetto include:
+
+
+1 x scheda PCB
+
+3 x 1N4148
+
+1 diodo Zener da 5,1 V.
+
+1 resistenza da 100 ohm
+
+1 resistenza da 270 ohm
+
+2 resistenze da 2K
+
+1 resistenza da 20K
+
+1 resistenza da 47K
+
+1 resistenza da 56K
+
+2 resistenze da 100 K.
+
+1 resistenza 1M
+
+1 x 2.2MH induttore
+
+Condensatore monolitico 2 x 104
+
+Condensatore monolitico 2 x 101
+
+Condensatore monolitico 1 x 224
+
+Condensatore monolitico 1 x 474
+
+Condensatore elettrolitico 2 x 10UF25V
+
+1 x C1815
+
+1 x TL431
+
+2 x 3296-202 potenziometro
+
+1 x XH2.54-2P sedile dritto
+
+1 x linea XH2.54-2P
+
+1 x KF301-2 sedile
+
+1 porta chip da 40P
+
+1 x chip LT7107
+
+4 x 0,56 un tubo digitale comune
+
+1 x case
+
+4 x M2 * 6 viti autofilettanti
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,175 @@
+https://fr.banggood.com/DYP-A02YY-PWM-or-UART-DC5V-Ultrasonic-Ranging-Sensors-Ultrasonic-Waterproof-Distance-Sensor-Waterproof-Probe-Ultrasonic-module-p-1616182.html?cur_warehouse=CN&ID=6285054&rmmds=CategoryElectronicsPop
+DYP-A02YY PWM / UART DC5V capteurs de distance à ultrasons capteur de Distance étanche à ultrasons sonde étanche module à ultrasons
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spécifications :
+
+
+
+Tension de fonctionnement : 5V
+
+Courant de fonctionnement moyen : <15 mA
+
+Courant de crête : 60 mA
+
+Étanche : IP67
+
+Distance de la zone aveugle: 0-3cm 
+
+Gamme d'objets d'avion: 3-420cm
+
+Cycle de travail : contrôlé /100ms
+
+Mode de sortie : largeur d'impulsion PWM ou port série UART
+
+Précision de mesure : +-(1+S*0,5 %)/+-(1+S*0,3 %) CM (S mesure la distance)
+
+
+
+Emballage inclus:
+
+
+
+1 x PWM/UART DC5V capteurs de télémétrie à ultrasons étanches à ultrasons
+
+
+
+
+
+
+

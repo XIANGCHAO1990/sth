@@ -1,0 +1,313 @@
+https://fr.banggood.com/DC-DC-3V-3_3V-3_7V-4_2V-5V-to-5V-6V-9V-12V-Step-Up-Boost-Converter-Voltage-Regulate-Power-Supply-Module-Board-with-Enable-ON-or-OFF-p-1654213.html?cur_warehouse=CN&ID=513675&rmmds=CategoryElectronicsPop
+DC-DC 3V 3.3V 3.7V 4.2V 5V à 5V 6V 9V 12V Convertisseur élévateur élévateur de tension Réguler la carte du module d&#39;alimentation avec activation ON / OFF
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:  
+
+
+
+Fréquence de travail: 1 MHz
+
+Jusqu'à 94% d'efficacité (généralement de 75% à 91%) 
+
+Courant de repos: activez la sortie 210uA, désactivez la sortie 5uA.  
+
+Plage de température de fonctionnement: -40 ~ + 85 ℃
+
+Plage de température de stockage: -65 ~ + 150 ℃
+
+Taille: 20 x 15 x 6 mm
+
+Poids: 1,5 g  
+
+Protection :  
+
+Protection contre les surintensités (OCP)
+
+Protection contre les surtensions (OVP)
+
+Protection contre les courts-circuits (SCP)
+
+Protection contre la surchauffe (OTP) 
+
+
+
+
+
+
+Sortie 5V:
+
+ 
+
+
+Tension d'entrée DC 2.6 ~ 4.5V, sortie DC 5V ± 3%
+
+Sortie maximale: 5V / 1300MA (voir le tableau ci-dessous pour plus de détails)   
+
+ 
+
+
+
+ 
+
+
+Sortie 6V:
+
+ 
+
+
+Tension d'entrée DC 2.6 ~ 5.5V, sortie DC 6V ± 3%
+
+Sortie maximale: 6V / 1100MA (Voir le tableau ci-dessous pour plus de détails)   
+
+ 
+
+
+
+ 
+
+
+Sortie 9V:
+
+ 
+
+
+Tension d'entrée DC 2.6 ~ 5.5V, sortie DC 9V ± 3%
+
+Sortie maximale: 12V / 700MA (Voir le tableau ci-dessous pour plus de détails)   
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+Sortie 12V:
+
+ 
+
+
+Tension d'entrée DC 2.6 ~ 5.5V, sortie DC 12V ± 3%
+
+Sortie maximale: 12V / 550MA (voir le tableau ci-dessous pour plus de détails)   
+
+
+
+
+
+ 
+
+
+
+
+
+
+Description de Pin:
+
+
+
+Vi: Entrée positive (+).
+
+Fr: Activation de la sortie, connexion à la sortie d'activation GND, non connecté (ou connexion à Vi), désactivez la sortie, cette broche peut également être contrôlée par MCU, sortie d'activation de bas niveau, niveau élevé de désactivation de la sortie.
+
+G: Entrée et sortie négative (GND / -).
+
+Vo: Sortie positive (+).
+
+
+
+Applications:
+
+
+
+Équipement alimenté par batterie
+
+Instrumentation, multimètre
+
+Petits moteurs
+
+Caméra PTZ webcam
+
+Caméra IP
+
+Bateau de voiture de jouet
+
+Maquette d'avion
+
+Banque de puissance
+
+Éclairage LED
+
+Routeur Wi-Fi 
+
+Périphériques PLC RS485
+
+
+
+Attention:
+
+
+
+1. La tension d'entrée ne peut pas être supérieure à la plage d'entrée maximale.
+
+2. La puissance de sortie ne peut pas être supérieure à la charge maximale pendant une longue période.
+
+3. La puissance d'entrée doit être supérieure à la puissance de sortie, car la consommation d'énergie du module lui-même.
+
+
+
+Emballage inclus:
+
+
+
+1 x 5V 6V 9V 12V Step Up Boost Converter Voltage Regulate
+
+
+
+
+
+
+
+
+

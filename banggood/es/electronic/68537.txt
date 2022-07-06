@@ -1,0 +1,207 @@
+https://es.banggood.com/Wholesale-Geekcreit-UNO-R3-ATmega16U2-AVR-USB-Development-Main-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-68537.html?cur_warehouse=HK&rmmds=CategoryElectronicsPop
+Geekcreit® Compatible con Arduino UNO R3 ATmega16U2 AVR Juanta de Desarrollo Principal con Cable USB
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:
+La placa UNO R3 es 100% compatible con Arduino original, ahora tiene una calidad y rendimiento perfectos.
+
+Arduino es una plataforma informática física de código abierto basada en una placa de E / S simple y un entorno de desarrollo que implementa el lenguaje de procesamiento / cableado. Arduino se puede utilizar para desarrollar objetos interactivos independientes o se puede conectar al software en su computadora (Por ejemplo, Flash, procesamiento, MaxMSP). El IDE de código abierto se puede descargar de forma gratuita (Actualmente para Mac OS X, Windows y Linux).
+Este es el nuevo Tosduino Uno R3. Además de todas las características de la placa anterior, el Uno R3 ahora usa un ATmega16U2 en lugar del ATmega8U2. Esto permite velocidades de transferencia más rápidas, no se necesitan controladores para Linux o Mac (Se necesita un archivo inf para Windows) y la capacidad de mostrar el Uno como teclado, ratón, joystick, etc.
+
+Nota:
+
+El TOSduino Uno R3 requiere la carpeta de controladores Arduino 1.0 para instalarse correctamente en algunas computadoras. Hemos probado y confirmado que el R3 se puede programar en versiones anteriores del IDE. Sin embargo, la primera vez que utilice el R3 en una computadora nueva, deberá tener instalado Arduino 1.0 en esa máquina.
+El chip pequeño es ATmega16U2, el chip DIP de 28 pines es ATmega328-pu.
+
+Descripción del rendimiento:
+
+Terminal de entrada / salida digital: 0 a 13.
+Entrada / salida analógica: 0 a 5.
+Soporte de la función de descarga de ISP.
+Voltaje de entrada: Sin fuente de alimentación externa cuando está conectado a la computadora USB, fuente de alimentación externa de entrada de voltaje de 5V ~ 9V DC.
+Voltaje de salida: 5V / 3.3V DC.
+Usando el controlador de microprocesador Atme Atmega328.
+
+Paquete incluido:
+
+1 x UNO R3
+1 x Cable USB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

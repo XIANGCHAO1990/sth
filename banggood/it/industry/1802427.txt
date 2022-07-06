@@ -1,0 +1,144 @@
+https://it.banggood.com/OWON-HDS200-Series-2CH-Handheld-Oscilloscope-40-or-70-or-100MHz-Bandwidth-20000-Counts-Multiumeter-OSC-+-DMM-+-Waveform-Generator-3-in-1-Suitable-for-Automobile-Maintenance-and-Power-Detection-p-1802427.html?cur_warehouse=CN&ID=6301777&rmmds=CategoryToolsPop
+Palmare OWON® serie HDS200 2CH oscilloscopio Larghezza di banda 40/70/100 MHz 20000 conteggi Multimetro OSC + DMM + Generatore di forme d&#39;onda 3 in 1 Adatto per la manutenzione dell&#39;automobile e il rilevamento dell&#39;alimentazione
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IIII>>Maggiori informazioni su HDS2102 e HDS2102S<<Nota: se il computer non installa automaticamente il software correttamente, installare il software manualmente in base al file PDF nel manuale.>> Manuale e software in inglese <<ICaratteristiche:● Oscilloscopio + multimetro + generatore di forme d'onda, multifunzione in uno● Schermo LCD a colori da 3,5 pollici ad alta risoluzione e contrasto elevato, adatto per uso esterno● 18650 batteria al litio, consumo energetico completo≤3W, può funzionare ininterrottamente per circa 6 ore● Interfaccia USB Type-C, supporto power bank, supporto connessione software per PC● Funzione di auto-calibrazione● Supporto SCPI, facilita lo sviluppo secondarioSpecifiche:OscilloscopiModelloHDS242HDS272HDS2102HDS242SHDS272SHDS2102SLarghezza di banda40MHz70MHz100MHz  40MHz70MHz  100MHz  Canali 2- CH oscilloscopio2-CH oscilloscopio+ 1-CH Generator Frequenza di campionamento 250MSa/s 250MSa/s 500MSa/s 250MSa/s 250MSa/s 500MSa/s Modellolo di acquisizione Normale, rilevamento piccoRegistrare Lunghezza8KSchermo3.5 pollici LCDFrequenza di aggiornamento della forma d'onda10.000 wfrms / sAccoppiamento di ingresso DC, AC e Ground Impedenza di ingresso 1 MΩ + 2%, in parallelo con 1 6pF + 10pF Fattori di attenuazione della sonda 1X, 10X, 100X, 1000X, 10000XMassimo tensione di ingresso400 V (CC + CA, PK PK, impedenza di ingresso 1 MΩ)(attenuazione sonda 10:1)Limite di larghezza di banda (tipico) 20MHz Orizzontale Scala 5ns / div - 1000s / div, incrementi di 1-2-5 Sensibilità verticale 10mV / div - 10V / div Risoluzione verticale 8 bits Trigger Tipo Bordo Modalità di attivazione Automatico, Normale, singolo Misurazione automaticaFrequenza, periodo, ampiezza, max, min, media, PK-PK Misurazione del cursore△ V, △ T, △ T & △ V tra i cursori Interfaccia di comunicazioneUSB Type-C Multimetro (Standard)Massimo Risoluzione  20.000 conteggiModalità di test Test di tensione, corrente, resistenza, capacità, diodi e continuità Impedenza di ingresso 10 MΩ Tensione di ingresso massimaCA 750 V, CC 1000 V. Corrente di ingresso massima CC: 10A CA: 10A Diodo  0- 2VGeneratore di forme d'onda (Solo per HDS242S e HDS272S e HDS2102S)Uscita in frequenzaSeno 0.1Hz - 25MHz Quadrato0.1Hz - 5MHz Rampa0.1Hz - 1MHz Polso 0.1Hz - 5MHz Arbitrario 0.1Hz - 5MHz Frequenza di campionamento125MSa/s Canale1-CH Intervallo di ampiezza20mVpp-5Vpp Forma d'onda Lunghezza 8K Risoluzione verticale14bits Impedenza di uscita 50Ω La confezione include:1 dispositivo principale1 x Bag1 sonda1 x spina di alimentazione (tipo UE)1 x regolazione della sonda1 cavo USB2 x Multimetri cavi1 x istruzioni1 CD Rom1 x BNC a coccodrilloNota:Ti invieremo un adattatore per spina in base al tuo paese.Dettagli immagine:
+
+
+
+

@@ -1,0 +1,190 @@
+https://fr.banggood.com/4-Channel-Wireless-RF-Remote-Control-Transmitter-Receiver-Module-p-912951.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Module récepteur émetteur de télécommande RF sans fil à 4 canaux
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instructions: Click here to open
+
+	Spécification:
+
+Télécommande:
+
+	Tension de fonctionnement: DC 12V (batterie 27A / 12V x 1)
+	Courant de fonctionnement: 10mA à 12V
+	Puissance rayonnée: 10 mW à 12 V
+	Distance de transmission: 50m - 100m (champ ouvert, la sensibilité du récepteur de -100dbm)
+	Fréquence d'émission: 315 MHZ
+	Mode de modulation: ASK (modulation d'amplitude)
+	Types d'encodeur: code fixe
+
+Carte récepteur de décodage:
+
+	Tension de fonctionnement: DC 5V
+	La sensibilité du récepteur est de -98 dB
+	Leg 7 bits: VT, D3, D2, D1, D0, + 5V et GND
+	VT est une broche de sortie haute de signal valide lors de la réception d'un signal valide, la sortie de broche haute, peut également entraîner le relais
+	Taille: 6,6 x 22 x 41 mm
+
+Remarque:
+
+	Il y a quatre boutons sur la télécommande, et correspondent respectivement aux quatre bits de données à la broche de sortie de la carte réceptrice D0, D1, D2 et D3.
+	Appuyez sur les boutons pour transmettre des signaux, le bit de données correspondant est émis haut.
+
+Emballage inclus:
+
+	1 x télécommande
+	1 x carte récepteur de décodage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

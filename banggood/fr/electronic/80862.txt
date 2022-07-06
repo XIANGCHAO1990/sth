@@ -1,0 +1,196 @@
+https://fr.banggood.com/Geekcreit-6DOF-MPU-6050-3-Axis-Gyro-With-Accelerometer-Sensor-Module-p-80862.html?cur_warehouse=CN&ID=522225&rmmds=CategoryElectronicsPop
+6DOF MPU-6050 3 Axe Gyro Avec Module de Capteur Accéléromètre Pour Arduino
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+
+Nom: MPU-6050 module (gyroscope à trois axes + de l'accéléromètre triaxial)
+2.Espacement des broches 54mm
+MPU-6050 accéléromètre + gyroscope
+Le capteur MPU-6050 contient un accéléromètre MEMS et un gyroscope MEMS dans une seule puce. il est très précis, car il contient 16 bits analogique au matériel de conversion numérique pour chaque canal. à cet effet il capture les coordonnées x, y et z canal en même temps.
+
+Spécification :
+
+16Bit annonce convertisseur puce, sortie de données 16 bits
+Utiliser la puce: MPU-6050
+Alimentation: 3-5V (régulateur interne de faible chute de tension)
+Communication: communication IIC protocole standard
+Gamme de gyro: ± 250 500 1000 2000 ° / S
+Plage d'accélération: ± 2 ± 4 ± 8 ± 16g
+Utilisant immersion pcb d'or, des machines de soudage pour assurer la qualité
+Taille: 2 x 1,6 x 0,1 mm
+
+Application :
+
+Jeux de détection de mouvement
+Réalité augmentée
+Stabilisateur d'image électronique (EIS: stabilisation d'image électronique)
+Stabilisation d'image optique (OIS: stabilisateur d'image optique)
+" Zero-touch " gestes interface utilisateur
+Navigation piétonne
+Raccourcis gestuels
+
+Marché:
+
+Téléphone intelligent
+Tablette
+Jeux de poche
+Télécommande 3D
+Appareils de navigation portables
+
+Emballage inclut:
+
+1 x Module MPU-6050
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,
+
+

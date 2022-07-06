@@ -1,0 +1,145 @@
+1935993
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/CB/44/c3c4bfb6-4e23-4e90-9439-bb5929528e10.jpg
+LU-ASR01 Módulo de reconocimiento de voz inteligente Reconocimiento fuera de línea Entradas personalizadas 100
+https://es.banggood.com/LU-ASR01-Intelligent-Speech-Recognition-Module-Offline-Recognition-Custom-100-Entries-p-1935993.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:La palabra de activación se puede personalizar: defina hasta 5 palabras de activación. Wake up word al menos 2 palabras.La entrada de voz: puedes personalizar hasta 100 entradas.La tasa de reconocimiento es muy buena y la tasa de reconocimiento dentro de los 10 metros alcanza el 98%.Los primeros 6 de los 8 IO se pueden usar como PWM o como IO ordinario; una salida de puerto serie; una interfaz DHT11 (DS18B20). Si hay muchos dispositivos, se recomienda conectar el puerto serie.CH340C integrado, chip USB a TTL. Solo necesita un cable USB para lograr la descarga con un solo clic. No necesita un descargador.El paquete incluye:1 módulo de reconocimiento de voz inteligente.
+
+
+
+

@@ -1,0 +1,214 @@
+1462594
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/F7/7F/9e09cb30-e231-4d53-9c2f-97b3c45abd62.jpg
+Raspberry Pi USB-Kameramodul mit einstellbarem Fokusbereich für Raspberry Pi 3/2/B/B+
+https://de.banggood.com/Raspberry-Pi-USB-Camera-Module-with-Adjustable-Focusing-Range-for-Raspberry-Pi-3-or-2-or-B-or-B+-p-1462594.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+
+USB-Schnittstellenkamera, unterstützt alle Revisionen des Pi
+	Fokussierbereich: 20 mm (MAX)
+	Videoauflösung: 640*480
+	Größe: 3,8 cm * 1,5 cm * 3 cm, Linie skalierbar, die längste ist 65 cm
+
+
+So verwenden Sie diese Kamera:
+
+
+1.Fokus einstellen
+
+
+Testen Sie diese USB-Kamera mit Ihrem Computer und stellen Sie den Fokus auf die beste Bildschirmauflösung ein.
+
+2. Video aufnehmen
+
+sudo apt-get update
+
+sudo apt-get install ffmpeg
+
+avconv -f video4linux2 -r 7 -s 640x480 -i /dev/video0 video0.avi
+
+3.Video abspielen
+
+omxplayer -o hdmi-video0.avi
+
+4.  Foto machen
+
+Installieren Sie die Software:
+
+sudo apt-get install fswebcam
+
+Bilder aufnehmen:
+
+fswebcam -r 640x480 Bild.jpg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

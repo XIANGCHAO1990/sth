@@ -1,0 +1,143 @@
+https://es.banggood.com/3-21S-Lithium-Battery-5A-Balancer-4-LTO-LiFePo4-Li-ion-Battery-Active-Equalizer-Balancer-Board-p-1747474.html?cur_warehouse=CN&ID=6294209&rmmds=CategoryElectronicsPop
+3-21S Litio Batería 5A Equilibrador 4 LTO LiFePo4 Li-ion Batería Active Equalizador Equilibrador Tablero
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parámetros de la placa de compensación de titanato de litioVoltaje de arranque equilibrado: 2.0v-2.8vVoltaje de terminación equilibrado: 1,9 V (entrando en estado de reposo por bajo voltaje)Precisión del equilibrio: 5 mvCorriente máxima de equilibrio: error de grupo 0.1v1a; 0.5v3.5a; 1.0v5.5a (prueba de cable de 18awg 30cm)Corriente de sueño: ≤ 1mA5s-lto estado completo de corriente estática (2.8V * 5 celdas) 14V 12mA6s-lto estado completo de corriente estática (2.8V * 6 celdas) 16.8v 15mA7s-lto estado completo de corriente estática (2.8V * 7 celdas) 19.6v 12mA8s-lto estado completo de corriente estática (2.8V * 8 celdas) 22.4v 12mANo se necesita una fuente de alimentación externa y todo el grupo está equilibrado por la transferencia de energía interna de la batería.Temperatura ambiente de trabajo: 0 ℃ -60 ℃Parámetros generales del fosfato de hierro y litio ternarioVoltaje de arranque equilibrado: 3.0v-4.2vVoltaje de terminación equilibrado: 2.9v (entrando en estado de reposo por bajo voltaje)Precisión de equilibrio: ≤ 5 mvCorriente de sueño: ≤ 1mACorriente máxima de equilibrio: error de grupo 0.1v1a; 0.5v3.5a; 1.0v5.5a (prueba de cable de 18awg 30cm)Estado completo de corriente estática 3S (4,2 V * 3 celdas) 12,6 V 12 mAEstado completo de corriente estática 4S (4,2 V * 4 celdas) 16,5 v 15 mAEstado completo de corriente estática 5S (4.2V * 5 celdas) 21v 15mAEstado completo de corriente estática 6S (4,2 V * 4 celdas) 25,2 v 15 mAEstado completo de corriente estática 7S (4.2V * 7 celdas) 29.4V 15mAEstado completo de corriente estática de 8 s (4,2 V * 8 celdas) 33,6 v 11maEstado de plena potencia de la placa común de 15/16/17 s (4,2 V * 17 celdas * 2) 71,4 v 10 mAEstado de plena potencia de la placa común 17/18/19/21 s (4.2V * 21cell * 2) 88.2v 16mANo se necesita una fuente de alimentación externa y todo el grupo está equilibrado por la transferencia de energía interna de la batería.Temperatura ambiente de trabajo: 0 ℃ -60 ℃El paquete incluye:1 x Li-ion Batería Active Equalizer Balancer
+
+
+
+

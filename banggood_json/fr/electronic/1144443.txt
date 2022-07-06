@@ -1,0 +1,145 @@
+1144443
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/B4/1B/269cea5c-a46d-4262-ba04-403e7414b6bc.jpg
+Geekcreit 3Pcs 7 broches 0.96 pouces IIC/SPI série 128x64 blanc OLED Module d'affichage
+https://fr.banggood.com/Geekcreit-3Pcs-7-Pin-0_96-Inch-IIC-or-SPI-Serial-128x64-White-OLED-Display-Module-p-1144443.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interface:   GND : Terre  VCC : alimentation (2,8 V-5,5 V)  J0 : Horloge  D1 : Données  RES : Réinitialiser  DC : données/commande  CS : sélection de puces  Caractéristique:   Pas besoin de rétroéclairage, l'unité d'affichage peut être auto-lumineuse  Haute résolution : 128*64  Angle de vision : > 160°  Prend en charge de nombreuses puces de contrôle : entièrement compatible avec , 51 Series, MSP430 Series, STM32/2, CSRIC, etc.  Ultra-faible consommation d'énergie : plein écran éclairé 0,08W  Tension : 3 V ~ 5V CC  Température de fonctionnement : -40  ~ 70   Taille du module : 27,3 x 27,8 x 3,7 mm  Interface IIC/SPI, besoin de 4 E/S uniquement.  CI de pilote : SSD1306  Qu'est-ce que l'OLED ?   OLED (Organic Light-Emitting Diode) est une technologie auto-luminescente composée d'un mince film organique multicouche placé entre une anode et une cathode. Contrairement à la technologie LCD, l'OLED ne nécessite pas de rétroéclairage. L'OLED possède un potentiel d'application élevé pour pratiquement tous les types d'écrans et est considéré comme la technologie ultime pour la prochaine génération d'écrans plats.  L'utilisation de la technologie OLED présente les avantages suivants :   1. Un processus de fabrication simplifié par rapport au TFT-LCD (Voir la comparaison de l'image 1 et de l'image 2 ci-dessous)  2. Lumière auto-émissive, contrairement au rétro-éclairage requis pour le TFT-LCD  3. Haute luminosité  4. Léger et fin (moins de 2 mm)  5. Basse tension de fonctionnement et consommation d'énergie  6. Large gamme de températures de fonctionnement (-40℃ à 85℃)  Noter: Si vous décidez d'acheter un écran OLED, vous devez confirmer que vous pouvez le faire fonctionner vous-même, nous n'aurons aucun support technologique à l'exception de toute la fiche technique. Merci pour votre compréhension et votre soutien.  Emballage inclus:   3 x blanc 0.96 pouces I2C IIC SPI série 
+
+,,,
+
+

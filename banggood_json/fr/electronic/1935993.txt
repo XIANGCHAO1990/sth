@@ -1,0 +1,145 @@
+1935993
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/CB/44/c3c4bfb6-4e23-4e90-9439-bb5929528e10.jpg
+Module de reconnaissance vocale intelligent LU-ASR01 Reconnaissance hors ligne personnalisée 100 entrées
+https://fr.banggood.com/LU-ASR01-Intelligent-Speech-Recognition-Module-Offline-Recognition-Custom-100-Entries-p-1935993.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:Le mot de réveil à personnaliser : Définissez jusqu'à 5 mots de réveil. Mot de réveil au moins 2 mots.La saisie vocale : vous pouvez personnaliser jusqu'à 100 entrées.Le taux de reconnaissance est très bon et le taux de reconnaissance à moins de 10 mètres atteint 98 %.Les 6 premiers des 8 IO peuvent être utilisés comme PWM ou comme IO ordinaires ; une sortie de port série ; une interface DHT11 (DS18B20). S'il y a beaucoup de périphériques, il est recommandé de connecter le port série.CH340C intégré, puce USB vers TTL. Seulement besoin d'un câble USB pour réaliser un téléchargement en un clic. Pas besoin de téléchargeur.Emballage inclus:1 module de reconnaissance vocale intelligent
+
+
+
+

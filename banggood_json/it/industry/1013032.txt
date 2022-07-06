@@ -1,0 +1,806 @@
+1013032
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/91/F4/a56bf2b2-3857-4b8d-a4df-0267b897e3ce.jpg
+Hantek DSO5102P Memoria Digitale USB oscilloscopio 2Canali 100MHz 1GSa/s
+https://it.banggood.com/Hantek-DSO5102P-USB-Digital-Storage-Oscilloscope-2Channels-100MHz-1GSa-or-s-p-1013032.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+
+
+
+Hantek DSO5102P Memoria Digitale USB oscilloscopio 2Canali 100MHz 1GSa/s>>Fare clic qui per scaricare il manuale utente in inglese<<
+
+
+
+Caratteristiche: 
+
+
+
+
+		Larghezza di banda 100MHz
+
+		1GSa/s Real Frequenza di campionamento del tempo
+
+		Ampio display a colori (7,0 pollici), WVGA (800x480)
+
+		Lunghezza di registrazione fino a 40K
+
+		Modalità trigger: video/slop/straordinari selezionabili su bordo/ampiezza dell'impulso/linea, ecc.
+
+		Connettività host e dispositivo USB, standard
+
+		Misurazioni automatiche multiple
+
+		Quattro funzioni matematiche, incluso lo standard FFT
+
+		Fornisce software per l'analisi in tempo reale del PC 
+
+
+
+
+Specifica:
+
+
+
+
+
+
+
+
+
+Modello
+
+DSO5202P
+
+DSO5102P
+
+DSO5072P
+
+
+
+Acquisizione
+
+
+
+Frequenza di campionamento 
+
+Campione in tempo reale: 1GS/s
+					Campione equivalente: 25GS/s
+
+
+
+Modalità di acquisizione
+
+
+
+
+
+
+
+
+
+Normale
+
+Solo dati normali
+
+
+
+Pea'k Detect
+
+Cattura glith ad alta frequenza e randon
+
+
+
+Media
+
+Wavefom Media, selezionabile 4,8,16,32,64,128
+
+
+
+Ingressi
+
+
+
+Ingressi Accoppiamento
+
+AC, DC, GND
+
+
+
+Impedenza degli ingressi
+
+1MΩ±2% II20pF±3pF
+
+
+
+Attenuazione della sonda
+
+1X, 10X
+
+
+
+Fattore di attenuazione della sonda supportato
+
+1X, 10X, 100X, 1000X
+
+
+
+Tensione di ingresso massima
+
+CAT I e CAT II: 300VRMS (10×), categoria di installazione;
+					CAT III: 150 VRM (1×);
+					Categoria di installazione II: declassamento a 20dB/decade sopra 100kHz a 13V Pea'k AC a 3MHz* e oltre. 
+					Per le forme d'onda non sinusoidali, il valore Pea'k deve essere inferiore a 450V. 
+					L'escursione sopra i 300V dovrebbe avere una durata inferiore a 100ms. 
+					Il livello del segnale RMS, inclusi tutti i componenti CC rimossi tramite l'accoppiamento CA, deve essere limitato a 300 V.
+					 Se questi valori vengono superati, possono verificarsi danni all'oscilloscopio.
+
+
+
+Orizzontale
+
+
+
+Intervallo di frequenza di campionamento
+
+500MS/s--1GS/s
+
+
+
+Interpolazione della forma d'onda
+
+(peccato x)/x
+
+
+
+Registrazione Lunghezza
+
+40'K
+
+
+
+Intervallo SEC/DIV
+
+Da 4ns/div a 40s/div
+
+Da 4ns/div a 40s/div
+
+
+
+Frequenza di campionamento e
+					Precisione del tempo di ritardo
+
+±50ppm (in qualsiasi intervallo di tempo ≥1ms)
+
+
+
+Intervallo di posizione
+
+da 2ns/div a 10ns/div; 
+					(-4div xs/div) a 20 ms;
+
+da 20ns/div a 80us/div; (-8div xs/div) a 40 ms;
+					da 200us/div a 40s/div; (-8div xs/div) a 400s
+
+
+
+Precisione di misurazione del tempo incrementale 
+					(Larghezza di banda completa)
+
+Scatto singolo, modalità normale: ± (1 intervallo di campionamento + 100 ppm × lettura + 0,6 ns);
+					>16 medie: ± (1 intervallo di campionamento + 100 ppm × lettura + 0,4 ns);
+					Intervallo di campionamento = s/div ÷ 200
+
+
+
+Verticale
+
+
+
+Risoluzione verticale
+
+Risoluzione a 8 bit, tutti i canali campionati contemporaneamente
+
+
+
+Intervallo di posizione
+
+Da 2 mV/div a 200 mV/div, ±2 V
+					da 200 mV/div a 5V/div, ±50 V
+
+
+
+Larghezza di banda
+
+100MHz
+
+100MHz
+
+70MHz
+
+
+
+Tempo di salita a BNC (tipico)
+
+3.5ns
+
+ 3.5ns
+
+5ns
+
+
+
+Larghezza di banda analogica in Normalee e
+					 Modalità medie a BNC o con sonda, DC Coupled
+
+da 2 mV/div a 20 mV/div, ±400 mV; Da 50 mV/div a 200 mV/div, ±2 V
+					da 500 mV/div a 2 V/div, ±40 V; 5V/div, ±50V
+
+
+
+Matematica
+
++, -, *, /, FFT
+
+
+
+FFT
+
+Finestre: Hanning, Flatop, Rettangolare, Bartlett, Blackman;
+					1024 punti campione
+
+
+
+Limite di banda
+
+20MHz
+
+
+
+Risposta in bassa frequenza (-3db)
+
+10Hz a BNC
+
+
+
+Precisione del guadagno CC
+
+±3% per la modalità di acquisizione Normalee o Media, 5V/div a 10 mV/div;
+					±4% per la modalità di acquisizione Normalee o Media, da 5 mV/div a 2 mV/div
+
+
+
+Precisione di misurazione CC, 
+					Modalità di acquisizione media
+
+Quando lo spostamento verticale è zero e N ≥16:± (3% × lettura + 0,1 div + 1 mV) viene selezionato solo 10 mV/div o superiore; 
+					Quando lo spostamento verticale non è zero e N≥16: ± [3% × (lettura + posizione verticale) + 1% della posizione verticale + 0.2div]; 
+					Aggiungere 2 mV per impostazioni da 2 mV/div a 200 mV/div; aggiungere 50 mV per impostazioni da 200 mV/div a 5V/div
+
+
+
+Ripetibilità della misurazione dei volt, 
+					Modalità di acquisizione media
+
+D1elta volt tra due medie qualsiasi di ≥16 forme d'onda acquisite con la stessa configurazione e condizioni ambientali
+
+
+
+Sistema di trigger
+
+
+
+Tipi di trigger
+
+Bordo, Video, Impulso, Pendenza, Nel tempo, Alternativa
+
+
+
+Sorgente trigger
+
+CH1, CH2, EXT, EXT/5, linea AC
+
+
+
+Modalità trigger
+
+Automatico, Normalee, Singolo
+
+
+
+Giunto Tipo
+
+CC, CA, Rifiuto rumore, Rifiuto HF, Rifiuto LF
+
+
+
+Sensibilità trigger
+					(Edge Trigger Tipo)
+
+CC(CH1,CH2):
+					1div da DC a 10MHz; 1.5div da 10MHz a 100MHz; 2div da 100MHz a Full;
+					DC(EST): 
+					200mV da CC a 100MHz; 350mV da 100MHz a 200MHz;
+					DC(EXT/5):       
+					1 V da CC a 100 MHz; 1,75 V da 100 MHz a 200 MHz;       
+					AC: attenua i segnali al di sotto di 10Hz;
+					HF Reject: attenua i segnali sopra gli 80kHz; 
+					LF Reject: Uguale ai limiti con accoppiamento DC per frequenze superiori a 150kHz; attenua i segnali al di sotto di 150kHz
+
+
+
+Intervallo livello trigger
+
+CH1/CH2: ±8 divisioni dal centro dello schermo; 
+					EST: ±1.2V;
+					EST/5:±6V
+
+
+
+Precisione del livello di trigger (tipica) Precisione 
+					è per segnali con tempi di salita e discesa ≥20ns
+
+CH1/CH2: 0.2div × volt/div entro ±4 divisioni dal centro dello schermo;
+					EXT: ± (6% dell'impostazione + 40mV);
+					EXT/5: ± (6% dell'impostazione + 200mV);
+
+
+
+Imposta il livello al 50% (tipico)
+
+Funziona con segnali di ingresso ≥50Hz
+
+
+
+Attivatore video
+
+
+
+
+
+Trigger video Tipo 
+
+CH1, CH2: ampiezza Pea'k-to-Pea'k di 2 divisioni;
+					EST: 400mV;
+					EST/5: 2V
+
+
+
+Formati del segnale e frequenze di campo, trigger video Tipo
+
+Supporta i sistemi di trasmissione NTSC, PAL e SECAM per qualsiasi campo o linea
+
+
+
+Gamma Holdoff
+
+100ns ~ 10s
+
+
+
+Trigger della durata dell'impulso
+
+
+
+
+
+Modalità di attivazione della durata dell'impulso
+
+Attiva quando (< , >, = o ≠); Impulso positivo o impulso negativo
+
+
+
+Punto di attivazione della durata dell'impulso
+
+Uguale: l'oscilloscopio esegue il trigger quando il fronte di discesa dell'impulso supera il livello di trigger.
+					Non uguale: se l'impulso è più stretto della larghezza specificata, il punto di trigger è il fronte di discesa.
+					In caso contrario, l'oscilloscopio si attiva quando un impulso continua per un tempo superiore al tempo specificato come Durata dell'impulso.
+					Meno di: il punto di trigger è il bordo d'uscita.
+					Maggiore di (chiamato anche trigger straordinario): l'oscilloscopio esegue il trigger quando un impulso continua per un tempo superiore al tempo specificato come Durata dell'impulso
+
+
+
+Intervallo di ampiezza dell'impulso
+
+20ns ~ 10s
+
+
+
+Attivatore di pendenza
+
+
+
+
+
+Modalità di attivazione della pendenza
+
+Si attiva quando (< , > , = , o ≠ ); Pendenza positiva o Pendenza negativa
+
+
+
+Punto di attivazione della pendenza
+
+Uguale: l'oscilloscopio esegue il trigger quando la pendenza della forma d'onda è uguale alla pendenza impostata.
+					Non uguale: l'oscilloscopio esegue il trigger quando la pendenza della forma d'onda non è uguale alla pendenza impostata.
+					Minore di: l'oscilloscopio esegue il trigger quando la pendenza della forma d'onda è inferiore alla pendenza impostata.
+					Maggiore di: l'oscilloscopio esegue il trigger quando la pendenza della forma d'onda è maggiore della pendenza impostata.
+
+
+
+Intervallo di tempo
+
+20ns ~ 10s
+
+
+
+Scatto straordinario
+
+
+
+
+
+Modalità nel tempo
+
+Fronte di salita o Fronte di discesa
+
+
+
+Intervallo di tempo
+
+20ns ~ 10s
+
+
+
+Trigger alternativo
+
+
+
+
+
+Trigger su CH1
+
+Trigger interno: fronte, larghezza dell'impulso, video, pendenza
+
+
+
+Attivare su CH2
+
+Trigger interno: fronte, larghezza dell'impulso, video, pendenza
+
+
+
+Contatore di frequenza di attivazione
+
+
+
+Risoluzione di lettura
+
+6 digits
+
+
+
+Precisione (tipica)
+
+±30 ppm (inclusi tutti gli errori di riferimento di frequenza e gli errori di conteggio ±1)
+
+
+
+Intervallo di frequenze
+
+Accoppiato AC, da 4Hz Min a larghezza di banda nominale
+
+
+
+Sorgente del segnale
+
+Modalità Pulse Width o Edge Trigger: tutte le sorgenti di trigger disponibili
+					Il frequenzimetro misura la sorgente di trigger in ogni momento, anche quando l'acquisizione dell'oscilloscopio è in pausa 
+					a causa di cambiamenti nello stato della corsa, o l'acquisizione di un singolo evento colpo è stata completata.
+					Modalità trigger a larghezza di impulso: l'oscilloscopio conta impulsi di ampiezza significativa all'interno della finestra di misurazione 1s che si qualificano come eventi innescabili, 
+					come impulsi stretti in un treno di impulsi PWM se impostato su modalità < e la larghezza è impostata su un tempo relativamente piccolo.
+					Modalità Edge Trigger: l'oscilloscopio conta tutti i fronti di sufficiente ampiezza e la corretta polarità.
+					Modalità di attivazione video: il frequenzimetro non funziona.
+
+
+
+Misurare
+
+
+
+Misura del cursore
+
+Differenza di tensione tra i cursori: ΔV
+					Differenza di tempo tra i cursori: ΔT
+					Reciproco di ΔT in Hertz (1/ΔT)
+
+
+
+Misurazione automatica
+
+Frequenza, Periodo, Media, Pk-Pk, Cycli RMS, Min, Maximum, Tempo di salita, Tempo di discesa, +Ampiezza impulso, -Ampiezza impulso, Ritardo1-2Ascendente, Ritardo1-2Caduta, +Duty, -Duty, Vbase, Vtop, Vmid , Vamp, Overshoot, Preshoot, Preiod Media, Preiod RMS, FOVShoot, RPREShoot, BWIDTH, FRF, FFR, LRR, LRF, LFR, LFF
+
+
+
+Schermo
+
+
+
+Visualizza Tipo
+
+7 pollici 64K colore TFT (cristallo liquido diagonale)
+
+
+
+Risoluzione dello schermo
+
+800 pixel orizzontali per 480 verticali
+
+
+
+Contrasto display
+
+Regolabile (16 marce) con la barra di avanzamento
+
+
+
+Uscita compensatore sonda
+
+
+
+Tensione di uscita (tipica)
+
+Circa 5Vpp in ≥1MΩ di carico
+
+
+
+Frequenza (tipica)
+
+1kHz
+
+
+
+Alimentazione elettrica
+
+
+
+Tensione di alimentazione
+
+100-120VACRMS(±10%), da 45Hz a 440Hz, CATII
+					120-240 V CA RMS (± 10%), da 45 Hz a 66 Hz, CATII
+
+
+
+Consumo di energia
+
+<30W
+
+
+
+Fusibile
+
+2A, T nominale, 250V
+
+
+
+Ambientale
+
+
+
+Temperatura
+
+In funzione: da 32F a 122F (da 0C a 50C);
+					Non in funzione: da -40F a 159,8F (da -40C a +71C)
+
+
+
+Metodo di raffreddamento
+
+Convezione
+
+
+
+Umidità
+
++104F o inferiore (+40C o inferiore): ≤90% di umidità relativa;
+					Da 106F a 122F (da +41C a 50C): 60% di umidità relativa
+
+
+
+Altitudine
+
+Operativo: sotto i 3.000 m (10.000 piedi);
+					Non operativo: al di sotto di 15.000 m (50.000 piedi)
+
+
+
+Meccanico
+
+
+
+Taglia
+
+Lunghezza 385 mm, Larghezza 200 mm, Altezza 245 mm
+
+
+
+Il peso
+
+3.5KG (con imballaggio); 2,08 kg (senza imballaggio)
+
+
+
+
+
+
+La confezione include: 
+
+
+
+	1 x memoria digitale oscilloscopio
+	2 x sonde (PP150)
+	1 x oscilloscopio Cavo di alimentazione
+	1 x linea USB1 x CD dati Hantek
+	1 x certificato del produttore
+
+
+Dettagli immagini: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

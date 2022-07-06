@@ -1,0 +1,224 @@
+https://pt.banggood.com/NanoVNA-H4-4-inch-LCD-50KHz~1_5GHz-VNA-HF-VHF-UHF-UV-Vector-Network-Analyzer-p-1641897.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+NanoVNA-H4 4" LCD 50KHz~1.5GHz VNA HF VHF UHF UV Vector Network Analyzer
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recursos:
+
+
+- Com o método de escurecimento DC, a tela de 4 "full-view LCD pode ser vista mais claramente para uso externo e mais confortável para uso interno.
+
+- Ponte Elétrica Otimizada: Fazendo pleno uso dos harmônicos do Si5351, pode usar o harmônico 5th para medir até 1,5GHz.
+
+- Quando a onda fundamental é usada, o nível de saída de CH0 é aumentado para 0dBm, tornando a medição de reflexão mais precisa.
+
+- Resolvida a anormalidade do NanoVNA-H ao operar em torno de 6 MHz antes.
+
+- O circuito de gerenciamento de energia redesenhado reduz o ruído de energia, interferência de energia USB e corrente de carga.
+
+- Layout de PCB aprimorado.
+
+- Interface UART reservada para expansão DIY.
+
+- O casco leve ABS mantém o dispositivo bem protegido.
+
+-O software de computador suporta controle e exibição em tempo real. E suporta a exportação de arquivos snp para vários softwares de design e simulação de rádio.
+
+- Como dispositivo de medição, a precisão é de grande importância. Peças de calibração simples estão incluídas no pacote. Calibramos as portas duplas do produto antes da entrega. Quando suas condições de medição mudam (por exemplo, alternando de uma largura de banda de calibração mais estreita para uma largura de banda de medição mais ampla com uma medição de cabo de extensão), você precisa recalibrar. Após a calibração, ele é salvo como configuração 0, que pode ser usado diretamente na próxima inicialização, ou pode ser salvo nos outros 4 itens salvos através da chamada quando necessário.
+
+
+
+Parâmetros:
+
+
+1. ABS Shell: 75 mm x 133 mm x 18 mm (excluindo saliências)
+
+2. Frequência de medição: 50 KHz ~ 1,5 GHz
+
+3. Saída RF: 0dbm (± 2dB, onda fundamental)
+
+4. Precisão de frequência: <2ppm
+
+5. Estabilidade de frequência: <0,5 ppm
+
+6. Faixa de medição: 70dB (50kHz-300 MHz), (60dB (300M-900MHz), 40dB (0,9G-1,5GHz) habilitar firmware de expansão)
+
+(Nota: Por favor, preste atenção ao erro causado por transformações não linearesina onda fundamental ao usar a medição harmônica.)
+
+7. Porta SWR: <1,1
+
+8. Visor: 4 "TFT (320 x 480)
+
+9. Interface USB: USB tipo C; Modo de comunicação: CDC (serial)
+
+10. Fonte de alimentação: USB 5V 200mA. Corrente de carga máxima 1A
+
+11. Número de pontos de calibração: 101 (fixo)
+
+12. Número de pontos de varredura: 101 (fixo)
+
+13. Rastreamento de exibição: 4, Marcação: 4, Salvar configuração: 5
+
+14. Medição de parâmetros S, relação de onda estacionária de tensão, fase, atraso, gráfico de Smith, análise no domínio do tempo, etc.
+
+
+
+Pacote incluído:
+
+
+1 x NanoVNA-H4  
+
+2 x 15 cm SMA Macho para Macho RG316 Cabos RF
+
+1 x SMA Feminino para Feminino Conector
+
+1 x SMA Kit de calibração simples RESUMIDO
+
+1 x SMA Kit de calibração simples ABERTO
+
+1 x SMA Carregamento de kit de calibração simples
+
+1 x cabo de dados USB Type-C
+
+1 x Type-C a Type-C (para conexão de celular Android)
+
+Detalhes Imagens:
+
+
+
+
+

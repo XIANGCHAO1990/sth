@@ -1,0 +1,220 @@
+1383186
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/02/6C/11cf490a-4f96-4ec1-8ccc-01927e76f046.jpg
+XH-W1209 DC 12V Thermostat Temperaturschalter Thermometer Controller mit digitaler LED Anzeige
+https://de.banggood.com/XH-W1209-DC-12V-Thermostat-Temperature-Control-Switch-Thermometer-Controller-With-Digital-LED-Displa-p-1383186.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Merkmale:
+
+
+
+1.100% kompletter Maschinenchip, Wellenlöten, stabile Leistung, gute Konsistenz
+
+2. Eingebetteter zentraler Prozessorchip (MCU), intelligenter, geringerer Stromverbrauch
+
+3. Abschalteinstellungen automatisch Speicher (MCU eingebaute EEPROM-Speichereinheit)
+
+4. Die Kontrollgenauigkeit von 0,1 Grad Celsius
+
+5. Hysterese 0.1 aus dem Set, Sie können die Dezimalzahl (0.1-15.0) steuern
+
+
+
+Technische Parameter:
+
+
+
+Temperaturregelbereich: -50 ~ 110 °
+
+Auflösung: -9,9 ~ 99,9 bei einer anderen Temperatur von 0,1 ° 1 °
+
+Genauigkeit der Temperaturmessung: 0,1 °
+
+Regelgenauigkeit: 0,1 °
+
+Hysteresegenauigkeit: 0,1 °
+
+Bildwiederholfrequenz: 0,5 S
+
+Eingangsleistung: DC 5V, DC 12V, DC 24V
+
+Messeingang: NTC (10K 0,5%) Wasserdichter Sensor
+
+Ausgang: 1 Relaisausgang, Kapazität = 20A 125VAC, 20A 14VDC
+
+Umgebungsbedingungen: -10 ~ 60 ° Luftfeuchtigkeit 20% -85%
+
+Spezifikationen Größe: 48,5 * 40 mm
+
+Gesamtstromaufnahme: Ruhestrom: ≤ 10MA Anzugsstrom: ≤ 65MA
+
+
+
+Verwendungszweck:
+
+
+
+- Drücken Sie die Taste +, um die gewünschte Temperatur einzustellen (drücken und halten Sie + -, um sich schnell nach oben und unten zu bewegen) Stellen Sie die Temperatur des Displays ein. 
+
+- Drücken Sie SET, um den Abschluss der Rückkehr zu bestätigen, dann die Steuerung automatisch durch das Ausschalten des Relais! Der Thermostatausgang für das 20A-Relais, um eine Vielzahl von Hochleistungslasten zu erfüllen, den Steuerkreis anzuschließen, Sie können den Thermostat mit Strom versorgen, dieses Display zeigt die Umgebungstemperatur an
+
+- Anzeige: Blinken zeigt die Startverzögerung des Kühlens oder Heizens an. Wenn die Anzeige leuchtet, bedeutet dies, dass das Relais geschlossen ist
+
+- Digitale Steuerung: Anzeige LL-Sensor ist geöffnet, bitte folgen Sie den Anweisungen zum Anschließen des Sensors; Anzeige HH außerhalb des Messbereichs zwingt das Relais, den Thermostat zu trennen; Hochtemperaturalarm anzeigen.
+
+
+
+Lieferinhalt:
+
+
+
+1 x XH-W1209 Temperaturregler
+
+
+
+
+
+
+
+
+
+
+
+
+
+

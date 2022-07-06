@@ -1,0 +1,163 @@
+https://tr.banggood.com/Geekcreit-ESP32-WiFi+bluetooth-Development-Board-Ultra-Low-Power-Consumption-Dual-Cores-Pins-Unsoldered-p-1214159.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® ESP32 WiFi + bluetooth Geliştirme Kartı Ultra Düşük Güç Tüketimi Çift Çekirdekli Pimler Lehimlenmemiş
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Açıklama:
+ 
+ESP32 zaten entegre anten ve RF balun, güç amplifikatörü, düşük gürültülü amplifikatörler, filtreler, ve güç yönetimi modülü.
+Çözümün tamamı en az baskılı devre kartı alanını kaplar.
+Bu kart, TSMC 40nm düşük güç teknolojisi ile 2.4 GHz çift modlu Wi-Fi ve bluetooth yongaları ile kullanılır,
+güvenli, güvenilir ve çeşitli uygulamalar için ölçeklenebilir olan güç ve RF özellikleri en iyisidir.
+ 
+Özellikleri:
+
+Yüksek performans-fiyat oranı
+Küçük hacimli, diğer ürünlere kolayca gömülür
+Destek LWIP protokolü ile güçlü işlev, Freertos
+Üç modu destekler: AP, STA ve AP+STA
+Lua programını destekleyen, kolayca geliştirilebilir
+Geliştirme Kurulu: https://github.com/Nicholas3388/LuaNode 
+Not: Pimler lehimlenmemiş
+Talaş sıkıntısı nedeniyle, ESP32-Wroom-32D ve ESP32-Wroom-32 rastgele gönderilebilir.
+Paket içeriği:
+
+1 x ESP32 Geliştirme Kurulu(lehimlenmemiş)
+
+
+
+

@@ -1,0 +1,399 @@
+https://fr.banggood.com/TTGO-T-Display-ESP32-CP2104-CH340K-CH9102F-WiFi-bluetooth-Module-1_14-Inch-LCD-Development-Board-LILYGO-for-Arduino-products-that-work-with-official-Arduino-boards-p-1522925.html?cur_warehouse=CN&ID=6309998&rmmds=CategoryElectronicsPop
+TTGO T-Display ESP32 CP2104 CH340K CH9102F Module WiFi Bluetooth 1,14 pouce LCD Carte de développement LILYGO pour Arduino - produits compatibles avec les cartes officielles Arduino
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristique:
+
+Démo : https://github.com/Xinyuan-LilyGO/TTGO-T-Affichage 
+
+
+
+
+
+Spécifications matérielles
+
+La description
+
+
+
+Jeu de puces
+
+ESPRESSIF-ESP32 240MHz Xtensa® microprocesseur dual-core 32 bits LX6
+
+
+
+ÉCLAT
+
+Flash QSPI 4MB/16MB (optionnel)
+
+
+
+SRAM
+
+520 kB SRAM
+
+
+
+Bouton
+
+Réinitialiser
+
+
+
+USB vers TTL
+
+CP2104/CH340K/CH9102F (en option)
+
+
+
+Interface
+
+UART, SPI, SDIO, I2C, LED PWM, TV PWM, I2S, IRGPIO, ADC, capteur tactile à condensateur, préamplificateur DACLNA
+
+
+
+Affichage
+
+IPS ST7789V 1,14 pouces Résolution 135 * 240
+
+
+
+Tension de travail
+
+2.7V-4.2V
+
+
+
+Courant de travail
+
+Environ 60MA
+
+
+
+Courant de sommeil
+
+Environ 120uA
+
+
+
+Plage de température de travail
+
+-40C~+85°C
+
+
+
+Taille poids
+
+51,52 x 25,04 x 8,54 mm (7,81 g)
+
+
+
+Source de courant
+
+La description
+
+
+
+Source de courant
+
+USB 5V/1A
+
+
+
+Courant de charge
+
+500mA
+
+
+
+Batterie
+
+Batterie au lithium 3.7V
+
+
+
+Connecteur JST
+
+2Pin 1.25mm
+
+
+
+USB
+
+Type-C
+
+
+
+Wifi
+
+La description
+
+
+
+Standard
+
+FCC/CE-RED/IC/TELEC/KCC/SRRC/NCC
+
+
+
+Protocole
+
+802.11 b/g/n (802.11n, vitesse jusqu'à 150 Mbps) Polymérisation A-MPDU et A-MSDU, prend en charge 0.4us Intervalle de protection
+
+
+
+Gamme de fréquences
+
+2.4GH2~2.5GHz(2400M-2483.5M)
+
+
+
+Puissance de transmission
+
+22dBm
+
+
+
+Distance de communication
+
+300m
+
+
+
+Bluetooth
+
+La description
+
+
+
+Protocole
+
+Prise en charge de la norme Bluetooth V4.2BR/EDR et BLE
+
+
+
+Fréquence radio
+
+Avec une sensibilité de -97dBm Récepteur NZIF Classe 1, Classe 2 et Classe 3 émetteur AFH
+
+
+
+Fréquence audio
+
+Fréquence audio CVSD et SBC
+
+
+
+Logiciel
+
+La description
+
+
+
+Mode Wifi
+
+Station/SoftAP/SoftAP+Station/P2P
+
+
+
+Mécanisme de sécurité
+
+WPA/WPA2/WPA2-Entreprise/WPS
+
+
+
+Type de chiffrement
+
+AES/RSA/ECC/SHA
+
+
+
+Mise à jour du firmware
+
+Téléchargement UART/OTA (via le réseau/hôte pour télécharger et écrire le firmware)
+
+
+
+Développement de logiciels
+
+Prise en charge du développement du serveur cloud/SDK pour le développement du micrologiciel utilisateur
+
+
+
+Protocolee de mise en réseau
+
+IPv4, IPv6, SSL, TCP/UDP/HTTP/FTP/MQTT
+
+
+
+Configuration utilisateur
+
+AT + Jeu d'instructions, serveur cloud, android/iSystème d'exploitationapp
+
+
+
+Système d'exploitation
+
+FreeRTSystème d'exploitation
+
+
+
+
+Le forfait comprend :
+
+1 x carte de développement avec broches
+1 câble Batterie
+
+Schéma des broches :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

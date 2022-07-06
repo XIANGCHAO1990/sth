@@ -1,0 +1,145 @@
+1756023
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/CF/BF/114a4fc8-91cb-4ca2-b7c3-92285c8b666f.jpg
+Keyes ESP32 Placa de expansão de desenvolvimento de placa central equipada com módulo WROOM-32
+https://pt.banggood.com/Keyes-ESP32-Core-Board-Development-Expansion-Board-Equipped-with-WROOM-32-Module-p-1756023.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introdução:Consiste em uma placa de expansão Keyes ESP32-IO e uma placa Keyes ESP32 CoreA composição da placa de desenvolvimento, ao usar, só precisa inserir a tensão DC 7-12V na cabeça DC preta, entãoEle pode fornecer energia para a placa principal do keyes ESP32. E a placa de expansão também vem com 1 código de discagemInterruptor, usado para controlar o interruptor de alimentação. Os desenvolvedores podem conectar periféricos de acordo com suas necessidades. FaçoAo usar a placa de desenvolvimento para desenvolvimento e depuração, os cabeçalhos padrão em ambos os lados podem tornar sua operação mais fácilLimpo e conveniente.O módulo ESP-WROOM-32 é a solução WiH + Bluetooth integrada líder da indústria,Menos de 10 componentes externos, integra interruptor de antena, balun de radiofrequência, amplificador de potênciaConversores, amplificadores de baixo ruído, filtros e módulos de gerenciamento de energia. Ao mesmo tempo, também integraTecnologia de 40nm de baixa potência TSMC, desempenho de energia e desempenho de radiofrequência, seguro e confiável, fácil de expandirExpanda para vários aplicativos.Característica:Microcontrolador: módulo ESP-WROOM-32USB para chip de porta serial: CP2102-GMRTensão de alimentação: DC 7-12VCorrente de trabalho: 60mAPotência máxima: 0,3WTemperatura de trabalho: -25 ° C a + 65 ° CModo WiFi: Estação / SoftAP / SoftAP + Estação / P2PProtocolo WiFi: 802.11 b / g / n / e / i (802.11n, velocidade de até 150 MbpsFaixa de frequência WiFi: 2,4 GHz ~ 2,5 GHzProtocolo Bluetooth: em conformidade com os padrões Bluetooth V4.2BR / EDR e BLETamanho: 67 * 50 * 19 mmPeso: 32,8gO pacote inclui:1 x placa de expansão
+
+
+
+

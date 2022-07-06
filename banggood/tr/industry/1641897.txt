@@ -1,0 +1,224 @@
+https://tr.banggood.com/NanoVNA-H4-4-inch-LCD-50KHz~1_5GHz-VNA-HF-VHF-UHF-UV-Vector-Network-Analyzer-p-1641897.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+NanoVNA-H4 4" LCD 50KHz~1.5GHz VNA HF VHF UHF UV Vektör Ağ Analizörü
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikleri:
+
+
+- DC dimleme yöntemi ile 4" full-view LCD ekran dış mekan kullanımları için daha net, iç mekan kullanımları için daha rahat görülebilir.
+
+- Optimize Edilmiş Elektrik Köprüsü: Si5351'in harmoniklerinden tam olarak yararlanarak, 5th harmoniğini 1,5 GHz'e kadar ölçmek için kullanabilir.
+
+- Temel dalga kullanıldığında, CH0'ın çıkış seviyesi 0dBm'ye yükseltilir, bu da yansıma ölçümünü daha doğru hale getirir.
+
+- Daha önce 6MHz civarında çalışırken NanoVNA-H'nin anormalliği çözüldü.
+
+- Yeniden tasarlanan güç yönetimi devresi, güç gürültüsünü, USB güç girişimini ve şarj akımını azaltır.
+
+- Geliştirilmiş PCB düzeni.
+
+- DIY genişletmesi için ayrılmış UART arayüzü.
+
+- Hafif ABS kabuk, cihazı iyi korur.
+
+-Bilgisayar yazılımı, kontrol ve gerçek zamanlı görüntülemeyi destekler. Ve çeşitli radyo tasarımı ve simülasyon yazılımı için snp dosyalarını dışa aktarmayı destekler.
+
+- Bir ölçüm cihazı olarak doğruluk büyük önem taşımaktadır. Pakete basit kalibrasyon parçaları dahildir. Teslimattan önce ürünün çift portunu kalibre ettik. Ölçüm koşullarınız değiştiğinde (örneğin, daha dar bir kalibrasyon bant genişliğinden bir uzatma kablosu ölçümü ile daha geniş bir ölçüm bant genişliğine geçiş), yeniden kalibre etmeniz gerekir. Kalibrasyondan sonra, bir sonraki önyüklemede doğrudan kullanılabilen 0 ayarı olarak kaydedilir veya gerektiğinde geri çağırma yoluyla diğer 4 kayıtlı öğeye kaydedilebilir.
+
+
+
+parametreler:
+
+
+1. ABS Kabuk: 75mm x 133mm x 18mm (çıkıntılar hariç)
+
+2. Ölçüm Frekansı: 50KHz ~ 1.5GHz
+
+3. RF Çıkışı: 0dbm (±2dB, temel dalga)
+
+4. Frekans Doğruluğu: <2ppm
+
+5. Frekans Kararlılığı: <0.5ppm
+
+6. Ölçüm Aralığı: 70dB (50kHz-300 MHz), (60dB (300M-900MHz), 40dB (0.9G-1.5GHz) genişletme donanım yazılımını etkinleştirir)
+
+(Not: Lütfen doğrusal olmayan dönüşümlerin neden olduğu hataya dikkat edin.iharmonik ölçüm kullanılırken temel dalganın üzerinde.)
+
+7. SWR Bağlantı Noktası: <1.1
+
+8. Ekran: 4" TFT (320 x 480)
+
+9. USB Arayüzü: USB tip-C; İletişim Modu: CDC (seri)
+
+10. Güç Kaynağı: USB 5V 200mA. Maksimum şarj akımı 1A
+
+11. Kalibrasyon Noktası Sayısı: 101 (sabit)
+
+12. Tarama Noktası Sayısı: 101 (sabit)
+
+13. Ekran İzleme: 4, İşaretleme: 4, Ayarı Kaydet: 5
+
+14. S-parametrelerinin ölçümü, gerilim duran dalga oranı, faz, gecikme, Smith grafiği, zaman alanı analizi vb.
+
+
+
+Paket İçeriği:
+
+
+1 x NanoVNA-H4  
+
+2 x 15cm SMA Erkek - Erkek RG316 RF Kabloları
+
+1 x SMA Kadından Kadına Konektör
+
+1 x SMA Basit Kalibrasyon Kit KISA
+
+1 x SMA Basit Kalibrasyon Kit AÇIK
+
+1 x SMA Basit Kalibrasyon Kit YÜK
+
+1 x USB Type-C Veri Kablosu
+
+1 x Type-C ila Type-C (Android cep telefonu bağlantısı için)
+
+Detaylar Resimler:
+
+
+
+
+

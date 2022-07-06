@@ -1,0 +1,145 @@
+1844059
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/9A/61/48536dfb-e126-4803-befd-870406e39f79.jpg
+NanoVNA-F V2 50kHz-3GHz IPS 4,3 pollici LCD Display Analizzatore di rete vettoriale SAA-2 Antenna Analizzatore Onde corte HF VHF UHF
+https://it.banggood.com/NanoVNA-F-V2-50kHz-3GHz-IPS-4_3Inch-LCD-Display-Vector-Network-Analyzer-S-A-A-2-Antenna-Analyzer-Short-Wave-HF-VHF-UHF-p-1844059.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:L'analizzatore di rete vettoriale portatile NanoVNA-F V2 è un nuovo prodotto sviluppato sulla base di NanoVNA-F. Utilizza un display IPS LCD da 4,3 pollici e un case in lega di alluminio. È dotato di una batteria al litio di grande capacità da 5000 mAh di serie. Supporta il funzionamento dello schermo tattile e dei pulsanti laterali, supporta l'interfaccia cinese e inglese. Il design di questo prodotto è basato su NanoVNA di edy555 e SAA V2 di OwOcomm, e l'ottimizzazione profonda del software è realizzata sulla base del prodotto precedente NanoVNA-F. L'interfaccia operativa è compatibile con NanoVNA-F, gli intervalli di misurazione sono estesi a 3GHz e gli intervalli dinamici sono maggiori. La misurazione è più precisa e l'operazione è più conveniente.Caratteristiche:Display da 4,3 pollici IPS LCD, risoluzione 800 * 480, angolo di visione ultra ampio, l'uso a lungo termine non fa male agli occhi.Tutta la custodia in lega di alluminio, robusta e durevole, protegge efficacemente le interferenze elettromagnetiche per garantire l'accuratezza della misurazione.L'interfaccia a radiofrequenza è SMA, comoda per il collegamento di varie parti testate.Design completamente touch screen, con 3 pulsanti laterali allo stesso tempo, funzionamento flessibile e conveniente.Supporta l'interfaccia cinese e inglese.Design dell'interfaccia utente ottimizzato, comodo per gli utenti per eseguire operazioni di misurazione.Supporta la regolazione della luminosità dello schermo.Il firmware può essere aggiornato tramite un disco U virtuale, non è necessario alcun programmatore e il firmware può essere aggiornato tramite il cavo dati USB di tipo c incluso.Parti di calibrazione di qualità fine standard e cavo RG405 a stabilità di fase per garantire l'accuratezza della calibrazione.Progettato con interfaccia di uscita di alimentazione USB, che può supportare l'uscita di potenza 5V / 1A.Utilizzando un IC di ricarica ad alta corrente da 2 A, il tempo di ricarica è più breve.Supportando il software del computer host, il computer host supporta le interfacce cinese e inglese.Le immagini dello schermo del dispositivo possono essere ottenute facendo uno screenshot del computer host.Funzione: può misurare i parametri S, il rapporto delle onde stazionarie di tensione, il grafico di Smith, la fase, il ritardo di gruppo, ecc.Specifiche:Materiale: lega di alluminio (custodia)Colore principale: neroBatteria: 1 * batteria al litio, 5000mAhFrequenza: 50kHz-3GHzPotenza di uscita RF: -9dBm (errore entro 1GHz: ± 1dB)Precisione della frequenza: <0,5 ppmGamme dinamiche S21: 70dB (1.5GHz), 60dB (3GHz)S11 gamme dinamiche: 50dB (1.5GHz), 40dB (3GHz)Perdita di ritorno a 2 porte: 20 dB tipico (1,5 GHz), 13 dB min (3 GHz)Numero di punti di calibrazione: 101 puntiNumero di punti di scansione: 101 puntiNumero di tracce: 4Numero di punti del contrassegno: 4 (la barra del punto del contrassegno può essere spostata su e giù sullo schermo)Interfaccia USB: USB Type-C Modalità di comunicazione: CDC (seriale)Salvataggio impostazioni: 5 gruppi (dopo il salvataggio, può essere richiamato direttamente quando viene riutilizzato, non è necessario ricalibrare, ei parametri salvati prima dell'ultimo spegnimento verranno automaticamente richiamati alla riaccensione)Supporta l'interpolazione dei risultati della calibrazione, può misurare senza ricalibrazione dopo aver regolato la banda di frequenza di misurazioneTempo di scansione: circa 1,9 s / 1 volta (banda di frequenza completa da 50 kHz a 3000 MHz)Dimensioni dell'articolo: 140 * 73 * 20 mm / 5,5 * 2,9 * 0,8 polliciPeso dell'articolo: 270 g / 9,5 onceDimensione dell'imballaggio: 250 * 150 * 50 mm / 9,8 * 5,9 * 2,0 polliciPeso dell'imballaggio: 500 g / 1,1 libbreLa confezione include:1 * Host1 * SMA Kit di calibrazione aperto1 * SMA Kit di calibrazione per cortocircuito1 * SMA Kit di calibrazione del carico da 50 Ω1 * Adattatore per foro femmina a doppia testa SMA-KK1 * Adattatore per pin maschio a doppia testa SMA-JJ1 * SMA-JKW Gomito esterno Vite Foro interno per interno Vite Adattatore per aghi interniCavo RF SMA-JJ RG405 da 2 * 200 mm1 * Cavo dati USB Type-C1 * StiloDettagli immagine:
+
+
+
+

@@ -1,0 +1,199 @@
+1626102
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/9D/55/78c57e20-f1eb-4341-83f6-2e2ad0bfc91a.jpg
+YL160 4-in-1 Carta di credito con banda magnetica EMV IC Chip RFID Duplicatore per lettore di schede PSAM e scrittore
+https://it.banggood.com/YL160-4-in-1-Magnetic-Stripe-Credit-Card-EMV-IC-Chip-RFID-PSAM-Card-Reader-Writer-Duplicator-p-1626102.html?cur_warehouse=USA&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: la scheda a banda magnetica può essere solo letta ma non scritta, contattare la scheda IC + la scheda IC a induzione + la scheda PSAM possono essere lette e scritteCaratteristiche :
+
+
+POST, alimentazione USB
+	Compatibile con le specifiche EMV4.3/PBOC3.0
+	supporta il funzionamento PSAM multifunzionale
+	Processo di trasmissione dei dati con indicazione della luce a LED
+	.Testa magnetica a lunga durata
+	Supporta la funzione del funzionamento della scheda SAM
+	Usa USB per comunicare con il PC
+	Sottile, leggera, bella, pratica
+	Supporta chip magnetici/IC/13,56 mhz RFID NFC/schede PSAM
+	Interfaccia USB, plug and play, non è necessario installare driver aggiuntivi
+	Interfaccia USB, veramente plug and play, non è necessario installare driver
+	Leggere carte magnetiche, lettore di carte IC, funzione di carta di prossimità
+	Leggendo l'intera carta magnetica a tre tracce, supporta lo scorrimento bidirezionale
+	Fornire molte funzioni di interfaccia della piattaforma di sviluppo ed esempi di applicazione
+	Supporta Windows 7, Windows 8, Win2008, Windows 2003, Windows 2000, XP, Linux, ecc
+	Può leggere e scrivere una varietà di schede di memoria e supporta T = 0 e T = 1 scheda CPU del protocollo di comunicazione
+	Verde LED lampeggia per indicare i dati della carta di credito in uscita, dopo il completamento di un segnale acustico di uscita completa della carta a tre tracce
+	Fornendo una gamma completa di funzioni di libreria, fornendo la descrizione perfetta dello sviluppo, punti, esempi e una varietà di linguaggi di sviluppo chiamano codice sorgente di esempio (inclusi: c # 2003, c + + builder, Adelphi, Powerbuilder, VB . net2003, VB6.0, java)
+
+
+specificazione:
+
+
+Modello: YL160
+	Colore: nero
+	Peso: 180 g
+	Materiale: ABS
+	Capacità di memoria: 8K
+	Tipo: lettore multischeda
+	Distanza di rilevamento: 3~10 (cm)
+	Alimentazione: 0,1 (W)
+	Frequenza di lavoro: 13,56 (Khz)
+	Tempo di lettura della carta: 0,1 (s)
+	Dimensioni: 160 × 45 × 45 mm / 6,3x1,8x1,8 pollici
+	Lunghezza cavo USB: 1,5 metri
+	Tipi di carte applicabili: carte magnetiche, carte IC a contatto, carte psam, carte IC a induzione
+
+
+Il pacchetto include:
+
+
+1 x lettore di schede
+	1 x CD
+
+
+Dettagli immagini:
+
+
+
+
+
+
+
+
+

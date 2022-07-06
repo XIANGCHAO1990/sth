@@ -1,0 +1,178 @@
+1140506
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/8B/FD/19e4b5bf-b35a-476c-af5d-e0c96ff111da.jpg
+Geekcreit 0.91 İnç 128x32 IIC I2C Mavi OLED LCD Ekran DIY Modül SSD1306 Sürücü IC DC 3.3V 5V
+https://tr.banggood.com/Geekcreit-0_91-Inch-128x32-IIC-I2C-Blue-OLED-LCD-Display-DIY-Module-SSD1306-Driver-IC-DC-3_3V-5V-p-1140506.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikler:
+
+1.OLED ekran, arka ışığa gerek yok, kendi kendine aydınlatma,
+2. Ekran performansı geleneksel LCD ekrandan daha iyidir, ayrıca daha düşük tüketimdir.
+3. Sürücü IC: SSD1306
+4. boyut: 0.91 inç OLED
+5. Çözünürlük: 128 x 32
+6. IIC arayüzü
+7. Ekran Rengi: beyaz
+8. Pin Açıklaması:
+GND: Güç Topraklaması
+VCC: Güç + (DC 3.3 ~ 5v)
+SCL: Saat Hattı
+SDA: Veri Hattı
+
+Paket içeriği:
+
+1 x IIC I2C Mavi OLED LCD Ekran Modülü
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

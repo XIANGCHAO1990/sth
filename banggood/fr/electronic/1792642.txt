@@ -1,0 +1,143 @@
+https://fr.banggood.com/WangDaTao-YD-CS-Transistor-Tester-Production-Kit-with-Shell-p-1792642.html?cur_warehouse=CN&ID=554101&rmmds=CategoryElectronicsPop
+WangDaTao YD-CS Kit de production de testeur de transistor avec coque
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:Plage de mesure: détection automatique des transistors bipolaires PNP et NPN, des MOSFET à canaux N et P, des tubes à effet de champ JFET, des diodes, des doubles diodes, des SCR, de la résistance, de la capacité et de l'inductance.Traits:1. Opération de mesure à une touche, mise hors tension automatiquement après un délai. Le courant d'arrêt n'est que de 20 nA, ce qui prend en charge le fonctionnement sur batterie.2. Détection automatique des transistors bipolaires PNP et NPN, des MOSFET à canal N, P, des transistors à effet de champ JFET, des diodes, des doubles diodes, des SCR, des résistances, des condensateurs et des inductances. Détectez automatiquement les définitions de broches.3. Mesurer le facteur d'amplification du courant (B) du transistor bipolaire et la tension de conduction (Uf) de la jonction de l'émetteur. Les transistors Darlington peuvent être identifiés par une tension de seuil élevée et un facteur d'amplification de courant élevé.4. Les diodes de protection à l'intérieur des transistors bipolaires et des MOSFET peuvent être détectées et affichées à l'écran.5. Mesurez la tension de seuil et la capacité de grille du MOSFET.6. Soutenez la mesure de deux résistances, et le potentiomètre peut également être mesuré. Si le potentiomètre est ajusté à une extrémité de celui-ci, le testeur ne peut pas distinguer les broches au milieu et les deux extrémités.7. La résolution de la mesure de résistance est de 0,1 ohm et la valeur de mesure la plus élevée est de 50 M ohm.8. La plage de mesure de capacité est de 25pf à 100mF (100 000 UF). La résolution peut atteindre 1 pF, la plage de mesure de l'inductance est de 0,01 MH-20H, et elle sera affichée comme résistance si elle est inférieure à 0,01 MH.9. Il peut détecter la résistance série équivalente (ESR) des condensateurs au-dessus de 2 UF avec une résolution de 0,01 ohm. Cette fonction est très importante pour détecter les performances de capacité.10. Il peut afficher le symbole de la direction correcte pour deux diodes et afficher la chute de tension directe en même temps.11. Le LED est détecté comme une diode et la chute de tension directe est supérieure à la normale. Le double LED est détecté comme une double diode. La diode électroluminescente clignotera pendant la détection.Spécification:Nom: Kit de production de testeur de transistorCouleur de la coque: noir / blanc / transparentManual: Cliquez ici.Emballage inclus:1 x kit de production de testeur de transistor + coque
+
+
+
+

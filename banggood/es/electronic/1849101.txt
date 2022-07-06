@@ -1,0 +1,143 @@
+https://es.banggood.com/EACHEN-ST-DC4-WiFi-4-way-Relay-Module-Inching-Momentary-or-Self-Locking-or-Interlock-Switch-Module-Works-with-Amazon-Alexa-p-1849101.html?cur_warehouse=CN&ID=6307553&rmmds=CategoryElectronicsPop
+Módulo de relé de 4 vías WiFi EACHEN ST-DC4 Módulo de interruptor de enclavamiento / bloqueo automático momentáneo que avanza lentamente funciona con Amazon Alexa
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:Este producto es un interruptor inalámbrico que admite modos de trabajo momentáneo (avance lento) / autobloqueo / enclavamiento. Los usuarios pueden agregar el dispositivo a la aplicación eWeLink para controlar de forma remota los electrodomésticos conectados o los circuitos de alimentación.Nota: Los relés son interruptores sin salida, la entrada de la fuente de alimentación (AC / DC) solo para el PCBA.Toque el botón de configuración del modo de trabajo manualmente, el producto puede cambiar el modo de trabajo. Cuando está en modo de avance lento, puede tener dos formas de cableado para seleccionar: -Enciende 1s y luego auto-apagado -Apaga 1s y luego auto-encendido.Cuando está en modo de autobloqueo, puede encender / apagar de forma remota los dispositivos conectados inmediatamente.Cuando está en modo de enclavamiento (solo soportes de 2 y 4 elementos), puede controlar los motores de CA / CC de forma remota.El producto permite el control remoto de electrodomésticos a través de la aplicación móvil eWeLink, disponible tanto en Android como en iOS. Funciones compatibles:* Encendido / apagado remoto * Horarios de tiempo* Uso compartido de dispositivos*Manejo de grupo* Compatible con Amazon Alexa, Amazon Tap*Funciona con Google Home*Funciona con IFTTTEste producto es compatible con Amazon Alexa. Puede pedirle a Alexa que controle el dispositivo con los siguientes comandos de voz. Tenga en cuenta que ahora solo se admiten los comandos de voz US / UK en inglés y alemán.Try out these phrases ( {deviceName} should be the name of your device): "Alexa, turn on {deviceName}""Alexa, turn off {deviceName}""Alexa, schalte Ger? Tename ein""Alexa, schalte Ger? Tename aus" También puede pedirle a Google Home que controle el dispositivo con los siguientes comandos de voz."hey, google, turn on {deviceName}""OK, google, turn off {deviceName}"Cómo funciona con IFTTT:Busque "eWeLink Smart Home" en la APLICACIÓN IFTTT.Especificación:Voltaje de funcionamiento: DC5-36VCorriente nominal: 10AFrecuencia: RF433MHz (opción)WIFI: 2.4G 802.11 b / g / nEl paquete incluye:1 módulo de relé.
+
+
+
+

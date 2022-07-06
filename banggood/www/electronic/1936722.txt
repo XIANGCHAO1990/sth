@@ -1,0 +1,179 @@
+https://www.banggood.com/Smart-BMS-1A-2A-6A-Balance-Current-8S-17S-20S-24S-JK-BMS-60A-80A-100A-150A-200A-600A-Lifepo4-Li-Ion-Battery-Protection-Board-bluetooth-APP-p-1936722.html?cur_warehouse=CN&ID=6319174&rmmds=CategoryElectronicsPop
+Smart BMS 1A 2A 6A Balance Current 8S 17S 20S 24S JK BMS 60A 80A 100A 150A 200A 600A Lifepo4 Li-Ion Battery Protection Board bluetooth APP
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descriotion：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overcharge protection:prevent overcharge and affect battery life
+Short circuit protection:automatic protection during abnormal short circuit to prevent damage to the protection board and battery
+
+Short circuit protection:automatic protection during abnormal short circuit to prevent damage to the protection board and battery
+
+Over-discharge protection:prevent the battery from being dead and affect the battery life
+
+Over-current protection:prevent current from exceeding the battery's tolerance, causing battery damage
+
+Drop-out protection:prevent the cable from being dropped or the contact is poor, and the battery loses protection
+
+Over-temperature protection:prevent the battery temperature from becoming too high, causing spontaneous combustion or damag
+
+Instructions:https://github.com/NEEY-electronic/JK/tree/JK-BMS
+
+BMS protocol:https://github.com/syssi/esphome-jk-bms
+
+VenusOS driver:https://github.com/Louisvdw/dbus-serialbattery
+
+NOTE:BMS with current of 600A requires customers to purchase relays by themselves
+>>>LCD Display : Click here to open<<<NOTE:①:CANBUS interface (At present, only jk-B2A24S20P can customize the CANBUS function)②:RS485 interface(At present, all JK BMS are configured with RS485 function by default)③:LCD interface(Please check whether BMS has LCD interface before purchasing. If there is no interface, LCD cannot be used)④:Heat Function interface(At present, the heating function customized by customers can be accepted, MOQ50pcs)⑤:Temperature sensorThese ①②③④ interfaces are on the BMS board.However, ①④ has no actual function, which requires additional customization.②③ There is no need to customize the BMS, just add an LCD module or an RS485 plug-in module.①CAN function: customized, requires the manufacturer to mount the CAN chip and provide the CAN communication protocol of JiKong. . In addition, you need to purchase a CAN module (before placing an order, consult in advance for customization)②RS485 function: buy another RS485 plug-in module and plug it into the GPS interface to use it.③LCD function: buy another LCD module and plug it into the LCD interface to use it.④Heating function: customized, and also need to purchase the matching CAN heating protocol charger. The charger can communicate with the BMS, and the charger must have a heating function. (Before placing an order, consult and customize in advance)Note: ②The GPS function requires the support of the local operator. Some regions or countries may not support it. Before placing an order, you need to communicate with us to confirm! ! !Package Included:1 x JK Smart BMS
+
+
+
+

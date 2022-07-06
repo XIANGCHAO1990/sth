@@ -1,0 +1,146 @@
+1745110
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/36/33/1e238ff1-e1c2-4731-9dce-837f7b12fdee.jpg
+GUUDGO 4CH 2.0MP 1080P Kits de système de caméra de surveillance noir sans fil Kit de surveillance CCTV extérieur / intérieur résistant aux intempéries P2P
+https://fr.banggood.com/GUUDGO-4CH-2_0MP-1080P-Wireless-Black-Surveillance-Camera-System-Kits-outdoor-or-Indoor-Weatherproof-P2P-CCTV-Monitoring-Kit-p-1745110.html?cur_warehouse=USA&ID=47757&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>> Cliquez ici pour obtenir des kits de système de caméra blanche <<<>>>Manuel : Cliquez ici pour ouvrir<<<Caractéristiques:- Connexion sans fil automatique, plug and play- Enregistreur réseau sans fil 1080P H.265 + et 4 caméras sans fil 1080P- Dans un espace ouvert sans distance de transmission des interférences jusqu'à 800 mètres- Insérez une carte sans fil de surveillance professionnelle, avec une capacité anti-interférence plus forte- Une seule pression pour configurer- Prise en charge des détections de mouvements de poussée d'alarme et de la sortie d'alarme (voix / e-mail / FTP, etc.)- Prise en charge du téléphone portable ou du pad Android / Apple par visite et contrôle LAN et WAN- P2P IP PRO, accès à distance fluide et rapide- Convient aux maisons, bureaux, petites entreprises et magasins de détail- Facile à installer, opération convivialeSpécification:Spécification de la caméra IPModèleIPG-80X20PSDCapteur d'images1/2.9" 2.0M Pixel CMOSLentille4 mm, champ de vision horizontal: 75 °Monture de lentillesM12Min. ÉclairageCouleur ： 0.01Lux @ (F1.2 ， CAG ON)N / B ： 0,001 Lux @ (F1.2 ， CAG ON）, 0 Lux @ （IRled ON)Rapport S/B39dBVitesse d'obturation1/5 - 1/20 000s ， Jour NuitJour / Nuit / Contrôle externe （Filtre de coupure IR）CAGAutomatique / Manuelbalance des blancsAuto / Manuel / ATW / Intérieur / Extérieur / Lampe lumière du jour / Lampe au sodiumLarge plage dynamiqueLarge plage dynamique numériqueRéduction du bruit numérique2DNR, 3DNRCompression de vidéoProfil principal H.265 / Profil principal H.264 / M-JPEGCompression audioG711, PCMRésolution d'image max.1920 x 1080 à 20 ipsRésolution de l'imageGrand public （1920x1080、1280 × 960、1280 × 720、720 × 576、640 × 480） sous-flux （640 × 480、352 × 288、320 × 240、176 × 144）DébitCBR / VBR, débit binaire ： 32 Kbps ~ 10 Mbps variableDétection de mouvementSoutienMasquage de la zone de confidentialité4 masques de confidentialité programmablesP2PAndroid 、 IOSProtocoleesTCP / IP ， HTTP ， NTP ， IGMP ， DHCP ， UDP ， SMTP ， RTP ， RTSP ， ARP ， DDNS ， DNS ， P2POnvifNon-support  Sans filFréquence : 2,4 GDistance de transmissionPlus de 800 mètres sans obstacle ， Plus de 30 mètres si pénétrer dans le mur ， La distance de transmission réelle en fonction de la situationPuissance12VDC@0.12ADimensions38x38x5mmTempérature de fonctionnement-30 ° C ~ 60 ° C, humidité ≤ 90% HR (condensation non prise en charge)Spécification NVR:ModèleNBD8004RASystèmeProcesseur principalHi3536D Système opérateurLinux embarquéVidéoCompression de vidéoProfil haut H.265 / Profil principal H.264 Sortie vidéo720P60, XGA, 1080P60 Entrée vidéo (IP)4 * 1080P / 4 * 960P / 4 * 720Pl'audioCompression audioG.711 interphoneRienEnregistrement et lectureMode d'enregistrementManuel / Alarme / Détection vidéo / Continu Lecture locale4*1080PStockage et sauvegardeStockage des enregistrementsréseau Mode de sauvegardeSauvegarde réseau, disque dur USBContrôle du réseauProtocoleTCP / IP, HTTP, DHCP, UDP, RTP, RTSP, FTP, NTP, ONVIF, SADP, P2PSans filLa fréquence2.4G Structure d'antenne2 × 2MIMO DistancePlus de 800 mètres sans obstacle ， plus de 30 mètres si pénétrer dans le mur ， la distance de transmission réelle en fonction de la situationInterfaceSortie vidéoHDMI 1 canal, sortie VGA 1 canal E/S audioRien E/S d'alarmeRien Interface réseau1 * port Ethernet adaptatif RJ45 10M/100M USB 2 * port USB 2.0 Disque dur1 SATA (jusqu'à 4 To) AutreSource de courantCC + 12 V / 3A Consommation d'énergie5W （Sans disque dur） Environnement de travailTempérature: -10 ℃ - ＋ 55 ℃, Humidité: 10% -90% HREmballage inclus:1 x WIFI NVR （Le disque dur n'est pas inclus）4 x Caméras WIFI1 x support4 x puissance de la caméra1 x alimentation NVR1 x câble Ethernet1 souris USB4 x sac à vis4 x capuchon étancheRemarque: l'adaptateur secteur sera configuré en fonction de votre régionPhotos de détails :
+
+
+
+

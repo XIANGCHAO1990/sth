@@ -1,0 +1,180 @@
+908621
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/C4/58/9ad5f80b-91d9-4ab7-9f84-d251045dcd19.JPG
+Geekcreit® HC-05 Módulo Transceptor Serial Bluetooth Inalámbrico Esclavo Y Maestro Geekcreit para Arduino - productos que funcionan con placas oficiales Arduino
+https://es.banggood.com/Geekcreit-HC-05-Wireless-bluetooth-Serial-Transceiver-Module-Slave-And-Master-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-908621.html?cur_warehouse=CN&ID=522225&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:
+
+El usuario puede configurar el HC-05 como maestro o esclavo. HC-06 solo puede ser maestro o esclavo que se puede personalizar.
+
+Cableado (solo necesita 4 cables): RX a RXD / TX a TXD / GND a GND / 3.6V a 6V
+
+Potencia: 3,3 V
+
+Nota: Este módulo no es adecuado para el sistema IOS.
+
+
+
+El paquete incluye:
+
+
+
+1/3/5/10 x módulo transceptor serie bluetooth inalámbrico HC-05 (opcional)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

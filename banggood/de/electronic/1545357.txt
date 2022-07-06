@@ -1,0 +1,244 @@
+https://de.banggood.com/HackRF-One-1MHz-to-6GHz-USB-Open-Source-Software-Radio-Platform-SDR-RTL-Development-Board-Reception-of-Signals-p-1545357.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+HackRF One 1MHz bis 6GHz USB Open Source Software Funkplattform SDR RTL Development Board Empfang von Signalen
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wenn du das brauchst PortaPack H1, bitte kaufen Produkt-ID: 1545380
+HackRF One Schwarze Version Produkt ID: 1546421
+
+TXCO: Produkt-ID 1153700
+
+
+Häufiges Problem:
+
+
+
+F. Der Computer kann das Gerät nicht finden. / USB wird nicht erkannt.
+
+A: Erfordert eine Firmware-Installation. Wenn die Firmware nach der Installation der Firmware immer noch nicht funktioniert, können Sie die Firmware neu flashen.
+
+Firmware: http://myosuploads3.banggood.com/products/20200116/20200116013405PortapackFirmwareTool.rar
+
+Andere Dateien: 
+
+https://greatscottgadgets.com/sdr/ 
+https://github.com/mossmann/hackrf/wiki
+
+Spezifikationen:
+
+
+
+- 1 MHz bis 6 GHz Betriebsfrequenz
+
+- Halbduplex-Transceiver
+
+- Bis zu 20 Millionen Samples pro Sekunde
+
+- 8-Bit-Quadratur-Samples (8-Bit I und 8-Bit Q)
+
+- Kompatibel mit GNU Radio, SDR# und mehr
+
+- Software-konfigurierbarer RX- und TX-Gain und Basisbandfilter
+
+- Softwaregesteuerte Antennenanschlussleistung (50 mA bei 3,3 V)
+
+- SMA Antennenbuchse
+
+- SMA weiblicher Clock-Ein- und Ausgang zur Synchronisation
+
+- Praktische Tasten zum Programmieren
+
+- Interne Stiftleisten zur Erweiterung
+
+- Hi-Speed-USB 2.0
+
+- USB-betrieben
+
+- Open-Source-Hardware   
+
+
+
+Parameter:
+
+
+
+- Frequenzband: 1MHz-6Ghz
+
+- Datenbandbreite: 20MHz
+
+- Abtastgenauigkeit (ADC/DAC): 8BIT
+
+- Abtastgeschwindigkeit (ADC/DAC): 20Mbps
+
+- Schnittstelle: USB2.0
+
+- Open Source
+
+- Maximale Sendeleistung: 10dbm
+
+- 64QAM, das EVM überträgt: 1,5%
+
+- Komplexe Abtastbandbreite: 20Mhz
+
+
+
+Hardware:
+
+
+
+- Mischer RFFC5072: 80MHz-4200MHz
+
+- HF-Transceiver MAX2837 mit drahtloser Bandbreite: 2,3 GHz-2,7 GHz
+
+- Prozessor LPC4330: Hauptfrequenz 204MHz
+
+- Verstärker MGA-81563: 0,1-6 GHz, 3 V, 14 dBm
+
+
+
+Paket beinhaltet:
+
+
+
+1 x HackRF One-Platine 
+
+1 x USB-Kabel
+
+
+
+
+

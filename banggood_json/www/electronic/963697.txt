@@ -1,0 +1,194 @@
+963697
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/FF/0C/f0997157-6ccd-46de-ae8f-ab02045bffcd.jpg
+UNO R3 ATmega328P Development Board Geekcreit for Arduino - products that work with official Arduino boards
+https://www.banggood.com/UNO-R3-ATmega328P-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-963697.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This version can not compatible with OS system
+
+
+Features:
+
+	Opening original schematic design, free development software interface download, also allow your needs to be modified, easy and convenient to download the program.
+	Can simply use sensors, all kinds of electronic components connection (such as LED lights, buzzer, buttons and photosensitive resistance, etc.), make all sorts of interesting work.
+	Using high-speed microprocessor controller (ATMEGA328), development interface and environment are all very simple, easy to understand, very suitable for beginners to learn.
+
+Description:
+
+	Digital I / O: 0 - 13
+	Analog I / O: 0 - 5
+	Support ISP download function
+	Input voltage: DC 5V ~ 9V (No external power supply when connected to the computer)
+	Output voltage: DC 5V / 3.3V
+	Using Atmega328 microprocessor controller
+
+How to use:
+
+	1. Download the IDE
+	   Link: http: http://.cc/en/Main/Software (Copy to open)
+	2. Download the USB chip driver
+	   Link: http://www.5v.ru/zip/ch341ser.zip (Copy to open)
+	3. Plug in UNO development board, the driver will be installed automatically
+	4. Select the UNO from the Option
+	5. Select the COM port
+	6. The best choice first, come with routine procedures, burn into it.
+
+Package included:
+
+	1 x UNO R3 Development Board
+	1 x USB cable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

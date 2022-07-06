@@ -1,0 +1,313 @@
+1356031
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/82/96/7ec6d381-6375-4a2c-bcfb-326924a34787.jpg
+PZEM-022 Open and Close CT 100A AC Digital Display Power Monitor Meter Voltmeter Ammeter Frequency
+https://www.banggood.com/PZEM-022-Open-and-Close-CT-100A-AC-Digital-Display-Power-Monitor-Meter-Voltmeter-Ammeter-Frequency-p-1356031.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Features:
+	 
+
+1. Electrical parameter measurement function (voltage, current, active power, energy, frequency, power factor)
+
+2. Overload alarm function (over power alarm threshold, backlight and power flashing to alarm)
+
+3. Power alarm threshold preset function (can set power alarm threshold)
+
+4. The energy can be reset use the key
+
+5. Store data when power off
+
+6. Large-screen LCD 
+
+7. Backlight function
+
+8. Key Function
+	 
+
+♦Backlight control
+
+Short press the key to turn on or off the backlight, the backlight has memory function, it can store the on or off state when power off.
+
+
+♦Reset energy
+
+Step1: Long press the key for 5 seconds until the energy value flash, then release the key.
+
+Step2: Short press the key again, then the energy value is cleared and exit the reset flashing state.
+
+Step3: If there is no operation on the key within 5 seconds, it means the energy value is not cleared and will exit the reset state.
+
+
+♦Set power alarm threshold 
+
+Step1: Long press the key until the LCD screen display “SET CLr”, then release the key to enter the setting state
+
+Step2: Power window display the current power alarm value and the last digit begin to flash, then you can short press to plus 1, when there is no operating over 3 seconds, it will switch the digit position automatically, the setting method is as same as the above.
+
+Step3: After finish the setting, long press the key over 5 seconds will store automatically and exit, the range of active power threshold is 0.0~2.5kW. it can display six parameters at the same time.
+
+
+
+Specifications:
+		 
+
+1. Working voltage: 80 ~ 260VAC
+
+2. Test voltage: 80 ~ 260VAC
+
+3. Rated power: 100A/22000W
+
+4. Operating frequency: 45-65Hz
+
+5. Measurement accuracy: 1.0 grade
+
+Display format:
+	 
+
+1.Power
+	Test range: 0~22000W
+	Starting measure power: 0.2W
+
+<10W    display format: 1.00~9.99W
+
+<100W   display format: 10.0~99.9W
+
+<1000W  display format: 100~999W
+
+<10000W display format: 1.00~9.90kW
+
+≥10000W display format: 10.0~22.0kW
+	 
+
+2.Energy
+	Test range: 0~999kWh
+
+<1kWh   display format: 0~999Wh
+
+<10kWh  display format: 1.00~9.99kWh
+
+≥10kWh  display format: 10~999kWh
+	 
+
+3.Voltage
+	Test range: 80~260V
+
+Display format: 80~260V
+	 
+
+4.Current
+	Test range: 0~100A
+	Starting measure current: 0.001A
+
+<10A display format:0.000~9.000A
+
+≥10A display format:10.00~99.99A
+	 
+
+5.Frequency
+	Test range: 45~65Hz
+
+Display format: 45~65Hz
+	 
+
+6.Power factor
+	Test range: 0~1PF
+
+Display format: 0.00~1.00PF
+
+
+
+Precautions:
+		 
+
+1. This module is suitable for indoor, please do not use outdoor.
+
+2. Applied load should not exceed the rated power.
+
+3. Wiring order can’t be wrong.
+
+Package Included:
+
+		1 x Open and Close CT Power Monitor
+
+Detail Pictures:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

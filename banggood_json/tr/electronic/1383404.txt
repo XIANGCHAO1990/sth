@@ -1,0 +1,303 @@
+1383404
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/81/65/d5f793d7-9ee1-4881-8234-9e188f969133.jpg
+1.3 İnç IPS TFT LCD Ekran 240*240 Renkli HD LCD Ekran 3.3V ST7789 Sürücü Modülü
+https://tr.banggood.com/1_3-Inch-IPS-TFT-LCD-Display-240+240-Color-HD-LCD-Screen-3_3V-ST7789-Driver-Module-p-1383404.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellik:
+
+
+
+
+
+Ekran Boyutu 
+
+1.3 inch
+
+
+
+Malzeme 
+
+HD IPS renkli ekran, renk sıradan TFT LCD'den daha canlı
+
+
+
+Çözünürlük 
+
+240*240 ekran, yön ayarlanabilir, yatay ve dikey
+
+
+
+Kontrol çipi
+
+ST7789
+
+
+
+Görüntüleme alanı
+
+23.4x23.4mm
+
+
+
+Fiziksel Numara
+
+27.78x39.22mm
+
+
+
+Arayüz türü 
+
+4 kablolu SPI arayüzü
+
+
+
+pin sayısı
+
+7PIN
+
+
+
+görüş yönü
+
+
+Tam görüntü
+
+
+
+
+Çalışma sıcaklığı
+
+-20°C~70°C
+
+
+
+
+
+Arayüz tanımı:
+
+
+
+
+
+
+1
+
+GND
+
+Güç zemin
+
+
+
+2
+
+VCC
+
+Güç 3.3+
+
+
+
+3
+
+SCL
+
+SPI saat hattı
+
+
+
+4
+
+SDA
+
+SPI veri hattı
+
+
+
+5
+
+RES
+
+Sıfırla
+
+
+
+6
+
+DC
+
+Veri/komut seçim ayağı
+
+
+
+7
+
+BLK
+
+Arka ışık kontrolü, varsayılan, arka ışığı kapatmak için yüzer, düşük seviyede bırakılabilir.
+
+
+
+
+
+Daha fazla bilgi ve Rutin: Açmak için buraya tıklayın
+
+Paket şunları içerir:
+
+1 x TFT ekran modülü
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

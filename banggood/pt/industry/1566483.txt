@@ -1,0 +1,260 @@
+https://pt.banggood.com/KP184-DC-Electronic-Load-Battery-Capacity-Tester-RS485-or-232-400W-150V-40A-AC220V-Professional-Battery-Tester-p-1566483.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+KP184 DC Electronic Load Battery Capacity Tester RS485/232 400W 150V 40A AC220V Professional Battery Tester
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Descrição:
+
+
+
+A carga eletrônica da série KP184 pode ser amplamente aplicada ao teste e envelhecimento do produto na iluminação LED, fonte de energia, carregador e acumulador. O modo atual pode ser processado para simular carga resistiva para descarregar a bateria e carregar a fonte de energia; o modo de tensão pode ser usado para simular carga capacitiva e carregar a carga, além de simular a tensão constante de LED e carregar a fonte de energia. É usado de forma simples, ajustado convenientemente e possui uma função de proteção perfeita. O desempenho e a função são incomparáveis com o resistor de fio deslizante tradicional. Se for usado para indústrias relacionadas, poderá aumentar a produtividade e reduzir o custo.>>Sofware: Click here.<<
+>>Manual: Click here <<
+
+Recursos:
+
+
+
+1. Tem quatro modos básicos de carga como CC, CV, CW e CR.
+
+2. Insira proteção de transposição positiva e negativa e dê alarme
+
+3.A estrutura de radiação de calor otimizada realiza alta densidade de potência;
+
+4.Modo de controle digital, alta precisão e boa estabilidade
+
+5. Tem proteção contra sobretensão, sobrecorrente, sobrepotência e sobretemperatura;
+
+6. Função de medição de tensão na extremidade (sentido remoto)
+
+função de teste 7.Auto, sinal de disparo externo I/0, PASS, sinal de indicação de FALHA;
+
+função de teste dinâmico de 8.10KHz;
+
+função de teste de capacidade 9.Bateria;
+
+10. Teste de resistência interna da bateria
+
+11. Função de teste de ponto de proteção de sobrecorrente/tempo de proteção
+
+12.Controle de temperatura do ventilador PWM;
+
+13.Uso de turno da fonte de alimentação 110VAC/220VAC
+
+14. Interface de comunicação RS485 e 232
+
+15. Função de operação síncrona de vários dispositivos carregados online
+
+16.Suporte de software de computador superior com função poderosa e interface amigável
+
+
+
+Especificação:
+
+
+
+Consumo de energia: < 20 W
+
+Tensão de carga: DC 1 -150 V
+
+Corrente de carga: 0-40A
+
+Potência de carga: 0-400W
+
+Corrente de precisão de medição: ±0,05%+5mA
+
+Medição de Tensão de Precisão: ±0,05%+5mV
+
+Precisão de controle Corrente: ±0,05%+5mA
+
+Precisão de controle Tensão: ±0,05%+5mV
+
+Modo de comunicação: RS232/RS485
+
+Sobretensão: Quando a tensão é superior a 152 V, a carga é desligada
+
+Sobre temperatura: 85 ℃
+
+Sobrepotência: Canal único: 410W
+
+Fusível de entrada da fonte de alimentação: 0,5
+
+Tamanho: 300*90*180mm/11.8*3.5*7.1in
+
+Peso: Aprox.4000g/141,1oz
+
+
+
+O pacote inclui:
+
+
+1 x KP184 DC Carga Eletrônica
+
+1 x Plugue (UE)
+
+1 x remoto terminal de compensação
+
+2 x terminal de teste positivo e negativo
+
+1 x cabo de comunicação 232
+
+2 x cabo de teste
+
+1 x manual do usuário
+
+
+
+Observação:
+
+Nós lhe enviaremos um adaptador de plugue de acordo com seu país.
+
+
+Observação:
+
+Este DC Load suporta programação de software secundário, esperamos que você tenha o software por conta própria;
+
+Se você não tiver, podemos enviá-lo como um presente gratuito, o software é apenas um presente, não as mercadorias, então esperamos que você seja profissional para o uso de software; é um Software livre e de desenvolvimento; é apenas para o sistema Win7 ou IE
+
+Detalhes Fotos:
+
+
+
+
+
+
+
+

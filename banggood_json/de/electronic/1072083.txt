@@ -1,0 +1,183 @@
+1072083
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/28/68/7bcd8386-f581-4161-9cdf-0e39128541ab.jpg
+MAX7219 Dot Matrix Modul 4-in-1 Display für Arduino
+https://de.banggood.com/MAX7219-Dot-Matrix-Module-4-in-1-LED-Display-Module-p-1072083.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAX7219 Mikrocontroller 4-in-1-Display Dot Matrix Modul für Arduino
+
+Technische Daten:
+
+Ein einzelnes Modul kann eine gemeinsame Kathode mit 8x8 Punktmatrix antreiben
+Betriebsspannung: 5V
+Modulgröße: 12.8 x 3.2 x 1.3 cm (L * B * H)
+Mit 64 Befestigungsschraubenlöcher, Lochdurchmesser: 3mm
+Modul mit Ein  und Ausgabe Schnittstellen, Unterstützung für die Kaskadierung mehrerer Module
+
+Verdrahtung:
+
+1. Die linke Seite des Moduls ist der Eingangsanschluss und der rechten Seite ist der Ausgangsanschluss.
+2. Kontrolle eines einzelnen Moduls, der Eingangsanschluss müssen nur CPU empfangen.
+3. Je mehr eine Modulkaskade und ein Eingangsende des ersten Moduls mit der CPU verbunden ist und das Eingangsende des Eingangsendes des Ausgangsendes mit dem zweiten Modul verbunden ist, ist der Ausgangsanschluss des zweiten Moduls mit den drei Modulen verbunden, usw..
+Zum Beispiel: 51 SCM
+VCC → 5V
+GND → GND
+DIN → P2.2
+CS → P2.1
+CLK → P2.0
+
+Lieferinhalt:
+
+1 x MAX7219 Dot Matrix Modul
+1 x 5pin Dupont Kabel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,
+
+

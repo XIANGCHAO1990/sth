@@ -1,0 +1,145 @@
+1756023
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/CF/BF/114a4fc8-91cb-4ca2-b7c3-92285c8b666f.jpg
+Keyes ESP32 Carte d'extension de développement de carte mère équipée d'un module WROOM-32
+https://fr.banggood.com/Keyes-ESP32-Core-Board-Development-Expansion-Board-Equipped-with-WROOM-32-Module-p-1756023.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction:Il se compose d'une carte d'extension keyes ESP32-IO et d'une carte keyes ESP32 CoreComposition de la carte de développement, lors de l'utilisation, il suffit d'entrer une tension CC 7-12 V sur la tête CC noire, puisIl peut alimenter la carte principale keyes ESP32. Et la carte d'extension est également livrée avec 1 code de numérotationInterrupteur, utilisé pour contrôler l'interrupteur d'alimentation. Les développeurs peuvent connecter des périphériques en fonction de leurs besoins. FaireLorsque vous utilisez la carte de développement pour le développement et le débogage, les en-têtes standard des deux côtés peuvent faciliter vos opérationsPropre et pratique.Le module ESP-WROOM-32 est la principale solution intégrée WiH + Bluetooth du secteur,Moins de 10 composants externes, il intègre un commutateur d'antenne, un balun de fréquence radio, un amplificateur de puissanceConvertisseurs, amplificateurs à faible bruit, filtres et modules de gestion de l'alimentation. En même temps, il intègre égalementTechnologie TSMC basse puissance 40nm, performances de puissance et performances de radiofréquence, sûres et fiables, faciles à étendreDéveloppez-vous à diverses applications.Fonctionnalité:Microcontrôleur: module ESP-WROOM-32Puce USB vers port série: CP2102-GMRTension d'alimentation: DC 7-12VCourant de travail: 60mAPuissance maximale: 0,3 WTempérature de fonctionnement: -25 ° C à + 65 ° CMode WiFi: Station / SoftAP / SoftAP + Station / P2PProtocole WiFi: 802.11 b / g / n / e / i (802.11n, vitesse jusqu'à 150 MbpsPlage de fréquences WiFi: 2,4 GHz ~ 2,5 GHzProtocole Bluetooth: conforme aux normes Bluetooth V4.2BR / EDR et BLETaille: 67 * 50 * 19mmPoids: 32,8 gLe forfait comprend:1 x carte d'extension
+
+
+
+

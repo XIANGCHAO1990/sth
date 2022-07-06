@@ -1,0 +1,145 @@
+1864812
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/B7/70/bae34724-482d-48e1-91cc-3be43e11293d.jpg
+FNIRSI-1014D 7 Pollici TFT LCD Display Schermo 2 in 1 Memoria di ingresso a doppio canale oscilloscopio Generatore di segnale digitale
+https://it.banggood.com/FNIRSI-1014D-7-Inch-TFT-LCD-Display-Screen-2-In-1-Dual-Channel-Input-Storage-Oscilloscope-Digital-Signal-Generator-p-1864812.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:FNIRSI-1014D è un oscilloscopio e un generatore di segnale due in uno, la frequenza di campionamento in tempo reale è 1GSa / se con una larghezza di banda analogica di 100 MHz * 2, con schermo TFT LCD da 7 pollici, la protezione ad alta tensione integrata il modulo può tollerare fino a 400 V di tensione continua, senza preoccuparsi dell'incidente di combustione dell'oscilloscopio causato dal fatto che la sonda non si sposta sull'ingranaggio 10x, generatore di segnale di funzione integrato DDS e uscita di taglio originale del settore (@ 2,5 vpp), tutti i passi di frequenza del segnale sono 1Hz , supporta 14 tipi di segnale di funzione standard e un segnale di taglio personalizzabile, taglio Il dispositivo di uscita intercetta parte o tutta la parte dei segnali complessi misurati dall'oscilloscopio come segnale di uscita del generatore di segnale, che può memorizzare fino a 1000 tagli personalizzati segnali spenti. Vieni e provalo, non ti deluderà.Caratteristiche:Costruito nel generatore di segnale DDS, supporta 12 tipi di segnale di funzione.Funzione di cattura del segnale di uscita, che può memorizzare fino a 1000 segnali di cattura.Algoritmo di decodifica intelligente mirato, la durata dell'encoder è infinita e la funzione anti-ustione intelligente, 1X può resistere a una tensione di resistenza fino a 400 V.Con una larghezza di banda analogica di 100 MHz * 2 e una frequenza di campionamento di 1 GSa/s (1X = 5 MHz, 10 X = 100 MHz).Display a colori TFT LCD da 7 pollici con risoluzione 800 * 480 completamente compatibile con colori brillanti e contrasto elevato.Gamma di alta tensione di misurazione: 1X può misurare 0~40 V, 10X può misurare 0~400V.Fino a 12 parametri di misurazione：VPP，VP，Vmax，Vmin，Vavg，Vrms，Frequent，Duty+，Duty-，Time+，Time-，Period.Funzione di misurazione del cursore: è conveniente misurare manualmente il periodo, la frequenza e la tensione.Funzione di attivazione completa (singola, normale, automatica) e in qualsiasi momento la visualizzazione della forma d'onda (funzione STOP) è bloccata.Dotato di funzione AUTO a un pulsante ad alta efficienza e memorizzazione della forma d'onda a un pulsante e funzione di screenshot.Spazio di archiviazione integrato da 1 GB, può memorizzare fino a 1000 screenshot + 1000 set di dati sulla forma d'onda.Il potente gestore di immagini della forma d'onda supporta la navigazione in miniatura, la visualizzazione, la visualizzazione dettagliata, il cambio di pagina, l'eliminazione e lo zoom avanti, indietro, spostamento, ecc.Dotato di un'interfaccia USB, che può essere collegata a un computer per condividere i suoi screenshot con il computer, il che è conveniente per l'analisi secondaria.La funzione di visualizzazione grafica delle figure di Lissajous può essere utilizzata per determinare l'ampiezza, la frequenza e il contrasto di fase di due gruppi di segnali.Funzione di visualizzazione FFT, in grado di analizzare le caratteristiche spettrali del segnale, la tecnologia di compressione della memoria, la schermata di aggiornamento della forma d'onda non sfarfalla.Con la funzione di regolazione della luminosità dello schermo e la funzione di regolazione della luminosità della griglia di sfondo, anche facile da trasportare.Specifiche:Materiale: ABSLarghezza di banda analogica: 100 MHz * 2Numero di canali: 2 canaliMassima frequenza di campionamento in tempo reale: 1GSa/sSensibilità verticale: 50 mV/div ~ 500 V/divIntervallo di base dei tempi orizzontale: 50S/div ~ 10nS/divTensione di prova massima: 40 V (sonda 1X), 400 V (sonda 10X)Profondità di memoria: 240KbitResistenza di ingresso: 1MΩPrecisione ADC: 8 bitModalità di accoppiamento: CA/corrente continuaModalità di attivazione: singola, normale, automaticaTrigger edge: fronte di salita/fronte di discesaTensione trigger esterno 0~40 VPorte di estensione: esportazione di immagini USBDimensioni della confezione: 340 * 140 * 70 mm / 13,4 * 5,5 * 2,8 polliciPeso della confezione: 2500 g / 5,5 libbreIl pacchetto include:1 x host FNIRSI-1014D oscilloscopio2 x sonda 100MHz corrispondente (1X e 10X）1 x Clip1 x linea dati USB1 x manuale utente ingleseImmagini dei dettagli:
+
+
+
+

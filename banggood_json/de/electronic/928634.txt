@@ -1,0 +1,177 @@
+928634
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/29/DF/f5a1657a-d7a4-4cd4-9d5e-45e07c89b7ad.jpg
+Semiconductor BTS7960B 5V 43A H-Brücken-Motortreibermodul
+https://de.banggood.com/Semiconductor-BTS7960B-5V-43A-H-bridge-Motor-Driver-Module-p-928634.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eigenschaften:
+
+	Doppel BTS7960 großen elektrischen Strom (43A) H Brücke fahren
+	5V isoliert, damit es die effektiv schützen kann
+	Dieses Modul kann den Motor vorwärts und rückwärts bewegen, beide PWM höchste Frequenz ist 25 kHz
+	Zwei Ströme, die das Überhitzungsfehlersignal passieren, werden ausgegeben.
+	Die Stromversorgung des isolierenden Chips ist 5V, sodass er in 5V verwendet werden kann
+	Der Druck des elektrischen Stromes reicht von 5.5V - 27V
+
+Spezifikation:
+
+	Gewicht: 66 g
+	Größe: 4,8 x 4,8 x 3,9 cm
+
+Lieferinhalt:
+
+	1 x BTS7960B Motortreiber
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,213 @@
+1577997
+https://imgaz.staticbg.com/thumb/large/oaupload/ser1/banggood/images/2C/47/5ac9d8a0-2c34-4de8-afef-f19a7adaf5b8.JPG
+DC-DC 5-32V bis 0,8-30V Stromversorgung Step-Down-Modul Einstellbarer Buck-Regler 5A Konstante LED Treiber Batterie Ladespannungsplatine
+https://de.banggood.com/DC-DC-5-32V-to-0_8-30V-Power-Supply-Step-Down-Module-Adjustable-Buck-Regulator-5A-Constant-LED-Driver-Battery-Charging-Voltage-Board-p-1577997.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Überblick:
+
+
+
+Das Modul verwendet hochwertige Chips, einen hohen Wirkungsgrad (bis zu 95%), eine geringe Wärmeerzeugung, einen maximalen Strom von 5A und den Ausgangsstrom der Operationsverstärkersteuerung von TI, wodurch die Gesamtleistung sehr stabil wird.
+
+Dieses Modul verwendet einen Filterkondensator mit niedrigem ESR, um die Welligkeitsspannung auf 50 mV zu reduzieren!
+
+
+
+Eigenschaften:
+
+
+
+Modulnatur: nicht isoliertes Buck-Modul
+
+Gleichrichtungsmodus: asynchrone Gleichrichtung
+
+Verdrahtungsanschluss: Eingangsmodus: IN + Eingang positiv, IN- Eingang negativ
+
+Ausgangsmodus: OUT + Ausgang positiv, OUT-Ausgang negativ
+
+Eingangsspannung: DC 5V-32V
+
+Ausgangsspannung: DC 0,8V-30V
+
+Ausgangsstrom: Einstellbar, max. 5A
+
+Umwandlungseffizienz: 95% (maximal)
+
+Schaltfrequenz: 300KHz
+
+Ausgangswelligkeit: 50 mV (maximal) 20 MB Bandbreite
+
+Lastanpassungsrate: +/- 0,5%
+
+Spannungsregelungsrate: +/- 2,5%
+
+Betriebstemperatur: -40 ° C bis + 85 ° C.
+
+Größe: 51 x 26,3 x 14 (Länge x Breite x Höhe) (mm)
+
+
+
+Lieferinhalt:
+
+
+
+1x DC-DC 5A Einstellbares Buck-Regler-Netzteilmodul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

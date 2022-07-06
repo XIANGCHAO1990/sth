@@ -1,0 +1,145 @@
+1820680
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/2D/11/f03421b7-29aa-4ecb-97e3-54d328e5bd4f.jpg
+Original SAA-2N NanoVNA V2 3GHz 2.2 Versão 3000mAh Bateria Kit de analisador de rede de vetores HF VHF UHF Antena Monitor de 4 polegadas
+https://pt.banggood.com/Original-SAA-2N-NanoVNA-V2-3GHz-2_2-Version-3000mAh-Battery-Vector-Network-Analyzer-Kit-HF-VHF-UHF-Antenna-Analyzer-4Inch-Display-p-1820680.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificações:Faixa de frequência: 50kHz - 3GHzTolerância de frequência: <2ppmEstabilidade de frequência: <0,5 ppmFaixa dinâmica do sistema (calibrado): 70dB (até 1,5 GHz), 60dB (até 3GHz)S11 ruído de fundo (calibrado): -50dB (até 1,5 GHz), -40 dB (até 3GHz)Taxa de varredura: 100 pontos / sTela: 3,95 polegadas, 320 x 480Interface USB: Micro USBAlimentação: USB, corrente de carga máxima 1ABateria: 3000mAh íon-lítioConector da bateria: JST-XH 2,54 mmPontos máximos de varredura (no dispositivo): 201Pontos de varredura máximos (USB): 1024Perda de retorno da porta 2 (1,5 GHz): 20dB típicoPerda de retorno da porta 2 (3GHz): 13dB minPlataformas suportadas pelo software VNA-QT: Linux, Windows (7 +), 1MacIOS planejado SAA-2N NanoVNA V2.2 Analisador de rede vetorial 3GHz, projetado pela OwOComm, sob o contrato de licença LGPL, é totalmente fabricado de acordo com os arquivos v2_2 emitidos pela OwOComm em https://github.com/nanovna/SAA Departamento de Desenvolvimento, de acordo com as especificações técnicas originais projetadas por OwOComm. O SAA-2N / NanoVNA_V2.2 usa uma interface de usuário semelhante ao NanoVNA, mas com uma arquitetura técnica diferente, o SAA-2N / NanoVNA_V2.2 não carrega os dados de calibração inicial na inicialização e não interpola automaticamente os dados de calibração após o usuário alterar a frequência e deve recalibrar ou chamar de volta os dados de calibração após cada inicialização e alteração de frequência. Leia o manual do usuário com atenção antes de usar para evitar danos ao dispositivo.>>User Guide and Software<< O pacote inclui:Host SAA-2N (dentro da bateria de 3000mAh) x 1Cabo de dados micro USB x1Cabo RF de 50cm tipo N macho para macho RG142-PUR x2Kit de calibração macho tipo N - ABERTO x1Kit de calibração macho tipo N - CURTO x1Kit de calibração macho tipo N - LOAD x1Conector tipo N fêmea para fêmea x1Pás da tela de toque e talabarte x1Saco EVA Armazenamento x1
+
+
+
+

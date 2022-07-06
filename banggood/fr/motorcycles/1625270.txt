@@ -1,0 +1,280 @@
+https://fr.banggood.com/KONNWEI-KW903-WIFI-ELM327-OBD2-Car-Scan-Tool-Diagnostic-Scanner-Engine-Code-Reader-p-1625270.html?cur_warehouse=USA&ID=47972&rmmds=CategoryAutomobilesPop
+KONNWEI KW903 WIFI ELM327 OBD2 Outil de numérisation de voiture Scanner de diagnostic Lecteur de code moteur
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La KW903 l'appareil est un petit adaptateur branché sur le connecteur OBD du véhicule. Sur Wifi, il se connecte à n'importe quel ordinateur, tablette ou
+		smartphone, avec procédures de diagnostic associées. En effectuant ces opérations simples, vous pourrez:
+
+
+1. Lisez les codes historiques (mémoire) / en attente (intermittents) et historiques et affichez les définitions.
+
+2. Mesurez la consommation de carburant.
+
+3. Affichez les performances de fonctionnement en temps réel de la voiture, telles que l'élan,
+
+4. Surveiller la vitesse du véhicule
+
+5. pression d'huile
+
+6. Température du liquide de refroidissement
+
+7. Charge du moteur
+
+8. Pression du collecteur d'admission
+
+9. position de l'accélérateur,
+
+10. les valeurs des capteurs d'oxygène,
+
+11. entrée d'air
+
+12. température, et plus encore.
+
+13. Éteignez le MIL (signal Check Engine).
+
+14. Téléchargez les données sur un support externe dans une variété de formats pour une impression ultérieure.
+
+15. Enregistrez divers paramètres, affichez des graphiques en temps réel, etc.
+
+
+Caractéristiques :
+
+Petite taille, structure compacte. Branchez et ne débranchez jamais
+
+Connexion sans fil stable
+
+Pas de fils ni de piles (l'adaptateur est alimenté par les prises de taille de diagnostic)
+
+Arrêtez la communication, attendez une demi-heure, veille automatique
+
+Prend en charge presque les protocoles OBDII
+
+L'adaptateur utilise les puces les plus rapides et les plus fiables
+
+C'est Version Wi-Fi, Support Smartphone système Android / IOS, ordinateur tablette et PC 
+
+La version icar2 est 100% V1.5
+
+ 
+
+Protocoles :
+
+
+0.Automatique
+
+1.SAE J1850 PWM (41.6Kbaud)
+
+2.SAE J1850 VPW (10.4Kbaud)
+
+3.ISO9141-2 (5 baud init, 10.4Kbaud)
+
+4.ISO14230-4 KWP (5 baud init, 10.4 Kbaud)
+
+5.ISO14230-4 KWP (init rapide, 10.4 Kbaud)
+
+6.ISO15765-4 CAN (ID de 11 bits, 500 Kbaud)
+
+7.ISO15765-4 CAN (identifiant 29 bits, 500 Kbaud)
+
+8.ISO15765-4 CAN (ID de 11 bits, 250 Kbaud)
+
+9.ISO15765-4 CAN (29 bits ID, 250 Kbaud)
+
+A.SAE J1939 CAN (identifiant 29 bits, 250 * Kbaud)
+
+B.USER1 CAN (11 * bit ID, 125 * Kbaud)
+
+C.USER2 CAN (11 * bit ID, 50 * kbaud)
+
+Paramètres par défaut (réglable par l'utilisateur)
+
+
+
+Référence des véhicules conformes à OBDII:
+
+
+Voitures d'Europe: Fonctionne après 2000 et les véhicules OBDII / OBD2 / OBD / CAN-BUS plus récents, qui incluent la liste des protocoles obd de support icar2
+
+America Cars : Fonctionne sur tous les véhicules OBDII / OBD2 / OBD / CAN-BUS de 1996 et plus récents, y compris la liste des protocoles OBD supportés par icar2
+
+Voitures d'Asie / AU: Fonctionne après 2005 et les véhicules OBDII / OBD2 / OBD / CAN-BUS plus récents, qui incluent la liste des protocoles obd de support icar2
+
+
+
+Quelques modèles de voitures spéciales :
+
+
+Pour SSangyong Kyron / Actyon sera adapté à partir de 2010 et les voitures plus récentes. 
+
+Pour les modèles LADA Priora, de 2008 à 2016, le modèle conviendra, LADA 2111, 2116 ne conviendra qu’après 2013.
+
+
+Emballage inclus :
+
+
+1 X Outil de scanner OBD
+
+1 X CD
+
+1 manuel d'utilisation
+Il n'y a que des manuels sur le CD, et les fichiers sont les suivants :http://myosuploads3.banggood.com/products/20220531/20220531060018KONNWEIWIFI327CDRX4.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

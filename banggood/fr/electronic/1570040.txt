@@ -1,0 +1,197 @@
+https://fr.banggood.com/NY-D01-40A-or-100A-Digital-Display-Spot-Soldering-Station-Time-and-Current-Controller-Board-Timing-Ammeter-Spot-Welders-Control-Board-p-1570040.html?cur_warehouse=CN&ID=517855&rmmds=CategoryElectronicsPop
+NY-D01 40A/100A Station de soudage par points à affichage numérique Carte de contrôleur de temps et de courant Ampèremètre de synchronisation Carte de commande de soudeuses par points
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aperçu:
+
+
+
+Le panneau de commande de la machine de soudage par points est un contrôleur développé indépendamment pour le bricolage ou le soudage par résistance simple. 
+
+Le principe du déclenchement par déphasage contrôlé au silicium est adopté pour ajuster le temps et le courant afin d'atteindre l'objectif du soudage.
+
+
+
+Les principales caractéristiques de ce contrôleur :
+
+
+
+1. L'utilisation du centre de contrôle du microcontrôleur industriel STM8.
+
+2. Électricité forte et faible grâce à l'isolement de l'optocoupleur, fonctionnement sûr.
+
+3. Le câble d'alimentation et la ligne de pédale adoptent la borne de connexion rapide sans vis, plus pratique et fiable.
+
+4. Temps d'entrée, courant utilisant un potentiomètre unique de haute précision, pour assurer une entrée fiable, pratique
+
+5. Alimentation embarquée, état, pied, indicateur de déclenchement, état de fonctionnement clairement visible.
+
+6. La conception d'un circuit de détection de passage par zéro fiable pour garantir la précision du déphasage SCR.
+
+7. Le contrôleur est compatible avec 100A SCR.
+
+8. Interface de contrôle numérique, vous pouvez afficher l'heure actuelle et les paramètres actuels.
+
+9. Entrée de temps 1-50, cycle unitaire (1 cycle est de 20 ms), entrée de courant (30-99 %)Num.NY-D01 (cet article)NY-D02NY-D03NY-D04NY-D051Source de courantAC9-12V 3W 50HZ/60HZ (l'alimentation CA doit être utilisée, l'alimentation CC ne peut pas être déclenchée)2Méthode de démarragePédale ou autre point passif normalement ouvert (notez qu'il doit s'agir d'un point normalement ouvert, le signal actif ne peut pas être utilisé)3Formulaire de déclenchementOptocoupleur importé spécial SCRTransformateur d'impulsions4Afficher le formulaire0. 36 tube à chiffres0. 56 tube à chiffresécran d'affichage0. 56 tube à chiffres0. Tube à 56 chiffres5Méthode d'ajustementPotentiomètre/BoutonEncodeur + BoutonEncodeur + BoutonBoutonBouton6Limite de temps1-501-991-991-991-997Gamme actuelle30-99300-99930-9930-9930-998Sortie de soudageimpulsion uniquedouble impulsiondouble impulsionimpulsion uniqueimpulsion unique9Fonction de régulation de tensionNONOUIOUINONNON10Fonction de comptageNONOUIOUINONNON11Sauvegarde hors tensionOUIOUIOUIOUIOUI12Nombre de groupes canoniquesGroupe 1Groupe 1Groupe 5Groupe 1Groupe 113Thyristor de commandeLe thyristor bidirectionnel, 100A et moins, peut piloter un niveau G, pas de module de thyristor externe, carte d'usine avec thyristor.Module thyristor ou deux thyristors unidirectionnels dos à dos (G1K1 G2K2) usine sans thyristor
+
+Le forfait comprend :
+
+	1 x carte de contrôle des soudeurs par points
+
+
+Wiring demo:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

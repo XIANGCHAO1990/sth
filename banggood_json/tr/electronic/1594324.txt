@@ -1,0 +1,424 @@
+1594324
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/06/A0/73460d5e-9eb5-4691-abe1-3b4f8c1b9837.jpeg
+RIDEN® RD6006 / RD6006-W LED Anahtarlamalı Güç Kaynağı S-400W-48V / DC12V / 24V / 36V / 60V 8.3A-33.3A Transformatör Aydınlatma İzleme Desteği
+https://tr.banggood.com/RIDEN-RD6006-or-RD6006-W-LED-Switching-Power-Supply-S-400W-48V-or-DC12V-or-24V-or-36V-or-60V-8_3A-33_3A-Support-Monitoring-Transformer-Lighting-p-1594324.html?cur_warehouse=CN&ID=520159&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellik:
+
+Not: Bu güç kaynağı, Ürün Kimliği: 1587151 (RD6006 / RD6006-W) ile kullanılabilir, S06A Kılıf Ürün Kimliği 1587330 (RD6006 / RD6006-W ile kullanmanız gerekiyorsa, lütfen 60V seçin)
+
+
+Modeli: S-400-xx
+
+Çıkış gücü: 400W
+
+Çıkış voltajı: DC12 / 24/36/48 / 60V (İsteğe bağlı)
+
+Giriş voltajı: 110V / 220V AC
+
+Ortam sıcaklığı: -10 ° C ~ +50 ° C
+
+Ayarlanabilir voltaj: ±% 10
+
+Ürün boyutu: 215 x 115 x 50 mm
+
+
+
+
+
+
+
+
+
+
+Öğe
+
+Teknik özellikler
+
+
+
+Çıktı
+
+DC gerilimi
+
+12V
+
+24V
+
+36V
+
+48V
+
+60V
+
+
+
+Anma akımı
+
+33.3A
+
+16.6A
+
+11.1A
+
+8.3A
+
+6.6A
+
+
+
+Anma gücü
+
+399.6W
+
+398.4W
+
+399.6W
+
+398.4W
+
+396W
+
+
+
+Dalgalanma ve gürültü ①
+
+<150mV  
+
+<150mV
+
+<240mV
+
+<240mV
+
+<240mV
+
+
+
+Voltaj doğruluğu
+
+±% 1
+
+
+
+Çıkış voltajı ayar aralığı
+
+±% 10
+
+
+
+Yük Düzenleme
+
+<±% 1,2
+
+<±% 1
+
+<±% 0,5
+
+<±% 0,5
+
+<±% 0,5
+
+
+
+Doğrusal ayarlama oranı
+
+<±% 1
+
+
+
+Giriş
+
+Voltaj aralığı
+
+90-132VAC / 180-264VAC 47Hz ~ 63Hz; 254VDC ~ 370VDC
+
+
+
+Verimlilik (tipik) ②
+
+>% 82
+
+>% 84
+
+>% 86
+
+>% 86
+
+>% 86
+
+
+
+Çalışma akımı
+
+<5.2A 115VAC, <2.8A 230VAC
+
+
+
+Elektrik şoku
+
+110VAC: 25A, 220VAC: 50A
+
+
+
+Başla, yüksel, zamanı tut
+
+200 ms, 50 ms, 20 ms: 230VAC
+
+
+
+Koruma
+
+Aşırı yükleme koruması
+
+% 105 -% 135 tipi: sabit akım çıkışı, + V0, çıkışı kesmek için düşük gerilim noktasına düşer, sıfırlama: tekrar açın
+
+
+
+Aşırı gerilim koruması
+
+> =% 115 -% 145 olduğunda çıkışı kapat
+
+
+
+Düşük gerilim koruması
+
+<% 10 -% 45 olduğunda çıkışı kapat
+
+
+
+Kısa devre koruması
+
+Çıktıyı kapat
+
+
+
+
+
+Aşırı sıcaklık koruması
+
+RTH3:> = 65 ° C fan başlar, <= 55 ° C fan kapalı,> = 80 ° C çıkış (5V-15V)
+						RTH3:> = 70 ° C fan başlar, <= 60 ° C fan kapalı,> = 85 ° C çıkış (18V-48V)
+
+
+
+Çevre
+
+Çalışma sıcaklığı, nem
+
+-10 ° C ~ + 50 ° C,% 20 ~% 90 Bağıl Nem
+
+
+
+Depolama sıcaklığı, nem
+
+-20 ° C ~ + 85 ° C,% 10 ~% 95 Bağıl Nem
+
+
+
+Emniyet
+
+Dayanım gerilimi
+
+Giriş-Çıkış: 1.5KVAC 
+						Giriş - Muhafaza: 1.5KVAC 
+						Çıkış - Muhafaza: 1 dakika için 0.5KVAC
+
+
+
+Kaçak akım
+
+1.5KVAC'de giriş-çıkışı <6mA
+
+
+
+Kaçak akım
+
+220VAC'de giriş çıkışı <1.5mA
+
+
+
+İzolasyon direnci
+
+Giriş-çıkış, giriş muhafazası, çıkış muhafazası: 500VDC / 100MΩ
+
+
+
+Diğer
+
+Boyut
+
+215*115*50mm
+
+
+
+Net sıfırlama / brüt sıfırlama
+
+874.1/936.3g
+
+
+
+
+
+① Dalgalanma ve gürültü ölçüm yöntemi: 12 mm bükülü çift kablo kullanın ve terminal 0,1 uF ve 47 uF kapasitörlerle paralel bağlanmalı ve 20 MHz bant genişliğinde ölçülmelidir.
+
+②Etkinlik, 230VAC giriş voltajında, nominal yükte ve 25 ° C ortam sıcaklığında test edilmiştir.
+
+Doğruluk: Ayar hatası, doğrusal ayarlama oranı ve yük ayarlama oranını içerir.
+
+Doğrusal Hız Test Yöntemi: Düşük voltajdan yüksek voltaja, nominal yükte test edin.
+
+Yük düzenleme test yöntemi: nominal yükün% 0 ila% 100'ü.
+
+Başlatma süresi, soğuk başlatma durumunda ölçülür. Hızlı ve sık anahtarlama makinesi, başlatma süresini uzatabilir. Çalışma yüksekliği 2000M'den daha yüksek olduğunda, çalışma ortamı sıcaklığı 5 ° C / 1000M azaltılmalıdır.
+
+Paket şunları içerir:
+
+		1 x Güç Kaynağı
+
+
+
+Not: Lojistik nedenlerden dolayı, malları aldıktan sonra aşağıdaki problemler ortaya çıkabilir (tıpkı resim gibi), elinizi ayarlamak için kullanabilirsiniz, sorun değil, eğer bunu düşünüyorsanız, lütfen satın almayı bırakın. 
+
+
+
+
+
+
+

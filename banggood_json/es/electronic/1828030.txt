@@ -1,0 +1,146 @@
+1828030
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/74/E2/edd1bc35-1b01-4738-ad43-0558ed608da5.jpg
+Eliminador de QRM Fase X (1-30 MHz) Bandas de HF Caja
+https://es.banggood.com/QRM-Eliminator-X-Phase-(1-30-MHz)-HF-Bands-Box-p-1828030.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>> Manual: Haga clic aquí para abrir <<<Principio:El cancelador QRM se inserta en el alimentador de la antena desde thetrx sin ninguna otra modificación a la radio. La caja tiene un control PTT incorporado para mantener el cancelador conectado durante la transmisión. Sin embargo, se requiere una antena receptora auxiliar adicional, como una antena de 2 m o solo unos pocos metros de cables en un cobertizo. Las dos antenas reciben señales no deseadas, lo que resulta en diferentes fases. El cancelador QRM ahora permite el ajuste del ángulo de fase y la amplificación para cancelar las señales no deseadas antes de que lleguen al extremo frontal del receptor. Se basa en un concepto completamente innovador y no se puede comparar con el rendimiento normal del "silenciador".TARJETA DE CIRCUITO IMPRESO:1. TARJETA DE CIRCUITO IMPRESO: 73 * 85 * 1,6 mm2. Peso: 55 gEl paquete incluye:(optional: Bare board/ con cáscara)1 x cancelador QRM 
+
+
+
+

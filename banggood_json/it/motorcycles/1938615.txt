@@ -1,0 +1,145 @@
+1938615
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/A1/D3/82cf226d-b030-4cb9-9412-80a2fe11ff38.jpg
+V313 ODB2 LCD Display Lettore di codice motore Strumento diagnostico per auto Aggiornamento gratuito Scanner automobilistico OBDII Batteria Tester
+https://it.banggood.com/V313-ODB2-LCD-Display-Engine-Code-Reader-Car-Diagnostic-Tool-Free-Update-Automotive-Scanner-OBDII-Battery-Tester-p-1938615.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:I1. Questa è una scheda di lettura del codice multifunzionale che integra il rilevamento generale OBD, il rilevamento della batteria e la stampa (stampa della porta seriale). Fornisce il rilevamento accurato del veicolo, il rilevamento della batteria e la stampa dei risultati dei test. Introduzione al prodotto V313 Un prodotto per la lettura di codici carrello,Ha le seguenti funzioni:1. Supporta nove protocolli standard OBD II/EOBD;2. Supporta le funzioni OBD come la diagnosi dei guasti del veicolo e lo streaming di dati in tempo reale;3. Con funzioni di riproduzione dei dati come la visualizzazione delle informazioni sul codice di errore salvate, il flusso di dati e il rilevamento della batteria;4. Dati con test di emissione5. I dati salvati nella scheda di lettura codici possono essere stampati tramite la porta seriale USB;6. Supporta la funzione di aggiornamento USB7. Tedesco, olandese, inglese, spagnolo, francese, italiano8. Testare rapidamente la corrente di avviamento a freddo, la resistenza interna, la durata della batteria e la carica residua della batteria al piombo-acido da 12 V per determinare se la batteria deve essere sostituita: rilevamento della tensione in tempo reale, rilevamento dell'impedenza della batteria e quanto l'alimentazione viene lasciata dopo un periodo di carica completa (SOC ) Batteria valore della corrente di carica (SOH), rilevamento della corrente di avviamento a freddo (CCA)Dati del veicolo supportati:Leggere il codice diagnostico di erroreCancella il codice di errore e spegni il MIL (spia "Check Engine")Giri motore al minuto (RPM)Valore di carico calcolatoTemperatura del refrigeranteStato del sistema di alimentazioneVelocitàSituazione di carburante a breve termineSituazione di carburante a lungo terminePressione del collettore di aspirazioneTempo di anticipo iniezione carburanteTemperatura dell'aria aspirataVelocità dell'ariaPosizione assoluta della valvola a farfallaTensione di rilevamento dell'ossigeno associata allo stato di combustibile a breve termineStato del sistema di alimentazionePressione del carburanteCi sono molti altri dati per il monitoraggio del consumo di carburante...Nota: anche il numero di elementi di dati supportati da diversi anni modello è diverso e prevale la situazione di supporto effettiva.Protocolli supportatiSAE J1850 PWM (41,6 Kbaud)SAE J1850 VPW (10,4 Kbaud)ISO 9141-2 (5 baud init, 10,4 Kbaud)ISO 14230-4 KWP (5 baud init, 10,4 Kbaud)ISO 14230-4 KWP (avvio rapido, 10,4 Kbaud)ISO 15765-4 CAN (ID 11 bit, 500 Kbaud)ISO 15765-4 CAN (29bit ID, 500 Kbaud)ISO 15765-4 CAN (ID 11 bit, 2500 Kbaud)ISO 15765-4 CAN (29bit ID, 250 Kbaud)Specifica:Parametri tecnici Chip di controllo principale STM32F103VET6tensione di lavoroDC 12VCorrente di lavoro 98mAAmbiente operativo -20～70 ℃Temperatura di conservazione-20～80℃Dimensioni 181.5*81*29mmIl pacchetto include:1 XScanner OBD2
+
+
+
+

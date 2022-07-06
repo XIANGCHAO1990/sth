@@ -1,0 +1,247 @@
+https://de.banggood.com/MPPT-5A-Solar-Panel-Regulator-Controller-Battery-Charging-9V-12V-24V-Automatic-Switch-p-1307801.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+MPPT 5A Solarpanel Regler Controller Batterie Aufladen 9V 12V 24V Automatischer Schalter
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Handbuch: Zum Öffnen hier klicken<<<
+
+	Merkmale:
+
+
+
+1W-100W 9V-28V ist geeignet 9V 12V 18V 24V Sonnenkollektoren zum Aufladen der Batterien, Nickel-Cadmium, Lithium-Batterien (Batterie), Windturbinen, Solarstraßenlaternen.
+
+Eingangs- und Ausgangsklemmen bestehen aus High-End-Schaltnetzteilen für hochfrequente niederohmige Elektrolytkondensatoren (LOW ESR), die die Ausgangswelligkeit sicherstellen. Kann die Störungen des Schaltnetzteils effektiv herausfiltern.
+
+
+
+Parameter:
+
+
+
+Der modulare Charakter: ein echtes MPPT-Solar-Maximum-Power-Poin-Tracking, automatisches intelligentes Lademanagement, geringer Stromverbrauch
+
+Eingangsspannung: DC 8-28 V Eingangsgleichspannung. (Verbot AC-Eingang)
+
+Ausgangsspannung: DC 5-26V stufenlose Übertragung.
+
+6V Akku kann entweder 12 oder 8,4V/12,6V/16,8V Lithium Akku geladen werden,7,2 V/10,8 V/14,4 V Lithium-Eisen-Phosphat-Batterie,2-4 String-Lithiumbatterien, Lithium-Eisenphosphat-Lademanagementplatine.
+
+Ausgangsstrom: 2A/5A maximaler Ladestrom in zwei: A-Version 5A B-Version von A 2A 5A Standard-Versandversion
+
+Ladeanzeige: ja. Schnelles Aufladen rotes Licht lange helle rote und blaue Lichter blinken abwechselnd aufgeladen. Vollautomatischer Stopp.
+
+MPPT-Funktion: Eine automatische MPPT-Nachverfolgung mit maximaler Leistung, um die volle Nutzung der Solarladung zu maximieren
+
+Niederdruck: 1 V (wie beim Abwärtsspannungsregler ist die Eingangsspannung mindestens höher als die Ausgangsspannung von 1 V)
+
+Geringer Stromverbrauch: ja! Ultra-Niedrigdruck zur Erzielung eines geringen Stromverbrauchs und einer hohen Effizienz, professionelle Anpassung von Sonnenkollektoren
+
+Betriebstemperatur: Industriequalität (-40 bis +85 Grad)
+
+Lastregelung: ± 1 %
+
+Spannungsregelung: ± 0,5 %
+
+Umwandlungseffizienz: Max. 93 % Spitze 95 % für unterschiedliche Lichtverhältnisse variieren.
+
+Laden: Automatischer intelligenter dreistufiger Lademodus. Der selbstnachführende Ladestrom der Solarenergie passt die Größe automatisch an
+
+Leerlaufstrom: 3MA Selbst schwache Morgensonne kann problemlos automatisch starten, wodurch manuelles Umschalten entfällt.
+
+Eingangsverpolungsschutz: ja. Exklusiv entwickelter MOS-Transistor-Verpolungsschutz mit ultraniedrigem Ausfallschutz, Eingangsumkehrung funktioniert nicht.
+
+Ausgang Rückflussschutz: ja. Verhindern Sie effektiv das elektrische Ladungsblatt der nächtlichen Refluxbatterie!
+
+Anschluss: dort Klemmen
+
+
+
+Debugging-Methode:
+
+
+
+Schritt 1: Schließen Sie die Solarzelle an, nehmen Sie die aufzuladende Flasche nicht, wenn die Ausgangsspannung in Schritt 2. Wenn es keine Übertragung von kleiner Leistung gegen den Uhrzeigersinn gibt, langsam bis die Ausgangsspannung MPPT.
+
+Schritt 2: Übertragung der kleinen Ausgangsspannung gegen den Uhrzeigersinn, bis die roten und blauen Lichter blinken, dann grobe Ausgangsspannung auf eine volle Abschaltspannung
+
+Schritt 3: Auf leere Batterie zugreifen und am Ausgangsstring-Amperemeter den Ladestrom überwachen, MPPT-Trimmpotentiometer bis zum Ladestrommaximum.
+
+Schritt 4: Der Zugang ist gerade voll mit Batterien. Wenn das blaue Licht im Uhrzeigersinn leuchtet, erhöhen Sie die Ausgangsspannung, bis das rote Licht leuchtet. Übertragen Sie dann eine kleine Ausgangsspannung langsam gegen den Uhrzeigersinn, bis nur noch blaue Lichter aufleuchten, und messen Sie dann mit einem Multimeter, um festzustellen, ob die Abschaltspannung korrekt ist, um eine Überladung zu vermeiden!
+
+
+
+Übertragungsmethoden statt Nutzung der Stromversorgung durch Sonnenenergie:
+
+
+
+Schritt 1: Die Stromversorgung wurde auf die Solar-MPPT-Spannung eingestellt (z. B. 18 V).
+
+Schritt 2: Die an den Eingangsanschluss angeschlossene Stromversorgung, nehmen Sie die Batterie nicht auf, wenn die Ausgangsspannung im Uhrzeigersinn eingestellt wird, bis keine große MPPT-Spannung ausgegeben wird. Dann langsam gegen den Uhrzeigersinn, bis die Übertragung von kleinen MPPT gerade die Ausgangsspannung hat.
+
+Schritt 3: Drehen Sie die Ausgangsspannung gegen den Uhrzeigersinn herunter, bis die roten und blauen Lichter blinken, dann grobe Ausgangsspannung auf eine volle Abschaltspannung
+
+Schritt 4: Der Zugang ist gerade voll mit Batterien. Wenn das blaue Licht im Uhrzeigersinn leuchtet, erhöhen Sie die Ausgangsspannung, bis das rote Licht leuchtet. Übertragen Sie dann eine kleine Ausgangsspannung langsam gegen den Uhrzeigersinn, bis nur noch blaue Lichter aufleuchten, und messen Sie dann mit einem Multimeter, um festzustellen, ob die Abschaltspannung korrekt ist, um eine Überladung zu vermeiden!
+
+
+
+Notiz:
+
+
+
+Die erste Ladung im Voraus regelt die Ausgangsspannung und überwacht bitte genau die Batteriespannung, um ein Überladen zu vermeiden! Keine ungeschützten Lithium-Batterien!
+
+
+
+Lieferinhalt:
+
+
+
+1 x MPPT sSolarpanel-Regler-Controller
+
+
+
+
+
+
+
+
+
+
+
+
+

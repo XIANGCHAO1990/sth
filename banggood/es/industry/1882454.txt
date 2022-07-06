@@ -1,0 +1,144 @@
+https://es.banggood.com/NEJE-A40640-Laser-Engraver-Cutter-Module-Kits-Double-Laser-Beam-15w-Output-Laser-For-DIY-Laser-Engraving-Machine-Wood-Cutter-Cutting-Tool-p-1882454.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+NEJE A40640 Láser Kits de módulo de cortador de grabador Doble Láser Salida de haz de 15 W Láser Para DIY Láser Máquina de grabado Cortadora de madera herramienta
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:Este módulo tiene una potencia diferente a la del A40640, el A40630 es un LD único y el A40640 es un haz LD dual, otras capacidades son las mismas; un punto cuadrado puede cortar hasta 20 mm de espesor;Característica del módulo A40640 Láser:- Diseñado para grabador Láser, impresora 3D, molino CNC, proyecto Arduinos.- Salida de potencia óptica de 15 W, madera contrachapada de 4 mm desde 1 pasada (velocidad 200), tablero acrílico negro de 3 mm desde 1 pasada, Capaz de grabar acero inoxidable, pero necesita un buen ajuste de enfoque.- Más seguridad, vidrio protector incorporado para proteger los ojos. Incluso sin gafas protectoras, la operación es más cómoda.- Más silencioso, la unidad inteligente ajusta la velocidad del ventilador de enfriamiento de acuerdo con la temperatura del láser.- Fácil de usar, tablero de ciclo de trabajo de frecuencia ajustable del generador de señal de pulso de onda Digital PWM para el módulo láser NEJE.- Se proporciona un accesorio de montaje deslizable para un fácil ajuste del enfoque.Especificación:MarcaNEJEModoloN40640Material del disipador de calorAeronaves de aluminio + carcasa de latónColor luminosoAzulTamaño de la sección40mm x 40mmModo de enfriamientoControl inteligente del sensor de temperatura + ventilador de enfriamiento de 40 mm 10000 rpmDimensión60 * 40 * 40mmEnchufe adaptador5.5 2.1 puertopuede grabarMDF/balsa/papel/madera/tela/plástico/cuero/madera contrachapada/papel espuma/aluminio anodizadono puede grabarMetal/Vidrio/Piedra/Cerámica/PCB/Acero inoxidable/Material reflectante/ Material transparenteEntrada del módulo30-40WSalida de potencia óptica15 W (15000 mW)Longitud de onda445-450nmForma del hazPunto (Enfocable)Tensión de trabajoCC 12VModulación TTL y PWMSÍ, compatible con modulación TTL y PWMVoltaje de entradaCC12V 3AEntrada PWM / TTLDC3.3V-12VInterfaz de entradaPH2.0-4Pin (+, -, PWM / TTL, temperatura), 3Pin (+, -, PWM / TTL), 2Pin + 2Pin (+, -) + (PWM / TTL, -)NOTALa interfaz de temperatura se puede desconectar. NEJE proporciona instrucciones de texto para la adquisición de temperatura en wiki.Modo conductorACC externoRango de temperatura seguro<60 ℃Peso del módulo202g (cuanto más ligero es el peso, menor es la inercia de movimiento, mejor es el rendimiento)Toda la vida10000-20,000 horasGenerador de señal de pulso de onda digital PWM Ciclo de trabajo de frecuencia ajustable para NEJE Láser Especificación de la placa del probador del móduloEntrada de alimentaciónCC 12V ProducciónPH2.0 4 pines (12 v, GND, PWM / TTL, temperatura)Modo3 modos (apagado, pwm manual, entrada pwm / ttl) pantalla de temperaturaSÍPWM PantallaSÍControl manual PWMSÍNota (Por favor, preste atención):1.Use gafas láser durante el uso y evite tocar el láser directamente con los ojos y la piel.2. No grabe objetos espejados, preste atención al fuego, preste atención a las mascotas cuando trabaje！3. Se generará humo cuando se queme, preste atención al escape de humo en el interior.4. El período de garantía del módulo láser es de un año. Si tiene algún problema de calidad (excepto situaciones individuales como usar el módulo láser más de 30 minutos por vez y causar daños), no dude en pedir ayuda a nuestro servicio de atención al cliente.5. Si su módulo láser tiene algún problema, NO lo desmonte sin nuestro permiso. Destruirá el módulo láser.6. Si tiene algún problema de calidad con la máquina, no dude en contactarnos. Muchos problemas operativos se pueden resolver de acuerdo con su video y descripción del problema. Gracias de antemano.7.Este módulo láser es compatible con nuestras máquinas NEJE Master 2 Plus y Master 2 Max.8. También puede ser compatible con otros equipos CNC, como impresoras 3d, fresado CNC, etc., pero debe dominar un cierto conocimiento del control de forma de onda PWM.El paquete incluye:1 xMódulo láser1 xAccesorio deslizante de módulo láser1xCable de 4 pines (1000 mm)1 xNEJE Digital PWM Generador de señal de pulso de onda Tablero ajustable1 x2,5 mm en forma de L Llave1 x5 mm en forma de L Llave1 xCable de 4 pines1 xCable de 3 pines1 xcable de 2 pines
+
+
+
+

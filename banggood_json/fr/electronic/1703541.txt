@@ -1,0 +1,145 @@
+1703541
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/95/05/4b36cb8d-db47-466c-bedf-9293610fbc3e.jpg
+DSTIKE BAD Montre Montre Programmable Atmega32u4 USB Laser VL53L0 Capteur de Distance Température RTC avec 800mAh Batterie
+https://fr.banggood.com/DSTIKE-BAD-Watch-Programmable-Watch-Atmega32u4-USB-Laser-VL53L0-Distance-Sensor-Temperture-RTC-with-800mAh-Battery-p-1703541.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Qu'est-ce que c'est?Il s'agit d'une montre de développement atmega32u4 avec capteur de distance, laser, buzzer, RGB LED et RTC à l'intérieur.Il est pré-flashé avec un démo programme qui peut afficher l'heure, la température intérieure (température du RTC3231) et la distance.Poussez l'interrupteur vers le haut et la montre détectera la distance entre vous et votre cible. Si la distance est inférieure à 1 m, le signal sonore retentit "B ~" et RVB devient ROUGE en même temps. Le capteur de distance ne peut détecter qu'une portée de 0 à 1,2 m.Poussez l'interrupteur vers le bas et le laser sera activé. Poussez à nouveau et cela éteindra le laser.Vous pouvez regarder la vidéo d'introduction que j'ai faite.Pourquoi l'avez-vous fait?Je voulais juste faire une montre cool pour les débutants Arduin. Atmega32u4 pourrait être reconnu comme un clavier pour ordinateurs. C'est pourquoi beaucoup de gens l'utilisent comme un mauvais USB. C'est aussi la même raison pour laquelle je l'utilise sur cette montre. J'ai ajouté une commande qui peut afficher les mots de passe wifi de votre ordinateur.Ainsi, lorsque vous connectez cette montre à un ordinateur, une fenêtre s'affiche et affiche tous les mots de passe.Vous pouvez modifier le code BadUSB pour faire ce que vous voulez avec l'ordinateur. Juste pour le fun. Ne fais pas de mauvaises choses.Qu'est-ce qui le rend spécial ?Bootloader est Arduin LeonardoBuzzer (broche numérique 12)RGB LED (broche numérique 6)Laser (broche numérique 13)1.3 OLED SH1106 (IIC)SDA (broche numérique 3)SCL (broche numérique 2)Bouton vers le haut (broche numérique 10)Bouton vers le bas (broche numérique 8)Sélection de bouton (broche numérique 9)Breakou GPIOs (5V, 3V, BAT, GND, GPIO5, SDA, SCL, TXD, RXD, AD0)Capteur de distance VL53L0 (IIC)Extrêmement précis DS3231 (IIC)Coût de l'alimentation 40-70mA (le temps de travail dépend de votre code)Batterie Li 800mAhIndiquez la charge LED (25% ， 50% ， 75% ， 100%)Interrupteur d'alimentation (cliquez pour allumer, double-cliquez pour éteindre, clic long pour ouvrir la mise en surbrillance LED)Comment le programmerOuvrez IDE et sélectionnez "Arduin Leonardo" dans l'option de carte.Des astucesJe mets tous les fichiers de conception et le code sur mon github. Lorsque vous essayez l'exemple de code, vous feriez mieux de télécharger les bibliothèques dans votre Arduin IDE en premier1.Mauvaise clé USBUne partie de code USB incorrecte ne peut être placée que dans le champ setup (). Si vous le mettez dans la boucle (), vous pouvez avoir un problème où l'ordinateur ne peut pas reconnaître la montre. Vous devez réinitialiser le chargeur de démarrage pour résoudre ce problème.2.PowerKeepJ'utilise IP5306 pour alimenter cette montre. Lorsque l'IP5306 détecte un courant inférieur à 45 mA, il coupe automatiquement l'alimentation. J'utilise donc un PowerKeep code pour simuler toutes les 10 secondes, cliquez sur le bouton d'alimentation. Cela gardera la puissance de sortie ip5306 tout le temps. Si vous n'ajoutez pas ce code, cette carte peut fonctionner environ 30 secondes, puis s'éteint automatiquement.3.RTCLorsque vous constatez que le temps ne s'affiche pas correctement, vous pouvez flasher code de démonstration encore. L'heure se synchronisera en même temps avec votre ordinateur.4.DemoCodeAprès avoir compris comment contrôler chaque partie de cette montre, vous pouvez développer votre montre personnalisée! Je suis désolé, je ne suis pas très bon pour la partie logiciel, si vous rencontrez un problème, vous pouvez m'en informer à tout moment.Forfait inclus :1 x DSTIKE BAD Watch Montre programmable avec 800mAh Batterie
+
+
+
+

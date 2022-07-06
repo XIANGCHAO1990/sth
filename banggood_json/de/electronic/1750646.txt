@@ -1,0 +1,312 @@
+1750646
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/15/36/87d85db0-34e6-4661-9b65-818ade1a310c.jpg
+RIDEN® RD6018 RD6018W USB WiFi DC / DC-Spannung Abwärtsstromversorgungsmodul Abwärtswandler Voltmeter Multimeter 60V 18A 1080W
+https://de.banggood.com/RIDEN-RD6018-RD6018W-USB-WiFi-DC-to-DC-Voltage-Step-Down-Power-Supply-Module-Buck-Converter-Voltmeter-Multimeter-60V-18A-1080W-p-1750646.html?cur_warehouse=CN&ID=6296642&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hinweis vor dem Kauf: 1. Die RD6018-Serie hat zwei Versionen: RD6018 und RD6018-W, RD6018-W haben eine WIFI-Karte, RD6018 haben keine. Der RD6018-W kann eine WIFI-Karte zum Anschließen der APP verwenden. Verwenden Sie auch ein USB-Mikrokabel zum Anschließen der PC-Solftware. RD6018 hat keine WIFI-Karte, unterstützt nur PC-Software durch Anschließen eines USB-Mikrokabels, keine APP-Unterstützung. Für die WLAN-Karte zum Anschließen der PC-Software wurde dies jetzt nicht mehr unterstützt. Hinweis: Die WLAN-Verbindung ist eine Testfunktion, aufgrund der schlechten Kompatibilität einiger Computer. Wenn Sie keine PC-Software über WLAN verbinden können, ignorieren Sie diese Funktion bitte. Für diese Funktion geben wir keine Garantie und keinen technischen Support und werden aufgrund von Kundenfeedback entscheiden, ob diese Funktion beibehalten wird.2. Für PC-Software wird derzeit nur Win 7 und höher unterstützt. Für APP unterstützt es nur Android 5.0 und höher. Da bei APP- und PC-Software möglicherweise Inkompatibilitätsprobleme auftreten, laden Sie diese bitte vor dem Kauf herunter. Wenn Sie sie herunterladen und installieren können, können Sie eine Bestellung aufgeben oder den Kauf einstellen. Wenn Sie die PC-Software und die APP-Funktion vor dem Kauf nicht testen und feststellen, dass die Produkte mit Ausnahme der PC-Software oder der APP einwandfrei funktionieren, lehnen wir die Rückerstattung ab.3. Für die Stromversorgung des AC / DC-Eingangsschalters beträgt das Eingangsnetzteil 800 W und ist niedriger als die maximale Ausgangsleistung des RD6018 (1080 W). Wenn Sie die volle Leistung benötigen, suchen Sie nach einer 65-V-1200-W-Stromquelle, aber einem 1200-W-Netzteil ist groß, es kann nicht in den S800-Koffer gelegt werden, daher müssen Sie den Koffer selbst herstellen4. In der RD6018 / RD6018W-Box befindet sich eine BACKUP-Sicherung. Wenn Sie die Sicherung durchbrennen, können Sie die Sicherung zur vorübergehenden Verwendung in den Sockel neben der durchgebrannten einsetzen. Die Sicherung kann jedoch keinen großen Stromfluss unterstützen, daher ist dies besser Entfernen Sie die beschädigte Sicherung und löten Sie die gute Sicherung an derselben Position5. Wenn der RD6018W eine Verbindung zu dem vom Mobiltelefon gemeinsam genutzten Hotspot herstellen kann, jedoch keine Verbindung zum Router herstellen kann, müssen Sie die Clientisolations- / AP-Isolations- und WMM-Funktion herunterfahren. 6. Please use the matching front-end power supply. (Produkt-ID: 1750643) Wenn das Instrument aufgrund einer falschen Stromversorgung beschädigt wird, leisten wir keine Garantie nach dem Kauf.Technische Parameter:
+
+
+
+
+
+
+
+
+Modell
+RD6006 (1587151)
+RD6006-W(1587151)
+RD6012(1687705)
+RD6012-W(1687705)
+RD6018
+RD6018-W
+
+
+Eingangsspannungsbereich
+6-70.00V
+
+
+Ausgangsspannungsbereich
+0-60.00V
+
+
+Ausgangsstrombereich
+0-6.000A
+0-12.00A
+0-18.00A
+
+
+Ausgangsleistungsbereich
+0-360W
+0-720W
+0-1080W
+
+
+Auflösung der Eingangsspannungsmessung
+0.01V
+
+
+Messauflösung der Ausgangsspannungseinstellung
+0.01V
+
+
+Messauflösung der Ausgangsstromeinstellung
+0.001A
+0.01A
+
+
+Auflösung der Batteriespannungsmessung
+0.01V
+
+
+Genauigkeit der Eingangsspannungsmessung
+±(1%+5 Stellen)
+
+
+Genauigkeit der Ausgangsspannung zwischen Einstellung und Messung
+±(0,3%+3 Stellen)
+
+
+Ausgangsstromgenauigkeit zwischen Einstellung und Messung
+±(0,5%+5 Stellen)
+
+
+Genauigkeit der Batteriespannungsmessung
+±(0,5%+3 Stellen)
+
+
+Automatischer Abschaltstromwert beim Laden
+10mA
+100mA
+
+
+Ausgangswelligkeit typisch
+100mV VPP
+250mV VPP@6A
+
+
+Arbeitstemperaturbereich
+-10℃~40℃
+
+
+Externer Sensor Temperaturerfassungsbereich:
+-10℃~100℃/0℉~200℉
+
+
+Externer Sensor Genauigkeit der Temperaturerfassung:
+±3℃/±6℉
+
+
+Reaktionszeit im Konstantspannungsmodus
+2ms (0.1A-5A Last)
+
+
+Lastregelung im Konstantspannungsmodus
+±(0,1%+2 Stellen)
+
+
+Lastregelung im Konstantstrommodus
+±(0,1%+3 Stellen)
+
+
+Kapazitätsmessbereich
+0-9999.99Ah
+
+
+Energiemessbereich
+0-9999.99Wh
+
+
+Statistischer Fehler bei Kapazität und Energie
+±2％
+
+
+Buck-Arbeitsmodus
+Spannungsabfall >1V und >10%
+
+
+Startbedingung des Kühlgebläses
+Ausgangsspannung> 40V oder Ausgangsstrom> 4A oder Systemtemperatur> 45℃
+Ausgangsstrom> 8A oder Systemtemperatur> 45℃
+
+
+Abschaltung des Kühlgebläses bei der Arbeit
+Ausgangsspannung <40 V und Ausgangsstrom <3,9 A und Systemtemperatur <45 ° C.
+Ausgangsstrom <7,9 A und Systemtemperatur <45 ° C.
+
+
+Übertemperaturschutz
+Systemtemperatur >80℃
+
+
+Einstellung der Bildschirmhelligkeit
+0-5 (insgesamt 6 Stufen)
+
+
+Bildschirm
+2,4-Zoll-Farbdisplay HD
+
+
+Gewicht (mit Paket)
+Ungefähr 0,58 kg
+Über 0,61 kg
+Ungefähr 0,68 kg
+
+
+Produktabmessung
+167*81*65mm
+167*81*69mm
+
+
+Unterstützt USB-Kommunikation
+JAWOHL
+
+
+Unterstützung der WiFi-Kommunikation
+Nein
+JAWOHL
+Nein
+JAWOHL
+Nein
+JAWOHL
+
+Unterlagen:RD6018(W) operation instructon: Click here to openAPP-Download:Android system: download at file link (Support android 5.0 -android 10.0): Click here to open oder Search RdPower zum Herunterladen, Unterstützung von Android 5.0 und höher IOS-System: Durchsuchen Sie RdPower zum Herunterladen und unterstützen Sie das IOS10.0-IOS13.4-SystemAnleitungsvideo zum Handbuch:a. Battery Charging Function Introduction: https://youtu.be/irTbqfqtgU0 b. Output Voltage and Output Current Setting: https://youtu.be/S6Kan66dNsk c. Data Group Quick Storage and Call out: https://youtu.be/eo5saPjOGpo d. Keypad lock and unlock: https://youtu.be/zxpmasJyQ6Y e. System Setting: https://youtu.be/Q9d3rIgIrOc f. Main Page Style Setting: https://youtu.be/f51VDiY2VHE g: Storage Data Setting: https://youtu.be/i1kTeurS13I h: System Information: https://youtu.be/Um4NQObeeJE i: IOS APP Download, Installation and Connection: https://youtu.be/nH2HYwop0TE j: IOS APP Operation: https://youtu.be/lXSw1CM9IY8 k: Android APP Download, Installation and Connection: https://youtu.be/QwyBEUCnp9c l: Anroid APP Operation: https://youtu.be/hqrF4keTfbE m: PC Software Download and basic operation: https://youtu.be/mjt1RMaah1Y o: Firmware Upgrade: https://youtu.be/NOoLfDw0DiY p: Calibration: https://youtu.be/c9sn1wY2mjE q: Logo Update: https://youtu.be/vuVhBsohWts Paket beinhaltet: (optional)RD6018 Version:1 x RD6018 Netzteil ohne WiFi-ModulRD6018W Version:1 x RD6018W Netzteil mit WiFi-Modul
+
+
+
+

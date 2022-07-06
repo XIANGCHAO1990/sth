@@ -1,0 +1,965 @@
+https://de.banggood.com/Hantek-DSO4102C-Handheld-Digital-Multimeter-Oscilloscope-USB-100MHz-2-Channels-LCD-Display-+-Arbitrary-or-Function-Waveform-Generator-p-1139440.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+Hantek DSO4102C Digitales Multimeter-Oszilloskop USB 100MHz 2 Kanäle LCD Display + Arbitrary / Function Waveform Generator
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung :
+
+
+DSO4000C-Serie:
+
+2-Kanal-Digitaloszilloskop + Generator für beliebige / Funktionswellenformen + Synchronisationssignal + externer Trigger.
+
+Die Tasten für Oszilloskop und Wellenformgenerator sind getrennt, damit Sie sie gleichzeitig bedienen können.
+
+Großes und klares Anzeige (7 Zoll 64K-Farbdisplay LCD, Auflösung 800 x 480), klarere und realistischere Wellenform.
+
+ Oszilloskop: 1GSa / s Abtastrate, 200/100 / 70MHz Bandbreite, mehr als 20 Arten von automatischen Messfunktionen.
+
+Leistungsstarke Triggerfunktion: Kante, Video, Puls, Steigung, im Laufe der Zeit, Alternative.
+
+Arbitrary / Function Waveform Generator: 25 MHz, 12 Bit Auflösung, 200 MHz DDS, Arbitrary Wave / Rechteckwelle / Sinuswelle / Dreieckwelle / Trapezwelle / Pulswelle / DC ist ein einfach zu simulierender Wandler.
+
+Unterstützt SD-Karte, VGA-Funktion (optional).
+
+Integrierter USB-Host, Unterstützung des USB-Speicherplatzes, Aktualisierung der USB-Schnittstelle / des SD-Kartensystems.
+
+Eigenschaften :
+
+
+
+100 MHz Bandbreite; 1GSa / s Abtastrate.
+
+2-Kanal-Oszilloskop; 40 Kilobyte (KB) Aufzeichnungslänge.
+
+7 Zoll 64K Farbdisplay LCD, Auflösung 800x480.
+
+32 Arten von Fahrzeugmessungen mit FFT-Funktion.
+
+25MHz Beliebige Wellenformausgabe (Sinuswelle bis 75MHz).
+
+Leistungsstarke Triggerfunktion: Video, Kante, Pluse-Breite, Steigung, Überstunden, alternativer Trigger.
+
+
+
+
+
+Spezifikation :
+
+
+
+
+
+
+ Oszilloskop
+
+DSO4102C
+
+
+
+Beispielrate
+
+Abtastratenbereich: 1GSa / s
+
+
+
+Äquivalente Abtastrate: 25GSa / s
+
+
+
+Erfassungsmodi
+
+
+
+Normal
+
+Nur normale Daten
+
+
+
+Peak Detect
+
+Hochfrequenz- und Randon-Glith-Erfassung
+
+
+
+Durchschnittlich
+
+Wellenform Durchschnitt, wählbar 4,8,16,32,64,128
+
+
+
+Eingänge
+
+
+
+Eingänge Kopplung
+
+AC, DC, GND
+
+
+
+Inpits Impendance
+
+1M2% 20pF3pF
+
+
+
+Dämpfung der Sonde
+
+1X, 10X
+
+
+
+Unterstützter Sonde Dämpfungsfaktor
+
+1X, 10X, 100X, 1000X
+
+
+
+Maximale Eingangsspannung
+
+CAT I und CAT II: 300 Veff (10 ×)
+
+
+
+CAT III: 150 VRMS (1 ×);
+
+
+
+Installationskategorie II: Leistungsreduzierung bei 20 dB / Dekade über 100 kHz auf 13 V Wechselstromspitze bei 3 MHz * und darüber. Bei nicht sinusförmigen Wellenformen muss der Spitzenwert unter 450 V liegen. Eine Auslenkung über 300 V sollte weniger als 100 ms dauern. Der Effektivsignalpegel einschließlich aller durch Wechselstromkopplung entfernten Gleichstromkomponenten muss auf 300 V begrenzt werden. Wenn diese Werte überschritten werden, kann das Oszilloskop beschädigt werden.
+
+
+
+Horizontal
+
+
+
+Abtastratenbereich
+
+1GS/s
+
+
+
+Wellenforminterpolation
+
+(sin x) / x
+
+
+
+Aufzeichnung Länge
+40 Kilobyte (KB)
+
+
+
+SEC / DIV-Bereich
+
+4ns / div bis 40s / div
+
+
+
+Abtastrate und
+
+50 ppm in einem Zeitintervall von mehr als 1 ms)
+
+
+
+Genauigkeit der Verzögerungszeit
+
+
+
+Positionsbereich
+
+20 ns / div bis 80 us / div; (-8div xs / div) bis 40 ms;
+
+
+
+200us / div bis 40s / div; (-8div xs / div) bis 400s
+
+
+Δ Genauigkeit der Zeitmessung(Volle Bandbreite)
+
+Single-Shot, Normal-Modus: (1 Abtastintervall + 100 ppm × Messwert + 0,6 ns);
+					> 16 Mittelwerte: (1 Abtastintervall + 100 ppm × Messwert + 0,4 ns);
+					Abtastintervall = s / div ÷ 200
+
+
+
+
+
+Vertikal
+
+
+
+Vertikale Auflösung
+
+8-Bit-Auflösung, alle Kanäle gleichzeitig abgetastet
+
+
+
+Positionsbereich
+
+2 mV / Div bis 10 V / Div
+
+
+
+Bandbreite
+
+100MHz
+
+
+
+Anstiegszeit bei BNC (typisch)
+
+3.5ns
+
+
+
+Analoge Bandbreite im Normal- und Durchschnittsmodus bei BNC oder mit Sonde, DC-gekoppelt
+
+500 mV / Div bis 2 V / Div, 40 V; 5V / div, 50 V.
+
+
+
+Mathematik
+
++, -, *, /, FFT
+
+
+
+FFT
+
+Windows: Hanning, Flatop, Rectamgular, Bartlett, Blackman;
+
+
+
+1024 Abtastpunkt
+
+
+
+Bandbreitenlimit
+
+20MHz
+
+
+
+Niederfrequenzgang (-3db)
+
+10Hz bei BNC
+
+
+
+DC-Verstärkungsgenauigkeit
+
+4% für den normalen oder durchschnittlichen Erfassungsmodus, 5 mV / Div bis 2 mV / Div
+
+
+
+DC-Messgenauigkeit,
+					Durchschnittlicher Erfassungsmodus
+
+Wenn die vertikale Verschiebung Null ist und N 16: (3% × Messwert + 0,1 Div + 1 mV) nur 10 mV / Div oder mehr ausgewählt ist;
+					Wenn die vertikale Verschiebung nicht Null ist und N16: [3% × (Lesen + vertikale Position) + 1% der vertikalen Position + 0,2div]; Fügen Sie 2 mV für Einstellungen von 2 mV / Div bis 200 mV / Div hinzu. Fügen Sie 50 mV für Einstellungen von 200 mV / Div bis 5V / Div hinzu
+
+
+
+Wiederholbarkeit der Voltmessung, durchschnittlicher Erfassungsmodus
+Δ Volt zwischen zwei beliebigen Mittelwerten von 16 Wellenformen, die unter den gleichen Einstellungen und Umgebungsbedingungen erfasst wurden
+
+
+
+Triggersystem
+
+
+
+Auslösertypen
+
+Kante, Video, Puls, Steigung, im Laufe der Zeit, Alternative
+
+
+
+Triggerquelle
+
+CH1, CH2, EXT, EXT / 5, Wechselstromleitung
+
+
+
+Kupplung Typ
+
+DC, AC, Rauschunterdrückung, HF-Zurückweisung, LF-Zurückweisung
+
+
+
+Empfindlichkeit auslösen
+					(Edge Trigger Typ)
+
+DC (CH1, CH2):
+
+
+
+1 Teilung von DC bis 10 MHz; 1,5div von 10 MHz bis 100 MHz; 2div von 100MHz bis Full;
+
+
+
+DCEXT):
+
+
+
+200 mV von DC bis 100 MHz; 350 mV von 100 MHz bis 200 MHz;
+
+
+
+DCEXT / 5):
+
+
+
+1 V von DC bis 100 MHz, 1,75 V von 100 MHz bis 200 MHz;
+
+
+
+AC: Dämpft Signale unter 10 Hz;
+
+
+
+HF-Ablehnung: Dämpft Signale über 80 kHz;
+
+
+
+LF-Ablehnung: Entspricht den DC-gekoppelten Grenzwerten für Frequenzen über 150 kHz. dämpft Signale unter 150 kHz
+
+
+
+Trigger Level Range
+
+CH1 / CH2: 8 Unterteilungen von der Bildschirmmitte;
+
+
+
+EXT: 1,2 V;
+
+
+
+EXT / 5: 6V
+
+
+
+Trigger Level Accuracy (typisch) Die Genauigkeit gilt für Signale mit Anstiegs- und Abfallzeiten von 20 ns
+
+CH1 / CH2: 0,2div × Volt / Div innerhalb von 4 Abteilungen von der Mitte des Bildschirms;
+
+
+
+EXT: (6% der Einstellung + 40 mV);
+
+
+
+EXT / 5: (6% der Einstellung + 200 mV);
+
+
+
+Level auf 50% einstellen (typisch)
+
+Arbeitet mit Eingangssignalen 50Hz
+
+
+
+Video-Trigger
+
+
+
+Video-Trigger Typ
+
+CH1, CH2: Spitze-Spitze-Amplitude von 2 Teilungen;
+
+
+
+EXT: 400 mV;
+
+
+
+EXT / 5: 2V
+
+
+
+Signalformate und Feldraten, Video-Trigger Typ
+
+Unterstützt NTSC-, PAL- und SECAM-Broadcast-Systeme für jedes Feld oder jede Leitung
+
+
+
+Haltebereich
+
+100 ns ~ 10s
+
+
+
+Impulsbreitenauslöser
+
+
+
+Pulsbreiten-Trigger-Modus
+
+Auslösen, wenn (<,>, = oder); Positiver Impuls oder negativer Impuls
+
+
+
+Impulsbreiten-Triggerpunkt
+
+Gleich: Das Oszilloskop wird ausgelöst, wenn die Hinterflanke des Impulses den Triggerpegel überschreitet.
+					Nicht gleich: Wenn der Impuls schmaler als die angegebene Breite ist, ist der Triggerpunkt die Hinterkante. Andernfalls wird das Oszilloskop ausgelöst, wenn ein Impuls länger als die als Impulsbreite angegebene Zeit andauert.
+					Kleiner als: Der Triggerpunkt ist die Hinterkante.
+					Größer als (auch Überstunden-Trigger genannt): Das Oszilloskop wird ausgelöst, wenn ein Impuls länger als die als Impulsbreite angegebene Zeit andauert
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pulsbreitenbereich
+
+20ns ~ 10s
+
+
+
+Steigungsauslöser
+
+
+
+Slope Trigger Mode
+
+Auslösen, wenn (<,>, = oder); Positive Steigung oder negative Steigung
+
+
+
+Slope Trigger Point
+
+Gleich: Das Oszilloskop wird ausgelöst, wenn die Wellenformsteigung der eingestellten Steigung entspricht.
+
+
+
+Nicht gleich: Das Oszilloskop wird ausgelöst, wenn die Wellenformsteigung nicht der eingestellten Steigung entspricht.
+
+
+
+Kleiner als: Das Oszilloskop wird ausgelöst, wenn die Wellenformsteigung kleiner als die eingestellte Steigung ist.
+
+
+
+Größer als: Das Oszilloskop wird ausgelöst, wenn die Wellenformsteigung größer als die eingestellte Steigung ist.
+
+
+
+Zeitspanne
+
+20ns ~ 10s
+
+
+
+Überstundenauslöser
+
+
+
+Über die Zeit Modus
+
+Steigende oder fallende Kante
+
+
+
+Zeitspanne
+
+20ns ~ 10s
+
+
+
+Alternativer Auslöser
+
+
+
+Trigger auf CH1
+
+Interner Trigger: Kante, Impulsbreite, Video, Steigung
+
+
+
+Auslöser auf CH2
+
+Interner Trigger: Kante, Impulsbreite, Video, Steigung
+
+
+
+Triggerfrequenzzähler
+
+
+
+Ausleseauflösung
+
+6 digits
+
+
+
+Genauigkeit (typisch)
+
+30 ppm (einschließlich aller Frequenzreferenzfehler und 1 Zählfehler)
+
+
+
+Frequenzbereich
+
+Wechselstromgekoppelt, von mindestens 4 Hz bis zur Nennbandbreite
+
+
+
+Signalquelle
+
+Pulsbreiten- oder Flankentrigger-Modi: Alle verfügbaren Triggerquellen
+
+
+
+Der Frequenzzähler misst jederzeit die Triggerquelle, auch wenn die Oszilloskoperfassung aufgrund von Änderungen des Laufstatus unterbrochen wird oder die Erfassung eines Einzelschussereignisses abgeschlossen ist.
+
+
+
+Impulsbreiten-Triggermodus: Das Oszilloskop zählt Impulse von signifikanter Größe innerhalb des 1s-Messfensters, die als auslösbare Ereignisse gelten, wie z. B. schmale Impulse in einer PWM-Impulsfolge, wenn der Modus <eingestellt ist und die Breite auf eine relativ kleine Zeit eingestellt ist.
+
+
+
+Flanken-Trigger-Modus: Das Oszilloskop zählt alle Flanken mit ausreichender Größe und korrekter Polarität.
+
+
+
+Video-Trigger-Modus: Der Frequenzzähler funktioniert nicht.
+
+
+
+Messen
+
+
+
+Cursormessung
+
+Spannungsdifferenz zwischen Cursorn: V.
+
+
+
+Zeitunterschied zwischen Cursorn: T.
+
+
+
+Kehrwert von T in Hertz (1 / T)
+
+
+
+Automatische Messung
+
+Frequenz, Periode, Mittelwert, Pk-Pk, Cycli RMS, Minimum, Maximum, Anstiegszeit, Abfallzeit,
+
+
+
++ Pulsbreite, -Pulsbreite, Verzögerung1-2 Anstieg, Verzögerung1-2Fall, + Pflicht, Pflicht, Vbase, Vtop, Vmid,
+
+
+
+Vamp, Overshoot, Preshoot, Preiod Mean, Preiod RMS, FOVShoot, RPREShoot, BWIDTH,
+
+
+
+FRF, FFR, LRR, LRF, LFR, LFF
+
+
+
+Signalquellenmodus
+
+
+
+Wellenformimpedanz
+
+DC-25MHz
+
+
+
+Beispielrate
+
+200MHzDDS
+
+
+
+Ausgangswellenform
+
+Beliebige Welle / Rechteckwelle / Sinuswelle / Dreieckswelle / Trapezwelle / Pulswelle / Gleichstrom
+
+
+
+Frequenzauflösung
+
+0,1%
+
+
+
+Wellenformtiefe
+
+4KSa
+
+
+
+Vertikale Auflösung
+
+12bit
+
+
+
+Frequenzstabilität
+
+<30 ppm
+
+
+
+Wellenformbereich
+
+3.5V Max
+
+
+
+Ausgangsimpedanz
+
+50
+
+
+
+Ausgangsstrom
+
+50 mA Ipeak = 100 mA
+
+
+
+System BW
+
+25M
+
+
+
+Harmonische Verzerrung
+
+-50 dBc 1 kHz -40 dBc 10 kHz
+
+
+
+Allgemeine Merkmale
+
+
+
+Anzeige
+
+
+
+Anzeige Typ
+
+7 Zoll 64K Farbe TFT (diagonaler Flüssigkristall)
+
+
+
+Bildschirmauflösung
+
+800 horizontale mal 480 vertikale Pixel
+
+
+
+Kontrast anzeigen
+
+Einstellbar (16 Gänge) mit dem Fortschrittsbalken
+
+
+
+Sondenkompensatorausgang
+
+
+
+Ausgangsspannung (typisch)
+
+Über 5Vpp in 1M Last
+
+
+
+Frequenz (typisch)
+
+1kHz
+
+
+
+Netzteil
+
+
+
+Versorgungsspannung
+
+100-120 VACRMS (10%), 45 Hz bis 440 Hz, CAt II
+
+
+
+120-240 VACRMS (10%), 45 Hz bis 66 Hz, CATII
+
+
+
+Energieverbrauch
+
+<30W
+
+
+
+Sicherung
+
+2A, T-Bewertung, 250 V.
+
+
+
+Umwelt
+
+
+
+Temperatur
+
+Betrieb: 32 bis 122 (0 bis 50);
+
+
+
+Nicht in Betrieb: -40 bis 159,8 (-40 bis +71)
+
+
+
+Kühlungsmethode
+
+Konvektion
+
+
+
+Feuchtigkeit
+
++104 oder weniger (+40 oder weniger): 90% relative Luftfeuchtigkeit;
+
+
+
+106 bis 122 (+41 bis 50): 60% relative Luftfeuchtigkeit
+
+
+
+Höhe
+
+Betrieb: Unter 3.000 m;
+
+
+
+Nicht betriebsbereit: Unter 15.000 m (50.000 Fuß)
+
+
+
+Mechanisch
+
+
+
+Größe
+
+Länge 385 mm, Breite 200 mm, Höhe 245 mm
+
+
+
+Gewicht
+
+3,5 kg (mit Verpackung); 2,08 kg (ohne Verpackung
+
+
+
+
+
+
+Paket beinhaltet:
+
+
+1 x Hantek DSO4102C Hand-Digitalmultimeter-Oszilloskop
+	2 x Passiv Sonde
+	1 x Krokodilklemmenkabel
+	1 x USB-Kabel
+	1 x CD
+	1 x Benutzerhandbuch
+
+
+Details Bilder:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

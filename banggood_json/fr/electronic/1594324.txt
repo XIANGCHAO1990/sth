@@ -1,0 +1,424 @@
+1594324
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/06/A0/73460d5e-9eb5-4691-abe1-3b4f8c1b9837.jpeg
+RIDEN® RD6006 / RD6006-W LED Alimentation à découpage S-400W-48V / DC12V / 24V / 36V / 60V 8.3A-33.3A Prise en charge de l'éclairage du transformateur de surveillance
+https://fr.banggood.com/RIDEN-RD6006-or-RD6006-W-LED-Switching-Power-Supply-S-400W-48V-or-DC12V-or-24V-or-36V-or-60V-8_3A-33_3A-Support-Monitoring-Transformer-Lighting-p-1594324.html?cur_warehouse=CN&ID=520159&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fonctionnalité:
+
+Remarque: cette alimentation peut être utilisée avec l'ID de produit: 1587151 (RD6006 / RD6006-W), S06A Case ID produit 1587330 (Si vous devez utiliser avec RD6006 / RD6006-W, veuillez sélectionner 60V)
+
+
+Modèle: S-400-xx
+
+Puissance de sortie: 400 W
+
+Tension de sortie: DC12 / 24/36/48 / 60V (facultatif)
+
+Tension d'entrée: 110V / 220V AC
+
+Température ambiante: -10 ° C ~ +50 ° C
+
+Tension réglable: ± 10%
+
+Taille du produit: 215 x 115 x 50 mm
+
+
+
+
+
+
+
+
+
+
+Article
+
+Spécifications techniques
+
+
+
+Production
+
+Tension continue
+
+12V
+
+24V
+
+36V
+
+48V
+
+60V
+
+
+
+Courant nominal
+
+33.3A
+
+16.6A
+
+11.1A
+
+8.3A
+
+6.6A
+
+
+
+Puissance nominale
+
+399.6W
+
+398.4W
+
+399.6W
+
+398.4W
+
+396W
+
+
+
+Ondulation et bruit ①
+
+<150 mV  
+
+<150 mV
+
+<240 mV
+
+<240 mV
+
+<240 mV
+
+
+
+Précision de tension
+
+± 1%
+
+
+
+Plage de réglage de la tension de sortie
+
+± 10%
+
+
+
+Régulation de charge
+
+<± 1,2%
+
+<± 1%
+
+<± 0,5%
+
+<± 0,5%
+
+<± 0,5%
+
+
+
+Taux d'ajustement linéaire
+
+<± 1%
+
+
+
+Contribution
+
+Gamme de tension
+
+90-132VAC / 180-264VAC 47Hz ~ 63Hz; 254VDC ~ 370VDC
+
+
+
+Efficacité (typique) ②
+
+> 82%
+
+> 84%
+
+> 86%
+
+> 86%
+
+> 86%
+
+
+
+Courant de travail
+
+<5,2 A 115 VCA, <2,8 A 230 VCA
+
+
+
+Choc électrique
+
+110VAC: 25A, 220VAC: 50A
+
+
+
+Commencer, monter, tenir le temps
+
+200 ms, 50 ms, 20 ms: 230 VCA
+
+
+
+protection
+
+protection de surcharge
+
+105% -135% type: sortie à courant constant, + V0 tombe au point de sous-tension pour couper la sortie, réinitialisation: remise sous tension
+
+
+
+protection de survoltage
+
+Éteignez la sortie lorsque> = 115% -145%
+
+
+
+protection contre les sous-tensions
+
+Éteignez la sortie lorsque <10% -45%
+
+
+
+protection de court circuit
+
+Fermer la sortie
+
+
+
+
+
+protection contre la surchauffe
+
+RTH3:> = 65 ° C démarrage du ventilateur, <= 55 ° C ventilateur désactivé,> = 80 ° C sortie désactivé (5V-15V)
+						RTH3:> = 70 ° C ventilateur démarre, <= 60 ° C ventilateur éteint,> = 85 ° C sortie arrêt (18V-48V)
+
+
+
+Environnement
+
+Température de travail, humidité
+
+-10 ° C ~ + 50 ° C, 20% ~ 90% HR
+
+
+
+Température de stockage, humidité
+
+-20 ° C ~ + 85 ° C, 10% ~ 95% HR
+
+
+
+sécurité
+
+Tension de tenue
+
+Entrée-sortie: 1.5KVAC 
+						Entrée - Boîtier: 1,5KVAC 
+						Sortie - Boîtier: 0,5 KVAC pendant 1 minute
+
+
+
+Courant de fuite
+
+Entrée-sortie <6mA à 1.5KVAC
+
+
+
+Courant de fuite
+
+Entrée-sortie <1,5mA à 220VAC
+
+
+
+Résistance d'isolement
+
+Entrée-sortie, entrée-boîtier, sortie-boîtier: 500VDC / 100MΩ
+
+
+
+Autre
+
+Taille
+
+215*115*50mm
+
+
+
+Réinitialisation nette / réinitialisation brute
+
+874.1/936.3g
+
+
+
+
+
+①Méthode de mesure des ondulations et du bruit: utilisez un câble à paire torsadée de 12 mm et le terminal doit être connecté avec des condensateurs de 0,1 uF et 47 uF en parallèle et mesurer à une bande passante de 20 MHz.
+
+②L'efficacité est testée à une tension d'entrée de 230VAC, une charge nominale et une température ambiante de 25 ° C.
+
+Précision: comprend l'erreur de réglage, le taux de réglage linéaire et le taux de réglage de la charge.
+
+Méthode de test de taux linéaire: test de basse tension à haute tension à la charge nominale.
+
+Méthode de test de régulation de charge: de 0% à 100% de la charge nominale.
+
+Le temps de démarrage est mesuré à l'état de démarrage à froid. La machine de commutation rapide et fréquente peut augmenter le temps de démarrage. Lorsque l'altitude de fonctionnement est supérieure à 2000M, la température de l'environnement de fonctionnement doit être réduite de 5 ° C / 1000M.
+
+Le forfait comprend:
+
+		1 x alimentation
+
+
+
+Remarque: pour des raisons de logistique, les problèmes suivants peuvent survenir après avoir reçu les marchandises (tout comme l'image), vous pouvez utiliser votre main pour ajuster, c'est ok, si cela vous dérange, veuillez arrêter d'acheter. 
+
+
+
+
+
+
+

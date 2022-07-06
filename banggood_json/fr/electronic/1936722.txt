@@ -1,0 +1,181 @@
+1936722
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/92/1F/6b022593-0734-479e-9152-7cdc122c511c.jpg
+Smart BMS 1A 2A 6A courant d'équilibre 8S 17S 20S 24S JK BMS 60A 80A 100A 150A 200A 600A Lifepo4 Li-Ion Batterie carte de Protection Bluetooth APP
+https://fr.banggood.com/Smart-BMS-1A-2A-6A-Balance-Current-8S-17S-20S-24S-JK-BMS-60A-80A-100A-150A-200A-600A-Lifepo4-Li-Ion-Battery-Protection-Board-bluetooth-APP-p-1936722.html?cur_warehouse=CN&ID=6319174&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description：
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oprotection contre les surcharges :éviter les surcharges et affecter la durée de vie de la batterie
+Protection de court circuit:protection automatique lors d'un court-circuit anormal pour éviter d'endommager la carte de protection et la batterie
+
+Protection de court circuit:protection automatique lors d'un court-circuit anormal pour éviter d'endommager la carte de protection et la batterie
+
+Protection contre les décharges excessives :empêcher la batterie d'être morte et affecter la durée de vie de la batterie
+
+Protection contre les surintensités:empêcher le courant de dépasser la tolérance de la batterie, causant des dommages à la batterie
+
+Protection anti-chute :empêcher le câble de tomber ou le contact est mauvais, et la batterie perd sa protection
+
+Protection contre la surchauffe :empêcher la température de la batterie de devenir trop élevée, provoquant une combustion spontanée ou des dommages
+
+Des instructions:https://github.com/NEEY-electronic/JK/tree/JK-BMS
+
+Protocole BMS :https://github.com/syssi/esphome-jk-bms
+
+Pilote VenusOS :https://github.com/Louisvdw/dbus-serialbattery
+
+REMARQUE:BMS avec courant de 600A oblige les clients à acheter eux-mêmes des relais
+Affichage LCD : Cliquez ici pour ouvrir<<<REMARQUE:①: interface CANBUS (à l'heure actuelle, seul jk-B2A24S20P peut personnaliser la fonction CANBUS)② : interface RS485 (à l'heure actuelle, tous les BMS JK sont configurés avec la fonction RS485 par défaut)③ : interface LCD (veuillez vérifier si BMS a une interface LCD avant d'acheter. S'il n'y a pas d'interface, l'écran LCD ne peut pas être utilisé).④ : interface de fonction de chauffage (à l'heure actuelle, la fonction de chauffage personnalisée par les clients peut être acceptée, MOQ50pcs)⑤ : Capteur de températureCes interfaces ①②③④ se trouvent sur la carte BMS.Cependant, ①④ n'a pas de fonction réelle, ce qui nécessite une personnalisation supplémentaire.②③ Il n'est pas nécessaire de personnaliser le BMS, il suffit d'ajouter un module LCD ou un module enfichable RS485.①Fonction CAN : personnalisée, nécessite que le fabricant monte la puce CAN et fournisse le protocole de communication CAN de JiKong. . De plus, vous devez acheter un module CAN (avant de passer commande, consultez à l'avance pour la personnalisation)②Fonction RS485 : achetez un autre module enfichable RS485 et branchez-le sur l'interface GPS pour l'utiliser.③Fonction LCD : achetez un autre module LCD et branchez-le sur l'interface LCD pour l'utiliser.④Fonction de chauffage : personnalisée, et vous devez également acheter le chargeur de protocole de chauffage CAN correspondant. Le chargeur peut communiquer avec le BMS et le chargeur doit avoir une fonction de chauffage. (Avant de passer commande, consulter et personnaliser au préalable)Remarque : ②La fonction GPS nécessite le support de l'opérateur local. Certaines régions ou certains pays peuvent ne pas le prendre en charge. Avant de passer une commande, vous devez communiquer avec nous pour confirmer! ! !Emballage inclus:1 x BMS intelligent JK
+
+
+
+

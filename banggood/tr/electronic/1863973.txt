@@ -1,0 +1,155 @@
+https://tr.banggood.com/TWO-TREES-7628-Stepper-Motor-4Pcs-Set-with-DM542-Driver-MACH3-Control-Board-360W24V-Power-Supply-CNC-DIY-Kit-for-3D-Printer-p-1863973.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+İKİ TREES® 7628 Step Motor DM542 Sürücülü 4 Adet Set MACH3 Kontrol Kartı 360W24V Güç Kaynağı CNC DIY Kit 3D Yazıcı için
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DM542- Sürücü, aşırı gerilim ve aşırı akım korumasını entegre eder.- Giriş sinyali optik izolasyonu.- Dipolar sabit akım doğrama yöntemi.- DC güç kaynağı 20-50VDC (24-48VDC çalışması tavsiye edilir).- Maksimum sürücü akımı 4.2A.- Çıkış akımı arama anahtarı ayarlanabilir.- Düşük hız, sıfır titreşim ve düşük gürültü.- Yüksek alt bölüm:2,4,8,16,32,64,128,5,10,20,25,40,50,100,125.- Güçlü parazit önleme özelliği, güç şebekesinin zorlu ortamında yüksek hassasiyetli konumlandırma elde edilebilir.- Yüksek güvenilirlik: güç cihazlarının yeterli marjı vardır ve fabrikadan çıkmadan önce sıkı bir şekilde test edilmiştir.Mach3
+1. 4 eksenli bağlantı desteği, dört kademeli motor sürücüsü veya servo sürücü bağlayabilirsiniz;
+2. Maksimum adım darbe frekansı, servo veya adımlı motor için uygun olan 100 KHz'dir;
+3. Otomatik prob aracını destekleyin
+4. Destek Acil durum girişi
+5. Limit anahtarı desteği
+6. Elektronik el çarkını bağlama desteği
+7. USB ve harici bağlantı noktasını izole etmek ve sistemi daha kararlı hale getirmek için harici 24V DC güç kaynağı kullanmanız gerekir.
+8. 0-10V çıkış portuna sahip olun, mil motor hızını kontrol etmek için mach3 yazılımını kullanabilirsiniz.
+9. 4 adet genel amaçlı giriş, limit switch, estop switch, prob switch, sıfıra dönüş ve diğer cihazları bağlayabilirsiniz
+10. 4 genel amaçlı izole röle sürücü çıkış arayüzü, iş mili başlatmalarını, ileri ve geri dönüşleri, pompaları ve diğer cihazları kontrol etmek için dört röleyi çalıştırabilir
+
+11. 1 durum LED'i, kartta bağlantı durumunu gösterirPaket içeriği:4* 7628 Step Motor 4* DM542 Motor Sürücü1 * MACH3 Kontrol Kartı1* 360W24V Güç Kaynağı
+
+
+
+

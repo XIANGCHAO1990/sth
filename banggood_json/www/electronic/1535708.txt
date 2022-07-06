@@ -1,0 +1,211 @@
+1535708
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/F4/7A/3750233a-1b05-4acb-8161-177c4a55fc6b.jpeg
+Geekcreit® 0.96 Inch OLED I2C IIC Communication Display 128*64 LCD Module Geekcreit for Arduino - products that work with official Arduino boards
+https://www.banggood.com/Geekcreit-0_96-Inch-OLED-I2C-IIC-Communication-Display-128+64-LCD-Module-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1535708.html?cur_warehouse=CN&ID=229&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>More details: Click here to open<<<
+
+	Pin definition:
+
+	 
+
+VCC: 3.3-5V
+
+GND: Ground
+
+SCL: Serial Clock
+
+SDA: Serial Data
+
+Feature:
+
+
+Size: 0.96 inch
+
+Resolution: 128*64
+
+Color: white, blue (optional)
+
+Viewing angle: >160°
+
+Support platform: 51 series, MSP430 series, STM32/2, etc.
+
+Ultra low power consumption: 0.04W during normal operation
+
+Wide voltage support: DC 3.3V-5V
+
+Working temperature: -30 ° C ~ 80 ° C
+
+Driver chip: SSD1306
+
+Communication method: IIC, only 2 I/O ports
+
+Backlight: OLED self-illumination, no backlight required
+
+Package includes:
+
+		1 x OLED module
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

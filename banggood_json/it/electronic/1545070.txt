@@ -1,0 +1,164 @@
+1545070
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/C4/E3/ca14c58b-28bd-4060-a599-fee4aa6f11d8.jpg
+LILYGO TTGO T-Beam ESP32 433/868/915 / 923Mhz V1.1 Modulo Bluetooth wireless WiFi GPS NEO-6M SMA LORA32 18650 Batteria Supporto con OLED
+https://it.banggood.com/LILYGO-TTGO-T-Beam-ESP32-433-or-868-or-915-or-923Mhz-V1_1-WiFi-Wireless-bluetooth-Module-GPS-NEO-6M-SMA-LORA32-18650-Battery-Holder-With-OLED-p-1545070.html?cur_warehouse=CN&ID=513922&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nota: OLED non è saldato a T-BEAMSe hai bisogno di OLED aggiuntivo, puoi acquistarlo da: ID prodotto: 958196/Prodotto ID: 969.144   Contenuto dell'aggiornamento del prodotto:   1. Il pin pin GPIO34 viene sostituito con GPIO35  2. Sostituire l'IC di ricarica (TP5400) con il power management AXP192  3. Sostituzione pin GPS TX, RX  4. Accendere e rimuovere, sostituire con il pulsante per aprire  5. Corrente di sonno ridotta  6. GPS sostituzione della batteria7. TUTTI i magazzini: Cambio chip in CH9102 (Aggiornamento dal 30/03/2022)    Descrizione OLED:   1. Dimensioni: 0,96 pollici  2. Alta risoluzione: 128 * 64  3. Colore: bianco  4. Angolo di visione: > 160°  5. Driver IC: SSD1306  6. Temperatura di lavoro: -30 gradi Celsius ~ 80 gradi Celsius  7. Volume del modulo (generoso): 27,0 mm * 27,0 mm * 4,1 mm  8. Supporta molti chip di controllo: pienamente compatibile con, serie 51, serie MSP430, STM32 / 2, ecc. (Molte routine per riferimento)  9. Ampio supporto di tensione: senza alcuna modifica, supporta direttamente 3,3 V ~ 5V CC  10. Consumo energetico estremamente basso: il funzionamento normale è 0,04 W  11. La porta IO occupa una visualizzazione minima: la comunicazione IIC, purché le due porte IO   Caratteristiche dell'ESP32:   Ultima versione ESP32: REV1  WI-FI  Bluetooth   4 MB di PSRAM  4MB Flash  3D Antenna   Caratteristiche LORA:   Tensione di lavoro: 1,8 ~ 3,7 v  Corrente accettabile: 10~14mA  Corrente di trasmissione: 120mA@+20dBm, 90mA@+17dBm, 29mA@+13dBm  Frequenza operativa: 433/470 MHz (versione 433 MHz)/868 M/915 M (versione 868 MHz)  Potenza di trasmissione: +20dBm  Ricevi sensibilità:   -139dBm@LoRa &62.5Khz&SF=12&146bps  -136dBm@LoRa &125Khz&SF=12&293bps  -118dBm@LoRa &125Khz&SF=6&9380bps  -123dBm@FSK&5Khz&1.2Kbps  Errore di frequenza: +/-15KHz  Spazio FIFO: 64 byte  Velocità dati: 1,2 K~300 Kbps a FSK, 0,018 K~37,5 Kbps a LoRa          Modalità di modulazione: FSK, GFSK, MSK, GMSK, LoRa TM, OK  Modulo interfaccia: SPI  Corrente di sonno: 0.2uA@SLEEP, 1.5uA@IDLE  Temperatura di esercizio: -40℃- +85℃  Funzione RSSI digitale  Correzione automatica della frequenza  Controllo automatico del guadagno   Rilevamento di bassa tensione   Sveglia veloce e salto di frequenza  Gestore di pacchetti di dati altamente configurabile   GPS:   Moduli GPS NEO-6M, alimentazione 3V-5V Universale  Modulo destinato con antenna in ceramica, segnale super  Salvare i dati dei parametri di configurazione EEPROM Down  Con batteria di backup dei dati  Ci sono LED indicatori di segnale  Velocità di trasmissione predefinita: 9600   Energia:   TP5400  1A Batteria Gestione  Indicatore LED: ci sono 4 LED che mostrano lo stato della batteria in tempo reale.  USB: CP2104-GMR (Stati Uniti/Regno Unito magazzino)  Firmware pre-flash: -SoftRF V4.0 La confezione include:   1 x TTGO Trave a T ESP32  1xAntenna  1 x 0,96 pollici 128 x 64 OLED  2 x  Pin   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

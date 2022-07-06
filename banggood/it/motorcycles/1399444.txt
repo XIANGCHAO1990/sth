@@ -1,0 +1,280 @@
+https://it.banggood.com/24V36V48V60V-250W350W-LCD-Brushless-Motor-Controller-Battery-Speed-For-MTB-E-Bike-Scooter-p-1399444.html?cur_warehouse=HK&ID=517271520454&rmmds=CategoryAutomobilesPop
+24V / 36V48V / 60V 250W / 350W LCD motore senza spazzola Regolatore Batteria Velocità per MTB E-Bike Scooter
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+		6 mosfet controller dual mode per batteria al litio
+
+		Tensione di funzionamento stimata: 24v / 36v / 48v / 60v
+
+		Potenza disponibile: 250W / 350W
+
+		Corrente massima disponibile: 10A-20A (impostazione predefinita 13a)
+
+		Batteria punto di protezione da sottotensione di tensione: 19v / 30v / 41v / 52v
+
+		Misura per angolo di fase del motore: 60 gradi / 120 gradi (apprendimento automatico)
+
+
+
+Caratteristica del controller:
+
+		1. Identificare automaticamente la fase e l'angolo del motore. 
+		Puoi imparare con il cavo di debug. metodo di funzionamento: collegare il cavo di alimentazione, cavo dell'interruttore principale, cavo del motore,
+		cavo del padiglione, cavo del manubrio, cavo di apprendimento, accensione dell'alimentazione e blocco della bicicletta, il motore inizierà a funzionare. 
+		Se la direzione di rotazione è corretta, si prega di tagliare il cavo di apprendimento. L'apprendimento è finito.
+		Se la direzione è opposta, si prega di tagliare il filo di apprendimento, il motore cambierà direzione automaticamente,
+		lavorare 2-3 secondi, tagliare il filo di apprendimento, l'apprendimento è finito. (attenzione per favore! tagliare il filo di apprendimento dopo l'apprendimento)
+
+
+		2. modalità doppia (quando la sala macchine funziona normalmente, il controller funziona con la modalità Hall). 
+		Quando la sala macchine è danneggiata, il controller può testarlo in modo intelligente e passare alla modalità no-hall e continuare a lavorare.
+		(altro controller se non in modalità doppia, non può funzionare se il padiglione motore è danneggiato)
+
+
+		3. può controllare e abbinare con altre parti elettriche
+
+		come può abbinare con il sensore di velocità esterno, in modo che il display possa indicare la velocità 
+		anche quando la bici è in scivolata. può abbinare con il sensore del freno, può abbinare con il cambio a sinistra funziona come freno ebs e così via.
+
+
+		4. quando la tensione della batteria non è sufficiente il controller abbasserà automaticamente la corrente, questo proteggerà la batteria per una maggiore durata.
+
+	Funzione controller:
+
+	1. Potenza 1: 1 PAS
+
+	2. freno e interruzione dell'alimentazione
+
+	3. connettersi con Display LCD
+
+	4. collegare l'acceleratore
+
+	5. luce e tromba di alimentazione
+
+	6. autoapprendimento
+
+	7. freno lineare ebs hall
+
+	8. crociera
+
+	9. Aumento di 6 km / h
+
+
+
+	LCD Display
+
+	1. indica il livello della batteria, 6 la griglia è piena, se la batteria si spegne   
+
+	2. indicare la velocità, l'unità di impostazione predefinita è km / h
+
+	3. indicare gli ingranaggi
+
+	4. indicare un singolo viaggio, DIS, icona situata in basso a sinistra, premere il pulsante di accensione può passare a questa interfaccia,
+	significa l'intera distanza percorsa dalla moto dalla macchina aperta alla macchina spenta,
+
+	5. Il pulsante di alimentazione ODO -press può passare a questa interfaccia
+
+	6. codice di errore - premere il pulsante di accensione può passare a questa interfaccia
+
+	002 - errore di freno 
+
+	Errore del sensore pas-003
+
+	004-boosting 6km / h modalità di crociera
+
+	005-modalità di crociera tempestiva
+
+	006 batteria scarica
+
+	007-errore del motore
+
+	Errore 008-throttle
+
+	Errore 009-controller
+
+	010-comunicazione errore di ricezione
+
+	011- errore di invio della comunicazione
+
+	012-Errore di comunicazione DMS
+	013-errore frontale
+
+	7. Regolare gli ingranaggi - premere il pulsante su e giù per regolare gli ingranaggi, aggiungere o ridurre uno,
+	premere a lungo il tasto su e giù allo stesso tempo può andare nell'interfaccia di impostazione, 
+	premere brevemente il pulsante di accensione può cambiare l'elemento di dati, premere brevemente su e giù per regolare i dati, 
+	premere a lungo su e giù per memorizzare e uscire dall'interfaccia dati
+
+
+Montaggio:
+
+		1.  Fit for different battery: lead-acid, Li-Fe battery, LNCMO battery  {Li(NiCoMn)O2}, and so on. 
+		Per materiale diverso c'è un diverso punto di protezione sotto tensione
+
+		2. Adatto per motoriduttore brushless DC inferiore a 350w, motore gearless e motore ad alta velocità e così via.
+
+
+
+Il pacchetto include:
+
+	1 X Motor Controller
+	1 X LCD Display Strumento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

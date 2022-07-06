@@ -1,0 +1,145 @@
+1144443
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/B4/1B/269cea5c-a46d-4262-ba04-403e7414b6bc.jpg
+Geekcreit 3Pcs 7 Pin 0.96 Inch IIC / SPI Serial 128x64 Módulo OLED blanco Pantalla
+https://es.banggood.com/Geekcreit-3Pcs-7-Pin-0_96-Inch-IIC-or-SPI-Serial-128x64-White-OLED-Display-Module-p-1144443.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Interfaz:   GND: tierra  VCC: Poder (2.8V-5.5V)  D0: Reloj  D1: Datos  RES: Restablecer  DC: datos / comando  CS: Selección de chip  Característica:   No necesita retroiluminación, la unidad de visualización puede auto-iluminarse  Alta resolución: 128 * 64  Ángulo de visión:> 160 °  Admite muchos chips de control: Totalmente compatible con, Serie 51, Serie MSP430, STM32/2, CSRIC, etc.  Consumo de energía ultrabajo: pantalla completa iluminada 0,08 W  Voltaje: 3 V ~ 5V DC  Temperatura de trabajo: -40 ℃ ~ 70 ℃  Tamaño del módulo: 27,3 x 27,8 x 3,7 mm  Interfaz IIC / SPI, solo necesita 4 IO.  Controlador IC: SSD1306  ¿Qué es OLED?   OLED (diodo emisor de luz orgánico) es una tecnología de autoemisión de luz compuesta por una película orgánica delgada de varias capas colocada entre un ánodo y un cátodo. A diferencia de la tecnología LCD, OLED no requiere luz de fondo. OLED posee un alto potencial de aplicación para prácticamente todos los tipos de pantallas y se considera la última tecnología para la próxima generación de pantallas planas.  El uso de la tecnología OLED tiene las siguientes ventajas:   1. Un proceso de fabricación simplificado en comparación con TFT-LCD (consulte la comparación de la Imagen 1 y la Imagen 2 a continuación)  2. Luz de emisión automática, en contraste con la luz de fondo requerida para TFT-LCD  3. Alta luminosidad  4. Ligero y delgado (menos de 2 mm)  5. Bajo voltaje de funcionamiento y consumo de energía  6. Amplia gama de temperaturas de funcionamiento (-40 ℃ a 85 ℃)  Nota: Si decide comprar una pantalla OLED, debe confirmar que puede hacer que funcione usted mismo, no tendremos ningún soporte tecnológico excepto toda la hoja de datos. Gracias por su comprensión y apoyo.  Paquete incluido:   3 x Blanco 0.96 pulgadas I2C IIC SPI Serial 
+
+,,,
+
+

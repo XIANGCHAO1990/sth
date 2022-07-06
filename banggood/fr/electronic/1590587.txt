@@ -1,0 +1,336 @@
+https://fr.banggood.com/XH-W3002-Micro-Digital-Thermostat-High-Precision-Temperature-Control-Switch-Heating-and-Cooling-Accuracy-0_1-p-1590587.html?cur_warehouse=CN&ID=48036&rmmds=CategoryElectronicsPop
+XH-W3002 Micro-thermostat numérique Haute précision Commutateur de contrôle de température Précision de chauffage et de refroidissement 0.1
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fonctionnalité:
+
+
+Nom du produit: contrôleur de température pour micro-ordinateur
+
+Modèle de produit: XH-W3002
+
+Plage de température: -50 ~ 110 ° C
+
+Plage de contrôle de la température: -50 ~ 110 ° C
+
+Précision de mesure de la température: + -0,2 ° C
+
+Précision du contrôle de la température: + -0,1 ° C
+
+Sonde de température: NTC10K (B3950) sonde étanche de 1 mètre
+
+Tension d'alimentation: DC12V / DC24V / AC220V
+
+Puissance de sortie: DC12V: 120W / DC24V: 240W / AC220V: 1500W
+
+Type de sortie: sortie directe
+
+Apparence taille: 60 x 45 x 31mm
+
+Taille d'ouverture: 73mm (ouverture 4mm)
+
+Le forfait comprend:
+
+	1 x contrôleur de température pour micro-ordinateur
+
+Câblage:
+
+
+
+
+
+
+
+
+Description de la clé:
+
+
+
+Touche Up: Appuyez brièvement pour afficher la température de démarrage, maintenez enfoncé pour définir la température de démarrage.
+
+Bouton Down: appuyer brièvement pour afficher la température d'arrêt, appuyer longuement pour régler la température d'arrêt.
+
+Bouton d'arrêt: Appuyez sur pour éteindre le thermostat, puis appuyez sur pour l'allumer.
+
+
+
+
+
+
+
+
+
+
+
+Code
+
+Description du code
+
+Plage de réglage
+
+Réglage d'usine
+
+
+
+P0
+
+Température de départ
+
+ -50 ~ 110 ° C
+
+25
+
+
+
+P1
+
+Température d'arrêt
+
+ -50 ~ 110 ° C
+
+40
+
+
+
+P2
+
+Correction de température
+
+ -10 ~ 10 ° C
+
+0 ° C
+
+
+
+P3
+
+Démarrage retardé
+
+0-10 minutes
+
+0
+
+
+
+
+
+P0. Réglez la température de démarrage:
+
+
+
+Appuyez sur le bouton Setup pour accéder au menu interne. L'affichage par défaut est P0. Appuyez à nouveau sur le bouton Setup et réglez la température de démarrage souhaitée en appuyant sur les boutons haut et bas.
+
+
+
+P1. Réglez la température d'arrêt:
+
+
+
+Appuyez sur le bouton de configuration pour accéder au menu interne, l’affichage est P0, basculez sur P1 à l’aide des touches haut et bas, appuyez à nouveau sur le bouton de configuration et réglez la température d’arrêt souhaitée à l’aide des boutons haut et bas.
+
+
+
+P2. Réglez la correction de température:
+
+
+
+De la même manière, entrez dans le menu interne, passez au P2 en appuyant sur les boutons haut et bas, appuyez à nouveau sur le bouton de réglage et réglez la température de calibrage requise en appuyant sur les boutons haut et bas. (Remarque: dans le réglage, si la valeur de température détectée est supérieure de 0,5 ° C à la valeur de température réelle, la température d'étalonnage à régler est de -0,5 ° C. Si la valeur détectée est inférieure de 1 ° C à la valeur de température réelle La température de détection + température de correction = température réelle est nécessaire, la température de calibrage réglée est de 1 ° C.)
+
+
+
+P3. Définissez le départ différé:
+
+
+
+De la même manière, entrez dans le menu interne, passez au P3 en appuyant sur les touches haut et bas, appuyez à nouveau sur la touche de réglage, puis réglez le temps de retard souhaité à l'aide des touches haut et bas, l'appareil est en minute. (Remarque: le démarrage différé est généralement utilisé pour la réfrigération du compresseur. S'il est utilisé dans un réfrigérateur congélateur, cette valeur doit être définie. Selon la contre-pression du compresseur, le réglage général est 3-6 minutes, si vous ne l'utilisez pas pour le contrôle. ou n'a pas besoin de la fonction délai, sautez directement.
+
+
+Instructions:
+
+
+
+Température de départ
+
+Température de démarrage> température d'arrêt = mode de refroidissement (la sortie est connectée à l'unité de refroidissement)
+
+
+
+1. Connectez l’alimentation électrique et le matériel de chauffage ou de refroidissement conformément au schéma de câblage ci-dessus (notez les pôles positif et négatif).
+
+2. Appuyez sur la touche Haut et maintenez-la enfoncée pour régler la température de démarrage. Lorsque le numéro d'écran clignote, appuyez sur les touches haut et bas pour régler la température initiale souhaitée. Après le réglage, attendez 5 secondes pour freiner le système.
+
+3. Maintenez la touche enfoncée pour régler la température d'arrêt. Lorsque le numéro d'écran clignote, appuyez sur les touches haut et bas pour régler la température d'arrêt souhaitée. Après le réglage, attendez 5 secondes pour sauvegarder automatiquement les données.
+
+4. Restauration de l'usine: les collègues maintiennent les touches haut et bas enfoncées pendant 5 secondes. Lorsque l'écran affiche 888, l'usine est restaurée.
+
+5. Appuyez sur le bouton d'alimentation pour éteindre le thermostat et appuyez sur pour l'allumer.
+
+
+
+Conseils:
+
+
+888: En cas de mise sous tension, maintenez les touches haut et bas enfoncées pendant environ 3 secondes. Le tube numérique affiche 888 et passe automatiquement à la température de détection. En d'autres termes, les réglages d'usine sont restaurés avec succès.
+
+LLL: Décrivez le capteur est ouvert circuit, réparez le capteur ou remplacez le capteur
+
+HHH: Le capteur est en court-circuit.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

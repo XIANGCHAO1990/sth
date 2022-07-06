@@ -1,0 +1,198 @@
+1311439
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/BA/E5/899ae22e-d35c-4819-9935-f2df4d9faf9e.jpeg
+Geekcreit® LCR-T4 12864 LCD Probador gráfico de transistores Resistencia Capacitancia ESR Medidor SCR
+https://es.banggood.com/Geekcreit-LCR-T4-12864-LCD-Graphical-Transistor-Tester-Resistance-Capacitance-ESR-SCR-Meter-p-1311439.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificaciones:
+
+Resistencia: 0.1ω-50Mω
+Condensador: 25pF-100000uF
+Inductancia: 0.01mH - 20H
+Potencia de trabajo: DC-9V
+Corriente en espera: 0.02uA
+Corriente de funcionamiento: 25 mA
+Material: metal + plástico
+Tamaño: aproximadamente 11,1 cm / 4,37 "x2,6 cm / 1,02" x8,5 cm / 3,34 "
+[Conversión: 1 cm = 0,3937 pulgadas, 1 pulgada = 2,54 cm]
+
+
+caracteristicas:
+
+
+
+1. Admite la función de detección de voltaje de arranque
+
+2. Detección automática de transistores NPN y PNP, MOSFET de canal N y canal P, diodos (incluidos diodos duales), tiristores, triodos, resistencias y condensadores. Probar automáticamente los cables de los componentes y mostrarlos en el LCD
+
+3. La tensión de polarización directa del transistor emisor se puede determinar detectando el factor de amplificación y el número de base de un transistor, un diodo de protección MOSFET y similares.
+
+4. Mida el voltaje del umbral de la puerta y la capacitancia de la puerta MOSFET
+
+5. La pantalla usa 12864 lcd LCD (128 * 64 caracteres)
+
+6. Prueba de alta velocidad, prueba de componente válida: en 2 segundos (excepto en condensadores más grandes, la medición de capacitancia grande también lleva mucho tiempo, el tiempo de medición en 1 minuto es normal)
+
+7. Operación con un botón, prueba de encendido.
+
+8. Modo de apagado por consumo de energía: menos de 20 nA
+
+9. La función de apagado automático puede evitar desperdicios innecesarios, ahorrar energía de la batería y mejorar su vida útil.
+
+El paquete incluye:
+
+	1 x LCR-T4 12864 LCD Probador gráfico de transistores
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

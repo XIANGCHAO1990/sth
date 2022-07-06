@@ -1,0 +1,401 @@
+1444361
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/5A/7D/d706bf38-c5cb-4f91-9919-ed917636dc04.jpeg
+HANPOSE 17HS8401S-PG Nema 17 Motor de passo de engrenagem de extrusora 42 Motor de passo de engrenagem planetária de relação do motor
+https://pt.banggood.com/HANPOSE-17HS8401S-PG-Nema-17-Extruder-Gear-Stepper-Motor-42-Motor-Ratio-Planetary-Gear-Stepper-Motor-p-1444361.html?cur_warehouse=CN&ID=6120235&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:
+HANPOSE 17HS8401S-PG Nema 17 Motor de passo de engrenagem de extrusora 42 Motor de passo de engrenagem planetária de relação do motor
+Certificação: CE, ROSH, ISO, FCC
+
+Especificação:
+
+
+
+
+				Modeloo do produto
+
+				17HS8401S-PGXXX
+
+
+
+				Motor de passo Comprimento
+
+				48mm
+
+
+
+				Tamanho do eixo
+
+				Eixo "D" 16x8mm
+
+
+
+				Cabo do motor
+
+				Plugue
+
+
+
+				Incluindo Fio
+
+				1M Dupoint Fio
+
+
+
+
+Relação do Redutor de Engrenagens
+
+
+
+Modelo
+
+				3.71-1
+
+				5.18-1
+
+				14-1
+
+				19-1
+
+				27-1
+
+				51-1
+
+
+
+				Redução
+
+				3.71
+
+				5.18
+
+				14
+
+				19
+
+				27
+
+				51
+
+
+
+				Box Comprimento
+
+				29
+
+				29
+
+				37
+
+				37
+
+				37
+
+				45
+
+
+
+
+Parâmetros Técnicos do Redutor de Engrenagem Planetária
+
+
+
+
+				Material da Engrenagem Interna
+
+				45# Aço
+
+
+
+				Formulário de rolamento de saída
+
+				Rolamentos de esferas
+
+
+
+				Carga Radial
+
+				≤35N
+
+
+
+				Carga axial
+
+				≤25N
+
+
+
+				Folga Radial
+
+				≤0,04mm
+
+
+
+				Folga Axial
+
+				≤0,03mm
+
+
+
+				Folga (sem carga)
+
+				≤2°
+
+
+
+
+Observação: Torque de retenção do motor de passo da engrenagem planetária = torque de retenção do motor de passo 17HS8401-S * Redução * 0,8
+	Aviso: O Caixa pode suportar menos de 16 NM de torque
+
+Especificações Elétricas do Motor de Passo 17HS8401-S:
+
+
+
+
+				Nº do modelo
+
+				Degrau
+				Ângulo
+
+				Motor 
+				Comprimento
+
+				Classificado 
+				Atual
+
+				Resistência
+				/Estágio
+
+				Indutância
+				/Estágio
+
+				Contenção 
+				Torque
+
+				Retenção
+				Torque
+
+				Inércia de
+				Rotor
+
+				  Liderar 
+
+
+
+				(°)
+
+				(L)mm
+
+				(UMA)
+
+				(Ω)
+
+				(mH)
+
+				(N.cm) 
+
+				(N.cm) 
+
+				(G. cm²)
+
+				(Não.)
+
+
+
+				17HS8401-S
+
+				1.8
+
+				48
+
+				1.8
+
+				1.8
+
+				3.2
+
+				52
+
+				2.6
+
+				68
+
+				4
+
+
+
+
+Formulários:
+	Usado para motores de passo de robôs,
+	Motor de passo do equipamento automático eletrônico,
+	Motor passo a passo do instrumento médico,
+	Motor de passo de instrumento de publicidade,
+	Motor deslizante de equipamentos de iluminação e áudio,
+	Motor de passo de impressora, motor de passo de máquinas têxteis,
+	Motor de passo de roteador CNC.
+	impressora 3d
+Incluído no Pacote:
+1 x HANPOSE 17HS8401S-PGXXX Motor de passo da engrenagem da extrusora 
+
+Mais detalhes: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

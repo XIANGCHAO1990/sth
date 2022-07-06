@@ -1,0 +1,380 @@
+1378632
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/E2/E4/d9383660-5d62-4eda-8b41-97c3178b5b5b.jpg
+Hiseeu HB615 H.265 5MP caméra IP de sécurité POE ONVIF extérieur étanche IP66 CCTV P2P caméra vidéo
+https://fr.banggood.com/Hiseeu-HB615-H_265-5MP-Security-IP-Camera-POE-ONVIF-Outdoor-Waterproof-IP66-CCTV-P2P-Video-Camera-p-1378632.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Passez de 4 millions de pixels à 5 millions de pixels!Caractéristiques :
+
+
+1. Compression vidéo H.265
+Avancée H.265 Compression de vidéo
+H.265 (HEVC) double l'efficacité de codage par rapport à son prédécesseur H.264.
+		Ça signifie La vidéo H.265 économise environ 50% du débit binaire avec la même qualité de codage.
+H.265 est supérieur à H.264 en ce qui concerne l'utilisation de la bande passante.
+2. CMOS 1/3 '' 5,0MP.
+		Image de résolution HD 5.0MP.
+		3. Imperméable, adapté à l'intérieur et à l'extérieur.
+		4. Objectif par défaut : 3,6 mm
+		5. Alimentation: DC 12V/48V PoE en option. (Remarque : l'adaptateur secteur n'est pas inclus dans l'emballage)
+		6. Traitement de l'image : exposition automatique (AE), balance des blancs automatique (AWB), contrôle automatique du gain (AGC)
+		Filtre IR-Cut intégré.
+		Passage automatique en mode jour/nuit, vision nocturne parfaite.
+		7. Prise en charge de la détection des mouvements, ONVIF, prise en charge de l'accès mobile.
+		8. Plug and play. Accès à distance facile via PC, iPhone et mobile Android.
+
+
+Spécification :
+
+
+
+
+
+
+Modèle de produit: HB615
+
+
+
+Caméra
+
+
+
+Système
+
+Système d'exploitation Linux intégré
+
+
+
+Pixels
+
+500W
+
+ 
+
+
+
+Plage dynamique
+
+52dB
+
+
+
+Réduction de bruit
+
+3D DNR
+
+
+
+Obturateur électronique
+
+1s-1/100000s
+
+
+
+Éclairement minimal
+
+Couleur : 0,1 lux (F1.2) ; PB : 0,05 Lux (F1.2) ; 0 Lux avec IR ON
+
+
+
+Lentille
+
+
+
+Distance focale
+
+3.6mm
+
+
+
+Vue horizontale
+
+80°
+
+
+
+Type d'interface
+
+φ12
+
+
+
+Infrarouge
+
+
+
+Distance infrarouge
+
+20m
+
+
+
+Infrarouge LED
+
+3 pièces Infrarouge haute puissance LED
+
+
+
+Mode de codage
+
+
+
+Compression de vidéo
+
+H.265/M-JPEG
+
+
+
+Type de codage
+
+Profil de base/profil principal/profil élevé
+
+
+
+Flux vidéo
+
+32K-2Mbps
+
+
+
+Mode de transmission
+
+Double flux
+
+
+
+Autre
+
+
+
+Protocole réseau
+
+TCP/IP, UDP, P2P, DNS, DHCP, RTSP, ONVIF
+
+
+
+adresse IP
+
+Prise en charge des adresses IP statiques et dynamiques
+
+
+
+Autorisation système
+
+Nom d'utilisateur et mot de passe personnalisés
+
+
+
+Horloge système
+
+Horloge intégrée, Synchronisation externe, NTP, Fuseau horaire
+
+
+
+Alarme intelligente
+
+Détection de mouvements
+
+
+
+Spécifications générales
+
+
+
+niveaux de protection
+
+protection contre la foudre, protection contre les surtensions
+
+
+
+Température
+
+-20℃ à 60℃
+
+
+
+Humidité
+
+0-95% (pas de précoss)
+
+
+
+Taille
+
+85 mm × 65 mm × 60 mm
+
+
+
+Source de courant
+
+Adaptateur secteur DC12V/1A
+
+
+
+Pouvoir
+
+<5W
+
+
+
+
+
+
+Forfait inclus :
+
+
+
+1 x Hiseeu Caméra IP HB615 H.265 5MP
+
+1 x manuel d'utilisation
+
+1 x jeu de vis
+
+1 x connecteur étanche
+
+*** L'adaptateur secteur n'est pas inclus ***
+
+
+
+
+Photos de détails :
+
+
+
+
+

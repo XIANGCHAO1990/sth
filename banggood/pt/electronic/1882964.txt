@@ -1,0 +1,143 @@
+https://pt.banggood.com/DL24M-Car-Electronic-Load-Charge-Voltage-Indicator-Power-Bank-Battery-Tester-18650-Pack-Capacity-Monitor-USB-DC-12V-Checker-Tool-p-1882964.html?cur_warehouse=CN&ID=522378&rmmds=CategoryElectronicsPop
+DL24M Car Electronic Load Charge Voltage Indicator Power Bank Battery Tester 18650 Pack Capacity Monitor USB DC 12V Checker Tool
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. Manual do usuário, instruções de instalação do software para PC e software para PC e link de download do aplicativo Android: https://www.mediafire.com/folder/7mqy150hmfusv/DL24M2. IOS APP: pesquisar E_test no iph0ne APP st0re para baixar3. APP Android: procurar E-test no Google Play para baixarPosição do jumper do produto e método de configuração (150W ~ 600W)(DIY 150W / DIY 300W / DIY 450W / DIY 600W)Quando o produto sai da fábrica, o padrão é: 150 W (o jumper foi definido para 150 W)Quando este produto está em potências diferentes, você precisa definir o jumper, siga o seguinte método para definir！@ 150W 3mA ~ 25A (V * A <150W)@ 300W 3mA ~ 30A (V * A <300W)@ 450W 3mA ~ 35A (V * A <450W)@ 600W 3mA ~ 40A (V * A <600W)Dois tipos de engrenagem de teste de corrente de 1mA ou 10mAMétodo de operação: Pressione longamente o botão "ON / OFF" para entrar no plano de fundo, pressione o botão "M", selecione 05 item: Precisão da corrente: O10mA ● 1mA, definida por "+" ou "-"(Dicas: comece o teste com um mínimo de 3mA)Introdução à operação principal de funções usadas com frequência1) Pressione rapidamente o botão “ON / OFF” para iniciar e parar, pressione rapidamente o canto superior esquerdo do botão "M" para mover o cursor e, em seguida, ajuste o valor correspondente com o botão "+/-"2) Pressione e segure o botão "+/-" ao mesmo tempo para limpar todos os dados acumulados, como a capacidade atual, tempo da bateria, etc. (Pressione e segure o botão "ON / OFF" para entrar no plano de fundo, também pode ser limpo no menu de fundo)3) Pressione longamente o botão "M" e o modo de função começa a piscar, depois pressione rapidamente o botão "+/-" para selecionar a função (CC / CV / CR / CP / BRT / PT)4) No modo OFF, pressione e segure o botão "ON / OFF" para entrar na interface de fundo, depois pressione rapidamente o botão "M" para mudar a coluna de configuração e o botão "+/-" para ajustar o número5) Pressione rapidamente o botão "+/-" na coluna de precisão de corrente constante da interface de configuração de fundo para alternar a precisão de corrente constante (10mA ou 1mA)6) Quando o sistema não estiver fornecendo energia, pressione e segure o botão "M" e não o solte. Em seguida, ligue novamente. Insira a opção de potência de emenda e pule para o valor de potência real antes de soltar7) Pressione longamente o botão "M" para que o modo de função comece a piscar, pressione rapidamente o botão "M" novamente para inserir o valor de ajuste de configuração da descarga por tempo limitado e o valor da coluna de tensão de corteBotões principais do painel e descriçãoⅠ ： Indicador Bluetooth （Piscando aguardando conexão Bluetooth ， Luz longa indica conexão bem-sucedida）Ⅱ ： Botão de aumento "+" Vave （Pressione rapidamente o botão para aumentar o número, pressione longamente o botão para aumentar continuamente, quando o modo estiver piscando, pressione rapidamente o botão para voltar atrás）Ⅲ ： "M" Set Buton （Pressione longamente a tecla "M" para iniciar o modo de função, pressione a tecla "+" ou "-" para alternar o modo CC / CV / CP / CR / BRT / PT, pressione longamente a tecla "M" para iniciar o modo de função, pressione rapidamente "M" novamente para alternar entre o tempo de descarga e a tensão de corte. Pressione a tecla "+" ou "-" para definir o valor, o padrão é OFF）Ⅳ ： "-" Valor Reduzir Buton （Pressione rapidamente o botão para diminuir o número e pressione longamente o botão para diminuir continuamente. Quando o modo estiver piscando, pressione rapidamente para avançar）Ⅴ ： "LIGADO / DESLIGADO" Botão de LIGAR / DESLIGAR (pressione rapidamente o botão para ligar ou desligarPressione longamente o botão para inserir as configurações de fundo do produto e use o botão "M" e o botão "+" ou "-" para definir os parâmetros）Parâmetros e descrição do host1. Teste várias entradas de energia DC2. Entradas de porta de detecção Mini USB3. Entradas de porta de detecção micro USB4. Entradas de porta de detecção USB tipo c5. Conjunto DIY Diferentes posições do jumper de reserva de energia （150W / 300W / 450W / 600W）6. Sonda de temperatura externa NTC7. Fonte de alimentação do sistema DC5.5 (deve fornecer DC12V 1A)Cabo 8.8p conectado ao painel9. Aumente a potência e expanda a interfaceTeste todos os tipos de cabos / carregadores de dadosTeste / descarte / envelhecimento / obtenha tudoJogue e teste vários cabos / carregadores de dados USB, primeiro use um cabo de dadosConecte a interface correspondente da carga, conecte conforme mostrado na figura abaixo, quando a carga for ligada no modo de corrente constanteAjuste a corrente para que a queda de tensão seja 1V menor do que a condição sem cargaO valor atual neste momento é o valor atual da linha de dados medidosAtravés do teste de vários adaptadores de energia DCJogue e meça a corrente, tensão, potência e outros parâmetros de vários adaptadores de energia DCUse a fonte de alimentação DC para conectar a porta de fonte de alimentação independente DC do medidor de carga e, em seguida, use o botão "Configurações" para conectar como mostrado na figura abaixo.Ajuste com precisão a corrente para testar a tensão e a corrente nominal da fonte de alimentaçãoA fonte de alimentação DC também pode ser envelhecida por um longo tempo, com funções fortes, operação simples, teste conveniente e rápidoDetecção totalmente automática inteligente de uma tecla da fonte de alimentação DCModo PT de desempenho de energia atual do carregadorPressione e segure o botão M no menu até que a barra de modo pisque, aguarde um pouco depois de pressionar o modo PT de dez teclasEntre automaticamente no modo de detecção automática da fonte de alimentação DC/carregador e, em seguida, conecte sua fonte de alimentação testada eCarregador, pressione rapidamente o botão iniciar, ele começará a funcionar automaticamente por um período de tempo e, em seguida, relataráExibe 4 tipos de resultados numéricos importantes, tornando os testes complicados instantaneamente simplificados, precisos e fáceis de usarTeste todos os tipos de capacidade do banco de potênciaCompre este produto, você pode modificá-lo livremente em seu estilo favorito apenas para referênciaQuatro modos de operação de operação1. Operação de corrente constante （CC）2. Operação de resistência constante （CR）3. Operação de energia constante （CP）4. Operação de tensão constante （CV）Configurações de proteção1. Proteção contra sobrecarga2. Proteção contra sobrecorrente3. Proteção contra alta temperaturaConfigurações de plano de fundo do dispositivo (configurações em chinês / inglês)1. Configurações chinesas2. Configurações de inglês1) APLICATIVO móvel da Apple:Por favor, procure E_test na loja de aplicativos para baixar e instalar, clique no ícone do aplicativo Bluetooth para abrir o software e, em seguida, clique no ícone Bluetooth acima do software para inserir a seleção DL24-BLE para conectar, você pode obter o telefone celular remoto controle remoto wireless configurações e função de medição, o status de descarga pode ser visualizado a qualquer momento no telefone celular, várias limpezas de dados são visíveis, a tensão e a curva de potência atual da descarga, etc.2) APLICATIVO de telefone Android:Digitalize o código QR na parte de trás do host para baixar o software APP correspondente ou o aplicativo Android: pesquise E-test no Google play para baixar. Após a conclusão da instalação, abra o software e clique no ícone Bluetooth para entrar na seleção direta do DL24-BLE para usá-lo online com sucesso. (Não há necessidade de emparelhamento Bluetooth, o ícone do software Bluetooth seleciona diretamente DL24. pode)3) Computador Bluetooth APP online sem fio:Primeiro, adicione o dispositivo Bluetooth ao dispositivo de porta serial do DL24-SPP no computador e, em seguida, digitalize o código QR na parte traseira do host para baixar o software APP correspondente e armazená-lo. Abra o software sem instalar e selecione o modelo de porta serial Bluetooth recém-adicionado. Você pode usar com sucesso onlineTamanho e descrição do produtoLista de produtos 150W1.DL24M -150W Color Display Bluetooth Versão da curva de controle digital Carregar Tesr x12. Fonte de alimentação DC12V 1A x13. Conjuntos de parafusos macho e fêmea X54. Sonda de temperatura x15. Linha de grampo de crocodilo de linha única vermelha e preta x16. Adaptador US para UE x1Lista de produtos 300W1.DL24M-150W Host Color Display Bluetooth Versão da curva de controle digital Carga Tesr x12. Fonte de alimentação DC12V 1A x13. Parafusos machos e fêmeas X5 conjuntos X24. Sonda de temperatura x15. Linha de grampo de crocodilo de linha única vermelha e preta x16. Adaptador US para UE x1Acessórios de ventilador de 7.150 W X1Lista de produtos 450W1.DL24M-150W Host Color Display Bluetooth Versão da curva de controle digital Carga Tesr x12. Fonte de alimentação DC12V 1A x13. Parafusos machos e fêmeas X5 conjuntos X34. Sonda de temperatura x15. Linha de grampo de crocodilo de linha única vermelha e preta x16. Adaptador US para UE x1Acessórios de ventilador de 7.150 W X2Lista de produtos 600W1.DL24M-150W Host Color Display Bluetooth Versão da curva de controle digital Carga Tesr x12. Fonte de alimentação DC12V 1A x13. Parafusos machos e fêmeas X5 conjuntos X34. Sonda de temperatura x15. Linha de grampo de crocodilo de linha única vermelha e preta x16. Adaptador US para UE x1Acessórios de ventilador de 7.150W X3
+
+
+
+

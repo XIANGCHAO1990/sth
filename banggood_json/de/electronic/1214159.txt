@@ -1,0 +1,165 @@
+1214159
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/23/A6/0aa37271-1c1e-475c-b8fa-5b4dda0248c9.jpeg
+Geekcreit® ESP32 WiFi + Bluetooth-Entwicklungsplatine Ultra-Low-Stromverbrauch Dual Cores Pins Ungelötet
+https://de.banggood.com/Geekcreit-ESP32-WiFi+bluetooth-Development-Board-Ultra-Low-Power-Consumption-Dual-Cores-Pins-Unsoldered-p-1214159.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+ 
+ESP32 ist bereits integrierte Antenne und HF-Balun, Leistungsverstärker, rauscharme Verstärker, Filter, und Power-Management-Modul.
+Die gesamte Lösung nimmt am wenigsten Platz auf der Leiterplatte ein.
+Dieses Board wird mit 2,4-GHz-Dual-Mode-WLAN und Bluetooth-Chips von TSMC 40-nm-Low-Power-Technologie verwendet.
+Leistungs- und HF-Eigenschaften am besten, was sicher, zuverlässig und für eine Vielzahl von Anwendungen skalierbar ist.
+ 
+Merkmale:
+
+Hohes Leistungs-Preis-Verhältnis
+Kleines Volumen, einfach in andere Produkte einzubetten
+Starke Funktion mit Unterstützung des LWIP-Protokolls, Freertos
+Unterstützt drei Modi: AP, STA und AP+STA
+Unterstützung des Lua-Programms, leicht zu entwickeln
+Entwicklungs-Board: https://github.com/Nicholas3388/LuaNode 
+Hinweis: Pins ungelötet
+Aufgrund von Chipmangel können ESP32-Wroom-32D und ESP32-Wroom-32 zufällig versendet werden.
+Lieferinhalt:
+
+1 x ESP32 Entwicklungsboard (ungelötet)
+
+
+
+

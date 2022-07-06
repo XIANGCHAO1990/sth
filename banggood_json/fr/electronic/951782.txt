@@ -1,0 +1,178 @@
+951782
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/86/AF/8f2ea68f-3da3-404b-b247-21882d4bb318.jpg
+5pcs Geekcreit® ATmega328P Arduino Compatible Nano V3 Version Améliorée avec USB
+https://fr.banggood.com/5Pcs-ATmega328P-Nano-V3-Module-Improved-Version-With-USB-Cable-Development-Board-p-951782.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spécification:
+
+Changer la puce USB, améliorer la vitesse de téléchargement et la stabilité de WIN7 / WIN8
+
+Microcontrôleur Atmel ATmega328
+Tension de fonctionnement (niveau logique): 5V
+Tension d'entrée (recommandée): 7V ~ 12V
+Tension d'entrée (limites): 6V ~ 20 V
+Broches d'E / S numériques: 14 (dont 6 fournissent une sortie PWM)
+Broches d'entrée analogique: 8
+Courant continu par broche d'E / S: 40 mA
+Mémoire flash: 32 Ko (ATmega328) (dont 2 Ko utilisé par le chargeur de démarrage)
+SRAM: 2KB (ATmega328)
+EEPROM: 1KB (ATmega328)
+Vitesse d'horloge: 16MHz
+
+Emballage inclut:
+
+5 x Compatible Arduino Nano version améliorée V3.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,380 @@
+1378632
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/E2/E4/d9383660-5d62-4eda-8b41-97c3178b5b5b.jpg
+Hiseeu HB615 H.265 5MP Güvenlik IP Kamera POE ONVIF Outdoor Su Geçirmez IP66 CCTV P2P Video Kamera
+https://tr.banggood.com/Hiseeu-HB615-H_265-5MP-Security-IP-Camera-POE-ONVIF-Outdoor-Waterproof-IP66-CCTV-P2P-Video-Camera-p-1378632.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4 milyon pikselden 5 milyon piksele yükseltin!Özellikleri :
+
+
+1. H.265 Video Sıkıştırma
+Gelişmiş H.265 Video sıkıştırma
+H.265 (HEVC), önceki H.264 ile karşılaştırıldığında kodlama verimliliğini iki katına çıkarır.
+		Bu şu anlama gelir H.265 video, aynı kodlama kalitesinde bit hızının yaklaşık %50'sini kaydeder.
+H.265, bant genişliği kullanımı açısından H.264'dan üstündür.
+2. 1/3 `` 5.0MP CMOS.
+		HD 5.0MP çözünürlüklü görüntü.
+		3. Su geçirmez, iç ve dış mekanlara uygundur.
+		4. Varsayılan lens: 3.6mm
+		5. Güç Kaynağı: DC 12V/ 48V PoE Opsiyonel. (Not: Güç adaptörü pakete dahil değildir)
+		6. Görüntü işleme: otomatik pozlama (AE), otomatik beyaz dengesi (AWB), otomatik kazanç kontrolü (AGC)
+		Dahili IR-Cut Filtresi.
+		Gündüz/gece moduna otomatik geçiş, Mükemmel gece görüşü.
+		7. Destek hareket algılama, ONVIF, Mobil erişimi destekleyin.
+		8. Tak ve çalıştır. PC, iPhone'lar ve Android cep telefonu ile kolay uzaktan erişim.
+
+
+Şartname :
+
+
+
+
+
+
+Ürün Modeli: HB615
+
+
+
+Kamera
+
+
+
+sistem
+
+Gömülü Linux İşletim Sistemi
+
+
+
+piksel
+
+500W
+
+ 
+
+
+
+Dinamik aralık
+
+52dB
+
+
+
+Gürültü azaltma
+
+3D DNR
+
+
+
+Elektronik deklanşör
+
+1s-1/100000s
+
+
+
+Minimum aydınlatma
+
+Renk: 0.1 Lüks(F1.2); BW: 0,05 Lüks(F1.2); IR AÇIK ile 0 Lüks
+
+
+
+Lens
+
+
+
+Odak uzaklığı
+
+3.6mm
+
+
+
+Yatay görünüm
+
+80°
+
+
+
+Arayüz türü
+
+φ12
+
+
+
+Kızılötesi
+
+
+
+Kızılötesi mesafe
+
+20m
+
+
+
+Kızılötesi LED
+
+3 adet Yüksek Güçlü Kızılötesi LED
+
+
+
+kodlama modu
+
+
+
+Video sıkıştırma
+
+H.265/M-JPEG
+
+
+
+kodlama türü
+
+BaseLine Profili/Ana Profil/Yüksek Profil
+
+
+
+Video akışı
+
+32K-2Mbps
+
+
+
+İletim modu
+
+Çift akış
+
+
+
+Diğer
+
+
+
+ağ protokolü
+
+TCP/IP, UDP, P2P, DNS, DHCP, RTSP, ONVIF
+
+
+
+IP adresi
+
+Statik ve dinamik IP adreslerini destekleyin
+
+
+
+Sistem izni
+
+Kullanıcı adı ve şifre özel
+
+
+
+Sistem saati
+
+Dahili saat, Harici senkronizasyon, NTP, Saat dilimi
+
+
+
+Akıllı alarm
+
+Hareket algılama
+
+
+
+Genel özellikler
+
+
+
+koruma seviyeleri
+
+yıldırım koruması, dalgalanma koruması
+
+
+
+Hava sıcaklığı
+
+-20℃ ila 60℃
+
+
+
+Nem
+
+%0-95 (Ön işlem yok)
+
+
+
+Boy
+
+85mm×65mm×60mm
+
+
+
+Güç kaynağı
+
+DC12V/1A güç adaptörü
+
+
+
+Güç
+
+<5W
+
+
+
+
+
+
+Paket içeriği:
+
+
+
+1 x Hiseeu HB615 H.265 5MP IP Kamera
+
+1 x Kullanım Kılavuzu
+
+1 x Vida Seti
+
+1 x su geçirmez konektör
+
+***Güç adaptörü dahil değildir***
+
+
+
+
+Ayrıntılar resimleri:
+
+
+
+
+

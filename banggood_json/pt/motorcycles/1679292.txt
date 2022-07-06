@@ -1,0 +1,145 @@
+1679292
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/C4/EA/837030ac-a6ae-4d4d-9976-fee0886f40ab.jpg
+36V 350W 12A XT30 Controlador de motor para bicicleta elétrica de scooter bicicleta elétrica
+https://pt.banggood.com/36V-350W-12A-XT30-Motor-Controller-For-Scooter-Electric-Bicycle-E-bike-p-1679292.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AvisoEste controlador é o substituição peças para ID: 1647907 e ID: 1679291 , se você não tiver o ID: 1647907 ou o ID: 1679291, não deverá comprá-loOU você pode comprar ID:1740476Especificação:VoltagemDC 36VPotência nominal350WSob tensão30VLimitação de correnteUma scooter 12A （15A poderia ser usada, mas a velocidade seria lenta）Instrução:1. Inicialização: Pressione e segure a inicialização (cerca de 1s). Ao mesmo tempo, a campainha toca duas vezes.2. Desligamento: Pressione e segure 3s para desligar. Ao mesmo tempo, a campainha toca duas vezes.3. Luz: no estado ligado, pressione rapidamente (dentro de 1 segundo) uma vez, acenda as luzes dianteira e traseira,os faróis estão sempre acesos e as luzes traseiras estão pisceo.4. Freio: freio eletrônico + freios a disco. A luz traseira é longa nos freios.5. Mudança de marcha: O estado de inicialização, o padrão é o arquivo de baixa velocidade;pressione o botão duas vezes (pressione duas vezes em um segundo) para mudar a posição da marcha; Verde é baixa marcha; vermelho é alta velocidade6. Visor Bateria: 33v-36v A primeira luz é longa36v-37v uma ou duas luzes por muito tempo brilhantes37v-38.5v uma ou duas luzes por muito tempo brilhantes38.5v ou mais, uma, duas, três, quatro luzesAlarme de baixa voltagem: a primeira luz pisca queo a bateria está abaixo de 33V e a campainha soa 6 vezes.7. Modo de velocidade de alarme de baixa tensão: o limite de velocidade é de cerca de 15 km / h. Queo a energia retornar a 37V,o acelerador deve retornar à posição inicial para liberar a baixa tensão e retornar à operação normal.8. Cruzeiro de velocidade constante: a velocidade é estável por cerca de 6 segundos para iniciar automaticamente o controle de cruzeiro;após a correção do cruzeiro, o acelerador pode ser liberado; pressione o freioou pressione o acelerador novamente para liberar o controle de cruzeiro e entrar no modo manual.9. Velocidade: a velocidade baixa é de 15 ± 2 km / h; a marcha de alta velocidade é de 25 ± 2 km / h.Desligamento 10.Automatic: Desligue automaticamente 10 minutos após nenhuma operação.Exibição de energia:1) Tensão 38,2V-42V As luzes do primeiro segundo terceiro quarto quinto estão sempre acesas2) Tensão 36,6 V-38,2 V A luz do primeiro segundo terceiro quarto está sempre acesa 3) Tensão 34,5V-36,6V As luzes do primeiro segundo terceiro estão sempre acesas 4) Tensão 32,8 V-34,5 V A primeira segunda luz está sempre acesa5) Tensão 31,5 V-32,8 V A primeira luz está sempre acesa 6) Tensão 30-31,5V A última grade pisca7) Desligamento do motor com tensão abaixo de 31VErro de código:1) Falha do motor Hall "E1"2) "E2" MOSFalha de MOS ou falha de curto-circuito da linha de fase do motor3) Falha de freio "E3"4) Falha do guiador "E4"5) Proteção de subtensão "E5"6) Falha de comunicação do instrumento / controle "E6"7) Proteção contra sobretensão "E7"8) Falha do amplificador operacional do controlador "E8"9) Proteção de perda "E9"Diagrama da porta de fiação:Cabo de alimentação: gree linha vermelha pretaFio do motor: fio azul / fio verde / fio amareloFio Hall: fio vermelho / fio amarelo / fio azul / fio verde / fio pretoFio de luz traseira: fio vermelho pequeno e fio pretoLinha de gravação de software: linha verde / linha vermelha / linha pretaLinha de comunicação: linha verde / linha azul / linha preta / linha vermelha / linha amarela Incluído no Pacote:1 XControlador
+
+
+
+

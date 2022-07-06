@@ -1,0 +1,145 @@
+1935841
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/2E/39/05dd38b2-b725-4ada-a392-1b66aef96ddd.jpg
+LILYGO® T-Motor ESP32 TMC2209 0,49 polegadas OLED IOT placa de desenvolvimento placa de desenvolvimento
+https://pt.banggood.com/LILYGO-T-Motor-ESP32-TMC2209-0_49-Inch-OLED-IOT-Expansion-Board-Development-Board-p-1935841.html?cur_warehouse=CN&ID=6292756&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificação:MCU: ESP32Flash: 4 MBInterfaces de barramento: UART, SPI, I2C, CAN, I2S, SDIOConectividade sem fio: Wi-Fi: 802.11 b/g/n/7 BLE V4.2Botões integrados: RST+BOOT, B1-IO36, B2-IO34, B3--IO35TMC2209 Driver de motor ultra-silenciosoRegulagem de corrente rápida, baixa potência, com dissipador de calorFaixa de tensão: 5 ~ 12V, pico de corrente do motor até 2,8AMT6816 Chip Codificador MagnéticoRealizar medição de ângulo absoluto de 0-360°Alta velocidade, alta precisão, atraso zeroIncluído no Pacote: (opcional)Tipo 1:1 X placa-mãe do driver T-Motor1 X caso impresso em 3D1 x display OLED de 0,49 polegadas1 X cabeçalho de pino1 X cabo de alimentação1 X dissipador de calor2 X fios de conexão4 parafusos M3X40Tipo 2:1 X placa-mãe do driver T-Motor1 x display OLED de 0,49 polegadas1 X cabeçalho de pino1 X cabo de alimentação1 X dissipador de calor2 X fios de conexão4 parafusos M3X40Tipo#3:1 X caso impresso em 3D4 parafusos M3X40Tipo#4:1 X OLED de 0,49 polegadas1 X cabeçalho de pino
+
+
+
+

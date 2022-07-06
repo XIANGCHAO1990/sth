@@ -1,0 +1,163 @@
+https://www.banggood.com/Geekcreit-ESP32-WiFi+bluetooth-Development-Board-Ultra-Low-Power-Consumption-Dual-Cores-Pins-Unsoldered-p-1214159.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® ESP32 WiFi+bluetooth Development Board Ultra-Low Power Consumption Dual Cores Pins Unsoldered
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+ 
+ESP32 is already integrated antenna and RF balun, power amplifier, low-noise amplifiers, filters, and power management module.
+The entire solution takes up the least amount of printed circuit board area.
+This board is used with 2.4 GHz dual-mode Wi-Fi and bluetooth chips by TSMC 40nm low power technology,
+power and RF properties best, which is safe, reliable, and scalable to a variety of applications.
+ 
+Features:
+ 
+High performance-price ratio
+Small volume, easily embeded to other products
+Strong function with support LWIP protocol, Freertos
+Supporting three modes: AP, STA, and AP+STA
+Supporting Lua program, easily to develop
+Development Board: https://github.com/Nicholas3388/LuaNode 
+Note: Pins unsoldered
+Due to chip shortage, ESP32-Wroom-32D and ESP32-Wroom-32 may be shipped randomly.
+Package included:
+
+1 x ESP32 Development Board(unsoldered)
+
+
+
+

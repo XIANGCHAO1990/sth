@@ -1,0 +1,192 @@
+1004868
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/C7/67/8336968d-e357-4904-857b-eb69c77b312c.jpg
+3 Adet UNO R3 ATmega16U2 AVR USB Geliştirme Ana Kurulu
+https://tr.banggood.com/3Pcs-UNO-R3-ATmega16U2-AVR-USB-Development-Main-Board-p-1004868.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Açıklama:
+
+
+UNO R3 anakart orijinaliyle% 100 uyumludur, şimdi mükemmel kalite ve performansa sahiptir.
+
+basit bir G / Ç kartı ve İşleme / Kablolama dilini uygulayan bir geliştirme ortamına dayanan açık kaynaklı bir fiziksel bilgi işlem platformudur. bağımsız etkileşimli nesneler geliştirmek için kullanılabilir veya bilgisayarınızdaki yazılıma bağlanabilir (örn. Flash, Processing, MaxMSP). Açık kaynaklı IDE ücretsiz olarak indirilebilir (şu anda Mac OS X, Windows ve Linux için).
+		Bu yeni Tosduino Uno R3. Önceki kartın tüm özelliklerine ek olarak Uno R3 şimdi ATmega8U2 yongası yerine bir ATmega16U2 kullanıyor. Bu, daha hızlı aktarım hızlarına izin verir; Linux veya Mac için gerekli hiçbir sürücüye (Windows için inf dosyası gereklidir) ve Uno'nun bir klavye, fare, joystick vb. Olarak görünmesi için yeteneği vardır.
+
+Not: 
+
+		TOSduino Uno R3, bazı bilgisayarlara düzgün şekilde yüklenmesi için 1.0 sürücüler klasörünü gerektirir. R3'in IDE'nin eski sürümlerinde programlanabileceğini test ettik ve onayladık. Ancak, R3'i yeni bir bilgisayarda ilk kez kullanırken, o makinede 1.0 yüklü olması gerekir.
+Küçük yonga ATmega16U2, 28 pimli DIP yuvası ATmega328-pu'dur.
+
+Performans açıklaması:
+
+		Dijital G / Ç dijital giriş / çıkış terminali: 0 ila 13.
+		Analog G / Ç Analog giriş / çıkışlar: 0 - 5.
+		ISP indirme işlevini destekleyin.
+		Giriş voltajı: Bilgisayara bağlandığında harici güç kaynağı yok USB, harici güç kaynağı 5V ~ 9V DC voltaj girişi.
+		Çıkış voltajı: 5V / 3.3V DC.
+		Atmega328 mikroişlemci denetleyicisini kullanma.
+
+Paket içeriği:
+
+		3 x UNO R3
+		3 x USB kablosu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

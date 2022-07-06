@@ -1,0 +1,1028 @@
+https://tr.banggood.com/FY6900-Dual-Channel-DDS-Function-Arbitrary-Waveform-Signal-Generator-Pulse-Signal-Source-Frequency-Counter-Fully-Numerical-Control-20MHZ-or-60MHZ-p-1495502.html?cur_warehouse=CN&ID=47757530531&rmmds=CategoryToolsPop
+FY6900 Çift Kanal DDS Fonksiyonu Keyfi Dalga Formu Sinyal Üreteci Darbe Sinyali Kaynağı Frekans Sayacı Tam Sayısal Kontrol 20MHZ / 60MHZ
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>Please Click Here to Download the English User Manuel<<>>Please click here to download PC software<<Ana Özellikler:
+
+
+
+♦ Direct Digital Synthesizer (DDS) teknolojisini benimseyin ve kararlı, hassas, saf ve düşük bozulma sinyalleri sağlayın. 
+
+♦ 2.4 inç TFT Renkli LCD 320×240 çözünürlük, iki kanalın parametrelerini ve grafiklerini aynı anda görüntüleme.
+
+♦ Enstrüman 14-bit yüksek hızlı D/A dönüştürücü çip kullanır (5Vpp çıkış niceleme hatası 1mV'den azdır), 250MSa/s örnekleme hızı, 14 bit dikey çözünürlük.
+
+♦ 97 fonksiyon grubuna/keyfi dalga formuna kadar çıktı verebilir, 33 önceden ayarlanmış dalga biçimi grubu ve 64 kullanıcı tanımlı dalga biçimi grubu içerir. Önceden ayarlanmış dalga biçimleri: Sinüs, Kare (Görev Döngüsü ayarlanabilir), Darbe (Darbe genişliği ve döngü süresi doğru şekilde ayarlanabilir), Üçgen/Rampa, CMOS(0~12V), Dört kanal TTL, Üstel Artış, Üstel Düşüş, Gürültü, EKG, DC vb.
+
+♦ Her biri Depo derinlikte 8192 nokta * 14 bit olan 64 isteğe bağlı dalga biçimi veri dosyasını saklamayı etkinleştirin; (Dalga formu Depo derinliği ne kadar uzun olursa, dalga formu o kadar fazla ayrıntı kaydedilir ve sinyal ayrıntıları yüksek hassasiyetle geri yüklenebilir.)
+
+♦ Çeşitli modülasyon türleri: AM, FM, ÖĞLEDEN SONRA, SOR, FSK ve PSK modülasyonları.
+
+♦ Süpürme Fonksiyonu: Sinyallerin frekans, genlik, ofsetler ve görev döngüsü dahil olmak üzere 4 özelliğini tarayabilir; Lineer ve Logaritma olmak üzere iki tarama tipine sahiptir; 0,01S~999.99S tarama süresi; Yukarı, Aşağı ve gidiş dönüş süpürme yönleri.
+
+♦ VCO İşlevi (Voltaj Kontrol Çıkışı): Harici bir giriş sinyali ile elde edilebilir: voltaj kontrol frekansı, voltaj kontrol genliği, voltaj kontrol ofsetleri, voltaj kontrol görev döngüsü ve PWM modülasyon.
+
+♦ Burst Çıkış Fonksiyonu: Seçenekleriniz için Manuel Tetik, dahili CH2 Tetik ve Harici Tetik vardır. 1~1048575 darbe dizisi çıkışı verebilir.
+
+♦ 100M Frekans ölçer fonksiyonu: Frekansı, periyodu, darbe genişliğini ve görev döngüsünü ölçebilir. Maks. uygulanabilir frekans 100MHz ve Min. uygulanabilir frekans 0.01 Hz'dir.
+
+♦ Sayaç Fonksiyonu: DC kuplaj ve AC kuplaj olmak üzere 2 kuplaj ölçüm modu vardır. Bu tasarım, AC kuplajının yanlışlık problemini çözebilir.
+
+♦ İki bağımsız jeneratöre eşdeğer standart çift tam işlevsel kanallar.
+
+♦ Kanal SYNC İşlevi: Kanallar arasında dalga biçimi kopyalamayı ve durum kopyalamayı destekler.
+
+Çok kanallı çıkış elde etmek için bağlı iki veya daha fazla sinyal üretecini destekleyin, maksimum destek 16 kanallı senkron çıkış, her kanal arasındaki faz ayarlanabilir.
+
+♦ İki kanalın aşamalarını tam olarak ayarlayın, Kesinti 0.01 ° olabilir.
+
+♦ Minimum genlik çözünürlüğü 1 mV'a kadar olabilir. Genlik aralığı 0~24Vpp'dir.
+
+♦ Her kanalın görev döngüsü bağımsız olarak %0.01-99,99 ayarlanabilir, ayar çözünürlüğü %0.01.
+
+♦ -12V~+12V DC Ofset işlevi. Çözünürlük 0.001V.
+
+♦ Kaydetme fonksiyonu: Kullanıcı tarafından belirlenen 20 set parametreyi kaydedebilir ve herhangi bir zamanda yüklenebilir.
+
+♦ Haberleşme fonksiyonu: Tüm fonksiyonlar PC programı ile kontrol edilebilir ve haberleşme protokolü ikincil geliştirmeye açıktır.
+
+♦ Çıkış kısa devre koruması: Yük kısa devre olduğunda tüm kanallar 60 saniyeden fazla çalışabilir.
+
+♦ Güçlü dalga biçimi düzenleme PC yazılımı sağlayın. Kullanıcılar, kullanıcı CD'sinde bulunan PC programı aracılığıyla düzenleme yaptıktan sonra bu enstrümana isteğe bağlı dalga biçimi indirebilir.
+
+♦ Masa tipi tasarımlı ABS plastik kabuğu benimseyin. 100-240V (AC) geniş voltajlı güç kaynağı kullanın. 
+
+♦ DC-10MHz genişliğinde herhangi bir bozulma olmadan 20W~100W sinyal vermek için FYA2000S serisi veya FPA1000 serisi güç amplifikatörümüzü seçebiliriz.
+
+
+FY6900, aşağıdakileri içeren İşlev/Keyfi Dalga Biçimi çıktısı verebilir:
+
+> sinüs
+	>kare
+	>dikdörtgen
+	>Üçgen/Rampa
+	>Yükselt Testere Dişi
+	>Sonbahar Testere Dişi
+	>Lorenz Nabzı
+	>çok tonlu
+	>Gürültü
+	>Elektrokardiyogram (EKG)
+	>Yamuk Darbesi
+	>Sinc Nabız
+	>Dar Nabız
+	>Gauss Beyaz Gürültüsü
+	>Adım Üçgeni
+	>Olumlu Adım
+	>Ters Adım
+	>Pozitif Üs
+
+	>Ters Üs
+	>Pozitif Düşen Üs
+	>Ters Düşen Üs
+	>Pozitif Logaritma
+	>Ters Logaritma
+	>Pozitif Düşen Logaritma
+	>Ters Düşen Logaritma
+	>Doğrusal FM
+	>ÖÖ
+	>FM
+	>Pozitif Yarım Dalga
+	>Negatif Yarım Dalga
+	>Pozitif Yarım Dalga Doğrultma
+	>Negatif Yarım Dalga Doğrultma
+	>Kullanıcı tanımlı dalga formu
+
+Teknik özellik:
+
+
+
+
+
+Sıklık
+
+
+
+modeli
+
+
+FY6900-20M    
+
+FY6900-30M
+
+FY6900-50M
+
+FY6900-60M
+
+
+
+
+
+0~20MHz
+
+0~30MHz
+
+0~50MHz
+
+0~60MHz
+
+
+
+
+
+0~15MHz
+
+0~25MHz
+
+0~25MHz
+
+0~25MHz
+
+
+
+Rampa, Üçgen
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+
+
+Nabız
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+
+
+TTL/CMOS
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+
+
+keyfi Dalga Formu
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+
+
+Min darbe genişliği
+
+20ns(Darbe dalgası min genişliğinin tüm modelleri 20ns olabilir)
+
+
+
+Min. Tüm frekans aralığında çözünürlük
+
+1μHz (Yüksek frekansta ayar doğruluğunu sağlamak için tüm frekans aralığında minimum çözünürlük 1μHz'e kadar düşebilir. Örneğin 10.000000000001MHz sinyali verebilir).
+
+
+
+Kesinlik
+
+±20ppm
+
+
+
+istikrar
+
+±1ppm/3 saat
+
+
+
+Dalga Formu Özellikleri
+
+
+
+dalga formları
+
+Sinüs, Kare, Dikdörtgen (Görev Döngüsü ayarlanabilir), Darbe (Darbe genişliği ve döngü süresi doğru olarak ayarlanabilir), Üçgen/Rampa, Testere Dişi Dalga, CMOS, Dört kanal TTL, DC, Yarım dalga, Tam dalga, Pozitif Adım, Ters Adım , Pozitif Üs, Ters Üs, Lorenz Darbe, Çok Tonlu, Gürültü, EKG, Yamuk Darbe, Sinc Darbe, Dar Darbe, Gauss Beyaz Gürültü, AM, FM ve diğer 64 set müşteri tanımlı dalga biçimi.
+
+
+
+Uçucu Olmayan Depolama
+
+64 kullanıcı tanımlı rastgele dalga biçimi saklayabilir, (8K 14 bit) * 64
+
+
+
+Dalga formu Uzunluk
+
+8192 puan * 14 bit
+
+
+
+Örnekleme oranı
+
+250MSa/s
+
+
+
+Dikey Çözünürlük
+
+14 bits
+
+
+
+
+
+harmonik bastırma
+
+≥50dBc(<1MHz); ≥45dBc(1MHz~20MHz);
+
+
+
+toplam harmonik bozulma
+
+<%0,5 (20Hz~20kHz,0dBm)
+
+
+
+
+
+Yükselme/Düşme Süresi
+
+≤7ns (VPP<5V)
+
+
+
+aşma
+
+≤5%
+
+
+
+Görev döngüsü
+
+%0.01~99.99% (Çözünürlük %0.01)
+
+
+
+testere dişi dalgası
+
+doğrusallık
+
+>99% (0,01Hz~10kHz)
+
+
+
+Çıkış özellikleri
+
+
+
+Genlik(VPP)
+
+Frekans≤5MHz: 1mVpp~24Vpp;
+				5MHz 10MHz Frekans>20MHz: 1mVpp~5Vpp;
+
+
+
+Çözünürlük
+
+1mV
+
+
+
+Genlik Kararlılığı
+
+±0.5%/ 5 Saat
+
+
+
+genlik düzlüğü
+
+±2,5%(<10MHz);±5%(>10MHz);
+
+
+
+Dalga Formu Çıkışı
+
+
+
+İç direnç
+
+50Ω±%10(Tipik)
+
+
+
+Koruma
+
+Yük kısa devre olduğunda tüm kanallar 60 saniyeden fazla çalışabilir. 
+
+
+
+DC Ofsetleri
+
+
+
+Ofset Aralığı
+
+Frekans≤20MHz: ±12V; Frekans>20MHz: ±2.5V;
+
+
+
+Ofset Çözünürlük
+
+1mV
+
+
+
+Faz Özelliği
+
+ 
+
+
+
+Faz aralığı
+
+0~359.99°
+
+
+
+Faz çözünürlüğü
+
+0,01°
+
+
+
+TTL Çıktı
+
+ 
+
+
+
+TTL Seviye Genliği
+
+>3Vpp
+
+
+
+yelpaze çıkışı
+
+>8 TTL YÜKÜ
+
+
+
+Yükselme/Düşme Süresi
+
+≤10ns
+
+
+
+CMOS Çıktı
+
+
+
+Düşük Elektrik Seviyesi
+
+<0.3V
+
+
+
+Yüksek Elektrik Seviyesi
+
+1V~12V
+
+
+
+Yükselme/Düşme Süresi
+
+≤18ns
+
+
+
+Dış Ölçüm
+
+
+
+İşlev
+
+Frekans, Periyot, Pozitif/Negatif Darbe Genişliği, Görev Döngüsü
+
+
+
+Giriş Gerilimi Aralığı
+
+1Vpp~20Vpp
+
+
+
+Frekans ölçer
+
+Çözünürlük
+
+0.01Hz (Kapı Süresi = 100S)
+
+
+
+Menzil
+
+0.01Hz~100MHz
+
+
+
+Duyarlılık
+
+Geçit Süresi 3 kademe (1S, 10S, 100S) ayarlanabilir
+
+
+
+Tezgah
+
+Menzil
+
+0-4294967295
+
+
+
+kaplin
+
+DC, AC
+
+
+
+Çalışma modu
+
+Manuel
+
+
+
+Dönem
+
+Ölçüm aralığı
+
+5 saniye ~ 20 saniye
+
+DC kuplaj ölçümü
+
+
+
+Darbe genişliği
+
+Ölçüm aralığı
+
+0ns ~ 20s
+
+
+
+Çözünürlük
+
+5ns
+
+
+
+Görev döngüsü
+
+Menzil (Ekran)
+
+%0 ~ %100
+
+
+
+süpürmek
+
+
+
+Taşıyıcı Dalga Formu
+
+Sinüs, Kare, Rampa, Keyfi (DC hariç)
+
+
+
+Tip süpürme
+
+Doğrusal veya Logaritma
+
+
+
+Süpürme Yönü
+
+Yukarı, Aşağı ve gidiş dönüş süpürme yönleri;
+
+
+
+Süpürme Nesneleri
+
+Frekans, Genlik, Ofsetler, Görev Döngüsü
+
+
+
+Süpürme Süresi
+
+0.01S~999.99S/Adım
+
+
+
+Ayar aralığı
+
+Başlangıç pozisyonu ve Bitiş pozisyonu keyfi olarak ayarlanabilir.
+
+
+
+Süpürme Aralığı
+
+Parametreler ayarına göre karar verilir.
+
+
+
+VCO (Voltaj Kontrol Çıkışı)
+
+
+
+Giriş için modülasyon sinyal aralığı
+
+0~5V
+
+
+
+VCO sinyal frekans aralığı
+
+0-2000Hz
+
+
+
+VCO kontrol nesnesi
+
+voltaj kontrol frekansı (VCF), voltaj kontrol genliği, voltaj kontrol ofsetleri, voltaj kontrol görev döngüsü.
+
+
+
+VCO özel işlevi
+
+Harici analog sinyal ile Genlik Modülasyonu (AM) veya Frekans Modülasyonu (FM) yapabilir.
+
+
+
+Modülasyon
+
+
+
+Modülasyon Tip
+
+
+
+
+
+Taşıyıcı Dalga Formu
+
+Sinüs, Kare, Üçgen, Rampa, Keyfi dalga formu (DC Hariç)
+
+
+
+AM
+
+
+
+Kaynak
+
+Dahili (CH2) / Harici (VCO IN Bağlantı Noktası)
+
+
+
+Modülasyonlu Dalga Formu
+
+Sinüs, Kare, Üçgen, Rampa, Keyfi dalga formu
+
+
+
+Derinlik
+
+%0 ila %120
+
+
+
+Modülasyon Frekansı
+
+Dahili : 1μHz~1MHz; Harici: 1μHz~2KHz;
+
+
+
+
+
+
+
+Kaynak
+
+Dahili (CH2) / Harici (VCO IN Bağlantı Noktası)
+
+
+
+Modülasyonlu Dalga Formu
+
+Sinüs, Kare, Üçgen, Rampa, Keyfi dalga formu
+
+
+
+Modülasyon Frekansı
+
+Dahili : 1μHz~1MHz; Harici: 1μHz~2KHz;
+
+
+
+ÖĞLEDEN SONRA
+
+
+
+Kaynak
+
+Dahili (CH2) / Harici (VCO IN Bağlantı Noktası)
+
+
+
+Modülasyonlu Dalga Formu
+
+Sinüs, Kare, Üçgen, Rampa, Keyfi dalga formu
+
+
+
+Faz Sapması
+
+0° ila 360°
+
+
+
+Modülasyon Frekansı
+
+Dahili : 1μHz~1MHz; Harici: 1μHz~2KHz;
+
+
+
+SOR
+
+
+
+Kaynak
+
+Dahili (CH2), Harici (SOR IN Port), Manuel
+
+
+
+Modülasyonlu Dalga Formu
+
+%50 görev döngüsüne sahip kare.
+
+
+
+Anahtar Frekans
+
+1μHz~10MHz
+
+
+
+FSK
+
+
+
+Kaynak
+
+Dahili (CH2), Harici (FSK IN Port), Manuel
+
+
+
+Modülasyonlu Dalga Formu
+
+%50 görev döngüsüne sahip kare.
+
+
+
+Anahtar Frekans
+
+1μHz~10MHz
+
+
+
+PSK
+
+
+
+Kaynak
+
+Dahili (CH2), Harici (PSK IN Port), Manuel
+
+
+
+Modülasyonlu Dalga Formu
+
+%50 görev döngüsüne sahip kare.
+
+
+
+Anahtar Frekans
+
+1μHz~10MHz
+
+
+
+Patlama Fonksiyonu
+
+
+
+Taşıyıcı Dalga Formu
+
+Sinüs, Kare, Rampa, Keyfi (DC hariç)
+
+
+
+Patlama Sayısı
+
+1~1048575
+
+
+
+Tetik Kaynağı
+
+Manuel, Dahili, Harici (AC/DC)
+
+
+
+Genel Özellikler
+
+
+
+Görüntülemek
+
+Tip
+
+2,4 inç, TFT Renkli Ekran.
+
+
+
+Kaydet ve Yükle
+
+Miktar
+
+20
+
+
+
+Konum
+
+01 ila 20 (başlangıç varsayılan değeri için 01)
+
+
+
+Arayüz
+
+Tip
+
+USB'den Seri arayüze
+
+
+
+Protokol
+
+İletişim protokolleri sağlayan hat modu.
+
+
+
+İletişim Hızı
+
+9600bps (Endüstriyel standart)
+
+
+
+Güç
+
+Voltaj aralığı
+
+AC100V~240V
+
+
+
+teknik
+
+SMD, LSI, Güvenilir ve dayanıklı
+
+
+
+zil
+
+Ayarlanarak açılıp kapatılabilir.
+
+
+
+Operasyon
+
+Düğmeler ve düğme sürekli.
+
+
+
+Çevre
+
+Sıcaklık: 0~40℃, Nem:<80%
+
+
+
+Boyut
+
+200mm * 190mm * 90mm (U * G * Y)
+
+
+
+Ağırlık
+
+850g
+
+
+
+Paket Boyutu
+
+25cm * 21cm * 10cm (U * G * Y)
+
+
+
+paket ağırlığı
+
+0.98kg(Ana motor, aksesuarlar ve paketleme malzemeleri)
+
+
+
+Not: FY6900, İngilizce ve Çince menü geçişini destekler. Varsayılan dil İngilizce'dir. 
+
+Paket İçeriği:
+
+
+1 x FY6900 DDS Sinyal Üreteci
+
+1 x Güç Kablosu
+
+1 x USB Veri Kablosu 
+
+2 x BNC Klipsli Kablolar
+
+1 x BNC-BNC Kablosu
+
+Detaylar Resimler:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

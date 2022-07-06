@@ -1,0 +1,193 @@
+https://pt.banggood.com/Geekcreit-DC-6-40V-To-1_2-36V-300W-20A-Constant-Current-Adjustable-Buck-Converter-Step-Down-Module-Board-p-1203369.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Geekcreit® DC 6-40V To 1.2-36V 300W 20A Constant Current Adjustable Buck Converter Step Down Module Board
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificações:
+
+	Cor: Prata
+	Material: Metal
+	Tamanho: Aprox. 60 x 52 x 27 mm / 2,36 x 2,05 x 1,06 ''
+	Tensão de entrada: DC 6-40V (10V a 40V é sugerido)
+	Voltagem de saída: DC 1.2-36V
+	Corrente de saída: 20A (máx.), 15A (sugerido)
+	Eficiência: 97% (24V a 12V, 20A)
+	Ondulação de saída: ≤50mV
+	Método de fiação: Terminal
+	Proteção contra curto-circuito: autorrecuperação (não pode causar curto-circuito por um longo tempo)
+	VO +: Saída positiva
+	VO-: Saída negativa
+	+ IN: entrada positiva
+	-IN: entrada negativa
+	CV: Ajuste de tensão de saída
+	CC: ajuste de corrente de saída
+	EN: Ativar, saída de desligamento de nível de baixa tensão; suspensão, o nível de alta tensão é eficaz
+	Quando a entrada e a saída são aterradas, tensão constante de saída CV sem carga, corrente constante de saída CC
+	Temperatura de trabalho: -10 ° C-75 ° C
+
+Recursos:
+
+	Com uma ampla faixa de tensão de entrada de 6 V a 40 V, o conversor abaixador pode ajustar com precisão a tensão de saída e a corrente
+	A eficiência pode ser de até 96%, medida em 20A, convertendo 24V para 12V
+	Projetado com tubo MOS duplo de corrente grande 75V / 80A
+	O módulo Buck tem 2 dissipadores de calor que podem melhorar a dissipação de calor
+	A fiação é conveniente com estes grandes terminais de parafuso 30A atuais
+	A entrada e a saída usam capacitor eletrolítico de baixa resistência e alta frequência, baixa ondulação, saída estável
+	Estável e confiável
+	Acabamento fino e durável
+
+Incluído no Pacote:
+
+	1 x 300W 20A módulo conversor abaixador ajustável
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

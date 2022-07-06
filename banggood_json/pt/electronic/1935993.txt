@@ -1,0 +1,145 @@
+1935993
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/CB/44/c3c4bfb6-4e23-4e90-9439-bb5929528e10.jpg
+LU-ASR01 Módulo de Reconhecimento de Fala Inteligente Reconhecimento Offline Personalizado 100 Entradas
+https://pt.banggood.com/LU-ASR01-Intelligent-Speech-Recognition-Module-Offline-Recognition-Custom-100-Entries-p-1935993.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:A palavra de ativação pode ser personalizada: Defina até 5 palavras de ativação. Acorde palavra pelo menos 2 palavras.A entrada de voz: você pode personalizar até 100 entradas.A taxa de reconhecimento é muito boa, e a taxa de reconhecimento dentro de 10 metros chega a 98%.Os primeiros 6 dos 8 IO podem ser usados como PWM ou como IO comum; uma saída de porta serial; uma interface DHT11 (DS18B20). Se houver muitos dispositivos, é recomendável conectar a porta serial.CH340C integrado, chip USB para TTL. Só precisa de um cabo USB para fazer o download com um clique. Não precisa de um downloader.Incluído no Pacote:1 x Módulo de Reconhecimento de Fala Inteligente
+
+
+
+

@@ -1,0 +1,143 @@
+https://es.banggood.com/Hiseeu-4-PCS-8CH-POE-H_265-NVR-Camera-System-48V-CCTV-System-1080P-Indoor-Outdoor-Camera-Waterproof-2MP-Security-Video-Surveillance-Set-p-1834831.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Hiseeu 4 PCS 8CH POE H.265 NVR Cámara Sistema Sistema de CCTV de 48 V 1080P Interior al aire libre Cámara Impermeable Juego de videovigilancia de seguridad de 2MP
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PrendaCaracterísticas:Prenda- Cámara de grabación de audio de 4MP POE: BUn micrófono integrado incorporado le permite escuchar el sonido alrededor de la cámara, grabar lo que dice la gente, hacerlo auténtico con la grabación de video con sonido.- Simplifique la instalación de POE, fácil de configurar: Energía over Ethernet significa que las cámaras IP se conectan al NVR con un solo cable que transmite datos y energía, sin necesidad de conectar el cable de alimentación, menor riesgo de fuga eléctrica y fácil de configurar. Esto simplificó literalmente la instalación y redujo los costos.- Codificación de video de alta eficiencia H.265: H.265 (HEVC) duplica la eficiencia de codificación en comparación con su predecesor H.264. Eso significa que el video H.265 ahorra alrededor del 50% de la tasa de bits con la misma calidad de codificación.- Hay disponible un mando a distancia externo: Al conectar el sistema Hiseeu 1080P POE CCTV Cámara a la pantalla, un control remoto externo podría reemplazar el mouse para operar.- Fácil acceso a través de la aplicación gratuita para dispositivos móviles y el software para PC: Cuando salga, no debe preocuparse por la seguridad de su propiedad. Al usar el sistema de circuito cerrado de televisión inalámbrico Hiseeu, puede ver video en vivo de forma remota simultáneamente en cualquier momento y en cualquier lugar con wifi / 4G en el teléfono inteligente / iPad / PC. Con la aplicación gratuita "XMEye", los usuarios pueden acceder a las imágenes a través de su dispositivo inteligente (IOS / Android) o software de computadora (Windows): CMS. Vea transmisiones en vivo y reproducciones al instante, lo que lo ayudará a mantenerse informado en cualquier momento y lugar. También puede verlo de forma remota por IE Broswer.- Carcasa de metal impermeable, ampliamente utilizada para interiores y exteriores: Cámara Temperatura de trabajo: -25°C ~ 50°C (-13° ~ 122°)- Detecciones de movimiento y alerta por correo electrónico: Al personalizar el área de detecciones de movimiento, se le enviará un correo electrónico de alerta instantánea una vez que la cámara detecte las catividades anormales. Puede obtener información en el área de video en cualquier lugar y en cualquier momento. Nunca es tarde para tomar medidas defensivas con anticipación.PrendaEspecificación de NVR:PrendaEspecificación de NVRNVR POE de 8 canalesSistemaProcesador principalMicroprocesador integrado de grado técnicoSistema operativoSistema operativo LINUX integradorecurso del sistemaGrabación multicanal en tiempo real sincrónicamente, reproducción multicanal en tiempo real, operación de red multicanal multiusuario, copia de seguridad USB.InterfazInterfaz de operaciónInterfaz GUI de color real de 16 bits compatible con operación de mouseAvance 1/4/8/16Videoestándar de vídeoCAMARADA; NTSCCodificar imagenH.265Supervisar la calidadVGA, HDMI: alta definiciónEntrada de video8 * 3MP / 8 * 1080P / 16 * 720P IP CámaraDetecciones de movimientoSoporte (depende de la cámara)AudioCompresión de audioG.711AIntercomunicadorsíGrabar y reproducirModo de grabaciónmanual> alarma> detecciones de movimiento> cronometrajeReproducción local4 * 3MP / 8 * 1080P / 16 canales * 720PBúsqueda de videosHora, fecha, evento, búsqueda de canalesAlmacenamiento y copia de seguridadVídeo almacenamientoDisco duro local, redModo de copia de seguridadCopia de seguridad de red, disco duro portátil USB, impresiones USB, impresiones SATAInterfazEntrada de vídeo (BNC)N / ASalida de vídeoSalida de 1 canal VGA, 1 canal HDMI HDSalida de bucleN / AE/S de audioNoE/S de alarmaNOpuerto de red1 puerto Ethernet autoadaptable RJ45 1000M; 8 puertos POE admiten fuente de alimentación poe  Puerto USB2 * puerto USB2.0: uno es para el mouse, el otro es para el disco flash USB para hacer una copia de seguridadpuerto de disco duro1 puertos SATA de 3,5 '', soporte máximo de 6 TB (HDD es una opción)OtroEnergía48V/3AONVIFApoyoTemperatura0 - +50 gradosHumedad10%-90%DimensiónL300mm* W235mm* H45mmPesoalrededor de 2 kgEspecificación de la cámara:Sensor1 / 2.8 "2.0MP 1080P CMOS de barrido progresivo MínimoColor: 0.1Lux @(F1.2,AGC ENCENDIDO),0 LUX con infrarrojosIluminaciónB/N 0,01 Lux @ (F1.2, AGC ON), 0 LUX con infrarrojosobturador electrónico1/30s-1/100000sLente3.6mmIris automáticoNODía/Nocheinfrarrojos-CORTEinfrarrojos 3 piezas infrarrojos Led Array, infrarrojos distancia: aproximadamente 15 mTasas de bits64Kpbs～12MpbsControl de tasa de bitsVBR/CBRResolución máxima1920*1080AjusteBrillo, contraste, saturación, nitidez, balance de blancosInterfaz de redRJ45EnergíaDC12V, POEImpermeableIP66PrendaPrendaEl paquete incluye:Prenda4 x H.265 2MP cámaras POE a prueba de agua1 NVR POE de 8 canales1 adaptador de corriente de 48 V/3A para POE NVR1 ratónCables Ethernet de 4 x 20 metros1 x cable HDMI (regalo gratis)2 x pegatina de advertencia (regalo gratis)algunos tornillos 
+
+
+
+

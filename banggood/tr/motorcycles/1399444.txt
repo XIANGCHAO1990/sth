@@ -1,0 +1,280 @@
+https://tr.banggood.com/24V36V48V60V-250W350W-LCD-Brushless-Motor-Controller-Battery-Speed-For-MTB-E-Bike-Scooter-p-1399444.html?cur_warehouse=HK&ID=517271520454&rmmds=CategoryAutomobilesPop
+24 V / 36V48V / 60 V 250 W / 350 W LCD Fırçasız Motor Denetleyici Batarya MTB E-Bike Scooter Için Hız
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Açıklama:
+		Lityum pil için 6 mosfet çift modlu denetleyici
+
+		Anma çalışma gerilimi: 24 v / 36 v / 48 v / 60 v
+
+		Mevcut güç: 250W / 350W
+
+		Mevcut maksimum akım: 10A-20A (varsayılan ayar 13a)
+
+		Batarya voltaj düşük gerilim koruma noktası: 19v / 30v / 41v / 52v
+
+		Motor faz açısı için uygun: 60 derece / 120 derece (otomatik öğrenme)
+
+
+
+Denetleyici özelliği:
+
+		1. Motor fazını ve açısını otomatik olarak belirleyin. 
+		Hata ayıklama kablosu ile öğrenebilirsiniz. çalışma yöntemi: güç kablosunu, ana şalter telini, motor telini bağlayın,
+		salon teli, gidon teli, öğrenme teli, güç ve bisiklet kilidini açın, motor çalışmaya başlayacaktır. 
+		Dönüş yönü doğruysa, lütfen öğrenme telini kesin. Öğrenme bitti.
+		Yön ters ise, lütfen öğrenme teli kesiniz, motor otomatik olarak yön değiştirecektir,
+		2-3 saniye çalışın, öğrenme telini kesin, öğrenme işlemi tamamlanır (öğrenmeye başladıktan sonra öğrenme telini kesin).
+
+
+		2. çift mod (Motor salonu normal çalıştığı zaman, kontrol cihazı koridor modu ile çalışır. 
+		Motor salonu hasar gördüğünde, kontrol cihazı akıllı bir şekilde test edebilir ve salon dışı moduna geçebilir ve çalışmaya devam edebilir.
+		(çift modlu değilse diğer kontrol ünitesi, motorlu salonun hasar görmesi halinde çalışamaz)
+
+
+		3. kontrol edebilir ve diğer elektrikli parçalar ile eşleşebilir
+
+		Harici hız testi sensörü ile eşleşebilir, böylece ekran hızını gösterebilir 
+		bisiklet sürerken bile. fren sensörü ile eşleşebilir, sol vites kolu ile ebs fren ve benzeri çalışabilir.
+
+
+		4. Akü voltajı yetersiz olduğunda, kontrol cihazı akımı otomatik olarak düşürür, bu da pilin daha uzun ömürlü olmasını sağlar.
+
+	Denetleyici işlevi:
+
+	1. 1: 1 PAS gücü
+
+	2. Fren ve kesme gücü
+
+	3. LCD Ekran ile bağlanın
+
+	4. gaz bağlayın
+
+	5. ışık ve korna güç bağlantı noktası
+
+	6. benlik öğrenimi
+
+	7. salon doğrusal ebs fren
+
+	8. yolculuk
+
+	9. 6km / sa artırılması
+
+
+
+	LCD Ekran
+
+	1. pil seviyesini gösterir, 6 ızgara doludur, pil azalırsa parlayacak   
+
+	2. hızı belirtin, varsayılan ayar birimi km / s
+
+	3. vitesleri belirtin
+
+	4. alt solda bulunan tek yolculuk, DIS, ikonunu göster, güç düğmesine basın bu arayüze geçebilir,
+	Bu, makinenin açık olduğu makinenin kapalı olduğu tüm mesafe anlamına gelir,
+
+	5. ODO-güç düğmesine bu arayüze geçebilirsiniz
+
+	6. hata kodu-- güç düğmesine basın bu arayüze geçebilir
+
+	002 - fren hatası 
+
+	003 pas sensör hatası
+
+	004 artırıcı 6km / h seyir modu
+
+	005-zamanlı seyir modu
+
+	006-pil seviyesi düşük
+
+	007-motor hatası
+
+	008-gaz hatası
+
+	009 denetleyici hatası
+
+	010 iletişim hatası al
+
+	011 - iletişim gönderme hatası
+
+	012-DMS iletişim hatası
+	013-ön hata hatası
+
+	7. Gears ayarı - kısa süreli yukarı ve aşağı tuşlarına basarak dişlileri ayarlayabilir, ekleyebilir veya azaltabilirsiniz.
+	yukarı ve aşağı tuşlarına aynı anda uzun basmak, ayar arayüzüne gidebilir, 
+	kısa basma güç düğmesi veri öğesini değiştirebilir, kısa basın yukarı ve aşağı düğmesi verileri ayarlayabilir, 
+	uzun basın yukarı ve aşağı düğmesi veri arayüzünü saklayabilir ve çıkabilirsiniz
+
+
+Yerleşimi:
+
+		1.  Fit for different battery: lead-acid, Li-Fe battery, LNCMO battery  {Li(NiCoMn)O2}, and so on. 
+		Farklı malzeme için farklı gerilim altında koruma noktası
+
+		2. DC fırçasız dişli motoru 350w'den daha düşük ve dişlisiz motor ve yüksek hızlı motor vb.
+
+
+
+Paket içeriği:
+
+	1 X Motor Denetleyici
+	1 X LCD Ekran Enstrüman
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,186 @@
+1140506
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/8B/FD/19e4b5bf-b35a-476c-af5d-e0c96ff111da.jpg
+0.91 pouces 128x32 IIC I2C Blue OLED Affichage LCD DIY Oled Module SSD1306 Driver IC DC 3.3V 5V
+https://fr.banggood.com/Geekcreit-0_91-Inch-128x32-IIC-I2C-Blue-OLED-LCD-Display-DIY-Module-SSD1306-Driver-IC-DC-3_3V-5V-p-1140506.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:
+
+1.Affichage OLED, pas besoin de rétroéclairage, éclairage automatique,
+2.Les performances de l'affichage sont meilleures que l'affichage à cristaux liquides traditionnel, aussi une consommation plus faible.
+3.Driver IC: SSD1306
+4. Taille: 0.91 pouces OLED
+5.Résolution: 128 x 32
+6.IIC interface
+7.Display Couleur: blanc
+Description 8.Pin:
+GND: Power Ground
+VCC: Power + (DC 3.3 ~ 5v)
+SCL: ligne d'horloge
+SDA: ligne de données
+
+Emballage inclus:
+
+1 x IIC I2C Blue OLED Module d'affichage à cristaux liquides
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

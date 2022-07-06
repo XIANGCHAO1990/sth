@@ -1,0 +1,235 @@
+1519478
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/79/7D/c2ae1640-a09f-46d1-979f-e70e05cfbf08.jpg
+0.56 "DC 100V 50A Kırmızı + Kırmızı İkili LED Ekran Mini Dijital Voltmetre Ampermetre Paneli Amp Volt Gerilim Akım Ölçer Test Cihazı
+https://tr.banggood.com/0_56-inch-DC-100V-50A-Red+Red-Dual-LED-Display-Mini-Digital-Voltmeter-Ammeter-Panel-Amp-Volt-Voltage-Current-Meter-Tester-p-1519478.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Açıklama:
+
+
+
+Çalışma gerilimi: DC 4 ~ 30V
+
+Gerilimi ölçün: DC 0 ~ 100V
+
+Minimum çözünürlük (V): 0.1V
+
+Akımı ölçün: 50A (harici şönt gerektirir)
+
+Minimum çözünürlük (A): 0.1A
+
+Çalışma akımı: <20mA
+
+Ekran: üç adet 0,28 "LED dijital tüp
+
+Ekran rengi: Kırmızı ve Kırmızı
+
+Yenileme hızı: yaklaşık 300mS / kez
+
+Ölçüm doğruluğu:% 1 (± 1 hane)
+
+Çalışma sıcaklığı: -10 ila 65 ° c
+
+Çalışma Nemi:% 10 -% 80 (yoğunlaşmayan)
+
+Çalışma basıncı: 80 ila 106 kPa
+
+Uygulamalar: Otomotiv / elektrikli arabalar / motosikletler pil izleme veya diğer ürünler voltaj akımı ölçümü için uygundur
+
+
+
+Kablolama:
+
+
+
+Siyah çizgi (ince): boş veya kova devresi (modül) negatif
+
+Kırmızı çizgi (ince): güç kaynağı +
+
+Siyah çizgi (kalın): COM, ortak ölçüm
+
+Kırmızı çizgi (kalın): PW +, ölçüm terminali voltaj girişi pozitif
+
+Sarı çizgi (kalın): IN +, akım girişi +
+
+
+
+Farkına varmak:
+
+
+
+İnce kırmızı ve ince siyah çizgiler arasındaki voltaj DC 4-30V arasında olmalıdır.
+
+Ampermetre sadece test edilen cihazın negatifine bağlanabilir
+
+5A'yı aşan, uzun süreli tam yük sürekli çalışan, uçların ölçüm tarafının doğrudan sokete lehimlenmesi önerilir.
+
+Siyah ince çizgi boşaldığında, kısa devreleri önlemek için telin açıkta kalan kısmı etrafında yalıtım bandı kullanmak daha iyidir.
+
+Sadece bir voltmetre olarak kullanılacaksa, ampermetrenin dijital yanıp sönmesini önlemek için sarı çizgi ve siyah çizginin birbirine bağlanması önerilir.
+
+10A'ten daha düşük akımı test etmek için bu sayacı kullanmak uygun değildir.
+
+
+
+Paket içeriği
+
+
+
+1 x Dijital Voltmetre Ampermetre Ölçer
+
+1 x Akım Şantı
+
+1 x Kablo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

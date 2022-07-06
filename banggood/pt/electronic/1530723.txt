@@ -1,0 +1,337 @@
+https://pt.banggood.com/3000W-AC220V-250V-to-DC-48V-62A-ZVS-Heating-Switching-Power-Supply-R48-3000e3-For-Induction-Heater-p-1530723.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+3000W AC220V-250V to DC 48V 62A ZVS Heating Switching Power Supply R48-3000e3 For Induction Heater
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dicas: Este produto é a fonte de alimentação para a estação base de comunicação, que deve ter uma conexão de comunicação com o chassi. Se você não tiver uma conexão de comunicação, a luz amarela piscará, o que é um fenômeno normal e não afeta a saída de energia normal.Característica:
+
+
+
+Alta eficiência, reduz o consumo de energia para menores custos operacionais
+
+A potência total de saída (3kW) até + 45 ° C permite economia no sistema climático e nos custos operacionais
+
+Ampla faixa de tensão de entrada para operar nos ambientes mais exigentes
+
+Hot-pluggable - facilita expansões futuras e fácil manutenção
+
+Em conformidade com os padrões globais - entrega qualidade, desempenho e confiabilidade, não importa o que o aplicativo ou local exija
+
+
+
+Descrição:
+
+
+
+O retificador de alta eficiência de 3000W (modelo R48-3000e3) foi projetado para converter tensões de alimentação CA padrão em tensão nominal estável de -48 V CC ajustável às necessidades da aplicação. 
+
+O R48-3000e3 é um retificador de potência constante projetado com a mais recente tecnologia de switchmode patenteada, usando a funcionalidade DSP (Digital Signaling Processor) para operação eficiente.
+
+Para uma maior capacidade de carga, retificadores podem ser conectados em paralelo e o controle inteligente pode ser adicionado com a ajuda de um controlador separado.
+
+
+
+
+
+
+Entrada AC
+
+
+
+Tensão de entrada, nominal
+
+200 a 250 VAC
+
+
+
+Tensão de entrada, variação permitida
+
+85 a 300 VAC
+
+
+
+Frequência de linha
+
+45 to 65 Hz
+
+
+
+Corrente máxima de entrada
+
+22 A
+
+
+
+Fator de potência
+
+> 0,99 para 50% -100% de carga
+
+
+
+THD (distorção harmônica total)
+
+≤5% para 50% -100% de carga, ≤2% sem carga
+
+
+
+Saída DC
+
+
+
+Tensão de saída, não ajustável
+
+48V DC
+
+
+
+Potência de saída
+
+3000W máximo
+
+
+
+Potência de saída, reduzida para tensão de entrada
+
+Veja o diagrama
+
+
+
+Corrente de saída
+
+62.5A@-48VDC
+
+
+
+Ponto de ajuste do limite de corrente de saída
+
+0 to 62.5A
+
+
+
+Eficiência de pico
+
+95,5%
+
+
+
+Desclassificação de temperatura
+
+Potência de saída total de até + 45 ° C na faixa de tensão de entrada de 176-264 VCA
+
+
+
+Controle e Monitoramento
+
+
+
+Alarme do retificador e alarme de sinalização e status relatado via barramento CAN para o controlador do sistema
+
+
+
+Indicações Visuais Verde LED: normal LED amarelo de operação: alarme (significa nenhuma conexão de comunicação)
+					LED vermelho: falha
+
+
+
+De Meio Ambiente
+
+
+
+Faixa de temperatura, operacional
+
+-40 a 70 ° C, -40 a + 158 ° F
+
+
+
+Faixa de temperatura, armazenamento
+
+-40 a + 70 ° C, -40 a + 158 ° F
+
+
+
+Humidade relativa
+
+0 a 95%
+
+
+
+Altitude
+
+2.000 m, 6.560 pés em potência total
+
+
+
+EMC
+
+ETSI EN300 386: 2005, Classe B.
+
+
+
+ 
+
+EN55022, Classe B
+
+
+
+Segurança
+
+EN 60950-1; IEC 60950
+
+
+
+Mecânica
+
+
+
+Dimensões (A x L x P) 41x84,5x330mm / 1,61x3,33x13 polegadas
+
+
+
+Peso 1,5 kg / 3,41 lbs
+
+
+
+
+O pacote inclui:
+
+	1 x Fonte de alimentação
+
+
+
+
+
+

@@ -1,0 +1,195 @@
+https://de.banggood.com/Geekcreit-DC-6-40V-To-1_2-36V-300W-20A-Constant-Current-Adjustable-Buck-Converter-Step-Down-Module-Board-p-1203369.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+DC 6-40V bis 1.2-36V 300W 20A Konstantstrom einstellbarer Abwärtswandler Step-Down Modul Board
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Technische Daten:
+
+Farbe: Silber
+Material: Metall
+Größe: Ca. 60 x 52 x 27 mm / 2,36 x 2,05 x 1,06 ''
+Eingangsspannung: DC 6-40V (10V bis 40V wird empfohlen)
+Ausgangsspannung: DC 1.2-36V
+Ausgangsstrom: 20A (max.), 15A (vorgeschlagen)
+Wirkungsgrad: 97% (24V bis 12V, 20A)
+Ausgangskontrolle: ≤50mV
+Verdrahtungsmethode: Terminal
+Kurzschlussschutz: Selbstwiederherstellung (kann lange nicht kurzlaufen)
+VO +: Ausgang positiv
+VO-: Ausgang negativ
++ IN: Eingang positiv
+-IN: negativ eingeben
+CV: Ausgangsspannung einstellen
+CC: Ausgangsstromeinstellung
+DE: Enable, Low-Voltage-Abschaltung Ausgang; Suspension, Hochspannungspegel ist wirksam
+Wenn Eingang und Ausgang ist geerdet, keine Last CV-Ausgang konstante Spannung, CC Ausgang konstanten Strom
+Arbeitestempreture: -10 ° C-75 ° C
+
+Eigenschaften:
+
+Mit einem breiten Eingangsspannungsbereich von 6V bis 40V kann der Abwärtswandler die Ausgangsspannung und den Strom genau einstellen
+Der Wirkungsgrad kann bis zu 96% betragen, gemessen bei 20A, um 24V in 12V umzuwandeln
+Entworfen mit 75V / 80A großen Strom Dual MOS Rohr
+Das Buck-Modul verfügt über 2 Kühlkörper, die die Wärmeableitung erhöhen könnten
+Die Verdrahtung ist mit diesen großen Strom 30A Schraubklemmen bequem
+Eingang und Ausgang verwenden Hochfrequenz-Niederwiderstand Elektrolyt-Kondensator, niedrige Welligkeit, stabile Ausgang
+Stabil und zuverlässig
+Schöne Verarbeitung und langlebig
+
+Lieferinhalt:
+
+1 x 300W 20A einstellbares Down-down Wandler Modul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

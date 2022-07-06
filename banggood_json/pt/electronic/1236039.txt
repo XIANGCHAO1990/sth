@@ -1,0 +1,424 @@
+1236039
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/95/A5/745de595-4c6c-4b5a-b626-e51d0ca7a0f1.jpg
+Isqueiro de Arco Mais Leve DC3-5V 3A DIY Kit Isqueiro Eletrônico Alta Pressão
+https://pt.banggood.com/EQKIT-Arc-Ignition-Lighter-DC3-5V-3A-DIY-High-Pressure-Electronic-Lighter-Module-Kit-p-1236039.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Como acender:
+
+
+
+
+
+Característica:
+
+
+
+
+Nome: HV-1 Isqueiro de alta pressão (kit DIY, você precisa montá-lo)
+
+
+Tensão de entrada: DC3-5V
+
+
+Corrente de entrada: 3A
+
+
+Corrente de operação: não menos do que 2.5A
+Modo de trabalho: impulso de oscilação auto-animado
+Freqüência de trabalho: cerca de 20kHz
+Tempo de trabalho contínuo: 10 segundos
+Comprimento do arco: cerca de 5 mm
+Tamanho: 71 x 18 x 12 mm (L x L x A)
+Interruptor de ignição: sim
+Peso: 15 g
+
+
+
+
+Lista:
+
+
+
+
+
+Número
+
+
+Nome do componente
+
+
+Marcador de PCB
+
+
+Parâmetro
+
+
+Quantidade
+
+
+
+
+					1
+				
+
+					Resistores de película de carbono
+				
+
+					R1
+				
+
+					33R/1W
+				
+
+					1
+				
+
+
+
+					2
+				
+
+					Capacitor eletrolítico
+				
+
+					C1
+				
+
+					470UF
+				
+
+					1
+				
+
+
+
+					3
+				
+
+					Diodo
+				
+
+					D1
+				
+
+					1N5819
+				
+
+					1
+				
+
+
+
+					4
+				
+
+					Botão
+				
+
+					SW1
+				
+
+					6*6*5mm
+				
+
+					1
+				
+
+
+
+					5
+				
+
+					Transistor
+				
+
+					Q1
+				
+
+					D880
+				
+
+					1
+				
+
+
+
+					6
+				
+
+					Terminal da bateria 
+				
+
+					JK1
+				
+
+					KF301-2P
+				
+
+					1
+				
+
+
+
+					7
+				
+
+					Transformador
+				
+
+					T1
+				
+
+					14*15*8
+				
+
+					1
+				
+
+
+
+					8
+				
+
+					PCB
+				
+
+					-
+				
+
+					18*71mm
+				
+
+					1
+				
+
+
+
+					9
+				
+
+					Parafuso
+				
+
+					Q1
+				
+
+					M3 * 5
+				
+
+					1
+				
+
+
+
+					10
+				
+
+					Noz
+				
+
+					Q1
+				
+
+					M3
+				
+
+					1
+				
+
+
+
+					11
+				
+
+					Gravata
+				
+
+					T1
+				
+
+					3*100mm
+				
+
+					1
+				
+
+
+
+
+
+
+
+Incluído no pacote:
+
+
+
+
+1 x Kit de isqueiro de ignição de arco
+
+
+
+
+Depois de montar, apenas para referência
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

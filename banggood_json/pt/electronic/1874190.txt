@@ -1,0 +1,145 @@
+1874190
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/F2/1C/00dd15be-a7f1-4b03-a9ab-1dcdbd355f04.jpg
+LILYGO® TTGO VGA32 V1.4 Controlador PS / 2 Mouse e Teclado Controlador Biblioteca gráfica Game Engine Terminal ANSI / VT para ESP32
+https://pt.banggood.com/LILYGO-TTGO-VGA32-V1_4-Controller-PS-or-2-Mouse-And-Keyboard-Controller-Graphics-Library-Game-Engine-ANSI-or-VT-Terminal-For-ESP32-p-1874190.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recurso:Atualizar informações: Adicionar interface de saída de áudio interface de 3,5 mm e saída de alto-falante JST 2.0 PH interface de 2 pinosHardware EspecificaçõesChipsetTTGO Micro32CLARÃOFlash QSPI 4 MB / PSRAM 8 MBSRAM 520 kB SRAMBotãoRedefinir, IO36Função estendidaVGA, PS / 2USB para TTLCH9102FInterface modularUART, SPI, SDIO, I2C, LED PWM, TV PWM, I2S, IRGPIO, sensor de toque capacitor, ADC, Pré-amplificador DACLNARelógio de bordoOscilador de cristal de 40 MHz Tensão de trabalho2.7V-3.6VCorrente de trabalhocerca de 30mACorrente de sono230uAFaixa de temperatura de trabalho-40℃ ~ +85℃Tamanho e Pesosem VGA: 60,99 mm * 32,06 mm * 16,79 mmcom VGA: 66,70 mm * 32,06 mm * 16,79 mm21.25gFonte de energia EspecificaçõesFonte de energiaUSB 5V / 1ACorrente de carga500mABateriaBateria de lítio 3,7 VWi-fiDescriçãoPadrãoFCC / CE-RED / IC / TELEC / KCC / SRRC / NCCProtocolo802.11 b / g / n (802.11n, velocidade de até 150 Mbps) polimerização A-MPDU e A-MSDU, suporte 0,4 μS intervalo de proteçãoAlcance de frequência2,4 GHz ~ 2,5 GHz (2400M ~ 2483,5M)Potência de transmissão22dBmDistância de comunicação300mBluetoothDescriçãoProtocoloatender aos padrões bluetooth v4.2BR / EDR e BLEFrequência de rádiocom receptor NZIF de sensibilidade de -97dBm Class-1, Class-2 e Class-3, emissor AFHFreqüência de áudioCVSD e frequência de áudio SBCEspecificação de softwareDescriçãoModo Wi-fiEstação / SoftAP / SoftAP + Estação / P2PMecanismo de segurançaWPA / WPA2 / WPA2-Enterprise / WPSCriptografia Tipo AES / RSA / ECC / SHAAtualização de firmwareDownload UART / OTA (Por meio da rede / host para fazer download e escrever firmware)Desenvolvimento de softwareSuporte ao desenvolvimento de servidor em nuvem / SDK para desenvolvimento de firmware do usuárioProtocoloo de redeIPv4, IPv6, SSL, TCP / UDP / HTTP / FTP / MQTTConfiguração do usuárioConjunto de instruções AT +, servidor em nuvem, app Android / iSOSOFreeRTSOO pacote inclui:1 x controlador
+
+
+
+

@@ -1,0 +1,164 @@
+https://fr.banggood.com/Geekcreit-5V-2004-20X4-204-2004A-LCD-Display-Module-Blue-Screen-p-915064.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® 5V 2004 20X4 204 2004A LCD Module d&#39;affichage écran bleu
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:
+
+	The 2004A character LCD module is designed to display letters, numbers, symbols, dot matrix. It can display 4 lines of 20 characters. Support 4-bit and 8-bit data transfer mode. Offers 5x7 matrix + cursor display mode. Providing display data buffer DDRAM, character generator CGROM and CGRAM. CGRAM can be used to store up to eight 5x8 dot matrix character font data graphic own definition. Provides a rich instruction set: clear display, cursor back to origin, display on / off, cursor on / off, display character blink, cursor shift, display shift and so on.
+
+Spécification:
+
+	Module size(W x H x T): 98.0 x 60.0 x 14.0mm
+	Zone de visualisation (L x H): 76,0 x 26,0 mm
+	Character size(W x H): 2.94 x 4.74mm
+	Taille du point: (L x H): 0,54 x 0,54 mm
+	LCD type & color: STN(Blue), FSTN
+	Angle de vue: 6 heures
+	Display type: positive / negative type
+	Contrôle IC et package: KS0073 ou EQV, COB
+	Operating temperature: -20°C - +70°C
+	Température de stockage: -30 ° C - 80 ° C
+
+Emballage inclus:
+
+	1 x 5V 2004A LCD module d'affichage 
+
+
+
+
+

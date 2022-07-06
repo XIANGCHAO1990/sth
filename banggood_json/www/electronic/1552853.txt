@@ -1,0 +1,322 @@
+1552853
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/63/97/f85b7df3-54e7-4aee-b0fb-3203e8ad7fd0.jpg
+HackRF One 1MHz-6GHz Radio Platform Development Board Software-Defined RTL SDR Demoboard Kit Dongle Receiver Ham Radio
+https://www.banggood.com/HackRF-One-1MHz-6GHz-Radio-Platform-Development-Board-Software-Defined-RTL-SDR-Demoboard-Kit-Dongle-Receiver-Ham-Radio-p-1552853.html?cur_warehouse=CN&ID=6270001&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Common problem:
+
+		 
+
+Q. The computer cannot find the machine. / USB is not recognized.
+
+A: Requires firmware installation. If the firmware still does not work after you install the firmware, you can reflash the firmware.
+
+Firmware: http://myosuploads3.banggood.com/products/20200116/20200116013405PortapackFirmwareTool.rar
+
+Other files: 
+
+https://greatscottgadgets.com/sdr/ 
+https://github.com/mossmann/hackrf/wiki
+
+Feature:
+
+	 
+
+
+HackRF One is a Software Defined Radio peripheral capable of transmission or reception of radio signals from 1 MHz to 6 GHz. Designed to enable test and development of modern and next-generation radio technologies, HackRF One is an open-source hardware platform that can be used as a USB peripheral or programmed for stand-alone operation.
+
+		 
+
+Specifications:
+
+		 
+
+- 1MHz to 6 GHz operating frequency
+
+- Half-duplex transceiver
+
+- Up to 20 million samples per second
+
+- 8-bit quadrature samples (8-bit I and 8-bit Q)
+
+- Compatible with GNU Radio, SDR#, and more
+
+- Software-configurable RX and TX gain and baseband filter
+
+- Software-controlled antenna port power (50 mA at 3.3 V)
+
+- SMA female antenna connector
+
+- SMA female clock input and output for synchronization
+
+- Convenient buttons for programming
+
+- Internal pin headers for expansion
+
+- Hi-Speed USB 2.0
+
+- USB-powered
+
+- Open-source hardware
+
+
+Parameters:
+
+			 
+
+- Frequency band: 1MHz-6Ghz
+
+- Data bandwidth: 20MHz
+
+- Sampling accuracy ( ADC/DAC) : 8BIT
+
+- Sampling speed ( ADC/DAC): 20Mbps
+
+- Interface: USB2.0
+
+- Open-source
+
+- Maximum transmitting power: 10dbm
+
+- 64QAM transmitting EVM: 1.5%
+
+- Complex sampling bandwidth: 20Mhz
+
+			 
+
+Hardware:
+
+			 
+
+- Mixer RFFC5072: 80MHz-4200MHz
+
+- Wireless bandwidth RF transceiver MAX2837: 2.3Ghz-2.7Ghz
+
+- Processor LPC4330: Main frequency 204MHz
+
+- Amplifier MGA-81563: 0.1-6Ghz, 3V, 14dbm
+
+
+Package includes: (Optional)
+
+				 
+
+XR-028: 
+
+
+1 x HackRF Development Board
+
+1 x USB Cable
+
+1 x UHF Antenna (40Mhz-6GHz)
+					 
+
+
+XR-029: 
+
+
+1 x HackRF One board with Acrylic Shell
+
+1 x UHF Antenna (40Mhz-6GHz)
+					1 x UHF/VHF Antenna
+
+1 x USB Cable
+
+1 x TCXO clock  0.1PPM
+
+
+				 
+
+XR-030: 
+
+
+1 x HackRF One board with Aluminum Shell
+
+1 x UHF Antenna (40Mhz-6GHz)
+					1 x UHF/VHF Antenna
+
+1 x USB Cable
+
+1 x TCXO clock  0.1PPM
+					 
+
+
+XR-031: 
+				 
+
+
+
+
+1 x HackRF One board with Aluminum Shell
+
+1 x USB Cable
+
+1 x TCXO clock  0.1PPM
+
+
+1 x UHF Antenna (40Mhz-6GHz)
+	1 x UHF/VHF Antenna
+
+1 x GSM/3G/4G 35DBI Antenna 
+	1 x GSM/2G/3G/4G/WIFI 700-960MHz&1710-2700MHz 5DBI Antenna 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

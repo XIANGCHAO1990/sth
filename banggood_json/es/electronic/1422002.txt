@@ -1,0 +1,163 @@
+1422002
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/CA/6F/e0047e59-bfab-4a7e-b157-d99c054cbb1c.jpeg
+WiFi bluetooth Handle DIY Control remoto Smart Coche Módulo Kit para motor Servo Brazo de accionamiento Geekcreit para Arduino - productos que funcionan con placas oficiales Arduino
+https://es.banggood.com/WiFi-bluetooth-Handle-DIY-Remote-Control-Smart-Car-Module-Kit-For-Motor-Servo-Drive-Arm-p-1422002.html?cur_warehouse=CN&ID=566380&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Selección Tipo: (por favor elija la que necesita)  Solo tablero de control Tipo WiFi Tipo   bluetooth Tipo   Asa Tipo  caracteristicas:    Servo de 16 vías y placa de accionamiento de motor de cuatro vías, con TB6612 de cuatro vías, PCA9685 para el control de servo de 16 vías  Plomo UNO pines de E / S  Máximo Tensión de entrada de alimentación 15V / DC  Reserve el zócalo del módulo bluetooth y WIFI  Zócalo reservado PS2 manija  Motor de corriente continua de cuatro vías, corriente máxima de un canal 1.2A promedio / pico 3.2A  Pin de servoaccionamiento de 16 vías, la fuente de alimentación se puede cambiar mediante la fuente de alimentación externa / interna del puente tapa      Especificación:   Entrada de alimentación:    Fuente de alimentación motor (VM): 4.5V ~ 36V, que se puede suministrar por separado  La fuente de alimentación del mecanismo de dirección (VIN): 5 ~ 18V, que se puede suministrar por separado    Método de uso de una sola fuente de alimentación:   VM y VIN (motor de control separado, 6-36V)  El circuito abierto VS y VIN controlan el mecanismo de dirección por separado (6-18V)  Cortocircuito VM y VIN, cortocircuito VS y 5V al mismo tiempo. Control simultáneo del motor (6-18V) y del engranaje de dirección 5V de 16 vías     Paquete incluido:   1 x 2/4 motor Drive Board  1 x UNO Junta de Desarrollo  1 x cable USB  2 x motor Alambre  1 x módulo bluetooth (opcional)  1 x Módulo WiFi (opcional)  1 x Kit de manija (opcional)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

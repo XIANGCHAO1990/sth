@@ -1,0 +1,144 @@
+https://fr.banggood.com/NEJE-A40640-Laser-Engraver-Cutter-Module-Kits-Double-Laser-Beam-15w-Output-Laser-For-DIY-Laser-Engraving-Machine-Wood-Cutter-Cutting-Tool-p-1882454.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+NEJE A40640 Kits de Modules de coupe-graveur Laser Double faisceau Laser 15w Laser de sortie pour bricolage Machine de gravure Laser outil de coupe de coupe-bois
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:Ce module a une puissance différente de celle de A40640, A40630 est un seul LD et A40640 est un double faisceau LD, les autres capacités sont les mêmes ; une tache carrée peut couper jusqu'à 20 mm d'épaisseur ;Caractéristique du module laser A40640 :- Conçu pour le graveur laser, l'imprimante 3D, le moulin CNC, le projet Arduinos.- Puissance de sortie optique 15 W, contreplaqué de 4 mm à partir de 1 passage (vitesse 200), panneau acrylique noir de 3 mm à partir de 1 passage, Capable de graver de l'acier inoxydable, mais nécessite un bon réglage de la mise au point.- Plus de sécurité, verre de protection intégré pour protéger les yeux! Même sans porter de lunettes de protection, l'opération est plus confortable.- Plus silencieux, l'entraînement intelligent ajuste la vitesse du ventilateur de refroidissement en fonction de la température du laser.- Utilisation facile, générateur de signal d'impulsion numérique PWM, carte de rapport cyclique à fréquence réglable pour module laser NEJE.- un support de montage coulissant est fourni pour un réglage facile de la mise au point.Spécification:MarqueNEJEModèleN40640Matériau du dissipateur thermiqueAluminium d'avion + coque en laitonCouleur lumineuseBleuTaille de section40mm x 40mmMode de refroidissementCapteur de température contrôle intelligent + ventilateur de refroidissement 10000 tr / min 40 mmDimension60 * 40 * 40mmPrise adaptateur5.5 2.1 portPeut graverMDF/balsa/papier/bois/tissu/plastique/cuir/contreplaqué/papier mousse/aluminium anodiséNe peut pas graverMétal/verre/pierre/céramique/PCB/acier inoxydable/matériau réfléchissant/matériau transparentEntrée du module30-40WPuissance de sortie optique15W (15000mW)Longueur d'onde445-450nmForme du faisceauPoint (mise au point)Tension de travailCC 12VModulation TTL et PWMOUI, compatible avec la modulation TTL et PWMTension d'entréeDC12V 3AEntrée PWM / TTLDC3.3V-12VInterface d'entréePH2.0-4Pin (+, -, PWM / TTL, température), 3Pin (+, -, PWM / TTL), 2Pin + 2Pin (+, -) + (PWM / TTL, -)REMARQUEL'interface de température peut être déconnectée，NEJE fournit des instructions textuelles pour l'acquisition de la température sur le wiki.Mode conduiteACC externePlage de température sûre<60 ℃Poids du module202g (plus le poids est léger, plus l'inertie de mouvement est petite, meilleures sont les performances)Durée de vie10000-20 000 heuresCycle de service de fréquence réglable de générateur de Signal d'impulsion d'onde numérique PWM pour la spécification de carte de testeur de Module Laser NEJEEntrée de puissanceCC 12V SortirPH2.0 4 broches (12 v, GND, PWM / TTL, température)Mode3 modes (off, manuel pwm, pwm / ttl in) affichage de la températureOUIAffichage PWMOUIManuel PWM ContrôleOUIRemarque (veuillez faire attention):1.Veuillez porter des lunettes laser pendant l'utilisation et éviter de toucher le laser directement avec vos yeux et votre peau !2. Ne pas graver d'objets miroir ， Faites attention au feu ， Faites attention aux animaux de compagnie lorsque vous travaillez！3.De la fumée sera générée lors de la combustion, veuillez faire attention à l'échappement de fumée à l'intérieur.4.La période de garantie du module laser est d'un an. Si vous rencontrez des problèmes de qualité (à l'exception de situations individuelles telles que l'utilisation du module laser plus de 30 minutes à la fois et de dommages), n'hésitez pas à demander de l'aide à notre service client.5. Si votre module laser a un problème, veuillez NE PAS le démonter sans notre permission. Cela détruira le module laser.6.Si vous rencontrez un problème de qualité avec la machine, n'hésitez pas à nous contacter. De nombreux problèmes opérationnels peuvent être résolus en fonction de votre vidéo et de la description du problème. Merci en avance.7.Ce module laser est compatible avec nos machines NEJE Master 2 Plus et Master 2 Max.8. Il peut également être compatible avec d'autres équipements CNC, tels que les imprimantes 3d, le fraisage CNC, etc., mais vous devez maîtriser une certaine connaissance du contrôle de la forme d'onde PWM.Emballage inclus:1 xModule laser1 xFixation coulissante du module laser1xCâble à 4 broches (1000 mm)1 xCarte réglable de générateur de signal d'impulsion d'onde NEJE Digital PWM1 xClé en forme de L de 2,5 mm1 xClé en forme de L de 5 mm1 xCâble 4 broches1 xCâble à 3 broches1 xCâble 2 broches
+
+
+
+

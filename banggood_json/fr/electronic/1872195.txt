@@ -1,0 +1,145 @@
+1872195
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/2A/7D/0df694c8-153a-4f62-95c4-ea53015ed07f.jpg
+DALY Smart BMS accessoire module bluetooth USB vers UART/RS485 câble CANbus module panneau d'affichage de puissance écran tactile LCD
+https://fr.banggood.com/DALY-Smart-BMS-Accessory-bluetooth-Module-USB-to-UART-or-RS485-Cable-CANbus-Module-Power-Display-Panel-Touch-LCD-Screen-p-1872195.html?cur_warehouse=CN&ID=6310521&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:L'accessoire Smart BMS comprend : contrôle de température NTC (configuration conventionnelle), module Bluetooth, câble USB vers UART, câble outil USB vers RS485, module CANbus, écran d'affichage UART/RS485 Touch LCD.1. Écran d'affichage UART/RS485 tactile LCD: Peut personnaliser l'icône ou le LOGO associé, prendre en charge la communication 485/UART, seuls certains paramètres peuvent être modifiés.2. module Bluetooth: Téléchargez la bonne application Bluetooth (SMART BMS) sur votre téléphone, insérez le module Bluetooth dans le port de correspondance de BMS (si vous n'insérez pas correctement, il sera endommagé). Ouvrez l'application, recherchez le numéro de série Bluetooth relatif, puis vous pouvez obtenir des données.3. Panneau d'affichage de puissance (indicateur SOC) : Avec la fonction d'activation BMS en appuyant sur le bouton, il y a cinq lumières sur le tableau, 4 lumières jaunes, une lumière rouge, chaque lumière jaune représente 25% d'électricité. Le voyant rouge représente le voyant d'état du panneau d'affichage de l'alimentation, qui est toujours allumé. L'indicateur SOC est compatible avec seulement 4 chaînes ou plus (sans compter les 4 chaînes) SMART BMS.4. Câble USB vers UART : Il existe deux types 3P et 6P. Câble UART 3P pour BMS inférieur à 4 chaînes (dont 4 chaînes) ou inférieur à 60A (dont 60A), et câble UART 6P pour les autres.5. Câble d'outil USB vers RS485 : Faites attention à l'interface de communication ne pas au hasard, à une mauvaise connexion, afin de ne pas brûler le panneau de protection.6. Module CANbus : L'outil de transmission de données entre le PC et le BMS doit s'assurer que le variateur est installé normalement et que l'ordre des lignes est correct afin de communiquer normalement avec le grive fourni par notre société.7. Câble NTC : Lorsque la température augmente, la résistance diminue de façon exponentielle.Communication à 485 bauds avec l'ordinateur supérieur : 9600/kbs ou 115200/kbsCommunication CAN débit en bauds avec l'ordinateur supérieur : 250/kbs ou 500/kbsAttention:1. L'écran de contrôle tactile BMS et le module Bluetooth ne peuvent pas être utilisés en même temps, choisissez l'un des deux, la même interface.2. Veuillez faire attention à choisir le type de câble USB vers UART qui convient à votre BMS. Il existe deux types 3P et 6P. Câble UART 3P pour BMS inférieur à 4 chaînes (dont 4 chaînes) ou inférieur à 60A (dont 60A), et câble UART 6P pour les autres.3. L'indicateur SOC est compatible avec seulement 4 chaînes ou plus (sans compter les 4 chaînes) SMART BMS.Emballage inclus:1 x câble USB vers UART 3P (facultatif)1 x câble USB vers UART 6P (facultatif)1 x câble USB vers RS485 (facultatif)1 x panneau d'affichage de puissance (facultatif)1 x module Bluetooth (facultatif)1 x écran de contrôle tactile UART (facultatif)1 x RS485 écran de contrôle tactile (facultatif)1 x boîtier USB vers CAN (facultatif)1 x 1 x câble NTC (facultatif)
+
+
+
+

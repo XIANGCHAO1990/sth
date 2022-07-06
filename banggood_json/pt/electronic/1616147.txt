@@ -1,0 +1,228 @@
+1616147
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/D2/D7/754d5068-3fc5-4c48-8620-b8bf86cba345.jpg
+XH-M240 Bateria Testador de Capacidade mAh mWh para 18650 Lítio Bateria Medição Digital Lítio Bateria Testador de Detecção de Potência Voltímetro
+https://pt.banggood.com/XH-M240-Battery-Capacity-Tester-mAh-mWh-for-18650-Lithium-Battery-Digital-Measurement-Lithium-Battery-Power-Detect-Tester-Voltmeter-p-1616147.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:
+
+
+
+É um testador de capacidade de bateria de lítio. É usado para testar a tensão, capacidade de descarga e energia de descarga de uma bateria de lítio 18650.
+
+
+
+Recursos:
+
+
+
+- Fonte de alimentação de trabalho dupla
+
+- 18650 bateria testador especial
+
+- Suporte a capacidade de descarga da tela
+
+- Suporta energia de descarga de exibição
+
+- Função de memória de parâmetros de suporte
+
+
+
+Especificações:
+
+
+
+Tensão de trabalho: DC 5V ~ 12V ou 18650 bateria
+
+Corrente de espera: 5~7mA
+
+Corrente de descarga: 500mA
+
+Potência de carga: 10W 8ohm
+
+Precisão de tensão de medição: 0,1V
+
+Precisão da capacidade de descarga: 1mAh
+
+Precisão da energia de descarga: 1mWh
+
+Temperatura de trabalho: -25 ℃ ~ 85 ℃
+
+Umidade de Trabalho: 5%~95%RH
+
+Tamanho: 110*80*25mm
+
+
+
+Etapas de uso:
+
+
+
+1. Conecte a tensão de trabalho DC 5V~12V do soquete branco XH2.54-2P ou instale um 18650 bateria no soquete esquerdo da bateria.
+
+2. Instale um 18650 bateria medido no soquete direito da bateria.
+
+3. Ligue o interruptor da fonte de alimentação. Em seguida, a tela exibirá a tensão atual da bateria.
+
+4. Defina a tensão de parada de descarga. Pressione o botão + e - para definir a tensão de parada de descarga. Os parâmetros podem ser salvos automaticamente. Recomenda-se que a tensão de descarga de parada 18650 bateria seja definida para 3,5 V.
+
+5. Pressione brevemente o primeiro botão (esquerdo) para iniciar a medição. Em seguida, o indicador LED D3 será LIGADO.
+
+6. Pressione brevemente o segundo botão para alternar a capacidade de exibição (mAh), energia (mWh) e tensão.
+
+7. Pressione e segure o botão primeiro (esquerdo) para limpar a capacidade de exibição (mAh) e energia (mWh).
+
+8. A bateria é testada e mostra o valor de teste da bateria quando o indicador D3 LED começa a piscar.
+
+
+
+Incluído no Pacote:
+
+
+
+1 x XH-M240 Bateria testador de capacidade mAh mWh para 18650 lítio Bateria
+
+
+
+
+
+
+
+
+
+

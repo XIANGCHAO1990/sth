@@ -1,0 +1,145 @@
+1937556
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/D9/93/e9b4c0e3-ae07-433b-b541-dd42c289339e.jpg
+WZ10020L 100 V 1000 W Ad Alta Tensione Ad Alta Potenza DC Buck a Tensione Costante Corrente Costante MPPT solare Batteria Alimentazione di Ricarica
+https://it.banggood.com/WZ10020L-100V-1000W-High-Voltage-High-Power-DC-Buck-Constant-Voltage-Constant-Current-MPPT-Solar-Battery-Charging-Power-Supply-p-1937556.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: Questo prodotto è un modulo step-down e l'intervallo di tensione di uscita è inferiore alla tensione di ingresso!ModelloWZ10020LSchermoLCDIntervallo di tensione in ingresso10-110.00VRisoluzione della tensione di ingresso0.01VIntervallo di tensione di uscita0-100,00 V (decrescente)Risoluzione della tensione di uscita0.01VIntervallo di corrente di uscita0-20.00 A (tensione di uscita 0-50 V)0-10.00 A (tensione di uscita 50-100 V)Risoluzione corrente di uscita0.01AGamma di potenza in uscita0-1000WPrecisione della tensione di ingresso± (1%+5 cifre)Precisione della tensione di uscita± (0,3%+5)Precisione della corrente di uscita± (0,5%+5)Ondulazione di uscita300mVTemperatura-20℃~50℃Gamma di capacità0-999.9AHErrore di energia della capacità± 2%Intervallo di tempo0-100 orePressione differenziale> tensione di ingresso X0,05%+1VPeso nettocirca 285 gPeso del paccocirca 340 gDimensioni del pannello79*43*25mmDimensioni della scheda madre130*90*40mmAvvio graduale: sìMeccanismo di protezione:Ingresso sotto tensione di protezione (9-110 V regolabile, predefinito 9 V)Protezione da sovratensione in uscita (0-101,0 V regolabile, 101,0 V per impostazione predefinita)Protezione da sovracorrente in uscita (0-20,10 A regolabile, impostazione predefinita 20,10 A)Protezione da sovraccarico in uscita (0 - 1010 W regolabile, predefinita 1010 W)Protezione da sovratemperatura (80-110 ℃ ℃ regolabile, impostazione predefinita 110 ℃ ℃)Protezione timeout (0-100h regolabile, chiusa per impostazione predefinita)Protezione da sovracapacità (0-999,9 Ah regolabile, disattivata per impostazione predefinita)La confezione include:1 x WZ10020L 1 tester2 cavi
+
+
+
+

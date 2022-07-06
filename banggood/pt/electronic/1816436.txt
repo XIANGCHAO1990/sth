@@ -1,0 +1,447 @@
+https://pt.banggood.com/GPD-WIN-3-Ultimate-Edition-Intel-1165-G7-LPDDR4-16GB-RAM-1TB-SSD-ROM-5G-Wifi-bluetooth-5_0-Windows-10-PC-Handheld-Game-Console-Smart-Player-for-GTA-5-PUBG-COD-Devil-May-Cry5-p-1816436.html?cur_warehouse=CN&ID=6287830&rmmds=CategoryElectronicsPop
+GPD WIN 3 Ultimate Edition Intel 1165 G7 LPDDR4 16GB RAM 1TB SSD ROM 5G Wifi bluetooth 5.0 Windows 10 PC Handheld Game Console Smart Player for GTA 5 PUBG COD Devil May Cry5
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificação:
+
+
+
+
+
+Informação básica
+Sistema operacional
+Pré-instalação Windows 10 Home 64 bits
+
+
+Mostrar
+Painel de toque
+Sim
+
+
+Tela Tipo
+Corning Gorllla Glass 5 ， H — Tecnologia IPS
+
+
+Tamanho da tela
+5.5 inches
+
+
+Proporção da tela
+16:9
+
+
+Resolução da tela
+1280x720P
+
+
+Pixel por lnch
+268 PPI
+
+
+CPU
+Modelo do produto
+Intel Core TM i7-1165G7
+Intel Core TM i5-1135G7
+
+
+#of Cores / #of Threads
+4/8
+
+
+Frequência Base do Processador
+2.8GHz
+2.4Hz
+
+
+Turbo Boost
+4.70 GHz
+4.20 GHz
+
+
+Nível 2
+5MB
+
+
+Nível 3
+12MB
+8MB
+
+
+Velocidade do ônibus
+4 GT/sOPI
+
+
+Arquitetura Central
+Tiger Lake-U
+
+
+Litografia
+10nm
+
+
+TDP
+Três níveis: 15-20W, 20-25W, 25-28W, Ajustado na BIOS
+
+
+GPU
+Placa de vídeo
+Integrado Gráficos
+
+
+Gráficos do processador
+Intellris Xe Gráficos
+
+
+Frequência de base gráfica
+400MHz
+
+
+Frequência dinâmica máxima de gráficos
+1300MHz
+
+
+Unidade de Execução
+96 EUs 80 EUs
+
+
+Memória de vídeo
+Compartilhado Memória
+
+
+Resolução de imagem 4K
+Sim
+
+
+HDMI 2.0b
+4Kx2K @ 48-60Hz 24bpp (RGB / YUV444)4Kx2K048-60Hz 12bpc (YUV420)
+
+
+DP 1.4, eDP 1.4b
+eDP: 4096x2304 @ 60Hz 36bppDP: 7680x4320 @ 60Hz 24bpp
+
+
+DirectX
+DX12.1
+
+
+OpenGL
+4.6
+
+
+Armazenar
+Memória
+16GB
+
+
+Tipos de memória
+LPDDR4x-4266
+
+
+Canal Duplo de Memória
+Sim
+
+
+Disco Rígido Tipo
+M.2 SSD
+
+
+Interface de disco rígido
+Soquete 3/Tomada 2 Interface DuaI ProtocoI
+
+
+Especificações do disco rígido
+PCle3.0 / 4.0 M.2 2280, suporta apenas layouts de dispositivo de lado único
+
+
+Capacidade padrão
+1TB, Substituível, SEM Limite de Capacidade
+
+
+Especificação de ônibus
+PCIe Gen4.0 x 4 / SATA 3.0
+
+
+Protocolo de Transferência
+NVMe 1.4 / AHCI
+
+
+Suporte multimídia
+Sistema de áudio
+Construídas em Chip de som
+
+
+Alto-falantes
+Construídas em Alto-falantes duplos
+
+
+Microfone
+Construídas em microfone
+
+
+Comunicações de Rede
+Wi-fi
+Suporte 2.4G / 5G Frequência Dupla Taxa de transmissão máxima de banda, canal duplo 2402 Mbps
+
+
+MU-MIMO
+Sim
+
+
+Placa de rede com fio
+10/100/1000Mbps Placa Ethernet (integrada na base)
+
+
+Bluetooth
+5.0
+
+
+Interface de E/S
+Dados / Carregamento
+1xUSB4 (velocidade total)1xUSB3.2 Gen2 Type-C (fornecido pela base)4xUSB3.2 Gen2 Tipo-A (3 na base)
+
+
+Slot microSDXC
+Interface de barramento: UHS-IClasse de velocidade: Classe 10Classe de velocidade UHS: U3Classe de velocidade do vídeo: V30Classe de desempenho do aplicativo: A2Leitura / gravação: 170 MB / s, 90 MB / s
+
+
+Interface de vídeo
+1xUSB4 (velocidade total〕1xHDMl2.0b (fornecido pela base)
+
+
+Interface Ethernet
+1xRJ45 (fornecido pela base)
+
+
+Porta de áudio
+Interface de combinação de fone de ouvido / microfone de 1x3,5 mm,Compatível com Apple Fones de ouvido (Especificação)
+
+
+Dispositivo I / O
+Teclado
+Teclado branco com luz de fundo (oculto), teclado QWERTY Design
+
+
+Mouse
+O joystick simula um mouse, requer a mudança de modo de manopla / mouse
+
+
+Reconhecimento de impressão digital
+Sim
+
+
+Controle de video game
+ALPS Original Dual 3D Controle de video games, com suporte nativo L3/R3
+
+
+D-pad
+Teclas de seta siamesas
+
+
+Função de jogo Botões
+ABXY △ ○ X □ Impressão de caracteres duplos, selecionar, iniciar, Página inicial do controlador Xbox
+
+
+Acessórios para jogos Botões
+L1 / L2/R1/R2 (L2/R2 são o sinal analógico Botões), para Panasonic Micro Switch
+
+
+Lidar com vibração
+Motor de vibração dupla
+
+
+Outras Chaves
+Botões de volume +/-, botão liga / desliga, Gamepad / mouseBotão de comutação, 2 Físico Personalizado Botões
+
+
+Palestrante
+2Pcs
+
+
+Lâmpada indicadora
+Indicador de carga, indicador de funcionamento
+
+
+Bateria
+Bateria Tipo
+Li-polímero
+
+
+Capacidade de carga
+45,62Wh, 11,55V == Série 3950mAhx3
+
+
+Vida útil da bateria
+3 horas de uso pesado, 6 a 8 horas de uso moderado, 14 horas de uso leve, dependendo do ambiente específico de uso
+
+
+Aparência
+Peso líquido
+560g
+
+
+Comprimento
+198mm
+
+
+Largura
+92mm
+
+
+Espessura
+27mm
+
+
+Material do casco
+LG-DOW 121H Aviation ABS, UL94-VO, MagnesiumAlloy
+
+
+Cor da casca
+AII Black, Silver Black
+
+
+Térmica Design
+Resfriamento Ativo, Grande Ventilador + Tubo de Calor Duplo
+
+
+Sensor
+Sensor Hall, sensor G
+
+Recursos:CPU: Intel 1165 G7 processador Tiger Lake-U de 11ª geração, 4 núcleos e 8 threadsGPU: Intel Tela de núcleo gráfico Iris® Xe de 12ª geração, o desempenho geral é mais forte do que MX350RAM: 16GB LPDDR4x 4266, até 86 GB / S de largura de banda de memóriaROM: SSD de 1 TB M.2 NVMe 2280, suporte PCIe Gen4 SSDSistema Operacional: Windows 10Bluetooth: bluetooth 5.0Wi-fi: IEEE 802.11 a / b / n / ac / ax, 2,4 G 5 G wi-fiTela: tela solar de 5,5 polegadas, NTSC 84%, 400nit, 268 PPI, resolução de 1280x720Design de slide da tela, teclado de toque, com prompt de vibração, luz de fundo branca do tecladoGrande turbo ventilador + tubos de calor duplos, dissipação de calor inteligente de alta velocidadeALPS dual 3D big rocker, botão de gatilho analógico linear, suporte nativo para pressionar para baixo para atingir a função L3/R3Jogos de suporte: GTA 5, The Witcher 3: Wild Hunt, Devil May Cry5, Sekiro: Shadows Die Twice, PUBG, CODIncluído no Pacote:1 x GPD WIN 3 Consola de jogos Ultimate Edition1 adaptador de alimentação de 65W1 x manual do usuário
+
+
+
+

@@ -1,0 +1,215 @@
+https://pt.banggood.com/DC12V-or-AC110V-220V-Digital-Display-Time-Relay-Automation-Delay-Timer-Control-Switch-Relay-Module-p-1416341.html?cur_warehouse=CN&ID=515547&rmmds=CategoryElectronicsPop
+DC12V / AC110V-220V Digital Display Time Relay Automation Delay Timer Control Switch Relay Module
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificações:
+
+
+
+Faixa de tempo: 0-999s 0-999m 0-999h
+
+Tensão de alimentação: DC12V /AC110V-220V
+
+Relé: 20A
+
+Corrente de trabalho: 10A (máximo)
+
+Potência: 500W (máximo)
+
+Tamanho: 79*26*43mm
+
+Tamanho do furo: 72*40mm
+
+
+
+Instruções:
+
+
+
+Por favor, preste atenção para o seu primeiro uso. Você precisa esperar 6s após os dados de configuração, o módulo salvará a data que você definiu após 6s.  
+
+Pressione rapidamente o botão SET: Se você iniciar o modo de ajuste de tempo, o tubo Nixie piscará. Você pode ajustar o tempo T1 e T2 pelo botão + e botão-. Aguarde 5s após a data de configuração, o módulo salvará a data que você definiu após 5s.
+
+
+
+Pressione e segure o botão SET: se você iniciar o modo de configuração de parâmetros. Existem dois parâmetros de grupo para sua escolha: P0 e P1. Você pode alternar P0 ou P1 pressionando SET rapidamente. Sob o parâmetro P0 e P1, você pode definir o modo de tempo pelo botão + e botão-.
+
+
+
+P0--0: Modo de temporização: 0---999s.
+
+P0--1: Modo de temporização: 0---999min.
+
+P0--2: Modo de temporização: 0---999h.
+
+P1--0: O relé se conectará após você atrasar o tempo T1.
+
+P1--1: O relé será desconectado após você atrasar o tempo T1.
+
+P1--2: O relé se conectará depois que você atrasar o tempo T1 primeiro, então o relé será desconectado depois que você atrasar o tempo T2, ele terminará.
+
+P1--3: O relé será desconectado depois que você atrasar o tempo T1 primeiro, então o relé será conectado depois que você atrasar o tempo T2, ele terminará.
+
+P1--4: O relé se conectará depois que você atrasar o tempo T1 primeiro, então o relé será desconectado depois que você atrasar o tempo T2, é cíclico.
+
+P1--5: O relé será desconectado depois que você atrasar o tempo T1 primeiro, então o relé será conectado depois que você atrasar o tempo T2, é cíclico.
+
+Exemplo: Um cliente precisa de 10 segundos para iniciar e 20 segundos para desligar. A configuração é a seguinte:
+
+T1 definir o tempo 10, T2 definir o tempo 20
+
+P0 -- 0 (o intervalo de tempo T1 é segundos)
+
+P1--5 (modo de trabalho do temporizador)
+
+
+Incluído no Pacote:
+
+
+
+1 x relé de tempo de exibição digital
+
+
+
+
+
+
+
+
+
+

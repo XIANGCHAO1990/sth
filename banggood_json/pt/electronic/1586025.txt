@@ -1,0 +1,187 @@
+1586025
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/87/10/3fd12135-09f8-4177-bb6c-d0ae78e1461e.jpg
+5pcs JoyStick Module Shield 2.54mm 5 pinos Biaxial Botões Rocker para PS2 Joystick Game Controller Sensor Geekcreit para Arduino - produtos que funcionam com placas oficiais Arduino
+https://pt.banggood.com/5pcs-JoyStick-Module-Shield-2_54mm-5-pin-Biaxial-Buttons-Rocker-for-PS2-Joystick-Game-Controller-Sensor-p-1586025.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Característica:
+
+
+
+joystick joysticks módulo de interface padrão blocos de construção eletrônicos e cabos de interface de pinos de 2,54 mm.
+
+Phillips é um resistor de rocker bidirecional de 10K, com o joystick em uma direção diferente, toque na variação da resistência. Este módulo utiliza uma fonte 5V, a tensão de leitura X, Y do estado original de 2.5V ou mais, quando pressionada com a direção da seta, os valores de tensão de leitura aumentam até 5V; pressione a seta na direção oposta, a redução da tensão de leitura, no mínimo 0V.
+
+
+
+Especificação:
+
+
+
+Peso líquido: 11g
+
+Peso: 21g
+
+Cor preta
+
+Tamanho: 34,5 * 26 * 38mm
+
+
+
+Incluído no Pacote:
+
+
+
+5 x Módulo JoyStick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

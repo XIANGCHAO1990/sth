@@ -1,0 +1,263 @@
+https://ar.banggood.com/FY3224S-(FY3200S-24M)-24MHz-Dual-channel-Arbitrary-Waveform-DDS-Function-Signal-Generator-Sine-Square-Wave-Sweep-Counter-p-1157268.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+FY3224S (FY3200S-24M) 24 ميجا هرتز شكل موجة تعسفي ثنائي القناة DDS وظيفة مولد إشارة جيبي مربع موجة الاجتياح
+
+
+
+
+
+
+
+التوافق
+للتأكد من أن هذا الجزء يناسب سيارتك ، يرجى إدخال تفاصيل سيارتك أدناه.
+
+
+
+
+
+عام:
+
+
+اختار
+
+
+
+
+
+
+
+
+إنتاج:
+
+
+اختار
+
+
+
+
+
+
+
+
+موديل:
+
+
+اختار
+
+
+
+
+
+
+
+
+موديل فرعي:
+
+
+اختار
+
+
+
+
+
+
+
+
+تقليم:
+
+
+اختار
+
+
+
+
+
+
+
+
+محرك:
+
+
+اختار
+
+
+
+
+
+
+
+
+مسح الكل
+
+
+
+
+هذا الجزء متوافق مع 0 مركبة.
+عرض جميع السيارات المتوافقة
+
+
+
+
+  هذا الجزء متوافق مع 1 مركبة مطابقة 
+ هذا الجزء غير متوافق مع
+
+
+
+عمليات البحث الأخيرة
+
+
+
+
+
+
+
+
+
+
+
+عام
+إنتاج
+موديل
+موديل فرعي
+تقليم
+محرك
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+وصف:
+
+
+
+FY3224S 24 ميجا هرتز شكل موجة تعسفي ثنائي القناة DDS وظيفة مولد إشارة جيبي مربع موجة الاجتياح
+
+
+
+الحديدatures: 
+
+
+
+	إشارة الإخراج تردد دقة عالية واستقرار جيد.
+	سعة الإشارة تصل إلى 20Vpp.
+	يمكن للأداة أن تدرك برنامج ضبط معلمات الوظيفة ، سهلة الاستخدام.
+	مرافقة تردد متر ، وظيفة عداد ، تكلفة عالية.
+	يمكن للأداة مخرج جيب ، مربع ، مثلث ، منحدر ، نبضة ، سلم ، تيار منتظم شكل موجة الجهد.
+	يمكن ضبط دقة عرض نبض موجة النبض.
+
+
+
+وظيفة:
+
+	1. Using DDS direct digital synthesis technology to generate precise, stable, low distortion output signal.
+	2. CH1 و CH2 قناتان متماثلتان تمامًا ، كل قناة يمكن ضبط المعلمات بشكل مستقل.
+	3. Supports user-defined waveforms, each arbitrary waveform memory depth 2048 x 12bits, 250MSa / s sampling rate.
+	4. له خرج انفجر ، مشغل يدوي قابل للتحديد ، زناد داخلي وخارجي CH2 زناد بثلاثة أوضاع تسمح للوحدة بأي إخراج 1-1048575 رشقات نارية.
+	5. Measurement functions: instrument comes with 100MHz frequency counter functions and pulse counter functions.
+	6. مولد الموجي يصل عرضه إلى 12 بت ، شكل الموجة مخرج أكثر حساسية ، يتم تقليل تشوه شكل الموجة من حيث الحجم.
+	7. With full CNC functions, display and digital adjustment phase current amplitude of the output signal, offset, frequency, duty cycle, and the two signals.
+	8. بعد توصيل الجهاز بالكمبيوتر ، يمكنك استخدام الكمبيوتر من خلال وظائف ومعلمات مولد إشارة التحكم الكمبيوتر ، ويمكن تحريرها على الكمبيوتر لتنزيل شكل موجة تعسفي مخرج إلى الجهاز.
+
+	9. الاتصالات: الاتصال التسلسلي ، بروتوكول مفتوح بالكامل ، تطوير ثانوي سهل الاستخدام.
+	10. High frequency accuracy: frequency accuracy up to 10-6 magnitude.
+	11. دقة عالية تردد: النطاق الكامل للقرار تردد 10 ميجا هرتز.
+	12. Tracking function: built-in frequency, amplitude, offset, duty cycle, waveform and other parameters follow function, easy to use.
+	13. ميزات المسح: يمكن تعيين وظيفة المسح الخطي تردد ووظيفة المسح اللوغاريتمي ونقاط البداية والنهاية للمسح.
+	14. Storage feature: You can store 20 groups instrument state parameters set by the user, can be called up to Reproduce
+	15. العملية: مفتاح التشغيل ، شاشة LCD LCD1602 باللغة الإنجليزية ، معلمات الإعداد الرقمي المباشر أو مقبض التعديل المستمر.
+	16. Input voltage protection: extended power input range AC85V to AC240V wide voltage.
+	17. حماية ماس كهربائى الإخراج: جميع مخرجات الإشارة يمكن أن تعمل في أكثر من تحميل دائرة قصر 60S.
+
+
+
+
+
+
+
+
+
+
+المعايير الفنية:
+	مزود طاقة بتبديل مدمج: AC85V-AC260V
+	Interface: USB
+
+خرج الإشارة:
+	سعة الإخراج: ≥≥20Vp-p (بدون تحميل)
+	Output Impedance: 50Ω ± 10%
+	استقطاب التيار المستمر: ± 10 فولت
+	Frequency range: 0Hz - 24MHz (orther  0Hz - 6MHz)
+
+عداد:
+	نطاق العد: 0-4294967295             
+	Measurement frequency range: 1Hz - 100MHz
+	سعة الإدخال: 1Vp-p - 20Vp-p
+
+وظيفة المسح:
+	وضع المسح: المسح الخطي ، المسح اللوغاريتمي
+	Frequency Range: Start and end points set arbitrary
+	نطاق مسح التردد: M1 - M2 تردد محدد سلفا
+	Scan rate: 1s ~ 999s / step
+
+آخر:
+	وظائف التخزين والنقل: M0 - M9 (M0: افتراضي)
+	Size: 200mm (L) × 190mm(W) × 90mm(H)
+	وظيفة Beeper: لضبط الفتح أو الإغلاق بواسطة البرنامج
+	Operating characteristics: All key operation, continuous adjustment knob
+	الظروف البيئية: درجة الحرارة 0-40 الرطوبة <80٪
+
+>>> CLICK هنا لتنزيل جميع الملفات الموجودة على القرص المضغوط <<<
+	>>>CLICK here to download the user manual<<<
+
+
+
+الشحنة تحتوي: 
+
+
+
+1 x FY3224S 24 ميجا هرتز ثنائي القناة DDS وظيفة مولد إشارة
+
+1 x 1M كابل الطاقة
+1 × 1.25 متر USB كابل
+2 كبلات 1.1M Q9
+ملاحظة: إنه نوع قابس US ， سيرسل محول قابس وفقًا لبلدك.
+
+تفاصيل الصور: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

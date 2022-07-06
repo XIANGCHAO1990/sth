@@ -1,0 +1,143 @@
+https://fr.banggood.com/DC-12V-4-20mA-0-5V-0-10V-Voltage-Signal-Acquisition-RS485-Modbus-RTU-Module-for-PLC-Current-Transmitter-Measuring-Instruments-p-1757512.html?cur_warehouse=FR&rmmds=CategoryElectronicsPop
+DC 12 V 4-20mA 0-5 V 0-10 V Acquisition de Signal de tension RS485 Module Modbus RTU pour Instruments de mesure d&#39;émetteur de courant PLC
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manuel : Cliquez ici pour ouvrir<<<La description:  1: tension de fonctionnement: DC 8-25V (DC 9V 12V 15V 24V)2: courant de fonctionnement: 10-14MA 3: MODBUS Support de commande RTU 03 06 code de fonction4: La plage de mesure de tension de canal V1 (CH1) est de 0-5 V, la plage de mesure de tension de canal V2 (CH2) est de 0-10 V, la plage de mesure de courant de canal C1/C2 (CH3/4) est 0-20MA / 4-20MA5: la résolution de tension est de 0,01 V, la précision de mesure est de 1%; la résolution actuelle est de 0,1 MA, la précision de la mesure est de 1%; si l'erreur est supérieure à 1%, elle peut être calibrée 6: Les commandes MODBUS peuvent être effectuées en série HyperTerminal (assistant série) OU Entrée API;7: sous le mode de commande MODBUS, il peut prendre en charge jusqu'à 247 appareils en parallèle8: taille: 45 * 30 * 15mm9: poids: 11 g Application: Capteur 4-20MA / 0-20MAAcquisition analogique de tension / courantPLC industriel automatiséMaison intelligente, domotique ;Système d'identification ;Surveillance à distance RS485;Voltmètre multimètreInstruments de mesure électroniquesForfait inclus :1 x N4AIA04 9V 12V 24V 4 canaux tension / courant d'acquisition analogique module RS485
+
+
+
+

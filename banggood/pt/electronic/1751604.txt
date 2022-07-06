@@ -1,0 +1,143 @@
+https://pt.banggood.com/AOQDQDQD-ESP8266-Weather-Station-Kit-with-Temperature-Humidity-Atmosphetic-Pressure-Light-Sensor-0_96-Display-for-Arduino-IDE-IoT-Starter-p-1751604.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+AOQDQDQD® ESP8266 Weather Station Kit with Temperature Humidity Atmosphetic Pressure Light Sensor 0.96 Display for Arduino IDE IoT Starter
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>> Manual: Clique aqui para abrir <<<Observação: Para o kit DIY, o usuário precisa ter conhecimentos básicos de eletrônica, por favor, verifique o manual antes de comprar para ter certeza de que ele pode ser usado. Por favor, compre com cuidado para evitar disputas desnecessárias. Obrigado.Descrição:A estação meteorológica usa o ESP8266-12E para obter dados da Internet: hora de uma cidade, dados meteorológicos e informações de previsão para os próximos 3 dias, rolando no visor OLED SSD1306; o dispositivo pode alternar para exibir dados de qualquer cidade do mundo - talvez seus parentes ou amigos vivam láO dispositivo usa sensores DHT11, BMP180, BH1750FVI para coletar dados de temperatura, umidade, pressão atmosférica e luz. A estação meteorológica lê dados internos via sensor a cada 5 segundos e os carrega na Internet a cada 60 segundos. Você pode ver gráficos de dados em tempo real de seu telefone ou computador. Claro, você pode modificar o código para implementar funções diferentesESP8266: chip CP2102 interno, Micro USB, flash de 4 MB, porta de E / S completa e 802.11 sem fio compatível com plataforma IOT.Sensor DHT11: Uma saída de sinal digital com um sensor combinado de temperatura e umidade calibrado. O protocolo de comunicação simples reduz muito o esforço de programação necessárioBMP180: sensor de pressão 3μA de alta precisão, tamanho pequeno e potência ultrabaixa. Sua excelência de desempenho, a precisão absoluta do mais baixo pode chegar a 0,03hPa. Pode ser diretamente através do barramento I2C conectado a uma variedade de microprocessadores. Faixa de pressão: 300 ~ 1100hPa.BH1750FVI: Sensor digital de intensidade de luz. Saída digital direta, cálculo complexo é omitido, omitindo calibração.Display OLED amarelo azul: 0,96 "SSD1306 128X64 amarelo e azul OLED LCD Display com I2C IIC SPI Serial Resultado:1) Obtenha dados meteorológicos do OpenWeathermap em intervalos regulares, mostrando o clima de hoje e a previsão do tempo para os próximos 3 dias em qualquer cidade do mundo2) Leia a temperatura atual e os dados de umidade internos em intervalos regulares3) Leitura regular da pressão atmosférica, dados de intensidade de luz4) Faça upload de dados de temperatura, umidade, pressão atmosférica e intensidade de iluminação para thingspeak.com em intervalos regulares5) Visualize a previsão do tempo no display OLED e visualize o gráfico de monitoramento ambiental em thingspeak.comEtapa de orientação:Visão geral: Este manual descreve como fazer uma estação meteorológica em miniatura por IDEEtapa 1: instalar USB-para-serialEtapa 2: instalar IDE para ESP8266Etapa 3: Gravar Firmware em ESP8266Etapa 4: conectando componentesEtapa 5: registrar OpenWeathermap, thingspeak nova contaEtapa 6: importe o código do WeatherStation no IDEEtapa 7: Adicionar BibliotecaEtapa 8: modificar o arquivo WeatherStation.inoEtapa 9: definir a placa e a porta novamenteEtapa 10: Grave o código em ESP8266Etapa 11: ResultadoIncluído no Pacote:1 x ESP8266-12E1 x DHT111 x BMP1801 x BH1750FVI1 x display OLED1 x cabo USB2 x tábua de pão20 x cabo Dupont
+
+
+
+

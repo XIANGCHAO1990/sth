@@ -1,0 +1,289 @@
+1326823
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/F4/AF/fb1bf50c-fad0-415a-9475-ff0a2080994c.JPG
+433Mhz DC12V 1CH Wireless Controle Remoto Switch Relay Receiver Module + 2 Transmissor RF
+https://pt.banggood.com/433Mhz-DC12V-1CH-Wireless-Remote-Control-Switch-Relay-Receiver-Module-+-2-RF-Transmitter-p-1326823.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTA: 
+
+
+
+O sistema pode armazenar 15 unidades de controles remotos; se o controle remoto receber mais de 15 unidades, o controle remoto inicial será perdido.
+
+
+Recurso:
+
+
+Tipo de fiação: terminal fixo
+
+Corrente de espera: <5MA
+
+Potência de entrada: DC10V-14V
+
+Frequência RF: 433Mhz
+
+Sensibilidade de recepção:> 97dbm
+
+Terminal de saída: NO, NC, COM
+
+Modo de trabalho RF: Superheterodyne
+
+Modo de decodificação: decodificação de software MCU
+
+Distância de transmissão:> 100m (espaço aberto)
+
+Tipo de suporte remoto: código de aprendizagem, código fixo (código rotativo pode ser projetado)
+
+Modo de trabalho: Momentâneo, Alternar, retardo de tempo de travamento (5s, 10s, 15s)
+
+
+
+Sobre o modo de trabalho:
+
+
+
+- Momentâneo: Pressione o botão remoto, o relé se conecta, solte o botão remoto, o relé se desconecta.
+
+- Alternar: Pressione uma vez o botão remoto, o relé se conecta, pressione duas vezes o botão remoto, o relé se desconecta.
+
+- Travamento: Pressione o botão remoto A, o relé se conecta, pressione o botão remoto B, o relé se desconecta.
+
+- Modo de atraso de tempo: Pressione o botão de controle remoto, o relé se conecta, ao soltar o botão remoto, após 5s ou 10s ou 15s, o relé se desconecta automaticamente.
+
+
+
+Limpando o código:
+
+
+
+Aperte o botão de aprendizagem nos receptores 8 vezes, os códigos serão limpos.
+
+Depois de limpar o código, todo o controle remoto não funcionará mais.
+
+
+
+1. Aprendendo o código: (momentâneo)
+
+Empurre a tecla de aprendizagem no receptor uma vez, ele entra no modo de configuração momentânea.
+
+Aguarde um momento, o LED estará desligado, entrando em estado de aprendizagem.
+
+Pressione o botão remoto, o indicador LED na placa do receptor piscará e se apagará.
+
+Após 3 segundos, o indicador LED acenderá novamente, aprendendo com sucesso.
+
+
+
+2. Aprendendo o código: (Alternar)
+
+Pressione a tecla de aprendizagem no receptor duas vezes, ele entra no modo de configuração de alternância
+
+Aguarde um momento, o LED estará desligado, entrando em estado de aprendizagem.
+
+Pressione o botão remoto, o indicador LED na placa do receptor piscará e se apagará.
+
+Após 3 segundos, o indicador LED acenderá novamente, aprendendo com sucesso.
+
+
+
+3. Aprendendo o código: (Travamento)
+
+Nota: Quando você escolhe o modo de travamento, a fim de aprender mais sobre o controle remoto, você precisa aprender dois botões diferentes, o primeiro tempo aprendido é para "LIGADO", o segundo tempo aprendido para "DESLIGADO".
+
+Por exemplo: botão A = LIGADO, botão B = DESLIGADO
+
+Aperte a tecla de aprendizagem no receptor três vezes e ele entra no modo de travamento.
+
+Aguarde um momento, o indicador LED na placa receptora piscará e se apagará.
+
+Pressione o botão remoto A.
+
+Flash LED por 5 vezes.
+
+Pressione o botão remoto B.
+
+Flash LED por 5 vezes.
+
+Após 3 segundos, o indicador LED acenderá novamente, aprendendo com sucesso.
+
+A = LIGADO, B = DESLIGADO.
+
+
+
+Incluído no Pacote:
+
+
+
+2 x Controle Remoto transmissores (incluindo bateria)
+
+1 x remoto Módulo receptor (incluindo Shell)
+
+
+
+Notas:
+
+
+
+1. Medição manual, permita um erro de 1 ~ 3 mm, obrigado.
+
+2. Devido à diferença entre monitores diferentes, a imagem pode não refletir a cor real do item. Garantimos que o estilo é o mesmo mostrado na imagem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

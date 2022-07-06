@@ -1,0 +1,201 @@
+80365
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/3E/69/28ad157c-29f6-4337-be6e-3e01b592512a.JPG
+IIC I2C TWI SP Serielles Schnittstellenmodul Anschluss für 5V Arduino 1602LCD
+https://de.banggood.com/IIC-I2C-TWI-SP-Serial-Interface-Port-Module-5V-1602-LCD-Adapter-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-80365.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IIC / I2C / TWI / SP I  Serielles Schnittstellenmodul Anschluss für Arduino 1602LCD Display Ist ab sofort bei unseren US Und Lager UK
+
+Freies Verschiffen nach USA Und Großbritannien in 3-6 Arbeitstage
+Schiff nach Kanada, Brasilien in 7-10 Tagen im US Lager
+Schiff in die europäischen Länder in 7-10 Tage für Lager UK
+
+
+IIC / I2C / TWI / SP  Serielles Schnittstellenmodul Anschluss für 5V Arduino 1602LCD Anzeige
+
+Beschreibung:
+
+Dies ist ein weiterer großer IIC / I2C / TWI / SPI Serial Interface.Da die Pin Ressourcen der Arduino Controller begrenzt ist, können Sie Ihr Projekt nicht in der Lage, normale LCD Schild nach mit einer bestimmten Menge von Sensoren oder SD Karte verbUnden zu verwenden.Doch mit diesem I2C Schnittstellenmodul, werden Sie in der Lage, Datenanzeige über nur 2 Adern zu realisieren.Wenn Sie bereits über I2C Geräte in Ihrem Projekt, diese LCD Modul tatsächlich kostet nicht mehr Ressourcen überhaupt.Es ist fantastisch für Arduino basierte Projekt.
+I2C Adresse: 0x20 ~ 0x27 (die ursprüngliche Adresse ist 0x20, können Sie es ändern sich)
+Die HintergrUndbeleuchtung Und der Kontrast wird durch Potentiometer eingestellt
+Kommen Sie mit 2 IIC Schnittstelle, die von Dupont Linie oder IIC angeschlossen werden können gewidmet Kabel
+I2C Adresse: 0x27 (I2C Adresse: 0x20 ~ 0x27 (die ursprüngliche Adresse ist 0x27, können Sie es selbst ändern)
+
+Spezifikation:
+
+Kompatibel für 1602 LCD
+Versorgungsspannung: 5V
+Gewicht: 5g
+Größe: 5.5x2.3x1.4cm
+
+Lieferinhalt:
+
+1 x IIC / I2C / TWI / SPI serielles Schnittstellenmodul Anschluss
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

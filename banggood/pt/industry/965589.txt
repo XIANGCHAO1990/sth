@@ -1,0 +1,205 @@
+https://pt.banggood.com/Excellway-REX-C100-110-240V-1300-Degree-Digital-PID-Temperature-Controller-Kit-with-400-Degree-Probe-p-965589.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+Excellway® REX-C100 110-240V 1300 Degree Digital PID Temperature Controller Kit with 400 Degree Probe
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recursos :
+
+Controlador de Temperatura REX-C100
+
+	Precisão de medição: ±0,5%FS
+	Tolerância de compensação de ponta fria: ±2℃ pode ser modificado por software em 0~50℃
+	Resolução: 14 bits
+	Ciclo de amostragem: 0,5 s
+	Potência: CA 110-240V 50/60HZ
+	Valor de processo (PV), valor de configuração (SV)
+	Saída, alarme e auto-ajuste podem ser indicados por: LED
+	Controle de PIN (incluindo ON/OFF, PID tipo degrau e PID contínuo)
+	Controle de auto-ajuste
+	Saída de relé: capacidade de contato 250V AC 3A (carga resistiva)
+	Saída da função de alarme: 2 vias
+	Bea proporcional (P): 0 ~ faixa completa (controle ON/OFF queo definido como 0)
+	Faixa de temperatura do detector: 0 a 1300℃
+	Resistência de isolamento: >50M ohm (500V DC)
+	Resistência de isolamento: 1500V AC/min
+	Resistência de isolamento: Consumo de energia < 10 VA
+	Ambiente de serviço: 0~50℃
+	Ambiente sem gás corrosivo 30~85% RH
+
+K Cabo da Sonda do Termopar
+
+	Comprimento: 1M
+	Diâmetro do sensor: 4,5 mm
+	Temperatura variou: 0 a 400℃
+	Isolamento interno: Fibra de vidro
+	Blindagem Externa: Blindagem Isolada
+
+	Max.40A SSR
+
+	Faixa de tensão de saída: Padrão Tipo
+	Corrente de saída: 40A
+	Tensão de entrada: DC 3-32V
+	Tensão de saída: 24-380V AC
+
+Incluído no Pacote : 
+
+	1 x REX-C100 Controlador de Temperatura PID
+	1 x K Tipo Sonda Sensor
+	1 x Max.40A SSR
+
+	Mais produtos :
+	Agora criamos um SKU108327 que é 220V, 0 ~ 400℃.
+	e  SKU188430 isso é 110-240V, 0 ~ 400℃.
+
+Detalhes fotos:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

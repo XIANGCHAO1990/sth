@@ -1,0 +1,145 @@
+1851461
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/16/38/0034d79b-22c9-4e98-b0d0-7c3c11a61e2e.jpg
+10 pièces Mini Module de lecteur MP3 carte TF U disque Mini lecteur MP3 carte de Module de voix Audio pour DFPlayer
+https://fr.banggood.com/10PCS-Mini-MP3-Player-Module-TF-Card-U-Disk-Mini-MP3-Player-Audio-Voice-Module-Board-For-DFPlayer-p-1851461.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:DFPlayer Mini est un module MP3 compact et peu coûteux pouvant être connecté directement à l'enceinte. Le module avec alimentation par batterie, haut-parleur, clavier peut être utilisé seul ou via le contrôle du port série, comme pour ArduinoUNO ou tout microcontrôleur avec un module de port série. Le module lui-même parfaitement intégré décode le matériel MP3, WAV, WMA. Alors que le logiciel prend en charge le pilote de carte TF pour prendre en charge le système de fichiers FAT16, FAT32. Peut être fait par une simple commande série joue la musique spécifiée, ainsi que la façon de jouer de la musique et d'autres fonctions, sans ennuyeux bas niveau, facile à utiliser, stable et fiable.Spécifications techniques:1. Prend en charge les taux d'échantillonnage (KHz): 8/11,025/12/16/22,05/24/32/44.1/482. Sortie DAC 24 bits, prise en charge de la plage dynamique: 90dB, prise en charge du SNR: 85dB3. Prend entièrement en charge FAT16, système de fichiers FAT32, prise en charge maximale de la carte TF 32G, prise en charge du disque U à 32G, 64M octets de NORFLASH4. Une variété de modes de contrôle sont disponibles. Mode de contrôle IO, mode série, mode de contrôle de clé AD5. La fonction de spots de langue de diffusion, vous pouvez arrêter la lecture de la musique de fond. La publicité a terminé la lecture du son de fond pour continuer à jouer6. Les données audio sont triées par dossier, prend en charge jusqu'à 100 dossiers, les dossiers peuvent attribuer toutes les 255 pistes7. Volume réglable à 30 niveaux, égaliseur réglable 6Application:1. Diffusion vocale de navigation automobile2. Inspecteurs du transport routier, messages vocaux de péage3. La gare, la voix de la gare routière invite le contrôle de sécurité4. Énergie électrique, télécommunications, invites vocales de la salle d'opération financière5. Le véhicule entre ou sort du canal pour vérifier les invites vocales6. Messages vocaux du canal de contrôle des frontières **7. Alarme vocale multicanal ou fonctionnement de l'équipement de guidage vocal8. Sécurité des bus touristiques électriques avec avis vocaux9. Alarme de panne d'équipement électrique et mécanique10. Invites vocales d'alarme incendie11. Matériel de diffusion automatique, diffusion régulièreEmballage inclus:10 x module de voix audio de lecteur MP3 U Disk Mini carte TF(l'UNOR3 et le haut-parleur ne sont pas inclus)
+
+
+
+

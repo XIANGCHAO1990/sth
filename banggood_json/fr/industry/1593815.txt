@@ -1,0 +1,330 @@
+1593815
+https://imgaz.staticbg.com/thumb/large/oaupload/ser1/banggood/images/89/A6/c88f1e74-60f4-4ea8-9caa-409818ca36cf.png
+YIHAOGD YH LCD 2/3 Axes Grille CNC Fraisage Lecture Numérique Affichage DRO / KA300 5μm TTL 70-970mm Échelle Linéaire Électronique Encodeurs Outil De Tour
+https://fr.banggood.com/YIHAOGD-YH-LCD-2-or-3-Axis-Grating-CNC-Milling-Digital-Readout-Display-DRO-or-KA300-5m-TTL-70-970mm-Electronic-Linear-Scale-Encoders-Lathe-Tool-p-1593815.html?cur_warehouse=CN&ID=6281034&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:
+YIHAOGD YH LCD 2/3 axes grille CNC fraisage lecture numérique affichage DRO/KA300 TTL 70-970mm électronique linéaire échelle encodeurs outil de tour
+	La lecture numérique YIHAOGD YH LCD peut correspondre à tous les types d'échelles linéaires YIHAOGD, à la fois de type KA300 et YE.
+	Grand écran LCD, meilleur affichage que le tube numérique, pratique et pratique.
+
+
+Spécification:
+
+	Grand paramètre du système d'affichage à lecture numérique Dro LCD :
+
+
+		Modèle : 2 axes/3 axes
+		Plage de tension : CA 100 V ~ 240 V/50 HZ ~ 60 HZ.
+
+		Signal acceptable d'affichage de lecture numérique : TTL
+
+		Fiche : DB9
+
+		Résolution acceptable : 10 μm, 5 μm, 2 μm, 1 μm, 0,5 μm.
+
+Taille:La longueur optionnelle mesure la longueur effectiveLongueur totale = mesure de la longueur effective + 106 mm
+
+
+
+			Fonctions du système d'affichage de lecture numérique Dro:
+
+
+				1 : Zéro compensation
+
+				2 : Réinitialiser
+
+				3 : mode mm/pouce
+
+				4 : Conversion des coordonnées ABS/INC
+
+				5: 200 ensembles de sous-données
+
+				6 : éteignez la mémoire ;
+
+				7 : Centre de 1/2
+
+				8 :Compensation d'erreur de revêtement
+
+				9 : Mode veille
+
+				10 : Effacer 200 ensembles de données Sdm ;
+
+				11 : Mode ABS/INC
+
+				12 :Calculatrice
+
+				13 : Perçage de la circonférence
+
+				14 : Perçage de la ligne oblique
+
+				15 : Usinage de plan incliné
+
+				16 : Usinage de l'arc de cercle
+
+				17 : Fonction de tour (match)
+
+				18 : traitement progressif de la lumière rectangulaire
+
+				19 : Filtrage numérique
+
+				20 : Filtrage des vibrations
+
+				21 : fonction tour
+
+				KA300 5U TTL échelles linéaires/codeur linéaire/capteur linéaire/paramètres de règle linéaire
+
+
+
+		1. Longueur de voyage (de mesure): 0-970mm
+
+		2. Longueur totale (hors tout) : Longueur de déplacement + 106 mm (0-1076 mm)
+
+		3. Prise : DB9
+
+		4. Résolution : 0,005 mm (5 μ)
+
+		5. Tension d'entrée : 5V
+
+		6. Pas de grille : 0,02 mm (50LP/min)
+		7. Longueur du câble : 3 mètres
+		8. Classe de protection : IP54
+		9.Signal : TTL
+
+		Le Signal de la règle optique linéaire 5μ/des échelles de verre linéaires/de l'encodeur linéaire/du capteur linéaire
+		Broche 2 Noir 0V
+		Broche 6 Vert A
+		Broche 7 Rouge 5V
+		Broche 8 Blanc B
+		Broche 9 Orange Z
+Caractéristiques:
+Pourquoi acheter des systèmes de lecture numérique YH LCD ?
+	Grand écran LCD
+
+		1. Les systèmes augmentent la productivité, permettent de gagner du temps et offrent une plus grande précision en traduisant les valeurs mesurées par les encodeurs linéaires, les jauges de longueur, les encodeurs rotatifs ou les encodeurs angulaires dans un format facile à lire.
+
+		2.Ils peuvent être installés sur de nouveaux équipements ou modernisés sur des machines déjà en fonctionnement.
+
+		3. Les systèmes fonctionnent avec n'importe quelle machine où les glissières d'axe sont traversées manuellement.
+
+		4. L'interface de données permet un traitement supplémentaire ou des impressions des valeurs mesurées (la plupart des modèles).
+
+
+
+		Pourquoi acheter des encodeurs linéaires 5u KA300? (Conception étanche à la poussière, IP54, roulement de haute qualité, fiable et durable)
+
+		1. Éliminez les erreurs de position de la machine-outil causées par la dilatation thermique, la déformation de la mécanique d'entraînement, les problèmes de pas et plus encore.
+
+		2. Stabilité de vitesse élevée à long terme.
+
+		3. Construction robuste et haute résistance aux vibrations.
+
+		4. Les périodes de signal plus fines offrent la plus grande précision d'interpolation.
+
+		5.Compact, léger et facile à installer.
+
+		6.Durable et fiable—fonctionne correctement même après de nombreuses années de fonctionnement.
+		7. Conceptions linéaires scellées ou fermées disponibles.
+
+
+
+
+
+
+Emballage inclus : (facultatif)
+
+
+				Contenu de l'emballage de lecture numérique LCD 3 axes :
+
+				1 lecture numérique x 3 axes
+				1 pièces x câble d'alimentation (nous vous enverrons un adaptateur de prise supplémentaire en fonction de votre pays)
+				1 ensemble x support et accessoires
+				1 pièces x manuel
+
+
+
+				Contenu de l'emballage de lecture numérique LCD 2 axes :
+
+				Lecture numérique 1 pièces x 2 axes
+				1 pièces x câble d'alimentation(Nous vous enverrons un adaptateur de prise supplémentaire en fonction de votre pays)
+				1 ensemble x support et accessoires
+				1 pièces x manuel
+
+
+
+				Échelle linéaire Emballage inclus : (longueur facultative)
+
+				1 pièces x Sacle linéaire
+				1 plaque x L
+				1 pièces x support
+				1 pièces x sac de vis
+
+Noter:Veuillez noter que la lecture numérique et l'échelle linéaire sont facultatives. Le forfait comprenait un seul type.Vous pouvez cliquer ici pour consulter le manuel.
+
+
+Plus de détails:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

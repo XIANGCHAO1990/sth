@@ -1,0 +1,145 @@
+1922977
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/B3/9E/0b33f9a3-6287-47d7-af93-871b0da516c2.jpg
+SDR Versione semplificata RSP1 Software Defined Radio ricevitore Aviazione non RTL ricevitore
+https://it.banggood.com/SDR-Simplified-Version-RSP1-Software-Defined-Radio-Receiver-Non-RTL-Aviation-Receiver-p-1922977.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristica:Ricevitore radio definito dal software SDR RSP1 Ricevitore radio definito dal software SDR Ham msi2500 schema msi001, circuito SDRplay RSP1 semplificato, l'interfaccia è l'interfaccia USB Type-C (interfaccia per telefono cellulare Android), scheda a doppio strato, utilizzando la tecnologia patch SMT, 5 Le interfacce dell'antenna corrispondono a diverse bande di frequenza e sono testati in anticipo.Peso del prodotto: 20 grammiDimensioni del prodotto: 88*48 MM1. Intervallo di frequenza effettiva da 10 KHz a 1 GHz, risoluzione ADC 12 bit, larghezza di banda visiva in tempo reale completa di 10 M (può monitorare un'ampia gamma di segnali di 10 M in tempo reale, come 430-440 MHz)2. Modulazione di frequenza FM, modulazione di ampiezza AM, banda laterale singola SSB, telegrafo di uguale ampiezza CW, controllo ATC, modulazione di zona, bande di frequenza aeronautiche e ferroviarie, monitoraggio automatico relativo alla trasmissione ADS-B, interfono analogico e digitale a banda larga e stretta, DMR digitale interfono, trasmissione digitale DRM, immagini SSTV, immagini di nuvole meteorologiche NOAA, monitoraggio radioastronomico, Stazione spaziale internazionale ISS e così via.3. Compatibile con le quattro piattaforme Windows, Linux, OSMac e Android, supporta perfettamente software mainstream come SDRuno, SDR Sharp, HDSDR, SDR consol, GNURadio e SDR Touch. (I dispositivi Android devono supportare OTG)La confezione include:1 x Aviazione ricevitore
+
+
+
+

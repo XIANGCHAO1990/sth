@@ -1,0 +1,351 @@
+https://www.banggood.com/X96-X6-Smart-TV-Box-RK3566-Rockchip-8GB-RAM-128GB-ROM-Android-11_0-HD-8K-2T2R-2_4G-5G-Wifi-Bluetooth-TV-Boxes-with-Infrared-Remote-Control-p-1855813.html?cur_warehouse=CN&ID=47757&rmmds=CategoryElectronicsPop
+X96 X6 Smart TV Box RK3566 Rockchip 8GB RAM 128GB ROM Android 11.0 HD 8K 2T2R 2.4G 5G Wifi Bluetooth TV Boxes with Infrared Remote Control
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+﻿
+
+
+
+
+
+
+Basic parameters
+
+
+CPU
+Chipset
+RK3566
+
+
+Architecture
+Quad Core ARM Cortex A55
+
+
+GPU
+Chipset
+Mali-G52 1-Core-2EE
+
+
+Architecture
+for OpenGL ES 1.1/2.0/3.2, for OpenCL 2.0, Vulkan 1.1 support
+
+
+NPU
+
+Neural network acceleration engine with processing performance up to 0.8 TOPS
+
+
+RAM
+Capacity
+8GB
+
+
+ROM
+Capacity128GB
+
+
+External storage
+USB Storage Devices
+Supported
+
+
+Micro SD card
+Supported
+
+
+Software
+
+
+Operating system
+OS Version
+Android 11
+
+
+Language
+Multi-Language
+
+
+Multimedia
+Video
+Video Decoder
+
+
+H.265 HEVC/MVC Main10 Profile yuv420@L5.1 up to 4096x2304@60fps
+
+
+H.264 AVC/MVC Main10 Profile yuv400/yuv420/yuv422/@L5.1 up to 4096x2304@60fps
+
+
+VP9 Profile0/2 yuv420@L5.1 up to 4096x2304@60fps
+
+
+VP8 verision2, up to 1920x1088@60fps
+
+
+VC1 Simple Profile@low, medium, high levels, Main Profile@low, medium, high levels, Advanced Profile@level0~3, up to 1920x1088@60fps
+
+
+MPEG-4 Simple Profile@L0~6, Advanced Simple Profile@L0~5, up to 1920x1088@60fps
+
+
+MPEG-2 Main Profile, low, medium and high levels, up to 1920x1088@60fps
+
+
+MPEG-1 Main Profile, low, medium and high levels, up to 1920x1088@60fps
+
+
+H.263 Profile0, levels 10-70, up to 720x576@60fps
+
+
+Video Encoder
+
+
+H.264/AVC BP/MP/HP@level4.2, up to 1920x1080@100fps
+
+
+H.265/HEVC MP@level4.1, up to 1920x1080@100fps (4096x4096@10fps with TILE)
+
+
+Support YUV/RGB video source with rotation and mirror
+
+
+Audio
+Supports MP3, AAC, WMA,  FLAC, Ogg
+
+
+Image
+HD JPEG, BMP, GIF, PNG, TIF
+
+
+Network service
+
+
+Wi-Fi
+Type
+Support WiFi IEEE 802.11 b / g / n / ac
+
+
+Frequency
+Support 2.4G and 5G
+
+
+Antenna Type
+Two external antennas
+
+
+Bluetooth
+Bluetooth
+Support BT4.X
+
+
+Interface
+
+
+Charge
+DC connector
+DC IN(5V/2A) 
+
+
+Video output
+HDMI
+4Kx2K UHD Output, HDMI 1.4/2.0
+
+
+IR Reciver
+3.5mm Earphone jack
+Remote Reciver Connect
+
+
+Micro SD
+External memory
+Support
+
+
+USB port
+USB host
+1x USB3.0  2x USB2.0 normal type 
+
+
+Ethernet
+Ethernet
+1000M Ethernet
+
+
+Appearance
+
+
+Body Material
+metal
+
+
+Color
+grey
+
+
+Size
+105x105x20(mm)
+
+
+Weight
+/
+
+
+Cerifications(For Unit)
+
+
+Standard
+CE
+/
+
+
+RoHS
+/
+
+
+Package contents
+Shipping Info
+
+
+1 x User manual, 1 x Gift Box, 1 x Infrared remote control, 1 x HDMI external cable, 1 x Power adapter
+Gift Box Dimension(mm)
+205x140x50(mm)
+
+Feature:CPU: Rockchip RK3566 Quad Core ARM Cortex A55GPU: Mali-G52 1-Core-2EE, for OpenGL ES 1.1/2.0/3.2, for OpenCL 2.0, Vulkan 1.1 support RAM: 8GBROM: 128GBExternal storage: Support USB Storage Devices, Micro SD cardOperating system: Android 11.0Language: Multi-LanguageVideo Decoder: H.265 HEVC/MVC Main10 Profile yuv420@L5.1 up to 4096x2304@60fps; H.264 AVC/MVC Main10 Profile yuv400/yuv420/yuv422/@L5.1 up to 4096x2304@60fpsWi-Fi: Support WiFi IEEE 802.11 b / g / n / ac; Support 2.4G and 5G; Two external antennasBluetooth: Support BT4.XHDMI: 4Kx2K UHD Output, HDMI 1.4/2.0 Package Included:1 x X96 X6 Smart TV Box (Other products are not included)1 x User Manual1 x Infrared Remote Control1 x HDMI External Cable1 x Power Adapter Other Options:X96 X6 4GB 32GB with Infrared Remote Control TV Box: [Link]X96 X6 8GB 64GB with Infrared Remote Control TV Box: [Link]X96 X6 4GB 32GB with Voice Remote Control TV Box: [Link]X96 X6 8GB 64GB with Voice Remote Control TV Box: [Link]X96 X6 8GB 128GB with Voice Remote Control TV Box: [Link]
+
+
+
+

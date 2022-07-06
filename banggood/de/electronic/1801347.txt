@@ -1,0 +1,281 @@
+https://de.banggood.com/MECOOL-KM6-ATV-Deluxe-Amlogic-S905X4-4GB-SDRAM-64GB-ROM-bluetooth-5_0-5G-WiFi6-Android-10_0-TV-Box-Support-Google-Assistant-4K-Youtube-PrimeVideo-AV1-4K-at-60fps-H_265-VP9-1000M-LAN-Ethernet-p-1801347.html?cur_warehouse=CZ&ID=47184&rmmds=CategoryElectronicsPop
+MECOOL KM6 ATV Deluxe Amlogic S905X4 4GB SDRAM 64GB ROM Bluetooth 5.0 5G W-lan6 Android 10.0 TV Box Unterstützt Google Assistant 4K Youtube PrimeVideo AV1 4K@60fps H.265 VP9 1000M LAN-Ethernet
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spezifikation:
+
+
+
+
+Hardwarespezifikationen
+
+
+Zentralprozessor
+Amlogic S905X4 Quad Core ARM Cortex-A55
+
+
+Grafikkarte
+Mail-G31 MP2
+
+
+SDRAM
+4GB
+
+
+BLITZ
+64GB
+
+
+W-lan
+Eingebaute 2T2R 2.4G / 5G W-lan-Unterstützung IEEE 802.11 b / g / n / ac / ax (W-lan6)
+
+
+Bluetooth
+BT5.0
+
+
+LAN-Ethernet
+10/100/1000 M Ethernet-Anschluss
+
+
+LED-Anzeige
+Der Standby-Modus ist rot, der Arbeitsmodus ist blau
+
+
+Haupteigenschaften
+
+
+Betriebssystem
+Android 10.0 ATV
+
+
+Video-Decoder
+Hardware-Decoder     - AV1 MP-10@L5.1 bis zu 4Kx2K @ 60fps - VP9 Profil-2 bis zu 4Kx2K bei 60 fps- H.265 HEVC MP-10@L5.1 bis zu 4Kx2K @ 75fps- AVS2-P2-Profil mit bis zu 4Kx2K bei 60 fps- H.264 AVC HP@L5.1 bis zu 4Kx2K @ 30fps- MPEG-4 ASP @ L5 bis 1080P @ 60 fps (ISO-14496)- WMV / VC-1 SP / MP / AP bis zu 1080P bei 60 fps- AVS-P16 (AVS +) / AVS-P2 JiZhun-Profil mit bis zu 1080P bei 60 fps- MPEG-2 MP / HL bis 1080P bei 60 fps (ISO-13818)- MPEG-1 MP / HL bis 1080P bei 60 fps (ISO-11172)- RealVideo 8/9/10 bis 1080P @ 60fps
+
+
+Video-Encoder
+Video-/Bildkodierung- Unabhängiger JPEG- und H.264-Encoder mit konfigurierbarer Leistung / Bitrate- JPEG-Bildcodierung- H.265 / H.264-Videocodierung mit bis zu 1080P bei 60 fps und geringer Latenz
+
+
+HDR
+Unterstützt Dolby Vision (optional), HDR10+, HDR10, HLG und Technicolor HDR-Verarbeitung
+
+
+3D-Grafik
+Mail-G31 MP2 Grafikkarte - 4-breite Ketten, Dual-Texture-Pipe, 2x 4-breite Execution-Engines (EE) - Gleichzeitige Mehrkernverarbeitung - für OpenGL ES 3.2, Vulkan 1.1 und für OpenCL 2.0-Unterstützung
+
+
+Decoder-Format
+HD MPEG1/2/4, H.265/HEVC, HD AVC/VC-1, RM/RMVB, Xvid, RealVideo8/9/10
+
+
+Medienformat
+Unterstützt die Dateiformate *.mkv, *.wmv, *.mpg, *.mpeg, *.dat, *.avi, *.mov, *.iso, *.mp4, *.rm und *.jpg
+
+
+Musikformat
+Unterstützt MP3, AAC, WMA, RM, FLAC, OGG und programmierbar mit 7.1/5.1-Downmix
+
+
+Fotoformat
+HD-JPEG/BMP/GIF/PNG/TIFF
+
+
+Netzwerkfunktion
+Miracast, Airpla, Skype-Chat, Picasa, Youtube, Flimmern, Facebook, Online-Filme usw.
+
+
+Sprache
+Chinesisch, Englisch, Deutschland, Japanisch, Korea usw. 24 Sprachen
+
+
+OTA
+OTA-Update unterstützen
+
+
+Hafen-Spezifikationen
+
+
+Hafen
+1 x HDTV 2.1  Dynamischer HDR 4Kx2K bei maximaler Auflösung von 60
+
+
+1 x USB 2.0
+
+
+1 x USB 3.0
+
+
+1 x TF-KARTE unterstützt 1 ~ 32 GB
+
+
+1 x 3,5 Phone Out CVBS&L/R-Ausgang
+
+
+1 x Optisch
+
+
+1 x RJ45 LAN
+
+
+1 x Gleichstrom 5V/2A
+
+
+Zubehör
+
+
+Lieferinhalt
+1 x MECOOL KM6 4/64GB TV-Box
+
+
+1 x Netzteil
+
+
+1 x IR + BT Sprachfernbedienung
+
+
+1 x HDTV-Kabel
+
+
+1 x Benutzerhandbuch
+
+Merkmale:Grafikkarte: Amlogic S905X4 Quad-Core-ARM Cortex-A55Grafikkarte: Mail-G31 MP2SDRAM: 4 GBBLITZ: 64GBBetriebssystem: Android 10.0 ATVBluetooth: Bluetooth 5.0Ethernet: 10/100/1000 M Ethernet RJ45 LANW-lan:  IEEE 802.11 b / g / n / ac / ax (W-lan6) 2T2R 2.4G 5GVideo-Dekorateur: AV1 4Kx2K @ 60fps, H.265 HEVC 4Kx2K bei 75 fps, VP9 4Kx2K bei 60 fpsUnterstützen Sie Google Assistant SprachfernbedienungUnterstützt 4K Youtube, 4K PrimeVideo, unterstützt 4K HDR10 +Lieferinhalt:1 x MECOOL KM6 4/64GB TV-Box1 x Netzteil 1 x IR + BT Sprachfernbedienung 1 x HDTV-Kabel 1 x Benutzerhandbuch
+
+
+
+

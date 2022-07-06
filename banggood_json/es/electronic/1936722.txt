@@ -1,0 +1,181 @@
+1936722
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/92/1F/6b022593-0734-479e-9152-7cdc122c511c.jpg
+Smart BMS 1A 2A 6A Equilibrio de corriente 8S 17S 20S 24S JK BMS 60A 80A 100A 150A 200A 600A Lifepo4 Li-Ion Batería Placa de protección bluetooth APP
+https://es.banggood.com/Smart-BMS-1A-2A-6A-Balance-Current-8S-17S-20S-24S-JK-BMS-60A-80A-100A-150A-200A-600A-Lifepo4-Li-Ion-Battery-Protection-Board-bluetooth-APP-p-1936722.html?cur_warehouse=CN&ID=6319174&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oprotección contra descarga:evitar la sobrecarga y afectar la vida útil de la batería
+Protección contra cortocircuitos:Protección automática durante un cortocircuito anormal para evitar daños en la placa de protección y la batería.
+
+Protección contra cortocircuitos:Protección automática durante un cortocircuito anormal para evitar daños en la placa de protección y la batería.
+
+Protección contra sobredescarga:evitar que la batería se agote y afecte la vida útil de la batería
+
+Protección contra la sobretensión:evitar que la corriente exceda la tolerancia de la batería, causando daños a la batería
+
+Protección contra caídas:evitar que el cable se caiga o que el contacto sea deficiente y la batería pierda protección
+
+Protección contra sobretemperatura:evitar que la temperatura de la batería suba demasiado, provocando una combustión espontánea o daños
+
+Instrucciones:https://github.com/NEEY-electronic/JK/tree/JK-BMS
+
+Protocolo BMS:https://github.com/syssi/esphome-jk-bms
+
+Controlador Venus OS:https://github.com/Louisvdw/dbus-serialbattery
+
+NOTA:BMS con corriente de 600A requiere que los clientes compren relés por sí mismos
+Lcd Pantalla : Haga clic aquí para abrir <<<NOTA:①: interfaz CANBUS (en la actualidad, solo jk-B2A24S20P puede personalizar la función CANBUS)②: interfaz RS485 (en la actualidad, todos los JK BMS están configurados con la función RS485 de forma predeterminada)③: Interfaz LCD (verifique si BMS tiene interfaz LCD antes de comprar. Si no hay interfaz, no se puede usar LCD)④: Interfaz de función de calor (en la actualidad, se puede aceptar la función de calefacción personalizada por los clientes, MOQ50pcs)⑤:Sensor de temperaturaEstas ①②③④ interfaces están en la placa BMS.Sin embargo, ①④ no tiene una función real, lo que requiere una personalización adicional.②③ No es necesario personalizar el BMS, solo agregue un módulo LCD o un módulo de complemento RS485.①Función CAN: personalizada, requiere que el fabricante monte el chip CAN y proporcione el protocolo de comunicación CAN de JiKong. . Además, es necesario adquirir un módulo CAN (antes de realizar un pedido consultar previamente para la personalización)②Función RS485: compre otro módulo enchufable RS485 y conéctelo a la interfaz GPS para usarlo.③Función LCD: compre otro módulo LCD y conéctelo a la interfaz LCD para usarlo.④Función de calefacción: personalizada, y también necesita comprar el cargador de protocolo de calefacción CAN correspondiente. El cargador puede comunicarse con el BMS, y el cargador debe tener una función de calefacción. (Antes de realizar un pedido, consultar y personalizar previamente)Nota: ②La función GPS requiere el apoyo del operador local. Es posible que algunas regiones o países no lo admitan. ¡Antes de realizar un pedido, debe comunicarse con nosotros para confirmarlo! ! !El paquete incluye:1 BMS inteligente JK
+
+
+
+

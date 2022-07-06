@@ -1,0 +1,143 @@
+https://fr.banggood.com/Hantek-DSO2C10-Digital-Oscilloscope-2CH-Digital-Storage-1GS-or-s-Sampling-Rate-100MHz-Bandwidth-Dual-Channel-Economical-Oscilloscope-p-1765866.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+Oscilloscope numérique Hantek DSO2C10 2CH stockage numérique 1GS / s taux d&#39;échantillonnage 100 MHz bande passante oscilloscope économique double canal
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:1), 2 canaux, chaque canal a un contrôle de bouton indépendant;2), bande passante analogique 100 MHZ3) Le taux d'échantillonnage le plus élevé est de 1 GSa / s;4), la profondeur de stockage est de 8 Mpts;5), la plage verticale de 2 mV / div ~ 10 V / div;6) résolution verticale: 8 bits;7) Déclenchement: front, impulsion, vidéo, pente, délai d'attente, fenêtre, modèle, intervalle, runt, UART, LIN, CAN, SPI, IIC;8) Décodage de bus et analyse de protocole: RS232 / UART, I2C, SPI, CAN, LIN;9), peut enregistrer des paramètres, des formes d'onde, des formes d'onde de référence, CSV, des images et d'autres formats de données.10), fonctions voltmètre numérique à 3 chiffres et fréquencemètre à 6 chiffres;11) Prise en charge de 32 types de fonctions de mesure et de statistiques automatiques, de statistiques en temps réel de l'écart minimum, maximum, standard et d'autres informations statistiques;12), deux groupes de fonctions de voltmètre numérique;13) Test de seuil de soutien pour réaliser une mesure gratuite dans l'écran;14), instructions de contrôle à distance Rich SCPI;15). Fournit plusieurs types d'interfaces périphériques: hôte / périphérique USB.modèle du produit(REMARQUE: Cliquez sur le modèle pour accéder au lien d'achat du modèle correspondant)??Modèle CanauxBande passanteTaux d'échantillonnageProfondeur de stockageLa source de signal (AWG)>> DSO2C10 <<2CH100MHz1GSa/S8M/>> DSO2C15 <<2CH150MHz1GSa/S8M/>> DSO2D10 <<2CH + 1CH100MHz1GSa/S8M1CH>> DSO2D15 <<2CH + 1CH150MHz1GSa/S8M1CH>>Veuillez cliquer ici pour télécharger le manuel d'utilisation en anglais<<>> Cliquez pour télécharger le logiciel DSO2000 <<Spécification:maquetteDSO2D15DSO2D10DSO2C15DSO2C10bande passante150MHz100MHz150MHz100MHzNombre de canaux de l'oscilloscope2CH2CH2CH2CHLa source de signal intégrée1CH1CH - -Index de l'oscilloscopePlage de taux d'échantillonnage1GSa / s (canal unique), 500MSa / s (double canal)Méthode de collecteéchantillonnageExemple de donnéesDe crête à crêteAfficher les problèmes de haute fréquence et aléatoiresvaleur moyenneForme d'onde moyenne, temps: 4, 8, 16, 32, 64, 128Haute précisionJusqu'à 12 bitsEntrerCouplage d'entréeDC, AC ou terre (DC, AC, GND)résistance d'entrée1 MΩ ± 2% ‖20pF ± 3pFRéglage du coefficient d'atténuation de la sonde1X, 10X, 100X, 1000XNiveau de tension300V CAT IITension d'entrée maximale300VRMS (10X)Système horizontalInterpolation de forme d'onde(péché x)/xLongueur d'enregistrement maximaleMaximum 8M par canalMaximum 4M pour deux canauxPlage d'échelle horizontale2ns / div ~ 100s / div 1, 2, 5 étapesMode base de tempsYT, XY, rouleau Décalage zéro± 0,5 div × vitesse minimale de base de tempsTaux d'échantillonnage et précision du temps de retard±50 ppmDérive de l'horloge≤ ± 5 ppm / anPrécision de mesure incrémentielle du tempsMode unique, "échantillonné"(bande passante complète)± (1 intervalle d'échantillonnage + 100 ppm × lecture + 0,6 ns)＞ 16 fois au-dessus de la moyenne± (1 intervalle d'échantillonnage + 100 ppm × lecture + 0,4 ns)Intervalle d'échantillonnage = seconde / div ÷ 200Système verticalmaquetteDSO2D15DSO2D10DSO2C15DSO2C10bande passante150MHz100MHz150MHz100MHzTemps de montée au BNC (typique)2.3ns3.5ns2.3ns3.5nsRésolution verticaleRésolution 8 bits, échantillonnage simultané pour chaque canalSensibilité verticale2mV/div à 10V/divPlage de décalage2mV / div à 20mV / div, ± 100mV; 50mV / div à 200mV / div, ± 1V;500 mV / div à 2 V / cellule, ± 10 V; 5V / div à 10V / division, ± 50VcalculAjouter, soustraire, multiplier, diviser, FFTFFTFenêtre: rectangulaire, Hanning, Hamming, Brackman, Bartlett, fenêtre supérieure plateLimite de bande passante20MHzRéponse en basse fréquence (-3db)≤10Hz au BNCPrécision du gain verticalEn mode d'acquisition "échantillon" ou "moyen", la précision de 10V / div à 10mV / div est de ± 3%;En mode d'acquisition «Échantillonnage» ou «Moyenne», la précision de 5 mV / div à 2 mV / div est de ± 4%Précision du décalage CC± 0,1 div ± 2 mV ± 1% valeur de décalageRépétabilité de la mesure de tension, mode d'acquisition moyenDans les mêmes paramètres et conditions environnementales, l'incrément de tension entre deux ensembles de valeurs moyennes de plus de 16 formes d'onde: ± (3% × lecture + 0,05 division)Remarque: la bande passante est réduite à 6 MHz lors de l'utilisation de la sonde X1Système de déclenchementType de déclencheurBord, impulsion, vidéo, pente, délai d'attente, fenêtre, modèle, intervalle, runt, UART, LIN, CAN, SPI, IICPlage de niveau de déclenchement ± 5 divisions à partir du centre de l'écranMode de déclenchementAutomatique, normal, simpleNiveauCH1 ~ CH2± 4 divisions à partir du centre de l'écranEXT0~3.3VGamme de relief8ns ~ 10sPrécision du niveau de déclenchementCH1 ~ CH20,2 division × volts / div à ± 4 divisions de l'affichage centralEXT± (6% + 40mV de la valeur de réglage)Déclencheur de bordPenteFront montant, front descendant, front montant ou front descendantLa sourceCH1, CH2, EXTDéclencheur de largeur d'impulsionpolaritéPolarité positive, polarité négativeCondition (quand)<,>,! =, =La sourceCH1 ~ CH2,Plage de largeur d'impulsion8ns ~ 10sPrécision8nsDéclencheur vidéoNorme de signalNTSC, PALLa sourceCH1 ~ CH2SynchroniserLigne de balayage, numéro de ligne, champ impair, champ pair, tous les champsDéclencheur de pentePenteAscension et chuteCondition (quand)<,>,! =, =La sourceCH1 ~ CH2limite de temps8ns ~ 10sPrécision8nsDéclencheur de temporisationLa sourceCH1 ~ CH2,polaritéPolarité positive, polarité négativelimite de temps8ns ~ 10sPrécision8nsDéclencheur de fenêtreLa sourceCH1 ~ CH2 Déclenchement de modèleSchéma0: niveau bas; 1: haut niveau; X: ignorer; :en hausse; :chute; : montant ou descendantNiveau (source)CH1 ~ CH2Déclenchement d'intervallePenteAscension et chuteCondition (quand)<,>,! =, =La sourceCH1 ~ CH2,limite de temps8ns ~ 10sPrécision8nsDéclencheur d'exécutionpolaritéPolarité positive, polarité négativeCondition (quand)<,>,! =, =La sourceCH1 ~ CH2limite de temps8ns ~ 10sPrécision8nsDéclencheur UARTCondition (quand)Démarrer, arrêter, données, parité, recevoir une erreurLa source (RX / TX)CH1 ~ CH2 Format des donnéesHex (hexadécimal)Longueur des données1 byteLargeur de bits de données5 bits, 6 bits, 7 bits, 8 bitsContrôle de paritéAucun, impair, mêmeNiveau d'inactivitéHaut, basVitesse de transmission (en option)110/300/600/1200/2400/4800/9600/14400/19200/38400/57600/115200/230400/380400/460400 bit / sDébit en bauds (personnalisé)300 bits / s à 334000 bits / sDéclencheur LINCondition (quand)Champ d'intervalle, champ de synchronisation, champ d'ID, erreur de synchronisation, identificateur, ID et donnéesLa sourceCH1 ~ CH2,Format des donnéesHex (hexadécimal)Vitesse de transmission (en option)110/300/600/1200/2400/4800/9600/14400/19200/38400/57600/115200/230400/380400/460400 bit / sDébit en bauds (personnalisé)300 bits / s à 334000 bits / sPeut déclancherCondition (quand)Bit de départ, ID de trame distante, ID de trame de données, ID de trame, données de trame distante, données de trame de données, trame d'erreur, toutes les erreurs, erreur de réponse, trame de surchargeLa sourceCH1 ~ CH2Format des donnéesHex (hexadécimal)Vitesse de transmission (en option)10000, 20000, 33300, 500000, 62500, 83300, 100000, 125000, 250000, 500000, 800000, 1000000Débit en bauds (personnalisé)5 kbit / s ~ 1 Mbit / s  Déclencheur SPILa sourceCH1 ~ CH2,Format des donnéesHex (hexadécimal)Largeur de bits de données4, 8, 16, 24, 32Déclenchement IICLa source (SDA / SCL)CH1 ~ CH2,Format des donnéesHex (hexadécimal)         Index des données0 ~ 7Calendrier (condition)Bits de démarrage, bits d'arrêt, pas de réponse, adresse, données, redémarragemesurele curseurDifférence de tension entre les curseurs △ VDécalage horaire entre les curseurs △ TLa réciproque de △ T, en Hertz (1 / △ T)Mesure automatiqueFréquence, période, valeur moyenne, valeur crête à crête, carré moyen racine, valeur minimale, valeur maximale, temps de montée, temps de descente, largeur d'impulsion positive, largeur d'impulsion négative, valeur inférieure, valeur supérieure, valeur moyenne, amplitude, dépassement , Prédémarrage, différence de phase du front montant, différence de phase du front descendant, rapport cyclique positif, rapport cyclique négatif, moyenne du cycle, carré moyen de la racine du cycle, dépassement du front descendant, prémission du front montant, BWIDTH, FRF, FFR, LRR, LRF, LFR, LFFDVMla source de donnéesCH1, CH2Type de mesureValeur efficace DCValeur efficace ACCourant continufréquencemètreCompteur de fréquence matériel à 6 chiffresIndicateur de source de signalNombre de canaux1 canalTaux d'échantillonnage200MSa/sRésolution verticale12 bits Fréquence la plus élevée25 MHz Forme d'onde standardSinus, onde carrée, impulsion, onde triangulaire, onde d'échantillonnage, onde exponentielle, bruitForme d'onde arbitraireArb1, Arb2, Arb3, Arb4SinusGamme de fréquences0,1 Hz à 25 MHzOnde carrée / impulsionGamme de fréquences0,1 Hz à 10 MHzVague triangulaireGamme de fréquences0,1 Hz à 1 MHzExemple de vagueGamme de fréquences0,1 Hz à 1 MHzOnde exponentielleGamme de fréquences0,1 Hz à 5 MHzbruit Arbitraire Wave 1Gamme de fréquences0,1 Hz à 10 MHz Arbitraire Wave 2Gamme de fréquences0,1 Hz à 10 MHz Arbitraire Wave 3Gamme de fréquences0,1 Hz à 10 MHz Arbitraire Wave 4Gamme de fréquences0,1 Hz à 10 MHz Longueur d'onde8KSala fréquencePrécision100 ppm (moins de 10 kHz) 50 ppm (plus de 10 kHz)Résolution0,1 Hz ou 4 bits, selon la valeur la plus élevéeAmplitudePlage de sortie10mV ~ 7Vp-p (haute impédance)5 mV à 3,5 Vp-p (50)décalage CCintervalle± 3,5 V, haute résistance± 1,75 V, 50 ΩRésolution100 μV ou 3 bits, selon la valeur la plus élevéePrécision2% (1 kHz)Impédance de sortie50Spécifications techniques généralesaffichageType d'affichage7 "TFT LCD affichage en diagonaleRésolution d'affichage800 (horizontal) * 480 (vertical) pixelsCouleur d'affichage16 millions de couleurs (vraies couleurs 24 bits)Temps de rémanenceValeur minimale, 1 s, 5 s, 10 s, 30S, illimitéeType d'affichagePoint, vecteurLuminosité de l'écranAjustableType de grilleOptionnelLuminosité de la grilleAjustableinterfaceInterface standardHôte USB, périphérique USBSpécifications techniques généralesSortie du compensateur de sondeTension de sortie, typiqueÀ propos de l'entrée 2Vpp ≥1MΩ de chargeFréquence, typique1kHzTension100-120VAC RMS (± 10%), 45Hz à 440Hz, CATⅡ120-240VAC RMS (± 10%), 45Hz à 66Hz, CATⅡConsommation d'énergieMoins de 30 WFusibleT, 3,15 A, 250 V, 5 x 20 mmTempérature de fonctionnement0~50 °C (32~122 °F)température de stockage-40~+71 °C (-40~159,8 °F)humidité≤ + 104 ℉ (≤ + 40 ° C): ≤90% d'humidité relative106 ℉ ~ 122 ℉ (+ 41 ° C ~ 50 ° C): ≤60% d'humidité relativeAltitudeEn fonctionnement et non en fonctionnement3 000 m (10 000 pieds)Choc mécaniqueVibrations aléatoires0.31g RMS de 50Hz to 500Hz ,10 minutes par axeLorsqu'il ne fonctionne pas2.46g RMS de 5Hz to 500Hz ,10 minutes par axePendant le fonctionnement50g, 11ms, demi-onde sinusoïdalePartie mécaniqueTaille de l'oscilloscope318 x 140 x 150 mm (longueur x largeur x hauteur)poids2900g Le forfait comprend :1 X Hantek DSO2C10 Oscilloscope numériquePhotos de détails : 
+
+
+
+

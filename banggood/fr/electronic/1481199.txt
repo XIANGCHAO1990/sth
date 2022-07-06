@@ -1,0 +1,181 @@
+https://fr.banggood.com/MCP2515-CAN-Bus-Module-Board-TJA1050-Receiver-SPI-51-MCU-ARM-Controller-5V-DC-p-1481199.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+MCP2515 Carte de module de bus CAN TJA1050 Récepteur SPI 51 Contrôleur ARM MCU 5V DC
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More document click to download: MCP2515 
+
+	Caractéristiques:
+
+
+
+1. Prise en charge de la spécification technique CAN V2.0B, taux de communication 1Mb/S
+
+2. Champ de données long de 0 à 8 octets
+
+3. Cadre standard, cadre étendu et cadre distant
+
+4. Module 5V Alimentation CC, contrôle du protocole d'interface SPI
+
+5. Résistance de terminaison de 120 ohms. Adaptation d'impédance, capacité d'entraînement garantie, transmission de données longue distance pour éviter les émissions de signaux
+
+6. Courant de fonctionnement : la valeur typique est de 5 mA, le courant de veille est de 1 microampères. Sauf l'indicateur d'alimentation.
+
+7. Température de fonctionnement : qualité industrielle -40 ° C à 85 ° C
+
+
+
+Emballage inclus:
+
+
+
+1 x carte de module de bus CAN MCP2515 TJA1050 récepteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

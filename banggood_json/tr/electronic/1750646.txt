@@ -1,0 +1,312 @@
+1750646
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/15/36/87d85db0-34e6-4661-9b65-818ade1a310c.jpg
+RIDEN® RD6018 RD6018W USB WiFi DC - DC Voltaj Kademeli Güç Kaynağı Modülü Buck Dönüştürücü Voltmetre Multimetre 60V 18A 1080W
+https://tr.banggood.com/RIDEN-RD6018-RD6018W-USB-WiFi-DC-to-DC-Voltage-Step-Down-Power-Supply-Module-Buck-Converter-Voltmeter-Multimeter-60V-18A-1080W-p-1750646.html?cur_warehouse=CN&ID=6296642&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Satın almadan önce not edin: 1. RD6018 serisinin iki versiyonu vardır: RD6018 ve RD6018-W, RD6018-W'de WIFI kartı bulunur, RD6018'de yoktur. RD6018-W, APP'yi bağlamak için WIFI kartını kullanabilir, ayrıca PC yazılımını bağlamak için USB mikro kablosu kullanabilir. RD6018'de WIFI kartı yoktur, yalnızca USB mikro kablosuyla bağlanarak PC yazılımını destekler, APP desteği yoktur. Wifi kartının PC yazılımına bağlanması için şimdi desteklemiyordu. Numarat: WiFi bağlantısı, bazı bilgisayarların zayıf uyumluluğu nedeniyle bir test işlevidir, PC yazılımını WiFi aracılığıyla bağlayamıyorsanız, lütfen bu işlevi göz ardı edin. Bu işlev için herhangi bir garanti ve teknik destek sağlamıyoruz ve bu işlevin devam edip etmeyeceğine müşteri geri bildirimlerine dayanarak karar vereceğiz.2. PC yazılımı için, şimdilik yalnızca 7 ve üzeri kazanmayı destekliyor. APP için, yalnızca android 5.0 ve üstünü destekler. APP ve PC yazılımı için uyumsuzluk sorunları olabileceğinden, lütfen satın almadan önce indirin, indirip kurabilirseniz, sipariş verebilir veya satın almayı durdurabilirsiniz. Satın almadan önce PC yazılımını ve APP işlevini test etmezseniz ve ürünlerin PC yazılımı veya APP dışında iyi çalıştığını görürseniz, para iadesini reddederiz.3. Giriş AC-DC anahtar güç kaynağı için, sahip olduğumuz giriş PSU 800W, RD6018'in (1080W) maksimum çıkış gücünden daha düşük, tam çıkışa ihtiyacınız varsa, lütfen 65V 1200W güç kaynağı, ancak 1200W PSU büyük, S800 kasasına yerleştirilemez, bu yüzden durumu kendi başınıza yapmanız gerekir4. RD6018 / RD6018W kutusunda bir YEDEK sigortası var, sigortayı yakarsanız, sigortayı geçici kullanım için yanmış olanın yanındaki sokete takabilirsiniz, ancak sigorta büyük akım akışını destekleyemez, bu nedenle daha iyidir Hasarlı sigortayı çıkarmak ve aynı pozisyondaki iyi sigortayı lehimlemek için5. RD6018W, cep telefonu tarafından paylaşılan erişim noktasına bağlanabiliyor ancak yönlendiriciye bağlanamıyorsa, istemci izolasyonunu / AP izolasyonunu ve WMM işlevini kapatmanız gerekir. 6. Please use the matching front-end power supply. (Ürün Kimliği: 1750643) Yanlış güç kaynağı nedeniyle cihaz hasar görürse, satış sonrası garanti vermeyeceğiz.Teknik parametreler:
+
+
+
+
+
+
+
+
+modeli
+RD6006 (1587151)
+RD6006-W(1587151)
+RD6012(1687705)
+RD6012-W(1687705)
+RD6018
+RD6018-W
+
+
+Giriş Gerilimi Aralığı
+6-70.00V
+
+
+Çıkış voltajı aralığı
+0-60.00V
+
+
+Çıkış akımı aralığı
+0-6.000A
+0-12.00A
+0-18.00A
+
+
+Çıkış gücü aralığı
+0-360W
+0-720W
+0-1080W
+
+
+Giriş voltajı ölçüm çözünürlüğü
+0.01V
+
+
+Çıkış voltajı ayarı ölçüm çözünürlüğü
+0.01V
+
+
+Çıkış akımı ayarı ölçüm çözünürlüğü
+0.001A
+0.01A
+
+
+Akü voltajı ölçüm çözünürlüğü
+0.01V
+
+
+Giriş voltajı ölçüm doğruluğu
+±(1%+5 basamak)
+
+
+Ayar ve ölçüm arasındaki çıkış voltajı doğruluğu
+±(0.3%+3 basamak)
+
+
+Ayar ve ölçüm arasındaki çıkış akımı doğruluğu
+±(0.5%+5 basamak)
+
+
+Akü voltajı ölçüm doğruluğu
+±(0.5%+3 basamak)
+
+
+Şarj olurken akım değerini otomatik olarak kes
+10mA
+100mA
+
+
+Çıkış dalgalanması tipik
+100mV VPP
+250mV VPP@6A
+
+
+Çalışma sıcaklığı aralığı
+-10℃~40℃
+
+
+Harici sensör Sıcaklık algılama aralığı:
+-10℃~100℃/0℉~200℉
+
+
+Harici sensör Sıcaklık algılama doğruluğu:
+±3℃/±6℉
+
+
+Sabit voltaj modu yanıt süresi
+2ms（0.1A-5A Yük）
+
+
+Sabit voltaj modu yük regülasyonu
+±(0.1%+2 basamak)
+
+
+Sabit akım modu yük regülasyonu
+±(0.1%+3 basamak)
+
+
+Kapasite ölçüm aralığı
+0-9999.99Ah
+
+
+Enerji ölçüm aralığı
+0-9999.99Wh
+
+
+Kapasite ve enerji istatistiksel hatası
+±2％
+
+
+Buck çalışma modu
+Voltaj düşüşü >1V ve >%10
+
+
+Soğutma fanı çalıştırma koşulu
+Çıkış voltajı> 40V veya Çıkış akımı> 4A veya Sistem sıcaklığı> 45℃
+Çıkış akımı> 8A veya Sistem sıcaklığı> 45℃
+
+
+Çalışırken soğutma fanı kapanma durumu
+Çıkış voltajı <40V ve Çıkış akımı <3,9A ve Sistem sıcaklığı <45 ℃
+Çıkış akımı <7,9A ve Sistem sıcaklığı <45 ℃
+
+
+Aşırı sıcaklık koruması
+Sistem sıcaklığı >80℃
+
+
+Ekran parlaklığı ayarı
+0-5(toplam 6 seviye)
+
+
+Ekran
+2.4 inç renkli HD ekran
+
+
+Ağırlık (paketle birlikte)
+Yaklaşık 0,58kg
+0.61kg hakkında
+Yaklaşık 0.68kg
+
+
+Ürün boyutu
+167*81*65mm
+167*81*69mm
+
+
+USB iletişimini destekleyin
+EVET
+
+
+WiFi iletişimini destekleyin
+Numara
+EVET
+Numara
+EVET
+Numara
+EVET
+
+Belgeler:RD6018(W) operation instructon: Click here to openAPP indirme:Android system: download at file link (Support android 5.0 -android 10.0): Click here to open veya Arama RdPower indirmek için Android 5.0 ve üzeri telefon desteği IOS sistemi: İndirmek için RdPower arayın, IOS10.0-IOS13.4 Sistemini destekleyinKılavuz için talimat videosu:a. Battery Charging Function Introduction: https://youtu.be/irTbqfqtgU0 b. Output Voltage and Output Current Setting: https://youtu.be/S6Kan66dNsk c. Data Group Quick Storage and Call out: https://youtu.be/eo5saPjOGpo d. Keypad lock and unlock: https://youtu.be/zxpmasJyQ6Y e. System Setting: https://youtu.be/Q9d3rIgIrOc f. Main Page Style Setting: https://youtu.be/f51VDiY2VHE g: Storage Data Setting: https://youtu.be/i1kTeurS13I h: System Information: https://youtu.be/Um4NQObeeJE i: IOS APP Download, Installation and Connection: https://youtu.be/nH2HYwop0TE j: IOS APP Operation: https://youtu.be/lXSw1CM9IY8 k: Android APP Download, Installation and Connection: https://youtu.be/QwyBEUCnp9c l: Anroid APP Operation: https://youtu.be/hqrF4keTfbE m: PC Software Download and basic operation: https://youtu.be/mjt1RMaah1Y o: Firmware Upgrade: https://youtu.be/NOoLfDw0DiY p: Calibration: https://youtu.be/c9sn1wY2mjE q: Logo Update: https://youtu.be/vuVhBsohWts Paket içeriği: (isteğe bağlı)RD6018 sürümü:WiFi modülü olmadan 1 x RD6018 güç kaynağıRD6018W sürümü:WiFi modüllü 1 x RD6018W güç kaynağı
+
+
+
+

@@ -1,0 +1,143 @@
+https://pt.banggood.com/5PCS-M5Stack-M5Stamp-C3-ESP32-Development-Board-WiFi+Bluetooth-Ultra-Low-Power-ESP32-C3-RISC-V-MCU-p-1906592.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+5PCS M5Stack® M5Stamp C3 ESP32 Development Board WiFi+Bluetooth Ultra-Low Power ESP32-C3 RISC-V MCU
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:A M5Stack acaba de adicionar uma nova família à sua popular série de módulos com o Stamp-C3. o novo Stamp-C3 apresentando ESPRESSIF ESP32-C3 RISC-V MCU com conectividade Wi-fi e Bluetooth 5 (LE) para dispositivos IoT edge, como eletrodomésticos e automação industrial. Ao combinar inicialização segura baseada em RSA-3072 e criptografia flash baseada em AES-128-XTS, o M5Stack oferece uma maneira mais segura de responder às questões de segurança Bluetooth, ao mesmo tempo que o torna ideal para equipamentos IoT industriais que coletam dados de sensores em uma fábrica ou um prédio.O Stamp-C3 é baseado no microcontrolador RISC-V de 32 bits e opera a uma frequência de clock máxima de 160 MHz. Com 400 KB de Flash interno RAM e 4 MB Flash, ele pode facilitar muitos casos de uso diferentes envolvendo dispositivos conectados. O Stamp-C3 fornece suporte completo para Bluetooth® 5.0 de longo alcance (LR), incluindo funções de rede mesh e de longo alcance e construção de conquistas dispositivos com grande cobertura e usabilidade aprimorada. Além disso, o invólucro de plástico de excepcional resistência ao calor é mantido em uma temperatura operacional mais alta.Recursos:- ESTILO MÚLTIPLO: Três tipos de opções de soldagem estão disponíveis (SMT, DIP, flyw1re), com um invólucro de plástico resistente a altas temperaturas, Temperatura de pico = 230 ℃ALTA INTEGRAÇÃO: Stamp-C3 contém design 5V-> 3,3V DC / DC, GPIOx13, RGB programável LED x1, botão Reset x1, botão x1, antena 3D, fornecendo comunicação sem fio estável e confiável.DESENVOLVIMENTO DE BAIXO CÓDIGO:Stamp-C3 totalmente compatível com Arduin0, ESP32-IDF e outras plataformas de desenvolvimento convencionais para construir rapidamente vários aplicativos. (Suporte UIFlow em breve)PinMap:Incluído no Pacote:5 x M5 Selo C35 x adesivo resistente ao calorAplicativo:- Prototipagem DIY- Eletrodomésticos- Automação industrialEspecificações:EspecificaçõesParâmetrosESP32-C3Processador de núcleo único RISC-V de 32 bits, com clock de 160 MHzArmazenar384 KB ROM, 400 KB SRAM, 8 KB RTC SRAM, 4 MB FLASHWi-fiA banda de 2,4 GHz suporta largura de banda de 20 MHz e 40 MHz, protocolo IEEE 802.11 b / g / n, taxa de dados de até 150 MbpsBluetoothBluetooth 5, malha de Bluetooth, suporte de taxa de 125 Kbps, 500 Kbps, 1 Mbps, 2 MbpsTensão de entrada5V @ 500mAHMIBotão físico programável x 1, botão de reinicialização de depuração x 1, RGB programável LED (SK6812) x 1Interface USBTypeC x1Antena Tipo2.4G 3D AntenaRecursos de interface periférica do móduloADC, GPIO, SPI, UART, I2C, I2S, PWM, RMT, DMA, porta serial USB, TWAIInterface IO x13G21, G20, G9, G18, G19, G1, G0, Gl0, G8, G7, G6, G5, G4Espaçamento da interface IO2.54mmPeso líquido3.8gTamanho do produto34 * 20 * 4.5mmTamanho da embalagemSaco de vedação 85 * 55 mm (translúcido)Esquemático: Clique aqui para abrirO shell oferece suporte a Perfil de Refluxo:Links Relacionados:Folha de dados ESP32-C3
+
+
+
+

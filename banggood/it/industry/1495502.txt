@@ -1,0 +1,1028 @@
+https://it.banggood.com/FY6900-Dual-Channel-DDS-Function-Arbitrary-Waveform-Signal-Generator-Pulse-Signal-Source-Frequency-Counter-Fully-Numerical-Control-20MHZ-or-60MHZ-p-1495502.html?cur_warehouse=CN&ID=47757530531&rmmds=CategoryToolsPop
+FY6900 Dual Channel DDS Funzione Generatore di segnale di forma d&#39;onda arbitraria Sorgente del segnale di impulso Contatore di frequenza Controllo completamente numerico 20 MHZ / 60 MHZ
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>Please Click Here to Download the English User Manuale<<>>Please click here to download PC software<<Caratteristiche principali:
+
+
+
+♦ Adotta la tecnologia Direct Digital Synthesizer (DDS) e fornisci segnali stabili, precisi, puri e con bassa distorsione. 
+
+♦ 2,4 pollici TFT Colore LCD con risoluzione 320×240, visualizzazione contemporanea dei parametri e della grafica dei due canali.
+
+♦ Lo strumento utilizza un chip convertitore D/A ad alta velocità a 14 bit (l'errore di quantizzazione dell'uscita di 5 Vpp è inferiore a 1 mV), Frequenza di campionamento 250MSa/s, risoluzione verticale 14 bit.
+
+♦ Può produrre fino a 97 gruppi di funzioni/forma d'onda arbitraria, contiene 33 gruppi di forme d'onda preimpostate e 64 gruppi di forme d'onda definite dall'utente. Forme d'onda preimpostate: seno, quadrato (ciclo di lavoro regolabile), impulso (l'ampiezza dell'impulso e il tempo di ciclo possono essere impostati con precisione), triangolo/rampa, CMOS(0~12V), TTL a quattro canali, Aumento esponenziale, Caduta esponenziale, Rumore, ECG, DC ecc.
+
+♦ Consente di memorizzare 64 file di dati di forme d'onda arbitrarie, ciascuno con una profondità di memorizzazione della forma d'onda 8192 punti * 14 bit; (Maggiore è la profondità di memorizzazione della forma d'onda, maggiore è il dettaglio della forma d'onda e i dettagli del segnale possono essere ripristinati con un'alta p'recision.)
+
+♦ Vari tipi di modulazione: modulazioni AM, FM, PM, CHIEDI, FSK e PSK.
+
+♦ Funzione di scansione: può spazzare 4 proprietà di segnali tra cui frequenza, ampiezza, offset e duty cycle; Ha due tipi di scansione lineare e logaritmica; tempo di scansione 0,01S~999,99S; Direzioni di scansione su, giù e andata e ritorno.
+
+♦ Funzione VCO (Uscita di controllo della tensione): può essere ottenuta tramite un segnale di ingresso esterno: frequenza di controllo della tensione, ampiezza di controllo della tensione, offset di controllo della tensione, duty cycle di controllo della tensione e modulazioni PWM.
+
+♦ Funzione di uscita burst: sono disponibili trigger manuale, trigger interno CH2 e trigger esterno per le tue opzioni. Può emettere 1~1048575 treni di impulsi.
+
+♦ Funzione misuratore di frequenza 100M: può misurare frequenza, periodo, durata dell'impulso e ciclo di lavoro. Massimo la frequenza utilizzabile è 100 MHz e min. la frequenza utilizzabile è 0,01 Hz.
+
+♦ Funzione contatore: dispone di 2 modalità di misurazione dell'accoppiamento tra cui l'accoppiamento CC e l'accoppiamento CA. Questo design può risolvere il problema di imprecisione dell'accoppiamento CA.
+
+♦ Standard doppi canali completamente funzionali che equivalgono a due generatori indipendenti.
+
+♦ Funzione Channel SYNC: supporta la copia della forma d'onda e la copia dello stato tra i canali.
+
+Supporta due o più generatori di segnali collegati per ottenere un'uscita multicanale, l'uscita sincrona a 16 canali di supporto massimo, la fase tra ciascun canale può essere regolata.
+
+♦ Regola con precisione le fasi dei due canali, P'recision può essere 0,01 °.
+
+♦ La risoluzione dell'ampiezza minima può arrivare fino a 1 mV. La gamma di ampiezza è 0~24Vpp.
+
+♦ Il duty-cycle di ciascun canale può essere regolato indipendentemente 0,01%-99,99%, la risoluzione di regolazione è 0,01%.
+
+♦ -12V~+12V DC Funzione offset. Risoluzione 0,001V.
+
+♦ Funzione di salvataggio: può salvare 20 set di parametri impostati dall'utente e può essere caricato in qualsiasi momento.
+
+♦ Funzione di comunicazione: tutte le funzioni possono essere controllate dal programma per PC e il protocollo di comunicazione è aperto per lo sviluppo secondario.
+
+♦ Protezione da cortocircuito in uscita: tutti i canali possono funzionare per più di 60 secondi quando il carico è in cortocircuito.
+
+♦ Fornire un potente software per PC per la modifica delle forme d'onda. Gli utenti possono scaricare forme d'onda arbitrarie su questo strumento dopo la modifica tramite il programma per PC incluso nel CD utente.
+
+♦ Adotta il guscio di plastica ABS con un design da tavolo. Utilizzare un alimentatore di tensione ad ampio range da 100-240 V (CA). 
+
+♦ È possibile scegliere la nostra serie FYA2000S o l'amplificatore di potenza della serie FPA1000 per emettere un segnale da 20 W a 100 W in una larghezza DC-10 MHz senza alcuna distorsione.
+
+
+FY6900 può emettere funzione/forma d'onda arbitraria tra cui:
+
+>Seno
+	>Quadrato
+	>Rettangolo
+	>Triangolo/Rampa
+	>Alzati a dente di sega
+	>Autunno a dente di sega
+	>Lorenz Polso
+	>Multitono
+	> Rumore
+	>Elettrocardiogramma (ECG)
+	> Impulso trapezoidale
+	> Sinc Impulso
+	> Impulso stretto
+	> Rumore bianco di Gauss
+	>Triangolo a gradini
+	>Passo positivo
+	> Passo inverso
+	>Esponente positivo
+
+	>Esponente inverso
+	>Esponente discendente positivo
+	>Esponente decrescente inverso
+	>Logaritmo positivo
+	>Logaritmo inverso
+	>Logaritmo discendente positivo
+	>Logaritmo discendente inverso
+	>FM lineare
+	>AM
+	> FM
+	>Semionda positiva
+	>Semionda negativa
+	>Rettifica a semionda positiva
+	>Rettifica a semionda negativa
+	>Forma d'onda definita dall'utente
+
+Specifica tecnica:
+
+
+
+
+
+Frequenza
+
+
+
+Modello
+
+
+FY6900-20M    
+
+FY6900-30M
+
+FY6900-50M
+
+FY6900-60M
+
+
+
+
+
+0~20 MHz
+
+0~30 MHz
+
+0~50 MHz
+
+0~60 MHz
+
+
+
+
+
+0~15MHz
+
+0~25MHz
+
+0~25MHz
+
+0~25MHz
+
+
+
+Rampa, triangolo
+
+0~10 MHz
+
+0~10 MHz
+
+0~10 MHz
+
+0~10 MHz
+
+
+
+Polso
+
+0~10 MHz
+
+0~10 MHz
+
+0~10 MHz
+
+0~10 MHz
+
+
+
+TTL/CMOS
+
+0~10 MHz
+
+0~10 MHz
+
+0~10 MHz
+
+0~10 MHz
+
+
+
+Forma d'onda arbitraria
+
+0~10 MHz
+
+0~10 MHz
+
+0~10 MHz
+
+0~10 MHz
+
+
+
+Larghezza minima dell'impulso
+
+20 ns (tutti i modelli di larghezza minima dell'onda di impulso possono essere 20 ns)
+
+
+
+min. Risoluzione su tutta la gamma di frequenza
+
+1μHz (la risoluzione minima può essere ridotta a 1μHz su tutta la gamma di frequenza per garantire la precisione della regolazione ad alta frequenza. Ad esempio, può emettere un segnale di 10,000000000001MHz).
+
+
+
+Precisione
+
+±20 ppm
+
+
+
+Stabilità
+
+±1 ppm/3 ore
+
+
+
+Caratteristiche della forma d'onda
+
+
+
+Forme d'onda
+
+Seno, quadrato, rettangolo (ciclo di lavoro regolabile), impulso (l'ampiezza dell'impulso e il tempo di ciclo possono essere impostati con precisione), triangolo/rampa, onda a dente di sega, CMOS, quattro canali TTL, CC, semionda, onda intera, passo positivo, passo inverso , Esponente positivo, Esponente inverso, Impulso Lorenz, Multitono, Rumore, ECG, Impulso trapezoidale, Impulso sinc, Impulso stretto, Rumore bianco Gauss, AM, FM e altri 64 set di forme d'onda definite dal cliente.
+
+
+
+Stoccaggio non volatile
+
+Può memorizzare 64 forme d'onda arbitrarie definite dall'utente, (8K 14 bit) * 64
+
+
+
+Forma d'onda Lunghezza
+
+8192 punti * 14 bit
+
+
+
+Frequenza di campionamento
+
+250MSa/s
+
+
+
+Risoluzione verticale
+
+14 bits
+
+
+
+
+
+Soppressione armonica
+
+≥50dBc(<1MHz); ≥45dBc (1MHz~20MHz);
+
+
+
+Distorsione Armonica Totale
+
+<0,5% (20Hz~20kHz,0dBm)
+
+
+
+
+
+Tempo di salita/discesa
+
+≤7ns (VPP<5V)
+
+
+
+Superamento
+
+≤5%
+
+
+
+Ciclo di lavoro
+
+0,01%~99,99% (risoluzione 0,01%)
+
+
+
+Onda a dente di sega
+
+Linearità
+
+>99% (0,01Hz~10kHz)
+
+
+
+Caratteristiche di uscita
+
+
+
+Ampiezza(VPP)
+
+Frequenza≤5MHz: 1mVpp~24Vpp;
+				5MHz 10MHz Frequenza>20MHz: 1mVpp~5Vpp;
+
+
+
+Risoluzione
+
+1mV
+
+
+
+Stabilità dell'ampiezza
+
+±0,5%/ 5 ore
+
+
+
+Planarità di ampiezza
+
+±2,5%(<10MHz);±5%(>10MHz);
+
+
+
+Uscita forma d'onda
+
+
+
+Impedenza
+
+50Ω±10%(Tipico)
+
+
+
+Protezione
+
+Tutti i canali possono funzionare per più di 60 secondi quando il carico è in cortocircuito. 
+
+
+
+Compensazioni DC
+
+
+
+Intervallo di offset
+
+Frequenza≤20MHz: ±12V; Frequenza> 20 MHz: ± 2,5 V;
+
+
+
+Compensa la risoluzione
+
+1mV
+
+
+
+Caratteristica di fase
+
+ 
+
+
+
+Intervallo di fase
+
+0~359,99°
+
+
+
+Risoluzione di fase
+
+0,01°
+
+
+
+TTL Produzione
+
+ 
+
+
+
+Ampiezza del livello TTL
+
+>3Vpp
+
+
+
+Fan-out
+
+>8 CARICO TTL
+
+
+
+Tempo di salita/discesa
+
+≤10 ns
+
+
+
+CMOS Produzione
+
+
+
+Livello elettrico basso
+
+<0,3V
+
+
+
+Alto livello elettrico
+
+1V~12V
+
+
+
+Tempo di salita/discesa
+
+≤18ns
+
+
+
+Misurazione esterna
+
+
+
+Funzione
+
+Frequenza, Periodoo, Durata impulso positiva/negativa, Ciclo di lavoro
+
+
+
+Intervallo di tensione in ingresso
+
+1Vpp~20Vpp
+
+
+
+Frequenzimetro
+
+Risoluzione
+
+0,01 Hz (tempo di gate = 100 s)
+
+
+
+Allineare
+
+0,01 Hz ~ 100 MHz
+
+
+
+Sensibilità
+
+Gate Time 3 gradi (1S, 10S, 100S) regolabili
+
+
+
+Contatore
+
+Allineare
+
+0-4294967295
+
+
+
+Accoppiamento
+
+CC, CA
+
+
+
+Modalità di lavoro
+
+Manuale
+
+
+
+Periodo
+
+Campo di misura
+
+5ns ~ 20s
+
+Misura dell'accoppiamento CC
+
+
+
+Larghezza di impulso
+
+Campo di misura
+
+0ns ~ 20s
+
+
+
+Risoluzione
+
+5ns
+
+
+
+Ciclo di lavoro
+
+Intervallo (Schermo)
+
+0% ~ 100%
+
+
+
+Spazzata
+
+
+
+Forma d'onda portante
+
+Seno, Quadrato, Rampa, Arbitrario (tranne DC)
+
+
+
+Spazza Tipo
+
+Lineare o Logaritmo
+
+
+
+Direzione di spazzata
+
+Direzioni di scansione su, giù e andata e ritorno;
+
+
+
+Spazza oggetti
+
+Frequenza, Ampiezza, Offset, Duty Cycle
+
+
+
+spazzare il tempo
+
+0,01S~999,99S/passo
+
+
+
+Gamma di impostazione
+
+La posizione iniziale e la posizione finale possono essere impostate arbitrariamente.
+
+
+
+Gamma di spazzata
+
+Decisa dall'impostazione dei parametri.
+
+
+
+VCO (Uscita di controllo della tensione)
+
+
+
+Gamma del segnale di modulazione da immettere
+
+0~5V
+
+
+
+Intervallo di frequenza del segnale VCO
+
+0-2000Hz
+
+
+
+Oggetto di controllo VCO
+
+frequenza di controllo della tensione (VCF), ampiezza di controllo della tensione, offset di controllo della tensione, duty cycle di controllo della tensione.
+
+
+
+Funzione speciale VCO
+
+Può modulare in ampiezza (AM) o in frequenza (FM) tramite segnale analogico esterno.
+
+
+
+Modulazione
+
+
+
+Modulazione Tipo
+
+
+
+
+
+Forma d'onda portante
+
+Forma d'onda sinusoidale, quadrata, triangolare, a rampa, arbitraria (tranne CC)
+
+
+
+AM
+
+
+
+Fonte
+
+Interna (CH2) / Esterna (porta VCO IN)
+
+
+
+Forma d'onda modulante
+
+Forma d'onda sinusoidale, quadrata, triangolare, rampa, arbitraria
+
+
+
+Profondità
+
+da 0% a 120%
+
+
+
+Frequenza modulante
+
+Interno: 1μHz~1MHz; Esterno: 1μHz~2KHz;
+
+
+
+
+
+
+
+Fonte
+
+Interna (CH2) / Esterna (porta VCO IN)
+
+
+
+Forma d'onda modulante
+
+Forma d'onda sinusoidale, quadrata, triangolare, rampa, arbitraria
+
+
+
+Frequenza modulante
+
+Interno: 1μHz~1MHz; Esterno: 1μHz~2KHz;
+
+
+
+PM
+
+
+
+Fonte
+
+Interna (CH2) / Esterna (porta VCO IN)
+
+
+
+Forma d'onda modulante
+
+Forma d'onda sinusoidale, quadrata, triangolare, rampa, arbitraria
+
+
+
+Deviazione di fase
+
+Da 0° a 360°
+
+
+
+Frequenza modulante
+
+Interno: 1μHz~1MHz; Esterno: 1μHz~2KHz;
+
+
+
+CHIEDI
+
+
+
+Fonte
+
+Interno (CH2), Esterno (porta CHIEDI IN), Manualee
+
+
+
+Forma d'onda modulante
+
+Quadrata con duty cycle del 50%.
+
+
+
+Frequenza chiave
+
+1μHz~10MHz
+
+
+
+FSK
+
+
+
+Fonte
+
+Interna (CH2), Esterna (porta FSK IN), Manualee
+
+
+
+Forma d'onda modulante
+
+Quadrata con duty cycle del 50%.
+
+
+
+Frequenza chiave
+
+1μHz~10MHz
+
+
+
+PSK
+
+
+
+Fonte
+
+Interna (CH2), Esterna (porta PSK IN), Manualee
+
+
+
+Forma d'onda modulante
+
+Quadrata con duty cycle del 50%.
+
+
+
+Frequenza chiave
+
+1μHz~10MHz
+
+
+
+Funzione di scoppio
+
+
+
+Forma d'onda portante
+
+Seno, Quadrato, Rampa, Arbitrario (tranne DC)
+
+
+
+Conte a scoppio
+
+1~1048575
+
+
+
+Sorgente di attivazione
+
+Manualee, interno, esterno (AC/DC)
+
+
+
+Specifiche generali
+
+
+
+Schermo
+
+Tipo
+
+Schermo a colori da 2,4 pollici, TFT.
+
+
+
+Salva e carica
+
+Quantità
+
+20
+
+
+
+Posizione
+
+da 01 a 20 (01 per il valore di default iniziale)
+
+
+
+Interfaccia
+
+Tipo
+
+Interfaccia da USB a seriale
+
+
+
+Protocollo
+
+C'è la modalità linea, che fornisce protocolli di comunicazione.
+
+
+
+Velocità di comunicazione
+
+9600 bps (standard industriale)
+
+
+
+Energia
+
+Intervallo di tensione
+
+AC100V~240V
+
+
+
+tecnico
+
+SMD, LSI, affidabile e durevole
+
+
+
+Cicalino
+
+Può essere attivato/disattivato tramite impostazione.
+
+
+
+Operazione
+
+Pulsanti e manopola in continuo.
+
+
+
+Ambiente
+
+Temp.: 0~40 ℃, Umidità: <80%
+
+
+
+Dimensione
+
+200 mm * 190 mm * 90 mm (L * W * H)
+
+
+
+Peso
+
+850g
+
+
+
+Dimensioni del pacchetto
+
+25 cm * 21 cm * 10 cm (L * W * H)
+
+
+
+peso del pacco
+
+0,98 kg (motore principale, accessori e materiali di imballaggio)
+
+
+
+Nota: FY6900 supporta il cambio di menu in inglese e cinese. La lingua predefinita è l'inglese. 
+
+La confezione include:
+
+
+1 generatore di segnale FY6900 DDS
+
+1 cavo di alimentazione
+
+1 cavo dati USB 
+
+2 cavi con clip BNC
+
+1 cavo BNC-BNC
+
+Immagini dei dettagli:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

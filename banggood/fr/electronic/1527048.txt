@@ -1,0 +1,408 @@
+https://fr.banggood.com/LILYGO-TTGO-T-Call-V1_3-V1_4-ESP32-Wireless-Module-GPRS-Antenna-SIM-Card-SIM800L-Board-p-1527048.html?cur_warehouse=CN&ID=6309940&rmmds=CategoryElectronicsPop
+LILYGO® TTGO T-Call V1.3 V1.4 ESP32 Module sans fil GPRS Antenne Carte SIM SIM800L Carte
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Information sur la version:Entrepôt CN: 1,4 VUSA, entrepôt britannique: 1.3 VCaractéristique:
+
+
+
+
+
+Spécifications matérielles
+
+ 
+
+
+
+Jeu de puces
+
+Microprocesseur LX6 32 bits double cœur ESPRESSIF-ESP32 240MHz Xtensa®
+
+
+
+ÉCLAT
+
+Flash QSPI 4 Mo / PSRAM 8 Mo
+
+
+
+SRAM 
+
+520 kB SRAM
+
+
+
+Bouton
+
+Réinitialiser
+
+
+
+USB vers TTL
+
+CP2104/CH9102F/CH304K (en option)
+
+
+
+Interface modulaire
+
+UART, SPI, SDIO, I2C, LED PWM, TV PWM, I2S, IRGPIO, capteur tactile à condensateur, ADC, préamplificateur DACLNA
+
+
+
+Horloge de bord
+
+Oscillateur à cristal 40MHz 
+
+
+
+Tension de travail
+
+2.7V-3.6V
+
+
+
+Courant de travail
+
+Environ 70mA
+
+
+
+Courant de sommeil
+
+Environ 300uA
+
+
+
+carte SIM
+
+Ne prend en charge que la carte SIM Nano
+
+
+
+Plage de température de travail
+
+-40℃ ~ +85℃
+
+
+
+Taille poids
+
+78,83 mm * 28,92 mm * 8,06 mm (11,77 g)
+
+
+
+Spécifications de l'alimentation
+
+ 
+
+
+
+Source de courant
+
+USB 5V/1A
+
+
+
+Courant de charge
+
+500mA
+
+
+
+Batterie
+
+Batterie au lithium 3.7V
+
+
+
+Connecteur JST
+
+2Pin 1.25mm
+
+
+
+USB
+
+Type-C
+
+
+
+Wifi
+
+ 
+
+
+
+Standard
+
+FCC/CE-RED/IC/TELEC/KCC/SRRC/NCC
+
+
+
+Protocole
+
+802.11 b/g/n (802.11n, vitesse jusqu'à 150 Mbps) Polymérisation A-MPDU et A-MSDU, prend en charge l'intervalle de protection de 0,4 S
+
+
+
+Gamme de fréquences
+
+2,4 GHz~2,5 GHz(2400M~2483,5M)
+
+
+
+Puissance de transmission
+
+22dBm
+
+
+
+Distance de communication
+
+300m
+
+
+
+Bluetooth
+
+ 
+
+
+
+Protocole
+
+répondre aux normes Bluetooth v4.2BR/EDR et BLE
+
+
+
+Fréquence radio
+
+avec une sensibilité de -97dBm Récepteur NZIF Classe 1, Classe 2 et Classe 3 émetteur AFH
+
+
+
+Fréquence audio
+
+Fréquence audio CVSD et SBC
+
+
+
+Spécification du logiciel
+
+ 
+
+
+
+Mode Wifi
+
+Station/SoftAP/SoftAP+Station/P2P
+
+
+
+Mécanisme de sécurité
+
+WPA/WPA2/WPA2-Entreprise/WPS
+
+
+
+Type de chiffrement 
+
+AES/RSA/ECC/SHA
+
+
+
+Mise à jour du firmware
+
+Téléchargement UART/OTA (via le réseau/hôte pour télécharger et écrire le firmware)
+
+
+
+Développement de logiciels
+
+Prise en charge du développement du serveur cloud/SDK pour le développement du micrologiciel utilisateur
+
+
+
+Protocolee de mise en réseau
+
+IPv4, IPv6, SSL, TCP/UDP/HTTP/FTP/MQTT
+
+
+
+Configuration utilisateur
+
+AT + Jeu d'instructions, serveur cloud, android/iSystème d'exploitationapp
+
+
+
+Système d'exploitation
+
+FreeRTSystème d'exploitation
+
+
+
+
+More Information: https://github.com/Xinyuan-LilyGO/TTGO-T-Call
+
+Le forfait comprend :
+
+
+1 x appel en T
+
+1 x cordon d'alimentation
+
+2 x en-tête de broche
+
+1 antenne GPRS (9 cm)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

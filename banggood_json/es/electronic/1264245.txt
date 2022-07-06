@@ -1,0 +1,184 @@
+1264245
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/8B/BD/46f10224-370a-4d30-8e60-607e948cff93.jpeg
+Geekcreit® D1 Mini V3.0.0 WIFI Internet de las cosas Placa de desarrollo basada en ESP8266 4MB MicroPython Nodemcu
+https://es.banggood.com/Geekcreit-D1-Mini-V3_0_0-WIFI-Internet-Of-Things-Development-Board-Based-ESP8266-4MB-MicroPython-Nodemcu-p-1264245.html?cur_warehouse=HK&ID=522225&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Novedades de V3.0.0:
+
+Optimizar el circuito
+Agregue el suéter Deep-Sleep.
+Firmware predeterminado: firmware MicroPython ESP8266 más reciente.
+
+Características:
+
+11 pines de entrada/salida digital, todos los pines admiten interrupción/pwm/I2C/un cable (excepto D0)
+1 entrada analógica (entrada máx. de 3,2 V)
+una conexión Micro USB
+Compatible con MicroPython, Nodemcu
+muchos escudos
+
+El paquete incluye:
+
+1xD1 mini V3.0.0
+2 pines normales.
+2 pines hembra largos
+2 pines hembra cortos
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

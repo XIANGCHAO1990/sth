@@ -1,0 +1,155 @@
+1789000
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/98/76/c7485987-f35f-46e6-8d0d-76513506197b.jpg
+Ender-3 V4.2.7 Mute carte mère Super silencieuse + Kit de capteur de nivellement automatique tactile pour Ender-3 / Ender-3 pro 3D Prinetr
+https://fr.banggood.com/Ender-3-V4_2_7-Mute-Super-Quiet-Motherboard-+-Touch-Auto-Leveling-Sensor-Kit-for-Ender-3-or-Ender-3-pro-3D-Prinetr-p-1789000.html?cur_warehouse=CN&ID=6287830&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction de la carte mère:Super calme. Compatible avec les imprimantes 3D Creality Ender 3, Ender 3 Pro, Ender 5. REMARQUE: il ne branche et joue que pour Ender-3 et Ender 3 Pro. Si vous souhaitez l'installer sur Ender-5, veuillez flasher le firmware Ender-5. Vous pouvez télécharger le firmware ici. 
+https://www.creality.com/downloadPilote - Pilote TMC2208 et Marlin 1.1.8 pour carte V1.1.5 tout en Pilote TMC2225 et Marlin 2.0.1 pour carte V4.2.7. Bootloader préinstallé sur les deux cartes de version.Mettre à jour le micrologiciel - Si la carte que vous avez reçue est V1.1.5, veuillez flasher le micrologiciel avec le câble ISP. Si la carte que vous avez reçue est V4.2.7, veuillez copier le fichier du micrologiciel sur une carte SD formatée ne contenant aucun autre fichier. Mettez l'imprimante hors tension et débranchez le cordon d'alimentation. Insérez la carte SD et le cordon d'alimentation, puis mettez l'imprimante sous tension. Attendez 10s pour terminer le processus de mise à jour du micrologiciel.La protection contre l'emballement thermique est activée. Le conseil est optimisé par circuit, résolvent efficacement le problème de chauffage.Introduction de BLtouch:BLTouch est un type de capteur Hall à semi-conducteur et est un composant électronique pour les imprimantes 3D.BL Touch est un capteur de nivellement automatique pour imprimantes 3D qui peut mesurer avec précision l'inclinaison de la surface du lit. Il peut fonctionner avec tous les types de matériaux de lit, tels que les verres, le bois, les métaux, etc.BLTouch
+ est réalisé avec une structure simple et une haute précision en utilisant des capteurs à solénoïde et à effet hall progressivement conçus. Il vise la commodité de l'utilisateur et une impression agréable en ajoutant de nombreuses fonctions intelligentes, telles que l'autotest, l'alarme, le déclenchement d'alarme et le mode de commutation tactile, le bleu LED pour l'indication du signal d'asservissement et le test de la sonde Z (Zmin). Caractéristiques:Les principales fonctions et commandes de BLTouch sont les mêmes que le capteur de nivellement automatique habituel du lit, qui se compose d'un servo RC et d'un micro-interrupteur. Ainsi, BLTouch peut être appliqué sur presque toutes les cartes.Auto-test ： La goupille-poussoir fonctionne deux fois lors d'un test lorsque l'appareil est sous tension.Alarme ： Le voyant LED clignote si un problème a été détecté lors d'un auto-test ou pendant le fonctionnementIndicateur de défaut de câblage ： Bleu et rouge LED pour indiquer les défauts de câblage.Facile à utiliser: ce capteur de nivellement automatique du lit facilite le nivellement du foyer, qui peut mesurer avec précision l'inclinaison de la surface du lit. Le nivellement du lit n'est plus un problème.Autocontrôle et alarme de l'intelligence: la fonction de nivellement automatique est adoptée pour faciliter son utilisation et augmenter le taux de réussite de la mise en forme.Noter:Certaines cartes mères d'imprimante 3D ont une alimentation 5V insuffisante et peuvent nécessiter une alimentation externe 5V, ce qui montre que la sonde est difficile à pousser, ou que la commande principale de protection du circuit logique redémarre pendant le fonctionnement. S'il est rencontré, c'est généralement recommandé d'utiliser un module abaisseur DC-DC pour prendre l'alimentation de l'alimentation principale. 
+
+  1. + 5V et GND ne doivent pas être connectés à l'envers pendant une longue période, cela peut brûler
+
+  2. Veuillez essayer de vous tenir à l'écart des aimants puissants, des moteurs, des ventilateurs et d'autres composants magnétiques
+  3. Frapper accidentellement la tige en plastique de la sonde peut endommager ou affecter la précision de détection
+  4. Le réglage ou le remontage de la vis de réglage de la sonde nécessite de la colle à filetage
+
+  5. Veuillez éviter la déformation de la coque lors de l'installation de la sonde 6. Tirer fortement la tige en aluminium endommagera ou affectera la précision de détectionEmballage inclus:1 x carte mère1 x BLtouch avec câble
+
+
+
+

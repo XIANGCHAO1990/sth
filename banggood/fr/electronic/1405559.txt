@@ -1,0 +1,520 @@
+https://fr.banggood.com/4S-40A-Li-ion-Lithium-Battery-18650-Charger-PCB-BMS-Protection-Board-with-Balance-For-Drill-Motor-14_8V-16_8V-Lipo-Cell-Module-p-1405559.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+4S 40A Li-ion Lithium Batterie 18650 chargeur PCB BMS carte de Protection avec équilibre pour moteur de forage 14.8V 16.8V Module de cellule Lipo
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fonctionnalité:
+
+	Carte de protection de batterie au lithium 16.8V 40A 4 cordes (livré avec fonction de récupération-récupération automatique)
+
+Portée: tension nominale de 3,6 V, batterie au lithium 3,7 V (y compris 18650, 26650, batterie au lithium polymère)
+
+Taille du produit: 45 * 55 * 3,4 mm (édition standard / améliorée), 46 * 60 * 3,4 mm (version équilibrée)
+
+Poids du produit: 9,3 g (version standard / améliorée), 10,3 g (version équilibrée)
+
+Tension de charge: 16,8 V - 18,1 V
+
+Courant de décharge continu (limite supérieure): 40A (si l'environnement de refroidissement n'est pas bon, veuillez réduire l'utilisation du courant de charge)
+
+Courant de charge continu (limite supérieure): 20A
+
+Version d'égalisation: convient au courant de démarrage inférieur à 80A, puissance 135W en dessous de la perceuse.
+
+
+
+
+
+
+
+
+
+
+
+
+					Projet
+
+					Min.
+
+					Typ.
+
+					Max.
+
+					Unités
+
+
+
+					Consommer du courant
+
+					12
+
+					18
+
+					24
+
+					uA
+
+
+
+					Tension de protection surchargée
+
+					4.2
+
+					4.25
+
+					4.3
+
+					V
+
+
+
+					Tension de démarrage équilibrée
+
+					4.17
+
+					4.2
+
+					4.23
+
+					V
+
+
+
+					Courant d'équilibre
+
+					95
+
+					100
+
+					105
+
+					mA
+
+
+
+					Puissance de chauffage équilibrée
+
+					1.56
+
+					1.72
+
+					1.91
+
+					W
+
+
+
+					Tension de récupération de surcharge
+
+					4.1
+
+					4.15
+
+					4.2
+
+					V
+
+
+
+					Tension de protection contre les décharges excessives
+
+					2.4
+
+					2.5
+
+					2.6
+
+					V
+
+
+
+					Protection contre les surtensions après protection contre les décharges excessives
+
+					2.8
+
+					3
+
+					3.2
+
+					V
+
+
+
+					Protection contre les surtensions après protection contre les décharges excessives
+
+					3.2
+
+					3.5
+
+					3.8
+
+					V
+
+
+
+					Tension de récupération de décharge excessive
+
+					2.9
+
+					3.2
+
+					3.3
+
+					V
+
+
+
+					Résistance interne de conduction
+
+					2.5
+
+					3
+
+					3.5
+
+					mQ
+
+
+
+					Courant de protection contre les surintensités C
+
+					70
+
+					80
+
+					90
+
+					A
+
+
+
+					Temps de retard de surintensité
+
+					100
+
+					150
+
+					200
+
+					SP
+
+
+
+					Courant de fonctionnement continu
+
+					0
+
+					40
+
+					40
+
+					A
+
+
+
+					Puissance de sortie continue
+
+					0
+
+					672
+
+					672
+
+					W
+
+
+
+					Température ambiante
+
+					-40
+
+					25
+
+					85
+
+					° C
+
+
+
+
+
+
+
+
+
+
+
+
+
+					Dépannage:
+
+
+
+
+
+
+
+					Phénomène de défaut
+
+					Vérification des défauts et cause
+
+					La solution
+
+
+
+					Impossible de charger
+
+					Mesure de la tension de 4 groupes de batteries. lorsque l'une des tensions de batterie dépasse 4,25 V, 
+					la carte de protection activera la protection contre les surcharges.
+
+					Associez bien la batterie, ne mélangez pas 
+					la bonne batterie et la mauvaise batterie.
+
+
+
+					Impossible de décharger
+
+					Mesure de la tension de 4 groupes de batteries. lorsque l'une des tensions de batterie est inférieure à 2,7 V, 
+					le panneau de protection activera la décharge excessive 
+					protection.
+
+					Associez bien la batterie, ne mélangez pas 
+					la bonne batterie et la mauvaise batterie.
+
+
+
+					Charge / décharge 
+					échec
+
+					OV, 4.2V, S.4V, 12.6V, 16.8V mal câblé
+
+					Recâbler ou remplacer la nouvelle carte 
+					(défaillance humaine, pas de garantie)
+
+
+
+					Surcharge / décharge excessive 
+					échec
+
+					OV, 4.2V, 8.4V, 12.6V, 16.8V mal câblé
+
+					Recâbler ou remplacer la nouvelle carte 
+					(défaillance humaine, pas de garantie)
+
+
+
+					Protection contre les décharges
+
+					Vérifiez que la batterie est suffisamment déchargée 
+					capacité et vérifiez que le courant de démarrage de la charge 
+					dépasse le courant de protection contre les surintensités du 
+					panneau de protection.
+
+					Remplacez la batterie par un 
+					capacité de décharge, ou une protection 
+					plaque avec un courant plus important 
+					(super plage de travail)
+
+
+
+					Soudure de composants
+
+					Il n'y a pas de connexion entre l'un des composants 
+					et le pad PCB.
+
+					Réparation de soudure
+
+
+
+					Soudage de composants
+
+					Il y a un court-circuit entre deux ou plusieurs broches du 
+					composant.
+
+					Retirer le composant et re-souder
+
+
+
+					Panne électrostatique A
+
+					À l'état non alimenté, mesurez G, D et S 
+					pôles du MOSFET. Si la marche avant et arrière 
+					les résistances de deux broches quelconques sont 0Q, 
+					cela indique qu'il est en panne.
+
+					Retirez le tube MOS de remplacement
+
+
+
+					Panne électrostatique B
+
+					Retirez le tube MOS et mesurez la résistance 
+					des pôles G et D, G et S du tube MOS. 
+					S'il y a une résistance indiquant qu'elle s'est cassée 
+					vers le bas, la résistance devrait être infinie.
+
+					Retirez le tube MOS de remplacement
+
+
+
+
+Le forfait comprend:
+
+	1 x carte de protection Batterie 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

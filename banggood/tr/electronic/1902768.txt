@@ -1,0 +1,448 @@
+https://tr.banggood.com/GTMEDIA-V8-Finder-Pro-Satellite-Signal-Finder-DVB-S2X-S2-S-T2-T-C-ATSC-C-H_265-Support-Youtube-Auto-Calculate-Angle-of-AZ-EL-VCM-ACM-p-1902768.html?cur_warehouse=CN&ID=43101&rmmds=CategoryElectronicsPop
+GTMEDIA V8 Bulucu Pro Uydu Sinyal Bulucu DVB-S2X S2 S T2 TC ATSC-C H.265 Destek Youtube AZ EL VCM ACM Açısını Otomatik Hesapla
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikler:
+
+
+
+Ana Özellikler:
+
+
+4.3 İnç Yüksek Çözünürlüklü TFT LCD Ekran
+
+
+Tam DVB-S2X/S2/S/T2/T/C, MPEG-2/MPEG-4 uyumlu
+
+
+H.264/H.265(10 Bit) Donanım kod çözme desteği
+
+
+Sinyal gücü ve kalitesi için dijital ölçüm cihazı. Tüm uydu bilgilerinin önceden ayarlanmasını destekler
+
+
+Destek Döngüsü Araması
+
+
+İzgesel çözümleyici
+
+
+Otomatik, Kör, Manuel veya NIT taramasını destekler
+
+
+Kilitleme Sinyali için Ses
+
+
+AZ,EL Açısını Otomatik Hesapla
+
+
+DISEQC 1.0/1.1/1.2, Unicable, 0/22kHz Tonu destekler
+
+
+Hoparlör Entegre
+
+
+Hem AV çıkışını hem de AV girişini destekleyin
+
+
+Her iki HDMI çıkışını da destekleyin 
+
+
+AHD kamera girişini destekler
+
+
+Destek pusula işlevi
+
+
+Düşük güç hatırlatıcısı ile gerçek zamanlı güç göstergesini destekleyin
+
+
+USB wifi 2.4G için Youtube'u destekler
+
+
+LNB kısa koruma
+
+
+7.4V/4000mAh Li-ion Batarya Dahil
+
+
+USB portu üzerinden yazılım yükseltme
+
+
+Taşıması kolay
+
+
+Özellikler:
+
+
+İLETİM STANDARTLARI: DVB-S2X/S2/S,DVB-T2/T, DVB-C/ATSC-C, MPEG-2, MPEG-4, H.264/H.265(10 Bit)
+
+
+Softcam'i destekler: BISS otomatik rulo, PowerVu otomatik rulo, TNT(19.2E)
+
+
+Destek VCM, ACM, çoklu akış, T2MI, Çoklu PLP
+
+
+IKS'yi destekler: CCCAM, NEWCAM, MGCAM için
+
+
+UYDU GİRİŞİ/DEMODÜLASYON
+
+
+Konektör Tip
+F Tip
+
+
+Giriş Frekansı
+950 - 2150 MHz
+
+
+Sinyal Giriş Seviyesi
+-65 to -25 dBm
+
+
+Bant Anahtarı Kontrolü
+22KHz
+
+
+LNB Temini 
+13V/18V, Maks 350mA
+
+
+Demodülasyon Tip
+DVB-S2 QPSK, DVB-S2 QPSK/8PSK/16APSK/32APSK, DVB-S2X QPSK/8PSK/16APSK/32APSK/64APSK
+
+
+Sembol Oranı
+2<Rs<45Mbant(SCPC/MCPC)
+
+
+DVB-T2/T/Kablo GİRİŞİ/DEMODÜLASYON
+
+
+Konektör Tip
+Kadın Tip
+
+
+Giriş Frekansı
+48 ila 862 MHz
+
+
+Sinyal Giriş Seviyesi
+-80 dBm(MAX)
+
+
+KARınca Temini
+5V DC @ 120mA MAX
+
+
+Demodülasyon Tip
+QPSK, 16QAM, 32QAM, 64QAM, 128QAM, 256QAM
+
+
+LCD ÖZELLİKLERİ
+
+
+LCD Tip
+TFT İletken
+
+
+Nokta Sayısı
+800 RGB(Y) x 480(D)
+
+
+Aktif alan (G*Y)
+95.04 x 53.86mm
+
+
+AV çıkış arayüzü
+
+
+Konektör Tip
+3.5 mm jack
+
+
+Video çıkışı
+CVBS
+
+
+Ses çıkışı
+Stereo Ses Sol/Sağ çıkışı
+
+
+HDMI çıkış konektörü
+
+
+Biçim
+HDMI 1.3a
+
+
+AV giriş arayüzü
+
+
+Konektör Tip
+3.5 mm jack
+
+
+Video girişi
+CVBS
+
+
+Ses girişi
+Stereo Ses Sol/Sağ girişi
+
+
+AHD giriş arayüzü
+
+
+Konektör Tip
+BNC Kadın 
+
+
+İç direnç
+75Ω
+
+
+Frekans aralığı
+DC～2GHz
+
+
+Video girişi desteği
+NTSC/PAL, 720P/1080P
+
+
+SES/VİDEO İŞLEME
+
+
+video açma
+MPEG-2 MP@HL, MPEG-1 Kod Çözme, MPEG-4 ASP@l5 HD çözünürlük, H.264 / H.265 MP&HP@L4, HW JPEG kod çözücü
+
+
+Çözme oranı
+PAL-25 çerçeve@7200*576, NTSC -30 çerçeve@720*480
+
+
+Sinyal uyumluluğu
+Farklı video formatları için dönüştürme desteği
+
+
+Video formatı
+4:3, 16:9, Pan & Scan ve Letter Kutu dönüştürme ile
+
+
+Ses Dekompresyonu
+MPEG-1 Katman I/II, MPEG-2 Katman I/II
+
+
+Ses Çıkış Modu
+Stereo, Mono, Sağ/Sol
+
+
+VERİ HİZMETİ PORTU
+
+
+bağlayıcı 
+USB 
+
+
+Veri Protokolü
+USB 2.0 arayüzü
+
+
+Dosya Yönetim Sistemi
+NTFS, FAT32, FAT16
+
+
+Dosya formatı
+Medya: TS,mkv, mp4, avi, flv, f4v, ts, m2ts, mov, 3gpSes: wma,mp3Fotoğraf: jpg,jpeg,bmp,img
+
+
+PVR Seçeneği
+TS dosyalarını kaydetme desteği
+
+
+WIFI Seçeneği
+USB WIFI üzerinden ağ desteği
+
+
+GÜÇ KAYNAĞI
+
+
+Li-Lon Batarya
+7.4V/4000mAh(Etiketlemenin arkasındaki makine geçerli olacaktır)
+
+
+adaptör
+ÇIKIŞ: DC 9V/2.5A, GİRİŞ: 100～240VAC 50/60Hz(Gerçek konfigürasyona tabi olacaktır)
+
+
+Güç tüketimi
+Maks.10W
+
+
+FİZİKSEL ÖZELLİKLER
+
+
+Ürün Boyut Boyutu(G*D*Y)
+123*204*45(mm)
+
+
+Ürün Net Ağırlık
+0.6kg
+
+
+Ambalaj kutusu Numara(G*D*Y)
+260*200*57(mm)
+
+
+Paket ağırlığı
+0.85kg
+
+
+Hava sıcaklığı
+Operasyon 0～+45℃; Depolama -10 ~ + 60℃
+
+
+Nem
+%20~90, yoğunlaşmamış
+
+Özellik: GTMEDIA V8 Bulucu Pro bir DVB-S2X/S2/S/T2/T/C ve MPEG-2/4 H.264/H.265 (10 bit) uyumlu el tipi kombo metre, Kompakt boyutu, hafifliği, sezgisel kullanıcı arayüzü, uzun pil çalışma saatleri ve zengin özellik seti ile sayaç, dijital uydu TV hizmeti, anten sinyali ve kablo kurulumu ve doğrulaması için gereken tüm fonksiyonları sağlar. konutlara veya çok konutlu birimlere sinyal4.3 İnç Yüksek Çözünürlüklü TFT LCD Ekran Tam DVB-S2X/S2/S/T2/T/C, MPEG-2/MPEG-4 uyumlu H.264/H.265(10 Bit) Donanım kod çözme desteği Sinyal gücü ve kalitesi için dijital ölçüm cihazı. Tüm uydu bilgilerinin önceden ayarlanmasını destekler Destek Döngüsü Araması İzgesel çözümleyici Otomatik, Kör, Manuel veya NIT taramasını destekler Kilitleme Sinyali için Ses AZ,EL Açısını Otomatik Hesapla DISEQC 1.0/1.1/1.2, Unicable, 0/22kHz Tonu destekler Hoparlör Entegre Hem AV çıkışını hem de AV girişini destekleyin Her iki HDMI çıkışını da destekleyin  AHD kamera girişini destekler Destek pusula işlevi Düşük güç hatırlatıcısı ile gerçek zamanlı güç göstergesini destekleyin USB wifi 2.4G için Youtube'u destekler LNB kısa koruma 7.4V/4000mAh Li-ion Batarya Dahil USB portu üzerinden yazılım yükseltme Taşıması kolay Paket içeriği:1 x GTMEDIA V8 Bulucu Pro(Diğer ürünler dahil değildir)1 x Güç Adaptörü1 x Kullanım Kılavuzu1 x Depolama ÇantaDepolama çantası: [bağlantı]
+
+
+
+

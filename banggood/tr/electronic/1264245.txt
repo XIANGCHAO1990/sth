@@ -1,0 +1,182 @@
+https://tr.banggood.com/Geekcreit-D1-Mini-V3_0_0-WIFI-Internet-Of-Things-Development-Board-Based-ESP8266-4MB-MicroPython-Nodemcu-p-1264245.html?cur_warehouse=HK&ID=522225&rmmds=CategoryElectronicsPop
+Geekcreit® D1 Mini V3.0.0 WIFI Internet Of Things Geliştirme Kartı Tabanlı ESP8266 4MB MicroPython Nodemcu
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+V3.0.0 ile ilgili yenilikler:
+
+Devreyi optimize edin
+Deep-Sleep jumper'ı ekleyin.
+Varsayılan üretici yazılımı: en son MicroPython ESP8266 üretici yazılımı.
+
+Özellikler:
+
+11 dijital giriş/çıkış pini, tüm pinler interrupt/pwm/I2C/one-wire desteklidir(D0 hariç)
+1 analog giriş(3.2V maksimum giriş)
+bir Mikro USB bağlantısı
+MicroPython, , Nodemcu ile uyumlu
+çok sayıda Kalkan
+
+Paket içeriği:
+
+1 adet D1 mini V3.0.0
+2 x Normal pim
+2 x Uzun dişi pim
+2 x Kısa dişi pim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

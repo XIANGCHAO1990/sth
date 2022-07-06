@@ -1,0 +1,145 @@
+1739035
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/5A/A2/15182bed-0ddc-4eb4-823d-a4a34596b3cd.jpg
+Lithium Batteria Energy Transfer Board 2 stringhe-17 String Inductance Converter 1.2A Modalità di bilanciamento ad alta corrente
+https://it.banggood.com/Lithium-Battery-Energy-Transfer-Board-2-Strings-17-String-Inductance-Converter-1_2A-High-Current-Balance-Mode-p-1739035.html?cur_warehouse=CN&ID=6294208&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:Istruzioni per l'equilibrio:1. Quando la spia di equalizzazione è accesa, il lavoro di equalizzazione è attivato,2. La spia di equalizzazione si spegne e il circuito di equalizzazione si interrompe,3. La spia di equalizzazione lampeggia, la stringa è caduta o il circuito è difettoso.Principio di equilibrio:Questo modulo è adiacente all'equalizzazione della differenza di pressione, la differenza di tensione della batteria adiacente raggiunge più di 0,1 V e il chip interno attiva il lavoro di equalizzazione fino a quando la differenza di tensione della batteria adiacente è entro 0,03 V e c'è una differenza di pressione adiacente quando viene utilizzata sul pacco batteria. Attivando il lavoro di equalizzazione, anche l'errore di tensione del pacco batteria verrà riportato a un valore più ideale, riducendo i costi di manutenzione della batteria.Specifica:La tensione di lavoro è 2,0 V-4,5 V, la batteria al litio in ferro ternario è universale, la batteria al titanato di litio LTO non è applicabile.Corrente di equilibrio:La differenza di tensione adiacente è superiore a 0,1 V (la corrente è di circa 0,5-0,7 A);La differenza di tensione adiacente è superiore a 0,2 V (raggiungere la corrente di equalizzazione massima 1,2 A);Minore è la differenza di pressione, minore è la corrente di equalizzazione.Definizione del cablaggio:B-, il polo negativo totale del pacco batteria (il polo negativo della prima batteria)B1, il terminale positivo della prima batteriaB2, il polo positivo della seconda batteriaB3 ... e così via.Il pacchetto include:1 x tavola1 x 30 cm di filo terminale in rame puro da 22 awg
+
+
+
+

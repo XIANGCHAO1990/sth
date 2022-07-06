@@ -1,0 +1,220 @@
+1383186
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/02/6C/11cf490a-4f96-4ec1-8ccc-01927e76f046.jpg
+XH-W1209 DC 12V Termostat Sıcaklık Kontrol Anahtarı Termometre Dijital LED Ekranlı Kontrol Cihazı
+https://tr.banggood.com/XH-W1209-DC-12V-Thermostat-Temperature-Control-Switch-Thermometer-Controller-With-Digital-LED-Displa-p-1383186.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikleri:
+
+
+
+1.100% tam makine çipi, dalga lehimleme, istikrarlı performans, iyi tutarlılık
+
+2. Gömülü merkezi işlemci yongası (MCU), daha akıllı, daha düşük güç tüketimi
+
+3. Kapanma ayarları otomatik olarak hafıza (MCU dahili EEPROM Depo ünitesi)
+
+4. 0.1 santigrat derece kontrol doğruluğu
+
+5. Histerezis setinden 0.1, ondalık basamağı kontrol edebilirsiniz (0.1-15.0)
+
+
+
+Teknik parametreler:
+
+
+
+Sıcaklık kontrol aralığı: -50 ~ 110 °
+
+Çözünürlük: -9.9 ~ 99.9, diğer sıcaklık 0.1 ° 1 ° olduğunda
+
+Sıcaklık ölçüm doğruluğu: 0.1 °
+
+Kontrol doğruluğu: 0.1 °
+
+Histerezis doğruluğu: 0.1 °
+
+Yenileme hızı: 0,5 S
+
+Giriş gücü: DC 5V, DC 12V, DC 24V
+
+Ölçüm girişi: NTC (10K 0,5%) Su Geçirmez sensör
+
+Çıkış: 1 röle çıkışı, kapasite = 20A 125VAC, 20A 14VDC
+
+Çevresel gereksinimler: -10 ~ 60 ° Nem %20 -%85
+
+Özellikler Boyut: 48.5 * 40mm
+
+Toplam güç tüketimi: Sakin akım: ≤ 10MA Çekme akımı: ≤ 65MA
+
+
+
+Kullanım:
+
+
+
+- İstenilen sıcaklığı ayarlamak için + düğmesine basın (hızlı bir şekilde yukarı ve aşağı hareket etmek için + - düğmesini basılı tutun) Ekranın sıcaklığını ayarlayın. 
+
+- Geri dönüşün tamamlandığını onaylamak için SET'e basın, ardından röleyi kapatarak kontrolör otomatik olarak! 20A rölesi için termostat çıkışı çeşitli yüksek güçlü yükleri karşılamak için, kontrol devresini bağlayın, termostata güç sağlayabilirsiniz, bu ekran ortam sıcaklığını gösterir
+
+- Gösterge: Yanıp sönme, soğutma veya ısıtma başlatma gecikmesini gösterir. Gösterge açık ise rölenin kapalı olduğunu gösterir.
+
+- Dijital kontrol: ekran LL sensörü açık, sensörü bağlamak için lütfen talimatları izleyin; HH göstergesinin ölçüm aralığının dışında olması röleyi termostatın bağlantısını kesmeye zorlayacaktır; yüksek sıcaklık alarmı görüntüler.
+
+
+
+Paket içeriği:
+
+
+
+1 x XH-W1209 Sıcaklık Kontrol Cihazı
+
+
+
+
+
+
+
+
+
+
+
+
+
+

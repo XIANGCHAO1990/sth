@@ -1,0 +1,353 @@
+1855813
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/0E/E5/2bde8b24-ac49-47e5-a9f6-e384d6689cde.jpg
+X96 X6 Smart TV Kutu RK3566 Rockchip 8GB RAM 128GB ROM Android 11.0 HD 8K 2T2R 2.4G 5G Wifi Bluetooth TV Kutues Kızılötesi Uzakdan Kumanda
+https://tr.banggood.com/X96-X6-Smart-TV-Box-RK3566-Rockchip-8GB-RAM-128GB-ROM-Android-11_0-HD-8K-2T2R-2_4G-5G-Wifi-Bluetooth-TV-Boxes-with-Infrared-Remote-Control-p-1855813.html?cur_warehouse=CN&ID=47757&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</s>️</s>️</s>️</s>️</s>️
+
+
+
+
+
+
+Temel parametreler
+
+
+İşlemci
+yonga seti
+RK3566
+
+
+Mimari
+Dört Çekirdekli ARM Cortex A55
+
+
+GPU
+yonga seti
+Mali-G52 1-Core-2EE
+
+
+Mimari
+OpenGL ES 1.1/2.0/3.2 için, OpenCL 2.0 için, Vulkan 1.1 desteği
+
+
+NPU
+
+0,8 TOPS'a kadar işleme performansına sahip sinir ağı hızlandırma motoru
+
+
+Veri deposu
+Kapasite
+8GB
+
+
+ROM
+Kapasite128GB
+
+
+Harici Depo
+USB Depolama Aygıtları
+Desteklenen
+
+
+Mikro SD kart
+Desteklenen
+
+
+Yazılım
+
+
+İşletim sistemi
+OS sürümü
+Android 11
+
+
+Dil
+Çoklu Dil
+
+
+Multimedya
+Video
+Video Kod Çözücü
+
+
+H.265 HEVC/MVC Main10 Profili yuv420@L5.1, 4096x2304@60fps'ye kadar
+
+
+H.264 AVC / MVC Ana10 Profili yuv400/yuv420/yuv422/@L5.1 4096x2304'e kadar @ 60fps
+
+
+VP9 Profili0 / 2 yuv420@L5.1 4096x2304 @ 60fps'ye kadar
+
+
+VP8 sürümü2, 1920x1088@60fps'ye kadar
+
+
+VC1 Basit Profil@düşük, orta, yüksek seviyeler, Ana Profil@düşük, orta, yüksek seviyeler, Gelişmiş Profil@seviye0~3, 1920x1088@60fps'ye kadar
+
+
+MPEG-4 Basit Profil@L0~6, Gelişmiş Basit Profil@L0~5, 1920x1088@60fps'ye kadar
+
+
+MPEG-2 Ana Profil, düşük, orta ve yüksek seviyeler, 1920x1088@60fps'ye kadar
+
+
+MPEG-1 Ana Profil, düşük, orta ve yüksek seviyeler, 1920x1088@60fps'ye kadar
+
+
+H.263 Profile0, 10-70 seviyeleri, 720x576@60fps'ye kadar
+
+
+Video Kodlayıcı
+
+
+H.264/AVC BP/MP/HP@level4.2, 1920x1080@100fps'ye kadar
+
+
+H.265 / HEVC MP@level4.1, 1920x1080 @ 100fps'ye kadar (TILE ile 4096x4096 @ 10fps)
+
+
+Döndürme ve ayna ile YUV / RGB video kaynağını destekleyin
+
+
+Ses
+MP3, AAC, WMA, FLAC, Ogg'u destekler
+
+
+resim
+HDJPEG, BMP, GIF, PNG, TIF
+
+
+ağ hizmeti
+
+
+Wifi
+Tür
+WiFi IEEE 802.11 b / g / n / ac'yi destekleyin
+
+
+Sıklık
+2.4G ve 5G'yi destekleyin
+
+
+Anten Tip
+İki harici anten
+
+
+Bluetooth
+Bluetooth
+BT4.X'i destekleyin
+
+
+Arayüz
+
+
+Şarj etmek
+DC konektörü
+DC GİRİŞİ(5V/2A) 
+
+
+Video çıkışı
+HDMI
+4Kx2K UHD Çıkışı, HDMI 1.4/2.0
+
+
+IR Alıcı
+3.5mm Telefon Kulaklığı jak
+Uzak Alıcı Bağlantısı
+
+
+Mikro SD
+Harici bellek
+Destek
+
+
+USB girişi
+USB ana bilgisayar
+1x USB3.0 2x USB2.0 normal tip 
+
+
+Ethernet
+Ethernet
+1000M Ethernet
+
+
+Görünüm
+
+
+Gövde Malzemesi
+metal
+
+
+Renk
+gri
+
+
+Boyut
+105x105x20(mm)
+
+
+Ağırlık
+/
+
+
+Sertifikalar(Birim İçin)
+
+
+Standart
+CE
+/
+
+
+RoHS
+/
+
+
+Paket içeriği
+Nakliye Bilgileri
+
+
+1 x Kullanım kılavuzu, 1 x Hediye Kutusu, 1 x Kızılötesi remote kontrolü, 1 x HDMI harici kablo, 1 x Güç adaptörü
+Hediye Kutu Boyut(mm)
+205x140x50(mm)
+
+Özellik:İşlemci: Rockchip RK3566 Quad Core ARM Cortex A55GPU: Mali-G52 1-Core-2EE, OpenGL ES 1.1/2.0/3.2 için, OpenCL 2.0 için, Vulkan 1.1 desteği Veri deposu: 8GBROM: 128GBHarici depolama: Destek USB Depolama Aygıtları, Mikro SD kartİşletim sistemi: Android 11.0Dil: Çoklu DilVideo Kod Çözücü: H.265 HEVC/MVC Main10 Profili yuv420@L5.1, 4096x2304@60fps'ye kadar; H.264 AVC/MVC Main10 Profili yuv400/yuv420/yuv422/@L5.1 4096x2304@60fps'ye kadarWifi: WiFi IEEE 802.11 b/g/n/ac'yi destekler; 2.4G ve 5G'yi destekleyin; İki harici antenBluetooth: BT4.X'i DestekleyinHDMI: 4Kx2K UHD Çıkışı, HDMI 1.4/2.0 Paket içeriği:1 x X96 X6 Smart TV Kutu (Diğer ürünler dahil değildir)1 x Kullanım Kılavuzu1 x Kızılötesi Uzakdan Kumanda1 x HDMI Harici Kablo1 x Güç Adaptörü 
+
+
+
+

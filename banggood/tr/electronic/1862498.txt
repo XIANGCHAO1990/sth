@@ -1,0 +1,358 @@
+https://tr.banggood.com/ESCAM-WNK614-8CH-3MP-Wireless-Dome-Camera-CCTV-Security-System-NVR-Kit-Two-Way-Audio-Dual-Light-Motion-Sensor-Detection-IP-Camera-p-1862498.html?cur_warehouse=CN&ID=47184&rmmds=CategoryElectronicsPop
+ESCAM WNK614 8CH 3MP Kablosuz Dome Kamera CCTV Güvenlik Sistemi NVR Kit İki Yönlü Ses Çift Işık Hareketi Sensör Algılama IP Kamera
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikleri:UYGULAMA: EseeCloud1. Destek H.265 video sıkıştırma formatı2. 8 kanal kablosuz NVR+4 kanal 3 MP yüksek çözünürlüklü dome kamera（Daha fazla kamera eklemeniz gerekiyorsa, lütfen >>>Buraya tıklayın<<<）3. Çift ışık kaynaklarına sahip üç çeşit akıllı tam renkli gece görüşü3. İki yönlü sesi destekleyin4. 7 gün ücretsiz yinelenen bulut Depo5. Maksimum destek 1 yuvalı 6 TB sabit sürücü6. Destek hareket sensörü algılama alarmı itme videosu7. Mobil APP uzaktan izlemeyi destekleyinŞartname:* 3.0MP kablosuz ağ sabit disk video kaydedici;* Yerleşik güvenlik özel kablosuz WIFI modülü, kararlı sinyal ve güçlü parazit önleme özelliği;* WIFI eşleştirmesine gerek yok, kutu açıldığında görüntü görüntülenecektir;* Kablolu ve kablosuz karma kullanım, çeşitli senaryolara uyum sağlar;* P2P EseeCloud (APP: EseeCloud), saniyeler içinde uzaktan bağlantı, pürüzsüz ve kararlı görüntü;* Çoklu alarm tetikleyicilerini (video kaybı/hareket algılamaları vb.) ve alarm çıkışını (ses/E-Posta/FTP vb.) destekler;* Destek Android / Apple cep telefonu (veya tablet) uzaktan (LAN ve İnternet) erişim ve kontrol. 
+
+
+
+
+Kablosuz NVR
+
+
+işletim sistemi
+Gömülü Linux gerçek zamanlı işletim sistemi
+
+
+Video ve ses girişi
+Ağ video girişi
+8 kanal
+
+
+Video ve ses çıkışı
+HDMI çıkışı
+1 kanal, çözünürlük: 1024x768, 1280x1024, 1366x768, 1440x900, 1920x1080p, ses çıkışını destekler
+
+
+VGA çıkışı
+1 kanal, çözünürlük: 1024x768, 1280x1024, 1366x768,1440x900, 1920x1080p
+
+
+Video ve ses codec parametreleri
+Video çözünürlüğü
+D1/960H/720P/960P/1080P/3MP
+
+
+senkron oynatma
+4 kanal
+
+
+Video 
+Video/yaka modu
+Manuel kayıt, zamanlama kaydı, hareket algılama kaydı, alarm kaydı
+
+
+oynatma modu
+Anında oynatma, düzenli oynatma, olay oynatma
+
+
+Yedekleme modu
+Düzenli yedekleme
+
+
+Depolamak 
+Bulut Depo
+7 gün ücretsiz yinelenen Depo
+
+
+Sabit disk arabirim türü
+1 SATA arabirimi
+
+
+Maksimum sabit disk kapasitesi
+6 TB'a kadar sabit sürücü
+
+
+Harici arayüz
+Ağ Arayüzü
+1, RJ45 10M/100M uyarlanabilir Ethernet bağlantı noktası
+
+
+USB arabirimi
+1 USB
+
+
+ses bağlantı noktası
+3,5 mm kulaklık bağlantı noktası
+
+
+Ağ
+ağ protokolü
+UPnP (tak ve çalıştır), SMTP (posta hizmeti), PPPoE (çevirmeli İnternet erişimi), DHCP (otomatik olarak bir IP adresi al), vb.
+
+
+
+
+başka
+güç kaynağı
+DC 12V 2A
+
+
+Güç tüketimi (sabit disk olmadan)
+≤5W
+
+
+Çalışma sıcaklığı
+-10℃--＋55℃
+
+
+çalışma nemi
+%10--%90
+
+
+Ağırlık (sabit disk olmadan)
+≤1Kg
+
+
+boy
+255×220×42mm
+
+
+kablosuz IPC
+
+
+piksel
+3MP
+
+
+Resim Sensör
+1/2,7” CMOS Sensör, renkli: 0,1 Lüks, siyah/beyaz: 0,01 Lüks
+
+
+Lens
+4mm
+
+
+Video işleme
+H.264/H.265 video kodlama, çift akışı destekler
+
+
+Görüntü çıkışı
+Ana akış: 2304*1296@15fps; Alt akış: 640x360@15fps
+
+
+deklanşör
+Otomatik deklanşör
+
+
+Gürültü azaltma
+2D/3D gürültü azaltma desteği
+
+
+Geniş dinamik
+Dijital geniş dinamiği destekleyin
+
+
+Gündüz ve gece modu
+IR-CUT kızılötesi filtre tipi, kızılötesi / tam renkli / akıllı 3 modu destekler
+
+
+görüntü çevirme
+Yatay ve dikey çevirme desteği
+
+
+Ses işleme
+G.711 codec standardı, ses ve video senkronizasyonunu destekler
+
+
+ses bağlantı noktası
+1 giriş, seviye 2Vp-p, empedans 1kΩ, MIC/alma girişini destekler; 1 çıkış, empedans 8Ω, 1W çıkış gücü, doğrudan hoparlör desteği
+
+
+Kablolu ağ
+1 RJ45 Ethernet arabirimi, 10/100M uyarlanabilir; RTSP/FTP/PPPOE/DHCP/DDNS/NTP/UPnP ve diğer ağ protokollerini destekler
+
+
+Kablosuz ağ
+802.11b/g/n
+
+
+IR sinyal arayüzü
+1 fotodirenç arabirimi, 1 IR-CUT sürücü arabirimi, çift ışık kaynaklı lamba paneli kontrolünü destekler (çift IO kontrolü, lamba paneli yok MCU)
+
+
+Yuntai
+350° sol ve sağ, 90° yukarı ve aşağı
+
+
+Sıfırlama düğmesi arayüzü
+yanında olmak
+
+
+SD kart yuvası
+Maksimum destek 128G
+
+
+Özellikleri
+Hareket algılamaları; alarm bilgilerini itin; cep telefonlarının ve istemcilerin uzaktan izlenmesini destekler
+
+
+Gece görüşü
+4 IR ışık + 4 beyaz ışık
+
+
+güç kaynağı
+DC 12V 1A
+
+
+ağırlık
+0.65kg
+
+
+boy
+156x91x130mm
+
+
+Paket Bilgileri
+Ağırlık
+3.25kg
+
+
+Boy
+320x332x170mm
+
+
+Paket listesi
+8CH WIFI NVR*1, WIFI kamera*4, NVR güç adaptörü*1,kamera güç adaptörü*4, kılavuz*1, fare*1, vida paketi*4, ağ kablosu*1
+
+
+
+Paket içeriği:1 x Kablosuz NVR4 x WIFI IP Kamera1xMouse5 x 12v 2A NVR Güç Adaptörü1 x 1m Ağ Kablosu4 x Vidalar Kit1 X Hızlı Başlangıç Kılavuzu
+
+
+
+

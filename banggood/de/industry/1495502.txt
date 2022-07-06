@@ -1,0 +1,1028 @@
+https://de.banggood.com/FY6900-Dual-Channel-DDS-Function-Arbitrary-Waveform-Signal-Generator-Pulse-Signal-Source-Frequency-Counter-Fully-Numerical-Control-20MHZ-or-60MHZ-p-1495502.html?cur_warehouse=CN&ID=47757530531&rmmds=CategoryToolsPop
+FY6900 Zweikanal DDS Funktion Arbitrary Waveform Signal Generator Pulssignalquelle Frequenzzähler Vollnumerische Steuerung 20 MHz / 60 MHz
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>Please Click Here to Download the English User Handbuch<<>>Please click here to download PC software<<Haupteigenschaften:
+
+
+
+♦ Verwenden Sie die Direct Digital Synthesizer (DDS)-Technologie und liefern Sie stabile, präzise, reine und verzerrungsarme Signale. 
+
+♦ 2,4 Zoll TFT Farbe LCD mit 320×240 Auflösung, Anzeige von Parametern und Grafiken der beiden Kanäle gleichzeitig.
+
+♦ Das Instrument verwendet einen 14-Bit-Hochgeschwindigkeits-D / A-Wandlerchip (5 Vpp-Ausgangsquantisierungsfehler beträgt weniger als 1 mV). 250 MSa/s Abtastrate, 14 Bit vertikale Auflösung.
+
+♦ Kann bis zu 97 Funktionsgruppen / beliebige Wellenformen ausgeben, enthält 33 Gruppen voreingestellter Wellenformen und 64 Gruppen benutzerdefinierter Wellenformen. Voreingestellte Wellenformen: Sinus, Rechteck (Auslastungsgrad einstellbar), Puls (Pulsbreite und Zykluszeit können genau eingestellt werden), Dreieck/Rampe, CMOS (0~12 V), vier Kanäle TTL, exponentieller Anstieg, exponentieller Abfall, Rauschen, EKG, DC usw.
+
+♦ Ermöglicht das Speichern von 64 willkürlichen Wellenformdatendateien, jede mit einer Wellenformspeichertiefe von 8192 Punkten * 14 Bit; (Je länger die Wellenformspeichertiefe ist, desto detaillierter wird die Wellenform gespeichert und die Signaldetails können mit hoher Genauigkeit wiederhergestellt werden.)
+
+♦ Verschiedene Modulationsarten: AM-, FM-, PN-, FRAGEN-, FSK- und PSK-Modulationen.
+
+♦ Fegen-Funktion: Es kann 4 Eigenschaften von Signalen, einschließlich Frequenz, Amplitude, Offsets und Arbeitszyklus, fegen; Es hat zwei Fegen-Artn Linear und Logarithmus; 0,01 s ~ 999,99 s Wobbelzeit; Up-, Down- und Roundtrip-Fegen-Richtungen.
+
+♦ VCO-Funktion (Voltage Control Ausgabe): Kann durch ein externes Eingangssignal erreicht werden: Spannungssteuerungsfrequenz, Spannungssteuerungsamplitude, Spannungssteuerungs-Offsets, Spannungssteuerungs-Arbeitszyklus und PWM Modulationen.
+
+♦ Burst-Ausgangsfunktion: Es gibt einen manuellen Trigger, einen internen CH2-Trigger und einen externen Trigger für Ihre Optionen. Es kann 1~1048575 Impulsfolgen ausgeben.
+
+♦ 100M Frequenzmesserfunktion: Es kann Frequenz, Zeitraume, Impulsbreite und Arbeitszyklus messen. max. Frequenz bearbeitbar ist 100 MHz und min. Frequenz bearbeitbar ist 0,01 Hz.
+
+♦ Zählerfunktion: Es verfügt über 2 Kopplungsmessmodi, einschließlich DC-Kopplung und AC-Kopplung. Dieses Design kann das Ungenauigkeitsproblem der AC-Kopplung lösen.
+
+♦ Standard duale voll funktionsfähige Kanäle, die zwei unabhängigen Generatoren entsprechen.
+
+♦ Kanal-SYNC-Funktion: Unterstützt das Kopieren von Wellenformen und das Kopieren von Zuständen zwischen Kanälen.
+
+Unterstützen Sie zwei oder mehr Signalgeneratoren, die verbunden sind, um eine Mehrkanalausgabe zu erreichen, die maximale Unterstützung für 16-Kanal-Synchronausgabe, die Phase zwischen jedem Kanal kann eingestellt werden.
+
+♦ Stellen Sie die Phasen der beiden Kanäle genau ein. Die Genauigkeit kann 0,01 ° betragen.
+
+♦ Die minimale Amplitudenauflösung kann bis zu 1 mV betragen. Der Amplitudenbereich liegt zwischen 0 und 24 Vpp.
+
+♦ Tastverhältnis jedes Kanals kann unabhängig eingestellt werden0,01%-99,99%, die Einstellauflösung beträgt 0,01 %.
+
+♦ -12V~+12V DC Offset-Funktion. Auflösung 0,001 V.
+
+♦ Speicherfunktion: Es können 20 benutzerdefinierte Parametersätze gespeichert und jederzeit geladen werden.
+
+♦ Kommunikationsfunktion: Alle Funktionen können durch ein PC-Programm gesteuert werden und das Kommunikationsprotokoll ist offen für sekundäre Entwicklung.
+
+♦ Ausgangskurzschlussschutz: Alle Kanäle können länger als 60 Sekunden arbeiten, wenn die Last kurzgeschlossen ist.
+
+♦ Stellen Sie eine leistungsstarke PC-Software zur Wellenformbearbeitung bereit. Benutzer können nach der Bearbeitung über das PC-Programm, das auf der Benutzer-CD enthalten ist, beliebige Wellenformen auf dieses Instrument herunterladen.
+
+♦ Nehmen Sie ABS Kunststoffgehäuse mit tischartigem Design an. Verwenden Sie ein Netzteil mit einer Weitbereichsspannung von 100-240 V (AC). 
+
+♦ Sie können unseren Leistungsverstärker der FYA2000S-Serie oder der FPA1000-Serie auswählen, um ein Signal von 20 W bis 100 W in einer Breite von DC-10 MHz ohne Verzerrung auszugeben.
+
+
+FY6900 kann Funktion/arbiträre Wellenform ausgeben, einschließlich:
+
+>Sinus
+	>Quadrat
+	> Rechteck
+	>Dreieck/Rampe
+	>Erhebe Sägezahn
+	>Fall Sägezahn
+	>Lorenz Puls
+	>Mehrton
+	>Lärm
+	>Elektrokardiogramm (EKG)
+	>Trapezförmiger Puls
+	> Sinc-Impuls
+	>Schmaler Puls
+	> Gaußsches weißes Rauschen
+	> Stufendreieck
+	> Positiver Schritt
+	>Umgekehrter Schritt
+	>Positiver Exponent
+
+	>Inverser Exponent
+	>Positiv fallender Exponent
+	>Umgekehrter fallender Exponent
+	>Positiver Logarithmus
+	>Umgekehrter Logarithmus
+	>Positiv fallender Logarithmus
+	>Umgekehrter fallender Logarithmus
+	>Lineare FM
+	>AM
+	>UKW
+	>Positive Halbwelle
+	>Negative Halbwelle
+	>Positive Halbwellengleichrichtung
+	>Negative Halbwellengleichrichtung
+	>Benutzerdefinierte Wellenform
+
+Technische Spezifikation:
+
+
+
+
+
+Frequenz
+
+
+
+Modell
+
+
+FY6900-20M    
+
+FY6900-30M
+
+FY6900-50M
+
+FY6900-60M
+
+
+
+
+
+0~20MHz
+
+0~30MHz
+
+0~50MHz
+
+0~60MHz
+
+
+
+
+
+0~15MHz
+
+0~25MHz
+
+0~25MHz
+
+0~25MHz
+
+
+
+Rampe, Dreieck
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+
+
+Impuls
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+
+
+TTL/CMOS
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+
+
+Beliebige Wellenform
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+
+
+Minimale Impulsbreite
+
+20 ns (Alle Modellle mit minimaler Pulswellenbreite können 20 ns betragen)
+
+
+
+Mindest. Auflösung in allen Frequenzbereichen
+
+1 μHz (min. Auflösung kann in allen Frequenzbereichen auf 1 μHz niedrig sein, um die Einstellgenauigkeit bei hohen Frequenzen sicherzustellen. Beispielsweise kann ein Signal von 10,000000000001 MHz ausgegeben werden).
+
+
+
+Genauigkeit
+
+±20 ppm
+
+
+
+Stabilität
+
+±1 ppm/ 3 Stunden
+
+
+
+Wellenform-Eigenschaften
+
+
+
+Wellenformen
+
+Sinus, Rechteck, Rechteck (Einschaltdauer einstellbar), Impuls (Impulsbreite und Zykluszeit können genau eingestellt werden), Dreieck/Rampe, Sägezahnwelle, CMOS, vier Kanäle TTL, DC, Halbwelle, Vollwelle, positiver Schritt, inverser Schritt , positiver Exponent, inverser Exponent, Lorenz-Puls, Multiton, Rauschen, EKG, trapezförmiger Puls, Sinc-Puls, schmaler Puls, weißes Gauss-Rauschen, AM, FM und andere 64 benutzerdefinierte Wellenformen.
+
+
+
+Nichtflüchtiger Speicher
+
+Kann 64 benutzerdefinierte Arbiträrwellenformen speichern (8K 14bits) * 64
+
+
+
+Wellenform Länge
+
+8192 Punkte * 14 Bit
+
+
+
+Abtastrate
+
+250MSa/s
+
+
+
+Vertikale Auflösung
+
+14 bits
+
+
+
+
+
+Harmonische Unterdrückung
+
+≥50dBc(<1MHz); ≥45dBc (1MHz~20MHz);
+
+
+
+Totale harmonische Verzerrung
+
+<0,5 % (20 Hz~20 kHz, 0 dBm)
+
+
+
+
+
+Anstiegs-/Abfallzeit
+
+≤7ns (VPP<5V)
+
+
+
+Überschwingen
+
+≤5%
+
+
+
+Auslastungsgrad
+
+0,01 % ~ 99,99 % (Auflösung 0,01 %)
+
+
+
+Sägezahnwelle
+
+Linearität
+
+>99 % (0,01 Hz~10 kHz)
+
+
+
+Ausgangseigenschaften
+
+
+
+Amplitude(VPP)
+
+Frequenz ≤ 5 MHz: 1 mVpp ~ 24 Vpp;
+				5MHz 10MHz Frequenz>20MHz: 1mVpp~5Vpp;
+
+
+
+Auflösung
+
+1mV
+
+
+
+Amplitudenstabilität
+
+±0,5 %/5 Stunden
+
+
+
+Amplitudenflachheit
+
+±2,5 % (<10 MHz); ±5 % (>10 MHz);
+
+
+
+Wellenformausgabe
+
+
+
+Impedanz
+
+50Ω±10%(Typisch)
+
+
+
+Schutz
+
+Alle Kanäle können länger als 60 Sekunden arbeiten, wenn die Last kurzgeschlossen ist. 
+
+
+
+DC-Offsets
+
+
+
+Offset-Bereich
+
+Frequenz ≤ 20 MHz: ± 12 V; Frequenz > 20 MHz: ± 2,5 V;
+
+
+
+Offset-Auflösung
+
+1mV
+
+
+
+Phasenfunktion
+
+ 
+
+
+
+Phasenbereich
+
+0~359,99°
+
+
+
+Phasenauflösung
+
+0,01°
+
+
+
+TTL Ausgabe
+
+ 
+
+
+
+TTL-Pegelamplitude
+
+>3Vss
+
+
+
+Ausschwärmen
+
+>8 TTL-LAST
+
+
+
+Anstiegs-/Abfallzeit
+
+≤10ns
+
+
+
+CMOS Ausgabe
+
+
+
+Niedriger elektrischer Pegel
+
+<0,3 V
+
+
+
+Hoher elektrischer Pegel
+
+1V~12V
+
+
+
+Anstiegs-/Abfallzeit
+
+≤18ns
+
+
+
+Externe Messung
+
+
+
+Funktion
+
+Frequenz, Zeitraume, positive/negative Impulsbreite, Arbeitszyklus
+
+
+
+Eingangsspannungsbereich
+
+1Vss~20Vss
+
+
+
+Frequenzmesser
+
+Auflösung
+
+0,01 Hz (Torzeit = 100 s)
+
+
+
+Bereich
+
+0,01Hz~100MHz
+
+
+
+Empfindlichkeit
+
+Torzeit 3 Stufen (1S, 10S, 100S) einstellbar
+
+
+
+Schalter
+
+Bereich
+
+0-4294967295
+
+
+
+Kupplung
+
+Gleichstrom, Wechselstrom
+
+
+
+Arbeitsmodus
+
+Handbuch
+
+
+
+Zeitraum
+
+Messbereich
+
+5 ns ~ 20 s
+
+DC-Kopplungsmessung
+
+
+
+Impulsbreite
+
+Messbereich
+
+0 ns ~ 20 s
+
+
+
+Auflösung
+
+5ns
+
+
+
+Auslastungsgrad
+
+Reichweite (Anzeige)
+
+0 % ~ 100 %
+
+
+
+Fegen
+
+
+
+Trägerwellenform
+
+Sinus, Rechteck, Rampe, Arbiträr (außer DC)
+
+
+
+Kehrmaschine Typ
+
+Linear oder Logarithmus
+
+
+
+Fegen-Richtung
+
+Up-, Down- und Roundtrip-Fegen-Richtungen;
+
+
+
+Fegen-Objekte
+
+Frequenz, Amplitude, Offsets, Arbeitszyklus
+
+
+
+Fegen-Zeit
+
+0,01 S~999,99 S/Schritt
+
+
+
+Einstellbereich
+
+Startposition und Endposition können beliebig eingestellt werden.
+
+
+
+Fegen-Bereich
+
+Bestimmt durch die Parametereinstellung.
+
+
+
+VCO (Spannungssteuerausgang)
+
+
+
+Modulationssignalbereich zum Eingang
+
+0~5V
+
+
+
+Frequenzbereich des VCO-Signals
+
+0-2000Hz
+
+
+
+VCO-Steuerobjekt
+
+spannungssteuernde Frequenz (VCF), spannungssteuernde Amplitude, spannungssteuernde Offsets, spannungssteuerndes Tastverhältnis.
+
+
+
+VCO-Sonderfunktion
+
+Kann Amplitudenmodulation (AM) oder Frequenzmodulation (FM) durch externes Analogsignal durchführen.
+
+
+
+Modulation
+
+
+
+Modulation Typ
+
+
+
+
+
+Trägerwellenform
+
+Sinus, Rechteck, Dreieck, Rampe, beliebige Wellenform (außer DC)
+
+
+
+AM
+
+
+
+Quelle
+
+Intern (CH2) / Extern (VCO IN-Anschluss)
+
+
+
+Modulierende Wellenform
+
+Sinus, Rechteck, Dreieck, Rampe, beliebige Wellenform
+
+
+
+Tiefe
+
+0 % bis 120 %
+
+
+
+Modulierende Frequenz
+
+Intern: 1μHz~1MHz; Extern: 1μHz~2KHz;
+
+
+
+
+
+
+
+Quelle
+
+Intern (CH2) / Extern (VCO IN-Anschluss)
+
+
+
+Modulierende Wellenform
+
+Sinus, Rechteck, Dreieck, Rampe, beliebige Wellenform
+
+
+
+Modulierende Frequenz
+
+Intern: 1μHz~1MHz; Extern: 1μHz~2KHz;
+
+
+
+PN
+
+
+
+Quelle
+
+Intern (CH2) / Extern (VCO IN-Anschluss)
+
+
+
+Modulierende Wellenform
+
+Sinus, Rechteck, Dreieck, Rampe, beliebige Wellenform
+
+
+
+Phasenabweichung
+
+0° bis 360°
+
+
+
+Modulierende Frequenz
+
+Intern: 1μHz~1MHz; Extern: 1μHz~2KHz;
+
+
+
+FRAGEN
+
+
+
+Quelle
+
+Intern (CH2), Extern (FRAGEN IN-Port), Manuell
+
+
+
+Modulierende Wellenform
+
+Quadratisch mit 50 % Einschaltdauer.
+
+
+
+Schlüsselfrequenz
+
+1μHz~10MHz
+
+
+
+FSK
+
+
+
+Quelle
+
+Intern (CH2), Extern (FSK IN-Port), Handbuch
+
+
+
+Modulierende Wellenform
+
+Quadratisch mit 50 % Einschaltdauer.
+
+
+
+Schlüsselfrequenz
+
+1μHz~10MHz
+
+
+
+PSK
+
+
+
+Quelle
+
+Intern (CH2), Extern (PSK IN-Port), Manuell
+
+
+
+Modulierende Wellenform
+
+Quadratisch mit 50 % Einschaltdauer.
+
+
+
+Schlüsselfrequenz
+
+1μHz~10MHz
+
+
+
+Burst-Funktion
+
+
+
+Trägerwellenform
+
+Sinus, Rechteck, Rampe, Arbiträr (außer DC)
+
+
+
+Burst-Zählung
+
+1~1048575
+
+
+
+Triggerquelle
+
+Manuell, Intern, Extern (AC/DC)
+
+
+
+Allgemeine Spezifikation
+
+
+
+Anzeige
+
+Art
+
+2,4 Zoll, TFT Farbdisplay.
+
+
+
+Speichern & Laden
+
+Menge
+
+20
+
+
+
+Position
+
+01 bis 20 (01 für Startvorgabewert)
+
+
+
+Schnittstelle
+
+Art
+
+USB-zu-Seriell-Schnittstelle
+
+
+
+Protokoll
+
+Befehlsleitungsmodus, der Kommunikationsprotokolle bereitstellt.
+
+
+
+Kommunizierende Geschwindigkeit
+
+9600 bps (Industriestandard)
+
+
+
+Leistung
+
+Spannungsbereich
+
+AC100V~240V
+
+
+
+Technik
+
+SMD, LSI, zuverlässig und langlebig
+
+
+
+Summer
+
+Kann per Einstellung ein-/ausgeschaltet werden.
+
+
+
+Operation
+
+Tasten und Drehknopf durchgehend.
+
+
+
+Umfeld
+
+Temp.: 0~40℃, Luftfeuchtigkeit: <80%
+
+
+
+Größe
+
+200 mm * 190 mm * 90 mm (L * B * H)
+
+
+
+Gewicht
+
+850g
+
+
+
+Packungsgrösse
+
+25 cm * 21 cm * 10 cm (L * B * H)
+
+
+
+Paketgewicht
+
+0,98 kg (Hauptmotor, Zubehör und Verpackungsmaterial)
+
+
+
+Hinweis: FY6900 unterstützt englische und chinesische Menüumschaltung. Die Standardsprache ist Englisch. 
+
+Paket beinhaltet:
+
+
+1 x FY6900 DDS Signalgenerator
+
+1 x Netzkabel
+
+1 x USB-Datenkabel 
+
+2 x BNC-Clip-Kabel
+
+1 x BNC-BNC-Kabel
+
+Details Bilder:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

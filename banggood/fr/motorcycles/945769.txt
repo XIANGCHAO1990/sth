@@ -1,0 +1,177 @@
+https://fr.banggood.com/V139-Car-Diagnostic-Scanner-Tool-Multi-Langauges-Interface-for-Renault-Clip--p-945769.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+Interface de Multi-Langauges d&#39;outil de scanner de diagnostic de voiture V139 pour l&#39;agrafe de Renault 
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fonction:
+Voir toutes les informations relatives au véhicule
+Test informatique
+Test automatique de tous les ordinateurs
+Test d'airbag
+Ccantool (tests OBD)
+Base Doc (accès aux notes techniques)
+Mesures physiques
+Anti-pollution
+Multimètre
+
+Comment casser Renault Can Clip:
+1). Une fois l'installation terminée, NE PAS exécuter votre CLIP !!!
+     Remplacez d'abord le fichier d'origine (sauvegardez d'abord votre RSRwin.exe d'origine) par le fichier RSRwin.exe dans C: CLIP_X91LibApplication
+2). Ensuite, exécutez RSRwin.exe, choisissez "Enregistrez-moi maintenant" et dans la fenêtre suivante, sélectionnez "Non"!
+3). Utilisez cette clé pour l'enregistrement: 333DEF-111DEF-111DEF-222DEF-221DEF-000DEF, cela fonctionnera jusqu'au 31/12/2020 :)
+4). Récupérez l'original RSRWin.exe
+5). Exécutez la mise à jour 139
+
+L'ensemble Renault CAN Clip comprend:
+1 x interface CAN Clip
+1 x câbles 16 broches pour CAN Clip - Connexion voiture
+1 x câbles 12 broches pour CAN Clip - Connexion voiture
+1 x câble pour CAN Clip - connexion PC
+1 x CD du logiciel 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

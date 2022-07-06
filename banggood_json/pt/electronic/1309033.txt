@@ -1,0 +1,163 @@
+1309033
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/DC/36/8f82ca99-5261-41bf-bf73-17038f0eaef0.JPG
+Umidade capacitiva do solo Sensor Não é fácil de corroer Módulo monitor de ampla tensão
+https://pt.banggood.com/Capacitive-Soil-Moisture-Sensor-Not-Easy-To-Corrode-Wide-Voltage-Monitor-Module-p-1309033.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Nota: Produto comum e fornecido por Banggood e Newchic.    Este sensor capacitivo de umidade do solo se distingue da maioria dos sensores resistivos do mercado e usa sensor capacitivo para detectar a umidade do solo. O problema de o sensor de resistência ser facilmente corroído é evitado e sua vida útil é muito estendida.   O sensor possui um chip regulador de tensão embutido que suporta um 3.3 V/5V ambiente de trabalho, o que significa que funciona mesmo em um 3.3 V/5V painel de controle. Um PC em miniatura como o Raspberry Pi só precisa de um módulo de conversão ADC (sinal analógico para digital) externo para funcionar.  Com uma tela externa e uma placa-mãe, você pode conversar com suas plantas! Veja se tem sede e não precisa de mais água para umedecer.  Tensão de operação: 3,3 V / 5V  Voltagem de saída: 3.3 V/5V  Interface: PH2.54-3P  Tamanho: 98 x 23 mm (LxW)  Incluído no Pacote:   1 x umidade capacitiva do solo Sensor 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

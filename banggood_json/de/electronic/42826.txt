@@ -1,0 +1,168 @@
+42826
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/39/33/6dcd2713-7457-432c-b7f9-da3b9fda0498.jpg
+Geekcreit® L298N Dual H Brücke Stepper Motor Treiber Board für Arduino
+https://de.banggood.com/Wholesale-L298N-Dual-H-Bridge-Stepper-Motor-Driver-Board-p-42826.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+Doppel-H-Brücke fahren
+Chip: L298N (ST NEU)
+Logische Spannung: 5V
+Antriebsspannung: 5V-35V
+Logischer Strom: 0mA-36mA
+Antriebsstrom: 2A (MAX Einzelbrücke)
+Lagertemperatur: -20 bis +135
+Max. Leistung: 25W
+Gewicht: 30g
+Größe: 43 x 43 x 27mm
+
+Hinweis:
+
+Dieses Modul hat eine eingebaute 5V-Stromversorgung, wenn die Treiberspannung 7V-35V ist, ist diese Versorgung für die Stromversorgung geeignet, geben Sie keine Spannung an + 5V Versorgung Schnittstelle, aber leitet 5v für externe Verwendung zur Verfügung steht.
+Wenn ENA IN1 IN2 steuern OUT1 OUT2
+Wenn ENB IN3 IN4 steuern OUT3 OUT4
+
+Hinweis: Die Schrauben sind nicht in der Lieferung eingeschlossen.
+Lieferinhalt:
+
+1 x 236 L298N Dual H Brücke Stepper Motor Treiber Board für Arduino
+
+
+
+
+

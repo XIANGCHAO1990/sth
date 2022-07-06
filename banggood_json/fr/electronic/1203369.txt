@@ -1,0 +1,197 @@
+1203369
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/BE/58/a15c7396-6ce2-4fe3-9bb6-22f7d93f781a.jpg
+DC 6-40V à 1.2-36V 300W 20A Courant constant Réglable Buck Convertisseur Descendre Conseil Module
+https://fr.banggood.com/Geekcreit-DC-6-40V-To-1_2-36V-300W-20A-Constant-Current-Adjustable-Buck-Converter-Step-Down-Module-Board-p-1203369.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifications:
+
+Couleur: Argent
+Matériel: Métal
+Taille: env. 60 x 52 x 27 mm / 2,36 x 2,05 x 1,06 ''
+Tension d'entrée: DC 6-40V (10V à 40V est suggéré)
+Tension de sortie: DC 1.2-36V
+Courant de sortie: 20A (max.), 15A (suggéré)
+Efficacité: 97% (24V à 12V, 20A)
+Ondulation de sortie: ≤50mV
+Méthode de câblage: terminal
+Protection contre les courts-circuits: auto-récupération (ne peut pas court-circuiter pendant longtemps)
+VO +: sortie positive
+VO-: sortie négative
++ IN: Entrée positive
+-IN: Entrée négative
+CV: réglage de la tension de sortie
+CC: réglage du courant de sortie
+EN: Activer, sortie d'arrêt de niveau basse tension; la suspension, le niveau de haute tension est efficace
+Lorsque l'entrée et la sortie sont fréquemment mises à la terre, la tension constante de la sortie CV sans charge, le courant continu de sortie CC
+Temps de travail: -10 ° C-75 ° C
+
+Caractéristiques:
+
+Avec une large plage de tension d'entrée de 6V à 40V, le convertisseur descendant peut ajuster précisément la tension de sortie et le courant
+L'efficacité peut atteindre 96%, mesurée à 20A, conversion de 24V à 12V
+Conçu avec un tube MOS double courant double 75V / 80A
+Le module buck a 2 dissipateurs de chaleur qui pourraient améliorer la dissipation de chaleur
+Le câblage est pratique avec ces grands bornes à vis à courant 30A
+L'entrée et la sortie utilisent un condensateur électrolytique basse résistance à haute fréquence, une faible ondulation, une sortie stable
+Stable et fiable
+Finition fine et durable
+
+Emballage inclut:
+
+1 x 300W 20A réglable step-down module convertisseur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

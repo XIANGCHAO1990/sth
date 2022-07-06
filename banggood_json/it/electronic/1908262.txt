@@ -1,0 +1,202 @@
+1908262
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/89/BA/2b36fc1c-ce0e-4b5b-a99d-3eb3d6e88a84.jpg
+480W Digitale Display Alimentatore a commutazione Tensione regolabile da 110/220V AC a 5V 12V 24V 36V 48V 60V 80V 120V 160V 220V 300V
+https://it.banggood.com/480W-Digital-Display-Switching-Power-Supply-Adjustable-Voltage-110-or-220V-AC-to-5V-12V-24V-36V-48V-60V-80V-120V-160V-220V-300V-p-1908262.html?cur_warehouse=CN&ID=6314754&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Potenza nominaleDigitale DisplayManopola regolabileNumero identificativo dell'oggetto
+
+
+480WVoltaggioVoltaggio1908262
+
+
+VoltaggioTensione e corrente1925431
+
+
+Tensione e correnteTensione e corrente1925433
+
+
+1000WTensione e correnteVoltaggio1927330
+
+
+Tensione e correnteTensione e corrente1925287
+
+Specifica: Tensione di ingresso: 110/220 V CA (selezionabile tramite interruttore)
+
+
+
+
+Potenza di uscita  limitazione della gamma di tensione di uscitagamma attuale
+
+
+480W0-5V60A
+
+
+0-12V40A
+
+
+0-24V20A
+
+
+0-36V15A
+
+
+0-48V10A
+
+
+0-60V8A
+
+
+0-80V6A
+
+
+0-120V4A
+
+
+0-220V2A
+
+Per la corrente massima, se si sceglie 0-80 V, quando si imposta la tensione a 24 V, la corrente massima è ancora 6 A.Tensione di ripple: non più di 100 mVResistenza interna equivalente stabilizzata in tensione: non più di 0,O5ΩProtezione da cortocircuito, sovraccarico e ripristino automaticoDimensioni: 215*115*50 mmL, N: terminale di ingresso CAFG: segno al suolo V+: terminale positivo di uscita CCV-: terminale negativo di uscita CC Potenziometro regolabile ADJ: regolazione fine della tensione CC in uscita● ingresso a piena tensione● Miniaturizzazione●Funzione di protezione Cortocircuito/sovraccarico/sovratensione●Test di invecchiamento a pieno carico al 100%Tensione di ingresso e gamma di frequenza ----------110 V/220 V CA/47 (63 Hz)Corrente di picco di avvio ---------------20A@120VAC (avviamento a freddo)Campo di regolazione dell'uscita --------------- ±100% (tensione di uscita nominale)Protezione da sovraccarico --------------------105%~200% (carico nominale), ripristino automaticoProtezione da sovratensione ------------------- 115% ~ 135% (tensione di uscita nominale)Protezione da cortocircuito ------------------- autoripristinoTempo di inizio uscita ---------------≤2S@120VAC ≤1.0S@230VACOResistenza di isolamento ------------------- Ingresso-Uscita: AC1500V, 1min； Ingresso - custodia: AC1500V, 1min； Uscita - Case: DC500V, 1minAmbiente di lavoro ------------------- -10 ° C ~ 50 ° C; 20% ~ 90% UR (senza condensa)Il pacchetto include:1 x 480W Digital Display Alimentatore a commutazione
+
+
+
+

@@ -1,0 +1,280 @@
+https://es.banggood.com/KONNWEI-KW903-WIFI-ELM327-OBD2-Car-Scan-Tool-Diagnostic-Scanner-Engine-Code-Reader-p-1625270.html?cur_warehouse=USA&ID=47972&rmmds=CategoryAutomobilesPop
+KONNWEI KW903 WIFI ELM327 OBD2 Coche Escaneo herramienta Escáner de diagnóstico Motor Lector de códigos
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+los KW903 El dispositivo es un pequeño adaptador que se conecta al conector OBD del vehículo. En Wifi, se conecta a cualquier computadora, tableta o
+		teléfono inteligente, con procedimientos de diagnóstico asociados. Al realizar estas operaciones simples, podrá:
+
+
+1. Lea los códigos históricos (memoria) / pendientes (intermitentes) e históricos y muestre las definiciones.
+
+2. Mida el consumo de combustible.
+
+3. Pantalla rendimiento operativo en tiempo real del automóvil, como el impulso,
+
+4. Monitor Velocidad del vehículo
+
+5. Oil presión
+
+6. Temperatura del refrigerante
+
+7. carga Motor
+
+8. Presión del colector de admisión
+
+9. posición del acelerador,
+
+10. los valores de los sensores de oxígeno,
+
+11. toma de aire
+
+12. temperatura, y más.
+
+13. Apague la MIL (señal de verificación Motor).
+
+14. Descargue datos a medios externos en una variedad de formatos para su posterior impresión.
+
+15. Registre varios parámetros, muestre gráficos en tiempo real y más.
+
+
+Rasgos:
+
+Tamaño pequeño, estructura compacta. Enchufe y nunca desenchufe
+
+Conexión inalámbrica estable
+
+Sin cables ni baterías (el adaptador se alimenta mediante los sockets de tamaño de diagnóstico)
+
+Detener la comunicación, esperar media hora, reposo automático
+
+Admite protocolos casi OBDII
+
+El adaptador utiliza los chips más rápidos y confiables.
+
+Esto es Versión Wi-Fi, apoyo Sistema Android / IOS teléfono inteligente, tableta y PC 
+
+La versión icar2 es 100% V1.5
+
+ 
+
+Protocolos:
+
+
+0.Automático
+
+1. SAE J1850 PWM (41,6 Kbaud)
+
+2.SAE J1850 VPW (10.4Kbaud)
+
+3.ISO9141 - 2 (5 baud init, 10,4 Kbaud)
+
+4.ISO14230-4 KWP (5 baud init, 10,4 Kbaud)
+
+5.ISO14230-4 KWP (entrada rápida, 10,4 Kbaud)
+
+6.ISO15765-4 CAN (ID de 11 bits, 500 Kbaud)
+
+7.ISO15765-4 CAN (29bit ID, 500 Kbaud)
+
+8.ISO15765-4 CAN (ID de 11 bits, 250 Kbaud)
+
+9.ISO15765-4 CAN (29bit ID, 250 Kbaud)
+
+A.SAE J1939 CAN (29bit ID, 250 * Kbaud)
+
+B.USER1 CAN (identificación de 11 * bits, 125 * Kbaud)
+
+C.USER2 CAN (identificación de 11 * bits, 50 * kbaud)
+
+Ajustes predeterminados (ajustables por el usuario)
+
+
+
+Referencia de vehículos compatibles con OBDII:
+
+
+Automóviles de Europa: funciona después de 2000 y los vehículos OBDII / OBD2 / OBD / CAN-BUS más nuevos, que incluyen la lista de protocolos obd compatibles con icar2
+
+America Cars: funciona en todos los vehículos OBDII / OBD2 / OBD / CAN-BUS de 1996 y más nuevos, que incluyen la lista de protocolos obd compatibles con icar2
+
+Automóviles Asia / AU: funciona después de 2005 y los vehículos OBDII / OBD2 / OBD / CAN-BUS más nuevos, que incluyen la lista de protocolos obd de soporte de icar2
+
+
+
+Algunos modelos especiales Coche:
+
+
+Para SSangyong, Kyron / Actyon será adecuado a partir de 2010 y los automóviles más nuevos. 
+
+Para LADA Priora, desde 2008 hasta 2016 el modelo será adecuado, LADA 2111, 2116 solo será adecuado después de 2013
+
+
+Paquete incluido:
+
+
+1 X escáner OBD herramienta
+
+1 X CD
+
+1 manual de usuario.
+Solo hay manuales en el CD, y los archivos son los siguientes:http://myosuploads3.banggood.com/products/20220531/20220531060018KONNWEIWIFI327CDRX4.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,145 @@
+1826835
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/56/7B/83289dc5-0ac4-465d-9e92-836b661f8201.jpg
+DALY BMS 20S 72V 150A 200A 250A18650 Bluetooth 485 vers périphérique USB CAN NTC UART logiciel Li-on Batterie carte de Protection
+https://fr.banggood.com/DALY-BMS-20S-72V-150A-200A-250A18650-Bluetooth-485-to-USB-Device-CAN-NTC-UART-Software-Li-on-Battery-Protection-Board-p-1826835.html?cur_warehouse=CN&ID=6310488&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remarque : La première utilisation de Smart BMS nécessite l'activation de la charge avant de pouvoir être utilisée. Pour les étapes de fonctionnement, veuillez vous référer à "Connecter et activer la vidéo" dans le document suivant.>>>Manuel : Cliquez ici pour ouvrir<<<Attention:1. Le client doit identifier la série de la batterie, puis choisir la même série BMS. Comme votre batterie est 24S, vous devez choisir 24S BMS, vous ne pouvez pas choisir 20 ou autre. Le nombre de séries de BMS est fixe, non réglable une fois le BMS expédié.2. La première fois que le smart BMS est utilisé, il doit être chargé et activé.3. L'écran de contrôle tactile BMS et le module Bluetooth ne peuvent pas être utilisés en même temps, choisissez l'un des deux, la même interface.4. Tous les accessoires et BMS sont la dernière version, peut-être que l'image n'a pas été mise à jour, si vous êtes préoccupé par la version, veuillez consulter la situation spécifique avant d'acheter.La description:Daly 18650 smart BMS 20S 72V 150A 200A 250A Bluetooth 485 vers périphérique USB CAN NTC UART logiciel Li-on Batterie carte de protection BMSActuellement, tous les Smart BMS sans la fonction étanche.Ce lien est pour la batterie Li-ion 20S 72V. Caractéristiques:◆ UART: C'est un produit normal Daly. UART est un récepteur / émetteur asynchrone universel, il transforme les données à transmettre entre la communication série et la communication parallèle. En tant que puce pour convertir des signaux d'entrée parallèles en signaux de sortie série, UART est généralement intégré dans d'autres interfaces de communication. ◆ RS485: veuillez choisir le modèle RS485 de Daly. RS-485 adopte une transmission équilibrée et une réception différentielle, ce qui lui permet de supprimer les interférences en mode commun.◆ Module Bluetooth: si vous avez besoin de cette fonction, veuillez choisir le module Bluetooth, si vous ne l'achetez pas, nous ne vous l'enverrons pas.DL20S 72V Smart BMS 150A 200A 250A bms peut être utilisé avec une batterie 20S Li ion ou LiFePO4 ou LTO. Le client peut ajuster le paramètre de surcharge ou de décharge excessive du paramètre assis et d'autres paramètres si le client doit utiliser quel type de batterie pour la même batterie de série.◆ Instructions de contrôle: surveillance des dispositifs de contrôle à distance.◆ Icône de véhicule: commande d'envoi de transmission de données◆ Rapport statistique: Collectez les informations de données, le client peut surveiller la capacité de la batterie et d'autres informations d'alarme.◆ Clôture électronique: plage limite de réglage de la clôture.◆ Informations sur l'appareil: informations sur les paramètres de l'appareil, etc.Les informations sur votre batterie peuvent être vérifiées sur votre ordinateur hôte, puis vous pouvez surveiller l'état de votre batterie à tout moment. Ce qui permet de contrôler facilement votre appareil. Les BMS intelligents nous facilitent la vie.Emballage inclus: (Choisissez différentes spécifications BMS en fonction de vos besoins :)Conseil BMS :1 x carte BMS1 x câble (utiliser pour connecter la batterie)1 module NTCCi-dessous, vous devez acheter séparément les accessoires:1 x câble USB vers UART 6P (facultatif)1 x câble USB vers RS485 (facultatif)1 x panneau d'affichage de puissance (facultatif)1 x module Bluetooth (facultatif)1 x écran de contrôle tactile UART (facultatif)1 x boîtier USB vers CAN (facultatif)If you need more BMS accessories information, you can click here to open >>>Identifiant : 1872195 <<<
+
+
+
+

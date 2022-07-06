@@ -1,0 +1,204 @@
+https://tr.banggood.com/2_8-Inch-ILI9341-240x320-SPI-TFT-LCD-Display-Touch-Panel-SPI-Serial-Port-Module-p-1206782.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+2.8 İnç ILI9341 240x320 SPI TFT LCD Ekran Dokunmatik Panel SPI Seri Bağlantı Noktası Modülü
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dosya indirme: http://files.banggood.com/2017/12/2.8-spi-9341.zip
+
+Özellikler:
+
+
+
+Tür: Dokunmatik Panel
+
+Ekran: 2.8 "SPI Seri
+
+Ekran alanı: 46 (W) X 65 (H) mm
+
+Boyut: 86 x 50 mm
+
+Sürücü öğesi: a-Si TFT aktif matris
+
+Piksel düzenlemesi: RGB dikey şerit
+
+Sürücü IC: ILI9341
+
+Arka Işık: Beyaz LED
+
+İzleme yönü: saat 6
+
+Renk derinliği: 262K / 65K
+
+Çözünürlük (noktalar): 240RGB * 320Dots
+
+5V uyumlu, 3.3V veya 5V mantıkla kullanın
+
+MCU'nuzdan en az 4 GÇ'ye ihtiyacınız var
+
+PCB plakalı (güç kaynağı IC, SD dahil), 5110 arabirimiyle uyumlu
+
+
+
+Paket içeriği:
+
+
+
+1 x 2,8 "TFT LCD Ekran Dokunmatik Panel Modülü
+	1 x Dokunmatik Kalem
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

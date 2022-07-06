@@ -1,0 +1,145 @@
+1869556
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/5F/C3/8e330239-f511-4b0a-833b-8786f257cb7e.jpg
+LILYGO® TTGO T-Display ESP32 CH9102F Modulo WiFi bluetooth 1.14 Pollici LCD Scheda di sviluppo
+https://it.banggood.com/LILYGO-TTGO-T-Display-ESP32-CH9102F-WiFi-bluetooth-Module-1_14-Inch-LCD-Development-Board-p-1869556.html?cur_warehouse=CN&ID=6309998&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristica:Dimostrazione: https://github.com/Xinyuan-LilyGO/TTGO-T-Schermo Specifiche hardwareDescrizioneChipsetESPRESSIF-ESP32 Microprocessore LX6 dual-core a 32 bit Xtensa® 240MHzVELOCEFlash QSPI 4MB/16MB (opzionale)SRAM520 kB SRAMPulsanteRipristinaDa USB a TTLCH9102FInterfacciaUART, SPI, SDIO, I2C, LED PWM, TV PWM, I2S, IRGPIO, ADC, sensore tattile a condensatore, preamplificatore DACLNASchermoIPS ST7789V 1.14 Pollici Risoluzione 135 * 240Tensione di lavoro2.7V-4.2VCorrente di lavoroCirca 60 MACorrente del sonnoCirca 120uAIntervallo di temperatura di lavoro-40C~+85°CDimensioni e peso51,52 x 25,04 x 8,54 mm (7,81 g)Alimentazione elettricaDescrizioneAlimentazione elettricaUSB 5V/1ACorrente di carica500mABatteriaBatteria al litio da 3,7 VJST Connettore2Pin 1.25mmUSBTipo-CWi-FiDescrizioneStandardFCC/CE-ROSSO/IC/TELEC/KCC/SRRC/NCCProtocollo802.11 b/g/n (802.11n, velocità fino a 150Mbps) polimerizzazione A-MPDU e A-MSDU, supporto 0.4us Intervallo di protezioneIntervallo di frequenze2,4 GH2 ~ 2,5 GHz (2400 M-2483,5 M)Potenza di trasmissione22dBmDistanza di comunicazione300mBluetoothDescrizioneProtocolloSupporta bluetooth V4.2BR/EDR e standard BLEFrequenza radioCon ricevitore NZIF di sensibilità di -97dBm Classe 1, Cl ass-2 e emettitore di classe 3 AFHFrequenza audioFrequenza audio CVSD e SBCSoftwareDescrizioneModalità Wi-FiStazione/SoftAP/SoftAP+Stazione/P2PMeccanismo di sicurezzaWPA/WPA2/WPA2-Enterprise/WPSCrittografia TipoAES/RSA/ECC/SHAAggiornamento del firmwareDownload UART/OTA (tramite rete/host per scaricare e scrivere firmware)Sviluppo softwareSupporta lo sviluppo di server cloud/SDK per lo sviluppo del firmware dell'utenteProtocollolo di reteIPv4, IPv6, SSL, TCP/UDP/HTTP/FTP/MQTTConfigurazione utenteAT + Set di istruzioni, server cloud, Android/iOSappOSFreeRTOSLa confezione include:1 x scheda di sviluppo con pin1 x Batteria cavoSchema pin:
+
+
+
+

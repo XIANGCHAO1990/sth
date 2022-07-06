@@ -1,0 +1,143 @@
+https://fr.banggood.com/Geekcreit-DIY-Radio-Electronic-Kit-Parts-51-Single-chip-FM-Digital-Sound-Machine-p-1729693.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® DIY Radio Electronic Kit Parts 51 Machine de son numérique FM à puce unique
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction:La puce de contrôle principale est composée d'une puce STC89C52 + d'un périphérique de base TDA5807, qui est connecté via le bus I2C entre les périphériques maître et esclave, et utilise la méthode de synchronisation du bus de simulation logicielle pour faire fonctionner la puce TDA5807. Le programme réalise la fonction de recherche automatique de radio, et la plage de réception de fréquence est 87-108MHZ, les informations de bande de fréquence sont affichées en temps réel sur l'écran LCD1602 LCD. Le signal audio de sortie est amplifié par la puce d'amplificateur de puissance LM386 pour amener le haut-parleur à fonctionner.La sensibilité de réception et la qualité sonore sont très bonnes et la capacité d'interférence anti-bruit est forte, ce qui réduit efficacement les interférences sonores lors de l'écoute de la radio. Le son devient plus clair sous l'action de la puce d'amplification de puissance.L'ajout de l'indicateur de niveau rend l'écoute de la radio un plaisir complet.Manuel d'assemblage : Cliquez ici.Caractéristiques:1. Ce module adopte une tension de fonctionnement DC 5V, il est pratique d'obtenir de l'énergie et prend en charge l'alimentation USB de l'ordinateur et le trésor de charge mobile.2. Cette radio utilise la syntonisation numérique et le contrôle du volume. Il est plus pratique de rechercher des stations de radio et de régler le volume.Spécification:Alimentation CC 5 V, positive et négative, ne pas inverser.Gamme de modulation de fréquence: 87MHZ-108MHZTaille de la coque: 9,5 cm * 6,4 cm * 5,0 cmTension de fonctionnement : 4,5 V-5,5 V CCEmballage inclus:1 x kit électronique radio bricolage 
+
+
+
+

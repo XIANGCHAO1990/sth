@@ -1,0 +1,237 @@
+https://tr.banggood.com/Geekcreit-ESP-01S-ESP8266-Serial-to-WiFi-Module-Wireless-Transparent-Transmission-Industrial-Grade-Smart-Home-Internet-of-Things-IOT-p-1471346.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® ESP-01S ESP8266 Seri - WiFi Modülü Kablosuz Şeffaf İletim Endüstriyel Sınıf Akıllı Ev Nesnelerin İnterneti IOT
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellik:
+
+	Yerleşik bulut hizmeti işlevi, küresel uzaktan kumanda işlevine üç talimatla girebileceğiniz anlamına gelir.
+
+HAZIR mesajı, güç açıldıktan sonra verilir.
+
+1) Ücretsiz bulut hizmeti ile yalnızca LAN'da kullanılabilir.
+
+2) IO portunun yüksek ve düşük seviyesini ayarlamak için AT komutunu destekleyin
+
+3) IO port seviyesini okumak için AT komutunu destekleyin.
+
+4) ADC voltajını okumak için AT komutunu destekleyin
+
+5) Essence'ın en son resmi sürümüne AT komut yükseltmesini destekleyin
+
+6) Üniteyi bilgisayarda HOST NAME işlevini görüntüleyecek şekilde ayarlamak için AT'yi destekleyin.
+
+7) AT komutu ağda kablosuz olarak yürütülebilir.
+
+8) Sonraki açılış desteklendikten sonra, APP kontrol işlevi doğrudan kullanılır.
+
+
+Aşağıdakileri başarmak için AI-thinker Technology'nin resmi ürün yazılımını kullanın:
+
+
+
+Kullanışlı geliştirme ortamı, sanal makineler içermeyen ve Linux sistemine aşina, doğrudan Windows ortamında geliştirilen, geliştirme süresinden tasarruf sağlayan ve önceden piyasayı ön plana çıkaran;
+
+ Bulut bağlantısını başlatmak için AT + CLDSTART ekleyin. Varsayılan parametre, Ai-Cloud bulut platformudur. Bu komutu çalıştırdıktan sonra, sistem otomatik olarak bulutun bağlantısını ve kalp atışı paketini koruyacak ve bağlantı kesilmesini yeniden bağlayacaktır. Sistem tüm protokol katmanlarını yönetir.
+
+AT + CLDSTOP, bulut bağlantısını durdurur. Bulutla ilgili tüm sistem kaynaklarını serbest bırakın.
+
+AT + CLDSEND = verileri buluta gönderir.
+
+Parametre, veri uzunluğudur. Bu komutu çalıştırdıktan sonra, sistem ">" döndürecektir ve bu sefer belirli bir uzunlukta veri gönderilebilir.
+
+
+
+Veri alımı:
+
+Bulut verileri geldiğinde, + CLD alacaktır;
+
+Len veri uzunluğudur ve veri spesifik verilerdir.
+
+
+
+Akıllı bağlantı:
+
+AT + CWMODE = 1
+
+AT + SMARTSTART = 1
+
+Bu noktada, yapılandırmak için ESP_TOUCH teknolojisini kullanın.
+
+("AT + CWSTARTSMART" komutu, 1.2.0 sürümünden sonra doğrudan kullanılabilir. Parametreleri ayarlamaya gerek yoktur. SmartConfig türü otomatik olarak elde edilebilir, ayarlamaya gerek yoktur.
+
+1. Bulut ailesi grubuna kolayca eklenebilen ve kontrol için APP'ye bağlanabilen AT + LANSTART'ta bulut ailesi grubu komutunu ekleyin;
+
+2. Çıkış bulut ailesi grubu komutu AT + CLDUNBIND, modül bulut kontrol aktarımı eklendi mi? Bir talimat, bulut aile grubundan çıkabilir ve artık bağlayıcı değildir;
+
+3. WPS işlevi ekleyin, AT + CWWPSSTART doğrudan WPS'yi açın ve WiFi bağlantısını daha rahat bir şekilde yapılandırın;
+
+4. IO durumunu ayarlamak için AT + CIOWRITE AT komutunu ekleyin, bir komut farklı IO yüksek ve düşük seviyesini kontrol edebilir;
+
+5. IO durumunu okumak için AT + CIOREAD AT komutunu ekleyin, bir komut farklı IO'nun durumunu okuyabilir;
+
+6. Kalan RAM Numara'ü herhangi bir zamanda kontrol etmek için AT + CSYSHEAP komutunu ekleyin ve kalan alanı kavramak kolaydır;
+
+7. ADC'yi okumak için AT komutu AT + CIOADC ekleyin, giriş voltajı aralığı 0 ~ 1V;
+
+
+
+Bu modülün avantajları:
+
+
+
+1) En küçük hacim yaklaşık 11 * 10 mm ve tırnağın Numara'üdür. Herhangi bir ürüne kolayca yerleştirilebilir
+
+2) Güçlü dahili çalışan LWIP protokolü
+
+3) Üç modu destekleyin: AP, STA, AP + STA bir arada yaşama modu
+
+4) Basit ve verimli AT komutunu geliştirerek geliştirmenizi kolaylaştırın.
+
+Paket şunları içerir:
+
+	1 x Modül
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,165 @@
+1214159
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/23/A6/0aa37271-1c1e-475c-b8fa-5b4dda0248c9.jpeg
+Geekcreit® ESP32 Placa de desarrollo WiFi + bluetooth Consumo de energía ultrabajo Pines de doble núcleo sin soldar
+https://es.banggood.com/Geekcreit-ESP32-WiFi+bluetooth-Development-Board-Ultra-Low-Power-Consumption-Dual-Cores-Pins-Unsoldered-p-1214159.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:
+ 
+ESP32 ya está integrado antena y balun RF, amplificador de potencia, amplificadores de bajo ruido, filtros, y módulo de administración de energía.
+La solución completa ocupa la menor cantidad de área de placa de circuito impreso.
+Esta placa se utiliza con Wi-Fi de modo dual de 2,4 GHz y chips bluetooth de la tecnología de bajo consumo TSMC 40nm,
+mejores propiedades de potencia y RF, lo cual es seguro, confiable y escalable para una variedad de aplicaciones.
+ 
+Características:
+
+Alta relación precio-rendimiento
+Volumen pequeño, fácil de incorporar a otros productos
+Fuerte función con soporte de protocolo LWIP, Freertos
+Compatible con tres modos: AP, STA y AP+STA
+Compatible con el programa Lua, fácil de desarrollar
+Junta de desarrollo: https://github.com/Nicholas3388/LuaNode 
+Nota: pines sin soldar
+Debido a la escasez de chips, ESP32-Wroom-32D y ESP32-Wroom-32 pueden enviarse al azar.
+El paquete incluye:
+
+1 placa de desarrollo ESP32 (sin soldar)
+
+
+
+

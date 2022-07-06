@@ -1,0 +1,187 @@
+1336979
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/04/2B/26e8f7bb-c90c-42d0-8c4f-9a6e6d67571d.JPG
+ELM327 USB Modifizierte OBD2 Auto-Diagnosescanner für Ford MS-CAN HS-CAN Mazda Forscan
+https://de.banggood.com/ELM327-USB-Modified-OBD2-Car-Diagnostic-Scanner-For-Ford-MS-CAN-HS-CAN-Mazda-Forscan-p-1336979.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+1. Codierung.
+2. Live-Daten.
+3. Anpassungen.
+4. Aktuator Tests.
+5. Programmierung.
+6. Injektorcodierung.
+7. Softwareaktualisierungen
+8. Service-Verfahren.
+9. Erzwingen Sie die DPF-Regeneration.
+10. Fahrzeugkonfiguration lesen.
+11. Zugriff auf Module im HS-CAN- und MS-CAN-Modus.
+12. Lesen / Löschen von Fehlercodes von ALLEN Modulen, einschließlich OBD2 / EOBD.
+
+Feature:
+Farbe schwarz
+Größe: 8.8x2.5x4.6cm
+
+Unterstützte Module:
+GEM IPC DDM PDM RDDM RPDM AHMM PAM ACU SRM KVM IPMA SODL SODR
+BCM TCM PCM ABS HEC EHPAS CCM P HCM RCM SASM FACM
+ACM SRM SDDJ
+
+Unterstütztes Windows-Betriebssystem:
+Win7, XP, Vista und Windows 2000 (beide 32 und 64 Bit OS)
+Unterstützt die folgenden Protokolle:
+  ISO15765-4 (CAN)
+  ISO14230-4
+  ISO9141-2
+  J1850 VPW (GM-Fahrzeuge)
+
+Unterstützte Software:
+ELM-Konfiguration
+FoCCCus
+Forscan
+Die meisten Arten von OBD2 / EOBD Software
+
+CD-Dateilink:
+http://myosuploads3.banggood.com/products/20200106/20200106234232AppleMACInstallGudie.pdf
+
+Lieferinhalt:
+1 X USB Modifiziertes ELM327 Scanner-Tool
+
+
+
+
+

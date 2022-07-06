@@ -1,0 +1,266 @@
+1537029
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/0D/D1/909bd2ac-a1c4-4ff7-91fd-912638b765bb.JPG
+ICL7107 Voltmeter DIY Electronic Production Satz DC5V 35mA Spannungsmesser Digital Voltmeter
+https://de.banggood.com/ICL7107-Voltmeter-DIY-Electronic-Production-Kit-DC5V-35mA-Voltage-Meter-Digital-Voltmeter-p-1537029.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+
+	Kit Name: ICL7107 Voltmeter DIY Kit
+
+Leiterplattengröße: 70,6 * 39 mm
+
+Öffnungsgröße der Kopfbefestigung: 77 * 40 mm
+
+Größe des Anzeigefensters: 51 * 24 mm
+
+Soldering manual: Klicke hier.
+
+Elektrische Parameter:
+
+
+Arbeitsspannung: DC5V
+
+Arbeitsstrom: 35mA
+
+Messgenauigkeit: Sie kann kalibriert werden, um eine höhere Präzision und derzeit keine Parameter zu erzielen.
+
+Messbereich: unterteilt in 3 Dateien, 0-2V-Datei Messung der kleinen Spannung
+
+                                                            0-20V Datei zur Messung der Niederspannung
+
+                                                            0-200V, Messung höherer Spannung.
+
+Bereichsauswahlmethode: Lötstellen mit Gangwahl auf der Platine,
+
+Wenn die beiden Punkte der 0-2V-Datei miteinander verlötet sind und der Widerstand des RX-Lötwiderstands 1 K beträgt, beträgt der Messbereich 0-2V;
+
+Wenn 2 Punkte einer 0-20V-Feile zusammengelötet werden, beträgt der RX-Lötwiderstand 100K, der Messbereich 0-20V;
+
+Beim Zusammenlöten von 2 Punkten einer 0-200 V-Feile beträgt der RX-Lötwiderstand 1 M, der Messbereich 0-200 V;
+
+Überbereichsanzeige: Die erste Position zeigt 1 oder -1
+
+Im Kit ist der RX in 100K und 1M erhältlich, und der Käufer wählt das Löten entsprechend seinem Messbereich aus. Dieses Voltmeter kann auch in ein Amperemeter umgewandelt werden. Die Methode zum Ändern des Strommessers: Die Leiterplatte reserviert eine 2W 0,1 Ohm hochpräzise Lötposition auf der Platine, löten diesen Widerstand und dann muss RX nicht gelötet werden. Dies ist ein 0-2A Amperemeter.
+
+Anzeigefarbe: rot
+
+Für die Herstellung benötigte Werkzeuge: Multimeter, Bügeleisen und Wasserzangen werden benötigt.
+
+
+Lieferinhalt:
+
+
+1 x Leiterplatte
+
+3 x 1N4148
+
+1 x 5,1 V Zenerdiode
+
+1 x 100 Ohm Widerstand
+
+1 x 270 Ohm Widerstand
+
+2 x 2K Widerstand
+
+1 x 20K Widerstand
+
+1 x 47K Widerstand
+
+1 x 56K Widerstand
+
+2 x 100K Widerstand
+
+1 x 1M Widerstand
+
+1 x 2,2 MHz Induktor
+
+2 x 104 monolithischer Kondensator
+
+2 x 101 monolithischer Kondensator
+
+1 x 224 monolithischer Kondensator
+
+1 x 474 monolithischer Kondensator
+
+2 x 10UF25V Elektrolytkondensator
+
+1 x C1815
+
+1 x TL431
+
+Potentiometer 2 x 3296-202
+
+1 x XH2.54-2P gerader Sitz
+
+1 x XH2.54-2P-Leitung
+
+1 x KF301-2 Sitz
+
+1 x 40P Chiphalter
+
+1 x LT7107 Chip
+
+4 x 0,56 eine gemeinsame digitale Röhre
+
+1 x case
+
+4 x M2 * 6 selbstschneidende Schrauben
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,143 @@
+https://pt.banggood.com/HW-103A-Soil-Moisture-Meter-Detection-Module-Robot-Smart-Car-p-1938717.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+HW-103A Soil Moisture Meter Detection Module Robot Smart Car
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:1. Este é um sensor de umidade simples que pode ser usado para detectar a umidade do solo. Quando o solo está com falta de água, o módulo emite um nível alto, caso contrário, emite um nível baixo. Use este sensor para criar um dispositivo de rega automático que tire as plantas do seu jardim das mãos dos humanos.2. A sensibilidade é ajustável (ajustada pelo potenciômetro digital azul na imagem)3. Tensão de trabalho: 3,3 V-5 V4. Modo de saída dupla do módulo, a saída digital é simples e a saída analógica é mais precisa.5. Com furos para parafusos de fixação para fácil instalação6. Tamanho da placa de circuito impresso pequena: 3 cm * 1,6 cm7. Indicador de energia (vermelho) e indicador de saída do interruptor digital (verde)8. O comparador adota chip LM393, que funciona de forma estávelDescrição da interface da placa pequena (sistema de 4 fios):1. VCC externo 3.3V-5V2. GND GND Externo3. Faça interface de saída digital de placa pequena (0 e 1)4. AO interface de saída analógica de placa pequenaInstruções de uso:1. O módulo de umidade do solo é sensível à umidade do ambiente e geralmente é usado para detectar a umidade do solo.2. Quando a umidade do solo do módulo não atinge o limite definido, a porta DO emite um nível alto e quando a umidade do solo excede o limite definido, o módulo D0 emite um nível baixo;3. A saída digital D0 da placa pequena pode ser conectada diretamente ao microcomputador de chip único, e os níveis alto e baixo são detectados pelo microcomputador de chip único, detectando assim a umidade do solo;4. A saída digital da placa pequena DO pode acionar diretamente nosso módulo de relé, módulo de campainha, etc., formando assim um dispositivo de alarme de umidade do solo;5. A saída analógica AO da placa pequena pode ser conectada ao módulo AD, e através da conversão AD, um valor mais preciso da umidade do solo pode ser obtido;O pacote inclui:1 x Módulo de Detecção1 x Sonda de Umidade do Solo2 x 20 cm de fio Dupont
+
+
+
+

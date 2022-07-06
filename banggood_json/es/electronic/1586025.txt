@@ -1,0 +1,187 @@
+1586025
+https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/87/10/3fd12135-09f8-4177-bb6c-d0ae78e1461e.jpg
+5pcs JoyStick Module Shield 2.54mm 5 pin Biaxial Botones Rocker para PS2 Joystick Game Controller Sensor Geekcreit para Arduino - productos que funcionan con placas oficiales Arduino
+https://es.banggood.com/5pcs-JoyStick-Module-Shield-2_54mm-5-pin-Biaxial-Buttons-Rocker-for-PS2-Joystick-Game-Controller-Sensor-p-1586025.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Característica:
+
+
+
+Joystick Joysticks Módulo de interfaz estándar Bloques de construcción electrónicos y cables de interfaz de pin de 2,54 mm.
+
+Phillips es una resistencia de 10K de balancín de dos vías, con el joystick en una dirección diferente, la resistencia varía. Este módulo utiliza un suministro 5V, el voltaje de lectura original del estado X, Y de 2.5V más o menos, cuando se presiona con la dirección de la flecha, los valores de voltaje de lectura aumentan, hasta 5V; presione la flecha en la dirección opuesta, la lectura de reducción de voltaje, un mínimo de 0V.
+
+
+
+Especificación:
+
+
+
+Peso neto: 11g
+
+Peso: 21g
+
+De color negro
+
+Tamaño: 34.5 * 26 * 38 mm
+
+
+
+Paquete incluido:
+
+
+
+5 x Módulo JoyStick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

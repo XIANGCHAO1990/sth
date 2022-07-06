@@ -1,0 +1,143 @@
+https://es.banggood.com/SDR-Simplified-Version-RSP1-Software-Defined-Radio-Receiver-Non-RTL-Aviation-Receiver-p-1922977.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+SDR Versión simplificada RSP1 Definido por software Radio Receptor Aviación sin RTL Receptor
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Característica:Receptor de radio definido por software SDR RSP1 Receptor de radio definido por software SDR Esquema de Ham msi2500 msi001, circuito SDRplay RSP1 simplificado, la interfaz es interfaz USB Type-C (interfaz de teléfono móvil Android), placa de doble capa, utilizando tecnología de parche SMT, 5 Las interfaces de antena corresponden a diferentes bandas de frecuencia y se prueban de antemano.Peso del producto: 20 gramos.Tamaño del producto: 88 * 48 mm1. Rango de frecuencia efectivo de 10 KHz a 1 GHz, resolución ADC de 12 bits, ancho de banda visual completo de 10 M en tiempo real (puede monitorear un amplio rango de señal de 10 M en tiempo real, como 430-440 MHz)2.Modulación de frecuencia FM, modulación de amplitud AM, banda lateral única SSB, telégrafo de igual amplitud CW, control ATC, modulación de zona, bandas de frecuencia de aviación y ferrocarril, monitoreo relacionado automático de transmisión ADS-B, intercomunicador analógico y digital de banda ancha y banda estrecha, DMR digital intercomunicador, transmisión digital DRM, imágenes SSTV, imágenes de nubes meteorológicas NOAA, monitoreo de radioastronomía, Estación Espacial Internacional ISS, etc.3. Compatible con las cuatro plataformas de Windows, Linux, OSMac y Android, es perfectamente compatible con software convencional como SDRuno, SDR Sharp, HDSDR, SDR consol, GNURadio y SDR Touch. (Los dispositivos Android deben ser compatibles con OTG)El paquete incluye:1 x Aviación Receptor
+
+
+
+

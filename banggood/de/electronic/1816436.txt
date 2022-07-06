@@ -1,0 +1,447 @@
+https://de.banggood.com/GPD-WIN-3-Ultimate-Edition-Intel-1165-G7-LPDDR4-16GB-RAM-1TB-SSD-ROM-5G-Wifi-bluetooth-5_0-Windows-10-PC-Handheld-Game-Console-Smart-Player-for-GTA-5-PUBG-COD-Devil-May-Cry5-p-1816436.html?cur_warehouse=CN&ID=6287830&rmmds=CategoryElectronicsPop
+GPD WIN 3 Ultimate Edition Intel 1165 G7 LPDDR4 16GB RAM 1 TB SSD-ROM 5G W-lan Bluetooth 5.0 Windows 10 PC Handheld-Spielekonsole Smart Player für GTA 5 PUBG COD Devil May Cry5
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spezifikation:
+
+
+
+
+
+Grundinformation
+Betriebssystem
+Vorinstallieren Windows 10 Zuhause 64bit
+
+
+Anzeige
+Touch-Panel
+Ja
+
+
+Bildschirm Typ
+Corning Gorlla Glass 5，H—IPS-Technologie
+
+
+Bildschirmgröße
+5.5 inches
+
+
+Seitenverhältnis
+16:9
+
+
+Bildschirmauflösung
+1280x720P
+
+
+Pixel pro Zoll
+268 PPI
+
+
+Zentralprozessor
+Produktmodell
+Intel Core TM i7-1165G7
+Intel Core TM i5-1135G7
+
+
+#von Kernen/ #von Threads
+4/8
+
+
+Grundfrequenz des Prozessors
+2.8GHz
+2.4Hz
+
+
+Turbo Schub
+4.70 GHz
+4.20 GHz
+
+
+Level 2
+5MB
+
+
+Stufe 3
+12MB
+8MB
+
+
+Busgeschwindigkeit
+4 GT/sOPI
+
+
+Kernarchitektur
+Tigersee-U
+
+
+Lithografie
+10nm
+
+
+TDP
+Drei Stufen: 15-20W, 20-25W, 25-28W, im BIOS eingestellt
+
+
+Grafikkarte
+Grafikkarte
+Integriert Grafik
+
+
+Prozessorgrafik
+Intellris Xe-Grafik
+
+
+Grafik-Basisfrequenz
+400MHz
+
+
+Grafik Max. dynamische Frequenz
+1300MHz
+
+
+Ausführungseinheit
+96 EU 80 EU
+
+
+Videospeicher
+Geteilt Speicher
+
+
+4K Bildauflösung
+Ja
+
+
+HDMI 2.0b
+4Kx2K@48-60Hz 24bpp (RGB/YUV444)4Kx2K048-60Hz 12bpc(YUV420)
+
+
+DP 1.4, eDP 1.4b
+eDP: 4096x2304@60Hz 36bppDP: 7680x4320@60Hz 24bpp
+
+
+DirectX
+DX12,1
+
+
+OpenGL
+4.6
+
+
+Lager
+Speicher
+16GB
+
+
+Speichertypen
+LPDDR4x-4266
+
+
+Speicher Dual Channel
+Ja
+
+
+Festplatte Typ
+M.2 SSD
+
+
+Festplattenschnittstelle
+Steckdose 3 / Buchse 2 DuaI-Protokollschnittstelle
+
+
+Festplattenspezifikationen
+PCle3.0/4.0 M.2 2280, unterstützt nur einseitige Gerätelayouts
+
+
+Standardkapazität
+1TB, Austauschbar, KEINE Kapazitätsgrenze
+
+
+Busspezifikation
+PCIe Gen4.0 x 4/SATA 3.0
+
+
+Übertragungsprotokoll
+NVMe 1.4 / AHCI
+
+
+Multimediale Unterstützung
+Audiosystem
+Eingebaut Soundchip
+
+
+Lautsprecher
+Eingebaut Zwei Lautsprecher
+
+
+Mikrofon
+Eingebaut Mikrofon
+
+
+Netzwerkkommunikation
+W-lan
+Unterstützt 2.4G / 5G Doppelte Frequenz Band, Dual Channel Maximale Übertragungsrate 2402 Mbit/s
+
+
+MU-MIMO
+Ja
+
+
+Kabelgebundene Netzwerkkarte
+10/100/1000 Mbps Ethernet-Karte (in die Basis integriert)
+
+
+Bluetooth
+5.0
+
+
+E/A-Schnittstelle
+Daten/Laden
+1xUSB4 (volle Geschwindigkeit)1xUSB3.2 Gen2 Type-C (von der Basis bereitgestellt)4xUSB3.2 Gen2 Typ-A (3 an der Basis)
+
+
+microSDXC-Steckplatz
+Busschnittstelle: UHS-IGeschwindigkeitsklasse: Klasse 10UHS-Geschwindigkeitsklasse: U3Videogeschwindigkeitsklasse: V30Anwendungsleistungsklasse: A2Lesen/Schreiben: 170 MB/s, 90 MB/s
+
+
+Videoschnittstelle
+1xUSB4 (Volle Geschwindigkeit)1xHDMl2.0b (von der Basis bereitgestellt)
+
+
+Ethernet-Schnittstelle
+1xRJ45 (von der Basis bereitgestellt)
+
+
+Audio-Port
+1x3,5-mm-Kopfhörer/Mikrofon-Combo-Schnittstelle,Kompatibel mit Apple-Kopfhörern (Spezifikation)
+
+
+E/A-Gerät
+Klaviatur
+Weiße, hintergrundbeleuchtete Touch-Tastatur (versteckt), QWERTZ-Tastaturdesign
+
+
+Maus
+Der Joystick simuliert eine Maus, erfordert das Umschalten des Modusgriffs/der Maus
+
+
+Fingerabdruckerkennung
+Ja
+
+
+Joystick
+ALPS Original Dual 3D Joysticks, unterstützt nativ L3/R3
+
+
+Steuerkreuz
+Siamesische Pfeiltasten
+
+
+Spielfunktionstasten
+ABXY △○X□ Doppelte Zeichen drucken, auswählen, starten, Xbox Controller Home
+
+
+Spielzubehör-Tasten
+L1/L2/R1/R2 (L2/R2 sind die analogen Signaltasten), für Panasonic Micro Switch
+
+
+Griffvibration
+Doppelter Vibrationsmotor
+
+
+Andere Schlüssel
+Lautstärke+/- Tasten, Power-Taste, Gamepad/MausSchaltertaste, 2 benutzerdefinierte physische Tasten
+
+
+Lautsprecher
+2Pcs
+
+
+Anzeigelampe
+Ladeanzeige, Betriebsanzeige
+
+
+Batterie
+Batterie Typ
+Li-Polymer
+
+
+Batteriekapazität
+45,62Wh, 11,55V==3950mAhx3 Serie
+
+
+Batterielebensdauer
+3 Stunden starke Nutzung, 6-8 Stunden mäßige Nutzung, 14 Stunden leichte Nutzung, abhängig von der spezifischen Nutzungsumgebung
+
+
+Aussehen
+Nettogewicht
+560g
+
+
+Länge
+198mm
+
+
+Breite
+92mm
+
+
+Dicke
+27mm
+
+
+Schalenmaterial
+LG-DOW 121H Luftfahrt-ABS, UL94-VO, Magnesiumlegierung
+
+
+Schalenfarbe
+AII Schwarz, Silber Schwarz
+
+
+Thermisches Design
+Aktive Kühlung, großer Lüfter + Dual Heatpipe
+
+
+Sensor
+Hall-Sensor, G-Sensor
+
+Merkmale:Zentralprozessor: Intel 1165 G7 Tiger Lake-U-Prozessor der 11. Generation, 4 Kerne und 8 ThreadsGrafikkarte: Intel Iris® Xe Grafik-Kerndisplay der 12. Generation, die Gesamtleistung ist stärker als beim MX350RAM: 16GB LPDDR4x 4266, bis zu 86 GB / S SpeicherbandbreiteROM: 1 TB M.2 NVMe 2280 SSD, unterstützt PCIe Gen4 SSDBetriebssystem: Windows 10Bluetooth: Bluetooth 5.0W-lan: IEEE 802.11 a / b / n / ac / ax, 2,4G 5G W-lanAnzeige: 5,5-Zoll-Sonnenschutz, NTSC 84%, 400nit, 268 PPI, Auflösung 1280 x 720Bildschirmdia-Design, Touch-Tastatur, mit Vibrationsaufforderung, weiße Hintergrundbeleuchtung der TastaturGroßer Turbolüfter + zwei Heatpipes, intelligente Hochgeschwindigkeits-WärmeableitungALPS Dual 3D Big Rocker, lineare analoge Auslösetaste, native Unterstützung zum Herunterdrücken, um die Funktion L3/R3 zu erreichenUnterstützungsspiele: GTA 5, The Witcher 3: Wild Hunt, Devil May Cry5, Sekiro: Shadows Die Twice, PUBG, CODLieferinhalt:1 x GPD WIN 3 Ultimate Edition-Spielekonsole1 x 65W Netzteil1 x Benutzerhandbuch
+
+
+
+

@@ -1,0 +1,353 @@
+1855813
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/0E/E5/2bde8b24-ac49-47e5-a9f6-e384d6689cde.jpg
+X96 X6 Smart TV Caja RK3566 Rockchip 8GB RAM 128GB ROM Android 11.0 HD 8K 2T2R 2.4G 5G Wifi Bluetooth TV Cajaes con infrarrojos Control remoto
+https://es.banggood.com/X96-X6-Smart-TV-Box-RK3566-Rockchip-8GB-RAM-128GB-ROM-Android-11_0-HD-8K-2T2R-2_4G-5G-Wifi-Bluetooth-TV-Boxes-with-Infrared-Remote-Control-p-1855813.html?cur_warehouse=CN&ID=47757&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parametros basicos
+
+
+UPC
+Chipset
+RK3566
+
+
+Arquitectura
+ARM Cortex A55 de cuatro núcleos
+
+
+GPU
+Chipset
+Mali-G52 1-Core-2EE
+
+
+Arquitectura
+para OpenGL ES 1.1 / 2.0 / 3.2, para OpenCL 2.0, compatibilidad con Vulkan 1.1
+
+
+NPU
+
+Motor de aceleración de redes neuronales con un rendimiento de procesamiento de hasta 0,8 TOPS
+
+
+RAM
+Capacidad
+8GB
+
+
+ROM
+Capacidad128GB
+
+
+Externo almacenamiento
+Dispositivos de almacenamiento USB
+Soportado
+
+
+Tarjeta micro SD
+Soportado
+
+
+Software
+
+
+Sistema operativo
+Versión del sistema operativo
+Android 11
+
+
+Idioma
+Multi lenguaje
+
+
+Multimedia
+Video
+Decodificador de video
+
+
+Perfil H.265 HEVC / MVC Main10 yuv420@L5.1 hasta 4096x2304 @ 60fps
+
+
+H.264 AVC / MVC Main10 Profile yuv400/yuv420/yuv422/@L5.1 hasta 4096x2304 @ 60fps
+
+
+VP9 Profile0 / 2 yuv420@L5.1 hasta 4096x2304 @ 60fps
+
+
+VP8 verision2, hasta 1920x1088 @ 60fps
+
+
+VC1 Perfil simple @ niveles bajo, medio, alto, Perfil principal @ niveles bajo, medio, alto, Perfil avanzado @ nivel 0 ~ 3, hasta 1920x1088 @ 60fps
+
+
+MPEG-4 Simple Profile @ L0 ~ 6, Advanced Simple Profile @ L0 ~ 5, hasta 1920x1088 @ 60fps
+
+
+Perfil principal MPEG-2, niveles bajo, medio y alto, hasta 1920x1088 @ 60fps
+
+
+Perfil principal MPEG-1, niveles bajo, medio y alto, hasta 1920x1088 @ 60fps
+
+
+H.263 Profile0, niveles 10-70, hasta 720x576 @ 60fps
+
+
+Codificador de video
+
+
+H.264 / AVC BP/MP/HP@level4.2, hasta 1920 x 1080 a 100 fps
+
+
+H.265 / HEVC MP@level4.1, hasta 1920x1080 @ 100fps (4096x4096 @ 10fps con TILE)
+
+
+Admite fuente de video YUV / RGB con rotación y espejo
+
+
+Audio
+Soporta MP3, AAC, WMA, FLAC, Ogg
+
+
+Imagen
+HD JPEG, BMP, GIF, PNG, TIF
+
+
+Servicio de red
+
+
+Wifi
+Tipo
+Soporta WiFi IEEE 802.11 b / g / n / ac
+
+
+Frecuencia
+Soporta 2.4G y 5G
+
+
+Antena Tipo
+Dos antenas externas
+
+
+Bluetooth
+Bluetooth
+Soporte BT4.X
+
+
+Interfaz
+
+
+Cargo
+Conector DC
+ENTRADA CC (5V / 2A) 
+
+
+Salida de video
+HDMI
+Salida 4Kx2K UHD, HDMI 1.4 / 2.0
+
+
+Receptor de infrarrojos
+Conector de 3,5 mm Auricular
+Conexión de receptor remoto
+
+
+Micro SD
+Memoria externa
+Apoyo
+
+
+Puerto USB
+Puerto USB
+1x USB3.0 2x USB2.0 tipo normal 
+
+
+Ethernet
+Ethernet
+Ethernet de 1000M
+
+
+Apariencia
+
+
+Cuerpo material
+metal
+
+
+Color
+gris
+
+
+Tamaño
+105x105x20 (milímetro)
+
+
+Peso
+/
+
+
+Cerificaciones (por unidad)
+
+
+Estándar
+CE
+/
+
+
+RoHS
+/
+
+
+Contenidos del paquete
+Datos de envío
+
+
+1 x manual de usuario, 1 x caja de regalo, 1 x Infrarrojo rcontrol de emoticonos, 1 x cable externo HDMI, 1 x adaptador de corriente
+Regalo Caja Dimensión (mm)
+205x140x50 (milímetro)
+
+Característica:UPC: Rockchip RK3566 Cuatro Nucleos ARM Cortex A55GPU: Mali-G52 1-Core-2EE, para OpenGL ES 1.1 / 2.0 / 3.2, para OpenCL 2.0, compatibilidad con Vulkan 1.1 RAM: 8 GBROM: 128 GBAlmacenamiento externo: admite dispositivos de almacenamiento USB, tarjeta Micro SDSistema operativo: Android 11.0Idioma: varios idiomasDecodificador de video: H.265 HEVC / MVC Main10 Profile yuv420@L5.1 hasta 4096x2304 @ 60fps; H.264 AVC / MVC Main10 Profile yuv400/yuv420/yuv422/@L5.1 hasta 4096x2304 @ 60fpsWifi: compatible con WiFi IEEE 802.11 b / g / n / ac; Soporta 2.4G y 5G; Dos antenas externasBluetooth: compatible con BT4.XHDMI: Salida 4Kx2K UHD, HDMI 1.4 / 2.0 El paquete incluye:1 x X96 X6 Smart TV Caja (Otros productos no están incluidos)1 x manual de usuario1 x infrarrojos Control remoto1 x cable externo HDMI1 x adaptador de corriente 
+
+
+
+

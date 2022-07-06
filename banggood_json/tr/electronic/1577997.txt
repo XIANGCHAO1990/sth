@@ -1,0 +1,213 @@
+1577997
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/2C/47/5ac9d8a0-2c34-4de8-afef-f19a7adaf5b8.JPG
+DC-DC 5-32V ila 0.8-30V Güç Kaynağı Kademe Aşağı Modülü Ayarlanabilir Buck Regülatörü 5A Sabit LED Sürücü Batarya Şarj Gerilimi Kartı
+https://tr.banggood.com/DC-DC-5-32V-to-0_8-30V-Power-Supply-Step-Down-Module-Adjustable-Buck-Regulator-5A-Constant-LED-Driver-Battery-Charging-Voltage-Board-p-1577997.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Genel Bakış:
+
+
+
+Modül, yüksek kaliteli yongalar, yüksek verimlilik (% 95'e kadar), düşük ısı üretimi, maksimum 5A akım ve TI'nin op-amp kontrol çıkış akımı kullanır ve genel çıkışı çok kararlı hale getirir.
+
+Bu modül, dalgalanma voltajını 50mV'ye düşürmek için düşük ESR filtre kapasitörü kullanır!
+
+
+
+Özellikleri:
+
+
+
+Modül yapısı: izole edilmemiş kova modülü
+
+Doğrultma modu: asenkron düzeltme
+
+Kablolama portu: Giriş modu: IN + giriş pozitif, IN giriş negatif
+
+Çıkış modu: OUT + çıkış pozitif, OUT çıkışı negatif
+
+Giriş voltajı: DC 5V-32V
+
+Çıkış voltajı: DC 0.8V-30V
+
+Çıkış akımı: Ayarlanabilir, Max 5A
+
+Dönüşüm verimliliği:% 95 (maksimum)
+
+Anahtarlama frekansı: 300KHz
+
+Çıkış dalgalanması: 50mV (maksimum) 20M bant genişliği
+
+Yük ayarlama oranı: +/-% 0,5
+
+Voltaj düzenleme oranı: +/-% 2,5
+
+Çalışma sıcaklığı: -40 ° C ila + 85 ° C
+
+Boyut: 51 x 26,3 x 14 (uzunluk x genişlik x yükseklik) (mm)
+
+
+
+Paket içeriği:
+
+
+
+1x DC-DC 5A Ayarlanabilir Buck Regülatörü Güç Kaynağı Modülü
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,249 @@
+1307801
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/CB/72/7284fbfc-18c1-4b04-af4e-8d4e75df192f.jpg
+MPPT 5A Solar Panel Regulador Controlador Batería Carga 9V 12V 24V Interruptor automático
+https://es.banggood.com/MPPT-5A-Solar-Panel-Regulator-Controller-Battery-Charging-9V-12V-24V-Automatic-Switch-p-1307801.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manual: Haga clic aquí para abrir<<<
+
+	Características:
+
+
+
+1W-100W 9V-28V es adecuado 9V 12V 18V 24V paneles solares para las baterías, níquel-cadmio, baterías de litio (batería) de carga, turbinas eólicas farolas solares.
+
+Los terminales de entrada y salida están hechos de una fuente de alimentación conmutada de alta gama para condensadores electrolíticos de baja impedancia y alta frecuencia (LOW ESR), aseguran que la salida se ondule. Puede filtrar efectivamente las fallas de la fuente de alimentación conmutada.
+
+
+
+Parámetros:
+
+
+
+La naturaleza modular: un seguimiento de puntos de potencia máxima solar MPPT real, gestión de carga inteligente automática, bajo consumo de energía
+
+Voltaje de entrada: voltaje de CC de entrada de 8-28 V CC. (entrada AC de prohibición)
+
+Voltaje de salida: transmisión continua DC 5-26V.
+
+La batería de 6 V se puede cargar con una batería de litio de 12 o 8,4 V/12,6 V/16,8 V,Batería de fosfato de hierro y litio de 7,2 V/10,8 V/14,4 V,Baterías de litio de 2-4 cuerdas, tablero de administración de carga de fosfato de hierro y litio.
+
+Corriente de salida: 2A/5A corriente de carga máxima en dos: versión A 5A versión B de A 2A 5A versión de envío predeterminada
+
+Indicador de carga: sí. Luz roja de carga rápida Las luces rojas y azules largas y brillantes parpadean cargadas alternativamente. Parada automática completa.
+
+Función MPPT: seguimiento automático del punto de máxima potencia MPPT, para maximizar el uso completo de la carga solar
+
+Baja presión: 1V (al igual que el regulador de voltaje reductor, el voltaje de entrada es al menos más alto que el de salida 1V)
+
+Bajo consumo de energía: ¡sí! Presión ultrabaja diseñada para lograr un bajo consumo de energía y alta eficiencia, adaptación profesional de paneles solares
+
+Temperatura de funcionamiento: grado industrial (-40 a +85 grados)
+
+Regulación de carga: ± 1%
+
+Regulación de voltaje: ± 0.5%
+
+Eficiencia de conversión: Max 93% pico 95% para diferentes condiciones de iluminación varían.
+
+Carga: modo de carga automático inteligente de tres etapas. La corriente de carga de energía solar de seguimiento automático ajusta automáticamente el tamaño
+
+Corriente sin carga: 3MA incluso la luz del sol de la mañana débil puede comenzar fácilmente automáticamente, eliminando el interruptor manual.
+
+Protección de polaridad inversa de entrada: sí. Protección de polaridad inversa de transistor MOS de prevención de caída ultrabaja de diseño exclusivo, la entrada inversa no funciona.
+
+Protección contra reflujo de salida: sí. ¡Previene eficazmente la hoja de carga eléctrica de la batería de reflujo nocturno!
+
+Conexión: hay terminales
+
+
+
+Método de depuración:
+
+
+
+Paso 1: conecte la celda solar, no tome la botella para cargarla, si el voltaje de salida en el paso 2. Si no hay transferencia de salida pequeña en sentido contrario a las agujas del reloj lentamente hasta el voltaje de salida MPPT.
+
+Paso 2: transferencia en sentido contrario a las agujas del reloj del voltaje de salida pequeño hasta que las luces roja y azul parpadeen, luego el voltaje de salida grueso a un voltaje de corte completo
+
+Paso 3: acceda a la batería agotada y al amperímetro de cadena de salida para controlar la corriente de carga, el potenciómetro de ajuste MPPT hasta la corriente de carga máxima.
+
+Paso 4: el acceso está lleno de baterías, si la luz azul está en el sentido de las agujas del reloj, suba el voltaje de salida hasta la luz roja. Luego transfiera un pequeño voltaje de salida lentamente en sentido contrario a las agujas del reloj hasta que solo se encienda la luz azul, y luego use un multímetro para medir y determinar que el voltaje de corte sea correcto para evitar una sobrecarga.
+
+
+
+Métodos de transferencia en lugar de utilizar la fuente de alimentación de energía solar:
+
+
+
+Paso 1: la fuente de alimentación se ajustó Solar voltaje MPPT (como 18V)
+
+Paso 2: la fuente de alimentación conectada al terminal de entrada, no tome la batería para cargarla, si el voltaje de salida se ajusta en el sentido de las agujas del reloj hasta que no haya una gran salida de voltaje MPPT. Luego, lentamente en sentido contrario a las agujas del reloj hasta que la transferencia de MPPT pequeño solo tenga el voltaje de salida.
+
+Paso 3: en el sentido contrario a las agujas del reloj, baje el voltaje de salida hasta que parpadeen las luces roja y azul, luego el voltaje de salida grueso a un voltaje de corte completo
+
+Paso 4: el acceso está lleno de baterías, si la luz azul está en el sentido de las agujas del reloj, suba el voltaje de salida hasta la luz roja. Luego transfiera un pequeño voltaje de salida lentamente en sentido contrario a las agujas del reloj hasta que solo se encienda la luz azul, y luego use un multímetro para medir y determinar que el voltaje de corte sea correcto para evitar una sobrecarga.
+
+
+
+Nota:
+
+
+
+¡La primera carga por adelantado regula el voltaje de salida y supervisa de cerca el voltaje de la batería para evitar una sobrecarga! ¡No desproteja las baterías de litio!
+
+
+
+El paquete incluye:
+
+
+
+1 X MPPTcontrolador regulador de panel solar
+
+
+
+
+
+
+
+
+
+
+
+
+

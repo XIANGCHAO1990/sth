@@ -1,0 +1,173 @@
+1109512
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/91/B5/e0d42ff6-a8c7-44ba-8576-89f62f1d5c5a.jpeg
+ESP32 Dévelopement Panneau WiFi+Bluetooth Ultra-Bas Consommation d'Energie Double Core ESP-32 ESP-32S Panneau
+https://fr.banggood.com/ESP32-Development-Board-WiFi+bluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1109512.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction :
+
+ESP32 avec antenne déjà intégré et RF balun, amplificateur de puissance, faible bruit amplificateurs, filtres,
+et le module de gestion d'alimentation. La solution entière prend la moindre quantité de surface de panneau de circuit imprimé.
+Cette carte est utilisée avec 2.4 GHz double-mode Wi-Fi et bluetooth puces par TSMC 40nm technologie de faible puissance,
+la puissance et les propriétés de RF, qui est sécurisé, fiable et évolutif pour une variété d'applications.
+
+Caractéristiques:
+
+Haut rapport performance prix
+Petit volume, facilement incorporé à d'autres produits
+Fonction forte avec support lwip protocole, freertos
+Supportant trois modes: AP, STA, et AP+STA
+Soutenir Lua programme, facile à développer
+Panneau du Développement:https://github.com/Nicholas3388/LuaNode
+
+Emballage inclut:
+
+1 x ESP32 Panneau du Développement
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,
+
+

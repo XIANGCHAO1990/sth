@@ -1,0 +1,249 @@
+1844899
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/71/12/d560121d-a349-4f35-a2fb-83e9fe2611b3.jpg
+FLSUN® Super Racer(SR) 3D Printer 260mmX330mm Print Size Fast Print/Three-axis Linkage with 3.5inch DANGLY Touch Screen/Removable Crystal Lattice Glass Hotbed/Dual-Drive Extruder
+https://www.banggood.com/FLSUN-Super-Racer(SR)-3D-Printer-260mmX330mm-Print-Size-Fast-Print-or-Three-axis-Linkage-with-3_5inch-DANGLY-Touch-Screen-or-Removable-Crystal-Lattice-Glass-Hotbed-or-Dual-Drive-Extruder-p-1844899.html?cur_warehouse=CN&ID=47184&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▶ Products will no longer be sent with SD cards and USB and TF cards.▶ Features:Print size: 260mmX330mm. The size of the 3d printer in a wide range of audience groups keen on the size of the region, to meet the needs of a wide range of audience groups.Full-color capacitive touch screen, equipped with retractable cable and movable touch screen stand, the experience is more humane, more convenient and comfortable to use.Three-axis linkage, printing speed is 2-3 times the market I3 results, the same model, in the same precision and surface quality, can be reduced by half the time, which is the main selling point of the machine.With broken material detection, power failure renewal function.32-bit motherboard processor, more stable, more efficient, control the motor ground drive module for TMC2209 silent drive, silent effect belongs to the top level of desktop-level printers.Effector module installation: double turbo fan + 4010 ordinary fan a total of 3 fans, heat dissipation blowing effect is very good.The motion guide is industrial grade wire gauge to ensure more accurate and stable printing.Automatic leveling system, one key leveling, permanent memory.Crystal lattice glass hot bed, heating the hot bed during printing, the model can stick to the platform better, after printing is over and the hot bed cools down, it is easier to take off the model.Double-gear extruder(Double gear drive extrusion mechanism), more torque, stronger extrusion, more stable and more durable.3K high-strength carbon fiber parallel arm, more effective to ensure the accuracy of the movement, stability.Modular assembly, customers only need 10-15 minutes to complete the assembly experience.The machine is equipped with parts box, commonly used parts can be stored in the parts box, more humane, more comfortable service.High strength customized aluminum side plate, can ensure that the machine in the process of high-speed printing, to maintain a stable body.The belt is 10mm high abrasion resistance belt, to ensure the customer in the 3d printer high-speed movement state of long-term use.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifications
+
+
+Technology: Fused deposition modeling (FDM)
+Year: 2021
+
+Assembly: Partially assembled
+
+Mechanical arrangement: Deltaprinter
+
+Manufacturer: Flsun
+
+3D Printer Properties
+
+Build volume: Ø260 x 330 mm
+
+Printing speed:100-200mm/s
+
+Feeder system: Bowden
+
+Print head: Single nozzle
+
+Nozzle size: 0.4 mm
+
+Max. hot end temperature: 260 ℃
+
+Max. heated bed temperature: 100 ℃
+
+Print bed material: Glass
+
+Frame: N/A
+
+Bed leveling: Automatic
+
+Connectivity: USB, SD Card
+
+Print recovery: Yes
+
+Filament sensor: Yes
+
+Camera: No
+
+Materials
+
+Filament diameter: 1.75 mm
+
+Third-party filament: Yes
+
+Filament materials: Consumer materials (PLA, ABS, PETG)
+
+Software
+
+Recommended slicer: Cura, Repetier-Host
+
+Operating system: Windows, OSX, Linux
+
+File types: STL, OBJ, AMF
+
+Dimensions and Weight
+
+Frame dimensions: 440 x 390 x 960 mm
+
+Weight: 13.6 kg
+
+
+
+
+
+
+

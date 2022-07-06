@@ -1,0 +1,145 @@
+1940918
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/0E/61/9c84ec93-3ac9-44bc-89c0-cf535ea005b9.jpg
+WZ5020L DC DC Buck Converter CC CV Module d'alimentation abaisseur 50V 20A 1000W Alimentation régulée en tension réglable
+https://fr.banggood.com/WZ5020L-DC-DC-50V-20A-1000W-Buck-Converter-CC-CV-Step-down-Power-Module-Adjustable-Voltage-Regulated-Power-Supply-p-1940918.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Noter:Ce produit est un module dégressif et ne peut pas être boosté ! La tension d'entrée est de 55 V et la tension de sortie peut être ajustée de 0 à 50 V. Si la tension de sortie est de 12 V, la tension d'entrée minimale doit être de 14 V. La tension d'entrée ne doit pas dépasser 55V, elle doit être DC et non AC.Points forts:1. Le LCD peut afficher la tension d'entrée/sortie, le courant de sortie/la puissance de sortie/la capacité de sortie/le temps de sortie ;2. Réglage de la commande numérique, précis et rapide, sortie abaisseuse, réglage arbitraire de la tension de sortie 0-50.00V, réglage arbitraire du courant limité 0-20.00A;3. Le terminal de sortie ne brûle pas lorsqu'il est versé vers l'arrière ;4. Le module peut être configuré pour être activé/désactivé par défaut ;5. Possède une variété de mécanismes de protection logicielle et le seuil de protection est réglable. Lorsque les paramètres de fonctionnement du module dépassent le seuil de protection, la sortie sera automatiquement désactivée ;6. Utilisation de la technologie de rectification synchrone, efficacité de conversion élevée : plus de 90 % d'efficacité ;7. Augmentez le dissipateur thermique et installez un ventilateur pour améliorer la dissipation thermique.Caractéristique:Modèle : WZ5020LAffichage : LCDPlage de tension d'entrée: 6-55.00VRésolution de tension d'entrée: 0,01 VPlage de tension de sortie: 0-50.00VRésolution de tension de sortie : 0,01 VPlage de courant de sortie : 0-20,00 ARésolution du courant de sortie : 0,01 AGamme de puissance de sortie: 0-1000 WPrécision de la tension d'entrée : ± (1 % + 5)Précision de la tension de sortie : ± (0,3 % + 5)Précision du courant de sortie: ± (0,5% + 5)Valeur typique de l'ondulation de sortie : 150 mV Valeur de crêtePlage de température de fonctionnement normale : -10℃~40℃Plage de mesure de capacité: 0-999.9AHErreur statistique d'énergie de capacité: ± 2%Plage de temps statistique : 0-100 heuresMode de dépressurisation : pression différentielle > 0,05 % + 1 VTaille du produit : panneau 79 x 43 x 42 mm.Taille du produit : carte mère 106x76x40mmDémarrage progressif: OuiMécanisme de protection :Protection contre les sous-tensions d'entrée (réglable de 5,8 à 50 v, 5,8 v par défaut)Protection contre les surtensions de sortie (0-51.00v réglable, 51V par défaut)Protection contre les surintensités de sortie (0-20.10a réglable, par défaut 20.10a)Protection contre la temporisation (0 - 100h réglable, désactivée par défaut)Protection contre la surcapacité (0 - 999.9ah réglable, désactivé par défaut)Le forfait comprend :1 x alimentation CNC de bureau bricolage
+
+
+
+

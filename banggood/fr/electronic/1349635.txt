@@ -1,0 +1,190 @@
+https://fr.banggood.com/4-Channel-Omron-Relay-Module-PLC-Amplification-Board-Controller-DC-24V-TKG2R-1E-K424-p-1349635.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+TKG2R-1E-K424 Contrôleur de carte d&#39;amplification de module de relais de 4 canaux PLC avec l&#39;indicateur lumineux DC 24V 
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spécification:
+
+
+
+Modèle: TKG2R-1E-K424
+
+Type de sortie: relais
+
+Points I / O: 4
+
+Signal d'entrée: compatible NPN et PNP
+
+Tension d'entrée: DC24V
+
+Tension de sortie: AC / DC 0-250V
+
+Contacts de sortie: 1CO (SPDT)
+
+Capacité de contact (résistive): 10A 250VAC
+
+Tension de fonctionnement / relâchement de la tension: ≥75% Un / ≤10%
+
+Temps d'opération / temps de libération: ≤15ms / ≤8ms
+
+Fréquence de commutation: 0.1Hz
+
+Dimensions (LxLxH): 72x90 × 70mm
+
+Montage: rail DIN
+
+
+
+Emballage inclus:
+
+
+
+1 module de relais DC 24V 4 canaux
+
+
+
+
+
+
+
+
+
+
+
+
+
+

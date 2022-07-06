@@ -1,0 +1,145 @@
+1934895
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/8C/91/5e466eac-aad9-4f5e-9c34-2f4459237745.jpg
+DL24M-H 2-200V 600W 3mA-40A Indicatore di tensione di carico elettronico Power Bank Batteria Tester 18650 Strumento di controllo del monitor della capacità della confezione
+https://it.banggood.com/DL24M-H-2-200V-600W-3mA-40A-Electronic-Load-Voltage-Indicator-Power-Bank-Battery-Tester-18650-Pack-Capacity-Monitor-Checker-Tool-p-1934895.html?cur_warehouse=CN&ID=6292509&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduzione al funzionamento dei tasti delle funzioni utilizzate di frequente:1) Premere brevemente il pulsante "ON/OFF" per avviare e interrompere, premere brevemente l'angolo in alto a sinistra del pulsante "M" per spostare il cursore e quindi regolare il valore corrispondente con il pulsante "+/-"2) Premere a lungo il pulsante "+/-" contemporaneamente per cancellare tutti i dati accumulati come la capacità attuale, il tempo della batteria, ecc. (Premere a lungo il pulsante "ON/OFF" per accedere allo sfondo, può anche essere cancellato nel menu in background)3) Premere a lungo il pulsante "M" e la modalità funzione inizia a lampeggiare, quindi premere brevemente il pulsante "+/-" per selezionare la funzione (CC/CV/CR/CP/BRT/PT)4) In modalità OFF, premere a lungo il pulsante "ON/OFF" per accedere all'interfaccia in background, quindi premere brevemente il pulsante "M" per cambiare la colonna delle impostazioni e il pulsante "+/-" per regolare il numero5) Premere brevemente il pulsante "+/-" nella colonna della precisione della corrente costante dell'interfaccia di impostazione dello sfondo per cambiare la precisione della corrente costante (10 mA o 1 mA)6) Quando il sistema non fornisce alimentazione, tenere premuto il pulsante "M" e non lasciarlo andare. Quindi riaccendere. Immettere l'opzione di potenza di giunzione e passare al valore di potenza effettivo prima di rilasciare7) Premere a lungo il pulsante "M" la modalità funzione inizia a lampeggiare, premere nuovamente brevemente il pulsante "M" per inserire il valore di regolazione dell'impostazione della scarica limitata nel tempo e il valore della colonna della tensione di taglio.Pannello Pulsanti principali e descrizione:Ⅰ: indicatore Bluetooth (lampeggiante in attesa di connessione Bluetooth, luce lunga indica connessione riuscita)Ⅱ: Pulsante di aumento Vave "+" (premere brevemente il pulsante per aumentare il numero, premere a lungo il pulsante per aumentare continuamente, quando la modalità lampeggia, premere brevemente il pulsante per tornare indietro)Ⅲ: pulsante di impostazione "M" (premere a lungo il tasto "M" per avviare la modalità funzione, premere il tasto "+" o "-" per passare alla modalità CC/CV/CP/CR/BRT/PT, premere a lungo il tasto "M" per avviare la modalità funzione, premere nuovamente brevemente il tasto "M" per passare da Time Discharge a Cut off voltage. Premere il tasto "+" o "-" per impostare il valore, l'impostazione predefinita è OFF)Ⅳ: Pulsante di riduzione del valore "-" (premere brevemente il pulsante per diminuire il numero e premere a lungo il pulsante per diminuire continuamente. Quando la modalità lampeggia, premere brevemente per andare avanti)Ⅴ: Pulsante ON/OFF "ON/OFF" (premere brevemente il pulsante, è ON o OFFPremere a lungo il pulsante per accedere alle impostazioni di sfondo del prodotto e utilizzare il pulsante "M" e il pulsante "+" o "-" per impostare i parametri)Quattro modalità di funzionamento:1. Funzionamento a corrente costante (CC)2. Operazione a resistenza costante (CR)3. Funzionamento a potenza costante (CP)4. Funzionamento a tensione costante (CV)Host Parametri e descrizione:1. Testare vari ingressi di alimentazione CC2. Ingressi porta di rilevamento MiNi USB3. Ingressi porta di rilevamento Micro USB4. Ingressi porta di rilevamento USB di tipo c5. Assemblaggio fai-da-te Diverse posizioni del ponticello della riserva di carica (150 W/300 W/450 W/600 W)6. Sonda di temperatura NTC esterna7. Sede dell'ago dritto XH2.54-2P (ignorare, nessuna corrispondenza)8. Sede dell'ago dritto XH2.54-2P (ignorare, nessuna corrispondenza)9. Cavo 8p collegato al pannello10. Alimentazione del sistema DC5.5 (deve fornire DC12V 1A)11. Aumenta la potenza ed espandi l'interfaccia12. Resistenza X4 pezziPacchetto incluso: (opzionale)Tipo 150 W n. 1:1 x DL24M -150W Colore Display Bluetooth Curva di controllo digitale Versione Carico Tesr1 x alimentatore DC12V 1A1 x 5 set di viti maschio e femmina1 x sonda di temperatura1 x linea di clip a coccodrillo a linea singola rossa e nera1 x US per adattatore UE1 scheda di prova dell'adattatore300 W Tipo n. 2:1 x DL24M-150W Colore host Display Bluetooth Versione curva di controllo digitale Test di carico1 x alimentatore DC12V 1A2 x 5 set di viti maschio e femmina1 x sonda di temperatura1 x linea di clip a coccodrillo a linea singola rossa e nera1 x US per adattatore UE1 accessori per ventole da 150 W1 scheda di prova dell'adattatore450 W Tipo n. 3:1 x DL24M-150W Colore host Display Bluetooth Versione curva di controllo digitale Test di carico1 x alimentatore DC12V 1A3 x 5 set di viti maschio e femmina1 x sonda di temperatura1 x linea di clip a coccodrillo a linea singola rossa e nera1 x US per adattatore UE2 accessori per ventole da 150 W1 scheda di prova dell'adattatoreTipo 600 W n. 4:1 x DL24M-150W Colore host Display Bluetooth Versione curva di controllo digitale Test di carico1 x alimentatore DC12V 1A4 x 5 set di viti maschio e femmina1 x sonda di temperatura1 x linea di clip a coccodrillo a linea singola rossa e nera1 x US per adattatore UE3 accessori per ventole da 150 W1 scheda di prova dell'adattatore
+
+
+
+

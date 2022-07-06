@@ -1,0 +1,360 @@
+1862498
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/BD/A4/441df3bd-a65c-4311-afda-2be2e10a23d4.jpg
+ESCAM WNK614 8CH 3MP sans fil Dome caméra système de sécurité CCTV Kit NVR Audio bidirectionnel double lumière capteur de mouvement détection caméra IP
+https://fr.banggood.com/ESCAM-WNK614-8CH-3MP-Wireless-Dome-Camera-CCTV-Security-System-NVR-Kit-Two-Way-Audio-Dual-Light-Motion-Sensor-Detection-IP-Camera-p-1862498.html?cur_warehouse=USA&ID=47757&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:APP : EseeCloud1. Soutien H.265 format de compression vidéo2. Caméra dôme haute définition NVR sans fil 8 canaux + 4 canaux 3MP（Si vous devez ajouter plus de caméras, veuillez >>>Cliquez ici<<<??3. Trois types de vision nocturne intelligente en couleur avec deux sources lumineuses3. Soutenir la voix bidirectionnelle4. 7 jours de stockage cloud récurrent gratuit5. Prise en charge maximale d'un disque dur de 1 baie de 6 To6. Prise en charge de la vidéo push d'alarme de détection de capteur de mouvement7. Prise en charge de la surveillance à distance de l'application mobileSpécification:* Enregistreur vidéo sur disque dur réseau sans fil 3.0MP;* Module WIFI sans fil dédié à la sécurité intégré, signal stable et forte capacité anti-interférence;* Pas besoin d'appairage WIFI, l'image s'affichera à la mise sous tension de la box ;* Utilisation mixte filaire et sans fil, s'adapte à divers scénarios;* P2P EseeCloud (APP : EseeCloud), connexion à distance en quelques secondes, image fluide et stable ;* Prend en charge plusieurs déclencheurs d'alarme (perte vidéo/détections de mouvement, etc.) et la sortie d'alarme (voix/E-Mail/FTP, etc.) ;* Prise en charge de l'accès et du contrôle à distance (LAN et Internet) des téléphones mobiles Android / Apple (ou tablettes). 
+
+
+
+
+NVR sans fil
+
+
+système opérateur
+Système d'exploitation temps réel Linux embarqué
+
+
+Entrée vidéo et audio
+Entrée vidéo réseau
+8 canaux
+
+
+Sortie vidéo et audio
+Sortie HDMI
+1 canal, résolution : 1024x768, 1280x1024, 1366x768, 1440x900, 1920x1080p, prise en charge de la sortie audio
+
+
+Sortie VGA
+1 canal, résolution : 1024x768, 1280x1024, 1366x768,1440x900, 1920x1080p
+
+
+Paramètres de codec vidéo et audio
+Résolution vidéo
+D1/960H/720P/960P/1080P/3MP
+
+
+Lecture synchrone
+4 canaux
+
+
+Vidéo 
+Mode vidéo/capture
+Enregistrement manuel, enregistrement de synchronisation, enregistrement de détections de mouvement, enregistrement d'alarme
+
+
+Mode de lecture
+Lecture instantanée, lecture régulière, lecture d'événements
+
+
+Mode de sauvegarde
+Sauvegarde régulière
+
+
+Espace de rangement 
+Stockage en ligne
+7 jours de stockage récurrent gratuit
+
+
+Type d'interface de disque dur
+1 interface SATA
+
+
+Capacité maximale du disque dur
+Disque dur jusqu'à 6 To
+
+
+Interface externe
+Interface réseau
+1, RJ45 port Ethernet adaptatif 10M/100M
+
+
+interface USB
+1 USB
+
+
+prise audio
+Un port casque 3,5 mm
+
+
+Réseau
+Protocole réseau
+UPnP (plug and play), SMTP (service de messagerie), PPPoE (accès Internet commuté), DHCP (obtenir automatiquement une adresse IP), etc.
+
+
+
+
+autre
+source de courant
+CC 12V 2A
+
+
+Consommation électrique (sans disque dur)
+5W
+
+
+Température de fonctionnement
+-dix??--??55??
+
+
+Humidité de travail
+10%--90%
+
+
+Poids (sans disque dur)
+1Kg
+
+
+Taille
+255×220×42mm
+
+
+IPC sans fil
+
+
+Pixels
+3MP
+
+
+Capteur d'image
+Capteur CMOS 1/2,7", couleur : 0,1 lux, noir/blanc : 0,01 lux
+
+
+Lentille
+4mm
+
+
+Traitement vidéo
+Encodage vidéo H.264/H.265, prise en charge du double flux
+
+
+Sortie d'images
+Flux principal : 2304*1296@15fps ; Sous-flux : 640x360@15fps
+
+
+obturateur
+Obturateur automatique
+
+
+Réduction de bruit
+Prise en charge de la réduction du bruit 2D/3D
+
+
+Large dynamique
+Soutenir la dynamique numérique à l'échelle
+
+
+Mode jour et nuit
+Le type de filtre infrarouge IR-CUT prend en charge les modes infrarouge / couleur / intelligent 3
+
+
+Retournement d'image
+Prise en charge du retournement horizontal et vertical
+
+
+Traitement audio
+Norme de codec G.711, prise en charge de la synchronisation audio et vidéo
+
+
+prise audio
+1 entrée, niveau 2Vp-p, impédance 1k??, prend en charge l'entrée MIC/ramassage ; 1 sortie, impédance 8??, puissance de sortie 1W, prise en charge des haut-parleurs directs
+
+
+Réseau filaire
+1 interface Ethernet RJ45, adaptative 10/100M ; prend en charge RTSP/FTP/PPPOE/DHCP/DDNS/NTP/UPnP et d'autres protocoles réseau
+
+
+réseau sans fil
+802.11b/g/n
+
+
+Interface de signaux infrarouges
+1 interface de photorésistance, 1 interface de lecteur IR-CUT, prise en charge du contrôle du panneau de lampe à double source de lumière (contrôle double IO, pas de MCU de panneau de lampe)
+
+
+Yuntai
+350° gauche et droite, 90° haut et bas
+
+
+Interface du bouton de réinitialisation
+Etre prêt
+
+
+Fente pour carte SD
+Prise en charge maximale 128G
+
+
+Caractéristiques
+Détections de mouvement ; pousser les informations d'alarme; prendre en charge la surveillance à distance des téléphones mobiles et des clients
+
+
+Vision nocturne
+4 IR lumière + 4 lumière blanche
+
+
+source de courant
+CC 12V 1A
+
+
+poids
+0.65kg
+
+
+Taille
+156x91x130mm
+
+
+Informations sur le paquet
+Poids
+3.25kg
+
+
+Taille
+320x332x170mm
+
+
+Liste de colisage
+8CH WIFI NVR * 1, caméra WIFI * 4, adaptateur secteur NVR * 1,adaptateur secteur caméra*4, manuel*1, souris*1, pack de vis*4, câble réseau*1
+
+
+
+Emballage inclus:1 x NVR sans fil4 x caméra IP WIFI1 sourisAdaptateur secteur NVR 5 x 12v 2A1 câble réseau de 1 m4 x kit de vis1 X Guide de démarrage rapide
+
+
+
+

@@ -1,0 +1,199 @@
+1626102
+https://imgaz.staticbg.com/thumb/large/oaupload/ser1/banggood/images/9D/55/78c57e20-f1eb-4341-83f6-2e2ad0bfc91a.jpg
+YL160 4'ü 1 arada Manyetik Şeritli Kredi Kartı EMV IC Chip RFID PSAM Kart Okuyucu Yazar Teksir
+https://tr.banggood.com/YL160-4-in-1-Magnetic-Stripe-Credit-Card-EMV-IC-Chip-RFID-PSAM-Card-Reader-Writer-Duplicator-p-1626102.html?cur_warehouse=USA&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not: Manyetik şeritli kart sadece okunabilir ancak yazılamaz, kontak IC kartı + indüksiyon IC kartı + PSAM kartı okunabilir ve yazılabilirÖzellikleri :
+
+
+POST, USB destekli
+	EMV4.3/PBOC3.0 spesifikasyonu ile uyumlu
+	çok işlevli PSAM işlemini destekler
+	LED ışık istemi veri iletim süreci
+	.Uzun Hizmet Ömrü Manyetik Kafa
+	SAM kart işleminin işlevini destekleyin
+	PC ile iletişim kurmak için USB kullanın
+	İnce, hafif, güzel, pratik
+	Manyetik/IC yongaları/13.56mhz RFID NFC/PSAM kartlarını destekler
+	USB arabirimi, tak ve çalıştır, ek sürücü yüklemeye gerek yok
+	USB arabirimi, gerçekten tak ve çalıştır, sürücü yüklemeye gerek yok
+	Manyetik kartları, IC kart okuyucusunu, yakınlık kartı işlevini okuyun
+	Tam üç parçalı manyetik kartı okumak, çift yönlü kaydırmayı destekler
+	Birçok geliştirme platformu arayüzü işlevi ve uygulama örneği sağlayın
+	Windows 7, Windows 8, Win2008, Windows 2003, Windows 2000, XP, Linux vb.
+	Çeşitli hafıza kartlarını okuyabilir ve yazabilir ve T = 0 ve T = 1 iletişim protokolü CPU kartını destekler
+	Yeşil LED, üç kanallı bir kart tam çıktısı tamamlandıktan sonra kredi kartı verilerinin çıktısını göstermek için yanıp söner
+	Geliştirme, noktalar, örnekler ve çeşitli geliştirme dillerinin mükemmel tanımını sağlayan eksiksiz bir kitaplık işlevi yelpazesi sağlamak, örnek kaynak kodunu çağırır (dahil: c # 2003, c + + builder, Adelphi, Powerbuilder, VB . net2003, VB6.0, java)
+
+
+Şartname :
+
+
+Modeli: YL160
+	Renk: Siyah
+	Ağırlık: 180g
+	Malzeme: ABS
+	Depolama kapasitesi: 8K
+	Tür: Çoklu Kart Okuyucu
+	Algılama mesafesi: 3~10 (cm)
+	Güç kaynağı: 0.1 (W)
+	Çalışma frekansı: 13.56 (Khz)
+	Kart okuma süresi: 0.1 (sn)
+	Boyutlar: 160 × 45 × 45 mm / 6,3x1,8x1,8 inç
+	USB kablo uzunluğu: 1.5 metre
+	Uygulanabilir kart türleri: Manyetik kartlar, kontak IC kartları, psam kartları, indüksiyon IC kartları
+
+
+Paket içeriği:
+
+
+1 x Kart okuyucu
+	1 x CD
+
+
+Ayrıntılar resimleri:
+
+
+
+
+
+
+
+
+

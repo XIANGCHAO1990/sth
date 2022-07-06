@@ -1,0 +1,145 @@
+1896928
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/83/16/210e877c-74fb-4419-b499-7b3d77b34dcb.jpg
+3 uds ESP-32S ESP32 placa de desarrollo inalámbrica WiFi + Bluetooth 2 en 1 CPU de doble núcleo placa de control de baja potencia ESP-32S
+https://es.banggood.com/3Pcs-ESP-32S-ESP32-Development-Board-Wireless-WiFi+Bluetooth-2-in-1-Dual-Core-CPU-Low-Power-Control-Board-ESP-32S-p-1896928.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Característica:ESP32 integra interruptores de antena, balun de RF, amplificadores de potencia, amplificadores de bajo ruido, filtros y módulos de administración de energía, y toda la solución ocupa el área más pequeña de la placa de circuito impreso. Wi-Fi de 2,4 GHz y chip de modo dual BluetoothAl utilizar la tecnología TSMC de 40 nm de baja potencia, el rendimiento de potencia y el rendimiento de RF son los mejores, seguros y confiables, y fáciles de extender a varias aplicaciones.Use document download: https://github.com/Nicholas3388/LuaNode Especificación:EconómicoPequeño volumen. Fácil de integrar en cualquier productoPotente, compatible con protocolo LWIP, freertosAdmite tres modos: modo de coexistencia AP, STA, AP + STALa programación Lua facilita tu desarrolloEl paquete incluye:3 x ESP32 placa de desarrollo
+
+
+
+

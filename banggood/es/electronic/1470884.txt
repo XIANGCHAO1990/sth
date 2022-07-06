@@ -1,0 +1,279 @@
+https://es.banggood.com/SONOFF-T2-EU-or-US-or-UK-AC-100-240V-1-or-2-or-3-Gang-TX-Series-433Mhz-WIFI-Wall-Switch-RF-Smart-Wall-Touch-Switch-For-Smart-Home-Work-With-Alexa-Google-Home-p-1470884.html?cur_warehouse=CZ&ID=6278519&rmmds=CategoryElectronicsPop
+SONOFF® T2 EU/US/UK AC 100-240V 1/2/3 Gang TX Series 433Mhz Interruptor de pared WIFI Interruptor táctil de pared inteligente RF para trabajo en casa inteligente con Alexa Google Home
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visión general:
+
+Los interruptores inteligentes WiFi con 1-3 grupos de T2 (UE, Reino Unido y EE. UU.) están disponibles en blanco, y T0 y T1 también están disponibles en blanco. T3 están disponibles en negro. Además, T1, T2 y T3 admiten el control remoto de 433 MHz.
+Todos los interruptores se pueden controlar de forma remota con su teléfono, y los dispositivos conectados con los interruptores pueden funcionar de forma independiente. Funciona con Amazon Alexa y Google Assistant, que le permiten encender o apagar sus electrodomésticos con un comando de voz, perfecto para aquellos que necesitan manejar muchas tareas domésticas simultáneamente. Cuenta con botones táctiles sensibles que se adjuntan a los interruptores simples y elegantes para garantizar una decoración moderna y agradable en cualquier superficie de pared. Un ligero toque para un control más fácil. Si te preocupa que tu factura mensual de electricidad se vea abrumada por electrodomésticos que consumen mucha energía, o si quieres encender tu cafetera mientras estás sentado en el sofá, el horario es una buena opción. Establece una hora para los dispositivos y los interruptores te ayudarán a encenderlos o apagarlos automáticamente. Adapte la escena inteligente para sus electrodomésticos. simplemente configure un evento para activar un dispositivo SONOFF o grupos de dispositivos con un toque en su teléfono. Sus dispositivos no funcionarán debido a una red WiFi anormal, por lo tanto, el control LAN está diseñado para garantizar que puedan funcionar normalmente.
+Compatible con la función IFTTT, los interruptores pueden comunicarse con una gran cantidad de dispositivos y servicios para activarlos o desactivarlos. Hay varios pasos complicados cuando empezamos a acceder a una casa inteligente, para emparejar, ingresar cuenta y contraseña, nombre, etc. El control compartido le brinda una forma rápida de permitirle a usted y a su familia controlar dispositivos juntos. No está seguro de si apagar el calentador cuando sale de casa, simplemente saque su teléfono y abra la aplicación eWeLink para verificar el estado del dispositivo en tiempo real.
+Manual:
+
+Guía de instalación rápida de TX Reino Unido, Manual de usuario de TX Reino Unido
+
+Guía de instalación rápida de TX EU, Manual de usuario de TX UE
+
+TX US Guía de instalación rápida, TX US Manual de usuario
+
+
+
+
+
+Comparar modelos TX
+
+
+
+Escribe
+
+T0
+
+T1
+
+T2
+
+T3
+
+
+
+433MHz
+
+				No
+
+				Sí
+
+				Sí
+
+				Sí
+
+
+
+Color
+
+				Blanco
+
+				Blanco
+
+				Blanco
+
+				Negro
+
+
+
+EU
+
+				Sí
+
+				Sí
+
+				Sí
+
+				Sí
+
+
+
+UK
+
+				Sí
+
+				Sí
+
+				Sí
+
+				Sí
+
+
+
+US
+
+				Sí
+
+				No
+
+				Sí
+
+				Sí
+
+
+
+Nota: No hay borde en el panel T0 y T1 (UE y Reino Unido), T2 y T3 con borde.
+Todas las series US con borde
+
+Rasgo:
+
+Modelo: T2
+Estándar: US/RU/UE
+Cuadrilla: 1 cuadrilla/2 cuadrillas/3 cuadrillas
+Color blanco
+Entrada: 1C: CA 100-240 V 50/60 Hz 2 A máx.
+          2C: CA 100-240 V 50/60 Hz 4 A máx.
+          3C: CA 100-240 V 50/60 Hz 3A máx.
+Salida: 1C: CA 100-240 V 50/60 Hz 2 A máx.
+             2C: CA 100-240V 50/60Hz 2A/Gand 4A/Total
+             3C: CA 100-240 V 50/60 Hz 1A/Grupo 3A/Total 
+LED carga: 1C/2C: 150W/110V (por canal)
+                             300 W/220 V (por canal)
+                 3C: 60W/110V (por canal)
+                       100 W/220 V (por canal)
+Sistemas operativos: Android_4.1 o superior e iOS 9.0 o superior
+Material de la caja: PC V0 + panel de vidrio templado
+Estándar inalámbrico: IEEE 802.11 b/g/n 2.4G
+radiofrecuencia: 433,92 MHz
+Tamaño UE/Reino Unido: 86*86*35mm
+Tamaño de EE. UU.: 120*74*38mm
+
+Especificación:
+
+- Dispositivos de control remoto a través de un teléfono
+- Encender/apagar dispositivos con Amazon Alexa y Google Assistant
+- Botones de control táctil para una operación conveniente
+- Establecer un tiempo particular para encender/apagar dispositivos
+- Personaliza uno o grupos de SONOFF dispositivos para encenderlos o apagarlos con un simple toque
+- Le permite administrar dispositivos cuando no hay una red WiFi en su espacio
+- Controle el dispositivo con su familia juntos a través del uso compartido de dispositivos
+- Sincroniza el estado del dispositivo en tiempo real con tu teléfono
+- El servicio IFTTT activa un montón de acciones
+- Puede ser manejado por el control remoto de 433MHz (no incluido)
+
+Paquete incluido:
+
+1 interruptor inteligente SONOFF T2
+
+
+
+
+

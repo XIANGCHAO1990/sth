@@ -1,0 +1,206 @@
+https://www.banggood.com/IMars-Enusic-CJ720-Global-Version-Relay-GPS-Tracker-Real-Time-GSM-Locator-Anti-theft-Cut-off-Fuel-Power-System-Function-p-1651561.html?cur_warehouse=USA&rmmds=CategoryAutomobilesPop
+iMars® Enusic™ CJ720 Global Version Relay GPS Tracker Real Time GSM Locator Anti-theft Cut off Fuel Power System Function
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Youtube Link:https://www.youtube.com/watch?v=Bi7mxvcE4wISoftware Expiration Problem: Provide the IMEI number to the online customer service, and we would give it to the supplier that they would extend the account usage period(100years)https://www.banggood.com/Contact-Us_hi111Description:
+
+GPS and Russian GLONASS dual-mode positioning
+
+◆ Real-time tracking  ◆against pseudo base-station&detect
+
+◆ Vibration/Displacement/Low battery/Power off/over speed alert
+
+◆ Main power cut off alert  ◆ Geo-fence
+
+◆ History Route ◆ Cut and resume Fuel Pump remotely  ◆ AGPS locating
+
+Functions and Product parameters (Relay GPS Tracker  CJ720/ Off petrol and electricity)
+
+	 
+
+Specifciation:Terminal size31x 31x 57mmSystem LanguageChinese/EnglishNet Weight50gBackup Battery3.7V 100mAhNetworkGSM/GPRS,Network Band850/900/1800/1900MhzSupport4-frequency GSM 850/900/1800/1900 MHz which can work worldwideGPS moduleMTK2503GPS sensitivity-159dBmGPS position accuracy10mFirst positioning timeCold start 45-120 secondsWarm start35 secondsHot start1 secondOperating voltage10-50V inputOil-cutting functionVoltage is 5-15V, Current <10ABatteryBuilt-in lithium battery 3.7V 110mAhStorage temperature-40°C to +85°COperating temperature-20°C to +55°CHumidity5% - 95% Non-solidified Power ConsumptionThe power consumption is about 40 mA at work, and 1 mA at sleep. The instantaneous current of the fuel and electricity part is up to 45A.
+
+Special Note:
+
+FUEL Pump line search
+
+Need professionals.
+
+Or auto mechanic repair shop to help find.
+
+Power supply, Fuel Pump cut control line
+
+(1) The standard power supply of this equipment is 10V-50VDC, the red wire is the positive pole of the power supply,
+		and the yellow (black) is the negative pole of the power supply;
+		when installing the negative pole of the power supply, please select the grounding or grounding separately,
+		and do not share with other ground lines;
+
+(2) The Fuel Pump cutoff control line (green/blue line) is connected to the Fuel Pump line.
+
+Send Command
+
+
+	 
+
+How to use:
+
+1. opend the cover,Insert a NANO SIM card support GSM/GPRS network into the slot and make sure the chip side is up
+	(blue light flashes, green light flashes,)
+
+2.Set APN: APN123456 CMNET
+	(please use your local APN instead of CMNET,if you do not know the APN content,you should contact your SIM card supplier)
+
+3. Set admin number by sending a SMS command to the SIM card inside device
+
+For example: admin123456+86186******(+86186*****should be youe phone number)
+
+4.Connect cable follow the picture,(Fuel Pump cut test wiring video: https://www.youtube.com/watch?v=FiUN5nbAVMA)
+
+
+User Manual:
+http://myosuploads3.banggood.com/products/20190814/20190814025004SKUD05342.doc
+
+	 Use Precautions:1. Open the device case. (Some countries need to use the GPS device to post a 15-digit IMEI number to register the GSM service. Turkey needs to submit the IMEI number when submitting the order, we will modify it for you)2. Insert the SIM card (SIM card needs to be compatible with 2G network band: 850/900/1800/1900Mhz, and open SMS function, Internet traffic fee.)3. Link 12V power supply: (GPS signal: blue light flashes, GSM signal: green light flashes)4. Set the APN code: Set APN: APN123456 CMNET (please use your local APN instead of CMNET, if you do not know the APN content, you should contact your SIM card supplier) The setting in the video is you for the Chilean country.5. GPS device parameter query SMS command: (s42, 1234).Check the IP address and APN settings of the GPS device.6. GPS device status query command: status Main view: GPRS signal, GSM signal, GPS signal, main power link.7. Platform IP address: adminip123456 113.98.254.179:77008. Log in to the website or APP to check the status of the GPS device online.Http://www.gpscj.netAPP: YunTrackExperience account: TEST00Password:123456
+
+Package Included:1 X Relay GPS Tracker1 X Manual
+
+
+
+
+

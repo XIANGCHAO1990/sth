@@ -1,0 +1,227 @@
+https://tr.banggood.com/Diagnostic-Interface-Cable-OBD2-Diagbox-V7_83-For-Citroen-Peugeot-PP2000-Lexia-3-p-1347173.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+Teşhis Arayüz Kablosu OBD2 Diagbox V7.83 Citroen Peugeot PP2000 Lexia 3 için
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not: tam çip değilÖzellik:
+	1. Kimliği oku
+
+Kontrol ünitesinin tam tanımını gösterir, örneğin parça numarası, yazılım / donanım sürümü, üretici, vb.
+
+2. Arıza kodlarını okuyun
+
+Kaydedilmiş ve bekleyen tüm arıza kodlarını eksiksiz tanımlarla görüntüler (örn. "Ray basıncı - çok düşük basınç").
+
+Program, rapor yazdırmayı veya panoya kopyalamayı destekler.
+
+3. Hata kodlarını temizle
+
+Bu fonksiyon, saklanan tüm arıza kodlarını ve diğer diyagnostik bilgileri temizler.
+
+4. Otomatik tarama (komple otomobil taraması / testi)
+
+Araca monte edilen tüm ECU'ları (elektronik kontrol üniteleri) tespit eder ve tüm diyagnostik hata kodlarını okur.
+
+5. Ölçülen Değerler
+
+Program Motor Hız, Batarya voltaj, Oksijen Sensörü, Soğutma Sıvısı Sıcaklığı gibi verileri gösterir. Değerler grafikte, 9 değer bir defada veya tam listeleme (tüm ölçülen değerler) olarak gösterilebilir. Çevrimdışı analize izin veren dosyaya da kayıt edilir.
+
+6. Aktüatör testi
+
+Aktüatör testi, belirli aktüatörü etkinleştirir (örn. Yakıt pompasını açma, kilitleme / kaldırma tekerleği, kapıları kilitleme / açma, yakıt kesme, vb.)
+
+
+
+Şartname:
+
+Model numarası: 961868
+
+Ürün adı: Tanı Parçalar
+
+Durum: Yeni
+
+Siyah renk
+
+Dil: İngilizce, Almanca, Fransızca, Japonca, Rusça, İspanyolca, Portekizce, İsveççe, Türkçe, Felemenkçe, Lehçe, İtalyanca, Macaristan, Yunanca
+
+Bilgisayar Sistemi: WIN XP, WIN 7 32bit 
+
+
+Yerleşimi: 
+
+C1, C2, C3, C4, C6, C8, C-CROSSER, NEMO, BERLINGO, JUMPY, JUMPER, AX, SAXO, BX ve benzeri dahil olmak üzere Citreon otomobilleri için. Ancak, müşterilerimizin deneyimine göre lütfen dikkat edin, bu öğe C5 yeni modellerde iyi çalışmıyor. 
+
+Peugeot otomobilleri için, 1995'ten sonra, 2004'ten sonra Peugeot 307 ile işe yaramaz.
+
+
+
+Paket içeriği:
+
+Uzatma OBD2 kablosu ile 1 X Ana ünite
+
+1 X Uzun 9pin - USB kablosu
+
+1 x kısa 9pin usb kablosu
+
+1 X OBD2 kablosu
+
+1 X16pin Klips Kablosuna
+
+PP2000 için 1 X Etkinleştirme DVD'si 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

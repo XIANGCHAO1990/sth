@@ -1,0 +1,280 @@
+https://de.banggood.com/KONNWEI-KW903-WIFI-ELM327-OBD2-Car-Scan-Tool-Diagnostic-Scanner-Engine-Code-Reader-p-1625270.html?cur_warehouse=USA&ID=47972&rmmds=CategoryAutomobilesPop
+KONNWEI KW903 WIFI ELM327 OBD2 Diagnosescanner für das Auto-Scan-Tool Motor Codeleser
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Das KW903 Gerät ist ein kleiner Adapter, der in den OBD-Anschluss des Fahrzeugs eingesteckt wird. Über Wifi wird eine Verbindung zu einem beliebigen Computer, Tablet oder Computer hergestellt
+		Smartphone, mit zugehörigen Diagnoseverfahren. Mit diesen einfachen Operationen sind Sie in der Lage:
+
+
+1. Lesen Sie harte (Speicher) / anstehende (intermittierende) und historische Codes und zeigen Sie Definitionen an.
+
+2. Messen Sie den Kraftstoffverbrauch.
+
+3. Anzeige der Echtzeit-Betriebsleistung des Fahrzeugs, z. B. Impuls,
+
+4. Überwachen Sie die Fahrzeuggeschwindigkeit
+
+5. Öldruck
+
+6. Kühlmitteltemperatur
+
+7. Motor laden
+
+8. Saugrohrdruck
+
+9. Drosselklappenstellung
+
+10. die Werte von Sauerstoffsensoren,
+
+11. Lufteinlass
+
+12. Temperatur und mehr.
+
+13. Schalten Sie die MIL aus (Signal Check Motor).
+
+14. Laden Sie Daten in verschiedenen Formaten zum späteren Drucken auf externe Medien herunter.
+
+15. Zeichnen Sie verschiedene Parameter auf, zeigen Sie Grafiken in Echtzeit an und vieles mehr.
+
+
+Features:
+
+Kleine, kompakte Struktur. Stecker und nie ziehen
+
+Stabile drahtlose Verbindung
+
+Keine Drähte oder Batterien (Adapter wird über Steckdosen mit Diagnosegröße gespeist)
+
+Stoppen Sie die Kommunikation, warten Sie eine halbe Stunde, schlafen Sie automatisch
+
+Unterstützt fast OBDII-Protokolle
+
+Der Adapter verwendet die schnellsten und zuverlässigsten Chips
+
+Das ist Wifi-Version, Unterstützung Android / IOS-System Smartphone, Tablet-Computer und PC 
+
+Die icar2-Version ist 100% V1.5
+
+ 
+
+Protokolle:
+
+
+0.Automatisch
+
+1.SAE J1850 PWM (41,6Kaud)
+
+2.SAE J1850 VPW (10.4Kaud)
+
+3.ISO9141-2 (5 baud init, 10.4Kbaud)
+
+4.ISO14230-4 KWP (5 baud init, 10.4 Kbaud)
+
+5.ISO14230-4 KWP (fast init, 10.4 Kbaud)
+
+6.ISO15765-4 CAN (11bit ID, 500 Kbaud)
+
+7.ISO15765-4 CAN (29bit ID, 500 KBaud)
+
+8.ISO15765-4 CAN (11bit ID, 250 Kbaud)
+
+9.ISO15765-4 CAN (29bit ID, 250 Kbaud)
+
+A.SAE J1939 CAN (29bit ID, 250 * Kbaud)
+
+B.USER1 CAN (11 * Bit ID, 125 * Kbaud)
+
+C.USER2 CAN (11 * Bit ID, 50 * kBaud)
+
+Standardeinstellungen (vom Benutzer einstellbar)
+
+
+
+OBDII-konforme Fahrzeuge
+
+
+Europa Autos: Funktioniert ab 2000 und neueren OBDII / OBD2 / OBD / CAN-BUS Fahrzeugen, die auch die obd-Protokollliste icar2 unterstützen
+
+America Cars: Funktioniert mit allen 1996er und neueren OBDII / OBD2 / OBD / CAN-BUS-Fahrzeugen, einschließlich der icar2-Unterstützung und der Protokollliste
+
+Asia / AU Cars: Funktioniert ab 2005 und neuere OBDII / OBD2 / OBD / CAN-BUS-Fahrzeuge, einschließlich icar2, unterstützen obd-Protokolle
+
+
+
+Einige spezielle Automodelle:
+
+
+Für SSangyong werden Kyron / Actyon ab 2010 auch neuere Autos geeignet sein. 
+
+Für LADA Priora wird das Modell von 2008 bis 2016 geeignet sein, LADA 2111, 2116 wird erst nach 2013 geeignet sein
+
+
+Lieferinhalt:
+
+
+1 X OBD Scanner Tool
+
+1 X CD
+
+1 X-Benutzerhandbuch
+Auf der CD befinden sich nur Handbücher, und die Dateien lauten wie folgt:http://myosuploads3.banggood.com/products/20220531/20220531060018KONNWEIWIFI327CDRX4.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

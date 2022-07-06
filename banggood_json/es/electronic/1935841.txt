@@ -1,0 +1,145 @@
+1935841
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/2E/39/05dd38b2-b725-4ada-a392-1b66aef96ddd.jpg
+LILYGO® T-Motor ESP32 TMC2209 0.49 Inch Placa de desarrollo de placa de expansión OLED IOT
+https://es.banggood.com/LILYGO-T-Motor-ESP32-TMC2209-0_49-Inch-OLED-IOT-Expansion-Board-Development-Board-p-1935841.html?cur_warehouse=CN&ID=6292756&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificación:UCM: ESP32Destello: 4MbInterfaces de bus: UART, SPI, I2C, CAN, I2S, SDIOConectividad inalámbrica: Wi-Fi: 802.11 b/g/n/7 BLE V4.2Botones integrados: RST+BOOT, B1-IO36, B2-IO34, B3--IO35TMC2209 Controlador ultra silencioso motorRegulación de corriente rápida, Baja potencia, con disipador de calorRango de voltaje: 5~12V, motor Pico de corriente hasta 2.8AMT6816 Chip codificador magnéticoRealice una medición de ángulo absoluto de 0-360°Alta velocidad, alta precisión, retraso ceroPaquete incluido: (opcional)Tipo 1:1 placa base de controlador de motor T1 funda impresa en 3D.1 pantalla OLED de 0,49 pulgadas1 cabezal de pin.1 cable de alimentación.1 disipador de calor.2 cables de conexión.4 tornillos M3X40Tipo 2:1 placa base de controlador de motor T1 pantalla OLED de 0,49 pulgadas1 cabezal de pin.1 cable de alimentación.1 disipador de calor.2 cables de conexión.4 tornillos M3X40Tipo #3:1 funda impresa en 3D.4 tornillos M3X40Tipo #4:1 OLED de 0,49 pulgadas1 cabezal de pin.
+
+
+
+

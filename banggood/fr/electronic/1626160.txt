@@ -1,0 +1,301 @@
+https://fr.banggood.com/7W-Mini-DC-DC-Boost-Step-Up-Converter-2_6-5_5V-to-5V-6V-9V-12V-Voltage-Regulator-Module-p-1626160.html?cur_warehouse=HK&ID=519957&rmmds=CategoryElectronicsPop
+7W Mini DC DC Boost convertisseur élévateur 2.6-5.5V à 5V 6V 9V 12V Module régulateur de tension
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:  
+
+
+
+- Fréquence de travail du module convertisseur DC DC Boost 1MHZ. 
+
+- Jusqu'à 93% d'efficacité (habituellement 84%-91%) 
+
+- Courant de repos : 190uA.
+
+- Programme de limite de courant (0,5-2,5 A, par défaut 1,8 A)  
+
+- Taille : 21x11x4mm
+
+- Poids : 1.5g
+
+- Protection :  
+
+Protection contre les surintensités (OCP)
+
+Protection contre les surtensions (OVP)
+
+Protection contre les courts-circuits (SCP)
+
+Protection contre la surchauffe (OTP) 
+
+
+
+
+
+
+Sortie 5V :
+
+ 
+
+
+Tension d'entrée DC 2.6 ~ 4.5V, sortie DC 5V±3%
+
+Sortie maximale : 5V/1300MA (Voir le tableau ci-dessous pour plus de détails)   
+
+ 
+
+
+
+ 
+Sortie 6V :
+
+							Tension d'entrée DC 2.6 ~ 5.5V, sortie DC 6V±3%
+							Sortie maximale : 6V/1200MA (Voir le tableau ci-dessous pour plus de détails)
+
+
+Sortie 9V :
+
+							Tension d'entrée DC 2.6 ~ 5.5V, sortie DC 9V±3%
+							Sortie maximale : 9 V/800 MA (voir le tableau ci-dessous pour plus de détails)
+
+
+
+
+
+
+Sortie 12V :
+
+
+Tension d'entrée DC 2.6 ~ 5.5V, sortie DC 12V±3%
+					Sortie maximale : 12 V/600 MA (voir le tableau ci-dessous pour plus de détails)
+
+
+
+
+ 
+
+
+
+
+Description de la broche :
+
+
+
+Vi : Entrée positive (+)
+
+GND : Entrée et sortie négative (GND/-)
+
+Vo : Sortie positive (+)
+
+
+
+Applications:
+
+
+
+Équipement alimenté par batterie
+
+Instrumentation, multimètre
+
+Planche à pain Stm32 Lcd LED
+
+Moteurs de petite puissance
+
+Caméra PTZ webcam
+
+Caméra IP
+
+Bateau de voiture jouet
+
+Modèle réduit d'avion
+
+banque de puissance
+
+Moteur à DEL  
+
+Énergie solaire
+
+Routeur Wi-Fi 
+
+API RS485 appareils
+
+Équipement d'alimentation de batterie au lithium
+
+ 
+
+Attention :
+
+
+
+Il s'agit d'un module convertisseur de tension DC-DC, à noter lors de l'utilisation :
+
+
+
+1. La tension d'entrée ne peut pas être supérieure à la plage d'entrée maximale
+
+2. La puissance de sortie ne peut pas être supérieure à la charge maximale pendant une longue période
+
+3. La puissance d'entrée doit être supérieure à la puissance de sortie, car la consommation électrique du module lui-même  
+
+
+
+Questions et réponses :
+
+ 
+
+Q : Pourquoi la tension de sortie est inférieure à la tension nominale
+
+A: la puissance d'alimentation d'entrée est trop faible. Testez la tension d'entrée avec un multimètre, à ce moment la tension d'entrée est très faible
+
+
+
+Forfait inclus :
+
+
+
+1 x 7W Mini DC DC Boost convertisseur élévateur 2.6-5.5V à 5V 6V 9V 12V
+
+
+
+
+
+
+
+
+
+

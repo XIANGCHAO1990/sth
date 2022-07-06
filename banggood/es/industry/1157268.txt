@@ -1,0 +1,278 @@
+https://es.banggood.com/FY3224S-(FY3200S-24M)-24MHz-Dual-channel-Arbitrary-Waveform-DDS-Function-Signal-Generator-Sine-Square-Wave-Sweep-Counter-p-1157268.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+Daniu FY3224S Generador de Señal con Función DDS Forma de Onda Arbitraria de Doble Canal Sine Contador de Onda Cuadrada
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:
+
+
+
+
+Daniu FY3224S Generador de Señal con Función DDS Forma de Onda Arbitraria de Doble Canal Sine Contador de Onda Cuadrada 
+
+
+
+
+
+Características: 
+
+
+
+
+	Frecuencia de la señal de salida de alta precisión, buena estabilidad.
+La amplitud de la señal de hasta 20 V.
+La herramienta se puede implementar la función de la configuración del programa, fácil de usar.
+Frecuencia que se acompañan, la función de contador, el alto costo.
+La herramienta puede emitir un seno,, triángulo, rampa, escalera de pulso fórmula voltaje DC cuadrado.
+La precisión de la duración de impulso del impulso se puede ajustar.
+
+
+
+
+Función:
+
+1. El uso de la tecnología de síntesis digital directa DDS para crear señal precisa, estable, baja distorsión de salida.
+2. CH1 y CH2 completamente simétricas dos canales, cada canal se puede ajustar de forma independiente los parámetros.
+3. Soporta formas de onda definidas por el usuario, cada forma de onda de memoria profundidad arbitraria 2048 X de 12 bits frecuencia de muestreo 250MSa / s.
+4. Un chapoteo lote ha seleccionado disparador manual, CH2 gatillo tres modos de disparo internos y de activación externa que permiten el dispositivo a cualquier salida 1 - 1.048.575 paquetes.
+5. Funciones de medición: instrumento viene con funciones de contador de frecuencia de 100 MHz y funciones contador de impulsos.
+6. El generador de señal de 12 bits de ancho, la señal de salida es más delicado, la distorsión de forma de onda se reduce.
+7. Con funciones completas de visualización CNC y amplitud de la corriente de fase de salida sintonizado digitalmente, offset, frecuencia, ciclo de trabajo y las dos señales.
+8. Después de conectar el dispositivo a un ordenador, puede utilizar el ordenador en términos de funciones y parámetros de la señal de PC de control del generador y se pueden editar en el ordenador para descargar de forma arbitraria de la forma de onda de la señal del instrumento.
+
+9. Comunicación: protocolo de comunicación en serie completamente abierta, el desarrollo de secundaria fácil de usar.
+10. Alta precisión de frecuencia: precisión de frecuencia a 10-6.
+11. Alta resolución en frecuencia: toda la gama de resolución de frecuencia de 10 MHz.
+12. Seguimiento: frecuencia, amplitud, offset, ciclo de trabajo, forma de onda, y otros parámetros de las siguientes funciones, fácil de usar, construido.
+13. Función de exploración: la función de la función de barrido de frecuencia lineal y un barrido logarítmico, el inicio de exploración y el punto final se puede establecer.
+14. Función de almacenamiento: puede guardar 20 grupos de parámetros Parámetros de herramienta establecidos por el usuario, puede ser llamado para jugar
+15. Operación: teclas, pantalla LCD LCD1602 en inglés, ajustes digitales directos o perilla de sintonización continua.
+16. Protección de tensión de entrada: AC85V amplia gama de voltaje de entrada hasta AC240V.
+17. Protección, cortocircuito de la salida todas las salidas de señal pueden funcionar a corto circuito durante 60S de sobrecarga.
+
+
+
+
+
+
+
+
+
+
+Especificaciones:
+Incorporado de conmutación de alimentación: AC85V-AC260V
+Interfaz: USB
+
+Señal de salida:
+Amplitud de salida: ≥≥20Vp-p (Sin carga)
+Impedancia de salida: 50Ω ± 10%
+Polarización DC: ± 10V
+Rango de frecuencia de 0 Hz - 24 MHz (Otro 0 Hz - 6 MHz)
+
+Contador:
+Rango de referencia: 0-4294967295
+Rango de medición: 1 Hz - 100 MHz
+Amplitud de entrada: 1 Vp-p - 20Vp-p
+
+Función de barrido:
+Modo de exploración: Exploración lineal, análisis en tiempo de registro
+Rango de frecuencia: Los puntos inicial y final especificadas arbitrariamente
+Rango de barrido de frecuencia: La frecuencia predeterminada M1 - M2
+Velocidad de escaneo: 1 ~ 999 s / paso
+
+Otros:
+Funciones de almacenamiento y la transferencia: M0 - M9 (M0: Por defecto)
+Tamaño: 200mm (L) × 190mm(W) × 90 mm (H)
+Función de zumbador: Para abrir o cerrar por el programa
+Rendimiento: Todas las operaciones claves, botón de ajuste continuo
+Condiciones ambientales: Temperatura 0-40 ℃ humedad <80%
+
+>>>Haga clic aquí para descargar todos los aechivos en CD<<<
+
+
+
+
+Paquete incluido: 
+
+
+
+
+1 X FY3224S 24MHz Generador de señales con función DDS de dual canal
+
+
+1 X Cable de alimentación 1M
+1 X Cable USB 1.25M
+2 X Cables 1.1M Q9
+
+
+
+
+Cuadros de los detalles: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

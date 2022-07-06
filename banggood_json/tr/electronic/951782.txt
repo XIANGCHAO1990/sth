@@ -1,0 +1,174 @@
+951782
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/86/AF/8f2ea68f-3da3-404b-b247-21882d4bb318.jpg
+5 Adet ATmega328P Nano V3 Modülü USB Kablosu Geliştirme Kurulu Ile Geliştirilmiş Versiyonu
+https://tr.banggood.com/5Pcs-ATmega328P-Nano-V3-Module-Improved-Version-With-USB-Cable-Development-Board-p-951782.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Şartname:
+
+USB yongasını değiştirdi, indirme hızını ve WIN7 / WIN8'in kararlılığını arttırın
+Not: CH341SER sürücüsünü yüklemeniz gerekiyor, bağlantı şu: http://wch.cn/download/CH341SER_ZIP.html
+
+Mikrodenetleyici ATmega328
+Çalışma Gerilimi (mantık seviyesi): 5V
+Giriş Voltajı (önerilen): 7V ~ 12V
+Giriş Voltajı (sınırlar): 6V ~ 20 V
+Dijital G / Ç Pimleri: 14 (hangisi 6 PWM çıktı sağlar)
+Analog Giriş Pimleri: 8
+G / Ç Pini başına DC Akımı: 40mA
+Flash Bellek: 32KB (ATmega328) (2 KB bootloader tarafından kullanılır)
+SRAM: 2KB (ATmega328)
+EEPROM: 1KB (ATmega328)
+Saat Hız: 16MHz
+
+Paket içeriği:
+
+5 x Geliştirilmiş Sürüm Nano V3.0
+
+
+
+
+
+
+
+
+
+
+
+
+

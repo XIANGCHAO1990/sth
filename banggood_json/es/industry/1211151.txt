@@ -1,0 +1,190 @@
+1211151
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/69/39/9f6bc43a-4152-4ebf-bdc3-568231e69ff4.jpg
+Original JYETech Ensamblado DSO-SHELL DSO150 Módulo digital Osciloscopio 9V
+https://es.banggood.com/Original-JYETech-Assembled-DSO-SHELL-DSO150-Digital-Oscilloscope-Module-9V-p-1211151.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Osciloscopio DSO Shell (DSO150):
+
+1. DSO Shell tiene un conmutador de banda similar al DSO138, aunque contiene mejoras significativas en la estructura, mecánica y operación.
+2. Pantalla y MCU ahora están montados en la misma placa (placa principal) para evitar el uso de conectores de clavijas entre placas. Los comentarios de DSO138 usres han demostrado que soldar en los encabezados de los pines suele ser problemático para muchos principiantes. El canal analógico se coloca en una placa separada que contiene la mayoría de las piezas instaladas por el usuario. Esto trae una mejor separación entre circuitos analógicos y digitales. Sin la parte analógica, la placa base es en realidad una placa de control de uso general que se puede utilizar en muchas otras aplicaciones. La placa base está completamente instalada (excepto algunos componentes de sujeción) y probada en fábrica antes de empacar.
+3. DSO Shell viene con carcasa completa. El panel frontal y los soportes superior / inferior son flexibles para facilitar la modificación por parte del usuario.
+4. Se ha añadido un codificador rotatorio. Hace que el ajuste de parámetros sea mucho más rápido y sencillo.
+5. La sensibilidad de DSO Shell se ha ampliado en ambas direcciones y es más alta y más ancha que DSO138. Alcanza 5mV / div --- 20V / div mientras que DSO138 es solo 10mV / div --- 5V / div.
+6. DSO Shell funciona con una fuente de alimentación de 9 V (¡no use voltaje de alimentación superior a 10 V!). Los usuarios deben preparar su propia fuente de alimentación, ya que no está incluida en los kits. El conector de alimentación de la placa base acepta un enchufe de CC estándar de 5,5 mm / 2,1 mm. También se proporciona un conector alternativo de 2 clavijas (paso de 0,1 ") para facilitar la conexión a diferentes fuentes de alimentación.
+
+Características de los indicadores:
+
+Número de canal: 1
+Ancho de banda analógico: 0-200 KHz
+Sensibilidad: 5 mV / Div - 20 V / Div
+Error de sensibilidad: <5%
+Resolución: 12 bits
+Impedancia de entrada: 1M ohmios
+Voltaje de entrada máximo: 50 Vpk
+Acoplamiento: DC, AC, GND
+Frecuencia máxima de muestreo en tiempo real: 1 Msps
+Base de tiempo: 10us / Div - 500s / Div
+Longitud de registro: 1024
+Modos de disparo: automático, normal, sencillo
+Tipos de activadores: flanco ascendente / descendente
+Posición del gatillo: 1/2 del tamaño del búfer fijo
+Color de 2,4 pulgadas TFT LCD con resolución de 320 x 240
+Fuente de alimentación: 9 V CC (asegúrese de que la fuente de alimentación sea de 9 V, menor o mayor que 9 V causará problemas).
+Corriente de suministro: 120 mA a 9 V
+Dimensión: 115 mm x 75 mm x 22 mm
+Peso: 100 gramos (sin incluir cables ni fuente de alimentación)
+
+Información de actualización: los accesorios de los componentes y la placa PCB realizaron una serie de cambios (ahora es la última versión de 109-15001-00E)
+Firmwares: Click to open
+Users Manual: Click to open
+Mainboard Schematic: Click to open
+Analog board Schematic: Click to open
+How to Use the DSO150 Library: Click to open
+Source codes: Click to open
+FAQ, Tips, and Troubleshooting: Click to open
+
+El paquete incluye:
+
+1 x Ensamblado DSO150 digital Osciloscopio
+1 x instrucción EN
+
+
+
+
+
+

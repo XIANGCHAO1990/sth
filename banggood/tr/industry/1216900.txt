@@ -1,0 +1,776 @@
+https://tr.banggood.com/ANENG-AN8009-True-RMS-NCV-Digital-Multimeter-9999-Counts-Backlight-AC-DC-Current-Voltage-Tester-p-1216900.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+ANENG AN8009 True RMS NCV Digital Multimetre 9999 Sayımlar Arka Işık AC DC Akım Gerilimi Test Cihazı
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Şartname:
+
+
+
+
+
+Fonksiyon
+
+Aralık
+
+çözüm
+
+Doğruluk
+
+MAKS. Değer
+
+Diğer
+
+
+
+DC gerilimi
+				(V)
+
+999.9mV
+
+0.1mV
+
+± (% 0,5 + 3)
+
+999.9V
+
+ 
+
+
+
+9.999V
+
+0.001V
+
+
+
+99.99V
+
+0.01V
+
+
+
+999.9V
+
+0.1V
+
+
+
+DC gerilimi
+				(mV)
+
+9.999mV   
+
+0.001mV
+
+99.99mV
+
+
+
+99.99mV    
+
+0.01mV   
+
+
+
+Alternatif akım voltajı
+				(V)
+
+999.9mV
+
+0.1mV
+
+± (% 1,0 + 3)
+
+750V
+
+40Hz-1kHz
+
+
+
+9.999V
+
+0.001V
+
+
+
+99.99V
+
+0.01V
+
+
+
+750.0V
+
+0.1V
+
+
+
+Alternatif akım voltajı
+				(mV)
+
+9.999mV   
+
+0.001mV
+
+99.99mV
+
+
+
+99.99mV    
+
+0.01mV   
+
+
+
+DC Akım 
+				(mA ve A)
+
+999.9mA
+
+0.1mA
+
+± (% 1,0 + 3)
+
+9.999A
+
+ 
+
+
+
+9.999A
+
+0.001A
+
+
+
+DC Akım
+				(μA)
+
+99,99 μA
+
+0.01μA
+
+± (% 0.8 + 3)
+
+999.9μA
+
+
+
+999.9μA
+
+0.1μA
+
+
+
+AC akım 
+				(mA ve A)
+
+999.9mA
+
+0.1mA
+
+± (% 1,2 + 3)
+
+9.999A
+
+40Hz-1kHz
+
+
+
+9.999A
+
+0.001A
+
+
+
+AC akım
+				(μA)
+
+99,99 μA
+
+0.01μA
+
+± (% 1,0 + 3)
+
+999.9μA
+
+
+
+999.9μA
+
+0.1μA
+
+
+
+Direnç
+
+99,99Ω
+
+0.01Ω
+
+± (% 1,0 + 3)
+
+99,99 milyon
+
+ 
+
+
+
+999.9Ω
+
+0.1Ω
+
+± (% 0,5 + 3)
+
+
+
+9,999 kΩ
+
+0,001 kΩ
+
+
+
+99,99 kΩ
+
+0.01kΩ
+
+
+
+999.9kΩ
+
+0.1kΩ
+
+
+
+9,999 milyon
+
+0,001 milyon
+
+± (% 1,5 + 3)
+
+
+
+99,99 milyon
+
+0.01MΩ
+
+
+
+
+
+
+
+
+Fonksiyon
+
+Aralık
+
+çözüm
+
+Doğruluk
+
+MAKS. Değer
+
+Diğer
+
+
+
+Kapasite
+
+9.999nF
+
+0.001nF
+
+± (% 5.0 + 20)
+
+9.999mF
+
+ 
+
+
+
+99.99nF
+
+0.01nF
+
+± (% 2,0 + 5)
+
+
+
+999.9nF
+
+0.1nF
+
+
+
+9.999μF
+
+0.001μF
+
+
+
+99.99μF
+
+0.01μF
+
+
+
+999.9μF
+
+0.1μF
+
+
+
+9.999mF
+
+0.001mF
+
+± (% 5.0 + 5)
+
+
+
+Sıklık
+
+99.99Hz
+
+0.01Hz
+
+± (% 0.1 + 2)
+
+9.999MHz
+
+ 
+
+
+
+999.9Hz
+
+0.1Hz
+
+
+
+9.999kHz
+
+0.001kHz
+
+
+
+99.99kHz
+
+0.01kHz
+
+
+
+999.9kHz
+
+0.1kHz
+
+
+
+9.999MHz
+
+0.001MHz
+
+
+
+Görev döngüsü
+
+% 1 ~% 99
+
+% 0.1
+
+± (% 0.1 + 2)
+
+ 
+
+ 
+
+
+
+Diyot
+
+√
+
+
+
+Süreklilik
+
+√
+
+
+
+NCV
+
+√
+
+
+
+Sıcaklık
+
+-20 ~ 1000 ℃
+
+1 ℃
+
+± (% 2,5 +5)
+
+1000 ℃
+
+ 
+
+
+
+-4 ~ 1832 ℉
+
+1 ℉
+
+
+
+1832 ℉
+
+ 
+
+
+
+Genel Özellikler
+
+
+
+LCD Ekran
+
+9999 Counts
+
+
+
+Değişen
+
+Otomatik / Manuel
+
+
+
+Malzeme
+
+ABS
+
+
+
+Güncelleme Oranı
+
+3 Kez / Saniye
+
+
+
+Ture RMS
+
+√
+
+
+
+Arka Işık
+
+√
+
+
+
+Veri tutma
+
+√
+
+
+
+Düşük Batarya Uyarısı
+
+√
+
+
+
+Otomatik Kapanma
+
+√
+
+
+
+Mekanik Özellikler
+
+
+
+Boyut
+
+130 x 65 x 32mm
+
+
+
+Ağırlık
+
+114g
+
+
+
+Batarya Tip
+
+2 x 1.5V AAA Bataryalar (dahil DEĞİLDİR)
+
+
+
+Garanti
+
+Bir yıl
+
+
+
+çevresel özellikler
+
+
+
+İşletme
+
+Sıcaklık
+
+0 ~ 40 ℃
+
+
+
+Nem
+
+<% 75
+
+
+
+Depolama
+
+Sıcaklık
+
+-20 ~ 60 ℃
+
+
+
+Nem
+
+<% 80
+
+
+
+
+
+Paket içeriği:
+
+
+
+1 x ANENG AN8009 True RMS Digital Multimetre (Batarya dahil değildir)
+
+1 x Elektronik Test Probe 
+
+1 x 1set Dijital Multimetre Probe Test Uçları / Timsah Klipsi
+	1 x Sıcaklık Testi Probe
+	1 x İngilizce Kullanım Kılavuzu
+	1 x Taşınabilir Çanta
+
+
+
+Detay Resimleri:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,225 @@
+https://es.banggood.com/ALTERA-Cyclone-IV-EP4CE6-FPGA-Development-Board-Kit-Altera-EP4CE-NIOSII-FPGA-Board-and-USB-Downloader-Infrared-Controller-p-1622523.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+ALTERA Cyclone IV EP4CE6 Kit de placa de desarrollo FPGA Altera EP4CE NIOSII Placa FPGA y controlador infrarrojo de descarga USB
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manual: Haga clic aquí para abrir>>> Manual 1 <<<>>> Manual 2 <<<>>> Manual 3 <<<>>> Manual 4 <<<>>> Manual 5 <<<Características:
+
+
+
+1. el chip principal de la nueva FPGA Cyclone IV serie EP4CE6E22C8N de la empresa ALTERA
+
+2. Chip de configuración en serie EPCS16N integrado de alta capacidad, compatible con dos modos de descarga JTAG/AS
+
+3. SDRAM integrado de 64 Mbit, soporte SOPC, desarrollo NIOSII
+
+4. Cristal activo integrado de 50 MHz, la estabilidad del sistema de reloj maestro
+
+5. Usando un chip regulador de voltaje de 1117-3,3 V, para proporcionar una salida de voltaje de 3,3 V
+
+6. Usando un chip regulador de voltaje 1117-1.2V para proporcionar voltaje central FPGA
+
+7. Usando un chip regulador de voltaje 1117-2.5V, para proporcionar salida de voltaje PLL
+
+8. Usando una gran cantidad de condensadores de desacoplamiento, diseño de desacoplamiento
+
+9. Toma de fuente de alimentación de CC 5V y toma de fuente de alimentación de interfaz USB, dos tipos de modo de fuente de alimentación
+
+10. 1 botón de reinicio, también se puede utilizar como botón de entrada de usuario
+
+11. 1 interruptor de encendido con botón de bloqueo automático
+
+12. 1 luz indicadora de encendido LED
+
+13. De todas las interfaces IO, el espaciado universal de 2,54 mm se puede extender fácilmente
+
+14. La interfaz de descarga JTAG para descargar el archivo es .SOF, la velocidad es rápida, se recomienda el uso habitual de esta interfaz
+
+15. La interfaz de descarga AS para descargar el archivo es .POF, la velocidad es lenta, necesita usar esta interfaz cuando el proceso de curado
+
+
+
+Interfaz periférica:
+
+
+
+1. 4 teclas independientes
+
+2. 4 LED diodos,
+
+3. 4 tubos digitales
+
+4. 4 interruptor de marcación
+
+5. 1 zumbador
+
+6. PS2 interfaz
+
+7. Puerto serie RS232
+
+8. 1 enchufe de 20 pines LCD, compatible con LCD1602, LCD12864, TFT LCD
+
+9. Chip sensor de temperatura LM754A, para experimento con termómetro
+
+10. Resistencia ajustable de precisión, luz de fondo ajustable LCD
+
+11. Interfaz VGA, para experimentos de visualización.
+
+12. I2C serial EEPROMAT24C08, para experimento de bus IIC
+
+13. Módulo receptor de infrarrojos
+
+
+
+El paquete incluye:
+
+
+
+1 placa base.
+
+1 x descargador USB
+
+1 controlador Control remoto
+
+1 cable USB.
+
+
+
+
+
+
+

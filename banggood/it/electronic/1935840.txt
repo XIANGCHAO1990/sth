@@ -1,0 +1,143 @@
+https://it.banggood.com/13S-14S-15S-16S-17S-20S-200A-Smart-BMS-Li-ion-Lifepo4-Lithium-Battery-Protection-Board-bluetooth-App-Control-24V-36V-48V-60V-72V-p-1935840.html?cur_warehouse=CN&ID=6317354&rmmds=CategoryElectronicsPop
+13S 14S 15S 16S 17S 20S 200A Smart BMS Li-Ion Lifepo4 Litio Batteria Scheda di Protezione Bluetooth App di Controllo 24V 36V 48V 60V 72V
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: nessun supporto manuale, scarica l'app da qui: Clicca qui per aprirePotresti voler comprare Modulo Bluetooth: clicca qui per acquistareDescrizione:Le funzioni principali sono: protezione da sovraccarico, protezione da scarica, protezione da sovracorrente, protezione da cortocircuito, protezione termica, protezione bilanciata ecc.Il PCB utilizza un rivestimento anticorrosivo, antipolvere e antiumidità, protegge le prestazioni stabili, previene il cortocircuito, l'ossidazione e la corrosione. Il consumo dell'intero dispositivo è inferiore a 50 mA.Nota:Questa versione è compatibile con pacco batterie da 7S a 20 corde.BMS compatibile con pacco batteria: 7S 8S 10S 12S 13S 14S 15S 16S 17S 18S 19S 20SNota: l'aspetto di questo prodotto è stato aggiornato, le dimensioni della vecchia versione sono 165 * 115 * 76 mm e le dimensioni della nuova versione sono 200 * 115 * 52 mm. Le altre funzioni rimangono invariate. Aggiorneremo le immagini il prima possibile. grazie per la comprensione.agli ioni di litioLifepo4Carica interrottaRilevamento di tensione: 4,25 VRilascio di tensione: 4,15 VRitardo di rilevamento: 1000 mSCarica interrottaRilevamento di tensione: 3,65 VRilascio di tensione: 3,55 VRitardo di rilevamento: 1000 mSScarico interrottoRilevamento della tensione: 2,7 V ± 0,1 VRilascio di tensione: 2,9 V ± 0,1 VRitardo di rilevamento: 1000 mSScarico interrottoRilevamento di tensione: 2,5 VRilascio di tensione: 2,7 VRitardo di rilevamento: 1000 mSTensione totaleS volte 4,2 VTensione totaleS volte 3,6 VCorrente di scarica200ATaglio di sovracorrente200Ax1,5-3 volteRitardo: 3000 msMetodo di rilascio: scollegare il caricoCortocircuito interrottoCortocircuito del carico esternoRitardo di rilevamento: 250uSMetodo di rilascio: scollegare il carico  Taglio di temperaturaCarica e scarica: >75℃Temperatura di recupero: <65℃Intervallo di regolazione: -20℃ a 85℃Pressione differenziale di apertura bilanciata0.01V-0.05VConsumo di energia in esercizioMeno di 1,5 WAlimentazione elettrica30 ~ 90 VMetodo di avvio del sistemaSegnale di commutazione passivo esternoSpegnimento consumo energetico< 50uAEquilibrato160mADifferenza di stima SOC±5%Resistenza interna del circuito principaleDipende dal relèTemperatura di esercizio-20〜70℃Voltaggio totale della batteriaIntervallo di raccolta: 30 V~90 VRileva la differenza: ±100 mV FSTensione a cella singolaIntervallo di raccolta: 0 ~ 5 vRileva la differenza: ±10 mV FSVoltaggio totale della batteriaIntervallo di raccolta: 30 V~90 VRileva la differenza: ±100 mV FSCorrente di carica e scaricaGamma di raccolta: >600ARileva la differenza: ±2%TemperaturaIntervallo di raccolta: -20 ~ 125 ℃Rileva la differenza: ± 1 ℃Metodo di comunicazione1 Bluetooth trasmissioneSpecifica:Stile: Smart BMS 200A (utilizzare per ioni di litio Batteria da 3,6 V/3,7 V e LiFePO4 da 3,2 VTensione di carica agli ioni di litio: numero di stringa della batteria * 4,2 V, come 13S * 4,2 V = 54,6 VTensione di carica Lifepo4: numero di stringa della batteria * 3,6 V, come 16S * 3,6 V = 57,6 VCorrente continua: 200ACorrente di scarica: 200 ACorrente massima di carica: 200ACorrente di picco massima: 600 ACorrente bilanciata obbligatoria: Massimo 260mADifferenza di pressione bilanciata: 10 mVResistenza interna: <1mΩConsumo di energia: <50 mAVersione comune: Stessa porta per carica e scaricaCon funzione bilanciata: SìProtezione da alta e bassa temperatura: SìBluetooth integrato: sìParametri regolabili: SìApplicare equilibrato: SìCon identificazione automatica 7S-20S: SìSpegnimento automatico regolabile: SìCon cavo: SìApplicazione: per iPhone, Android per Xiao Xiang APPLingua dell'APP: ingleseIntervallo di temperatura di lavoro: -20 ℃ ~ 70 ℃agli ioni di litio 7S-20S❖Carica interrottaRilevamento della tensione: 4,25 V ± 0,05 VRilascio di tensione: 4,15 V ± 0,05 VRitardo di rilevamento: 2000 mS❖Scarico interrottoRilevamento della tensione: 2,8 V ± 0,1 VRilascio di tensione: 3,0 V ± 0,1 VRitardo di rilevamento: 2000 mS❖Bilancio cellulareAccendere la tensione: ≥3,6 VSpegnere la tensione: ＜3,6 VCorrente di equilibrio: 100-260 mAPressione differenziale di apertura: 10 mV❖Tensione di caricaNumero di stringa x 4,2 V Lifepo4 7S-20S❖Carica interrottaRilevamento della tensione: 3,65 V ± 0,05 VRilascio di tensione: 3,55 V ± 0,05 VRitardo di rilevamento: 2000 mS❖Scarico interrottoRilevamento della tensione: 2,5 V ± 0,1 VRilascio di tensione: 3,0 V ± 0,1 VRitardo di rilevamento: 2000 mS❖Bilancio cellulareAccendere la tensione: ≥3,35 VSpegnere la tensione: ＜3,35 VCorrente di equilibrio: 100-260 mAPressione differenziale di apertura: 10 mV❖Tensione di carica: Numero di stringa x 3,6 V❖ Corrente di scarica: 200A❖Interruzione per sovracorrenteRitardo di rilevamento: 300A continua 10SMetodo di rilascio: Ritardo 32S❖Interruzione del cortocircuitoScollegare il carico/ritardo 60SRitardo di rilevamento: 5000 uSMetodo di rilascio: scollegare il carico❖AutoconsumoConsumo energetico di lavoro: ＜50 mAMetodo di rilascio: scollegare il caricoConsumo energetico durante il sonno: ＜50 mA❖Interruzione per alta e bassa temperaturaProtezione di carica: 65 ℃ ± 5 ℃Metodo di rilascio: 55 ℃ ± 5 ℃Protezione dallo scarico: 75 ℃ ± 5 ℃Metodo di rilascio: 65 ℃ ± 5 ℃Carica/scarica a temperatura: -10 ℃Metodo di rilascio: 0℃Lo scopo del lavoro: da -20 ℃ a 70 ℃Il pacchetto include:1 x scheda di protezione al litio Batteria
+
+
+
+

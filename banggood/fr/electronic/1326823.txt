@@ -1,0 +1,287 @@
+https://fr.banggood.com/433Mhz-DC12V-1CH-Wireless-Remote-Control-Switch-Relay-Receiver-Module-+-2-RF-Transmitter-p-1326823.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Module récepteur de relais de commutateur de télécommande sans fil 433Mhz DC12V 1CH + 2 émetteurs RF
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+REMARQUE: 
+
+
+
+Le système peut stocker 15 pièces de télécommandes, si la télécommande obtient plus de 15 pièces, la télécommande initiale sera perdue.
+
+
+Caractéristique:
+
+
+Type de câblage : borne fixe
+
+Courant de veille : <5 MA
+
+Puissance d'entrée: DC10V-14V
+
+Fréquence RF : 433 Mhz
+
+Sensibilité de réception : > 97dbm
+
+Borne de sortie : NO, NC, COM
+
+Mode de fonctionnement RF : Superhétérodyne
+
+Mode de décodage : décodage logiciel MCU
+
+Distance de transmission : > 100 m (espace ouvert)
+
+Prise en charge du type de télécommande : code d'apprentissage, code fixe (le code roulant peut être conçu)
+
+Mode de fonctionnement : momentané, bascule, temporisation de verrouillage (5 s, 10 s, 15 s)
+
+
+
+À propos du mode de travail :
+
+
+
+- Momentané : Appuyez sur le bouton de la télécommande, le relais se connecte, relâchez le bouton de la télécommande, le relais se déconnecte.
+
+- Bascule : Appuyez une fois sur le bouton de la télécommande, le relais se connecte, appuyez deux fois sur le bouton de la télécommande, le relais se déconnecte.
+
+- Verrouillage : Appuyez sur le bouton de la télécommande A, le relais se connecte, appuyez sur le bouton de la télécommande B, le relais se déconnecte.
+
+- Mode temporisation : Appuyez sur le bouton de la télécommande, le relais se connecte, à partir du relâchement du bouton de la télécommande, après 5s ou 10s ou 15s, le relais se déconnecte automatiquement.
+
+
+
+Effacer le code :
+
+
+
+Appuyez 8 fois sur le bouton d'apprentissage des récepteurs, les codes seront nettoyés.
+
+Après avoir effacé le code, toutes les télécommandes ne peuvent plus fonctionner.
+
+
+
+1. Apprendre le code : (momentané)
+
+Appuyez une fois sur la touche d'apprentissage du récepteur, il entre en mode de réglage momentané.
+
+Attendez un instant, le LED sera éteint, il entre en état d'apprentissage.
+
+Appuyez sur le bouton de la télécommande, l'indicateur LED sur la carte du récepteur clignotera puis s'éteindra.
+
+Après 3 secondes, l'indicateur LED sera à nouveau allumé, apprenant avec succès.
+
+
+
+2. Apprendre le code : ( Basculer )
+
+Appuyez deux fois sur la touche d'apprentissage du récepteur, il entre en mode de réglage à bascule
+
+Attendez un instant, le LED sera éteint, il entre en état d'apprentissage.
+
+Appuyez sur le bouton de la télécommande, l'indicateur LED sur la carte du récepteur clignotera puis s'éteindra.
+
+Après 3 secondes, l'indicateur LED sera à nouveau allumé, apprenant avec succès.
+
+
+
+3. Apprentissage du code : (Verrouillage)
+
+Remarque: lorsque vous choisissez le mode de verrouillage, afin d'apprendre plus de télécommande, vous devez apprendre deux boutons différents, la première fois apprise est pour "ON", la deuxième fois apprise pour "OFF".
+
+Par exemple : bouton A = ON , bouton B = OFF
+
+Appuyez trois fois sur la touche d'apprentissage du récepteur, il entre en mode de verrouillage.
+
+Attendez quelques instants, l'indicateur LED sur la carte du récepteur clignotera puis s'éteindra.
+
+Appuyez sur le bouton de la télécommande A.
+
+La LED clignote 5 fois.
+
+Appuyez sur le bouton de la télécommande B.
+
+La LED clignote 5 fois.
+
+Après 3 secondes, l'indicateur LED sera à nouveau allumé, apprenant avec succès.
+
+A = ON , B = OFF.
+
+
+
+Emballage inclus:
+
+
+
+2 x émetteurs de télécommande (y compris la batterie)
+
+1 x module récepteur à distance (y compris la coque)
+
+
+
+Remarques:
+
+
+
+1. Mesure manuelle, veuillez permettre une erreur de 1 à 3 mm, merci.
+
+2. En raison de la différence entre les différents moniteurs, l'image peut ne pas refléter la couleur réelle de l'article. Nous garantissons que le style est le même que celui montré dans l'image.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

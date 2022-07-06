@@ -1,0 +1,172 @@
+https://fr.banggood.com/Wholesale-L298N-Dual-H-Bridge-Stepper-Motor-Driver-Board-p-42826.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® L298N Double H Pont DC Stepper Moteur Drive Panneau Contrôleur Module Arduino
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+
+Double pont H de disque
+Puce: L298N (ST NOUVEAU)
+Tension logique: 5V
+Tension d'entraînement: 5V-35V
+Courant logique: 0mA-36mA
+Courant d'entraînement: 2A (pont unique MAX)
+Température de stockage: -20 à +135
+Courant maximale: 25W
+Poids: 30 g
+Taille: 43 x 43 x 27mm
+
+Remarque:
+
+Ce module dispose d'une alimentation intégrée 5v, lorsque la tension d'attaque est de 7v-35v, cette alimentation est adaptée à l'alimentation électrique, NE PAS entrer la tension sur l'interface d'alimentation + 5v, mais la séparation de 5V pour une utilisation externe est disponible.
+Lorsque ENA active la commande IN1 IN2 OUT1 OUT2
+Lorsque ENB active le contrôle IN3 IN4 OUT3 OUT4
+
+
+
+Remarque: L'emballage n'est pas inclus dans les vis.
+
+Emballage inclut:
+
+
+
+1 x 236 L298N Double H Pont DC Stepper Moteur Drive Panneau Contrôleur Module Arduino
+
+
+
+
+

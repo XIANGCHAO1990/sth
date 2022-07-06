@@ -1,0 +1,330 @@
+1593815
+https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/89/A6/c88f1e74-60f4-4ea8-9caa-409818ca36cf.png
+YIHAOGD YH LCD 2/3 assi Reticolo Fresatura CNC Lettura Digitale Display DRO/KA300 5μm TTL 70-970mm Lineare Elettronico Scala Encoder Strumento Tornio
+https://it.banggood.com/YIHAOGD-YH-LCD-2-or-3-Axis-Grating-CNC-Milling-Digital-Readout-Display-DRO-or-KA300-5m-TTL-70-970mm-Electronic-Linear-Scale-Encoders-Lathe-Tool-p-1593815.html?cur_warehouse=CN&ID=6281034&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+YIHAOGD YH LCD 2/3 assi Reticolo Fresatura CNC Lettura Digitale Display DRO/KA300 TTL 70-970mm Elettronico Lineare Scala Encoder Strumento Tornio
+	La lettura digitale YIHAOGD YH LCD può adattarsi a tutti i tipi di scale lineari YIHAOGD, sia KA300 che YE.
+	Grande schermo LCD, display migliore del tubo digitale, comodo e pratico.
+
+
+Specifica:
+
+	Grande LCD Lettura digitale Dro Display Parametro di sistema:
+
+
+		Modello: 2 assi/3 assi
+		Intervallo di tensione: CA 100V~240V/50HZ~60HZ
+
+		Lettura digitale Display Segnale accettabile: TTL
+
+		Spina: DB9
+
+		Risoluzione accettabile: 10μm, 5μm, 2μm, 1μm, 0,5μm.
+
+Misurare:La lunghezza opzionale misura la lunghezza effettivaLunghezza totale = misura della lunghezza effettiva+106mm
+
+
+
+			Dro Lettura digitale Display Funzioni di sistema:
+
+
+				1: Zero compensazione
+
+				2: Ripristina
+
+				3: modalità mm/pollici
+
+				4: Conversione coordinate ABS/INC
+
+				5:200 imposta il dato secondario
+
+				6: Spegnimento della memoria;
+
+				7: Centro di 1/2
+
+				8: Compensazione dell'errore del rivestimento
+
+				9: Modalità sonno
+
+				10:Cancella 200 set datum Sdm;
+
+				11:Modalità ABS/INC
+
+				12: Calcolatrice
+
+				13: Foratura della circonferenza
+
+				14:Foratura di linea obliqua
+
+				15: Lavorazione di piano inclinato
+
+				16: Lavorazione di arco di cerchio
+
+				17: funzione tornio (fiammifero)
+
+				18: Elaborazione graduale del lume rettangolare
+
+				19:Filtraggio digitale
+
+				20: Filtraggio vibrazioni
+
+				21: Funzione tornio
+
+				KA300 5U TTL Scala lineare/Encoder lineare/Sensore lineare/Parametri righello lineare
+
+
+
+		1. Lunghezza della corsa (misurazione): 0-970 mm
+
+		2. Lunghezza totale (totale): lunghezza della corsa + 106 mm (0-1076 mm)
+
+		3. Spina: DB9
+
+		4. Risoluzione: 0,005 mm (5μ)
+
+		5. Tensione di ingresso: 5V
+
+		6. Passo della griglia: 0,02 mm (50LP/min)
+		7. Lunghezza del cavo: 3 metri
+		8. Classe di protezione: IP54
+		9. Segnale: TTL
+
+		Il segnale del righello ottico lineare da 5μ/vetro lineare Bilancia/encoder lineare/sensore lineare
+		Pin 2 Nero 0V
+		Pin 6 Verde A
+		Pin 7 Rosso 5V
+		Pin 8 Bianco B
+		Pin 9 arancione Z
+Caratteristiche:
+Perché acquistare i sistemi di lettura digitale YH LCD?
+	Grande LCD Display
+
+		1.I sistemi aumentano la produttività, fanno risparmiare tempo e forniscono una maggiore precisione traducendo i valori misurati da encoder lineari, misuratori di lunghezza, encoder rotativi o encoder angolari in un formato di facile lettura.
+
+		2. Possono essere installati su nuove apparecchiature o adattati a macchine già in funzione.
+
+		3.I sistemi funzionano con qualsiasi macchina in cui le guide degli assi vengono spostate manualmente.
+
+		4.L'interfaccia dati consente ulteriori elaborazioni o stampe dei valori misurati (maggior parte dei modelli).
+
+
+
+		Perché acquistare encoder lineari KA300 5u (design antipolvere, impermeabile IP54, cuscinetto di alta qualità, affidabile e durevole)
+
+		1. Elimina gli errori di posizione della macchina utensile causati dall'espansione termica, dalla deformazione della meccanica dell'azionamento, dai problemi di intonazione e altro ancora.
+
+		2. Alta stabilità di velocità a lungo termine.
+
+		3. Costruzione robusta e alta resistenza alle vibrazioni.
+
+		4. Periodi di segnale più fini offrono la massima precisione di interpolazione.
+
+		5.Compatto, leggero e facile da installare.
+
+		6. Durevole e affidabile: funziona correttamente anche dopo molti anni di funzionamento.
+		7. Disponibili disegni lineari sigillati o chiusi.
+
+
+
+
+
+
+Pacchetto incluso: (opzionale)
+
+
+				Lettura digitale a 3 assi LCD Il pacchetto include:
+
+				1 lettura digitale a 3 assi
+				1 pz x cavo di alimentazione (ti invieremo un adattatore aggiuntivo a seconda del tuo paese)
+				1 set x staffa e accessori
+				1 pz x manuale
+
+
+
+				Lettura digitale LCD a 2 assi Il pacchetto include:
+
+				1 lettura digitale a 2 assi
+				1 pz x cavo di alimentazione(Ti invieremo un adattatore aggiuntivo in base al tuo paese)
+				1 set x staffa e accessori
+				1 pz x manuale
+
+
+
+				Lineare Scala Il pacchetto include: (lunghezza opzionale)
+
+				1 pz x Sacle lineare
+				Piatto da 1 pezzo x L
+				1 pz x staffa
+				1 Pz x Borsa di vite
+
+Nota:Si prega di notare che la lettura digitale e la scala lineare sono opzionali. Il pacchetto includeva un solo tipo.Puoi cliccare qui per consultare il manuale.
+
+
+Più dettagli:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

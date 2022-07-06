@@ -1,0 +1,287 @@
+https://tr.banggood.com/433Mhz-DC12V-1CH-Wireless-Remote-Control-Switch-Relay-Receiver-Module-+-2-RF-Transmitter-p-1326823.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+433Mhz DC12V 1CH Kablosuz Uzakdan Kumanda Anahtar Röle Alıcı Modül + 2 RF Verici
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOT: 
+
+
+
+Sistem 15 adet uzaktan kumanda saklayabilir, uzaktan kumanda 15 adetten fazla olursa, ilk uzaktan kumanda kaybolur.
+
+
+Özellik:
+
+
+Kablolama tipi: sabit terminal
+
+Bekleme akımı: <5MA
+
+Giriş gücü: DC10V-14V
+
+RF frekansı: 433Mhz
+
+Alım hassasiyeti: >97dbm
+
+Çıkış terminali: NO, NC, COM
+
+RF çalışma modu: Süperheterodin
+
+Kod çözme modu: MCU yazılım kod çözme
+
+İletim mesafesi: >100m (açık alan)
+
+Uzaktan kumanda türünü destekleyin: Öğrenme kodu, Sabit kod (Haddeleme kodu tasarım olabilir)
+
+Çalışma modu: Anlık, Geçiş, Kilitleme Süresi gecikmesi (5s, 10s, 15s)
+
+
+
+Çalışma modu hakkında:
+
+
+
+- Anlık: Uzaktan kumanda düğmesine basın, röle bağlanır, uzaktan kumanda düğmesini bırakın, röle bağlantısı kesilir.
+
+- Geçiş: Uzaktan kumanda düğmesine bir kez basın, röle bağlanır, uzaktan kumanda düğmesine iki kez basın, röle bağlantısı kesilir.
+
+- Kilitleme: Uzaktan kumanda A düğmesine basın, röle bağlanır, uzaktan kumanda düğmesine B basın, röle bağlantısı kesilir.
+
+- Zaman gecikme modu: Uzaktan kumanda düğmesine basın, röle bağlanır, uzaktan kumanda düğmesi bırakıldığında, 5sn veya 10s veya 15sn sonra röle otomatik olarak kesilir.
+
+
+
+Kodu temizleme:
+
+
+
+Alıcıların üzerindeki öğrenme düğmesine 8 defa basın, kodlar temizlenecektir.
+
+Kodu temizledikten sonra, tüm uzaktan kumanda artık çalışamaz.
+
+
+
+1. Kodu öğrenme: (Anlık)
+
+Alıcı üzerindeki öğrenme tuşuna bir kez basın, anlık ayar moduna gelir.
+
+Bir dakika bekleyin, LED kapanacak, öğrenme durumuna geliyor.
+
+Uzaktan kumanda düğmesine basın, alıcı kartındaki LED göstergesi yanıp sönecek ve sonra sönecektir.
+
+3 saniye sonra LED göstergesi tekrar yanarak başarılı bir şekilde öğrenecektir.
+
+
+
+2. Kodu öğrenme: ( Değiştir )
+
+Alıcıdaki öğrenme tuşuna iki kez basın, geçiş ayar moduna gelir
+
+Bir dakika bekleyin, LED kapanacak, öğrenme durumuna geliyor.
+
+Uzaktan kumanda düğmesine basın, alıcı kartındaki LED göstergesi yanıp sönecek ve sonra sönecektir.
+
+3 saniye sonra, LED göstergesi tekrar yanacak ve başarılı bir şekilde öğrenecektir.
+
+
+
+3. Kodu öğrenme: ( Mandallama )
+
+Not: Kilitleme modunu seçtiğinizde, daha fazla uzaktan kumanda öğrenmek için, iki farklı düğmeyi öğrenmeniz gerekir, ilk öğrenilen "AÇIK", ikinci kez "KAPALI" için öğrenilir.
+
+Örneğin: A düğmesi = AÇIK , B düğmesi = KAPALI
+
+Alıcının üzerindeki öğrenme tuşuna üç kez basın, kilitleme moduna girer.
+
+Bir dakika bekleyin, alıcı kartındaki LED göstergesi yanıp sönecek ve sonra sönecektir.
+
+Uzaktan kumanda A düğmesine basın.
+
+5 kez LED flaş.
+
+Uzaktan kumanda düğmesine B basın.
+
+5 kez LED flaş.
+
+3 saniye sonra, LED göstergesi tekrar yanacak ve başarılı bir şekilde öğrenecektir.
+
+A = AÇIK , B = KAPALI.
+
+
+
+Paket içeriği:
+
+
+
+2 x Uzakdan Kumanda Vericiler (pil dahil)
+
+1 x Uzakdan Kumanda Alıcı Modül (Kabuk dahil)
+
+
+
+Notlar:
+
+
+
+1. Manuel ölçüm, lütfen 1 ~ 3mm hataya izin verin, teşekkür ederim.
+
+2. Farklı monitörler arasındaki fark nedeniyle, resim öğenin gerçek rengini yansıtmayabilir. Stilin resimde gösterilenle aynı olduğunu garanti ediyoruz.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

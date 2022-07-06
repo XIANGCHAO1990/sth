@@ -1,0 +1,155 @@
+https://de.banggood.com/TWO-TREES-7628-Stepper-Motor-4Pcs-Set-with-DM542-Driver-MACH3-Control-Board-360W24V-Power-Supply-CNC-DIY-Kit-for-3D-Printer-p-1863973.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+TWO TREES® 7628 Schrittmotor 4Pcs Set mit DM542 Treiber MACH3 Control Board 360W24V Netzteil CNC DIY Satz für 3D Drucker
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DM542- Der Treiber integriert Überspannungs- und Überstromschutz.- Optische Isolierung des Eingangssignals.- Dipolare Konstantstrom-Chopping-Methode.- Gleichstromversorgung 20-50VDC (24-48VDC Arbeit wird empfohlen).- Maximaler Antriebsstrom 4,2 A.- Der Ausgangsstrom-Wahlschalter ist einstellbar.- Niedrige Geschwindigkeit ohne Vibrationen und geringe Geräuschentwicklung.- Hohe Unterteilung: 2,4,8,16,32,64,128,5,10,20,25,40,50,100,125.- Starke Entstörungsfähigkeit, hochpräzise Positionierung kann in der rauen Umgebung des Stromnetzes erreicht werden.- Hohe Zuverlässigkeit: Leistungsgeräte haben genügend Spielraum und wurden vor dem Verlassen des Werks streng getestet.Mach3
+1. Unterstützung für 4-Achsen-Gestänge, Sie können vier Schrittmotorantriebe oder Servoantriebe anschließen;
+2. Die maximale Schrittfrequenz beträgt 100 kHz, die für den Servo- oder Schrittmotor geeignet ist;
+3. Unterstützen Sie das automatische Sondenwerkzeug
+4. Unterstützung für Notfalleingaben
+5. Unterstützung für Endschalter
+6. Unterstützung für den Anschluss des elektronischen Handrads
+7. Benötigen Sie ein externes 24-V-DC-Netzteil, um den USB- und den externen Port zu isolieren und das System stabiler zu machen
+8. Haben Sie einen 0-10V-Ausgangsanschluss, können Sie die mach3-Software verwenden, um die Spindelmotordrehzahl zu steuern.
+9. 4 Allzweckeingänge, Sie können den Endschalter, Estop-Schalter, Sondenschalter, zurück auf Null und andere Geräte anschließen
+10. 4 universelle isolierte Relaisantriebsausgangsschnittstelle, kann vier Relais zur Steuerung der Spindelstarts, der Vorwärts- und Rückwärtsdrehung, der Pumpen und anderer Geräte ansteuern
+
+11. 1 Status-LED, zeigt den Verbindungsstatus auf der Platine anLieferinhalt:4 * 7628 Schrittmotor 4 * DM542 Motortreiber1 * MACH3-Controller-Platine1 * 360W24V Netzteil
+
+
+
+

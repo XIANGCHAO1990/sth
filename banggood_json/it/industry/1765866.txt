@@ -1,0 +1,145 @@
+1765866
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/78/CB/a7c45f26-9f61-43b0-9c03-ca077847e423.jpg
+Hantek DSO2C10 Digital oscilloscopio Archiviazione digitale 2CH Frequenza di campionamento 1GS / s Larghezza di banda 100MHz Doppio canale Economico oscilloscopio
+https://it.banggood.com/Hantek-DSO2C10-Digital-Oscilloscope-2CH-Digital-Storage-1GS-or-s-Sampling-Rate-100MHz-Bandwidth-Dual-Channel-Economical-Oscilloscope-p-1765866.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristiche:1), 2 canali, ogni canale ha controllo indipendente della manopola;2), larghezza di banda analogica 100 MHZ3) La velocità di campionamento più alta è 1 GSa / s;4), la profondità di archiviazione è 8Mpts;5), la gamma verticale di 2mV / div ~ 10V / div;6) Risoluzione verticale: 8 bit;7) Trigger: fronte, impulso, video, pendenza, timeout, finestra, modellolo, intervallo, runt, UART, LIN, CAN, SPI, IIC;8) Decodifica bus e analisi protocollo: RS232 / UART, I2C, SPI, CAN, LIN;9), può salvare impostazioni, forme d'onda, forme d'onda di riferimento, CSV, immagini e altri formati di dati.10), funzioni voltmetro digitale a 3 cifre e frequenzimetro a 6 cifre;11) Supporta 32 tipi di misurazione automatica e funzioni statistiche, statistiche in tempo reale di minimo, massimo, deviazione standard e altre informazioni statistiche;12), due gruppi di funzioni del voltmetro digitale;13) Supporta il test di soglia per realizzare misurazioni libere sullo schermo;14), istruzioni di controllo remoto Rich SCPI;15). Fornire più tipi di interfacce periferiche: host / dispositivo USB.Modellolo di prodotto(NOTA: fare clic sul modellolo per accedere al collegamento di acquisto del modellolo corrispondente)：Modello CanaliLarghezza di bandaFrequenza di campionamentoProfondità di archiviazioneSorgente del segnale (AWG)>> DSO2C10 <<2CH100MHz1GSa/S8M/>> DSO2C15 <<2CH150MHz1GSa/S8M/>> DSO2D10 <<2CH + 1CH100MHz1GSa/S8M1CH>> DSO2D15 <<2CH + 1CH150MHz1GSa/S8M1CH>>Fare clic qui per scaricare il manuale utente in inglese<<>> Fare clic per scaricare il software DSO2000 <<Specifica:modelloDSO2D15DSO2D10DSO2C15DSO2C10larghezza di banda150MHz100MHz150MHz100MHzNumero di canali dell'oscilloscopio2CH2CH2CH2CHSorgente di segnale incorporata1CH1CH - -Indice dell'oscilloscopioIntervallo di frequenza di campionamento1GSa / s (canale singolo), 500MSa / s (doppio canale)Metodo di raccoltacampionamentoDati di esempioDa picco a piccoVisualizza glitch ad alta frequenza e casualivalore medioForma d'onda media, tempi: 4, 8, 16, 32, 64, 128Alta precisioneFino a 12 bitaccedereAccoppiamento di ingressoCC, CA o terra (CC, CA, GND)resistenza di ingresso1MΩ ± 2% ‖20pF ± 3pFImpostazione del coefficiente di attenuazione della sonda1X, 10X, 100X, 1000XLivello di tensione300 V CAT IITensione di ingresso massima300VRMS (10X)Sistema orizzontaleInterpolazione della forma d'onda(peccato x)/xLunghezza massima della registrazioneMassimo 8 M per canaleMassimo 4 M per due canaliIntervallo scala orizzontale2ns / div ~ 100s / div 1, 2, 5 passiModalità base dei tempiYT, XY, Roll Zero offset± 0,5 div × minimo rapporto di base dei tempiFrequenza di campionamento e precisione del tempo di ritardo±50 ppmDeriva dell'orologio≤ ± 5 ppm / annoPrecisionee della misurazione del tempo incrementaleModalità singola, "campionata"(banda completa)± (1 intervallo di campionamento + 100 ppm × lettura + 0,6 ns)＞ 16 volte sopra la media± (1 intervallo di campionamento + 100 ppm × lettura + 0,4 ns)Intervallo di campionamento = secondi / div ÷ 200Sistema verticalemodelloDSO2D15DSO2D10DSO2C15DSO2C10larghezza di banda150MHz100MHz150MHz100MHzTempo di salita su BNC (tipico)2.3ns3.5ns2.3ns3.5nsRisoluzione verticaleRisoluzione a 8 bit, campionamento simultaneo per ogni canaleSensibilità verticaleDa 2 mV/div a 10 V/divGamma di offsetDa 2 mV / div a 20 mV / div, ± 100 mV; Da 50 mV / div a 200 mV / div, ± 1 V;Da 500 mV / div a 2 V / cella, ± 10 V; 5V / div a 10 V / divisione, ± 50VcalcoloAggiungi, sottrai, moltiplica, dividi, FFTFFTFinestra: rettangolare, Hanning, Hamming, Brackman, Bartlett, finestra superiore piattaLimite di banda20MHzRisposta in bassa frequenza (-3db)10Hz a BNCPrecisionee del guadagno verticaleNella modalità di acquisizione "campione" o "media", la precisione da 10 V / div a 10 mV / div è ± 3%;In modalità di acquisizione "Campionamento" o "Media", la precisione da 5 mV / div a 2 mV / div è ± 4%Precisionee offset CC± 0,1 div ± 2 mV ± 1% del valore di offsetRipetibilità della misura della tensione, modalità di acquisizione mediaCon le stesse impostazioni e condizioni ambientali, l'incremento di tensione tra due serie qualsiasi di valori medi di oltre 16 forme d'onda: ± (3% × lettura + 0,05 divisione)Nota: la larghezza di banda è ridotta a 6 MHz quando si utilizza la sonda X1Sistema di attivazioneTipo di triggerEdge, impulso, video, pendenza, timeout, finestra, pattern, intervallo, runt, UART, LIN, CAN, SPI, IICIntervallo del livello di trigger ± 5 divisioni dal centro dello schermoModalità triggerAutomatico, normale, singoloLivelloCH1 ~ CH2± 4 divisioni dal centro del SchermoEST0~3.3VGamma di sollievo8ns ~ 10sPrecisionee del livello di triggerCH1 ~ CH20,2 divisioni × volt / div entro ± 4 divisioni dal Schermo centraleEST± (6% + 40mV del valore di impostazione)Edge TriggerPendenzaFronte di salita, fronte di discesa, fronte di salita o fronte di discesaFonteCH1, CH2, ESTTrigger della larghezza dell'impulsopolaritàPolarità positiva, polarità negativaCondizione (quando)<,>,! =, =FonteCH1 ~ CH2,Intervallo di ampiezza dell'impulso8ns ~ 10sPrecisione8nsAttivazione videoStandard di segnaleNTSC, PALFonteCH1 ~ CH2SincronizzareRiga di scansione, numero di riga, campo dispari, campo pari, tutto il campoAttivatore di pendenzaPendenzaAlzati e cadiCondizione (quando)<,>,! =, =FonteCH1 ~ CH2limite di tempo8ns ~ 10sPrecisione8nsTrigger di timeoutFonteCH1 ~ CH2,polaritàPolarità positiva, polarità negativalimite di tempo8ns ~ 10sPrecisione8nsTrigger della finestraFonteCH1 ~ CH2 Trigger di patternModellolo0: livello basso; 1: alto livello; X: ignora; : in aumento; :caduta; : salire o scendereLivello (sorgente)CH1 ~ CH2Trigger dell'intervalloPendenzaAlzati e cadiCondizione (quando)<,>,! =, =FonteCH1 ~ CH2,limite di tempo8ns ~ 10sPrecisione8nsTrigger di RuntpolaritàPolarità positiva, polarità negativaCondizione (quando)<,>,! =, =FonteCH1 ~ CH2limite di tempo8ns ~ 10sPrecisione8nsTrigger UARTCondizione (quando)Avvio, arresto, dati, parità, errore di ricezioneSorgente (RX / TX)CH1 ~ CH2 Formato dei datiHex (esadecimale)Lunghezza dati1 byteLarghezza bit dati5 bit, 6 bit, 7 bit, 8 bitControllo di paritàNessuno, dispari, pariLivello di inattivitàAlto, bassoBaud rate (opzionale)110/300/600/1200/2400/4800/9600/14400/19200/38400/57600/115200/230400/380400/460400 bit / sBaud rate (personalizzato)300 bit / s ~ 334000 bit / sTrigger LINCondizione (quando)Campo intervallo, campo sincronizzazione, campo ID, errore di sincronizzazione, identificatore, ID e datiFonteCH1 ~ CH2,Formato dei datiHex (esadecimale)Baud rate (opzionale)110/300/600/1200/2400/4800/9600/14400/19200/38400/57600/115200/230400/380400/460400 bit / sBaud rate (personalizzato)300 bit / s ~ 334000 bit / sPuò triggerCondizione (quando)Bit di avvio, ID frame remoto, ID frame dati, ID frame, dati frame remoto, dati frame dati, frame errore, tutti gli errori, errore di risposta, frame sovraccaricoFonteCH1 ~ CH2Formato dei datiHex (esadecimale)Baud rate (opzionale)10000, 20000, 33300, 500000, 62500, 83300, 100000, 125000, 250000, 500000, 800000, 1000000Baud rate (personalizzato)5 kbit / s ~ 1 Mbit / s  Trigger SPIFonteCH1 ~ CH2,Formato dei datiHex (esadecimale)Larghezza bit dati4, 8, 16, 24, 32Trigger IICFonte (SDA / SCL)CH1 ~ CH2,Formato dei datiHex (esadecimale)         Indice dei dati0 ~ 7Tempistica (condizione)Bit di avvio, bit di stop, nessuna risposta, indirizzo, dati, riavviomisurandocursoreDifferenza di tensione tra i cursorei △ VDifferenza di tempo tra i cursorei △ TIl reciproco di △ T, in Hertz (1 / △ T)Misurazione automaticaFrequenza, periodo, valore medio, valore picco-picco, quadratico medio, valore minimo, valore massimo, tempo di salita, tempo di discesa, larghezza dell'impulso positivo, larghezza dell'impulso negativo, valore inferiore, valore superiore, valore medio, ampiezza, overshoot , Preshoot, differenza di fase del fronte di salita, differenza di fase del fronte di discesa, duty cycle positivo, duty cycle negativo, media del ciclo, radice quadrata media del ciclo, overshoot del fronte di discesa, preshoot del fronte di salita, BWIDTH, FRF, FFR, LRR, LRF, LFR, LFFDVMfonte di datiCH1, CH2Tipo di misurazioneValore effettivo CCValore effettivo ACCorrente continuafrequenzimetroContatore di frequenza hardware a 6 cifreIndicatore della sorgente del segnaleNumero di canali1 canaleFrequenza di campionamento200MSa/sRisoluzione verticale12 bits Frequenza massima25 MHz Forma d'onda standardSinusoidale, onda quadra, impulso, onda triangolare, onda di campionamento, onda esponenziale, rumoreForma d'onda arbitrariaArb1, Arb2, Arb3, Arb4senoIntervallo di frequenze0,1 Hz ~ 25 MHzOnda quadra / impulsoIntervallo di frequenze0,1 Hz ~ 10 MHzOnda triangolareIntervallo di frequenze0,1 Hz ~ 1 MHzOnda campioneIntervallo di frequenze0,1 Hz ~ 1 MHzOnda esponenzialeIntervallo di frequenze0,1 Hz ~ 5 MHzrumore Onda arbitraria 1Intervallo di frequenzeDa 0,1 Hz a 10 MHz Onda arbitraria 2Intervallo di frequenzeDa 0,1 Hz a 10 MHz Onda arbitraria 3Intervallo di frequenzeDa 0,1 Hz a 10 MHz Onda arbitraria 4Intervallo di frequenzeDa 0,1 Hz a 10 MHz Lunghezza d'onda8KSafrequenzaPrecisione100 ppm (meno di 10 kHz) 50 ppm (maggiore di 10 kHz)Risoluzione0,1 Hz o 4 bit, a seconda del valore maggioreAmpiezzaGamma di uscita10mV ~ 7Vp-p (alta impedenza)5 mV ~ 3,5 Vp-p (50)offset CCgamma± 3,5 V, alta resistenza± 1,75 V, 50 ΩRisoluzione100 μV o 3 bit, a seconda del valore maggiorePrecisione2% (1 kHz)Impedenza di uscita50Specifiche tecniche generaliSchermoTipo di visualizzazioneDisplay da 7 "TFT LCD in diagonaleRisoluzione dello schermo800 (orizzontale) * 480 (verticale) pixelColore del Schermo16 milioni di colori (24 bit true color)Tempo di afterglowValore minimo, 1 s, 5 s, 10 s, 30 s, illimitatoTipo di visualizzazionePunto, vettoreLuminosità del SchermoRegolabileTipo di grigliaOpzionaleLuminosità della grigliaRegolabileinterfacciaInterfaccia standardHost USB, dispositivo USBSpecifiche tecniche generaliUscita compensatore sondaTensione di uscita, tipicaCirca ingresso 2Vpp carico ≥1MΩFrequenza, tipica1kHzvoltaggio100-120VAC RMS (± 10%), da 45 Hz a 440 Hz, CATⅡ120-240VAC RMS (± 10%), da 45 Hz a 66 Hz, CATⅡConsumo di energiaMeno di 30 W.FusibileT, 3,15 A, 250 V, 5x20 mmTemperatura di esercizio0~50 °C (32~122 °F)temperatura di conservazione-40~+71 °C (-40~159,8 °F)umidità≤ + 104 ℉ (≤ + 40 ° C): ≤90% di umidità relativa106 ℉ ~ 122 ℉ (+ 41 ° C ~ 50 ° C): ≤60% di umidità relativaAltitudineDurante il funzionamento e non in funzione3.000 m (10.000 piedi)Shock meccanicoVibrazione casuale0.31g RMS da 50Hz to 500Hz ,10 minuti per asseQuando non è in funzione2.46g RMS da 5Hz to 500Hz ,10 minuti per asseDurante l'operazione50 g, 11 ms, mezza onda sinusoidaleParte meccanicaDimensioni dell'oscilloscopio318 x 140 x 150 mm (lunghezza x larghezza x altezza)peso2900g La confezione include:1 X Hantek DSO2C10 Digitale oscilloscopioDettagli immagini: 
+
+
+
+

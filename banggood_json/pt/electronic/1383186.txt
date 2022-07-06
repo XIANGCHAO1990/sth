@@ -1,0 +1,220 @@
+1383186
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/02/6C/11cf490a-4f96-4ec1-8ccc-01927e76f046.jpg
+XH-W1209 DC 12V Termostato Interruptor de Controle de Temperatura Termômetro Controlador Com Displa Digital LED
+https://pt.banggood.com/XH-W1209-DC-12V-Thermostat-Temperature-Control-Switch-Thermometer-Controller-With-Digital-LED-Displa-p-1383186.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recursos:
+
+
+
+1.100% de chip de máquina completo, solda por onda, desempenho estável, boa consistência
+
+2. Chip do processador central integrado (MCU), mais inteligente, menor consumo de energia
+
+3. Configurações de desligamento automático da memória (unidade MCU EEPROM Armazenamento integrada)
+
+4. A precisão de controle de 0,1 graus Celsius
+
+5. Histerese 0,1 do conjunto, você pode controlar o decimal (0,1-15,0)
+
+
+
+Parâmetros técnicos:
+
+
+
+Faixa de controle de temperatura: -50 ~ 110 °
+
+Resolução: -9,9 ~ 99,9 quando a outra temperatura de 0,1 ° 1 °
+
+Precisão da medição de temperatura: 0,1 °
+
+Precisão de controle: 0,1 °
+
+Precisão da histerese: 0,1 °
+
+Taxa de atualização: 0,5 S
+
+Potência de entrada: DC 5V, DC 12V, DC 24V
+
+Entrada de medição: NTC (10K 0,5%) Sensor à prova d'água
+
+Saída: 1 saída de relé, capacidade = 20A 125VAC, 20A 14VDC
+
+Requisitos ambientais: -10 ~ 60 ° Umidade 20% -85%
+
+Tamanho das especificações: 48,5 * 40 mm
+
+Consumo total de energia: Corrente quiescente: ≤ 10MA Corrente de atração: ≤ 65MA
+
+
+
+Uso:
+
+
+
+- Pressione o botão + para definir a temperatura desejada (pressione e segure + - para mover para cima e para baixo rapidamente) Defina a temperatura do visor. 
+
+- Pressione SET para confirmar a conclusão do retorno, então o controlador automaticamente desligando o relé! A saída do termostato para o relé 20A para atender uma variedade de carga de alta potência, conecte o circuito de controle, você pode fornecer energia para o termostato, este display mostra a temperatura ambiente
+
+- Indicador: piscando indica o atraso no início do resfriamento ou aquecimento. Se o indicador estiver aceso, indica que o relé está fechado
+
+- Controle digital: o sensor LL do display está aberto, siga as instruções para conectar o sensor; display HH está fora da faixa de medição forçará o relé a desconectar o termostato; exibir alarme de alta temperatura.
+
+
+
+Incluído no Pacote:
+
+
+
+1 x controlador de temperatura XH-W1209
+
+
+
+
+
+
+
+
+
+
+
+
+
+

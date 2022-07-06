@@ -1,0 +1,145 @@
+1722247
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/98/49/7f537331-f7fd-4c80-b2de-7f4ec12410a9.jpg
+Fan'ensheng Actualizado 3 Axis GRBL Controlador USB Controlador sin conexión Módulo de control LCD Pantalla Tarjeta SD para CNC 1610 2418 3018 Enrutador de madera Láser Máquina de grabado
+https://es.banggood.com/Fanensheng-Upgraded-3-Axis-GRBL-USB-Driver-Offline-Controller-Control-Module-LCD-Screen-SD-Card-for-CNC-1610-2418-3018-Wood-Router-Laser-Engraving-Machine-p-1722247.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:Este controlador fuera de línea está diseñado para el uso del enrutador Mini CNC 1610/2418/3018 e incluso con una función más avanzada del conjunto de herramientas, soporte de interruptor de límite, soporte Láser; Desconectado y Bluetooth de apoyo. Especificación:Firmware: GRBL 08, 09, 1.1 y así sucesivamente Voltaje de entrada: CC 7V- 36VEnrutador CNC aplicable: enrutador CNC de 3 ejes 1610; 2418; 3018 Características:1. Admite firmware GRBL y benbox. Compatible con máquina CNC de 3 ejes grabado del láser.2. La longitud del trazo no se limita a 30x18 y 24x18, puede estar configurando otra longitud. Configure el trazo en el comando.Por ejemplo3018, configure el trazo en el comando, 30 cm de largo y 18 cm de ancho;2418, configure el trazo XY en el comando, longitud 24 cm, ancho 18 cm.Función:1: Control manual: ajuste manualmente la posición de los tres ejes XYZ como punto de partida de tallado, y abra o cierre manualmente el eje.2: Grabado de archivos: la placa fuera de línea se puede conectar a la placa de control grbl para grabar después de guardar el archivo, y no es necesario conectarse a la computadora.3: Archivos de almacenamiento: la versión fuera de línea se identifica como un dispositivo USB masivo almacenamiento después de conectarse a la computadora, que puede acceder directamente a los archivos de grabado.Instrucciones:Controlador fuera de línea GRBLPresione Z+ y Z-, el eje Z se moverá hacia arriba y hacia abajo.Presione X+ y X-, el eje X se moverá hacia la izquierda y hacia la derecha.Presione Y+ e Y-, el eje Y se moverá hacia adelante y hacia atrás.Presione GIRAR: Husillo encendido (Láser encendido), Husillo apagado (láser apagado)Pulse SMOD: volverPresione Z+ durante 5 segundos, cambie el idioma a inglés.Tarjeta SD: incluida, necesita un lector de tarjetas SD para escribir en los archivos de código G del directorio raíz.Darse cuenta:La interfaz Láser es de 3 pines en esta placa de control. Solo admite motor paso a paso 42. El paquete incluye:1 controlador GRBL de pantalla LCD1 x cable para conexión de husillo1 tarjeta SD. Más detalles:
+
+
+
+

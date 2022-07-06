@@ -1,0 +1,145 @@
+1722247
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/98/49/7f537331-f7fd-4c80-b2de-7f4ec12410a9.jpg
+Fan'ensheng Amélioré 3 Axes GRBL Pilote USB Hors Ligne Contrôleur Module LCD Écran Carte SD pour CNC 1610 2418 3018 Routeur à Bois Machine de Gravure Laser
+https://fr.banggood.com/Fanensheng-Upgraded-3-Axis-GRBL-USB-Driver-Offline-Controller-Control-Module-LCD-Screen-SD-Card-for-CNC-1610-2418-3018-Wood-Router-Laser-Engraving-Machine-p-1722247.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:Ce contrôleur hors ligne est conçu pour l'utilisation du mini routeur CNC 1610/2418/3018 et même avec une fonction plus avancée de jeu d'outils, prise en charge des interrupteurs de fin de course, prise en charge du laser ; Prise en charge hors ligne et Bluetooth. Spécification:Micrologiciel : GRBL 08, 09, 1.1 et ainsi de suite Tension d'entrée : 7 V - 36 V CCRouteur CNC applicable : routeur CNC 3 axes 1610 ; 2418 ; 3018 Caractéristiques:1. Prise en charge du micrologiciel GRBL et benbox. Prise en charge de la machine de gravure laser 3 axes CNC.2. La longueur de course n'est pas limitée à 30x18 et 24x18, elle peut définir une autre longueur. Veuillez définir le trait dans la commande.Par example3018, veuillez définir le trait dans la commande, 30 cm de longueur et 18 cm de largeur ;2418, veuillez définir le trait XY dans la commande, longueur 24 cm, largeur 18 cm.Une fonction:1: Contrôle manuel: ajustez manuellement la position des trois axes XYZ comme point de départ de la sculpture et ouvrez ou fermez manuellement la broche.2: gravure de fichier: la carte hors ligne peut être connectée à la carte de contrôle grbl pour la gravure après l'enregistrement du fichier, et il n'est pas nécessaire de se connecter à l'ordinateur.3: Fichiers de stockage: la version hors ligne est identifiée comme périphérique de stockage de masse USB après la connexion à l'ordinateur, qui peut accéder directement aux fichiers de gravure.Des instructions:Contrôleur hors ligne GRBLAppuyez sur Z+ et Z-, l'axe Z se déplacera de haut en bas.Appuyez sur X+ et X-, l'axe X se déplacera de gauche à droite.Appuyez sur Y + et Y-, l'axe Y se déplacera vers l'avant et vers l'arrière.Appuyez sur SPIN : Broche allumée (Laser allumé), Broche éteinte (laser éteint)Appuyez sur SMOD : retourAppuyez sur Z + pendant 5 secondes, changez la langue en anglais.Carte SD : incluse, vous avez besoin d'un lecteur de carte SD pour écrire dans les fichiers G-code du répertoire racine.Avis:L'interface laser est à 3 broches sur cette carte de contrôle. Prend uniquement en charge 42 moteurs pas à pas. Emballage inclus:1 contrôleur GRBL d'écran LCD1 x câble pour la connexion de la broche1 x carte SD Plus de détails:
+
+
+
+

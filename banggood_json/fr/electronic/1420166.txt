@@ -1,0 +1,197 @@
+1420166
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/39/5E/b750a083-57f7-44ee-98e5-78da17bc4c3e.jpg
+Geekcreit® Wireless NodeMcu Lua CH340G V3 Basé ESP8266 WIFI Module de développement IOT Internet des objets
+https://fr.banggood.com/Geekcreit-Wireless-NodeMcu-Lua-CH340G-V3-Based-ESP8266-WIFI-Internet-of-Things-IOT-Development-Module-p-1420166.html?cur_warehouse=CN&ID=522225&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:
+
+
+
+Taille : env. 5.7x3x1cm/2.24x1.18x0.39"
+
+
+
+
+Avantage:
+
+
+
+1. Source ouverte
+
+2. Interactif
+
+3. Programmable
+
+4. Faible coût
+
+5. Simplicité
+
+6. Intelligent
+
+Wi-Fi activé
+
+E/S matériel de type compatible
+
+API avancée pour les E/S matérielles, qui peut réduire considérablement le travail redondant de configuration et de manipulation du matériel.
+
+Code compatible, mais interactivement dans le script Lua.
+
+API réseau de style Nodejs
+
+API événementielle pour les applications réseau, qui facilite l'écriture de code par les développeurs s'exécutant sur un MCU de 5 mm * 5 mm dans le style Nodejs.
+
+Accélérez considérablement votre processus de développement d'applications IOT.
+
+WI-FI le moins cher
+
+C'est une petite carte, basée sur ESP8266, intègre GPIO, PWM, IIC, 1-Wire et ADC tout en une seule carte
+
+
+
+
+
+Emballage inclus:
+(optionnel)
+
+1/2/3/5/10/20/30/40/50 x NodeMcu Lua CH340G ESP8266 Module Internet WIFI
+
+
+
+
+

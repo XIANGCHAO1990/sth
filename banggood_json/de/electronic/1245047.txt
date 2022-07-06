@@ -1,0 +1,281 @@
+1245047
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/8B/CF/35442189-ce30-459f-827e-3eb98074c67f.JPG
+DC-DC-CC-CV-Abwärtswandlerplatine Abwärtsstromversorgungsmodul 7-32V bis 0,8-28V 12A
+https://de.banggood.com/DC-DC-CC-CV-Buck-Converter-Board-Step-Down-Power-Supply-Module-7-32V-to-0_8-28V-12A-p-1245047.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Eigenschaften:
+
+
+
+- Der feste Strom der Blinkleuchte beträgt das 0,1-fache des Stromwerts (Wird verwendet, um festzustellen, ob der Akku beim Laden vollständig aufgeladen ist).
+
+- Hergestellt aus einem speziellen Benchmark-IC und einem hochpräzisen Stromerfassungswiderstand, der einen stabileren konstanten Strom nachweist (bei einem konstanten Strom von 20 ° C bis 100 ° C 1A beträgt die Temperaturdrift weniger als 1%). Besonders geeignet für LED.
+
+- Hoher Ausgangsstrom, der maximale Ausgangsstrom kann 8A erreichen.
+
+- Vier Hochfrequenzkapazitäten können die Ausgangswelligkeit verringern und die Arbeitsstabilisierung verbessern.
+
+- Doppelte Kühlkörperkonstruktion. MOS Schottky-Dioden-unabhängiger Kühlkörper, dessen Wärmeableitung gut ist und sich nicht gegenseitig beeinflusst.
+
+- Durch die Verwendung eines großen Sendust-Kerns und doppelter Kabel aus reinem Kupfer können Sie die Arbeitseffizienz verbessern und Fieber reduzieren.
+
+- 3296 Multiturn-Potentiometer, hochgenaue Spannungs- und Stromregelung, gute Stabilität.
+
+- Zweifarbige Lampe, Arbeitszustand auf einen Blick klar
+
+- Spannung und Strom sind einstellbar, was eine gute Wirkung hat.
+
+
+
+Parameter:
+
+
+
+- Moduleigenschaften: Nicht isoliertes Step-Down-Lademodul für Konstantstrom- und Konstantspannungsmodule (CC CV)
+
+- Eingangsspannung: DC 7-32V
+
+- Ausgangsspannung: (1) DC 1,2-28 V stufenlos einstellbar. (2) Feste Ausgabe: Wählen Sie zwischen 0,8 V und 28 V.
+
+- Ausgangsstrom: 8A (wenn die Temperatur der Stromröhre 65 Grad überschreitet, bitte Lüfter hinzufügen)
+
+- Konstantstrombereich: 0,2-8A (einstellbar)
+
+- Lampenstrom drehen: Konstantstromwert * (0,1), Lampenstrom und Konstantwertverbindung drehen, z. B. Konstantstromwert ist 3A, Lampenstrom wird auf einen konstanten Strom eingestellt, der das 0,1-fache beträgt (0,1 * 3A = 0,3A) )
+
+- Niedrigster Druck: 1V
+
+- Ausgangsleistung: Die maximale Leistung beträgt ca. 200W
+
+- Umwandlungseffizienz: Bis zu 95%
+
+- Betriebsfrequenz: 300 kHz
+
+- Ausgangswelligkeit: 20 MB Bandbreite
+
+- Eingang 24V Ausgang 12V 5A Welligkeit um 50mV (ohne Rauschen)
+
+- Kurzschlussschutz am Ausgang: Ja, konstanter Strom
+
+- Verpolungsschutz am Eingang: Keine
+
+- Ausgabe verhindert Rückfluss: Keine
+
+- Verkabelung: Klemme
+
+- Leerlaufstrom: Typisch 20 mA (24 V Schalter 12 V)
+
+- Lastregelung: ± 1% (konstant)
+
+- Spannungsregelung: ± 1%
+
+- Dynamische Reaktionsgeschwindigkeit: 5% 200uS
+
+- Einstellrichtung des Potentiometers: im Uhrzeigersinn (erhöhen), gegen den Uhrzeigersinn (verringern), das zur Eingangsspannung geschlossene Potentiometer (CV) dient zur Regelung der Spannung, das zur Ausgangsspannung geschlossene Potentiometer (CC) zur Regelung des Stroms (CC)
+
+- Betriebstemperatur: Industriequalität (-40 ° C bis +85 ° C) (bitte beachten Sie die tatsächliche Verwendung der Röhrentemperatur, Hochtemperatur wärmeverstärkt)
+
+- Anzeige: zweifarbige Anzeige, Ladeanzeige leuchtet rot, grüne Anzeige bedeutet voll aufgeladen (keine Last ist grün)
+
+- Größe: Ca. 65 x 47 x 23,5 mm / 2,56 x 1,85 x 0,93 ''
+
+- Präzision von Konstantstrom und Temperatur: Bei der eigentlichen Prüfung der Modultemperatur von 25 bis 60 Grad beträgt die Konstantstromwertänderung weniger als 5% (5A Konstantstromwert)
+
+- Kurzschlussschutz am Ausgang: Ja, Konstantstrom (der Konstantstromwert für die Stromeinstellung)
+
+- Eingangs-Reverse-Connect-Schutz: NEIN
+
+- Ausgang verhindert Reverse Fow: NO
+
+- Verdrahtungsmethode: Amphenol-Stecker
+
+
+
+Anwendungen:
+
+
+
+Hochleistungstreiber LED
+
+Ladung der Lithiumbatterie (oder des Bleiakkumulators)
+
+Fahrzeugmontierte Stromversorgung
+
+Niederspannungsnetzteil
+
+6V, 12V, 14V, 24V Batterieladung
+
+Bordnetzteil für Laptops
+
+Geregelte Stromversorgung
+
+Niederspannungsnetzteil
+
+
+
+Paket beinhaltet:
+
+
+
+1 x einstellbares DC-DC-Netzteilmodul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,145 @@
+1839030
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/D0/BB/2130e979-cc7f-4cfd-bc79-d166122afd56.jpg
+Interfaccia Super USB MACH3 Scheda 100 Khz Scheda 4 Assi Driver Motion Controller Stampante 3D Scheda CNC
+https://it.banggood.com/Super-USB-interface-MACH3-100Khz-Board-4-Axis-Interface-Driver-Motion-Controller-3D-Printer-CNC-Board-p-1839030.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizioni: 1. Supporto per il collegamento a 4 assi, è possibile collegare quattro azionamenti per motori passo-passo o servoazionamenti;2. La frequenza massima dell'impulso di passo è 100 KHz, adatta per il servomotore o il motore passo-passo;3. Supporto strumento sonda automatica4. Supportare l'input di emergenza5. Supporto per finecorsa6. Supporto per il collegamento del volantino elettronico7. È necessario utilizzare un alimentatore esterno da 24 V CC per isolare USB e la porta esterna e per rendere il sistema più stabile8. Avere una porta di uscita 0-10 V, è possibile utilizzare il software mach3 per controllare la velocità del motore del mandrino.9. 4 ingressi per uso generico, è possibile collegare l'interruttore di fine corsa, l'interruttore estop, l'interruttore della sonda, lo zero e altri dispositivi10. 4 interfaccia di uscita dell'azionamento del relè isolato per uso generale, in grado di pilotare quattro relè per il controllo degli avviamenti del mandrino, rotazione in avanti e rotazione inversa, pompe e altri dispositivi11. 1 LED di stato, indica lo stato della connessione sulla scheda Il pacchetto include: 1 x tavola1 x cavo USB1 x CDImmagine dei dettagli:
+
+
+
+

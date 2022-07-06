@@ -1,0 +1,211 @@
+https://fr.banggood.com/Geekcreit-D1-Mini-V2_3_0-WIFI-Internet-Of-Things-Development-Board-Based-ESP8266-ESP-12S-4MB-FLASH-p-1214756.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Wemos® D1 Mini V2.3.0 Conseil de développement de l'Internet des objets WIFI basé ESP8266 ESP-12S 4MB FLASH
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+
+Quoi de neuf à propos de V2.3.0
+Déplacez le bouton USB et le bouton en haut.
+
+Caractéristiques:
+
+11 Broches d'entrée / sortie numériques, toutes les broches ont une interruption / pwm / I2C / un fil pris en charge (sauf D0)
+1 Entrée analogique (entrée maximale de 3,2 V)
+Une connexion Micro USB
+Compatible avec Arduino
+Compatible avec Nodemcu
+Beaucoup de boucliers
+
+
+
+
+Emballage inclut:
+
+
+
+
+1 x Wemos D1 mini V2.3.0
+
+
+2 x Broche femelle longue
+
+
+2 x Broche femelle courte
+
+
+2 x Goupille normale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

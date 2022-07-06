@@ -1,0 +1,497 @@
+https://es.banggood.com/PowMr-MPPT-60A-Solar-Charge-and-Discharge-Controller-12V-24V-36V-48V-Auto-for-Max-PV-190VDC-Lead-Acid-Lithium-Battery-p-1576492.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+PowMr MPPT 60A Solar controlador de carga y descarga 12V 24V 36V 48V automático para Max PV 190VDC plomo ácido litio Batería
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>> Manual: Haga clic aquí para abrir <<<Especificaciones:
+
+
+
+
+
+Nombre del modelo
+      MPPT-30A
+MPPT-40A 
+MPPT-50A 
+
+				MPPT-60A
+
+
+
+Modo de carga
+
+MPPT Máxima potencia poin tracking automáticamente
+
+
+
+Cargando
+
+3 etapas: corriente constante (MPPT), voltaje constante (voltaje de absorción), carga flotante
+
+
+
+Tipo de sistema
+
+Reconocimiento DC12V / 24V / 36V / 48V automáticamente
+
+
+
+Reconocimiento automático de voltaje del sistema
+
+Sistema de 12V (DC9V-DC15V)
+
+
+
+Sistema de 24 V (DC18V-DC29V)
+
+
+
+Sistema de 36 V (DC30V-DC39V)
+
+
+
+Sistema de 48 V (DC40V ~ DC60V)
+
+
+
+Hora de inicio suave
+
+≤1S
+
+
+
+Tiempo de recuperación y respuesta dinámica
+
+≥98,1% (Voc es 1,5 o 2 veces mayor que la batería, entonces es la mejor eficiencia)
+
+
+
+Utilización fotovoltaica
+
+≥99%
+
+
+
+Especificación de entrada
+
+
+
+
+Voc de PV (asegúrese de que el Voc de PV cumpla los requisitos correctamente. Voc es 1,5 o 2 veces mayor que la batería, entonces es la mejor eficiencia).
+
+
+Sistema de 12V (DC20V ~ DC80V)
+
+
+
+Sistema de 24 V (DC37V ~ DC105V)
+
+
+
+Sistema de 36 V (DC50V ~ DC160V)
+
+
+
+Sistema de 48V (DC72V ~ DC160V)
+
+
+
+El voltaje máximo de entrada fotovoltaica (Voc)
+
+DC190V (El controlador no puede funcionar a este voltaje de larga duración que romperá el controlador. Consulte Voltaje de entrada de PV).
+
+
+
+
+La potencia máxima de entrada de PV (la potencia total nominal de PV no puede superar este vatio que romperá el controlador).
+
+
+Sistema de 12V (360W)
+
+Sistema de 12V (480W)
+
+Sistema de 12V (600W)
+
+Sistema de 12V (720W)
+
+
+
+Sistema de 24 V (720 W)
+
+
+Sistema de 24 V (960 W)
+
+
+Sistema de 24 V (1200 W)
+
+Sistema de 24 V (1440 W)
+
+
+
+Sistema de 36 V (1080 W)
+
+Sistema de 36V (1400W)
+
+Sistema de 36V (1800W)
+
+Sistema de 36 V (2100 W)
+
+
+
+Sistema de 48V (1440W)
+
+Sistema de 48V (1700W)
+
+Sistema de 48V (2200W)
+
+Sistema de 48V (2800W)
+
+
+
+Especificación de salida
+
+
+
+Tipo de batería seleccionable (la predeterminada es sellada)
+
+Ventilado / sellado / Gel / NiCd / batería de litio (voltaje definido para otra batería por el usuario)
+
+
+
+Voltaje de carga de absorción
+
+Consulte la referencia de carga Baterías
+
+
+
+Voltaje de carga flotante
+
+Consulte la referencia de carga Baterías
+
+
+
+Voltaje de protección de sobrecarga
+
+Sistema de 12V (15V)
+
+
+
+Sistema de 24 V (30 V)
+
+
+
+Sistema de 36V (45V)
+
+
+
+Sistema de 48V (60V)
+
+
+
+
+Corriente nominal de salida
+
+
+
+
+
+
+
+
+60A
+
+
+
+Coeficiente de temperatura
+
+± 0.02% / centi-grado
+
+
+
+Compensación automática de temperatura
+
+14,2 V- (temperatura máxima-25 grados centígrados) * 0,3
+
+
+
+Rizado-pico de voltaje de salida
+
+100mV
+
+
+
+Precisión de voltaje de salida
+
+≤ ± 1%
+
+
+
+Entrada de protección anti-intrusión
+
+sí
+
+
+
+Protección de temperatura
+
+75 ° C
+
+
+
+Aumento de la temperatura de protección
+
+
+La potencia de salida se reducirá cuando sea más de 70 ° C
+
+La potencia de salida será normal cuando sea inferior a 55 ° C
+
+
+
+
+Temperatura de abanico
+
+> 40 ° C
+
+
+
+Temperatura de abanico
+
+<35 ° C
+
+
+
+Ruido acústico
+
+≤40dB
+
+
+
+Manera de enfriamiento
+
+Refrigeración por aire forzado
+
+
+
+Componentes
+
+Materiales importados, de acuerdo con los estándares de la UE, rango de grado industrial.
+
+
+
+Requisitos medioambientales
+
+Cumplir con 2002/95 / EC; Sin cadmio, hidruros y fluoruros.
+
+
+
+Nivel de seguridad
+
+De acuerdo con CE, PSE, FCC, EMC, EN60950
+
+
+
+Compatibilidad electromagnética
+
+De acuerdo con EN61000, EN55022, EN55024
+
+
+
+Recinto
+
+IP21
+
+
+
+Peso neto / kg)
+
+1.1
+
+
+
+Peso bruto (kg)
+
+1.2
+
+
+
+
+
+
+Características:
+
+
+
+	- Tecnología inteligente de seguimiento de máxima potencia Poin
+
+	- Controlador DSP integrado de alto rendimiento
+
+	- Detección automática de voltaje de batería 12V / 24V / 36V / 48V
+
+	- La carga en tres etapas optimiza el rendimiento de la batería
+
+	- Pantallas multifunción LCD
+
+	- Protección de polaridad inversa del panel solar.
+
+	- Protección de sobrecarga
+
+	- Adecuado para tipos de batería de plomo ácido sellada, gel ventilado y batería de litio
+
+
+
+Notas:
+
+
+
+	1. El terminal de salida es solo para lámpara (sistema de 12 V menos 60 W, sistema de 24 V / 36 V / 48 V menos 100 W) y se quemará si se conecta a otras cargas. La salida de la batería es sin protección contra polaridad inversa. 
+
+	2. Puede poner dos piezas 60A en paralelo, por lo que el total es MPPT 120A
+
+
+
+Paquete incluido:
+
+
+
+	1 x Controladores MPPT-60A Solar
+
+	1 x manual de usuario (inglés)
+
+
+
+
+

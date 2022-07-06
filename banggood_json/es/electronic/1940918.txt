@@ -1,0 +1,145 @@
+1940918
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/0E/61/9c84ec93-3ac9-44bc-89c0-cf535ea005b9.jpg
+WZ5020L DC DC Buck Converter CC CV Step-down Power Module 50V 20A 1000W Fuente de alimentación regulada por voltaje ajustable
+https://es.banggood.com/WZ5020L-DC-DC-50V-20A-1000W-Buck-Converter-CC-CV-Step-down-Power-Module-Adjustable-Voltage-Regulated-Power-Supply-p-1940918.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota:¡Este producto es un módulo reductor y no se puede potenciar! El voltaje de entrada es de 55 V y el voltaje de salida se puede ajustar de 0 a 50 V. Si el voltaje de salida es de 12 V, el voltaje de entrada mínimo debe ser de 14 V. El voltaje de entrada no debe exceder los 55V, debe ser DC y no AC.Reflejos:1. El LCD puede mostrar voltaje de entrada/salida, corriente de salida/potencia de salida/capacidad de salida/tiempo de salida;2. Ajuste de control numérico, salida reductora precisa y rápida, ajuste arbitrario de voltaje de salida 0-50.00V, ajuste arbitrario de corriente limitada 0-20.00A;3. El terminal de salida no se quemará cuando se vierte hacia atrás;4. El módulo se puede configurar para que se encienda/apague de forma predeterminada;5. Tiene una variedad de mecanismos de protección de software y el umbral de protección es ajustable. Cuando los parámetros de trabajo del módulo excedan el umbral de protección, la salida se apagará automáticamente;6. Usando tecnología de rectificación síncrona, alta eficiencia de conversión: más del 90% de eficiencia;7. Aumente el disipador de calor e instale un ventilador para mejorar la disipación de calor.Rasgo:Modelo: WZ5020LPantalla: LCDRango de voltaje de entrada: 6-55,00 VResolución de voltaje de entrada: 0,01 VRango de voltaje de salida: 0-50,00 VResolución de voltaje de salida: 0.01VRango de corriente de salida: 0-20.00AResolución de corriente de salida: 0.01ARango de potencia de salida: 0-1000WPrecisión del voltaje de entrada: ±(1%+5)Precisión del voltaje de salida: ±(0.3%+5)Precisión de la corriente de salida: ± (0,5% + 5)Valor típico de ondulación de salida: 150 mV Valor máximoRango de temperatura de funcionamiento normal: -10℃~40℃Rango de medición de capacidad: 0-999.9AHError estadístico de la capacidad energética: ± 2%Rango de tiempo estadístico: 0-100 horasModo de despresurización: presión diferencial >0.05%+1VTamaño del producto: panel 79X43X42mmTamaño del producto: placa principal 106x76x40mmArranque suave: siMecanismo de protección:Protección de bajo voltaje de entrada (5.8-50v ajustable, predeterminado 5.8v)Protección contra sobrevoltaje de salida (0-51.00v ajustable, predeterminado 51V)Protección contra sobrecorriente de salida (0-20.10a ajustable, predeterminado 20.10a)Protección de tiempo de espera (0 - 100 h ajustable, apagado por defecto)Protección de sobrecapacidad (0 – 999.9ah ajustable, desactivada por defecto)El paquete incluye:1 fuente de alimentación CNC de escritorio DIY
+
+
+
+

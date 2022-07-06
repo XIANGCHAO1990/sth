@@ -1,0 +1,280 @@
+https://it.banggood.com/KONNWEI-KW903-WIFI-ELM327-OBD2-Car-Scan-Tool-Diagnostic-Scanner-Engine-Code-Reader-p-1625270.html?cur_warehouse=USA&ID=47972&rmmds=CategoryAutomobilesPop
+KONNWEI KW903 WIFI ELM327 OBD2 Lettore codice motore scanner scanner diagnostico auto strumento
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Il KW903 il dispositivo è un piccolo adattatore collegato al connettore OBD del veicolo. Su Wifi, si collega a qualsiasi computer, tablet o
+		smartphone, con le relative procedure diagnostiche. Effettuando queste semplici operazioni, sarai in grado di:
+
+
+1. Leggi i codici hard (memoria) / in sospeso (intermittenti) e storici e mostra le definizioni.
+
+2. Misurare il consumo di carburante.
+
+3. Display prestazioni operative in tempo reale della vettura, come lo slancio,
+
+4. Monitorare la velocità del veicolo
+
+5. Olio pressione
+
+6. Temperatura del liquido di raffreddamento
+
+7. Carico del motore
+
+8. Pressione del collettore di aspirazione
+
+9. posizione farfalla,
+
+10. i valori dei sensori di ossigeno,
+
+11. presa d'aria
+
+12. temperatura e altro ancora.
+
+13. Spegnere il MIL (segnale Check Engine).
+
+14. Scarica i dati su supporti esterni in una varietà di formati per la stampa successiva.
+
+15. Registra vari parametri, visualizza la grafica in tempo reale e altro ancora.
+
+
+CaratteristicaS:
+
+Dimensioni ridotte, struttura compatta. Spina e non scollegare mai
+
+Connessione wireless stabile
+
+Nessun cavo o batteria (l'adattatore è alimentato dalle prese della diagnosi)
+
+Interrompere la comunicazione, attendere mezz'ora, auto sleep
+
+Supporta quasi protocolli OBDII
+
+L'adattatore utilizza i chip più veloci e affidabili
+
+Questo è Versione Wi-Fi, sostegno Smartphone con sistema Android / IOS, tablet e PC 
+
+La versione icar2 è al 100% V1.5
+
+ 
+
+Protocolli:
+
+
+0.Automatic
+
+1.SAE J1850 PWM (41.6Kbaud)
+
+2.SAE J1850 VPW (10.4Kbaud)
+
+3.ISO9141-2 (5 baud init, 10.4Kbaud)
+
+4.ISO14230-4 KWP (5 baud init, 10,4 Kbaud)
+
+5.ISO14230-4 KWP (init veloce, 10,4 Kbaud)
+
+6.ISO15765-4 CAN (ID a 11 bit, 500 Kbaud)
+
+7.ISO15765-4 CAN (ID a 29bit, 500 Kbaud)
+
+8.ISO15765-4 CAN (ID a 11 bit, 250 Kbaud)
+
+9.ISO15765-4 CAN (ID 29bit, 250 Kbaud)
+
+A.SAE J1939 CAN (ID 29bit, 250 * Kbaud)
+
+B.USER1 CAN (11 bit ID, 125 * Kbaud)
+
+C.USER2 CAN (11 bit ID, 50 * kbaud)
+
+Impostazioni predefinite (regolabile dall'utente)
+
+
+
+Riferimento veicoli conformi OBDII:
+
+
+Automobili in Europa: funziona su After 2000 e sui nuovi veicoli OBDII / OBD2 / OBD / CAN-BUS, che includono icar2 che supporta l'elenco dei protocolli obd
+
+America CarS: funziona su tutti i veicoli OBDII / OBD2 / OBD / CAN-BUS del 1996 e più recenti, che includono icar2 che supporta l'elenco dei protocolli obd
+
+Auto Asia / AU: funziona dopo il 2005 e con i nuovi veicoli OBDII / OBD2 / OBD / CAN-BUS, che includono icar2 che supporta l'elenco dei protocolli obd
+
+
+
+Alcuni modelli di auto speciali:
+
+
+Per SSangyong Kyron / Actyon sarà adatto dal 2010 e le auto più recenti. 
+
+Per LADA Priora, dal 2008 al 2016 sarà adatto il modello, LADA 2111, 2116 Sarà adatto solo dopo il 2013
+
+
+Il pacchetto include:
+
+
+1 X strumento scanner OBD
+
+1 X CD
+
+1 manuale utente X
+Ci sono solo manuali nel CD e i file sono i seguenti:http://myosuploads3.banggood.com/products/20220531/20220531060018KONNWEIWIFI327CDRX4.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

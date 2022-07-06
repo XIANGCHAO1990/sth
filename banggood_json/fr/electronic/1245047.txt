@@ -1,0 +1,281 @@
+1245047
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/8B/CF/35442189-ce30-459f-827e-3eb98074c67f.JPG
+DC-DC CC CV carte de convertisseur abaisseur Module d'alimentation abaisseur 7-32 V à 0.8-28 V 12A
+https://fr.banggood.com/DC-DC-CC-CV-Buck-Converter-Board-Step-Down-Power-Supply-Module-7-32V-to-0_8-28V-12A-p-1245047.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fonctionnalités:
+
+
+
+- Le courant de clignotant fixe est 0,1 fois la valeur actuelle (utilisé pour déterminer si la batterie est complètement chargée lors de la charge).
+
+- Fabriqué à partir d'un IC de référence dédié et d'une résistance de détection de courant de haute précision, prouvant un courant constant plus stable, (lorsque 20 ° C à 100 ° C courant constant 1A, dérive de température inférieure à 1%). Particulièrement adapté aux LED.
+
+- Courant de sortie élevé, le courant de sortie maximal peut atteindre 8A.
+
+- Quatre capacités haute fréquence, peuvent réduire l'ondulation de sortie, améliorer la stabilisation du travail.
+
+- Conception à double dissipateur thermique. MOS dissipateur de chaleur indépendant de la diode schottky, dont la dissipation thermique est bonne et ne s'affectera pas.
+
+- En utilisant un noyau Sendust de grande taille et un double câblage en cuivre pur, améliorez l'efficacité du travail, réduisez la fièvre.
+
+- Potentiomètre multitours 3296, régulation de tension et de courant de haute précision, bonne stabilité.
+
+- Lampe double couleur, l'état de fonctionnement soit clair en un coup d'œil
+
+- La tension et le courant sont réglables, l'effet est bon.
+
+
+
+Paramètres:
+
+
+
+- Propriétés du module: courant constant abaisseur non isolé, module de charge du module de tension constante (CC CV)
+
+- Tension d'entrée: DC 7-32V
+
+- Tension de sortie: (1) DC 1.2-28V réglable en continu. (2) Sortie fixe: choisissez entre 0.8 v-28 v
+
+- Courant de sortie: 8A (lorsque la température du tube d'alimentation dépasse 65 degrés, veuillez ajouter un ventilateur de refroidissement)
+
+- Plage de courant constant: 0,2-8A (réglable)
+
+- Tournez le courant de la lampe: valeur de courant constant * (0,1), tournez le courant de la lampe et la liaison de la valeur constante, telle que la valeur du courant constant est de 3A, tournez le courant de la lampe est réglé sur un courant constant est de 0,1 fois (0,1 * 3A = 0,3A )
+
+- Pression la plus basse: 1V
+
+- Puissance de sortie: la puissance maximale est d'environ 200 W
+
+- Efficacité de conversion: jusqu'à environ 95%
+
+- Fréquence de fonctionnement: 300 KHZ
+
+- Ondulation de sortie: bande passante 20M
+
+- Entrée 24V sortie 12V 5A ondulation autour de 50mV (hors bruit)
+
+- Protection contre les courts-circuits de sortie: Oui, courant constant
+
+- Protection contre l'inversion de polarité d'entrée: Aucune
+
+- La sortie empêche le refoulement: Aucun
+
+- Câblage: Terminal
+
+- Courant à vide: typique 20mA (interrupteur 24V 12V)
+
+- Régulation de charge: ± 1% (constante)
+
+- Régulation de tension: ± 1%
+
+- Vitesse de réponse dynamique: 5% 200uS
+
+- Sens de réglage du potentiomètre: sens horaire (augmentation), sens antihoraire (diminution), le potentiomètre (CV) fermé à la tension d'entrée est utilisé pour réguler la tension, le potentiomètre (CC) fermé à la tension de sortie est utilisé pour réguler le courant (CC)
+
+- Température de fonctionnement: qualité industrielle (-40 ° C à +85 ° C) (veuillez noter l'utilisation réelle de la température du tube de puissance, renforcée par la chaleur à haute température)
+
+- Indicateur: indicateur bicolore, le voyant de charge est rouge, le voyant vert signifie complètement chargé (aucune charge n'est verte)
+
+- Taille: env. 65 x 47 x 23,5 mm / 2,56 x 1,85 x 0,93 pouces
+
+- Précision du courant et de la température constants: sur le test réel, la température du module de 25 degrés à 60 degrés, le changement de valeur de courant constant est inférieur à 5% (valeur de courant constant 5A)
+
+- Protection contre les courts-circuits de sortie: Oui, courant constant (la valeur de courant constant de réglage actuel)
+
+- Protection de connexion inverse d'entrée: NON
+
+- La sortie empêche le flux inversé: NON
+
+- Méthode de câblage: connecteur Amphenol
+
+
+
+Applications:
+
+
+
+Pilote LED haute puissance
+
+Charge de la batterie au lithium (ou de l'accumulateur au plomb)
+
+Alimentation électrique montée sur véhicule
+
+Alimentation du système basse tension
+
+Charge de batterie 6V, 12V, 14V, 24V
+
+Bloc d'alimentation embarqué pour ordinateur portable
+
+Alimentation régulée
+
+Système d'alimentation électrique basse tension
+
+
+
+Le forfait comprend:
+
+
+
+1 x module d'alimentation réglable DC-DC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

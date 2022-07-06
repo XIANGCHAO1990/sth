@@ -1,0 +1,183 @@
+959231
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/4D/75/bfacef5e-9ca0-4650-85a3-87a23e196292.JPG
+Geekcreit® ATmega328P Nano V3 Modül Geliştirilmiş Versiyon Kablo Geliştirme Kartı Yok Arduino için Geekcreit - resmi Arduino anakartlarıyla çalışan ürünler
+https://tr.banggood.com/Geekcreit-ATmega328P-Nano-V3-Module-Improved-Version-No-Cable-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-959231.html?cur_warehouse=CN&ID=6300464&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Şartname:
+
+Mikrodenetleyici ATmega328
+Çalışma Gerilimi (logiclevel): 5V
+Giriş Voltajı (önerilen): 7V ~ 12V
+Giriş Voltajı (sınırlar): 6V ~ 20 V
+Dijital I/O Pinleri: 14 (6 tanesi PWM çıkış sağlar)
+Analog Giriş Pinleri: 8
+I/O Pin Başına DC Akımı: 40mA
+Flash Bellek: 32KB (ATmega328) (2 KB'si önyükleyici tarafından kullanılır)
+SRAM: 2KB (ATmega328)
+EEPROM: 1KB (ATmega328)
+Saat Hızı: 16MHz
+
+Not:
+
+Bu sürüm USB kablosuna dahil değildir.
+USB çipini değiştirmiş, WIN7/WIN8'in indirme hızını ve kararlılığını iyileştirmiştir.
+
+Paket içeriği:
+1/2/3/5/10 x Uyumlu İyileştirilmiş Sürüm Nano V3.0 (isteğe bağlı)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

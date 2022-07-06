@@ -1,0 +1,217 @@
+1012323
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/58/FC/80eba97c-e8c5-4b3a-82eb-f4b0cf97ac29.jpg
+Geekcreit® 12V 4CH Canal 433Mhz Controle Remoto sem Fio com 2 Transmissores
+https://pt.banggood.com/Geekcreit-12V-4CH-Channel-433Mhz-Wireless-Remote-Control-Switch-With-2-Transmitter-p-1012323.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: Se você precisar de mais transmissor, procure 1018573
+Este produto não fornece nenhuma instrução, faça referência à descrição.
+Esta versão não suporta a função de código de cópia, por favor, anote sobre isso antes de encomendá-la.
+
+
+Características:
+
+É um interruptor de controle remoto sem fio de código de aprendizado (receptor), o modo de saída / modo de trabalho pode ser alterado conforme desejar, é fácil combinar o transmissor. Possui 4 relés que podem fazer o equipamento girar ou inverter, ligar / desligar e assim por diante tornar realidade. O volume é pequeno e o desempenho é estável e confiável, alta sensibilidade de recepção.
+
+1. Ele abrange a aplicação do controle remoto doméstico simples para o controle autônomo, como porta automática, janela, equipamentos de elevação, acesso de entrada, controlador de cima e de baixo, controle e segurança industrial do sistema de alarme, etc.
+2. Esses controles remotos são projetados para controlar uma grande variedade de dispositivos eletrônicos com um sinal sem fio.
+3. Extremamente fácil de configurar e usar.
+4. Compatível com o chip remoto 2262/2260/1527/2240 entre outros e vários códigos de controle remoto sem fio. Então, pode atender a necessidade de alguém de escolher o controle remoto sem fio como eles gostam de trabalhar com ele.
+
+Instruções:
+
+1. Pressione o código de aprendizagem, o flash indicador, afrouxe seu dedo, pressione qualquer botão do controle remoto, o indicador pisca 2 vezes e desativa, significa que você aprende com sucesso.
+2. Pode aprender mais de 12 chips PCS 2262 ou 1527 com o controle remoto sem fio de código diferente.
+3. Remover / limpar: pressione o botão de aprendizado cerca de 8 segundos, o indicador liga-se para desligado, significa que as informações que você mantém foram removidas com sucesso.
+
+Modo de trabalho de saída:
+
+1. Auto-bloqueio: conecte o JP1 com a tampa de corte.
+2. Jog: a tampa de corte não é ocupado, JP1 e JP2 também não se conectam..
+3. Inter-bloqueio: conecte o JP2 com a tampa de corte,
+Jog: pressione um botão para LIGAR, solte o dedo no mesmo botão para DESLIGAR (precisa de um comutador de canal e controle remoto de um botão).
+Auto-bloqueio: pressione um botão por uma vez para LIGAR, pressionar o mesmo botão novamente para DESLIGAR (precisa de um interruptor de canal e um botão de controle remoto).
+Inter-bloqueio: pressione um botão para LIGAR, pressionar outro botão para DESLIGAR (precisa de um interruptor de canal e 2 botões de controle remoto).
+
+Receptor:
+
+1. Tensão de trabalho: DC12V
+2. Condições de repouso: menos de 6mA
+3. Temperatura de trabalho: -40°c + 80°c
+4. Sensibilidade do receptor: mais de -105dBm
+5. Frequência de trabalho: 433mhz
+6. Tensão de saída: DC e AC é opcional
+7. Corrente de saída: Menos de 3A
+8. Corrente de carga máxima: 10A
+9. Dimensões: 72 x 52 x 26mm
+
+Transmissor de controle remoto:
+
+1. Distância remota: 200M
+2. Tensão de operação: DC 12V
+3. Frequência: 433mhz
+4. Corrente de operação: 13 mAh
+5. Tipo de código: código fixo / código de aprendizagem
+6. Dimensões: 58 x 39 x 14mm
+
+Incluído no pacote:
+
+2 x Transimissor
+1 x Receptor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

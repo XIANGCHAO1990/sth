@@ -1,0 +1,167 @@
+1825672
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/2C/AB/67513bf2-d9bd-49e2-afb9-f3429880baf8.jpg
+ELEGOO® SATURN MSLA 4K 8.9 "MONOCHROME LCD Resin 3D Yazıcı UV Photocuring LCD 4K Monokromlu Reçine 3D Yazıcı LCD / Matrix UV LED Lamba Kaynak / Off-Line / WLAN Baskı / Baskı Boyutu 192x120x200mm
+https://tr.banggood.com/ELEGOO-SATURN-MSLA-4K-8_9-inch-MONOCHROME-LCD-Resin-3D-Printer-UV-Photocuring-LCD-Resin-3D-Printer-with-4K-Monochrome-LCD-or-Matrix-UV-LED-Light-Source-or-Off-Line-or-WLAN-Print-or-Print-Size-192x120x200mm-p-1825672.html?cur_warehouse=USA&ID=47757&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ürünler artık SD kartlar ve USB ve TF kartları ile gönderilmeyecek.Please download the SD card file hereÖzellikler: Daha hızlı baskı hızı
+ - Saturn 3D yazıcı, HD 3840 x 2400 çözünürlüğe sahip 8.9 inç 4K Siyah Beyaz LCD ile birlikte gelir ve katman baskı süresini 1,5s-2s'ye düşürür, bu da Mars Pro'ten% 60 daha hızlıdır, ancak yine de olağanüstü baskı sonuçları sunar.Daha büyük yapı hacmi - Saturn, 192 * 120 * 200 mm / 7.55in * 4.72in * 7.87in'lik geniş bir baskı hacmine sahiptir ve aynı anda birden fazla tam boyutlu model yazdırabilirsiniz, bu da üretkenliğinizi önemli ölçüde artırabilir.
+
+ Daha yüksek hassasiyet ve daha kolay baskı - Z ekseni, daha istikrarlı hareket ve büyük ölçüde geliştirilmiş hareket doğruluğu elde edebilen çift doğrusal bir kılavuz yolu yapısı kullanır. Arkadaki Ethernet bağlantı noktası ve 4 GB dahili veri diski ile Saturn artık yerel alan ağınız üzerinden dosya aktarımını destekliyor ve bu da hızlı yazdırma için çok kullanışlıdır.
+
+Kaliteli Baskılar ve Tutarlı Başarı - Matris ışık kaynağı, tek tip ışık yayılımına sahip 54 UV LED ışıktan oluşur ve üstün baskı sonuçları ve daha doğru bir baskı boyutu sağlar. Baskı tablasındaki ayar vidaları uzun süreli tesviye sağlar, sık kalibrasyona gerek kalmaz ve kumlanmış yüzey, özellikle büyük 3B modelleri yazdırırken çok daha güçlü bir yapışma sağlar.Tüm yazıcı için 1 yıllık garanti veriyoruz (4K LCD, FEP film ve araç kiti hariç). İndirmeniz için bazı dosyalar:* Firmware1.En Son Donanım Yazılımı: İndirmek İçin Tıklayın: V4.3.192. LCD'yi Değiştirdikten Sonra Güncellemeniz Gereken Yazılım: İndirmek İçin TıklayınLCD nasıl değiştirilir: https://youtu.be/NJhucYuSjjk3. Makine Parametreleri: İndirmek İçin Tıklayın*Dikkat: 
+ Lütfen bu ürün yazılımının yazıcınızla eşleşip eşleşmediğinden emin olun, farklı yazıcılarda yanlış güncelleme onu kullanılamaz hale getirebilir. Donanım yazılımıyla ilgili herhangi bir sorunla karşılaşırsanız lütfen şu adresten destek ekibimizle iletişime geçin: 3dp@elegoo.com yazıcının altında etiketlenmiş parti numarası ile yardım etmek için elimizden gelenin en iyisini yapacağız.* Nasıl güncellenir:Adım 1 - Dosyayı USB flash sürücünün kök dizinine kopyalayınAdım 2 - USB flash sürücüyü yazıcıya takınAdım 3 - Güncellemek için yazıcıdaki dosyayı yazdırın.* Video EğitimleriHow to replace the Mono LCD screen2. How to replace the FEP3. How to replace the motherboard* USB Sürücü Dosyası: İndirmek İçin Tıklayın USB DRIVE FILES (MANUAL & SLICING SOFTWARE INCLUDED)* Reçine Ayarı 1. Resmi öneriler ELEGOO Yazıcılarda ELEGOO reçinesi için:  ELEGOO Yazıcılar Reçine Ayar Sayfası2. Resmi olmayan öneriler çoğu marka için ELEGOO Saturn Seires Yazıcılarında reçine (topluluk üyelerimizin katkılarıyla):ELEGOO Saturn Serisi Yazıcılar için Reçine Ayarları*Kullanım klavuzu:  İndirmek İçin Tıklayın
+Özellikler:Sistem: EL3D-3.0.1 Çalışma: 3,5 İnç Dokunmatik EkranDilimleme Yazılımı: Chitu DLP DilimleyiciBağlantı: USBTeknoloji: LCD UV PhotocuringIşık kaynağı: UV Entegre LED ışık (dalga boyu 405 nm)
+
+XY Çözünürlüğü: 0,05 mm (3840 * 2400)
+
+Z Ekseni Doğruluğu: 0.00125 mm
+
+Katman Kalınlığı: 0.01-0.15 mm
+
+Baskı Hızı: 30-40 mm / h
+
+Güç Gereksinimleri: 110-240V 50 / 60Hz 24V4A 96WYazıcı Boyutları: 11.02in (L) * 9.44in (W) * 17.55in (H) / 28 cm (L) * 24 cm (W) * 44.6 cm (H)
+
+Yapı Hacmi: 7.55in (L) * 4.72in (W) * 7.87in (H) / 192 mm (L) * 120 mm (W) * 200 mm (H)
+
+Ağırlık: 22 Lbs (10 Kg)
+
+
+
+

@@ -1,0 +1,230 @@
+1347173
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/D5/E7/4d84fe98-70f6-4fdb-83aa-b77e72c90ba5.jpg
+Diagnostic Interface Cable OBD2 Diagbox V7.83 For Citroen Peugeot PP2000 Lexia 3
+https://www.banggood.com/Diagnostic-Interface-Cable-OBD2-Diagbox-V7_83-For-Citroen-Peugeot-PP2000-Lexia-3-p-1347173.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: not full chipFeature:
+	1. Read identification
+
+Displays complete identification of control unit, e.g. part number, software/hardware version, manufacturer, etc
+
+2. Read fault codes
+
+Displays all stored and pending fault codes with complete description (e.g. "Rail pressure - too low pressure").
+
+Program supports report printing or copy to clipboard.
+
+3. Clear fault codes
+
+This function clears all stored fault codes and other diagnostic information.
+
+4. Auto-scan (complete car scan/test)
+
+Detects all ECUs (electronic control units) installed in car and reads all diagnostic fault codes.
+
+5. Measured Values
+
+Program displays live Data like Engine Speed, Battery voltage, Oxygen Sensor, Coolant Temperature, etc. Values can be displayed in graph, 9 values at once, or full listing (all measured values). Logging to file is also supported, which allows offline analysis.
+
+6. Actuator test
+
+Actuator test activates particular actuator (e.g. turn on fuel pump, lock/unlock wheel, lock/unlock doors, cut off fuel, etc..)
+
+
+
+Specification:
+
+Model number: 961868
+
+Product name: Diagnostic Tool
+
+Condition: New
+
+Color: Black
+
+Language: English, German, French, Japanese, Russian, Spanish, Portuguese, Swedish, Turkish, Dutch, Polish, Italian, Hungary, Greek
+
+Computer System: WIN XP ,WIN 7 32bit 
+
+
+Fitment: 
+
+For Citreon cars including, C1,C2,C3,C4,C6,C8,C-CROSSER,NEMO,BERLINGO,JUMPY,JUMPER,AX,SAXO,BX and so on.But please pay attention,according to our customer's experience,this item can not works good at C5 new models. 
+
+For Peugeot cars from 1995, but it can not work good with Peugeot 307 after 2004 year.
+
+
+
+Package Included:
+
+1 X Main unit with extension OBD2 cable
+
+1 X Long 9pin to USB cable
+
+1 X Short 9pin to USB cable
+
+1 X OBD2 cable
+
+1 X16pin to Clip Cable
+
+1 X Activation DVD for PP2000 
+
+
+
+		 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

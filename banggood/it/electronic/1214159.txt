@@ -1,0 +1,163 @@
+https://it.banggood.com/Geekcreit-ESP32-WiFi+bluetooth-Development-Board-Ultra-Low-Power-Consumption-Dual-Cores-Pins-Unsoldered-p-1214159.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® ESP32 Scheda di sviluppo WiFi + bluetooth Consumo energetico estremamente basso Pin dual core non saldati
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+ 
+ESP32 è già integrato antenna e balun RF, amplificatore di potenza, amplificatori a basso rumore, filtri, e modulo di gestione dell'alimentazione.
+L'intera soluzione occupa la minor quantità di area del circuito stampato.
+Questa scheda viene utilizzata con Wi-Fi dual-mode a 2,4 GHz e chip Bluetooth dalla tecnologia TSMC 40nm a bassa potenza,
+potenza e proprietà RF migliori, che è sicuro, affidabile e scalabile per una varietà di applicazioni.
+ 
+Caratteristiche:
+
+Elevato rapporto qualità-prezzo
+Piccolo volume, facilmente integrabile in altri prodotti
+Forte funzione con supporto protocollo LWIP, Freertos
+Supporta tre modalità: AP, STA e AP+STA
+Sostenere il programma Lua, facile da sviluppare
+Consiglio di sviluppo: https://github.com/Nicholas3388/LuaNode 
+Nota: perni non saldati
+A causa della carenza di chip, ESP32-Wroom-32D e ESP32-Wroom-32 potrebbero essere spediti in modo casuale.
+Il pacchetto include:
+
+1 x scheda di sviluppo ESP32 (non saldato)
+
+
+
+

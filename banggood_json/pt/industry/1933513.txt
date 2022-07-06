@@ -1,0 +1,145 @@
+1933513
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/90/CF/13ca2fcb-4f59-4305-a165-0b9fb4208653.jpg
+uSDR uSDX+ Plus V2 10/15/17/20/30/40/60/80m 8 Banda SDR Todos os Modos HF SSB QRP Transceptor
+https://pt.banggood.com/USDR-uSDX+-Plus-V2-10-or-15-or-17-or-20-or-30-or-40-or-60-or-80m-8-Band-SDR-All-Mode-HF-SSB-QRP-Transceiver-p-1933513.html?cur_warehouse=CN&ID=47757&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vídeo de teste:https://www.bilibili.com/video/BV1Tv411G7npGrupo:https://groups.io/g/usdx-users/Alguns links de referência:ProgramasHardware 1Hardware 2Hardware 3Grupoé otimizado a partir deuSDX QCX-SSB hardware de código aberto. O software poderoso suporta o uso de menos hardware para completar o transceptor SW e suporta o modo SSB (a qualidade da recepção é muito boa, a qualidade da transmissão é um pouco pior). Além disso, o desenvolvedor também desenvolveu um modo AM/FM para ele, mas AM/FM é definido como uma função de presente. Não espere AM/FM muito alto.Descrição:Este é um transceptor QRP SSB/CW de ondas curtas. O tamanho ultra-pequeno é fácil de transportar para uso externo, usando a tela 1602N LCDtela, alto-falante embutido, suporte para conectar ao PC, use FT8, JS8, FT4 e outro controle de software de modo digital, suporte para decodificação automática CW.Recursos:8 bandas cobrindo 80m/60m/40m/30m/20m/17m/15m/10m.Excelente design de layout de PCB que está em conformidade com os princípios de design de circuito de alta frequência para garantir excelente desempenho.Pode atingir 3-5W de potência em 8 bandas e reserva os pads de pacote SOT-223 e TO-220 para atualizaçõesAlta eficiência de emissão, eficiência de 80m/60m/40m/30m/20m é superior a 80%, eficiência de 17m é superior a 70%, eficiência de 15m/10m é superior a 60%Marca KDS de alta precisão TCXO, precisão de frequência melhor que 1PPM, estabilidade de frequência melhor que 0,5PPMTamanho ultra pequeno: 83*38*124mm (excluindo peças salientes)Interfaces abundantes (CAT, PTT OUT, MIC/KEY, microfone K-head)Todas as peças LPF usam capacitores 100V C0G/NP0Use o relé de travamento magnético original da OmronUse um chip de amplificador operacional de menor ruído do que o LM4562Alto-falante embutido com cavidadeInterface BNC AntenaEspecificação:Tipo: Transceptor HF QRP SDRModo: SSB/CWSaída de RF: 10W max a 13,8V saída DC emFaixa de frequência: 3,5-30MHzConstruídas em MicrofoneAntena/conector: 50ohms/SO-239 Tamanho da concha: comprimento 12,4 cm x largura 8,7 cm x altura 3,7 cm (excluindo partes salientes)Peso da embalagem: 550gTamanho da embalagem: 18 x 12 x 8 cmFunção:1. Transceptor QRP SSB HF simples, interessante e versátil com funções DSP e SDR incorporadas;2. EER Classe-E aciona a classe de transmissão SSB3. Use uma fonte de alimentação de 13,8 V para produzir cerca de 5 W PEP SSB4. Suporte ao modo completo: USB, LSB, CW, AM, FM (o modo SSB tem um bom efeito de recepção, mas um efeito de transmissão ruim. Os modos AM e FM são potência de presente, efeito ruim)5. Filtros DSP: banda passante de 4000, 2500, 1700, 500, 200, 100, 50 Hz6. Funções DSP: Controle Automático de Ganho (AGC), Redução de Ruído (NR), Transmissão do acionador de voz, RX Attenuator (ATT), TX Noise Gate, TX Controle de drive, controle de volume, medidor de dBm/S.7. SSB para transmissão de supressão de banda lateral/portadora: melhor que -45dBc, IMD3 (tom duplo) -33dBc, recepção: melhor que -50dBc8. Suporte multi-banda, continuamente ajustável através de banda de frequência de 80m-10m (a partir de 20kHz ~ 99MHz, perda de desempenho)9. Firmware de código aberto, construído com Arduin0 IDE; permite experimentação, novos recursos podem ser adicionados, contribuições podem ser compartilhadas via Github, complexidade do software: 2000 linhas de código10. Baseado em software Transmissão do acionador de voz pode ser usado como controle total rápido (operação QSK e meio QSK) ou comutação auxiliar RX/TX para operar no modo digital (sem necessidade Interface CAT ou PTT), saída PTT externa/controle PA com atraso TX11. Modificação de instalação simples com 8 trocas de componentes e 8 fios12. Design de transceptor leve e de baixo custo: alta eficiência energética devido ao EER transmissor classe E (sem necessidade de dissipadores de calor volumosos) e e design simples (sem necessidade de amplificadores de potência linear balanceados complexos)13. Estágio SSB transmissor totalmente digital e baseado em software: controlando a fase do SI5351 PLL (através de uma pequena mudança de frequência em 800kbits/s I2C) e amplitude de PA (via circuito de modelagem de chave PA PWM)14. Estágio do receptor SDR totalmente digital e baseado em software (opcional): Amostra de sinal I/Q (complexo) do misturador digital do testador de amostragem de quadratura e realizar matematicamente um deslocamento de fase de 90 graus (transformação de Hilbert) na peça e cancelar um adicionando bandas laterais15. Três atenuadores de receptor front-end analógico selecionáveis independentes (0dB, -13dB, -20dB, -33dB, -53dB, -60dB, -73dB)16. MDS de piso de ruído do receptor: –135 dBm a 28MHz (200Hz BW)17. Seletividade de front-end do receptor: +/-2kHz íngreme -45dB/década roll-off da frequência sintonizada18. Bloqueando a faixa dinâmica: 20kHz offseit 123dB, 2kHz offseit 78dB19. Decodificador CW, Chaveador Reto/Iâmbico-A/B20. VFO A/B + RIT e Split, e relés correspondentes via I2C com comutação de filtro21. Suporte CAT (usando o protocolo TS-480)Incluído no Pacote:1 x Transceptor (bateria não incluída)1 x microfone1 x carregador (plugue UE/US)4 x pés da máquina
+
+
+
+

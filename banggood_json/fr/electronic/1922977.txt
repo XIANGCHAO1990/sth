@@ -1,0 +1,145 @@
+1922977
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/B3/9E/0b33f9a3-6287-47d7-af93-871b0da516c2.jpg
+Récepteur radio défini par logiciel SDR version simplifiée RSP1 Récepteur d'aviation non RTL
+https://fr.banggood.com/SDR-Simplified-Version-RSP1-Software-Defined-Radio-Receiver-Non-RTL-Aviation-Receiver-p-1922977.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristique:Récepteur radio défini par logiciel SDR RSP1 Récepteur radio défini par logiciel SDR Schéma Ham msi2500 msi001, circuit SDRplay RSP1 simplifié, l'interface est une interface USB Type-C (interface de téléphone mobile Android), carte double couche, utilisant la technologie de patch SMT, 5 interfaces d'antenne correspondent à différentes bandes de fréquences et sont testés au préalable.Poids du produit : 20 grammesTaille du produit: 88*48MM1. Gamme de fréquences efficace 10KHz à 1GHz, résolution ADC 12bit, bande passante visuelle complète de 10M en temps réel (peut surveiller une large gamme de signaux de 10M en temps réel, telle que 430-440MHz)2. Modulation de fréquence FM, modulation d'amplitude AM, bande latérale unique SSB, télégraphe d'amplitude égale CW, contrôle ATC, modulation de zone, bandes de fréquences aéronautiques et ferroviaires, surveillance automatique liée à la diffusion ADS-B, interphone analogique et numérique à large bande et à bande étroite, numérique DMR interphone, diffusion numérique DRM, images SSTV, images de nuages météorologiques NOAA, surveillance de la radioastronomie, Station spatiale internationale ISS, etc.3. Compatible avec les quatre plates-formes Windows, Linux, OSMac et Android, il prend parfaitement en charge les logiciels grand public tels que SDRuno, SDR Sharp, HDSDR, SDR consol, GNURadio et SDR Touch. (Les appareils Android doivent prendre en charge OTG)Le forfait comprend :1 x récepteur d'aviation
+
+
+
+

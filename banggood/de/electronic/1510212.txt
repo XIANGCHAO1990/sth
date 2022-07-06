@@ -1,0 +1,195 @@
+https://de.banggood.com/TWO-TREES-CNC-Shield-+-UNO-R3-Board-+4x-A4988-Stepper-Motor-Driver-+4x-4401-Stepper-Motor-Kit-for-3D-Printer-p-1510212.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+TWO TREES® CNC Shield + UNO R3 Board + 4x A4988 Schrittmotortreiber + 4x 4401 Schrittmotor Satz für 3D-Drucker
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+
+
+
+
+Neueste CNC Shield Version 3.0
+
+GRBL 0.8c kompatibel. (Open Source-Firmware, die auf einem UNO ausgeführt wird und G-Code-Befehle in Steppersignale umwandelt)
+
+4-Achsen-Unterstützung (X, Y, Z, A - Kann X, Y, Z duplizieren oder eine vollständige 4. Achse mit benutzerdefinierter Firmware unter Verwendung der Pins D12 und D13 ausführen)
+
+2 x Endanschläge für jede Achse (insgesamt 6)
+
+Spindelfreigabe und -richtung
+
+Kühlmittel aktivieren
+
+Verwendet austauschbare Pololu A4988-kompatible Schritttreiber. (A4988, DRV8825 und andere)
+
+Jumper zum Einstellen des Micro-Stepping für die Stepper-Treiber. (Einige Treiber wie der DRV8825 können bis zu 1/32 Mikroschritte ausführen.)
+
+Schrittmotoren können mit 4-poligen Molex-Steckern verbunden oder an Ort und Stelle verlötet werden
+
+Läuft mit 12-36V DC. (Im Moment können nur die Pololu DRV8825-Treiber bis zu 36 V verarbeiten. Berücksichtigen Sie daher beim Betrieb der Platine die Betriebsspannung.)
+
+
+
+
+Lieferinhalt:
+
+
+1 x CNC Shield V3.0
+
+1 x UNOR3-Karte
+
+4 x A4988 Treiber
+
+4 x 4401 Schrittmotor
+		1 x USB-Kabel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,210 @@
+1535708
+https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/F4/7A/3750233a-1b05-4acb-8161-177c4a55fc6b.jpeg
+Geekcreit® 0.96 İnç OLED I2C IIC Communication Ekran 128 * 64 LCD Arduino için Modül Geekcreit - resmi Arduino panolarıyla çalışan ürünler
+https://tr.banggood.com/Geekcreit-0_96-Inch-OLED-I2C-IIC-Communication-Display-128+64-LCD-Module-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1535708.html?cur_warehouse=CN&ID=229&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>More details: Click here to open<<<
+
+	Pin tanımı:
+
+
+
+VCC: 3.3-5V
+
+GND: Zemin
+
+SCL: Seri Saat
+
+SDA: Seri Veri
+
+Özellik:
+
+
+Boyut: 0,96 inç
+
+Çözünürlük: 128 * 64
+
+Renk: beyaz, mavi (isteğe bağlı)
+
+Görüş açısı:> 160 °
+
+Destek platformu: 51 serisi, MSP430 serisi, STM32/2, vb.
+
+Ultra düşük güç tüketimi: Normal çalışma sırasında 0,04 W
+
+Geniş voltaj desteği: DC 3.3V-5V
+
+Çalışma sıcaklığı: -30 ° C ~ 80 ° C
+
+Sürücü çipi: SSD1306
+
+İletişim yöntemi: IIC, yalnızca 2 G / Ç bağlantı noktası
+
+Arka ışık: OLED kendinden aydınlatma, arka ışık gerekmez
+
+Paket şunları içerir:
+
+		1 x OLED modülü
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

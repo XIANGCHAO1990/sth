@@ -1,0 +1,184 @@
+1264245
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/8B/BD/46f10224-370a-4d30-8e60-607e948cff93.jpeg
+Geekcreit® D1 Mini V3.0.0 Carte de développement WIFI Internet des objets basée sur ESP8266 4 Mo MicroPython Nodemcu
+https://fr.banggood.com/Geekcreit-D1-Mini-V3_0_0-WIFI-Internet-Of-Things-Development-Board-Based-ESP8266-4MB-MicroPython-Nodemcu-p-1264245.html?cur_warehouse=HK&ID=522225&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nouveautés de la V3.0.0 :
+
+Optimiser le circuit
+Ajoutez un pull Deep-Sleep.
+Micrologiciel par défaut : dernier micrologiciel MicroPython ESP8266.
+
+Caractéristiques:
+
+11 broches d'entrée/sortie numériques, toutes les broches ont une interruption/pwm/I2C/un fil pris en charge (sauf D0)
+1 entrée analogique (entrée 3,2 V max)
+une connexion Micro USB
+Compatible avec MicroPython, , Nodemcu
+beaucoup de boucliers
+
+Emballage inclus:
+
+1 x D1 mini V3.0.0
+2 x broche normale
+2 x broches femelles longues
+2 x broches femelles courtes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

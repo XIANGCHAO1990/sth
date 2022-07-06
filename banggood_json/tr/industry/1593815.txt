@@ -1,0 +1,330 @@
+1593815
+https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/89/A6/c88f1e74-60f4-4ea8-9caa-409818ca36cf.png
+YIHAOGD YH LCD 2/3 Eksen Izgarası CNC Freze Dijital Okuma Ekran DRO / KA300 5μm TTL 70-970mm Elektronik Lineer Tartı Enkoder Torna Tezgahı Parçalar
+https://tr.banggood.com/YIHAOGD-YH-LCD-2-or-3-Axis-Grating-CNC-Milling-Digital-Readout-Display-DRO-or-KA300-5m-TTL-70-970mm-Electronic-Linear-Scale-Encoders-Lathe-Tool-p-1593815.html?cur_warehouse=CN&ID=6281034&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanım:
+YIHAOGD YH LCD 2/3 Eksen Izgara CNC Freze Dijital Okuma Ekran DRO / KA300 TTL 70-970mm Elektronik Lineer Tartı Enkoder Torna Parçalar
+	YIHAOGD YH LCD dijital okuma, hem KA300 hem de YE tipi olmak üzere her tür YIHAOGD lineer teraziyle eşleşebilir.
+	Büyük LCD ekran, dijital tüpten daha iyi görüntü, kullanışlı ve pratik.
+
+
+Şartname:
+
+	Büyük LCD Dro Dijital Okuma Ekran Sistem Parametresi:
+
+
+		Model: 2 Eksen/3 Eksen
+		Voltaj Aralığı: AC 100V~240V/50HZ~60HZ
+
+		Dijital Okuma Ekran Kabul Edilebilir Sinyal: TTL
+
+		Fiş: DB9
+
+		Kabul edilebilir çözünürlük: 10μm, 5μm, 2μm, 1μm, 0,5μm.
+
+Boy:Opsiyonel uzunluk, efektif uzunluğu ölçerToplam uzunluk = etkili uzunluk ölçümü+106mm
+
+
+
+			Dro Digital Readout Ekran Sistem İşlevleri:
+
+
+				1: Sıfır takas
+
+				2:Sıfırla
+
+				3:mm/inç modu
+
+				4:ABS/INC koordinat dönüştürme
+
+				5:200 takım alt veri
+
+				6: Hafızayı Kapatın;
+
+				7: 1/2'nin merkezi
+
+				8: Liner hata telafisi
+
+				9:Uyku modu
+
+				10: 200 set Sdm verisini temizle;
+
+				11:ABS/INC modu
+
+				12: Hesap makinesi
+
+				13: Çevrenin delinmesi
+
+				14: Eğik çizginin delinmesi
+
+				15:Eğimli düzlemin işlenmesi
+
+				16: Dairesel arkın işlenmesi
+
+				17: Torna işlevi (maç)
+
+				18: Dikdörtgen lümen kademeli işleme
+
+				19: Dijital filtreleme
+
+				20: Titreşim filtreleme
+
+				21: Torna işlevi
+
+				KA300 5U TTL Lineer Ölçekler/Lineer Enkoder/Lineer Sensör/Lineer Cetvel Parametreleri
+
+
+
+		1. Seyahat (ölçüm) uzunluğu: 0-970mm
+
+		2. Toplam (toplam) uzunluk: Hareket uzunluğu + 106 mm (0-1076 mm)
+
+		3. Fiş: DB9
+
+		4. Çözünürlük: 0.005mm(5μ)
+
+		5. Giriş voltajı: 5V
+
+		6. Izgara aralığı: 0,02 mm (50LP/dak)
+		7. Kablo uzunluğu: 3 Metre
+		8. Koruma sınıfı: IP54
+		9. Sinyal: TTL
+
+		5μ Lineer Optik Cetvel/Lineer Glass Tartılar/Lineer Encoder/Lineer Sensör Sinyali
+		Pin 2 Siyah 0V
+		Pin 6 Yeşil A
+		Pin 7 Kırmızı 5V
+		Pim 8 Beyaz B
+		Pin 9 Turuncu Z
+Özellikler:
+Neden YH LCD dijital okuma sistemleri satın almalısınız?
+	Büyük LCD Ekran
+
+		1.Sistemler, lineer kodlayıcılar, uzunluk ölçerler, döner kodlayıcılar veya açı kodlayıcılar tarafından ölçülen değerleri okunması kolay bir formata çevirerek üretkenliği artırır, zamandan tasarruf sağlar ve daha yüksek hassasiyet sağlar.
+
+		2. Yeni ekipmana monte edilebilirler veya halihazırda çalışmakta olan makinelere sonradan takılabilirler.
+
+		3.Sistemler, eksen kızaklarının manuel olarak hareket ettirildiği herhangi bir makine ile çalışır.
+
+		4.Veri arayüzü, ölçülen değerlerin (çoğu model) ek işlenmesine veya çıktılarına izin verir.
+
+
+
+		Neden 5u KA300 Lineer Enkoderler satın alıyor? (Toz geçirmez, IP54 su geçirmez tasarımYüksek kaliteli rulman, güvenilir ve dayanıklı)
+
+		1.Termal genleşme, tahrik mekaniğinin deformasyonu, hatve sorunları ve daha fazlasının neden olduğu takım tezgahı konum hatalarını ortadan kaldırın.
+
+		2. Yüksek uzun vadeli hız kararlılığı.
+
+		3. Sağlam yapı ve titreşime karşı yüksek direnç.
+
+		4. Daha ince sinyal periyotları en yüksek enterpolasyon doğruluğunu sunar.
+
+		5.Kompakt, hafif ve kurulumu kolay.
+
+		6.Dayanıklı ve güvenilir—uzun yıllar çalıştıktan sonra bile düzgün çalışır.
+		7. Mühürlü veya kapalı lineer tasarımlar mevcuttur.
+
+
+
+
+
+
+Paket İçeriği: (isteğe bağlı)
+
+
+				LCD 3 Eksen Dijital Okuma Paketi İçeriği:
+
+				1 Adet x 3 Eksen Dijital Okuma
+				1 Adet x Güç Kablosu (Size ülkenize bağlı olarak ekstra bir fiş adaptörü göndereceğiz)
+				1 Takım x Braket ve Aksesuarlar
+				1 Adet x Manuel
+
+
+
+				LCD 2 Eksen Dijital Okuma Paketi İçeriği:
+
+				1 Adet x 2 Eksen Dijital Okuma
+				1 Adet x Güç Kablosu(Size ülkenize bağlı olarak ekstra bir fiş adaptörü göndereceğiz)
+				1 Takım x Braket ve Aksesuarlar
+				1 Adet x Manuel
+
+
+
+				Lineer Tartı Paket İçeriği:(isteğe bağlı uzunluk)
+
+				1 Adet x Lineer Kese
+				1 Adet x L plaka
+				1 Adet x Braket
+				1 Adet x Çanta vida
+
+Not:Dijital okuma ve doğrusal ölçeğin isteğe bağlı olduğunu lütfen unutmayın. Paket sadece bir tip içeriyordu.Kılavuzu kontrol etmek için buraya tıklayabilirsiniz.
+
+
+Daha fazla detay:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

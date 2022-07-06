@@ -1,0 +1,505 @@
+https://tr.banggood.com/ESCAM-PVR008-H_265-Auto-Tracking-PTZ-Pan-or-Tile-Camera-2MP-HD-1080P-Wireless-Night-Vision-IP-Camera-p-1569000.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+ESCAM PVR008 H.265 Otomatik İzleme PTZ Pan / Tile Kamera 2MP HD 1080P Kablosuz Gece Görüşü IP Kamera
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Click here to purchase the tuya version<<<Özellikleri :
+
+
+
+1.1080P Çözünürlük ve Hisilicon çip, Yüksek çözünürlüklü görüntü kalitesi
+
+2.H.265 Sıkıştırma, çok fazla iletim ve Depo maliyet tasarrufu sağladı
+
+3. Gece görüşünü destekleyin, IR mesafesi 10 metreye kadar 
+
+4. gürültü iptali ile yüksek kaliteli iki yönlü ses
+
+5. WiFi Bağlantısı ve AP Bağlantısını Destekleyin
+
+6. Hareket Algılama, İnsansı algılama ve Ses Algılama desteği
+
+7. 128 GB'a kadar mirco sd kart desteği
+
+8. Pan ve Tilt izleme desteği, Pan 355 ° + Eğim 120 °
+
+9. Çoklu Platform Desteği, Destek Uygulaması, PC istemcisi 
+
+10.APP push bildirimini destekleyin
+
+11. Onvif ve Rtsp protokolünü destekleyin.
+
+
+
+
+Şartname :
+
+
+
+
+
+
+
+
+
+
+
+
+Modeli
+
+ESCAM PVR008
+
+
+
+Kamera
+
+
+
+
+
+Sensör
+
+1 / 2,9 ”2 Megapiksel progresif kutu CMOS
+
+
+
+Elektronik Perde Hızı
+
+Otomatik / Manuel, 1/50 ~ 1 / 10000s 
+
+
+
+Minimum Aydınlatma
+
+Renk: 0.1Lux@F1.2, S / B: 0.01Lux@F1.2
+
+
+
+Odak Uzunluk
+
+3.6mm
+
+
+
+Bakış açısı
+
+75.7 °
+
+
+
+Fonksiyonlar
+
+
+
+
+
+P / T işlevi
+
+Pan: 355 °, Eğim: 120 °
+
+
+
+Gündüz / gece anahtarı
+
+10 adet IR led, IR mesafe 10m
+
+
+
+Beyaz dengesi
+
+Otomatik beyaz dengesi
+
+
+
+BLC
+
+BLC'yi destekleyin
+
+
+
+Dijital gürültü azaltma
+
+3D gürültü azaltmayı destekleyin
+
+
+
+WDR
+
+D-WDR desteği
+
+
+
+Gizlilik barınağı
+
+4 bölgeyi destekleyin
+
+
+
+OSD
+
+OSD ayarını destekleyin
+
+
+
+Video
+
+
+
+
+
+Sıkıştırma
+
+H.264 / H.265
+
+
+
+çözüm
+
+Genel Kullanım: 1080P (1920 * 1080), 720P (1280 * 720)
+
+
+
+Alt akış:D1 (704 * 576), 360P (640 * 360), CIF (352 * 288)
+
+
+
+Video kare hızı
+
+25fps (50HZ), 25fps (60HZ);
+
+
+
+Biterate
+
+135Kbps ~ 2048Kbps CBR / VBR ayarlanabilir
+
+
+
+Video ayarı
+
+parlaklık, doygunluk, renklilik ayarı
+
+
+
+Ağ
+
+
+
+
+
+Kablosuz
+
+WIFI 802.11b / g / n, 2.4G bandını destekleyin; AP modu
+
+
+
+IP türü
+
+Dinamik IP ve Statik IP
+
+
+
+Ağ sözleşmesi
+
+HTTP, TCP / IP, UPNP, RTSP, SMTP, NTP, DHCP, DNS, PPPOE, DDNS, FTP
+
+
+
+Erişim protokolü
+
+ONVIF 2.4 desteği
+
+
+
+Maksimum kullanıcı miktarı
+
+4
+
+
+
+Müşteri
+
+iPhone'lar, iPad'ler, Android,Windows PC
+
+
+
+Alarm
+
+
+
+
+
+Alarm algılama
+
+İnsansı algılama ve otomatik izleme, hareket algılama, ses algılama
+
+
+
+Alarm eylemi
+
+Alarm kaydı, alarm yakalama, E-posta ve FTP resim gönderme, APP itme
+
+
+
+Ses
+
+
+
+
+
+Ses girişi
+
+Dahili mikrofon
+
+
+
+Ses çıkışı
+
+Dahili hoparlör
+
+
+
+Arayüz
+
+
+
+
+
+TF kartı
+
+Maksimum 128 GB TF kartı (mikro SD) desteği
+
+
+
+Genel
+
+
+
+
+
+Güç kaynağı
+
+DC5V
+
+
+
+Güç tüketimi
+
+<6W
+
+
+
+Çalışma ortamı
+
+-10 ° C ~ + 50 ° C,% 10 ~% 85
+
+
+
+Boyut
+
+90mm * 80mm *105mm 
+
+
+
+Ağırlık
+
+0.19kg
+
+
+
+Paket Boyutu
+
+150mm * 140mm * 100mm 
+
+
+
+paket ağırlığı
+
+0.35kg
+
+
+
+Paket Listesi
+
+IP Kamera * 1, Güç adaptörü * 1, USB Kablosu * 1, Sıfırlama pimi * 1, Vidalar * 1, Manuel * 1
+
+
+
+
+
+
+Manuel: http://myosuploads3.banggood.com/products/20200113/20200113021337PVR008-20190815.pdf
+
+Paket içeriği:
+
+
+1 adet PVR008 IP Kamera
+	1 x USB Güç Adaptörü
+	1 x Mikro USB Şarj Kablosu
+	2 x Plastik genişleme
+	2 x Vidalar
+	1 x Hızlı başlangıç kılavuzu
+
+
+Detaylar resimler:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

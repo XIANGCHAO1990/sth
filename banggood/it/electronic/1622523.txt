@@ -1,0 +1,225 @@
+https://it.banggood.com/ALTERA-Cyclone-IV-EP4CE6-FPGA-Development-Board-Kit-Altera-EP4CE-NIOSII-FPGA-Board-and-USB-Downloader-Infrared-Controller-p-1622523.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+ALTERA Cyclone IV EP4CE6 FPGA Development Board Kit Altera EP4CE NIOSII FPGA Board e USB Downloader controller a infrarossi
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manuale: clicca qui per aprire>>>Manuale 1 <<<>>>Manuale 2 <<<>>>Manuale 3 <<<>>>Manuale 4 <<<>>>Manuale 5 <<<Caratteristiche:
+
+
+
+1. il chip principale del nuovo FPGA Cyclone IV serie EP4CE6E22C8N dell'azienda ALTERA
+
+2. Chip di configurazione seriale EPCS16N ad alta capacità integrato, supporta la modalità di download JTAG/AS due
+
+3. SDRAM integrata da 64 Mbit, supporto SOPC, sviluppo NIOSII
+
+4. Cristallo attivo a 50 MHz integrato, stabilità del sistema di clock principale
+
+5. Utilizzo del chip regolatore di tensione 1117-3,3 V, per fornire un'uscita di tensione di 3,3 V
+
+6. Utilizzo del chip regolatore di tensione 1117-1,2 V per fornire la tensione del core FPGA
+
+7. Utilizzo del chip regolatore di tensione 1117-2,5 V, per fornire un'uscita di tensione PLL
+
+8. Utilizzando un gran numero di condensatori di disaccoppiamento, design di disaccoppiamento
+
+9. 5V Presa di alimentazione CC e presa di alimentazione dell'interfaccia USB, due tipi di modalità di alimentazione
+
+10. 1 pulsante di ripristino, utilizzabile anche come pulsante di input dell'utente
+
+11. 1 interruttore di alimentazione a pulsante autobloccante
+
+12. 1 LED spia di alimentazione
+
+13. Tra tutte le interfacce IO, la spaziatura universale di 2,54 mm può essere facilmente estesa
+
+14. L'interfaccia di download JTAG per scaricare il file è .SOF, la velocità è veloce, si consiglia il solito uso di questa interfaccia
+
+15. L'interfaccia di download AS per scaricare il file è .POF, la velocità è lenta, è necessario utilizzare questa interfaccia durante il processo di polimerizzazione
+
+
+
+Interfaccia periferica:
+
+
+
+1. 4 chiavi indipendenti
+
+2. 4 LED diodi,
+
+3. 4 tubi digitali
+
+4. Interruttore a 4 quadranti
+
+5. 1 cicalino
+
+6. Interfaccia PS2
+
+7. Porta seriale RS232
+
+8. Presa 1*20 pin LCD, supporto LCD1602, LCD12864, TFT LCD
+
+9. Chip sensore di temperatura LM754A, per esperimento con termometro
+
+10. Resistenza regolabile di precisione, retroilluminazione regolabile LCD
+
+11. Interfaccia VGA, per esperimenti di visualizzazione
+
+12. I2C seriale EEPROMAT24C08, per esperimento bus IIC
+
+13. Modulo di ricezione a infrarossi
+
+
+
+Il pacchetto include:
+
+
+
+1 scheda madre
+
+1 downloader USB
+
+1 x remoto Controller
+
+1 cavo USB
+
+
+
+
+
+
+

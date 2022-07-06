@@ -1,0 +1,216 @@
+1012323
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/58/FC/80eba97c-e8c5-4b3a-82eb-f4b0cf97ac29.jpg
+Geekcreit® 12V 4CH Kanal 433Mhz Kablosuz Uzakdan Kumanda 2 Vericili Anahtar
+https://tr.banggood.com/Geekcreit-12V-4CH-Channel-433Mhz-Wireless-Remote-Control-Switch-With-2-Transmitter-p-1012323.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not: Daha fazla vericiye ihtiyacınız varsa, lütfen arayın 1018573
+Bu ürün herhangi bir talimat sağlamaz, lütfen açıklamaya bakın.
+Bu sürüm, kod kopyalama işlevini desteklemez, lütfen sipariş vermeden önce bunu not edin.
+
+Özellikleri:
+
+Bu bir Kablosuz Uzakdan Kumanda öğrenme kodu anahtarıdır (alıcı), çıkış yolu / çalışma şekli istediğiniz gibi değiştirilebilir, vericiye uyması kolaydır. Ekipmanın açılıp kapanmasını vb. Gerçekleştiren 4 Röle vardır. Hacim küçüktür ve performans istikrarlı ve güvenilirdir, yüksek alım hassasiyeti vardır.
+
+1. Otomatik kapı, pencere, kaldırma ekipmanı, giriş erişimi, yukarı ve aşağı kontrolör, alarm sistemi endüstriyel kontrol ve güvenlik gibi basit ev tipi uzaktan kumandadan otonom kontrole kadar çeşitli uygulamaları kapsar.
+2. Bu uzaktan kumandalar, bir kablosuz sinyal ile çok çeşitli elektronik cihazları kontrol etmek için tasarlanmıştır.
+3. Kurulumu ve kullanımı son derece kolaydır.
+4. 2262/2260/1527/2240 vb çip ve birkaç kodlu kablosuz uzaktan kumanda ile uyumludur. Böylece, birisinin kablosuz uzaktan kumandayı seçme ihtiyacını, onunla çalışmaktan hoşlandığı şekilde karşılayabilir.
+
+Talimatlar:
+
+1. Öğrenme koduna basın, gösterge yanıp söner, parmağınızı gevşetin, uzaktan kumandanın herhangi bir düğmesine basın, gösterge 2 kez yanıp söner ve kapanır, bu, başarılı bir şekilde öğrendiğiniz anlamına gelir.
+2. Farklı kodlu kablosuz uzaktan kumanda ile 12'den fazla adet 2262 veya 1527 çip öğrenebilir.
+3. kaldır / temizle: öğrenme düğmesine yaklaşık 8 saniye basın, gösterge kapanır, bu, sakladığınız bilgilerin başarıyla kaldırıldığı anlamına gelir.
+
+Çıkış çalışma yolu:
+
+1. Kendinden kilidi: JP1'i kesme kapağına bağlayın.
+2. Koşu: kesme Kep işgal dışıdır, JP1 ve JP2 de bağlanmaz.
+3. Inter-kilidi: Jp2'yi Kesme kapağına bağlayın,
+Koşu: bir düğmeye basın AÇIK, parmağınızı aynı düğmede gevşetin (bir kanal anahtarı ve bir düğme uzaktan kumanda gerekir).
+Kendinden kilitlenme: bir kez bir düğmeye basın AÇIK, aynı düğmeye tekrar basın KAPALI (bir kanal anahtarı ve bir düğme uzaktan kumanda gerekir).
+Inter-kilidi: bir düğmeye basın AÇIK, başka bir düğmeye basın KAPALI (bir kanal anahtarı ve 2 düğmeli uzaktan kumanda gerekir).
+
+Alıcı:
+
+1. Çalışma voltajı: DC12V
+2. Sakin durum: 6mA'dan az
+3. Çalışma sıcaklığı: -40 ° c + 80 ° c
+4. Alıcı hassasiyet: -105dBm'den fazla
+5. Çalışma frekansı: 433mhz
+6. Çıkış voltajı: DC ve AC isteğe bağlıdır
+7. Çıkış akımı: 3A'ten az
+8. Maksimum yük akımı: 10A
+9. Boyutlar: 72 x 52 x 26mm
+ 
+Uzaktan kumanda vericisi:
+
+1. Uzakdan Kumanda Mesafe: 200M
+2. Çalışma Gerilimi: DC 6V
+3. Frekans: 433mhz
+4. Çalışma Akımı: 13 mAh
+5. Kod Türü: Sabit kod / Öğrenme kodu
+6. Boyutlar: 58 x 39 x 14mm
+7. Kullanılan pil tipi: 2016 düğmeli pil
+
+Paket içeriği:
+
+2 x Verici
+1 x Alıcı
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

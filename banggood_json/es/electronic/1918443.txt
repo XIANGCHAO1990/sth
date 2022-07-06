@@ -1,0 +1,145 @@
+1918443
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/9D/88/849520e4-0bcb-4c82-9e31-03855eba01ef.jpg
+1090MHz Pasivo Banda Filtro de paso BPF ADS-B Definido por software Radio SDR
+https://es.banggood.com/1090MHz-Passive-Band-Pass-Filter-BPF-ADS-B-Software-Defined-Radio-SDR-p-1918443.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:Este filtro puede garantizar un ancho de banda de paso de banda de 25 MHz y una característica de corte pronunciada. La optimización del rendimiento del receptor ADS-B para 1090MHz puede filtrar eficazmente las señales fuera de banda, reducir el ruido y aumentar el rango dinámico.Especificación:Modelo: BFP-1090Impedancia: 50 ohmiosFrecuencia central: 1090 MHzBanda de paso (ancho de banda de 3 dB): 25 MHz (consulte el diagrama de respuesta de frecuencia medida para obtener más detalles)Ancho de banda: 25 MHzPérdida de interpolación de banda: <5dBPotencia máxima de transporte: 300 mW (27 dBTamaño del producto: 45 x 25 x 12 mmPeso del producto: 31 gramos.Paquete incluido:1 x filtro
+
+
+
+

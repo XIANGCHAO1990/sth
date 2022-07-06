@@ -1,0 +1,212 @@
+https://tr.banggood.com/DC-DC-8_5-48V-To-10-50V-10A-250W-Continuous-Adjustable-High-Power-Boost-Power-Module-Constant-Voltage-Constant-Current-Non-Isolation-Step-Up-Board-For-Vehicle-Laptop-Power-LED-Driver-p-1248941.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+DC-DC 8.5-48V 10-50V 10A 250W Sürekli Ayarlanabilir Yüksek Güç Arttırma Güç Modülü Sabit Voltaj Sabit Akım İzolasyonsuz Artırmak Kartı İçin Araç Laptop Gücü LED Sürücü
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Şartname:
+
+	Modül adı: 250W boost statik akım modülü
+
+	Modül özellikleri: izolasyonsuz destek modülü (BOOST)
+
+	Giriş voltajı: DC 8.5-48V
+
+	Giriş akımı: 10A (MAX), 8A'yı aşarsa, lütfen ısı dağılımını güçlendirin
+
+	Statik çalışma akımı: 10mA (12V 20V'ye kadar, çıkış voltajı ne kadar yüksekse, statik akım o kadar yüksek olur)
+
+	Çıkış voltajı: Gerekirse 10-50V sürekli ayarlanabilir (varsayılan çıkış 19V teslimat)
+
+	Çıkış akımı: 10A MAX, 6A'in üzerindeyse lütfen ısı dağılımını güçlendirin. (Giriş ve çıkış voltaj farkı ile ilgili olarak, voltaj farkı ne kadar büyükse, çıkış akımı o kadar küçük olur)
+
+	Sabit akım aralığı: 0.2-8A
+
+	Çıkış gücü = giriş voltajı * 10A, örneğin: giriş 12V * 5A = 60W, giriş 24V * 5A = 120W, giriş 36V * 5A = 180W, giriş 48V * 5A = 240W
+	Daha fazla güce ihtiyacınız varsa paralel olarak iki modül kullanabilirsiniz, örneğin iki modül ile paralel bağlanabilen 10A çıkışı gibi her modülün akımını 5A'ya aktarın.
+
+	Çalışma sıcaklığı: -40 - + 85 ℃ (lütfen ortam sıcaklığı çok yüksek olduğunda ısı dağılımını güçlendirin)
+
+	Çalışma frekansı: 150KHz
+
+	Dönüşüm verimliliği: maksimum% 96 (verimlilik, giriş / çıkış voltajı, akım, voltaj farkı ile ilgilidir)
+
+Aşırı akım koruması: evet (13A'dan fazla ise, çıkış voltajını otomatik olarak düşürür, belirli bir hata aralığı)
+
+Giriş ters bağlantı koruması: evet, (giriş dizisinde daha fazla ters bağlantı akımına ihtiyacınız varsa 5A'ten az)
+
+	Yükleme modu: 4 3mm vida deliği
+
+	Bağlantı modu: kablolama çıkışı
+
+	Modül boyutu: 69 x 35 mm
+
+Çıkış voltajı / akımı ayarlama yöntemi:
+
+	1. RV1 potansiyometresini akünüze veya LED'e göre ayarlayın, ihtiyacınız olan çıkış voltajını ayarlayın. Örneğin, 10 serisi LED voltajı 37V'u ayarlar.
+
+	2. RV2 potansiyometresini saat yönünde yaklaşık 30 kez çevirin ve minimum çıkış akımını ayarlayın, LED'i bağlayın ve ihtiyacınız olan akımı ayarlamak için RV2 potansiyometresini ayarlayın.
+
+Not: Kısa devrede lütfen akımı ayarlamayınız, boost modülünün devre yapısı kısa devrede ayarlanamaz.
+
+Uygulama kapsamı:
+
+	1. Kararlı bir güç kaynağı yapın, 12V girişi ve çıkış 12-50v olarak ayarlanabilir.
+
+	2. Elektronik ekipmanınız için Güç Kaynağı, sistem voltajınıza göre çıkış değerini ayarlayabilir.
+
+	3. Yerleşik güç kaynağı olarak dizüstü bilgisayarınız, PDA'nız veya çeşitli dijital ürünleriniz için Güç Kaynağı.
+
+	4. DIY, 12V kapasiteli büyük bir lityum pil paketine sahip büyük bir dizüstü bilgisayar mobil güç kaynağı, dizüstü bilgisayarınızı nereye giderse gitsin.
+
+	5. Stabilize edilmiş güneş panelleri.
+
+	6. Pili, lityum pili vb. Şarj edin.
+
+	7. Yüksek güçlü LED ışıkları sürün.
+
+Paket içeriği:
+
+	1 x Boost güç modülü
+
+
+
+
+
+
+
+
+

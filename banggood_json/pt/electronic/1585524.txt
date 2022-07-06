@@ -1,0 +1,263 @@
+1585524
+https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/5C/1D/b39ce39c-46f9-40eb-907f-f4dd85dbf682.jpg
+ZK-4KX CNC DC DC Buck Boost Conversor CC CV 0,5-30V Módulo de alimentação 4A Fonte de alimentação regulada ajustável para carregamento solar Bateria
+https://pt.banggood.com/ZK-4KX-CNC-DC-DC-Buck-Boost-Converter-CC-CV-0_5-30V-4A-Power-Module-Adjustable-Regulated-Power-Supply-for-Solar-Battery-Charging-p-1585524.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recursos:
+
+
+
+1. LCD pode exibir a tensão de entrada / saída, corrente de saída / potência de saída / capacidade de saída / tempo de saída;
+
+2. O ajuste CNC, preciso e rápido, pode aumentar e diminuir a tensão, a tensão de saída pode ser ajustada à vontade de 0,5-30v, a corrente limite 0-4a pode ser ajustada à vontade;
+
+3. Proteção de conexão anti-reversa da extremidade de entrada, que não queimará;
+
+4. Irrigação anti-reversa na saída, nenhum diodo de irrigação anti-reversa adicional é necessário para carregar a bateria;
+
+5. O módulo pode ser configurado para abrir / fechar por padrão;
+
+6. Vários mecanismos de proteção de software estão disponíveis e o limite de proteção é ajustável. Quando os parâmetros de trabalho do módulo excedem o limite de proteção, a saída será fechada automaticamente.
+
+7. A ondulação de saída é pequena e o filtro PI está disponível;
+
+8. Engrossar as aletas do radiador.
+
+
+
+Especificações:
+
+
+
+Tensão de entrada: 5,0-30v
+
+Tensão de saída: 0,5-30v
+
+Corrente de saída: pode trabalhar de forma estável em 3A por um longo tempo e pode chegar a 4A sob dissipação de calor aprimorada
+
+Potência de saída: dissipação de calor natural 35W, reforça a dissipação de calor 50W
+
+Resolução da tela de tensão: 0,01V
+
+Resolução atual da tela: 0,001A
+
+Eficiência de conversão: cerca de 88%
+
+Soft start: yes (com alta potência e módulo de carga pode falhar ao iniciar)
+
+Mecanismo de proteção:
+
+Conexão anti-reversa de entrada;
+
+Saída de irrigação anti-reversa;
+
+Proteção de subtensão de entrada (4,8-30 V ajustável, padrão 4,8 V)
+
+Proteção contra sobretensão de saída (0,5-31 V ajustável, padrão 31 V)
+
+Proteção de sobrecorrente de saída 0-4.1a (ajustável, padrão 4.1a)
+
+Proteção de sobretensão (0-50w ajustável, padrão 50W)
+
+Proteção contra superaquecimento (80-110 ℃ ajustável, padrão 110 ℃)
+
+Proteção de tempo limite (0-100h ajustável, desligado por padrão)
+
+Proteção de supercapacidade (0-60ah ajustável, desligado por padrão)
+
+Frequência operacional: 180KHZ 
+
+Dimensões: 79 mm x 43 mm x 26 mm
+
+
+
+Método de uso:
+
+
+
+1. Alterne os parâmetros de exibição - na interface normal, pressione SW para alternar a exibição abaixo da tela de exibição e alterne o conteúdo da exibição entre a potência A atual, capacidade W Ah tempo h. Pressione longamente o botão SW para alternar a exibição do uplink no visor tela e alternar o conteúdo de exibição entre a tensão de entrada IN e a tensão de saída OUT.
+
+2. Defina a tensão de saída - pressione o botão U / I na interface normal para entrar na interface de configuração da corrente constante de tensão. Pode ser visto que um determinado dígito do valor da tensão de saída está piscando. Gire o codificador para a esquerda e para a direita para ajustar o principal e o secundário. Pressione rapidamente o codificador rotativo para escolher qual bit de tensão de saída definir. Após a configuração, pressione o botão U / I 2 vezes para retornar à interface normal. Ou retorne automaticamente ao interface normal após interromper a operação por 10s.
+
+3. Defina o valor de corrente constante (ou seja, o valor de corrente máximo permitido para saída pelo módulo) - pressione o botão U / I na interface normal para entrar na configuração da interface de corrente constante de tensão. Em seguida, pressione o botão U / I e mude para definir o valor atual constante. Você pode ver um pouco do valor atual constante de configuração piscando. Gire o codificador giratório para a esquerda e para a direita para ajustar o principal e o secundário. Pressione o codificador giratório para escolher qual bit definir o valor da corrente constante. Após a configuração, pressione U / I para sair da interface de corrente constante de tensão de configuração e retornar ao normal interface.Ou retorna automaticamente à interface normal após interromper a operação por 10s.
+
+4. Defina o estado padrão ligado / desligado para ligar o módulo - pressione longamente U / I na interface normal para entrar na interface de configuração de parâmetros. Você pode ver que mostra "OPEN OFF" ou "OPEN ON". "ABRIR DESLIGADO" significa que a saída é DESLIGADA por padrão quando a energia está LIGADA, e "ABRIR LIGADA" significa que a saída é LIGADA por padrão quando a energia está LIGADA. Pressione longamente e gire o codificador para alternar dois estados. / I para retornar à interface normal.
+
+5. Definição dos parâmetros de proteção no estado e limite - pressione longamente U / I para entrar na interface de definição de parâmetros na interface normal. Pressione SW até que a proteção desejada apareça. LUP - limite de proteção de subtensão; OUP - limite de proteção de sobretensão ; OCP - limite de proteção de sobrecorrente; OPP - limite de proteção de excesso de potência; OAP - limite de proteção de ultra-capacidade; limite de proteção de tempo limite de OHP; OTP - limite de proteção de sobretemperatura. Pressione girar encoder para selecionar qual bit deseja definir. parâmetro de proteção. Pressione longamente o codificador rotativo para definir os parâmetros de proteção ligado ou desligado (apenas a proteção de tempo limite e a proteção de supercapacidade podem ser definidas para ligar / desligar, e outros parâmetros de proteção são ligados por padrão.). Gire o codificador para a esquerda e para a direita. para tornar os parâmetros maiores e menores. Após a configuração, pressione longamente U / I para retornar à interface normal.
+
+6. Tensão e corrente de calibração - pressione o botão U / I para entrar na interface de configuração de parâmetro na interface normal. Pressione SW até que uma interface de parâmetro com CAL apareça. A interface de tensão de entrada de calibração com o símbolo CAL + IN + V; A saída de calibração interface de tensão com o símbolo CAL + OUT + V; A interface de corrente de saída de calibração com o símbolo CAL + OUT + A. Gire o codificador para a esquerda e para a direita para ajustar o tamanho dos parâmetros. Após a conclusão do ajuste, pressione longamente o codificador rotativo para confirme se o ajuste foi concluído e o valor do parâmetro não está mais piscando. Pressione longamente U / I para retornar à interface normal. 
+
+Nota: para garantir a precisão da calibração, a tensão de calibração - acima de 12 V só pode ser iniciada; Corrente de calibração - inicie a calibração apenas quando a corrente estiver acima de 1A.
+
+
+
+Pontas:
+
+
+
+1. A conexão curta entre a entrada IN e a saída OUT do módulo é proibida, ou a função de corrente constante falhará.
+
+2. Certifique-se de que o momento de potência da fonte de alimentação excede a potência necessária da carga de saída!
+
+3. Se o módulo deseja saída com carga total, a tensão de entrada deve estar acima de 8V. Quando a tensão de entrada é 5 V, a potência de saída é de cerca de 15 W. O valor máximo da corrente do módulo é 4 A, sujeito à potência de saída máxima, como 17 V, a corrente não deve ser maior que 2 A.
+
+4. Quando este módulo é usado acima de 3A e 35W, por favor, fortaleça a dissipação de calor !!!
+
+5. O módulo tem função de proteção de subtensão de entrada, que é cerca de 4,8 V por padrão (pode ser configurada), e a saída será desconectada automaticamente após o valor ser inferior a este valor (observe que a tensão na porta do módulo é inferior do que o limite de proteção de subtensão, e quando a corrente de entrada é relativamente grande, não ignore a tensão parcial no fio de entrada).
+
+
+
+Incluído no Pacote:
+
+
+
+1 x ZK-4KX CNC DC DC Buck Boost Converter CC CV 0,5-30V Módulo de alimentação 4A
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,208 @@
+https://tr.banggood.com/Geekcreit-Assembled-Geiger-Counter-Module-Miller-Tube-GM-Tube-Nuclear-Radiation-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1136883.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit Montajlı Geiger Sayaç Modülü Miller Tüp GM Tüp Arduino için Nükleer Radyasyon Geekcreit - resmi Arduino panolarla çalışan ürünler
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanım:
+
+İsim: Radyasyon sistemi
+Geiger tüp parametreleri:
+Teknik parametreler çapı:Φ10±0.5mm
+Toplam uzunluk: 90±2mm
+Başlangıç voltajı: < 350V
+Önerilen çalışma voltajı: 380V
+Minimum plato uzunluğu: 80V
+Maksimum plato eğimi: %10/80V
+Aşırı çalışma voltajı: 550V
+Maksimum sayım oranı: 25 kez / dak
+Ömür: > 1 x 10^9 darbe
+Orta sıcaklık: -40 ~ 55 ℃
+Boyut:108x63x20mm
+bilgi: buraya tıklayın!
+
+Özellikler:
+
+1) 5V güç kaynağı veya 1.5V 3x pil; 1.2V 4x pil, akım: 30mA - 12mA
+2) 20mR/h ~ 120mR/h gama ışınlarının tespiti ve 100 ~ 1800 kapalı
+yumuşak beta ışınının değişkenleri / noktaları / cm2'si.
+3) sesli ve ışıklı alarm
+4) çıkış arayüzünü kesintiye uğratın, bu arayüz aracılığıyla
+mikrodenetleyici ve ardından LCD'de görüntülenir.
+5) Arduino uyumlu
+6) Geiger tüpünün çoğunu destekler: M4011, STS-5, SBM20, J305, vb.
+Geiger tüpünün 330~600V çalışma voltajı desteklenebilir).
+7) bilgisayar (PC) veri toplama, Matlab analizi ve işlemeyi desteklemek
+
+Nükleer radyasyon çalışmasının tespiti (aşağıdaki bağlantıyı tarayıcıya Saat'e kopyalayın):
+Http://v.youku.com/v_show/id_XNzI3MTU2NzQ0.html
+
+Videoyu kaydetmek için Geiger sayacımızı kullanan müşteriler:
+Http://v.youku.com/v_show/id_XOTE4ODIyNTIw.html
+
+İle uyumlu :
+(tavsiye edilen UNO R3 veya 5V ve harici kesme INT ile herhangi bir başka keyfi)
+İnternet indirilebilir: Radyasyon Kaydedici için SPI örneği
+Logger Radyasyon, radyasyon izleme istasyonu oluşturmak için ana bilgisayar yazılımı olarak kullanılabilir.
+
+Paket içeriği:
+
+1 x Montajlı Radyasyon sistemi
+1 x GM Tüp
+1 x Güç Kaynağı kablo
+1 x Batarya Tutucu (pilsiz)
+3 x Jumper Tel
+4 x Nuts
+1 x Akrilik kapak
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,,
+
+

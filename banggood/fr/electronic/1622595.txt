@@ -1,0 +1,404 @@
+https://fr.banggood.com/Hiseeu-4K-8MP-POE-NVR-8CH-Audio-ONVIF-H_265-Surveillance-Security-Video-Recorder-for-POE-IP-1080P-4MP-5MP-8MP-Camera-p-1622595.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Hiseeu 4K 8MP POE NVR 8CH l&#39;audio ONVIF H.265 enregistreur vidéo de sécurité de Surveillance pour POE IP 1080P 4MP 5MP 8MP caméra
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques :
+
+
+Prend en charge jusqu'à 8 caméras IP 8MP/4K, 8 canaux Pouvoir Over Ethernet
+	Prise en charge Onvif.
+	Compatible avec les caméras IP Dahua/Hikvision/Hiseeu POE conformes à onvif.
+
+	Simplifiez l'installation du POE.
+	Pouvoir over Ethernet signifie que les caméras IP se connectent au NVR avec un seul câble qui transmet à la fois les données et l'alimentation, pas besoin de connecter le câble d'alimentation, moins de risque de fuite électrique et facile à installer. Cela a littéralement simplifié l'installation et réduit les coûts.
+	Économisez plus d'espace de stockage et obtenez un flux plus fluide par H.265.
+	La technologie de compression avancée H.265 vous permet d'économiser de l'espace de stockage, ce qui permet des temps d'enregistrement plus longs. La technologie H.265 compresse votre vidéo sans sacrifier la qualité vidéo UltraHD.
+
+	Prend en charge les disques durs jusqu'à 6 To, l'enregistrement continu et la protection 24h/24 et 7j/7 (le disque dur n'est pas inclus).
+	Une télécommande externe est disponible.
+	Lors de la connexion du système de caméra CCTV Hiseeu 4K POE à l'écran, une télécommande externe peut remplacer la souris pour fonctionner.
+
+	Alertes de mouvement instantanées.
+	Une fois qu'il a détecté des objets en mouvement et déclenché des alertes en cas de danger, le système de vidéosurveillance poe Hiseeu 4k vous informera instantanément en envoyant des messages ou en envoyant des e-mails.
+	Lecture et affichage en direct dans une résolution jusqu'à 8MP/4K @ 15fps en temps réel.
+	Télécommande pour voir n'importe où, n'importe quand par Smartphone, Pad/PC.
+
+	Où que vous soyez, vous pouvez accéder à distance au système de vidéosurveillance POE Hiseeu 4K pour voir la diffusion en direct et rester connecté.
+	Résolution Ultra HD 4K
+	NVR POE 8CH 4K.
+	Prend en charge les caméras IP POE 720p/1080p/3MP/4MP/5MP/8MP/4K.
+	Plusieurs langues sont disponibles.
+	Le Hiseeu 4K POE NVR est affiché par défaut en anglais, il permet de basculer vers le russe, l'espagnol, le français, le portugais, etc.
+
+
+Spécification :
+
+
+
+
+
+
+spécification
+
+H.265 8CH POE NVR ONVIF
+
+
+
+Système
+
+Processeur principal
+
+Microprocesseur intégré de qualité technique
+
+
+
+Système opérateur
+
+Système d'exploitation LINUX embarqué
+
+
+
+Ressource système
+
+Enregistrement en temps réel multicanal synchrone, lecture en temps réel multicanal, fonctionnement en réseau multi-utilisateur multicanal, sauvegarde USB.
+
+
+
+Interface
+
+Interface de fonctionnement
+
+L'interface graphique couleur réelle 16 bits prend en charge le fonctionnement de la souris
+
+
+
+Aperçu
+
+1/4/8
+
+
+
+Vidéo
+
+Norme vidéo
+
+COPAIN; NTSC
+
+
+
+Encodage d'image
+
+H.265
+
+
+
+Qualité du moniteur
+
+VGA, HDMI : haute définition
+
+
+
+Entrée vidéo
+
+Caméra IP 8*4K
+
+
+
+Détection de mouvement
+
+Prise en charge (dépend de la caméra)
+
+
+
+l'audio
+
+Compression audio
+
+G.711A
+
+
+
+Interphone
+
+Oui
+
+
+
+Enregistrement et lecture
+
+Mode d'enregistrement
+
+manuel> alarme> détection de mouvement> synchronisation
+
+
+
+Lecture locale
+
+4K
+
+
+
+Recherche vidéo
+
+Heure, date, événement, recherche de chaîne
+
+
+
+Stockage et sauvegarde
+
+Stockage vidéo
+
+Disque dur local, réseau
+
+
+
+Mode de sauvegarde
+
+Sauvegarde réseau, disque dur portable USB, port USB, port SATA
+
+
+
+Interface
+
+Entrée vidéo (BNC)
+
+N / A
+
+
+
+Sortie vidéo
+
+Sortie 1ch VGA, 1ch HDMI HD
+
+
+
+Sortie de boucle
+
+N / A
+
+
+
+Sortie audio
+
+Port de sortie audio 3,5 mm
+
+
+
+E/S d'alarme
+
+NON
+
+
+
+Port réseau
+
+1 * port Ethernet auto-adaptatif RJ45 1000M; 8 * ports POE prennent en charge l'alimentation poe
+
+
+
+Télécommande pour PC/ordinateur portable
+
+Prend en charge le Web, PC Client "VMS" ; Application gratuite iPhone/Andriod/Pad "Danale"
+
+
+
+port USB
+
+3 * port USB2.0, deux pour la souris, l'autre pour le disque usb
+
+
+
+Port disque dur
+
+1 ports SATA, prise en charge maximale de 6 To (disque dur en option)
+
+
+
+Autre
+
+Pouvoir
+
+48V/3A
+
+
+
+ONVIF
+
+Prend en charge ONVIF, accède à un tiers
+
+
+
+Température
+
+-25°C à 50°C (-13° à 122°)
+
+
+
+Humidité
+
+10%-90%
+
+
+
+Dimension
+
+L*W*H : 252mm * 230mm * 40mm
+
+
+
+
+
+
+Le forfait comprend :
+
+
+1 NVR POE 8CH 4K
+		1 télécommande
+		1 souris USB
+		1 manuel d'utilisation
+		1 x alimentation 48V/3A (prise UE)
+
+***Le disque dur n'est pas inclus***
+
+
+Photos de détails :
+
+
+
+
+

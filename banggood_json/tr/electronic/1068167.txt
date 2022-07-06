@@ -1,0 +1,176 @@
+1068167
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/3D/C3/15b33a69-e38a-4834-8bfb-2af915689146.jpg
+0.95 İnç 7pin Tam Renkli 65K Renkli SSD1331 SPI OLED Ekran
+https://tr.banggood.com/0_95-Inch-7pin-Full-Color-65K-Color-SSD1331-SPI-OLED-Display-p-1068167.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File download: Click to open
+
+Özellik:
+
+Boyut: 0.95 inch
+Çözüm: 96 * 64
+Sürücü IC: SSD1331
+Renk: 65536 renk
+Arayüz: SPI arabirimi
+PIN NO: 7Pin
+Gerilim: 3.3V - 5V
+
+Pim açıklaması:
+
+GND: Güç toprağı
+VCC: 2.8-5.5V güç kaynağı
+D0: CLK saati
+D1: MOSI verileri
+RST: Sıfırla
+DC: Veri / komut
+CS: Chip-select sinyali
+
+Paket içerir:
+
+1 x 0.95 İnç 7pin OLED
+
+
+
+
+
+
+
+
+,,
+
+

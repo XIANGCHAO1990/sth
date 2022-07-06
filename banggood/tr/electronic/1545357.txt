@@ -1,0 +1,244 @@
+https://tr.banggood.com/HackRF-One-1MHz-to-6GHz-USB-Open-Source-Software-Radio-Platform-SDR-RTL-Development-Board-Reception-of-Signals-p-1545357.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+HackRF One 1MHz - 6GHz USB Açık Kaynak Yazılımı Radyo Platform SDR RTL Geliştirme Kurulu Sinyallerin Alınması
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ihtiyacınız varsa PortaPack H1, lütfen Ürün Kimliğini satın alın: 1545380
+HackRF One Siyah versiyon Ürün kimliği: 1546421
+
+TXCO: Ürün Kimliği 1153700
+
+
+Ortak sorun:
+
+
+
+S. Bilgisayar makineyi bulamıyor. / USB tanınmadı.
+
+C: Ürün yazılımı kurulumu gerektirir. Bellenimi yükledikten sonra bellenim hala çalışmıyorsa, bellenimi yeniden yükleyebilirsiniz.
+
+Bellenim: http://myosuploads3.banggood.com/products/20200116/20200116013405PortapackFirmwareTool.rar
+
+Diğer dosyalar: 
+
+https://greatscottgadgets.com/sdr/ 
+https://github.com/mossmann/hackrf/wiki
+
+Özellikler:
+
+
+
+- 1 MHz ila 6 GHz çalışma frekansı
+
+- Yarım çift yönlü alıcı-verici
+
+- Saniyede 20 milyon örneğe kadar
+
+- 8 bit kareleme örnekleri (8 bit I ve 8 bit Q)
+
+- GNU Radyo, SDR# ve daha fazlasıyla uyumlu
+
+- Yazılımla yapılandırılabilen RX ve TX kazancı ve temel bant filtresi
+
+- Yazılım kontrollü anten bağlantı noktası gücü (3,3 V'ta 50 mA)
+
+- SMA dişi anten konektörü
+
+- Senkronizasyon için SMA dişi saat girişi ve çıkışı
+
+- Programlama için uygun düğmeler
+
+- Genişletme için dahili pin başlıkları
+
+- Yüksek Hızlı USB 2.0
+
+- USB ile çalışır
+
+- Açık kaynaklı donanım   
+
+
+
+parametreler:
+
+
+
+- Frekans bandı: 1MHz-6Ghz
+
+- Veri bant genişliği: 20MHz
+
+- Örnekleme doğruluğu (ADC/DAC): 8BIT
+
+- Örnekleme hızı (ADC/DAC): 20Mbps
+
+- Arayüz: USB2.0
+
+- Açık kaynak
+
+- Maksimum iletim gücü: 10dbm
+
+- 64QAM ileten EVM: %1,5
+
+- Karmaşık örnekleme bant genişliği: 20Mhz
+
+
+
+Donanım:
+
+
+
+- Mikser RFFC5072: 80MHz-4200MHz
+
+- Kablosuz bant genişliği RF alıcı-verici MAX2837: 2.3Ghz-2.7Ghz
+
+- İşlemci LPC4330: Ana frekans 204MHz
+
+- Amplifikatör MGA-81563: 0.1-6Ghz, 3V, 14dbm
+
+
+
+Paket şunları içerir:
+
+
+
+1 x HackRF One kurulu 
+
+1 x USB Kablosu
+
+
+
+
+

@@ -1,0 +1,145 @@
+1228045
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/EA/44/f15bfadb-d9b8-4dfb-a64b-33d9681bb4ae.jpeg
+Mega 2560 R3 ATmega2560-16AU Placa de desenvolvimento sem cabo USB Geekcreit para Arduino - produtos que funcionam com placas Arduino oficiais
+https://pt.banggood.com/Mega-2560-R3-ATmega2560-16AU-Development-Board-Without-USB-Cable-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1228045.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:   This is  compatible R3 Mega2560 ATmega2560-16AU control board without USB cable and unsolder Pin header.   Mega é uma placa de desenvolvimento de microcontrolador de núcleo ATmega2560 com 54 grupos de terminais de entrada / saída de E / S digital  (14 groups do PWM outputs), 16 sets of simulation than the input side, group 4 UARTs (hardware serial ports),  usando o oscilador de cristal de 16 MHz. Com o bootloader, baixe o programa diretamente via USB sem ter que  go through other external writer. Supply part of the optional USB power, or as an external power using the AC-to-DC adapter and battery.  Crescimento rápido devido à abertura do código original, bem como ao conceito de uso da linguagem C Java (plataforma cruzada)  development environment for  peripheral module. The main reason attracted Artist  can quickly  usar a linguagem com Flash ou Processing ... software de comunicação, para fazer trabalhos interativos multimídia.   development IDE interface is based on open-source principles, allows you to free download for use in project work,  ensino escolar, controle motor, trabalhos interativos.  Power supply design  Existem duas opções para o sistema de fonte de alimentação da fonte de alimentação direta USB Mega ou fonte de alimentação externa.  The choice of power supply will be switched automatically. External supply AC-to-DC adapter or the battery can be selected  neste painel de controle. Limite a faixa de tensão de 6V ~ ~ 12V, mas se a tensão fornecida for inferior a 6V, a porta de E / S pode não ser  supplied to a voltage of 5V, and therefore instability; If the voltage is greater than 12V, the regulator device may possibly  proteção contra superaquecimento, são mais propensos a danificar o MEGA. Portanto, recomenda-se a alimentação operacional de 6,5 ~ 12V,  the recommended power supply to 7.5V or 9V.  A placa de desenvolvimento foi rigorosamente testada em cada produto na fábrica antes de gravar um pequeno programa Blink,  please get the goods energized inspection under the L lamp will be lit for 3 seconds and then off for 1 second,  ciclo contínuo para a detecção da placa é boa ou ruim.  Its chip is  original.  Especificação:   Microcontroller: ATmega2560  Tensão operacional: 5V  Input voltage (recommended): 7-12V  Tensão de entrada (limites): 6-20V  Digital I / O pins: 54 (of which 14 provide PWM output)  Pinos de entrada analógica: 16  DC current per I / O pin: 40 mA  Corrente DC para 3,3 V Pin: 50 mA  Flash Memory: 256 KB of which 4 KB used by bootloader  SRAM: 8 KB  EEPROM: 4 KB  Velocidade do relógio: 16 MHz  Incluído no Pacote:   1 x Mega 2560 R3 ATmega2560-16AU Placa de desenvolvimento   
+
+
+
+

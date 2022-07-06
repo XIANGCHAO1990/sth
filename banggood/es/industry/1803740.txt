@@ -1,0 +1,143 @@
+https://es.banggood.com/Fanensheng-Upgraded-3018-Pro-CNC-Engraver-DIY-3Axis-GRBL-Woodworking-Engraving-Machine-Wood-Router-Cutter-p-1803740.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+Fan&#39;ensheng actualizado 3018 Pro CNC grabador DIY 3 ejes GRBL máquina de grabado para carpintería cortador de enrutador de madera
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Característica:1. Diseñado para CNC: Una gran herramienta para CNC de entrada. Capaz de grabar texto en materiales diarios fácilmente. Ideal para aquellos que estén interesados en CNC, ya que lo ayuda a grabar el modelo de manera eficiente.2. Control GRBL: El último sistema de control es diferente de otros sistemas de control antiguos que ya no se actualizaron. Sin necesidad de accesorios adicionales. Simplemente convierta su computadora en una máquina CNC.3. Compatible con diferentes módulos láser de 2500mW, 5500mW, 7000mW, 10000mW (láseres no incluidos), más que una máquina de grabado, sino también una grabador de láser.(Ahora recomendamos el módulo láser (módulo azul Láser de 2500 mW) producido por el fabricante original: ID: 1386316）4. Amplia aplicación: Con manuales y software adecuados para tallar madera, plástico, acrílico, PCB CCL, metal blando como el cobre y el aluminio y otros materiales, una gran herramienta para los amantes del CNC.5. Sistema operativo compatible: Windows XP, Windows 7 32/64 bits, Windows 8, Windows 106. Brocas: Punta 0,2 mm, 20 grados, Diámetro 3,175 mmCaracterística:1. Admite firmware GRBL y benbox. Compatible con máquina CNC de 3 ejes grabado del láser.2. La longitud del trazo no se limita a 30x18 y 24x18, puede estar configurando otra longitud. Configure el trazo en el comando.Por ejemplo3018, configure el trazo en el comando, 30 cm de largo y 18 cm de ancho;2418, configure el trazo XY en el comando, longitud 24 cm, ancho 18 cm.Especificación de la máquina:Estilo3018 PRO MDimensiones del producto10,9 x 16,7 x 10,9 cmÁrea de grabado efectiva300 x 180 x 45 mm (11,8 x 7,1 x 1,8”)Peso del artículo6 kgMaterialMetalPaso motor1,3 A, 12 V, par de 0.25 Nm (2,2 in-lb)Potencia nominal60WPoder maximo120WRopa suaveSistemas de control GRBL/ Sistemas de control LasergrblEspecificación del controlador:Cable USB longitud20cmfirmware    GRBL 08, 09, 1.1 y así sucesivamente Voltaje de entradaCC 7V- 36VEnrutador CNC aplicable  Enrutador CNC de 3 ejes 1610; 2418; 3018                     Instrucción:Tablero de control GRBL de 3 ejesSeñal de salida:1: Ventilador: Usado para enfriamiento del motor del eje2: Eje: conecte el eje del motor, mantenga el mismo voltaje de la fuente de alimentación, electricidad 5A, si la potencia del motor del eje es alta, puede conectar relés externos como el interruptor. Código G M3 abierto, M5 cerrado, con la versión 0,9 del firmware puede ajustar PWM, lograr la velocidad del eje que gobierna y el láser sintonizable3: Salida de señal del motor del eje X, corriente eléctrica A4988 max 1.5A4: Salida de señal del motor del eje Y, corriente eléctrica A4988 max 1.5A5: salida de señal del motor del eje Z, corriente eléctrica A4988 max 1.5ASeñal de entrada:1: límite mínimo del eje X X-2: Límite mínimo del eje Y Y-3: límite mínimo del eje Z Z-4: Botón de reinicio: presione el botón, el sistema se reiniciará, se puede usar para detener la máquina con urgenciaPaquete incluido:1 juego completo de máquina de grabado de madera (entrega sin montar)1 placa de control GRBL de 3 ejes.1 cable USB.1 x cable para conexión de husillo(Se incluyen el motor del husillo, la placa de control, el conjunto ZA xis, los motores paso a paso y otras piezas de ensamblaje).Instrucciones y software: instrucciones de montaje, software de control y más información, por favor HAGA CLIC AQUÍ 
+
+
+
+

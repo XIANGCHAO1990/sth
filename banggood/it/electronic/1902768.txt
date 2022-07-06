@@ -1,0 +1,448 @@
+https://it.banggood.com/GTMEDIA-V8-Finder-Pro-Satellite-Signal-Finder-DVB-S2X-S2-S-T2-T-C-ATSC-C-H_265-Support-Youtube-Auto-Calculate-Angle-of-AZ-EL-VCM-ACM-p-1902768.html?cur_warehouse=CN&ID=43101&rmmds=CategoryElectronicsPop
+GTMEDIA V8 Finder Pro Satellite Signal Finder DVB-S2X S2 S T2 TC ATSC-C H.265 Supporto Youtube Calcola automaticamente l&#39;angolo di AZ EL VCM ACM
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifiche:
+
+
+
+Caratteristiche principali:
+
+
+4.3 Pollici Alta definizione TFT LCD Schermo
+
+
+Completamente compatibile con DVB-S2X/S2/S/T2/T/C, MPEG-2/MPEG-4
+
+
+Supporta la decodifica hardware H.264/H.265 (10 bit)
+
+
+Dispositivo di misurazione digitale per la potenza e la qualità del segnale. Supporta la preimpostazione di tutte le informazioni satellitari
+
+
+Supporta la ricerca in loop
+
+
+Analizzatore di spettro
+
+
+Supporta la scansione di Auto, Blind, Manual o NIT
+
+
+Suono per segnale di blocco
+
+
+Calcola automaticamente l'angolo di AZ,EL
+
+
+Supporta DISEQC 1.0/1.1/1.2, Unicable, tono 0/22kHz
+
+
+Altoparlante integrato
+
+
+Supporta sia l'uscita AV che l'ingresso AV
+
+
+Supporta entrambe le uscite HDMI 
+
+
+Supporta l'ingresso della telecamera AHD
+
+
+Supporta la funzione bussola
+
+
+Supporta la visualizzazione della potenza in tempo reale, con promemoria di bassa potenza
+
+
+Supporta Youtube per Wi-Fi USB 2.4G
+
+
+Protezione corta LNB
+
+
+7.4V/4000mAh Li-ion Batteria Incluso
+
+
+Aggiornamento software tramite porta USB
+
+
+Facile da trasportare
+
+
+Specifiche:
+
+
+STANDARD DI TRASMISSIONE: DVB-S2X/S2/S,DVB-T2/T, DVB-C/ATSC-C, MPEG-2, MPEG-4, H.264/H.265 (10 bit)
+
+
+Supporta softcam: rollio automatico BISS, rollio automatico PowerVu, TNT(19.2E)
+
+
+Supporta VCM, ACM, multi-stream, T2MI, Multi-PLP
+
+
+Supporta IKS: per CCCAM, NEWCAM, MGCAM
+
+
+INGRESSO SATELLITARE/DEMODULAZIONE
+
+
+Connettore Tipo
+FTipo
+
+
+Frequenza di ingresso
+Da 950 a 2150 MHz
+
+
+Livello di ingresso del segnale
+‐65 to ‐25 dBm
+
+
+Controllo del cambio di banda
+22KHz
+
+
+Alimentazione LNB 
+13V/18V, massimo 350mA
+
+
+Demodulazione Tipo
+DVB-S2 QPSK, DVB-S2 QPSK/8PSK/16APSK/32APSK, DVB-S2X QPSK/8PSK/16APSK/32APSK/64APSK
+
+
+Tasso di simboli
+2<Rs<45 Mband (SCPC/MCPC)
+
+
+INGRESSO/DEMODULAZIONE DVB-T2/T/Cavo
+
+
+Connettore Tipo
+Femmina Tipo
+
+
+Frequenza di ingresso
+Da 48 a 862 MHz
+
+
+Livello di ingresso del segnale
+‐80 dBm(MAX)
+
+
+Fornitura ANT
+5 V CC a 120 mA MAX
+
+
+Demodulazione Tipo
+QPSK, 16QAM, 32QAM, 64QAM, 128QAM, 256QAM
+
+
+CARATTERISTICHE LCD
+
+
+LCD Tipo
+Trasmissivo TFT
+
+
+Numero di punti
+800 RGB(O) x 480(V)
+
+
+Active area (L*H)
+95.04 x 53.86mm
+
+
+Interfaccia di uscita AV
+
+
+Connettore Tipo
+3.5 mm jack
+
+
+Uscita video
+CVBS
+
+
+Uscita audio
+Uscita audio stereo L/R
+
+
+Connettore di uscita HDMI
+
+
+Formato
+HDMI 1.3a
+
+
+Interfaccia di ingresso AV
+
+
+Connettore Tipo
+3.5 mm jack
+
+
+Ingresso video
+CVBS
+
+
+Ingresso audio
+Ingresso audio stereo L/R
+
+
+Interfaccia di ingresso AHD
+
+
+Connettore Tipo
+BNC femmina 
+
+
+Impedenza
+75Ω
+
+
+Intervallo di frequenze
+DC～2GHz
+
+
+Supporto ingresso video
+NTSC/PAL, 720P/1080P
+
+
+ELABORAZIONE AUDIO/VIDEO
+
+
+Videodecompressione
+MPEG-2 MP@HL, decodifica MPEG-1, risoluzione MPEG-4 ASP@l5 HD, H.264 / H.265 MP&HP@L4, decodificatore HW JPEG
+
+
+Tasso di risoluzione
+PAL-25 frame@7200*576, NTSC-30 frame@720*480
+
+
+Compatibilità segnale
+Supporta la conversione per diversi formati video
+
+
+Formatoo video
+Conversione 4:3, 16:9, Pan & Scan e Letter Scatola
+
+
+Decompressione audio
+MPEG-1 Strato I/II, MPEG-2 Strato I/II
+
+
+Modalità di uscita audio
+Stereo, Mono, R/L
+
+
+PORTA SERVIZIO DATI
+
+
+conettore 
+USB 
+
+
+Protocollo dati
+Interfaccia USB 2.0
+
+
+Sistema di gestione dei file
+NTFS, FAT32, FAT16
+
+
+Formatoo del file
+Supporti: TS, mkv, mp4, avi, flv, f4v, ts, m2ts, mov, 3gpAudio: wma,mp3Foto: jpg, jpeg, bmp, img
+
+
+Opzione PVR
+Supporta la registrazione di file TS
+
+
+Opzione WIFI
+Supporta la rete tramite USB WIFI
+
+
+ALIMENTAZIONE ELETTRICA
+
+
+Li-Lon Batteria
+7.4V/4000mAh (la macchina dietro l'etichettatura prevarrà)
+
+
+Adattatore
+USCITA: DC 9V/2.5A, INTUPT: 100～240VAC 50/60Hz (sarà soggetto alla configurazione effettiva)
+
+
+Consumo di energia
+Max.10W
+
+
+CARATTERISTICHE FISICHE
+
+
+Dimensioni del prodotto Dimensioni (L * P * A)
+123*204*45 (millimetro)
+
+
+Peso netto del prodotto
+0.6kg
+
+
+Dimensioni della scatola di imballaggio (L*P*A)
+260*200*57 (millimetro)
+
+
+Peso del pacco
+0.85kg
+
+
+Temperatura
+Operazione 0～+45℃; Archiviazione -10 ~ + 60℃
+
+
+Umidità
+20~90%, senza condensa
+
+Caratteristica: GTMEDIA V8 Finder Pro è un DVB-S2X/S2/S/T2/T/C e MPEG-2/4 H.264/H.265 Misuratore combinato palmare conforme (10 bit), Con le sue dimensioni compatte, il peso leggero, l'interfaccia utente intuitiva, le lunghe ore di funzionamento della batteria e il ricco set di funzioni, lo strumento fornisce tutte le funzioni necessarie per l'installazione e la verifica del servizio TV satellitare digitale, del segnale dell'antenna e del cavo segnale a case residenziali o plurifamiliari4.3 Pollici Alta definizione TFT LCD Schermo Completamente compatibile con DVB-S2X/S2/S/T2/T/C, MPEG-2/MPEG-4 Supporta la decodifica hardware H.264/H.265 (10 bit) Dispositivo di misurazione digitale per la potenza e la qualità del segnale. Supporta la preimpostazione di tutte le informazioni satellitari Supporta la ricerca in loop Analizzatore di spettro Supporta la scansione di Auto, Blind, Manual o NIT Suono per segnale di blocco Calcola automaticamente l'angolo di AZ,EL Supporta DISEQC 1.0/1.1/1.2, Unicable, tono 0/22kHz Altoparlante integrato Supporta sia l'uscita AV che l'ingresso AV Supporta entrambe le uscite HDMI  Supporta l'ingresso della telecamera AHD Supporta la funzione bussola Supporta la visualizzazione della potenza in tempo reale, con promemoria di bassa potenza Supporta Youtube per Wi-Fi USB 2.4G Protezione corta LNB 7.4V/4000mAh Li-ion Batteria Incluso Aggiornamento software tramite porta USB Facile da trasportare Il pacchetto include:1 x GTMEDIA V8 Finder Pro (altri prodotti non sono inclusi)1 adattatore di alimentazione1 manuale utente1x Stoccaggio BorsaBorsa di stoccaggio: [collegamento]
+
+
+
+

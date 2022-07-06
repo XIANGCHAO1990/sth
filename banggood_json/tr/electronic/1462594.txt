@@ -1,0 +1,214 @@
+1462594
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/F7/7F/9e09cb30-e231-4d53-9c2f-97b3c45abd62.jpg
+Raspberry Pi 3/2/B/B+ için Ayarlanabilir Odaklama Aralığı ile Raspberry Pi USB Kamera Modülü
+https://tr.banggood.com/Raspberry-Pi-USB-Camera-Module-with-Adjustable-Focusing-Range-for-Raspberry-Pi-3-or-2-or-B-or-B+-p-1462594.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanım:
+
+USB Arayüz Kamerası, Pi'nin tüm revizyonlarını destekler
+	Odaklama aralığı:20MM(MAX)
+	Video çözünürlüğü: 640*480
+	Boyut: 3.8cm * 1.5cm * 3cm, çizgi ölçeklenebilir, En uzun 65cm'dir
+
+
+Bu kamera nasıl kullanılır:
+
+
+1. Odağı Ayarla
+
+
+Bu USB kamerayı bilgisayarınızla test edin ve odağı en iyi ekran çözünürlüğüne uyacak şekilde ayarlayın.
+
+2. Video çek
+
+sudo apt-get güncellemesi
+
+sudo apt-get install ffmpeg
+
+avconv -f video4linux2 -r 7 -s 640x480 -i /dev/video0 video0.avi
+
+3.Videoyu Oynat
+
+omxplayer -o hdmi video0.avi
+
+4.  Fotoğraf çek
+
+Yazılımı yükleyin:
+
+sudo apt-get install fswebcam
+
+Görüntüleri yakalayın:
+
+fswebcam -r 640x480 resim.jpg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

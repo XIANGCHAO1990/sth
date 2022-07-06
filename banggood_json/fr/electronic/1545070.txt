@@ -1,0 +1,164 @@
+1545070
+https://imgaz.staticbg.com/thumb/large/oaupload/ser1/banggood/images/C4/E3/ca14c58b-28bd-4060-a599-fee4aa6f11d8.jpg
+LILYGO TTGO T-Beam ESP32 433/868/915 / 923Mhz V1.1 WiFi Module Bluetooth sans fil GPS NEO-6M SMA LORA32 18650 Batterie Support avec OLED
+https://fr.banggood.com/LILYGO-TTGO-T-Beam-ESP32-433-or-868-or-915-or-923Mhz-V1_1-WiFi-Wireless-bluetooth-Module-GPS-NEO-6M-SMA-LORA32-18650-Battery-Holder-With-OLED-p-1545070.html?cur_warehouse=CN&ID=513922&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Remarque : OLED n'est pas soudé au T-BEAMSi vous avez besoin d'OLED supplémentaire, vous pouvez l'acheter auprès de: ID du produit: 958196/Produit ID: 969144   Contenu de la mise à niveau du produit :   1. La broche GPIO34 est remplacée par GPIO35  2. Remplacez le circuit intégré de charge (TP5400) par la gestion de l'alimentation AXP192  3. GPS Remplacement de la broche TX, RX  4. Allumez et retirez, remplacez par le bouton pour ouvrir  5. Courant de sommeil réduit  6. Remplacement de la batterie GPS7. TOUS les entrepôts : changement de puce en CH9102 (Mise à jour du 30/03/2022)    Descriptif OLED :   1. Taille : 0,96 pouce  2. Haute résolution : 128 * 64  3. Couleur : blanc  4. Angle de vue : > 160°  5. Pilote IC : SSD1306  6. Température de travail : -30 celcius ~ 80 celcius  7. Volume du module (généreux) : 27,0 MM * 27,0 MM * 4,1 MM  8. Prend en charge de nombreuses puces de contrôle: entièrement compatible avec, série 51, série MSP430, STM32 / 2, etc. (beaucoup de routines pour référence)  9. Large prise en charge de la tension : sans aucune modification, prend directement en charge 3,3 V ~ 5V DC.  10. Consommation d'énergie ultra-faible : le fonctionnement normal est de 0,04 W.  11. Le port IO occupe un affichage minimal : la communication IIC, tant que les deux ports IO   Caractéristiques ESP32 :   Dernière version ESP32 : REV1  WIFI  Bluetooth   4 Mo PSRAM  4 Mo Flash  Antenne 3D   Fonctionnalités LORA :   Tension de fonctionnement : 1,8 ~ 3,7 V  Courant acceptable : 10 ~ 14 mA  Courant de transmission : 120mA@+20dBm, 90mA@+17dBm, 29mA@+13dBm  Fréquence de fonctionnement : 433/470 MHz (version 433 HMz) /868 M/915 M (version 868 MHz)  Puissance d'émission : +20dBm  Recevoir la sensibilité :   -139dBm@LoRa & 62.5Khz&SF=12&146bps  -136dBm@LoRa & 125Khz&SF=12&293bps  -118dBm@LoRa & 125Khz&SF=6&9380bps  -123dBm@FSK&5Khz&1.2Kbps  Erreur de fréquence : +/-15KHz  Espace FIFO : 64 octets  Débit de données : 1,2K~300Kbps@FSK, 0,018K~37,5Kbps@LoRa          Mode de modulation : FSK, GFSK, MSK, GMSK, LoRa TM, OK  Formulaire d'interface : SPI  Courant de veille : 0,2 uA@SLEEP, 1,5 uA@IDLE  Température de fonctionnement : -40℃- +85℃  Fonction RSSI numérique  Correction de fréquence automatique  Contrôle automatique du gain   Détection de basse tension   Réveil rapide et saut de fréquence  Gestionnaire de paquets de données hautement configurable   GPS:   Modules GPS NEO-6M, alimentation 3V-5V Universel  Module destiné avec antenne en céramique, signal super  Enregistrer les données des paramètres de configuration EEPROM vers le bas  Avec batterie de sauvegarde des données  Il y a LED indicateur de signal  Débit en bauds par défaut : 9 600   Pouvoir:   TP5400  1A Batterie Gestion  Indicateur LED : 4 LED indiquent l'état de la batterie en temps réel.  USB : CP2104-GMR (États-Unis/Royaume-Uni entrepôt)  Micrologiciel pré-flash : -SoftRF V4.0 Le forfait comprend :   1 x TTGO Poutre en T ESP32  1 antenne  1 x 0,96 pouces 128X64 OLED  2 x  Pin   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

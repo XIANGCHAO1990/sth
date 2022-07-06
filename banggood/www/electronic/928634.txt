@@ -1,0 +1,175 @@
+https://www.banggood.com/Semiconductor-BTS7960B-5V-43A-H-bridge-Motor-Driver-Module-p-928634.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Semiconductor BTS7960B 5V 43A H-bridge Motor Driver Module
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Features:
+
+	Double BTS7960 huge electric current (43A) H bridge driving
+	5V isolated from so it can protect the effectively
+	This module can effect motor forward and reversal, both PWM highest frequency is 25kHz
+	Two streams passing overheating error signal will be put out.
+	Power supply of isolating chip is 5V so it can be used with in 5V
+	Pressure of electric current ranges from 5.5V--27V
+
+Specification:
+
+	Weight: 66g
+	Size: 4.8 x 4.8 x 3.9cm
+
+Package included:
+
+	1 x BTS7960B motor driver
+
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

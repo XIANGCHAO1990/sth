@@ -1,0 +1,249 @@
+1307801
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/CB/72/7284fbfc-18c1-4b04-af4e-8d4e75df192f.jpg
+MPPT 5A solare Regolatore del pannello Controller Batteria Interruttore automatico di ricarica 9V 12V 24V
+https://it.banggood.com/MPPT-5A-Solar-Panel-Regulator-Controller-Battery-Charging-9V-12V-24V-Automatic-Switch-p-1307801.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manuale: clicca qui per aprire<<<
+
+	Caratteristiche:
+
+
+
+1W-100W 9V-28V è adatto a pannelli solari da 9V 12V 18V 24V per batterie, batterie al nichel-cadmio, batterie al litio (batteria) in carica, lampioni solari delle turbine eoliche.
+
+I terminali di ingresso e di uscita sono costituiti da un alimentatore switching di fascia alta per condensatori elettrolitici a bassa impedenza ad alta frequenza (LOW ESR), per garantire che l'ondulazione dell'uscita. Può filtrare efficacemente i problemi di alimentazione di commutazione.
+
+
+
+Parametri:
+
+
+
+La natura modulare: un vero e proprio monitoraggio del punto di massima potenza solare MPPT, gestione della carica intelligente automatica, basso consumo energetico
+
+Tensione in ingresso: tensione in ingresso CC 8-28 V CC. (divieto ingresso AC)
+
+Tensione di uscita: trasmissione continua DC 5-26V.
+
+La batteria da 6 V può essere caricata con una batteria al litio da 12 o 8,4 V/12,6 V/16,8 V,Batteria al litio ferro fosfato da 7,2 V / 10,8 V / 14,4 V,Batterie al litio a 2-4 stringhe, scheda di gestione della carica al litio ferro fosfato.
+
+Corrente di uscita: 2A/5A corrente di carica massima in due: versione A 5A versione B di A 2A 5A versione di spedizione predefinita
+
+Indicatore di carica: sì. Luce rossa di ricarica rapida, lunga luce rossa e blu lampeggiante caricata alternativamente. Arresto completamente automatico.
+
+Funzione MPPT: un puntamento automatico della potenza massima MPPT, per massimizzare il pieno utilizzo della ricarica solare
+
+Bassa pressione: 1 V (come il regolatore di tensione step-down, la tensione di ingresso è almeno superiore a 1 V di uscita)
+
+Basso consumo energetico: sì! Bassa pressione progettata per ottenere un basso consumo energetico e un'elevata efficienza, adattamento professionale dei pannelli solari
+
+Temperatura di esercizio: grado industriale (da -40 a +85 gradi)
+
+Regolazione del carico: ± 1%
+
+Regolazione della tensione: ± 0,5%
+
+Efficienza di conversione: massimo 93% di picco 95% per condizioni di illuminazione diverse.
+
+Ricarica: modalità di ricarica automatica intelligente a tre stadi. La corrente di carica dell'energia solare con rilevamento automatico regola automaticamente le dimensioni
+
+Corrente a vuoto: 3MA anche la luce solare mattutina debole può avviarsi facilmente automaticamente, eliminando l'interruttore manuale.
+
+Ingresso protezione da inversione di polarità: sì. Protezione da inversione di polarità del transistor MOS con protezione da inversione di polarità ultra-bassa progettata esclusivamente, l'inversione di ingresso non funziona.
+
+Protezione dal reflusso in uscita: sì. Prevenire efficacemente il foglio di carica elettrica della batteria a reflusso notturno!
+
+Collegamento: lì terminali
+
+
+
+Metodo di debug:
+
+
+
+Fase 1: collegare la cella solare, non prendere la bottiglia da caricare, se la tensione di uscita nella fase 2. Se non vi è alcun trasferimento di piccola uscita in senso antiorario lentamente fino alla tensione di uscita MPPT.
+
+Passaggio 2: trasferimento in senso antiorario di una piccola tensione di uscita fino a quando le spie rossa e blu non lampeggiano, quindi la tensione di uscita grossolana a una tensione di interruzione completa
+
+Passaggio 3: accedere alla batteria scarica e all'amperometro della stringa di uscita per monitorare la corrente di carica, potenziometro di regolazione MPPT fino al massimo della corrente di carica.
+
+Passaggio 4: l'accesso è solo pieno di batterie, se la luce blu è in senso orario aumentare la tensione di uscita fino alla luce rossa. Quindi trasferire una piccola tensione di uscita lentamente in senso antiorario fino a quando non si accende solo il blu, quindi utilizzare un multimetro per misurare per determinare che la tensione di interruzione è corretta per evitare il sovraccarico!
+
+
+
+Metodi di trasferimento invece di utilizzare l'alimentazione dell'energia solare:
+
+
+
+Passaggio 1: l'alimentatore è stato regolato solare tensione MPPT (come 18V)
+
+Passaggio 2: l'alimentatore collegato al terminale di ingresso, non caricare la batteria, se la tensione di uscita viene regolata in senso orario fino a quando non viene emessa una grande tensione MPPT. Quindi lentamente in senso antiorario fino a quando il trasferimento di piccoli MPPT non ha appena la tensione di uscita.
+
+Passaggio 3: in senso antiorario abbassare la tensione di uscita fino a quando le spie rossa e blu non lampeggiano, quindi aumentare la tensione di uscita a una tensione di interruzione completa
+
+Passaggio 4: l'accesso è solo pieno di batterie, se la luce blu è in senso orario aumentare la tensione di uscita fino alla luce rossa. Quindi trasferire una piccola tensione di uscita lentamente in senso antiorario fino a quando non si accende solo il blu, quindi utilizzare un multimetro per misurare per determinare che la tensione di interruzione è corretta per evitare il sovraccarico!
+
+
+
+Nota:
+
+
+
+La prima carica in anticipo regola la tensione di uscita e controlla attentamente la tensione della batteria per evitare il sovraccarico! Non batterie al litio non protette!
+
+
+
+Il pacchetto include:
+
+
+
+1 X MPPT sregolatore del pannello olare
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,182 @@
+80365
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/3E/69/28ad157c-29f6-4337-be6e-3e01b592512a.JPG
+IIC I2C TWI SP Seri Arabirim Bağlantı Noktası Modülü 5V 1602 LCD Adaptör Geekcreit, Arduino için - resmi Arduino panolarıyla çalışan ürünler
+https://tr.banggood.com/IIC-I2C-TWI-SP-Serial-Interface-Port-Module-5V-1602-LCD-Adapter-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-80365.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Açıklama:
+
+	Bu bir başka harika IIC / I2C / TWI / SPI Seri Arayüzüdür. Denetleyicinin pin kaynakları sınırlı olduğundan, projeniz belirli sayıda sensör veya SD kart ile bağlandıktan sonra normal LCD kalkanı kullanamayabilir. Ancak bu I2C arayüz modülü ile veri gösterimini sadece 2 kablo üzerinden gerçekleştirebileceksiniz. Projenizde zaten I2C aygıtınız varsa, bu LCD modülünün aslında daha fazla kaynağa maliyeti yoktur. Tabanlı proje için harika.
+	I2C Adres: 0X20 ~ 0X27 (orijinal adres 0X20'dir, kendiniz değiştirebilirsiniz)
+	arka ışık ve kontrast potansiyometre ile ayarlanır
+	Dupont Line veya IIC özel kabloyla bağlanabilen 2 IIC arayüzü ile birlikte gelir
+	I2C Adres: 0x27 (I2C Adres: 0X20 ~ 0X27 (orijinal adres 0X27'dir, kendiniz değiştirebilirsiniz)
+
+Şartname:
+
+	1602 LCD için uyumlu
+	Besleme gerilimi: 5V
+	Ağırlık: 5g
+	Boyut: 5.5x2.3x1.4cm
+
+Paket içeriği:
+
+	1 x IIC / I2C / TWI / SPI seri arabirim modülü bağlantı noktası
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

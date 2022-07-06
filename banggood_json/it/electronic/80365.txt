@@ -1,0 +1,207 @@
+80365
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/3E/69/28ad157c-29f6-4337-be6e-3e01b592512a.JPG
+IIC I2C TWI SP Porta di Modulo Interfaccia Seriale per 5V Arduino 1602LCD
+https://it.banggood.com/IIC-I2C-TWI-SP-Serial-Interface-Port-Module-5V-1602-LCD-Adapter-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-80365.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IIC/I2C/TWI/SPI porta scheda modulo seriali interfaccia per  Arduino 1602LCD Display è disponibile adesso dal nostro Magazzino di US e UK
+
+
+
+Spedizione gratuita a US e UK in  3-6 giorni lavorativi
+ Spedizione in Canada, Brasile in7-10 giorni in magazzino US
+Spedizione a paesi Europei in 7-10 giorni in magazzino UK
+
+
+IIC I2C TWI SP Porta di Modulo Interfaccia Seriale per 5V Arduino 1602LCD
+
+Descrizione:
+
+Questo è un altro grande interfaccia seriale IIC/I2C/TWI/SPI. Le risorse di perno di Arduino controllore è limitato, il progetto non può essere in grado di utilizzare normale schermo LCD dopo collegato con una certa quantità di sensori o scheda SD. Tuttavia, con questo modulo di interfaccia I2C, sarai in grado di realizzare display dati tramite solo 2 fili. Se si dispone già di dispositivi I2C nel progetto, questo modulo LCD non costa nessun risorse effettivamente. È fantastico per Arduino basato su progetto.
+
+
+Indirizzo I2C: 0x20 ~ 0x27 (l'indirizzo originale è 0x20, si può cambiarlo se stesso)
+La retroilluminazione e il contrasto è regolato dal potenziometro
+Sono dotati di 2 interfaccia IIC, che può essere collegato da linea Dupont o IIC cavo dedicato
+Indirizzo I2C: 0x27 (Indirizzo I2C: 0x20 ~ 0x27 (l'indirizzo originale è 0x27, si può cambiare te stesso)
+
+Specificazioni:
+
+Compatibile per LCD 1602
+Tensione di alimentazione: 5V
+Peso: 5g
+Dimensioni: 5.5x2.3x1.4cm
+
+La confezione include:
+
+1 x IIC/I2C/TWI/SPI Porta del modulo di interfaccia seriale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

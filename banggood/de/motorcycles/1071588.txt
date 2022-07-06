@@ -1,0 +1,167 @@
+https://de.banggood.com/24V-500W-Motorcycle-Brush-Speed-Controller-and-Scooter-Throttle-Twist-Grips-p-1071588.html?cur_warehouse=CZ&rmmds=CategoryAutomobilesPop
+24V 500W Motorrad-Bürstengeschwindigkeitsregler & Roller-Gasdrehgriffgriffe
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+Definition der Controller-Kabelschnittstelle
+Batterie: Thick Black (Power Negative) / Thick Red (Power Positive)
+Motor: Dickes Gelb (Motor Negativ) / Dickes Blau (Motor Positiv)
+Zündschalter: Thin Red (VCC) / Thin Blue
+Indikator: Dünnrot (Indikatorleistung) / dünn schwarz (Indikator negativ)
+Bremse: dünn gelb (Bremssignal) / dünn schwarz (Negative Power)
+Drehzahlregler: Dünn blau (Speed ​​Lenker Signaleingang) / Thin Schwarz (Negtive Power) / Dünnrot (5V Positive Power)
+Charge Port: Thin Red (Ladungseingangsleistung Positiv) / Dünnschwarz (Power Negativ)
+Bremslicht: Dünn rot (Leistung Positiv) / dünn schwarz (Power negativ)
+
+Spezifikation:Gebürsteter ControllerGröße: Größe (Länge x Breite) 8 cm x 6,5 cm / 3,1 "x 2,6"Motor gebürstete Steuerungfür Elektrofahrrad & RollerNennspannungdc 24 vDerzeitige Begrenzung  28ANennleistung 500 wpassender MotorGleichstrombürstenmotorUnterspannungsschutz 20VLenkerGröße(Länge x Durchmesser) 10 cm x 2 cm / 3,9 "x 0,8"Elektrischer Bike Scooter Twist Drosselklappe Beschleuniger mit Power Display, 5Led Batterie Anzeige.Drosselklappenspannung:DC5VGeschwindigkeitsanpassungssignal0,8 V ~ 4,3 V.Spannungsanzeige SpannungGleichstrom 24 VLeistungsanzeige:Normal23V oben, 3 LED GrünHälfte23V ~ 20V, LED gelbLeer20 V oder weniger, LED RotDrehwinkel0 ° ~ 70 °Arbeitstemperatur-20 ~ +50 ~Fit Standard 22,2 mm LenkerKabellänge ungefähr 1,5 mMenge2 STÜCKE (1 Gashebel und 1 normaler Griff (passender Daumengriff))
+Schaltplan für Gas:
+Beschreibung des Drosselklappenreglers
+Rot verbindet sich mit Rot Spannung 4,3 bis 5,0 Volt
+Blau verbindet sich mit Schwarz oder Gelb Masse
+Grün verbindet mit grünem, blauem oder weißem Geschwindigkeitseinstellsignal (0,8 bis 4,3 Volt)
+Gelb verbindet sich mit der positiven Leistungsanzeige
+
+Notiz:
+1. Bitte erlauben Sie 1-3 cm Fehler aufgrund der manuellen Messung. Bitte stellen Sie sicher, dass es Ihnen nichts ausmacht, bevor Sie bieten.
+2. Die Farbe kann als Unterschiedsanzeige unterschiedlich sein, bitte verstehen.
+
+Lieferinhalt:1 X 24V 500W Motor Brushed Controller1 XGasgriff (mit One normalem Griff)
+
+
+
+
+

@@ -1,0 +1,382 @@
+https://de.banggood.com/M5Stack-Core2-ESP32-with-Touch-Screen-Development-Board-Kit-WiFi-bluetooth-Graphical-Programming-WiFi-BLE-IoT-M5Stack-for-Arduino-products-that-work-with-official-Arduino-boards-p-1736409.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+M5Stack® Core2 ESP32 mit Touchscreen-Entwicklungskarte Satz WiFi Bluetooth Grafische Programmierung WiFi BLE IoT M5Stack für Arduino - Produkte, die mit offiziellen Arduino-Karten funktionieren
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:M5Core2 ist das Kerngerät der zweiten Generation in der M5Stack-Entwicklungskit-Serie, das die Funktionen der ursprünglichen Generation von Kernen weiter verbessert.Die MCU ist ein ESP32 Modell D0WDQ6-V3 und verfügt über Xtensa® 32-Bit 240MHz LX6-Prozessoren mit zwei Kernen, die separat gesteuert werden können. WiFi und Bluetooth werden standardmäßig unterstützt und umfassen ein integriertes 16 MB Blinken und 8 MB PSRAM, eine USB TYPE-C-Schnittstelle zum Laden, Herunterladen von Programmen und serieller Kommunikation, einen integrierten kapazitiven 2,0-Zoll-Touchscreen und einen eingebauten Vibrationsmotor .Der M5Core2 verfügt außerdem über ein integriertes RTC-Modul, das ein genaues Timing ermöglicht. Die Stromversorgung wird von einem AXP192-Energieverwaltungschip verwaltet, der den Stromverbrauch der Basisstation effektiv steuern kann. Eine integrierte grüne LED-Betriebsanzeige hilft, den Benutzer über den Batteriestand zu informieren. Die Batteriekapazität wurde auf 390 mAh erhöht, wodurch der Kern viel länger als das Vorgängermodell mit Strom versorgt werden kann.Der M5Core2 behält den SD-Kartensteckplatz und die Lautsprecher bei. Um jedoch eine höhere Klangqualität zu gewährleisten, wird der Leistungsverstärkerchip des digitalen Audio-Schnittstelles I2S verwendet, um Signalverzerrungen wirksam zu verhindern. Auf der linken Seite und der Unterseite der Basis befinden sich unabhängige Stromversorgungs- und Rücksetztasten.The 3 icons on the front of the screen are capacitive buttons which are programmable. There is a small expansion board on the back of the base with a 6-Achsen-IMU sensor and microphone. The development platform and programming language supported by M5Stack Core2: Arduino, UIFlow (mit Blockly, MikrofonroPython-Sprache) Unabhängig von Ihrem Entwicklungs- und Programmierkenntnis hilft Ihnen M5Stack dabei, Ihre Ideen schrittweise in die Realität umzusetzen.Einschalten / Ausschalten:Einschalten: Klicken Sie auf den NetzschalterAusschalten: Drücken Sie den Netzschalter 6 Sekunden langNeustart: Klicken Sie unten auf die Schaltfläche RSTMerkmale:ESP32-basiertes, integriertes Bluetooth, WiFi16M Blinken ， 8M PSRAMEingebauter Lautsprecher, Betriebsanzeige, Vibrationsmotor, RTC, I2S-Verstärker, kapazitiver Touchscreen, Netzschalter, Reset-TasteTF-Kartensteckplatz (maximale Größe 16G)Eingebaute Lithiumbatterie, ausgestattet mit Power Management ChipUnabhängige 6-Achsen-IMU, PDM-Mikrofon mit kleiner PlatineM-Bus-Buchse und -PinsProgram Platform: UIFlow, MikrofonroPython, ArduinoLieferinhalt:1x M5Stack Core21x Type-C USB (20 cm)AnwendungenInternet der Dinge Terminal ControllerStammbildungsproduktDIY KreationSmart-Home-AusrüstungSpezifikation:
+
+
+
+RessourcenParameter
+
+
+ESP32-D0WD-V3240 MHz Dual-Core, 600 DMIPS, 520 KB SRAM, Wi-Fi, Dual-Mode-Bluetooth
+
+
+Blinken16MB
+
+
+PSRAM8MB
+
+
+Eingangsspannung5 V bei 500 mA
+
+
+SchnittstelleTypC x 1, GROVE (I2C+I/0+UART) x 1
+
+
+IPS LCD Bildschirm2,0 "@ 320 * 240 ILI9342C
+
+
+Berührungssensitiver BildschirmFT6336U
+
+
+Lautsprecher1W-0928
+
+
+LEDGrüne Betriebsanzeige
+
+
+TasteNetzschalter, RST-Taste, virtuelle Bildschirmtaste * 3
+
+
+VibrationserinnerungVibrationsmotor
+
+
+MICSPM1423
+
+
+I2S LeistungsverstärkerNS4168
+
+
+6-Achsen-IMUMPU6886
+
+
+RTCBM8563
+
+
+PMUAXP192
+
+
+USB-ChipCP2104
+
+
+Gleichstrom-Gleichstrom-BoostSY7088
+
+
+TF-Karten-Slot16G max.
+
+
+Lithium Batterie390 mAh bei 3,7 V.
+
+
+Antenne2.4G 3D-Antenne
+
+
+Betriebstemperatur0 °C bis 40 °C (32 °F bis 104 °F)
+
+
+Reingewicht52g
+
+
+Bruttogewicht70g
+
+
+Produktgröße54 x 54 x 16mm
+
+
+Packungsgrösse75 x 60 x 20mm
+
+
+GehäusematerialKunststoff ( PC )
+
+EasyLoader:EasyLoader is a concise and fast program writer, which has a built-if program related to the product. It can be burned to the main control by simple steps to perform a series of function verification. Please install the corresponding driver according to the device type. M5Core host Klicken Sie hier, um das Tutorial zur Installation des CP210X-Treibers anzuzeigen, M5StickC / V / T / ATOM-Serie kann ohne Treiber verwendet werden)PinMap:LCD & TF-KarteLCD: 320x240 TF-Karte Maximale Größe 16GB
+
+
+
+
+
+
+
+
+
+
+ESP32-ChipGPIO38GPIO23GPIO18GPIO5GPIO15
+
+
+AXP192 ChipAXP_IO4AXP_Gleichstrom3AXP_LDO2
+
+
+ILI9342CMISOMOS1SCKCSGleichstromRSTBLPWR
+
+
+
+
+
+
+
+
+ESP32-ChipGPIO38GPIO23GPIO18GPIO4
+
+
+TF-KarteMISOMOS1SCKCS
+
+CAP.TOUCH:
+
+
+
+
+
+
+ESP32-ChipGPIO21GPIO22GPIO39
+
+
+AXP192AXP_IO4
+
+
+FT6336USDASCLINTRST
+
+Mikrofon & NS4168:
+
+
+
+
+
+
+
+ESP32-ChipGPIO12GPIO0GPIO2AXP_IO2GPIO34
+
+
+NS4168BCLKLRCKDATENSPK_EN
+
+
+MikrofonCLKDATEN
+
+AXP Power Kontrollleuchte:
+
+
+
+
+AXP192AXP_IO1AXP_LDO3
+
+
+Grün LEDVcc
+
+
+VibrationsmotorVcc
+
+Echtzeituhr:
+
+
+
+
+
+ESP32-ChipGPIO21GPIO22
+
+
+AXP192AXP_PWR
+
+
+BM8563SDASCLINT
+
+IMU (3-Achsen-Gyroskop & 3-Achsen-Beschleunigungsmesser):
+
+
+
+
+ESP32-ChipGPIO21GPIO22
+
+
+MPU6886SDASCL
+
+USB zu seriellem Chip:
+
+
+
+
+ESP32-ChipGPIO1GPIO3
+
+
+CP2104RXDTXD
+
+Interne I2C-Verbindung:
+
+
+
+
+ESP32-ChipGPIO21GPIO22
+
+
+MPU6886SDASCL
+
+
+AXP192SDASCL
+
+
+BM8563SDASCL
+
+
+FT6336USDASCL
+
+M5HAFEN ERKLÄREN:
+
+
+
+
+HAFENSTIFTNotiz:
+
+
+HAFEN-A (rot)G32 / 33I2C
+
+ESP32 AGleichstrom / DAC:
+
+
+
+
+
+AGleichstrom1AGleichstrom2DAC1DAC2
+
+
+8 Kanäle10 Kanäle2 Kanäle2 Kanäle
+
+
+G32-39G0 / 2/4 / 12-15 / 25-27G25G26
+
+For more information about Pin assignment and Pin Remapping, Please refer to ESP32-DatenblattVerwandter LinkESP32FT6336UNS4168MPU6886ILI9342CSPM1423BM8563SY7088AXP192Schema: Klicken Sie hier, um zu öffnenBeispiel für Arduin IDEKlicken Sie hier, um den Arduin-Code zu erhalten
+
+
+
+

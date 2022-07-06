@@ -1,0 +1,330 @@
+1593815
+https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/89/A6/c88f1e74-60f4-4ea8-9caa-409818ca36cf.png
+YIHAOGD YH LCD Rejilla de 2/3 ejes Fresado CNC Lectura digital Pantalla DRO / KA300 5 μm TTL 70-970 mm Lineal electrónico Escala Codificadores Torno herramienta
+https://es.banggood.com/YIHAOGD-YH-LCD-2-or-3-Axis-Grating-CNC-Milling-Digital-Readout-Display-DRO-or-KA300-5m-TTL-70-970mm-Electronic-Linear-Scale-Encoders-Lathe-Tool-p-1593815.html?cur_warehouse=CN&ID=6281034&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:
+YIHAOGD YH LCD Rejilla de 2/3 ejes Fresado CNC Lectura digital Pantalla DRO / KA300 TTL 70-970mm Lineal electrónico Escala Codificadores Torno herramienta
+	La lectura digital YIHAOGD YH LCD puede coincidir con todo tipo de escalas lineales YIHAOGD, tanto KA300 como YE.
+	Gran pantalla LCD, mejor visualización que el tubo digital, conveniente y práctico.
+
+
+Especificación:
+
+	Gran LCD Dro Lectura digital Pantalla Parámetro del sistema:
+
+
+		Modelo: 2 ejes/3 ejes
+		Rango de voltaje: CA 100V~240V/50HZ~60HZ
+
+		Lectura digital Pantalla Señal aceptable: TTL
+
+		Enchufe: DB9
+
+		Resolución aceptable: 10 μm, 5 μm, 2 μm, 1 μm, 0,5 μm.
+
+Tamaño:La longitud opcional mide la longitud efectiva.Longitud total = longitud efectiva de medición + 106 mm
+
+
+
+			Dro Digital Readout Pantalla Funciones del sistema:
+
+
+				1: limpieza cero
+
+				2: restablecer
+
+				3:modo mm/pulgadas
+
+				4: conversión de coordenadas ABS/INC
+
+				5:200 establece subdatos
+
+				6: Memoria de apagado;
+
+				7: Centro de 1/2
+
+				8: Compensación de error de línea
+
+				9: modo de dormir
+
+				10: Borrar 200 conjuntos de datos Sdm;
+
+				11:Modo ABS/INC
+
+				12: Calculadora
+
+				13:Perforación de circunferencia
+
+				14: perforación de línea oblicua
+
+				15:Mecanizado de plano inclinado
+
+				16:Mecanizado de arco circular
+
+				17: función de torno (coincidencia)
+
+				18: procesamiento gradual de lúmenes rectangulares
+
+				19: filtrado digital
+
+				20: filtrado de vibraciones
+
+				21: Función de torno
+
+				KA300 5U TTL escalas lineales/codificador lineal/Sensor lineal/parámetros de regla lineal
+
+
+
+		1. Longitud de viaje (medición): 0-970 mm
+
+		2. Longitud total (general): longitud de viaje + 106 mm (0-1076 mm)
+
+		3. Enchufe: DB9
+
+		4. Resolución: 0,005 mm (5 μ)
+
+		5. Voltaje de entrada: 5V
+
+		6. Paso de rejilla: 0,02 mm (50LP/min)
+		7. Longitud del cable: 3 metros
+		8. Clase de protección: IP54
+		9. Señal: TTL
+
+		La señal de la regla óptica lineal de 5 μ/vidrio lineal Báscula/codificador lineal/lineal Sensor
+		Pin 2 Negro 0V
+		Pin 6 Verde A
+		Pin 7 Rojo 5V
+		Pin 8 Blanco B
+		Pin 9 Naranja Z
+Características:
+¿Por qué comprar sistemas de lectura digital YH LCD?
+	Grande LCD Pantalla
+
+		1. Los sistemas aumentan la productividad, ahorran tiempo y brindan mayor precisión al traducir los valores medidos por codificadores lineales, medidores de longitud, codificadores rotatorios o codificadores angulares en un formato fácil de leer.
+
+		2.Pueden instalarse en equipos nuevos o adaptarse a máquinas que ya están en funcionamiento.
+
+		3. Los sistemas funcionan con cualquier máquina donde los ejes deslizantes se recorren manualmente.
+
+		4. La interfaz de datos permite un procesamiento adicional o impresiones de los valores medidos (la mayoría de los modelos).
+
+
+
+		¿Por qué comprar codificadores lineales KA300 de 5u? (A prueba de polvo, diseño impermeable IP54, cojinete de alta calidad, confiable y duradero)
+
+		1. Elimine los errores de posición de la máquina herramienta causados por la expansión térmica, la deformación de la mecánica de accionamiento, los problemas de paso y más.
+
+		2. Alta estabilidad de velocidad a largo plazo.
+
+		3. Construcción robusta y alta resistencia a las vibraciones.
+
+		4. Los períodos de señal más finos ofrecen la mayor precisión de interpolación.
+
+		5. Compacto, ligero y fácil de instalar.
+
+		6. Duradero y confiable: funciona correctamente incluso después de muchos años de funcionamiento.
+		7. Diseños lineales sellados o cerrados disponibles.
+
+
+
+
+
+
+Paquete incluido: (opcional)
+
+
+				Paquete de lectura digital LCD de 3 ejes incluido:
+
+				1 unidad de lectura digital de 3 ejes.
+				1 Uds x cable de alimentación (le enviaremos un adaptador de enchufe adicional dependiendo de su país)
+				1 juego x soporte y accesorios
+				1 Uds. x Manual
+
+
+
+				Paquete de lectura digital LCD de 2 ejes incluido:
+
+				1 unidad de lectura digital de 2 ejes.
+				1 cable de alimentación.(Le enviaremos un adaptador de enchufe adicional dependiendo de su país)
+				1 juego x soporte y accesorios
+				1 Uds. x Manual
+
+
+
+				Linear Escala Paquete incluido: (longitud opcional)
+
+				1 pieza x saco lineal
+				1 pieza x placa L
+				1 pieza x soporte
+				1 pieza x Bolsa de tornillo
+
+Nota:Tenga en cuenta que la lectura digital y la escala lineal son opcionales. El paquete incluía un solo tipo.Puede hacer clic aquí para consultar el manual.
+
+
+Más detalles:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

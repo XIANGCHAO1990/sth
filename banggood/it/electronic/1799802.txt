@@ -1,0 +1,143 @@
+https://it.banggood.com/Waveshare-SIM7600G-H-4G-or-3G-or-2G-or-GNSS-Module-for-Jetson-Nano-LTE-CAT4-Global-Applicable-p-1799802.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Modulo Waveshare® SIM7600G-H 4G / 3G / 2G / GNSS per Jetson Nano LTE CAT4 globale applicabile
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Documenti:Manual: Click here to openSchematic: Click here to openScheda tecnica: fare clic qui per aprireCode: Click here to openSIM7600 Driver: Click here to opendriver for wwan0: Click here to openPanoramica:Si tratta di un modulo di comunicazione 4G / 3G / 2G e posizionamento GNSS progettato per Jetson Nano, supporta LTE CAT4 globale fino a 150 Mbps per il trasferimento dati in downlink, con un consumo energetico piuttosto basso.Basta collegarlo al kit per sviluppatori Jetson Nano, abilitare facilmente funzioni come connessione 4G ad alta velocità, comunicazione wireless, monitoraggio video remoto, effettuare chiamate telefoniche, inviare sms, posizionamento globale e così via.Caratteristiche:1. Testata di estensione 40PIN GPIO per il collegamento di Jetson Nano2. Supporta dial-up, telefonate, sms, posta, TCP, UDP, DTMF, HTTP, FTP, ecc.3. Supporta GPS, BeiDou, Glonass, posizionamento della stazione base LBS4. Interfaccia USB integrata, per testare i comandi AT, ottenere i dati di posizionamento GPS e così via5. Pin di controllo UART Break0ut, per il collegamento con schede host come Arduino/STM326. Slot per scheda SIM, supporta la scheda SIM 1.8V / 3V7. Jack audio integrato da 3,5 mm con supporto per auricolari e microfono, per effettuare chiamate telefoniche8. 2x LED indicatori, facile da monitorare lo stato di funzionamento9. Convertitore di tensione a bordo, la tensione operativa può essere configurata su 3,3 V o 5V tramite ponticello10. Baudrate: 300 bps ~ 4 Mbps (predefinito: 115200 bps)11. Velocità di trasmissione in baud automatico: 9600 bps ~ 115200 bps12. Controllo tramite comandi AT (3GPP TS 27.007, 27.005 e set di comandi V.25TER)13. Supporta il toolkit dell'applicazione SIM: SAT Class 3, GSM 11.14 Release 99, USAT14. Viene fornito con risorse di sviluppo e manuale (esempi per Jetson Nano/Raspberry Pi/Arduino/STM32)Specifiche di comunicazione:LTEWCDMA / TD-SCDMA / CDMA 2000BORDOGSM / GPRSGruppo musicaleLTE-TDD B34 / B38 / B39 / B40 / B41UMTS / HSDPA / HSPA + B1/B2/B4/B5/B6/B8/B19GSM / GPRS/BORDO 850/900/1800/1900 MHLTE-FDD B1/B2/B3/B4/B5/B7/B8/ B12/B13/B18/B19/B20/B25/B26 / B28 / B66Emissione di potenza0.25W0.5W@EGSM9002W @ GSM9000.4W@DCS18001W @ DCS1800Velocità dei datiLTE CAT 4UMTSTD-SCDMACDMA2000 / EVDOBORDOGPRSUplink≤50 MbpsUplink≤384 KbpsUplink≤128 KbpsUplink≤1.8 MbpsUplink≤236,8 kbpsUplink≤85.6kbpsDownlink≤150 MbpsDownlink≤384 KbpsDownlink≤384 KbpsDownlink≤3.1 MbpsDownlink≤236,8 kbpsDownlink ≤ 85,6 kbpsHSPA +TD-HSDPA / HSUPAUplink≤5.76 MbpsUplink≤2.2 MbpsDownlink≤42 MbpsDownlink≤2.8 MbpsCarta SIMSIM normale (non inclusa)Regione applicabile4G / 3G / 2G globaleSpecifiche GNSS:Tipo di ricevitore  -16 canali  -C / A codiceSensibilità  -Tracciamento: -159 dBm (GPS) / -158 dBm (GLONASS) / TBD (BD)  - Avviamenti freddi: -148 dBmTime-To-First-Fix (all'aria aperta)  -Inizi a freddo: <35 s  -Hot avvia: <1sPrecisione  -Posizione: <2,5 m CEPSpecifiche sms e audio:sms  -Tipi supportati: MT, MO, CB, Text, PDU  -Stoccaggio: carta USIM e ME (predefinito)Funzionalità audio  -Supporta la cancellazione dell'eco  -Supporta la riduzione del rumoreAltre specifiche:Alimentazione: 5VTensione di funzionamento: 5V / 3,3 V (configurata tramite jumper)Temperatura di esercizio: -30 ° C ~ 80 ° CTemperatura di stoccaggio: -45 ° C ~ 90 ° CLa confezione include:Nota: Jetson Nano NON è incluso.1 x SIM7600G-H 4G per Jetson Nano 1 x LTE Antenna 1 x GPS Esterno Antenna (B) 1 x adattatore USB Jetson Nano 1 x confezione di viti (2 pezzi) Cosa c'è a bordo:1. SIM7600G-H2. Decodificatore audio NAU88103. Traslatore di tensione TXS0108EPWR: traduce 3,3 V / 5V in 1,8 V.4. Chip di alimentazione MP14825. Traslatore di tensione RT9193-33: traduce 5V in 3,3 V.6. Intestazione 40PIN GPIO: per il collegamento con il kit di sviluppo Jetson Nano7. Slot per scheda SIM: supporta la scheda SIM 1.8V / 3V8. Interfaccia USB: per testare i comandi AT, ottenere i dati di posizionamento GPS, ecc.9. Jack da 3,5 mm per auricolari / microfono10. Connettore antenna PRINCIPALE11. Connettore antenna AUX12. Connettore antenna GNSS13. Indicatore di stato della rete14. Indicatore di alimentazione15. Interruttore di abilitazione UART:  -ON: collega le porte UART di SIM7600 e Jetson Nano  -OFF: scollega le porte UART di SIM7600 e Jetson Nano16. Ponticello di selezione della tensione di funzionamento:  -VCC - 3,3 V: imposta la tensione operativa su 3,3 V.  -VCC - 5V: imposta la tensione di funzionamento a 5V17. Configurazione controllo PWR:  -PWR - 5V: avvio automatico SIM7600 all'accensione  -PWR - D6: SIM7600 verrà attivato / disattivato dal pin D6 di Jetson NanoDimensione:
+
+
+
+

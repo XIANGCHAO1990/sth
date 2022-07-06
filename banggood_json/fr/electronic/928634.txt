@@ -1,0 +1,177 @@
+928634
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/29/DF/f5a1657a-d7a4-4cd4-9d5e-45e07c89b7ad.jpg
+Module pilote de moteur à pont en H semi-conducteur BTS7960B 5V 43A
+https://fr.banggood.com/Semiconductor-BTS7960B-5V-43A-H-bridge-Motor-Driver-Module-p-928634.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fonctionnalités:
+
+	Double pont BTS7960 courant électrique (43A) en H pont
+	5 V isolé de sorte qu'il peut protéger efficacement
+	Ce module peut affecter le moteur en avant et en inversion, la fréquence la plus élevée de PWM est de 25 kHz
+	Deux flux passant le signal d'erreur de surchauffe seront éteints.
+	L'alimentation de la puce d'isolement est 5V, elle peut donc être utilisée avec 5V
+	La pression du courant électrique varie de 5,5V à 27V
+
+Spécification:
+
+	Poids: 66 g
+	Taille: 4,8 x 4,8 x 3,9cm
+
+Emballage inclus:
+
+	1 x pilote de moteur BTS7960B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,493 @@
+https://jp.banggood.com/2Pcs-LILYGO-TTGO-LORA-SX1278-ESP32-0_96-OLED-Display-Module-16-Mt-Bytes-128-Mt-bit)-433Mhz-p-1270420.html?cur_warehouse=GWTR&ID=6314336&rmmds=CategoryElectronicsPop
+2個LILYGOTTGO LORA SX1278 ESP32 0.96OLEDディスプレイモジュール16Mtバイト128Mtビット）433Mhz
+
+
+
+
+
+
+
+互換性
+このパーツがあなたの車両に合っていることを確認し、車両の詳細を下に記入してください。
+
+
+
+
+
+年:
+
+
+選択
+
+
+
+
+
+
+
+
+メイク:
+
+
+選択
+
+
+
+
+
+
+
+
+モデル:
+
+
+選択
+
+
+
+
+
+
+
+
+サブモデル:
+
+
+選択
+
+
+
+
+
+
+
+
+トリム:
+
+
+選択
+
+
+
+
+
+
+
+
+エンジン:
+
+
+選択
+
+
+
+
+
+
+
+
+全てをクリア
+
+
+
+
+に適用します。 0 車両.
+すべての互換車両を表示する
+
+
+
+
+  に適用します。 1 車両 マッチング 
+ この部分は互換性がありません
+
+
+
+最近の検索
+
+
+
+
+
+
+
+
+
+
+
+年
+メイク
+モデル
+サブモデル
+トリム
+エンジン
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+更新情報：ノート： 製品のアップデート後、BluetoothはESP32チップを内蔵しており、ユーザーはBluetoothプログラムを書き込むだけでBluetooth機能を使用できます。製品説明：
+433MHzアンテナはIPEXインターフェースと組み合わせて使用する必要があります（アンテナが接続されていない場合、LoRaチップが損傷する可能性があります）
+リチウム電池の充電および放電回路。電池がいっぱいになると、青色LEDが機能しなくなります。使用するときは、バッテリーのプラスとマイナスに注意してください。そうしないと、バッテリーが損傷します。
+IOポートのタッチスクリーンタッチ信号入力を使用して、このピンに100nFプルダウンコンデンサを追加する必要があります。
+
+
+例：
+
+この製品は、ESP32 WIFI増加OLED、すなわちLoRaリモートモデム、433MHz周波数、高感度は約-148dBm、+ 20dBm出力電力、高信頼性、長い伝送距離に基づくSX1278チップです。
+	オンボードの16Mtバイト（128 Mtビット）、Wi-Fiアンテナ、0.96インチの青色OLEDディスプレイ、リチウムバッテリー充電回路、CP2102インターフェイス、および開発環境を完全にサポートするUSBシリアルチップは、プログラムの検証と製品開発に使用できます。非常にシンプルで高速です。
+	動作電圧：3.3V〜7V
+	動作温度範囲：-40°C〜 + 90°C
+	Sniffer、Station、softAP、およびWi-FiDirectモードのサポート
+	データレート：150 Mbps @ 11n HT40、72 Mbps @ 11n HT20、54 Mbps @ 11g、11 Mbps @ 11b
+	送信電力：19.5 dBm @ 11b、16.5 dBm @ 11g、15.5 dBm @ 11n
+	最大-98dBmのレシーバ感度
+	135MbpsのUDP持続スループット
+
+
+
+
+
+
+
+ピンリファレンスの説明：
+
+
+製品情報の詳細については、https：//drive.google.com/file/d/1L8ll-DeAC2SATBZn0-KbSaZsrinbnXkF/viewをクリックしてください。
+
+
+テストの詳細：
+
+
+
+
+詳細については、リンクをクリックしてください：https：//eyun.baidu.com/s/3hsiTNgg
+
+注：この製品にはバッテリーは含まれていません。
+
+パッケージは以下を含みます：
+
+2 x ESP32 OLED
+2 x Line
+4 x pin
+2 x433mスプリングアンテナ
+
+例：1つ：
+
+（1）LoRaSender
+	＃含む
+	＃含む
+	＃含む
+	// GPIO5-SX1278のSCK
+	// GPIO19-SX1278のMISO
+	// GPIO27-SX1278のM0SI
+	// GPIO18-SX1278のCS
+	// GPIO14-SX1278のリセット
+	// GPIO26-SX1278のIRQ（割り込み要求）
+
+	#define SS 18
+	#define RST 14
+	#define DI0 26
+	#define BAND 433E6  
+	intカウンター= 0;
+
+	void setup（） {
+	  pinMode（25、OUTPUT）; //成功を送信します。LEDは1秒明るくなります
+
+	  Serial.begin（115200）;
+	  while（！Serial）; //基本機能だけの場合は、コンピュータに接続する必要があります
+
+	  SPI.begin（5,19,27,18）;
+	  LoRa.setPins（SS、RST、DI0）;
+	// Serial.println（ "LoRa Sender"）;
+
+	  if（！LoRa.begin（BAND）） {
+	    Serial.println（ "LoRaの開始に失敗しました！"）;
+	    while（1）;
+	  }
+	  Serial.println（ "LoRa Initial OK！"）;
+	}
+
+	void loop（） {
+	  Serial.print（ "パケットの送信："）;
+	  Serial.println（counter）;
+
+	  //パケットを送信します
+	  LoRa.beginPacket（）;
+	  LoRa.print（ "hello"）;
+	  LoRa.print（counter）;
+	  LoRa.endPacket（）;
+
+	  カウンター++;
+	  digitalWrite（25、HIGH）; // LEDをオンにします（HIGHは電圧レベルです）
+	  delay（1000）; // 1秒待ちます
+	  digitalWrite（25、LOW）; //電圧を低くしてLEDをオフにします
+	  delay（1000）; // 1秒待ちます
+
+	  delay（3000）;
+	}
+
+	例2
+	（2）LoRaReceiver
+	＃含む
+	＃含む
+
+
+	// GPIO5-SX1278のSCK
+	// GPIO19-SX1278のMISO
+	// GPIO27-SX1278のM0SI
+	// GPIO18-SX1278のCS
+	// GPIO14-SX1278のリセット
+	// GPIO26-SX1278のIRQ（割り込み要求）
+
+	#define SS 18
+	#define RST 14
+	#define DI0 26
+	#define BAND 433E6
+
+	void setup（） {
+	  Serial.begin（115200）;
+	  while（！Serial）; //基本機能だけの場合は、コンピュータに接続する必要があります
+	  delay（1000）;
+
+	  Serial.println（ "LoRaレシーバー"）;
+
+	  SPI.begin（5,19,27,18）;
+	  LoRa.setPins（SS、RST、DI0）;
+
+	  if（！LoRa.begin（BAND）） {
+	    Serial.println（ "LoRaの開始に失敗しました！"）;
+	    while（1）;
+	  }
+	}
+
+	void loop（） {
+	  //パケットの解析を試みます
+	  int packetSize = LoRa.parsePacket（）;
+	  if（packetSize） {
+	//パケットを受信しました
+	    Serial.print（ "受信パケット '"）;
+
+	    //パケットを読み取ります
+	    while（LoRa.available（）） {
+	      Serial.print（（char）LoRa.read（））;
+	    }
+
+	    //パケットのRSSIを出力します
+	    Serial.print（ "'with RSSI"）;
+	    Serial.println（LoRa.packetRssi（））;
+	  }
+	}
+
+	たとえば3
+	（3）LoRaReceiverCallback
+	＃含む
+	＃含む
+
+
+
+	// GPIO5-SX1278のSCK
+	// GPIO19-SX1278のMISO
+	// GPIO27-SX1278のM0SI
+	// GPIO18-SX1278のCS
+	// GPIO14-SX1278のリセット
+	// GPIO26-SX1278のIRQ（割り込み要求）
+
+	#define SS 18
+	#define RST 14
+	#define DI0 26
+	#define BAND 433E6
+
+	void setup（） {
+	  Serial.begin（115200）;
+	  while（！Serial）; //基本機能だけの場合は、コンピュータに接続する必要があります
+
+	  SPI.begin（5,19,27,18）;
+	  LoRa.setPins（SS、RST、DI0）;
+
+	  Serial.println（ "LoRaレシーバーコールバック"）;
+
+	  if（！LoRa.begin（BAND）） {
+	    Serial.println（ "LoRaの開始に失敗しました！"）;
+	    while（1）;
+	 }
+
+	  //受信コールバックを登録します
+	  LoRa.onReceive（onReceive）;
+
+	  //ラジオを受信モードにします
+	  LoRa.receive（）;
+	}
+
+	void loop（） {
+	  // 何もしない
+	}
+
+	void onReceive（int packetSize） {
+	  //パケットを受信しました
+	  Serial.print（ "受信パケット '"）;
+
+	  //パケットを読み取ります
+	  for（int i = 0; i <packetSize; i ++） {
+	    Serial.print（（char）LoRa.read（））;
+	  }
+
+	  //パケットのRSSIを出力します
+	  Serial.print（ "'with RSSI"）;
+	  Serial.println（LoRa.packetRssi（））;
+	}
+	?
+	たとえば4
+	＃含む //1.6.5以前でのみ必要
+	＃含む "SSD1306.h" // `＃含む" SSD1306Wire.h "`のエイリアス
+	＃含む "images.h"
+
+	//この接続を介してESP320.96OLEDGPIOにOLEDピン：
+	// OLED_SDA-GPIO4
+	// OLED_SCL-GPIO15
+	// OLED_RST-GPIO16
+
+	SSD1306ディスプレイ（0x3c、4、15）;
+
+	#define DEMO_DURATION 3000
+	typedef void（* Demo）（void）;
+	int demoMode = 0;
+	intカウンター= 1;
+
+	void setup（） {
+	  pinMode（16、OUTPUT）;
+	  digitalWrite（16、LOW）; // GPIO16をローに設定して、OLEDをリセットします
+	  delay（50）;
+	  digitalWrite（16、HIGH）; // OLEDの実行中は、GPIO16を高に設定する必要があります
+
+	  Serial.begin（115200）;
+	  Serial.println（）;
+	  Serial.println（）;
+
+
+	  // UIを初期化すると、表示も初期化されます。
+	  display.init（）;
+
+	  display.flipScreenVertically（）;
+	  display.setFont（ArialMT_Plain_10）;
+
+	}
+
+	void drawFontFaceDemo（） {
+	    //フォントデモ1
+	    //http://oleddisplay.squix.ch/でさらにフォントを作成します
+	    display.setTextAlignment（TEXT_ALIGN_LEFT）;
+	    display.setFont（ArialMT_Plain_10）;
+	    display.drawString（0、0、 "Hello world"）;
+	    display.setFont（ArialMT_Plain_16）;
+	    display.drawString（0、10、 "Hello world"）;
+	    display.setFont（ArialMT_Plain_24）;
+	    display.drawString（0、26、 "Hello world"）;
+	}
+
+	void drawTextFlowDemo（） {
+	    display.setFont（ArialMT_Plain_10）;
+	    display.setTextAlignment（TEXT_ALIGN_LEFT）;
+	    display.drawStringMaxWidth（0、0、128、
+	      "Lorem ipsumn dolor sit amet、consetetur sadipscing elitr、sed diam nonumy eirmod tempor invidunt utlabore。" ）;
+	}
+
+	void drawTextAlignmentDemo（） {
+	    //テキスト配置のデモ
+	display.setFont（ArialMT_Plain_10）;
+
+	  //座標は、テキストの左側の開始点を定義します
+	  display.setTextAlignment（TEXT_ALIGN_LEFT）;
+	  display.drawString（0、10、 "左揃え（0,10）"）;
+
+	  //座標はテキストの中心を定義します
+	  display.setTextAlignment（TEXT_ALIGN_CENTER）;
+	  display.drawString（64、22、 "中央揃え（64,22）"）;
+
+	  //座標はテキストの右端を定義します
+	  display.setTextAlignment（TEXT_ALIGN_RIGHT）;
+	  display.drawString（128、33、 "右揃え（128,33）"）;
+	}
+
+	void drawRectDemo（） {
+	      //指定された位置にピクセルを描画します
+	    for（int i = 0; i <10; i ++） {
+	      display.setPixel（i、i）;
+	      display.setPixel（10-i、i）;
+	    }
+	    display.drawRect（12、12、20、20）;
+
+	    //長方形を塗りつぶします
+	    display.fillRect（14、14、17、17）;
+
+	    //水平に線を引きます
+	    display.drawHorizontalLine（0、40、20）;
+
+	    //水平に線を引きます
+	    display.drawVerticalLine（40、0、20）;
+	}
+
+	void drawCircleDemo（） {
+	  for（int i = 1; i <8; i ++） {
+	    display.setColor（WHITE）;
+	    display.drawCircle（32、32、i * 3）;
+	    if（i％2 == 0） {
+	      display.setColor（BLACK）;
+	    }
+	    display.fillCircle（96、32、32-i * 3）;
+	  }
+	}
+	void drawProgressBarDemo（） {
+	  int progress =（counter / 5）％100;
+	  //プログレスバーを描画します
+	  display.drawProgressBar（0、32、120、10、progress）;
+
+	  //パーセンテージを文字列として描画します
+	  display.setTextAlignment（TEXT_ALIGN_CENTER）;
+	  display.drawString（64、15、String（progress）+ "％"）;
+	}
+
+	void drawImageDemo（） {
+	    //http://blog.squix.org/2015/05/esp8266-nodemcu-how-to-create-xbm.htmlを参照
+	    // xbmファイルの作成方法について
+	    display.drawXbm（34、14、WiFi_Logo_width、WiFi_Logo_height、WiFi_Logo_bits）;
+	}
+
+	デモデモ[] = {drawFontFaceDemo, drawTextFlowDemo, drawTextAlignmentDemo, drawRectDemo, drawCircleDemo, drawProgressBarDemo, drawImageDemo};
+	int demoLength =（sizeof（demos）/ sizeof（Demo））;
+	long timeSinceLastModeSwitch = 0;
+
+	void loop（） {
+	  //表示をクリアします
+	  display.clear（）;
+	  //現在のデモメソッドを描画します
+	  demos [demoMode]（）;
+
+	  display.setTextAlignment（TEXT_ALIGN_RIGHT）;
+	  display.drawString（10、128、String（millis（）））;
+	  //バッファをディスプレイに書き込みます
+	  display.display（）;
+
+	  if（millis（）-timeSinceLastModeSwitch> DEMO_DURATION） {
+	    demoMode =（demoMode + 1）％demoLength;
+	    timeSinceLastModeSwitch = millis（）;
+	  }
+	  カウンター++;
+	  delay（10）;
+	}
+
+
+
+
+

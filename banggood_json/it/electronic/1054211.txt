@@ -1,0 +1,144 @@
+1054211
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/74/23/cd1c4f13-14dc-472b-b7d4-80663975f51f.jpg
+10 pezzi Geekcreit L298N Scheda driver motore passo-passo a doppio ponte H
+https://it.banggood.com/10-Pcs-Geekcreit-L298N-Dual-H-Bridge-Stepper-Motor-Driver-Board-p-1054211.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Descrizione:   Trasmissione a ponte a doppia H  Chip: L298N (ST NUOVO)  Tensione logica: 5V  Tensione di azionamento: 5V-35V  Corrente logica: 0mA-36mA  Corrente di pilotaggio: 2A (MAX ponte singolo)  Temperatura di conservazione: da -20 a +135  Potenza massima: 25W  Peso: 30 g  Dimensioni: 43 x 43 x 27 mm    Nota:   Questo modulo ha un alimentatore 5v integrato, quando la tensione di pilotaggio è 7v-35v, questo alimentatore è adatto per l'alimentazione, NON inserire la tensione sull'interfaccia di alimentazione +5v, tuttavia è disponibile l'uscita 5v per uso esterno.  Quando ENA abilita IN1 IN2 controlla OUT1 OUT2  Quando ENB abilita il controllo IN3 IN$ OUT3 OUT4    Nota: il pacchetto non include le viti.    Il pacchetto include:   10 x L298N Scheda driver motore passo-passo a doppio ponte H per             
+
+
+

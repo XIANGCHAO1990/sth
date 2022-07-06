@@ -1,0 +1,208 @@
+963697
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/FF/0C/f0997157-6ccd-46de-ae8f-ab02045bffcd.jpg
+Geekcreit® ONU R3 ATmega328P Scheda di Sviluppo per Arduino
+https://it.banggood.com/UNO-R3-ATmega328P-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-963697.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tensione d'uscita: DC 5V / 3,3V
+Atmega328P
+con il cavo USB
+
+Nota: Questa versione non è compatibile con il sistema operativo OS.
+
+
+Caratteristiche:
+
+Accesso libero dello schema originale, download gratis di interfaccia di software per sviloppare, per soddisfare le esigenze di sviluppo, il download di programma è facile e comodo.
+Può collegare con sensori e tutti gli altri componenti elettronici (come luce LED, cicalino, pulsante e resistore fotosensibile ecc.). Con questo prodotto si può fare tanti progetti interessanti.
+Adotta il controllore di microprocessore ad alta velocità (ATMEGA328), con l'interfaccia e l'ambiente di svilupo molto semplici, facile da capire, adatto per principianti.
+
+Descrizione:
+
+I/O digitale: 0-13
+I/O analogico: 0-5
+Supporta la funzione di scaricare ISP
+Tensione in ingresso: DC 5V ~ 9V (Senza alimentazione esterna quando è collegato al computer)
+Tensione di uscita: DC 5V / 3,3V
+Adotta il controllore di microprocessore Atmel Atmega328.
+
+Come usare:
+
+1. Scaricare IDE Arduino
+Link: http://arduino.cc/en/Main/Software (copiare il link per accedere)
+2. Scaricare il driver di chip USB
+Link: http://www.5v.ru/zip/ch341ser.zip (copiare per accedere)
+3. Collegare la scheda di sviluppo ONU, il driver sarà installato automaticamente.
+4. Selezionare ONU dal die 
+
+	5. Selezionare la porta COM
+6. La scelta migliore prima, l'Arduino è dotato della procedura di routine, mastrizzare in essa.
+
+La confezione include:
+
+1 X UNO R3 Scheda di Sviluppo con Cavo USB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,227 @@
+https://pt.banggood.com/SL-LC-04-Super-Mini-LED-WIFI-APP-Controller-+-Remote-Control-For-RGB-LED-Strip-DC-9-12V-p-1060231.html?cur_warehouse=CN&rmmds=CategoryHomeGardenPop
+SL-LC 04 Super Mini LED WIFI APP Controller + Remote Control For RGB LED Strip DC 9-12V
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parâmetro:
+Modelo n º: SL-LC04
+Tensão de funcionamento: DC9-12V
+Canal de saída: pode ser usado 4 canais
+Corrente de saída: RGB,4A*4
+Max. Potência: 4AX4X12V = 192W
+Método de conexão: ânodo comum
+Dimensão: cerca de L46*W19*H8mm
+Distância: 50m ao ar livre
+Modo de conexão: R, G, B para LED Light, V+, V- para fonte de alimentação e para recepção de sinal WIFI
+Aplicações: pode usar para tiragem LED, luz de painel LED, luz de teto LED e outras iluminação LED
+O pacote incluiu: 1 x LED controlador de mini wi-fi, 1 x 24key remoto controle, 1 x manual inglês
+
+Funções:
+* 16 milhões de cores
+* Controle de smartphone
+* Controle de sincronização por grupo
+* Modo personalizado
+* Modo Temporizador
+* Kickstart sua festa
+* Dança clara com música
+* Salvar cores favoritas
+* Controle remoto por Intenet
+
+Instruções:
+1.Search nome do aplicativo: "MagicHome WiFi" da loja IOS ou Android Google Play Store e instalar aplicativo gratuito.
+2.Scan código QR para instalar o aplicativo gratuito.
+
+Configuração de Conexão WIFI:
+1. Pesquise o controlador WiFi "LEDnet ******" na rede WiFi do seu telefone e conecte-o.
+2. Abra o aplicativo "Magichome WiFi" e aguarde enquanto o seu telefone verifica esse controlador Wi-Fi.
+3. Você tem três maneiras de controlar seu controlador Wi-Fi:
+A.Sel modo único:
+Clique em "Saltar, configurá-lo na próxima vez", então vá para controlá-lo diretamente.
+No modo único, você só pode controlar um controlador uma vez.
+Além disso, o controlador WiFi do seu telefone deve manter a conexão com o controlador WiFi “LEDnet ******” entretanto.
+Modo b.Network:
+Clique em "Configuração", depois configure seus controladores para o roteador WiFi, um a um.
+Depois que os controladores foram conectados ao roteador WiFi, conecte seu telefone a este roteador WiFi. Em seguida, abra o aplicativo "Magichome WiFi"
+E aguarde enquanto o seu telefone verifica os controladores WiFi que estavam conectados a este roteador WiFi.
+Agora, o aplicativo mostrará todos os controladores em "Device List". Em "Device List", você pode selecionar o controlador que deseja controlar.
+Quantos aplicativos de controladores podem controlar o sycn é o mesmo que quantos dispositivos seu roteador WiFi pode suportar.
+No modo de rede, você pode controlar todos os controladores que foram conectados ao roteador WiFi, independentemente do seu roteador WiFi estar online ou não.
+C.Remote controle pela Internet:
+Para controlar seus controladores Wi-Fi em qualquer lugar deste mundo.
+No modo de rede, você precisa manter seu roteador Wi-Fi on-line. Clique no ícone de engrenagem no canto superior esquerdo para entrar na página de configuração.
+Escolha o seu controlador Wi-Fi e selecione "Configurações Remotas" no menu pop-up. Verifique a opção de estado remoto para alterá-lo de "não aberto".
+Uma vez que o controlador WiFi reinicia, você pode encontrá-lo na guia "Remoto" na página "Lista de dispositivos".
+
+PERGUNTAS FREQUENTES:
+(A) O meu telefone não pode se conectar ao controlador Wi-Fi em modo único.
+   1) Conecte o controlador WiFi corretamente, fonte de alimentação → Controlador Wi-Fi → Iluminação LED
+   2) Certifique-se de que a rede Wi-Fi do telefone funciona normalmente.
+   Em seguida, conecte a rede WiFi do seu telefone ao controlador Wi-Fi LEDnet ******.
+(B) Não consegui me conectar ao dispositivo WiFi no modo de rede.
+    Certifique-se de ter inserido a senha correta em seu roteador. Desligue o controlador e o seu roteador.
+    Ligue o seu roteador primeiro e depois o controlador após 30 segundos. Aguarde cerca de 2 minutos antes de executar o Magichome WiFi.
+    Se o problema ainda persistir, então vá para a configuração da rede Wi-Fi do telefone e configure o controlador WiFi "LEDnet ******" novamente. Em seguida, conecte seu controlador ao roteador Wi-Fi em modo único primeiro.
+(C) O meu telefone não pode executar o dispositivo Wi-Fi.
+    Este aplicativo suporta estes SO: Android 2.3 ou superior, IOS6.0 ou superior.
+(D) Quantos controladores WiFi podem ser controlados por um telefone em modo único ou modo de rede?
+    No modo único, um telefone pode controlar o controlador wifi 1pcs. No modo de rede, quantos controladores WiFi um telefone pode sincronizar o controle é o mesmo que quantos dispositivos um roteador WiFi pode funcionar.
+
+(E) Posso usar muitos telefones para controlar um controlador Wi-Fi?
+     Sim, você pode usar 8 telefones para controlar um controlador Wi-Fi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,,,,
+
+

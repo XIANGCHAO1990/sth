@@ -1,0 +1,303 @@
+1626160
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/FB/0F/51b5f007-ca51-44ad-ac2e-2777f6aecfef.JPG
+7W Mini DC DC Boost aumentar Convertidor 2.6-5.5V a 5V 6V 9V 12V Módulo regulador de voltaje
+https://es.banggood.com/7W-Mini-DC-DC-Boost-Step-Up-Converter-2_6-5_5V-to-5V-6V-9V-12V-Voltage-Regulator-Module-p-1626160.html?cur_warehouse=CN&ID=519957&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:  
+
+
+
+- DC DC Boost Converter Module frecuencia de trabajo 1MHZ. 
+
+- Hasta 93% de eficiencia (generalmente es 84% -91%) 
+
+- Corriente de reposo: 190uA.
+
+- Programa de límite de corriente (0.5-2.5A, predeterminado 1.8A)  
+
+- Tamaño: 21 x 11 x 4 mm
+
+- Peso: 1,5 g
+
+- Proteccion :  
+
+Protección contra sobrecorriente (OCP)
+
+Protección contra sobretensión (OVP)
+
+Protección contra cortocircuitos (SCP)
+
+Protección contra sobrecalentamiento (OTP) 
+
+
+
+
+
+
+Salida 5V:
+
+ 
+
+
+Voltaje de entrada DC 2.6 ~ 4.5V, salida DC 5V ± 3%
+
+Salida máxima: 5V / 1300MA (consulte la tabla a continuación para obtener más detalles)   
+
+ 
+
+
+
+ 
+Salida 6V:
+
+							Voltaje de entrada DC 2.6 ~ 5.5V, salida DC 6V ± 3%
+							Salida máxima: 6V / 1200MA (consulte la tabla a continuación para obtener más detalles)
+
+
+Salida 9V:
+
+							Voltaje de entrada DC 2.6 ~ 5.5V, salida DC 9V ± 3%
+							Salida máxima: 9V / 800MA (consulte la tabla a continuación para obtener más detalles)
+
+
+
+
+
+
+Salida 12V:
+
+
+Voltaje de entrada DC 2.6 ~ 5.5V, salida DC 12V ± 3%
+					Salida máxima: 12V / 600MA (consulte la tabla a continuación para obtener más detalles)
+
+
+
+
+ 
+
+
+
+
+Descripción del Pin:
+
+
+
+Vi: Entrada positiva (+)
+
+GND: entrada y salida negativa (GND / -)
+
+Vo: Salida positiva (+)
+
+
+
+Aplicaciones:
+
+
+
+Equipo alimentado por batería
+
+Instrumentación, multímetro
+
+Placa de pruebas Stm32 Lcd LED
+
+Motores de pequeña potencia
+
+Cámara web PTZ Cámara
+
+IP Cámara
+
+Barco de coche de juguete
+
+Modelo de avión
+
+Banco de energía
+
+LED motor  
+
+Energía solar
+
+Router de wifi 
+
+Dispositivos PLC RS485
+
+Equipo de suministro de energía de batería de litio
+
+ 
+
+Atención :
+
+
+
+Este es un módulo convertidor de voltaje CC-CC, debe tenerse en cuenta al usar:
+
+
+
+1. El voltaje de entrada no puede ser mayor que el rango de entrada máximo
+
+2. La potencia de salida no puede ser mayor que la carga máxima durante mucho tiempo.
+
+3. La potencia de entrada debe ser mayor que la potencia de salida, porque el consumo de energía del propio módulo  
+
+
+
+Preguntas y Respuestas:
+
+ 
+
+P: ¿Por qué el voltaje de salida es menor que el voltaje nominal?
+
+R: La potencia de la fuente de alimentación de entrada es demasiado baja. Pruebe el voltaje de entrada con un multímetro, en este momento el voltaje de entrada es muy bajo
+
+
+
+Paquete incluido:
+
+
+
+1 x 7W Mini DC DC Boost aumentar Convertidor 2.6-5.5V a 5V 6V 9V 12V
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,191 @@
+1005123
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/9A/2A/1561e54c-3b35-4e40-8de3-fc3efd632b87.jpeg
+LM2596 DC-DC-Spannungsregler Einstellbares Step-Down-Netzteilmodul mit Display
+https://de.banggood.com/LM2596-DC-DC-Voltage-Regulator-Adjustable-Step-Down-Power-Supply-Module-With-Display-p-1005123.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spezifikation:
+
+
+
+1. Mit dem Voltmeter zeigt der Spannungsmesserfehler ± 0,1 V an, der Bereich 0-40 V. (Hinweis: Um die Genauigkeit des Voltmeters zu gewährleisten, stellen Sie bitte sicher, dass die Eingangsspannung 4V und mehr beträgt)
+	2. Berühren Sie die Taste, um die Messeingangs- oder Ausgangsspannung umzuschalten, und es wird eine Lichtshow angezeigt, in der Spannungen gemessen werden
+	3. Schalten Sie die Speicherfunktion aus, zeigen Sie die zum letzten Mal gemessenen Spannungswerte der Straße an
+	4. Drücken Sie die Touch-Taste 3 Sekunden lang, um das LED-Display auszuschalten, berühren Sie die Taste erneut, um das LED-Display einzuschalten
+	5. Die Bandklemmen, kein Bügeleisen können auch einfach zu bedienen sein und der Haltedrahtanschlusspunkt
+	6. Eingangsspannung 4,0-40V (Eingangsspannung zur Ausgangsspannung muss höher als 1,5V sein.)
+	7. Der einstellbare Ausgangsspannungsbereich von 1,25V-37V stufenlos einstellbar (Eingangsspannung muss höher als die Ausgangsspannung auf ca. 1,5V sein)
+	8. Der maximale Ausgangsstrom bis zu 3A, normaler und stabiler Betriebsstrom von 2A
+	9. die interne Oszillationsfrequenz 150KHz, die zur zweiten Generation des Schaltspannungsreglers gehört, geringer Stromverbrauch, hoher Wirkungsgrad
+	10. Die Stromschalt-LEDs sind rot
+
+
+
+Lieferinhalt:
+
+
+1 x DC-DC-Abwärtsspannungswandler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

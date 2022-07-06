@@ -1,0 +1,192 @@
+https://es.banggood.com/V139-Car-Diagnostic-Scanner-Tool-Multi-Langauges-Interface-for-Renault-Clip--p-945769.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+Herramienta de Diagnóstico Automático V139 para Clip Renault Interfaz de Multi-Idiomas
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Función: 
+
+Ver toda la información relacionada con el vehículo
+Prueba de computadora
+Prueba automática de todas las computadoras
+Prueba de Airbag
+Ccantool (Pruebas OBD)
+Base Doc (Acceso a notas técnicas)
+Mediciones físicas
+Anticontaminación
+Multímetro
+
+
+Cómo romper Renault Can Clip:
+
+1). ¡Después de terminar la instalación, NO ejecute su CLIP!
+Primero, reemplace el archivo original (haga una copia de seguridad primero su RSRwin.exe original) con el archivo RSRwin.exe en C: CLIP_X91LibApplication
+2). Luego ejecuta RSRwin.exe, elija "Registrarme ahora" y en la siguiente ventana seleccione "No".
+3). Utiliza esta clave para el registro: 333DEF-111DEF-111DEF-222DEF-221DEF-000DEF, Funcionará hasta el 31/12/2020 :)
+4). Recupera el RSRWin.exe original
+5). Ejecuta la actualización 139
+
+
+
+ Conjunto de Renault CAN Clip incluido:
+
+1 x Interfaz de clip CAN 
+1 x Cables de 16 pines para Clip CAN - conexión de coche
+1 x Cables de 12 pines para Clip CAN - conexión de coche
+1 x Cable para Clip CAN - conexión PC
+1 x CD de software
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,171 @@
+1332909
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/FD/FF/ba018c83-f811-44f4-9dae-0614ea65f9d8.jpg
+LILYGO® TTGO T5 V2.0 WiFi Módulo sem fio bluetooth Base ESP-32 ESP32 2.13 Placa de desenvolvimento de display de papel eletrônico
+https://pt.banggood.com/LILYGO-TTGO-T5-WiFi-Wireless-Module-bluetooth-Base-ESP-32-ESP32-2_13-e-Paper-Display-Development-Board-p-1332909.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visão geral:
+
+Devido às vantagens como consumo de energia ultra baixo, amplo ângulo de visão, exibição clara sem eletricidade, é a escolha ideal para aplicações como etiqueta de prateleira, instrumento industrial e assim por diante.
+
+Recursos:
+
+- Sem luz de fundo, continua exibindo o último conteúdo por um longo tempo, mesmo quando desligado
+- Consumo de energia ultra baixo, basicamente, a energia é necessária apenas para atualizar
+- Vem com recursos de desenvolvimento e manual (exemplos para Arduin-esp32)
+
+Especificações:
+
+-Tensão de operação: 3,3V
+-Interface: SPI de 3 fios, SPI de 4 fios
+-Cor da tela: preto, branco
+-Nível de cinza: 2
+-Tempo de atualização completo: 8s
+- Potência de atualização: 26,4 mW (típico)
+-Potência em espera: <0,017mW
+- Ângulo de visão: >170°- Versão de atualização: Lasca CH9102F (armazém CN), Lasca CP2104 (CZ armazém)
+
+Biblioteca: Clique para abrir
+Código: Clique para abrir
+
+Incluído no Pacote:
+
+1 x T5 V2.0 TTGO Módulo sem fio WiFi
+
+
+
+

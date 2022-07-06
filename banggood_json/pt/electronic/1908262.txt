@@ -1,0 +1,202 @@
+1908262
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/89/BA/2b36fc1c-ce0e-4b5b-a99d-3eb3d6e88a84.jpg
+Fonte de alimentação de comutação de display digital de 480 W Voltagem ajustável 110 / 220V AC para 5V 12V 24V 36V 48V 60V 80V 120V 160V 220V 300V
+https://pt.banggood.com/480W-Digital-Display-Switching-Power-Supply-Adjustable-Voltage-110-or-220V-AC-to-5V-12V-24V-36V-48V-60V-80V-120V-160V-220V-300V-p-1908262.html?cur_warehouse=CN&ID=6314754&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Potência nominalTela digitalBotão AjustávelID do item
+
+
+480WVoltagemVoltagem1908262
+
+
+VoltagemTensão e Corrente1925431
+
+
+Tensão e CorrenteTensão e Corrente1925433
+
+
+1000WTensão e CorrenteVoltagem1927330
+
+
+Tensão e CorrenteTensão e Corrente1925287
+
+Especificação: Tensão de entrada: 110 / 220V AC (selecionado por switch)
+
+
+
+
+Potência de saída  limitação da faixa de tensão de saídaintervalo atual
+
+
+480W0-5V60A
+
+
+0-12V40A
+
+
+0-24V20A
+
+
+0-36V15A
+
+
+0-48V10A
+
+
+0-60V8A
+
+
+0-80V6A
+
+
+0-120V4A
+
+
+0-220V2A
+
+Para corrente máxima, se você escolher 0-80 V, quando definir a tensão em 24 V, a corrente máxima ainda será 6A.Tensão de ondulação: não mais que 100 mVResistência interna equivalente estabilizada por tensão: não mais do que 0.O5ΩCurto-circuito, proteção contra sobrecarga e recuperação automáticaTamanho: 215 * 115 * 50 mmL, N: terminal de entrada CAFG: marca de base V +: terminal positivo de saída DCV-: terminal negativo de saída DC Potenciômetro ajustável ADJ: Tensão DC de saída de ajuste fino● entrada de tensão total● miniaturização● Função de proteção Curto-circuito / sobrecarga / sobretensão● Teste de envelhecimento de carga total 100%Tensão de entrada e faixa de frequência ---------- 110 V / 220 V CA / 47 ～ 63 HzComece a corrente de surto --------------- 20A @ 120VAC (partida a frio)Faixa de ajuste de saída --------------- ± 100% (tensão de saída nominal)Proteção contra sobrecarga ------------------- 105% ~ 200% (carga nominal), auto-recuperaçãoProteção contra sobretensão ------------------- 115% ~ 135% (tensão de saída nominal)Proteção contra curto-circuito ------------------- auto-recuperaçãoTempo de início de saída --------------- ≤2S @ 120VAC ≤1.0S@230VACOForça de isolamento ------------------- Entrada-Saída: AC1500V, 1min ； Entrada - invólucro: AC1500V, 1min ； Saída - Caixa: DC500V, 1minAmbiente de trabalho ------------------ -10 ° C ~ 50 ° C; 20% ~ 90% UR (sem condensação)Incluído no Pacote:Fonte de alimentação de comutação de display digital de 1 x 480W
+
+
+
+

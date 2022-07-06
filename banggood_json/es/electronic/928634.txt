@@ -1,0 +1,183 @@
+928634
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/29/DF/f5a1657a-d7a4-4cd4-9d5e-45e07c89b7ad.jpg
+Motor de Puente H ​BTS7960B 43A ​Semiconductor Módulo de Controlador Para Arduino
+https://es.banggood.com/Semiconductor-BTS7960B-5V-43A-H-bridge-Motor-Driver-Module-p-928634.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Motor de Puente H BTS7960B 43A Semiconductor Módulo de Controlador Para Arduino
+
+Características:
+
+Doble BTS7960 gran corriente eléctrica (43A) H puente de conducción
+5V aislado de SCM por lo que puede proteger el SCM de manera efectiva
+Este módulo puede afectar el avance y la inversión del motor, tanto la frecuencia máxima de PWM es de 25 kHz
+Dos corrientes que pasan la señal de error de sobrecalentamiento se apagarán.
+La fuente de alimentación del chip aislante es de 5V por lo que se puede usar con SCM en 5V
+La presión de la corriente eléctrica oscila entre 5.5V--27V
+
+Especificación:
+
+Peso: 66g
+Talla: 4.8 x 4.8 x 3.9cm
+
+Paquete incluido:
+
+1 x Conductor del motor BTS7960B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

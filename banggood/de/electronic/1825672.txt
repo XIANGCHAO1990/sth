@@ -1,0 +1,165 @@
+https://de.banggood.com/ELEGOO-SATURN-MSLA-4K-8_9-inch-MONOCHROME-LCD-Resin-3D-Printer-UV-Photocuring-LCD-Resin-3D-Printer-with-4K-Monochrome-LCD-or-Matrix-UV-LED-Light-Source-or-Off-Line-or-WLAN-Print-or-Print-Size-192x120x200mm-p-1825672.html?cur_warehouse=USA&ID=47757&rmmds=CategoryElectronicsPop
+ELEGOO® SATURN MSLA 4K 8,9 "MONOCHROM LCD Resin 3D-Drucker UV Photocuring LCD Resin 3D-Drucker mit 4K Monochrom LCD / Matrix UV LED Lichtquelle / Offline / WLAN Druck- / Druckgröße 192x120x200mm
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Produkte werden nicht mehr mit SD-Karten und USB- und TF-Karten versendet.Please download the SD card file hereMerkmale: Schnellere Druckgeschwindigkeit
+ - Der Saturn 3D-Drucker wird mit einem 8,9-Zoll-4K-Monochrom LCD mit einer Auflösung von HD von 3840 x 2400 geliefert. Dadurch wird die Schichtdruckzeit auf 1,5 bis 2 Sekunden reduziert, was 60% schneller als bei Mars Pro ist und dennoch hervorragende Druckergebnisse liefert.Größeres Build-Volumen - Saturn hat ein großes Druckvolumen von 192 * 120 * 200 mm (7,55 Zoll * 4,72 Zoll * 7,87 Zoll), und Sie können mehrere Modelle in voller Größe gleichzeitig drucken, was Ihre Produktivität erheblich verbessern kann.
+
+ Höhere Präzision und einfacheres Drucken - Die Z-Achse verwendet eine doppelte lineare Führungsbahnstruktur, die eine gleichmäßigere Bewegung und eine erheblich verbesserte Bewegungsgenauigkeit erzielen kann. Mit dem Ethernet-Anschluss auf der Rückseite und der integrierten 4-GB-Datenfestplatte unterstützt Saturn jetzt die Dateiübertragung über Ihr lokales Netzwerk, was für schnelles Drucken sehr praktisch ist.
+
+Qualitätsdrucke und beständiger Erfolg - Die Matrix-Lichtquelle besteht aus 54 UV LED-Leuchten mit gleichmäßiger Lichtemission, die überlegene Druckergebnisse und eine genauere Druckgröße gewährleisten. Die Stellschrauben auf der Bauplatte gewährleisten eine dauerhafte Nivellierung, ohne dass eine häufige Kalibrierung erforderlich ist, und die sandgestrahlte Oberfläche bietet eine viel stärkere Haftung, insbesondere beim Drucken großer 3D-Modelle.Wir gewähren 1 Jahr Garantie auf den gesamten Drucker (ausgenommen 4K-LCD, FEP-Film und Toolkit). Einige Dateien zum Herunterladen:* Firmware1.Neueste Firmware: Klicken Sie hier zum Herunterladen: V4.3.192.Firmware, die Sie nach dem Ersetzen des LCD aktualisieren müssen: Klicken Sie hier zum HerunterladenSo ersetzen Sie das LCD: https://youtu.be/NJhucYuSjjk3. Maschinenparameter: Klicken Sie hier zum Herunterladen*Vorsicht: 
+ Stellen Sie sicher, dass diese Firmware mit Ihrem Drucker übereinstimmt. Ein falsches Update auf verschiedenen Druckern kann dazu führen, dass sie unbrauchbar wird. Wenn Sie Probleme mit der Firmware haben, wenden Sie sich bitte an unser Support-Team unter 3dp@elegoo.com Mit der Chargennummer am unteren Rand des Druckers werden wir unser Bestes geben, um Ihnen zu helfen.* So aktualisieren Sie:Schritt 1 - Kopieren Sie die Datei in das Stammverzeichnis des USB-SticksSchritt 2 - Stecken Sie das USB-Flash-Laufwerk in den DruckerSchritt 3 - Drucken Sie die zu aktualisierende Datei auf dem Drucker.* VideoanleitungenHow to replace the Mono LCD screen2. How to replace the FEP3. How to replace the motherboard* USB-Treiberdatei: Klicken Sie hier zum Herunterladen USB DRIVE FILES (MANUAL & SLICING SOFTWARE INCLUDED)* Harzeinstellung 1. Offizielle Vorschläge für ELEGOO-Harz auf ELEGOO-Druckern:  ELEGOO Printers Resin Setting Sheet2. Inoffizielle Vorschläge für die meisten Markenharz auf ELEGOO Saturn Seires Printers (Beitrag unserer Community-Mitglieder):Harzeinstellungen für Drucker der ELEGOO Saturn-Serie*Handbuch:  Klicken Sie hier zum Herunterladen
+Spezifikationen:System: EL3D-3.0.1 Bedienung: 3,5-Zoll-TouchscreenSlicer-Software: Chitu DLP SlicerKonnektivität: USBTechnologie: LCD UV LichthärtungLichtquelle: UV Integrierte LED-Lichter (Wellenlänge 405 nm)
+
+XY-Auflösung: 0,05 mm (3840 * 2400)
+
+Genauigkeit der Z-Achse: 0,00125 mm
+
+Schichtdicke: 0,01-0,15 mm
+
+Druckgeschwindigkeit: 30-40 mm / h
+
+Leistungsanforderungen: 110-240 V 50/60 Hz 24 V 4 A 96 W.Druckerabmessungen: 11,02 Zoll (L) * 9,44 Zoll (B) * 17,55 Zoll (H) / 28 cm (L) * 24 cm (B) * 44,6 cm (H)
+
+Bauvolumen: 7,55 Zoll (L) * 4,72 Zoll (B) * 7,87 Zoll (H) / 192 mm (L) * 120 mm (B) * 200 mm (H)
+
+Gewicht: 10 kg
+
+
+
+

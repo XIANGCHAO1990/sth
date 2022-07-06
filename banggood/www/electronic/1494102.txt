@@ -1,0 +1,165 @@
+https://www.banggood.com/ATmega328P-Nano-V3-Controller-Board-For-Improved-Version-Development-Module-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1494102.html?cur_warehouse=CN&ID=6300464&rmmds=CategoryElectronicsPop
+ATmega328P Nano V3 Controller Board For Improved Version Development Module Geekcreit for Arduino - products that work with official Arduino boards
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specification:
+
+Microcontroller ATmega328
+Operating Voltage (logiclevel): 5V
+Input Voltage (recommended): 7V ~ 12V
+Input Voltage (limits): 6V ~ 20 V
+Digital I/O Pins: 14 (of which 6 provide PWM output)
+Analog Input Pins: 8
+DC Current per I/O Pin: 40mA
+Flash Memory: 32KB (ATmega328) (of which 2 KB used by bootloader)
+SRAM: 2KB (ATmega328)
+EEPROM: 1KB (ATmega328)
+Clock Speed: 16MHz
+Chip: CH340G (CH340B is the update version of CH340G, CH340B comes with crystal, but CH340G doesn't, and we default sending CH340G version)
+
+Note:
+
+Improved USB chip for speed and stability using WIN7/WIN8. 
+This version comes with 15 pin headers unsoldered, 6 pin headers soldered and not included the USB cable.
+
+Package included:
+
+1/3/5 x Nano V3.0 Board with pins (optional)
+
+
+
+

@@ -1,0 +1,224 @@
+https://de.banggood.com/NanoVNA-H4-4-inch-LCD-50KHz~1_5GHz-VNA-HF-VHF-UHF-UV-Vector-Network-Analyzer-p-1641897.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+NanoVNA-H4 4" LCD 50KHz~1,5GHz VNA HF VHF UHF UV Vektor-Netzwerkanalysator
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Merkmale:
+
+
+- Mit der DC-Dimmmethode kann der 4"-Vollbildbildschirm LCD für den Außenbereich klarer und für den Innenbereich komfortabler gesehen werden.
+
+- Optimierte elektrische Brücke: Durch die volle Nutzung der Oberschwingungen von Si5351 kann die Oberschwingung 5th zur Messung von bis zu 1,5 GHz verwendet werden.
+
+- Wenn die Grundwelle verwendet wird, wird der Ausgangspegel von CH0 auf 0 dBm erhöht, wodurch die Reflexionsmessung genauer wird.
+
+- Behebung der Anomalie von NanoVNA-H beim Betrieb mit etwa 6 MHz zuvor.
+
+- Die neu gestaltete Energieverwaltungsschaltung reduziert Stromrauschen, USB-Stromstörungen und Ladestrom.
+
+- Verbessertes PCB-Layout.
+
+- Reservierte UART-Schnittstelle für DIY-Erweiterung.
+
+- Die leichte ABS-Schale hält das Gerät gut geschützt.
+
+-Computersoftware unterstützt Steuerung und Echtzeitanzeige. Und es unterstützt den Export von snp-Dateien für verschiedene Radiodesign- und Simulationssoftware.
+
+- Als Messgerät ist Genauigkeit von großer Bedeutung. Einfache Kalibrierteile sind im Paket enthalten. Wir haben die Dual-Ports des Produkts vor der Auslieferung kalibriert. Wenn sich Ihre Messbedingungen ändern (z. B. Wechsel von einer schmaleren Kalibrierbandbreite zu einer größeren Messbandbreite mit einer Verlängerungskabelmessung), müssen Sie eine Neukalibrierung durchführen. Nach der Kalibrierung wird sie als Einstellung 0 gespeichert, die direkt beim nächsten Booten verwendet werden kann, oder sie kann bei Bedarf durch Abrufen in den anderen 4 gespeicherten Elementen gespeichert werden.
+
+
+
+Parameter:
+
+
+1. ABS Schale: 75 mm x 133 mm x 18 mm (ohne Vorsprünge)
+
+2. Messfrequenz: 50KHz ~ 1,5GHz
+
+3. HF-Ausgang: 0 dBm (± 2 dB, Grundwelle)
+
+4. Frequenzgenauigkeit: <2ppm
+
+5. Frequenzstabilität: < 0,5 ppm
+
+6. Messbereich: 70dB (50kHz-300 MHz), (60dB (300M-900MHz), 40dB (0,9G-1,5GHz) ermöglichen Erweiterungsfirmware)
+
+(Hinweis: Bitte beachten Sie den Fehler, der durch nichtlineare Transformationen verursacht wirdider Grundwelle bei Oberwellenmessung.)
+
+7. Port-SWR: <1.1
+
+8. Anzeige: 4" TFT (320 x 480)
+
+9. USB-Schnittstelle: USB-Typ-C; Kommunikationsmodus: CDC (seriell)
+
+10. Stromversorgung: USB 5V 200mA. Maximaler Ladestrom 1A
+
+11. Anzahl der Kalibrierpunkte: 101 (fest)
+
+12. Anzahl der Scanpunkte: 101 (fest)
+
+13. Display-Tracking: 4, Markierung: 4, Einstellung speichern: 5
+
+14. Messung von S-Parametern, Stehwellenverhältnis, Phase, Verzögerung, Smith-Diagramm, Zeitbereichsanalyse usw.
+
+
+
+Paket lInbegriffen:
+
+
+1 x NanoVNA-H4  
+
+2 x 15 cm SMA Stecker auf Stecker RG316 HF-Kabel
+
+1 x SMA Buchse auf Buchse
+
+1 x SMA Einfache Kalibrierung Satz KURZ
+
+1 x SMA Einfache Kalibrierung Satz OFFEN
+
+1 x SMA Einfache Kalibrierung Satz LOAD
+
+1 x USB Type-C Datenkabel
+
+1 x Type-C bis Type-C (Für Android-Mobiltelefonverbindung)
+
+Details Bilder:
+
+
+
+
+

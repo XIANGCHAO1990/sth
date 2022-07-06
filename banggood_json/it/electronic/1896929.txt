@@ -1,0 +1,145 @@
+1896929
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/D9/13/44a07c4b-2222-4c2a-9510-4626e576a973.jpg
+5 pezzi ESP-32S ESP32 Scheda di sviluppo Wireless WiFi + Bluetooth 2 in 1 CPU Dual Core Scheda di controllo a bassa potenza ESP-32S
+https://it.banggood.com/5Pcs-ESP-32S-ESP32-Development-Board-Wireless-WiFi+Bluetooth-2-in-1-Dual-Core-CPU-Low-Power-Control-Board-ESP-32S-p-1896929.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristica:ESP32 integra interruttori d'antenna, balun RF, amplificatori di potenza, amplificatori a basso rumore, filtri e moduli di gestione dell'alimentazione e l'intera soluzione occupa la più piccola area del circuito stampato. Wi-Fi a 2,4 GHz e chip dual-mode BluetoothUtilizzando la tecnologia TSMC a 40 nm a bassa potenza, le prestazioni di potenza e le prestazioni RF sono le migliori, sicure e affidabili e facili da estendere a varie applicazioni.Use document download: https://github.com/Nicholas3388/LuaNode Specifica:ConvenientePiccolo volume. Facile da incorporare in qualsiasi prodottoPotente, supporta il protocollo LWIP, freertosSupporta tre modalità: modalità di coesistenza AP, STA, AP + STALa programmazione Lua semplifica il tuo sviluppoLa confezione include:5 x ESP32 Scheda di sviluppo
+
+
+
+

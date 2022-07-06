@@ -1,0 +1,186 @@
+959231
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/4D/75/bfacef5e-9ca0-4650-85a3-87a23e196292.JPG
+Geekcreit® ATmega328P Arduino Compatibile Nano V3 Versione Aggiornata Senza Cavo
+https://it.banggood.com/Geekcreit-ATmega328P-Nano-V3-Module-Improved-Version-No-Cable-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-959231.html?cur_warehouse=CN&ID=6300464&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifiche:
+
+Microcontrollore Atmel ATmega328
+Tensione di Funzionamento (livello logico): 5V
+Tensione in Ingresso (Consigliata): 7V ~ 12V
+Tensione in Ingresso (Limite): 6V ~ 20 V
+Pin I / O Digitale : 14 (6 di cui sono per l'uscita PWM)
+Pin di ingresso analogici: 8
+Corrente DC per I / O Pin: 40mA
+Memoria Flash: 32KB (ATmega328) (2 KB tra cui sono utilizzati dal bootloader)
+SRAM: 2 KB (ATmega328)
+EEPROM: 1KB (ATmega328)
+Frequenza di clock: 16 MHz
+
+Note:
+
+Questa versione non include il cavo USB.
+Il chip USB è cambiato, la velocità di scarico e la stabilità del WIN7 / WIN8 sono migliorate
+
+Il pacchetto include:
+
+1 x Arduino Compatibile Nano V3.0 Versione Aggiornata
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

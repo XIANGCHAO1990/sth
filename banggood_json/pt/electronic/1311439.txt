@@ -1,0 +1,198 @@
+1311439
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/BA/E5/899ae22e-d35c-4819-9935-f2df4d9faf9e.jpeg
+Geekcreit® LCR-T4 12864 LCD Transistor gráfico Tester Resistência Capacitância ESR Medidor SCR
+https://pt.banggood.com/Geekcreit-LCR-T4-12864-LCD-Graphical-Transistor-Tester-Resistance-Capacitance-ESR-SCR-Meter-p-1311439.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificações:
+
+Resistor: 0.1ω-50Mω
+Capacitor: 25pF-100000uF
+Indutância: 0,01mH - 20H
+Potência de trabalho: DC-9V
+Corrente de espera: 0,02uA
+Corrente operacional: 25mA
+Material: Metal + Plástico
+Tamanho: cerca de 11,1 cm / 4,37 "x2,6 cm / 1,02" x8,5 cm / 3,34 "
+[Conversão: 1 cm = 0,3937 polegada, 1 polegada = 2,54 cm]
+
+
+Características:
+
+
+
+1. Suporte a função de detecção de tensão de inicialização
+
+2. Detecção automática de NPN e transistores PNP, MOSFETs de canal N e canal P, diodos (incluindo diodos duplos), tiristores, triodos, resistores e capacitores. Testar automaticamente os terminais do componente e exibi-los no LCD
+
+3. A tensão de polarização direta do transistor emissor pode ser determinada detectando o fator de amplificação e o número de base de um transistor, um diodo de proteção MOSFET e semelhantes
+
+4. Meça a tensão limite da porta e a capacitância da porta MOSFET
+
+5. O display usa 12864 lcd LCD (128 * 64 caracteres)
+
+6. Alta velocidade de teste, teste de componente válido: Em 2 segundos (exceto em capacitores maiores, a medição de grande capacitância também leva muito tempo, o tempo de medição em 1 minuto é normal)
+
+7. Operação de um botão, teste de inicialização.
+
+8. Modo de desligamento de consumo de energia: Menos de 20 nA
+
+9. A função de desligamento automático pode evitar desperdício desnecessário, economizar energia da bateria e melhorar a vida útil da bateria.
+
+O pacote inclui:
+
+	1 x LCR-T4 12864 LCD Testador gráfico de transistor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

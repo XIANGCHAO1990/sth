@@ -1,0 +1,145 @@
+1903680
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/27/A9/caba930a-1257-4e6e-b682-249b9934638e.jpg
+3PCS ESP32-CAM-MB-WiFi MICRO USB ESP32 Serial a WiFi ESP32 CAM Placa de desarrollo CH340G 5V Bluetooth + OV2640 Cámara + 2.4G Antena IPX
+https://es.banggood.com/3PCS-ESP32-CAM-MB-WiFi-MICRO-USB-ESP32-Serial-to-WiFi-ESP32-CAM-Development-Board-CH340G-5V-Bluetooth+OV2640-Camera+2_4G-Antenna-IPX-p-1903680.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>> Manual: Haga clic aquí para abrir <<<Nota: Este producto tiene una antena incorporada, si necesita usar una antena externa, debe resolver la resistencia con un soldador usted mismo.Paso 1: para soldar estas dos partes en la caja azulPaso 2: para fusionar las dos posiciones seleccionadas por los cuadros verdes en la imagenPaso 3: soldar una resistenciaLos resultados son los siguientesAntena WIFI 2.4G:Conector SMA 2.4GHz 2dBi Inalámbrico WLAN Antena AntenaGanancia: 2dbiConector: Conector RP SMA macho (pin hembra)De color negroLongitud de la antena: 11 cmIntroducción a ESP32-CAM-MB:El módulo HK-ESP32-CAM-MB es un módulo de cámara pequeño con un tamaño de 39,8 * 27. Este módulo puede funcionar de forma independiente como el sistema más pequeño. Una nueva placa de desarrollo de modo dual WiFi + Bluetooth basada en el diseño ESP32, que utiliza una antena integrada de PCB, con 2 LX6CPU de 32 bits de alto rendimiento, que utiliza una arquitectura de tubería de 7 niveles, rango de ajuste de frecuencia principal de 80 MHz a 240 MHz. Consumo de energía ultra bajo, la corriente de sueño profundo es tan baja como 6 mA. Es un módulo SoC 802.11b / g / n Wi-Fi + BT / BLE ultrapequeño.HK-ESP32-CAM-MB adopta una interfaz Micro USB, un método de conexión conveniente y confiable, conveniente para aplicar en varias ocasiones de terminales de hardware de IoT.Parámetro:Utilice una CPU de 32 bits de doble núcleo y bajo consumo, que se puede utilizar como procesador de aplicaciones.La frecuencia principal es de hasta 240 MHz y la potencia de cálculo es de hasta 600 DMIPS.SRAM integrado de 520 KB, PSRAM externo de 8 MBAdmite UART / SPI / I2C/PWM / ADC / DAC y otras interfacesAdmite cámaras OV2640 y OV7670, flash incorporadoSoporte de carga de imágenes WiFISoporte de tarjeta TFAdmite múltiples modos de suspensión.Lwip y FreeRTOS integradosAdmite el modo de trabajo STA / AP / STA + APAdmite la configuración de red con un solo clic de Smart Config / AirKissApoyar el desarrollo secundarioEscenario de aplicación:Transmisión de imágenes de dispositivos inteligentes domésticosMonitoreo inalámbricoAgricultura inteligenteReconocimiento inalámbrico QRSeñal del sistema de posicionamiento inalámbricoY otras aplicaciones de IoTEspecificaciones:Voltaje de funcionamiento 4,75-5,25 VSPIFlash predeterminado de 32 MbitRAM interna 520KB + externa 8MB PSRAMWi-Fi 802.11b / g / n / e / iBluetooth Bluetooth 4.2BR / EDR y BLE estándarInterfaz de soporte (2 Mbps) UART, SPI, I2C, PWMAdmite tarjeta TF, soporte máximo 4GPuerto IO 9Tasa de puerto serie predeterminada 115200bpsRango de espectro 2400 ~ 2483,5 MHzForma de antena Antena PCB integrada, ganancia 2dBiFormato de salida de imagen: JPEG (solo compatible con OV2640), BMP, ESCALA DE GRISESMétodo de envasado DIP-16Potencia de transmisión 802.11b: 17 ± 2dBm (@ 11Mbps)802.11g: 14 ± 2dBm (@ 54Mbps)802.11n: 13 ± 2dBm (@ MCS7)Sensibilidad de recepción CCK, 1 Mbps: -90dBmCCK, 11 Mbps: -85dBm6 Mbps (1 / 2BPSK): -88dBm54 Mbps (3/464-QAM): -70dBmMCS7 (65 Mbps, 72,2 Mbps): -67dBmConsumo de energía Apague el flash: 180 mA a 5 VEncienda el flash y ajuste el brillo al máximo: 310mA @ 5VSueño profundo: el consumo de energía más bajo puede alcanzar 6 mA a 5 VModerm-sleep: el más bajo puede alcanzar 20mA @ 5VSueño ligero: el más bajo puede alcanzar6.7mA@5VSeguridad WPA / WPA2 / WPA2-Enterprise / WPSTemperatura de trabajo -20 ℃ ~ 70 ℃Entorno de almacenamiento -40 ℃ ~ 125 ℃, <90% RHPeso 10 g / pcsEl paquete incluye:3 x ESP32-CAM-MB WIFI3 x placa de desarrollo ESP32-CAM3 x 2,4G Antena IPX3 x OV2640 Cámara
+
+
+
+

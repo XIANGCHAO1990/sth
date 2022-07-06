@@ -1,0 +1,143 @@
+https://it.banggood.com/AOQDQDQD-ESP8266-Weather-Station-Kit-with-Temperature-Humidity-Atmosphetic-Pressure-Light-Sensor-0_96-Display-for-Arduino-IDE-IoT-Starter-p-1751604.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+AOQDQDQD® ESP8266 Kit stazione meteorologica con sensore luce pressione atmosferica umidità temperatura 0,96 Display per avviamento IoT IDE Arduino
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manuale: Clicca qui per aprire<<<Nota: Per il kit fai da te, l'utente deve avere conoscenze elettroniche di base, si prega di controllare il manuale prima dell'acquisto per assicurarsi che possa essere utilizzato. Si prega di acquistare con attenzione per evitare controversie inutili. Grazie.Descrizione:La stazione meteorologica utilizza l'ESP8266-12E per ottenere dati da Internet: ora di una città, dati meteorologici e informazioni sulle previsioni per i prossimi 3 giorni, scorrendo sul display OLED SSD1306; il dispositivo può passare alla visualizzazione dei dati da qualsiasi città del mondo, forse i tuoi parenti o amici vivono lìIl dispositivo utilizza sensori DHT11, BMP180, BH1750FVI per raccogliere dati di temperatura, umidità, pressione atmosferica e luce. La stazione meteorologica legge i dati interni tramite sensore ogni 5 secondi e li carica su Internet ogni 60 secondi.È possibile visualizzare i grafici dei dati in tempo reale dal telefono o dal computer.Ovviamente è possibile modificare il codice per implementare diverse funzioniESP8266: chip CP2102 all'interno, Micro USB, flash da 4 MB, porta I / O completa e wireless 802.11 supportato con piattaforma IOT.Sensore DHT11: un'uscita di segnale digitale con un sensore combinato di temperatura e umidità calibrato.Il semplice protocollo di comunicazione riduce notevolmente lo sforzo di programmazione richiestoBMP180: sensore di pressione 3μA ad alta precisione, dimensioni ridotte e bassissima potenza.La sua eccellenza nelle prestazioni, la precisione assoluta del più basso può raggiungere 0,03hPa.Può direttamente attraverso il bus I2C collegato a una varietà di microprocessori.Intervallo di pressione: 300 ~ 1100hPa.BH1750FVI: sensore di intensità della luce digitale Uscita digitale diretta, il calcolo complesso viene omesso, omettendo la calibrazione.OLED giallo blu Display: 0,96 "SSD1306 128 x 64 giallo e blu OLED LCD Display con seriale I2C IIC SPI Risultato:1) Ottieni dati meteo da OpenWeathermap a intervalli regolari, mostrando il tempo di oggi e le previsioni del tempo per i prossimi 3 giorni in qualsiasi città del mondo2) Leggere i dati di temperatura e umidità correnti all'interno a intervalli regolari3) Lettura regolare della pressione atmosferica, dati sull'intensità della luce4) Carica i dati di temperatura, umidità, pressione atmosferica e intensità di illuminazione su thingspeak.com a intervalli regolari5) Visualizza le previsioni del tempo sul display OLED e visualizza il grafico di monitoraggio ambientale su thingspeak.comFase di guida:Panoramica ： Questo manuale descrive come creare una stazione meteorologica in miniatura con IDEPassaggio 1: installa USB-To-SerialPassaggio 2: installa IDE per ESP8266Passaggio 3: masterizzazione del firmware su ESP8266Passaggio 4: collegamento dei componentiPassaggio 5: registra OpenWeathermap, nuovo account thingspeakPassaggio 6: importare il codice WeatherStation nell'IDEPassaggio 7: aggiungi libreriaPassaggio 8: modifica il file WeatherStation.inoPassaggio 9: impostare nuovamente la scheda e la portaPassaggio 10: masterizza il codice su ESP8266Passaggio 11: risultatoIl pacchetto include:1 x ESP8266-12E1 x DHT111 x BMP1801 x BH1750FVI1 x OLED Display1 x cavo USB2xBreadboard20 x cavo Dupont
+
+
+
+

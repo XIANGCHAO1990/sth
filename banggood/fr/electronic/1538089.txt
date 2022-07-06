@@ -1,0 +1,194 @@
+https://fr.banggood.com/1S-3_7V-4A-li-ion-BMS-PCM-18650-Battery-Protection-Board-PCB-for-18650-lithium-Battery-Double-MOS-p-1538089.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+1S 3.7V 4A li-ion BMS PCM 18650 Batterie Carte de Protection PCB pour 18650 lithium Batterie Double MOS
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:
+
+
+
+Tension de détection de surcharge : 4,25 ± 0,05 V
+
+Tension de décharge de surcharge : 4,23 ± 0,05 V
+
+Tension de détection de décharge excessive : 2,45 ± 0,1 V
+
+Courant continu limite supérieure: 4A
+
+Courant de détection de surintensité : 5A
+
+Tension de charge : 4,2 V
+
+Taille du produit: 35*4*2.2MM
+
+Composants IC : DW01 + 8205A * 2                       
+
+La fonction principale: protection contre les surcharges, protection contre les décharges excessives, protection contre les courts-circuits, protection contre les surintensités.
+
+
+
+Instructions de câblage:
+
+
+
+B + : Connecté au positif de la batterie.
+
+B- : Batterie connectée négative.
+
+P + : Pour l'entrée de sortie du pack batterie positive
+
+P- : Pour le négatif d'entrée de sortie de la batterie
+
+
+
+Emballage inclus:
+
+
+
+1 x 1S 3.7V 4A li-ion BMS PCM 18650 Batterie Carte de Protection
+
+
+
+
+
+
+
+
+
+
+
+

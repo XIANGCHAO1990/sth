@@ -1,0 +1,345 @@
+https://es.banggood.com/Nextion-NX8048K070_011C-7_0-Inch-Enhanced-HMI-Intelligent-Smart-USART-UART-Serial-TFT-LCD-Screen-Module-Display-Capacitive-Multi-Touch-Panel-With-Enclosure-p-1338659.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Nextion NX8048K070_011C 7.0 Inch HMI mejorado Intelligent Smart USART UART Serial TFT LCD Módulo de pantalla Pantalla Panel capacitivo Multi-Táctil con carcasa
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visión general:
+
+La pantalla táctil resistiva / capacitiva HMI Nextion mejorada de 7.0 '' con carcasa. La pantalla Nextion es un panel LCD actualizado con funciones más potentes. Hay dos modelos: NX8048K070_011C y NX8048K070_011R. El NX8048K070_011C es una potente pantalla multitáctil capacitiva HMI TFT de 7.0 '' con gabinete, mientras que el NX8048K070_011R es un panel táctil resistivo con gabinete. Ambos se integran con 32 MB de espacio de Flash datos almacenamiento, EEPROM de 1024 bytes, RAM de 8192 bytes y compatible con GPIO.
+
+
+
+¿Qué puede hacer Nextion?
+
+Durante el proceso de diseño del sistema integrado, una de las cosas más molestas y que requieren más tiempo es el diseño de la interfaz hombre-máquina. Necesita un cuadro o gráfico elegante, diseños de página rápidos, necesita recursos almacenados para un procesamiento rápido, encontrará la respuesta dentro de la asombrosa línea de productos Nextion.
+
+Nextion está optimizado para satisfacer sus necesidades específicas de interfaz hombre-máquina utilizando interfaces abiertas y estandarizadas en hardware y software, lo que permite una integración eficiente en sus sistemas de automatización.
+
+Los sistemas hombre-máquina, la visualización, la interacción humana, la cognición, la percepción visual, la inteligencia de la máquina, la cibernética, incluso la robótica, son solo algunos ejemplos, donde los conceptos de HMI juegan un papel importante.
+
+¿Qué valor puede aportar el Nextion?
+
+Como ingeniero integrado, ¿recuerda esos viejos tiempos cuando diseñaba la interfaz hombre-máquina para un sistema integrado? Tienes que pasar semanas en diseño de bajo nivel.
+
+Nextion está diseñado para funcionar con un esfuerzo de diseño mínimo, ya que el dispositivo proporciona todos los datos y las señales de control para interactuar directamente con la pantalla. Esto ofrece una enorme ventaja para el diseñador en cuanto al ahorro de tiempo y costes de desarrollo y elimina todas las cargas del diseño de bajo nivel.
+
+Nextion le ayudará a diseñar visualmente rápidamente en horas, no en semanas, convertir el largo trabajo de codificación en una simple operación de arrastrar y soltar, a un costo razonable. Lo que solo necesita es conectar un puerto serie al hardware de pantalla Nextion.
+
+La demostración habla más que las palabras, aquí viene otro video que muestra cuán rápida y fácilmente se puede diseñar una aplicación arrastrando y soltando objeciones a la pantalla virtual en un editor de diseño WYSIWYG IDE - Nextion.
+
+
+
+En comparación con las pantallas básicas Nextion, las mejoradas han agregado algunas funciones nuevas, como: soporte RTC integrado, soporte para guardar datos en Flash, soporte GPIO, flash capacitivo más grande y reloj de CPU más grande. 
+
+
+
+Características:
+
+
+
+Soporta RTC incorporado
+
+Soporta GPIO
+
+Interfaz de tarjeta SD: admite una tarjeta Micro TF / SD de 32G como máximo (formato de archivo FAT32)
+
+Datos flash almacenamiento espacio: 32 MB
+
+EEPROM: 1024 bytes
+
+RAM: 8192 bytes
+
+Búfer de instrucciones: 1024 bytes
+
+Color: 65K (65536) colores
+
+Resolución: 800 × 480 píxeles
+
+Brillo ajustable: 0 ~ 230 nit, el intervalo de ajuste es del 1%
+
+Certificates: CE/EMC, RoHS (certificates)
+
+
+
+
+Especificación:
+
+
+
+
+Dimensiones:
+
+
+
+
+
+Fácil instalación:
+
+
+
+
+
+
+Documentos:
+
+
+Please visit wiki página para obtener más información sobre este producto. 
+
+
+Apoyo técnico:
+
+
+For technical support, please open Nextion Forum.
+
+
+
+INFORMACIÓN ADICIONAL:
+
+
+
+
+
+
+
+
+
+
+Interrumpido
+
+No
+
+
+
+Enlace Wiki
+
+No
+
+
+
+Resolución de pantalla
+
+800 x 480
+
+
+
+Interfaz de pantalla
+
+De serie
+
+
+
+Pantalla Tipo
+
+Pantalla táctil
+
+
+
+Controlador de pantalla
+
+No
+
+
+
+Interfaz de pantalla TFT
+
+N / A
+
+
+
+tamaño de la pantalla
+
+7.0 "
+
+
+
+Tamaño de la placa
+
+181mm*108mm
+
+
+
+Expandir
+
+
+
+Tarjeta SD Enchufe
+
+Pantalla táctil
+
+
+
+
+
+Peso
+
+598 g
+
+
+
+
+
+
+Paquete incluido:
+
+1 x Nextion 7.0 Inch Mejorado Capacitiva Multi-Táctil Panel con caja
+1 x placa Micro USB a 2P Conector
+1 x Cable Grove de 4 pines
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

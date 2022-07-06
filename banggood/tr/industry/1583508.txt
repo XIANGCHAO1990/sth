@@ -1,0 +1,303 @@
+https://tr.banggood.com/YIHAOGD-YH-2-or-3-Axis-Grating-CNC-Milling-Digital-Readout-Display-DRO-or-TTL-50-1100mm-Electronic-Linear-Scale-Encoders-Lathe-Tool-p-1583508.html?cur_warehouse=CN&ID=47877&rmmds=CategoryToolsPop
+YIHAOGD YH 2/3 Eksen Izgara CNC Freze Dijital Okuma Ekran DRO / TTL 50-1100mm Elektronik Lineer Tartı Kodlayıcı Torna Parçalar
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanım:
+YIHAOGD YH 2/3 Eksen Izgara CNC Freze Dijital Okuma Ekran / 5μ 50-1000mm TTL Elektronik Lineer Tartı Torna Parçalar
+
+Şartname:
+
+Dro Dijital Okuma Ekran Sistem Parametresi
+
+
+		Model: 2 Eksen/3 Eksen
+		Voltaj Aralığı: AC 100V~240V/50HZ~60HZ
+
+		Dijital Okuma Ekran Kabul Edilebilir Sinyal: TTL
+
+		Fiş: DB9
+
+		Kabul edilebilir çözünürlük: 10μm, 5μm, 2μm, 1μm, 0,5μm.
+		Boyut:Opsiyonel uzunluk, efektif uzunluğu ölçerToplam uzunluk = etkili uzunluk ölçümü+142 mm
+Dro Dijital Okuma Ekran Sistem Fonksiyonları
+
+
+			1: Sıfır takas
+
+			2:Sıfırla
+
+			3:mm/inç modu
+
+			4:ABS/INC koordinat dönüştürme
+
+			5: 200 takım alt veri
+
+			6: Hafızayı Kapatın;
+
+			7: 1/2'nin merkezi
+
+			8: Liner hata telafisi
+
+			9:Uyku modu
+
+			10: 200 set Sdm verisini temizle;
+
+			11:ABS/INC modu
+
+			12: Hesap makinesi
+
+			13: Çevrenin delinmesi
+
+			14: Eğik çizginin delinmesi
+
+			15:Eğimli düzlemin işlenmesi
+
+			16: Dairesel arkın işlenmesi
+
+			17: Torna işlevi (maç)
+
+			18: Dikdörtgen lümen kademeli işleme
+
+			19: Dijital filtreleme
+
+			20: Titreşim filtreleme
+
+			21: R / Çap işlevi
+
+			22: Torna işlevi
+
+5U TTL Lineer Scals/Lineer Encoder/Linear Sensör/Lineer Cetvel Parametreleri
+
+
+
+	1. Seyahat (ölçüm) uzunluğu: 0-1000mm / 0-40 inç
+
+	2. Toplam (toplam) uzunluk: Hareket uzunluğu + 142 mm (0-1142 mm)
+
+	3. Fiş: DB9
+
+	4. Çözünürlük: 0.005mm(5μ)
+
+	5. Giriş voltajı: 5V
+
+	6. Izgara aralığı: 0,02 mm (50LP/dak)
+7. Kablo uzunluğu: 3 Metre
+8. Normal boyut: Yaklaşık 22*34
+	9. Koruma sınıfı: IP54
+	10. Sinyal: TTL
+
+5μ Lineer Optik Cetvel/Lineer Glass Tartılar/Lineer Encoder/Linear Sensör Sinyali
+Pin 2 Siyah 0V
+Pin 6 Yeşil A
+Pin 7 Kırmızı 5V
+Pim 8 Beyaz B
+Pin 9 Turuncu Z
+Özellikler:
+Neden YH dijital okuma sistemleri satın alıyor?
+
+	1.Sistemler, lineer kodlayıcılar, uzunluk ölçerler, döner kodlayıcılar veya açı kodlayıcılar tarafından ölçülen değerleri okunması kolay bir formata çevirerek üretkenliği artırır, zamandan tasarruf sağlar ve daha yüksek hassasiyet sağlar.
+
+	2. Yeni ekipmana monte edilebilirler veya halihazırda çalışmakta olan makinelere sonradan takılabilirler.
+
+	3.Sistemler, eksen kızaklarının manuel olarak hareket ettirildiği herhangi bir makine ile çalışır.
+
+	4.Veri arayüzü, ölçülen değerlerin (çoğu model) ek işlenmesine veya çıktılarına izin verir.
+
+
+
+Neden 5u YH Lineer Enkoderler satın alıyor? (Toz geçirmez, IP54 su geçirmez tasarım, Yüksek kaliteli rulman, güvenilir ve dayanıklı)
+
+	1.Termal genleşme, tahrik mekaniğinin deformasyonu, hatve sorunları ve daha fazlasının neden olduğu takım tezgahı konum hatalarını ortadan kaldırın.
+
+	2. Yüksek uzun vadeli hız kararlılığı.
+
+	3. Sağlam yapı ve titreşime karşı yüksek direnç.
+
+	4. Daha ince sinyal periyotları en yüksek enterpolasyon doğruluğunu sunar.
+
+	5.Kompakt, hafif ve kurulumu kolay.
+
+	6.Dayanıklı ve güvenilir—uzun yıllar çalıştıktan sonra bile düzgün çalışır.
+	7. Mühürlü veya kapalı lineer tasarımlar mevcuttur.
+
+
+Paket İçeriği: (isteğe bağlı)
+3 Eksen Dijital Okuma Paket içeriği:
+1 Adet x 3 Eksen Dijital Okuma
+1 Adet x Güç Kablosu (Size ülkenize bağlı olarak ekstra bir fiş adaptörü göndereceğiz)
+1 Takım x Braket ve Aksesuarlar
+1 Adet x Manuel
+
+2 Eksenli Dijital Okuma Paketi Dahil:
+1 Adet x 2 Eksen Dijital Okuma
+1 Adet x Güç Kablosu(Size ülkenize bağlı olarak ekstra bir fiş adaptörü göndereceğiz)
+1 Takım x Braket ve Aksesuarlar
+1 Adet x Manuel
+
+Lineer Tartı Paket İçeriği:
+1 Adet x Lineer Kese
+1 Adet x L plaka
+1 Adet x Braket
+1 Adet x Çanta vida
+
+Daha fazla detay: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

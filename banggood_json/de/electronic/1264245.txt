@@ -1,0 +1,184 @@
+1264245
+https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/8B/BD/46f10224-370a-4d30-8e60-607e948cff93.jpeg
+Geekcreit® D1 Mini V3.0.0 WIFI Internet der Dinge Entwicklungsboard Basierend auf ESP8266 4 MB MicroPython Nodemcu
+https://de.banggood.com/Geekcreit-D1-Mini-V3_0_0-WIFI-Internet-Of-Things-Development-Board-Based-ESP8266-4MB-MicroPython-Nodemcu-p-1264245.html?cur_warehouse=HK&ID=522225&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Was ist neu an V3.0.0:
+
+Schaltung optimieren
+Fügen Sie einen Deep-Sleep-Pullover hinzu.
+Standard-Firmware: neueste MicroPython ESP8266-Firmware.
+
+Merkmale:
+
+11 digitale Ein-/Ausgangspins, alle Pins haben Interrupt/Pwm/I2C/One-Wire-Unterstützung (außer D0)
+1 analoger Eingang (3,2 V max. Eingang)
+einen Micro-USB-Anschluss
+Kompatibel mit MicroPython, , Nodemcu
+viele Schilde
+
+Lieferinhalt:
+
+1 x D1 mini V3.0.0
+2 x Normalstift
+2 x langer weiblicher Stift
+2 x kurze weibliche Stifte
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

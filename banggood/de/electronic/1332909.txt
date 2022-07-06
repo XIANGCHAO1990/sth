@@ -1,0 +1,169 @@
+https://de.banggood.com/LILYGO-TTGO-T5-WiFi-Wireless-Module-bluetooth-Base-ESP-32-ESP32-2_13-e-Paper-Display-Development-Board-p-1332909.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+LILYGO® TTGO T5 V2.0 WLAN-Funkmodul Bluetooth-Basis ESP-32 ESP32 2.13 E-Paper-Display-Entwicklungsplatine
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Überblick:
+
+Aufgrund der Vorteile wie extrem niedriger Stromverbrauch, großer Betrachtungswinkel, klares Display ohne Strom, ist es eine ideale Wahl für Anwendungen wie Regaletiketten, Industrieinstrumente usw.
+
+Merkmale:
+
+- Keine Hintergrundbeleuchtung, zeigt den letzten Inhalt lange an, auch wenn das Gerät ausgeschaltet ist
+- Extrem niedriger Stromverbrauch, im Grunde wird Strom nur zum Auffrischen benötigt
+- Kommt mit Entwicklungsressourcen und Handbuch (Beispiele für Arduin-esp32)
+
+Spezifikationen:
+
+-Betriebsspannung: 3,3 V
+-Schnittstelle: 3-Draht-SPI, 4-Draht-SPI
+-Anzeigefarbe: schwarz, weiß
+-Graustufe: 2
+-Vollständige Aktualisierungszeit: 8s
+-Aktualisierungsleistung: 26,4 mW (typ.)
+-Standby-Leistung: <0,017 mW
+-Betrachtungswinkel: >170°-Update-Version: Chip CH9102F (CN-Lager), Chip CP2104 (CZ Lagerhaus)
+
+Bibliothek: Zum Öffnen anklicken
+Code: Zum Öffnen anklicken
+
+Lieferinhalt:
+
+1 x T5 V2.0 TTGO WLAN-Funkmodul
+
+
+
+

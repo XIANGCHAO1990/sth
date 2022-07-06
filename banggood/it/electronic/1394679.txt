@@ -1,0 +1,143 @@
+https://it.banggood.com/ESP32-CAM-WiFi-+-bluetooth-Camera-Module-Development-Board-ESP32-With-Camera-Module-OV2640-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1394679.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+ESP32-CAM WiFi + bluetooth fotografica Scheda di sviluppo modulo ESP32 con modulo fotografica OV2640 Geekcreit per Arduino - prodotti che funzionano con schede Arduino ufficiali
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     Se vuoi acquistare un articolo che non contiene USB to TTL Serial Converter and 40 Pin Jumper Wire ID: 1605463 Se vuoi acquistare un articolo che non contiene IPEX 2.4G SMA Antenna, clicca qui per acquistare  ID:1549751  Se desideri acquistare un articolo che non contiene una fotocamera, fai clic qui per acquistare  ID: 1443851 Se vuoi comprare  modulo fotocamera,please click here to buy  ID:1444381    Descrizione:           1. ESP32-CAM è una scheda di sviluppo dual-mode WIFI+ Bluetooth che utilizza antenne e core PCB integrati basati su chip ESP32. Può funzionare in modo indipendente come sistema minimo.         2. ESP integra WiFi, Bluetooth tradizionale e BLE Beacon, con 2 CPU LX6 a 32 bit ad alte prestazioni, architettura della pipeline a 7 stadi, intervallo di regolazione della frequenza principale da 80 MHz a 240 MHz, sensore su chip, sensore Hall, sensore di temperatura, ecc.         3. Completamente conforme agli standard WiFi 802.11b/g/n/e/i e Bluetooth 4.2, può essere utilizzato come modalità master per creare un controller di rete indipendente o come slave di altri MCU host per aggiungere funzionalità di rete a quelli esistenti dispositivi.         4. ESP32-CAM può essere ampiamente utilizzato in varie applicazioni IoT. È adatto per dispositivi intelligenti domestici, controllo wireless industriale, monitoraggio wireless, identificazione wireless QR, segnali del sistema di posizionamento wireless e altre applicazioni IoT. È una soluzione ideale per le applicazioni IoT.    Caratteristiche:    - Modulo Wi-Fi 802.11b/g/n ultra piccolo + modulo SoC BT/BLE  - CPU dual-core a 32 bit a bassa potenza per processori applicativi  - Fino a 240 MHz, fino a 600 DMIPS  - SRAM integrata da 520 KB, PSRAM esterna da 4 M  - Supporta interfacce come UART/SPI/I2C/PWM/ADC/DAC  - Supporta fotocamere OV2640 e OV7670 con flash integrato  - Supporto per il caricamento delle immagini tramite WiFI  -Supporto TF card  - Supporta più modalità di sonno  - Lwip e FreeRTOS integrati  - Supporta la modalità di lavoro STA/AP/STA+AP  - Supporta la rete di distribuzione Smart Config/AirKiss One-click  - Supporto per aggiornamento seriale locale e aggiornamento firmware remoto (FOTA)      - Sostenere lo sviluppo secondario    Nota:    Questo prodotto contiene il modulo OV2640 fotografica. Se è necessario utilizzare la fotocamera OV7670, acquistarla separatamente.    Il pacchetto include:    1 modulo ESP32-CAM  1 x fotografica Modulo OV2640 2MP  Specifiche del prodotto:              Modello modulo           ESP32-CAM             Pacchetto           DIP-16             Misurare           27 * 40,5 * 4,5 (± 0,2) mm             SPI Flash           predefinito 32Mbit             RAM           interno520KB + esterno 4M PSRAM             Bluetooth           standard Bluetooth4.2BR/EDR e BLE             Wi-Fi           802.11 b/g/n/e/i             Interfaccia di supporto           UART, SPI, I2C, PWM             Supporta la carta di TF           Massimo supporto 4G             porta IO           9             Velocità della porta seriale           predefinito 115200 bps             Formato di output dell'immagine           JPEG (supportato solo da OV2640), BMP, GREYSCALE             Gamma di spettro           2412 ~ 2484 MHz             Forma dell'antenna           antenna PCB integrata, guadagno 2dBi             Trasmetti potenza           802.11b: 17±2 dBm (@11Mbps)          802.11g: 14±2 dBm (@54Mbps)          802.11n: 13±2 dBm (@MCS7)             Ricezione di sensibilità           CCK, 1 Mbps: -90dBm          CCK, 11 Mbps: -85dBm          6 Mbps (1/2 BPSK): -88dBm          54 Mbps (3/4 64-QAM): -70dBm          MCS7 (65 Mbps, 72,2 Mbps): -67dBm             Consumo di energia           Spegni il flash: 180mA@5V          Accendete il flash e regolate la luminosità al massimo: 310mA@5V          Sonno profondo: il consumo energetico più basso può raggiungere 6 mA a 5 V          Modem-sleep: fino a 20 mA a 5 V          Sonno leggero: fino a 6,7 mA a 5 V             Sicurezza           WPA/WPA2/WPA2-Enterprise/WPS             Gamma di alimentazione           5V             Temperatura di esercizio           -20 °C ~ 85 °C             Ambiente di archiviazione           -40 °C ~ 90 °C, < 90%UR     Velocità formato uscita immagine ESP32-CAM:                QQVGA           QVGA           VGA           SVGA             JPEG           6           7           7           8             BMP           9           9           -           -             SCALA DI GRIGIE           9           8           -           -         Ambiente di test: modello fotocamera: OV2640 XCLK: 20MHz, il modulo trasmette le immagini al browser del computer tramite WiFi.  For more files, please click here: file        
+
+
+
+

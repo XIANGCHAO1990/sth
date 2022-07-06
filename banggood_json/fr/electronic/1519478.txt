@@ -1,0 +1,235 @@
+1519478
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/79/7D/c2ae1640-a09f-46d1-979f-e70e05cfbf08.jpg
+0.56 "DC 100 V 50A rouge + rouge double LED affichage Mini voltmètre numérique ampèremètre panneau ampèremètre volt tension testeur de courant
+https://fr.banggood.com/0_56-inch-DC-100V-50A-Red+Red-Dual-LED-Display-Mini-Digital-Voltmeter-Ammeter-Panel-Amp-Volt-Voltage-Current-Meter-Tester-p-1519478.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:
+
+
+
+Tension de fonctionnement: DC 4 ~ 30 V
+
+Mesurer la tension: DC 0 ~ 100 V
+
+Résolution minimale (V): 0,1 V
+
+Mesurer le courant: 50A (nécessite un shunt externe)
+
+Résolution minimale (A): 0,1 A
+
+Courant de fonctionnement: <20mA
+
+Affichage: trois tubes numériques LED de 0,28 "
+
+Couleur d'affichage: rouge et rouge
+
+Taux de rafraîchissement: environ 300 mS / fois
+
+Précision de mesure: 1% (± 1 chiffre)
+
+Température de fonctionnement: -10 à 65 ° c
+
+Humidité de fonctionnement: 10 à 80% (sans condensation)
+
+Pression de service: 80 à 106 kPa
+
+Applications: Convient pour la surveillance de la batterie des véhicules automobiles / électriques / motos ou d'autres produits de mesure du courant de tension
+
+
+
+Câblage:
+
+
+
+Ligne noire (fine): circuit vide ou abaisseur (module) négatif
+
+Ligne rouge (fine): alimentation +
+
+Ligne noire (épaisse): COM, mesure commune
+
+Ligne rouge (épaisse): PW +, entrée de tension de borne de mesure positive
+
+Ligne jaune (épaisse): IN +, entrée de courant +
+
+
+
+Remarquer:
+
+
+
+La tension entre les fines lignes rouges et noires doit être comprise entre 4 et 30 V CC
+
+L'ampèremètre ne peut être connecté qu'au négatif de l'appareil testé
+
+Dépasse 5A, pleine charge à long terme fonctionnant en continu, il est recommandé que le côté mesure des câbles soit directement soudé à la prise
+
+Lorsque la ligne mince noire est vide, il est préférable d'utiliser du ruban isolant autour de la partie exposée du fil, pour éviter les courts-circuits
+
+S'il est simplement utilisé comme voltmètre, il est recommandé que la ligne jaune et la ligne noire soient connectées ensemble, pour éviter que l'ampèremètre ne clignote.
+
+Il n'est pas approprié d'utiliser ce compteur pour tester un courant inférieur à 10A.
+
+
+
+Emballage inclus
+
+
+
+1 x ampèremètre voltmètre numérique
+
+1 x shunt actuel
+
+1 x câble
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

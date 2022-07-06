@@ -1,0 +1,145 @@
+1883051
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/29/B9/199920bc-cd4c-464c-bf0c-18dcb97b34d0.jpg
+X96 X4 Amlogic S905X4 Quad Core Android 11 4 Go RAM 64GB ROM Smart TV BOX 2.5G 5G Double WIFI Bluetooth 4.1 Ethernet 100M 4K HD
+https://fr.banggood.com/X96-X4-Amlogic-S905X4-Quad-Core-Android-11-4GB-RAM-64GB-ROM-Smart-TV-BOX-2_5G-5G-Dual-WIFI-Bluetooth-4_1-100M-Ethernet-4K-HD-p-1883051.html?cur_warehouse=CN&ID=47757&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spécification:Paramètres de baseCPUJeu de pucesAmlogic S905X4ArchitectureQuad Core ARM Cortex A55GPUJeu de pucesARM Mali-G31 MP2ArchitecturePrise en charge d'OpenGL ES 1.1/2.0/3.2, OpenCL 2.0, Vulkan 1.1RAMCapacité4GBROMCapacité64GBStockage externePériphériques de stockage USBPrise en charge USB2.0, USB3.0Carte Micro SDPrise en chargeLogicielSystème opérateurVersion du système d'exploitationAndroid 11LangueMulti-langueMultimédiaVidéoAmlogic Vidéo Engine (AVE) avec décodeurs et encodeurs matériels dédiésPrend en charge le décodeur multi-vidéo jusqu'à 4x1080P @ 60fpsPrend en charge plusieurs sessions de décodage vidéo "sécurisées" et le décodage et l'encodage simultanésDécodage vidéo/imageVP9 Profile-2 jusqu'à 8Kx4K@24 fpsH.265 HEVC MP-10@L5.1 jusqu'à 8Kx4K@24 ipsProfil AVS2-P2 jusqu'à 8Kx4K@24 fpsMPEG-4 ASP@L5 jusqu'à 1080P@60fps (ISO-14496)WMV/VC-1 SP/MP/AP jusqu'à 1080P@60fpsProfil AVS-P16(AVS+) /AVS-P2 JiZhun jusqu'à 1080P@60fpsMPEG-2 MP/HL jusqu'à 1080P@60fps (ISO-13818)MPEG-1 MP/HL jusqu'à 1080P@60fps (ISO-11172)RealVidéo 8/9/10 jusqu'à 1080P@60fpsPrise en charge de vidéos de sous-titres en plusieurs langues et en plusieurs formatsDécodage à résolution de pixels illimitée MJPEG et JPEG (ISO/IEC-10918Prend en charge les vignettes JPEG, la mise à l'échelle, la rotation et les effets de transitionPrend en charge les formats de fichiers *.mkv,*.wmv,*.mpg, *.mpeg, *.dat, *.avi, *.mov, *.iso, *.mp4, *.rm et *.jpgl'audioPrend en charge MP3, AAC, WMA, FLAC, Ogg.ImageHD JPEG, BMP, GIF, PNG, TIFService réseauWifiTaperPrise en charge du WiFi IEEE 802.11 b/g/n/acLa fréquencePrise en charge 2.4G et 5GTaper d'antenneDeux antennes externesBTBTPrend en charge BT4.1InterfaceChargerConnecteur CCEntrée CC (5V/2A)Sortie vidéoHDSortie UHD 4Kx2K, HD 1.4/2.0Récepteur IRPrise pour écouteurs 3,5 mmConnexion du récepteur à distanceMicro SDMémoire externeSoutienport USBemplacement USB1x USB3.0, 1xUSB2.0EthernetEthernetEthernet 100MFonctionnalité:Processeur : Amlogic S905X4 Quad Core ARM Cortex A55GPU : ARM Mali-G31 MP2 OpenGL ES 1.1/2.0/3.2, pour OpenCL 2.0, prise en charge de Vulkan 1.1RAM : 4 GoROM : 64GBVersion du système d'exploitation : Android 11 Langue : multilingue Décodage vidéo/image : VP9 Profile-2 jusqu'à 8Kx4K@24 ips ; H.265 HEVC MP-10@L5.1 jusqu'à 8Kx4K@24 ips ; Profil AVS2-P2 jusqu'à 8Kx4K@24 ips ; MPEG-4 ASP@L5 jusqu'à 1080P@60fps (ISO-14496) l'audio : prend en charge les formats MP3, AAC, WMA, FLAC, Ogg Image : HD JPEG, BMP, GIF, PNG, TIF Wifi : prend en charge le Wifi IEEE 802.11 b/g/n/ac. Prend en charge 2.4G et 5G. Deux antennes externes Bluetooth : prend en charge BT4.1 Sortie vidéo HD : sortie UHD 4Kx2K, HD 1.4/2.0 Micro SD : prise en charge Port USB : 1 x USB3.0, 1 x USB2.0 Ethernet : 100 M Ethernet Emballage inclus:1 x X96 X4 Android TV Box (les autres produits ne sont pas inclus)1 câble HD1 chargeur1 télécommande1 manuel d'utilisation
+
+
+
+

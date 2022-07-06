@@ -1,0 +1,143 @@
+https://pt.banggood.com/1pcs-ESP32-Development-Board-WiFi+bluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-p-1921239.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+1pcs ESP32 Development Board WiFi+bluetooth Ultra Low Power Consumption Dual Cores ESP-32 ESP-32S Board
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introdução: ESP32 já é antena integrada e balun RF, amplificador de potência, amplificadores de baixo ruído, filtros, e módulo de gerenciamento de energia. A solução inteira ocupa o mínimo de área da placa de circuito impresso.Esta placa é usada com chips de Wi-Fi e bluetooth de modo duplo de 2,4 GHz pela tecnologia de baixa energia TSMC 40nm,melhores propriedades de potência e RF, o que é seguro, confiável e escalonável para uma variedade de aplicações. Recursos: - Alta relação desempenho-preço- Pequeno volume, facilmente incorporado a outros produtos- Função forte com suporte ao protocolo LWIP, Freertos- Suportando três modos: AP, STA e AP + STA- Apoio ao programa Lua, fácil de desenvolver- Quadro de desenvolvimento: https://github.com/Nicholas3388/LuaNode Fórum ESP32: https://www.esp32.com/Incluído no Pacote:1 x 36 pinos ESP32 placa de desenvolvimentoSe você quiser comprar 30pin ESP32 Development Board, clique aqui: EU IRIA: 1461896       
+
+
+
+

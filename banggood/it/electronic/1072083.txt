@@ -1,0 +1,181 @@
+https://it.banggood.com/MAX7219-Dot-Matrix-Module-4-in-1-LED-Display-Module-p-1072083.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+MAX7219 Modulo a Matrice di Punti 4-in-1 Display per Arduino
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAX7219 Microcontroller Modulo a Matrice di Punti 4-in-1 Display per Arduino
+
+Specifiche tecniche:
+
+Un modulo singolo può guidare un puntino 8x8 matrice di catodo comune
+Tensione di funzionamento: 5V
+Dimensione del modulo: 12.8 x 3.2 x 1.3 cm (l * l * a)
+Con fori per le viti di fissaggio 64. diametro del foro: 3mm
+Modulo con interfacce di ingresso e di uscita, supporta per cascare moduli multipli
+
+Cablaggio:
+
+1. Il lato sinistro del modulo è la porta di ingresso, e il destro è la porta di uscita.
+2. Controllo di un singolo modulo, la porta di ingresso solo bisogno di ricevere CPU.
+3. Più un'estremità modulo cascata e ingresso del primo modulo è collegato con l'estremità CPU e degli ingressi della estremità di ingresso della estremità di uscita è collegato al secondo modulo, terminale di uscita del secondo modulo collegato con i tre moduli, e così via .
+Per esempio: 51 scm
+VCC→5V
+GND→GND
+DIN→P2.2
+CS →P2.1
+CLK→P2.0
+
+La confezione include:
+
+1 x Modulo a matrice di punti MAX7219
+1 x Cavo DuPont 5pin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,
+
+

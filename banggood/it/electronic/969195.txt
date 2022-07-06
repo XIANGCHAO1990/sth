@@ -1,0 +1,181 @@
+https://it.banggood.com/Geekcreit-8A-DC5-30V-to-DC1_25-30V-150KHz-Automatic-Step-Up-Step-Down-Adjustable-Power-Module-Voltage-Regulation-With-Short-Circuit-or-Overtemperature-Protection-p-969195.html?cur_warehouse=HK&rmmds=CategoryElectronicsPop
+Geekcreit® DC-DC 8A DC5-30V 150KHz Modulo di Alimentazione Regolabile Convertitore Automatico Elevatore Riduttore
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parametri di modulo:
+
+Tensione in ingresso: DC5-30V
+Corrente di ingresso: 8A (Massima) 10A di picco (6A per funzionamento prolungato)
+Corrente Quiescente: 4mA (siccome la tensione di funzionamento varia, potrebbe esserci delle deviazioni)
+Tensione di uscita: 1,25-30V regolabile in continuo
+Corrente di uscita: 10A (Massima) (a 5A, con il calore naturale generato dal funzionamento prolungato all'interno)
+Campo di corrente di uscita: 0,2-10A
+Temperatura di Funzionamento: da -40°C a +85°C
+Frequenza di funzionamento: 150KHz
+Efficienza di conversione: Tipico da 91% (12V a 12V5A) al massimo da 93%
+Protezione da sovracorrente: sì
+Protezione di cortocircuito: (protezione di limite)
+Protezione sovratemperatura: (riduce automaticamente la tensione di uscita quando si verifica la sovratemperatura)
+Protezione da inversione di polo di ingresso: No, (se ne hai bisogno, puoi inserire il cavo in diodo)
+Anti-irrigazione per uscita: Sì, non c'è il bisogno per ricaricare un diodo di blocco aggiuntivo.
+Connessione: uscita terminale, (IN è l'ingresso, uscita OUT)
+
+
+Metodo di regolamento della corrente di uscita:
+
+
+
+
+1. La regolazione di potenziometro CV dipende dalle tue esigenze di carico, puoi impostare il valore della tensione di uscita come vuoi.
+
+
+2, Impostare il CC potenziometro in senso antiorario a circa 30 giri, (ad esempio, la corrente di uscita è impostata al minimo), collegare con il LED, regoalre il potenziometro CC alla corrente desiderata. Scaricare completamente la batteria, collegare la batteria all'uscita, e regolare la corrente CC a quella che vuoi (usare la batteria completamente scaricata per il trasferimento, perché con più energia rimasta nella batteria, la corrente di carica è più bassa.) Evitare il cortocircuito durante il trasferimento, la struttura di circuito del modulo non permette il cortocircuito durante il trasferimento.
+
+La confezione include:
+
+1 x Modulo di Alimentazione Covertitore Automatico Elevatore Riduttore
+
+
+
+
+
+
+
+
+
+
+

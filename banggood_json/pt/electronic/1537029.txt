@@ -1,0 +1,266 @@
+1537029
+https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/0D/D1/909bd2ac-a1c4-4ff7-91fd-912638b765bb.JPG
+ICL7107 Voltímetro DIY Kit de produção eletrônica DC5V 35mA Voltímetro digital Voltímetro
+https://pt.banggood.com/ICL7107-Voltmeter-DIY-Electronic-Production-Kit-DC5V-35mA-Voltage-Meter-Digital-Voltmeter-p-1537029.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:
+
+	Nome do kit: ICL7107 Kit Voltímetro DIY
+
+Tamanho do PCB: 70,6 * 39 mm
+
+Tamanho da abertura de montagem da cabeça: 77 * 40 mm
+
+Tamanho da janela de exibição: 51 * 24 mm
+
+Soldering manual: Clique aqui.
+
+Parâmetros elétricos:
+
+
+Tensão de trabalho: DC5V
+
+Corrente de trabalho: 35mA
+
+Exatidão da medição: pode ser calibrado para obter maior precisão e nenhum parâmetro no momento.
+
+Faixa de medição: dividido em 3 arquivos, arquivo 0-2V Medindo pequena tensão
+
+                                                            Arquivo 0-20V medindo baixa tensão
+
+                                                            0-200V, medindo tensão mais alta.
+
+Método de seleção de faixa: juntas de solda com seleção de engrenagem na placa,
+
+Quando os dois pontos do arquivo 0-2V são soldados juntos e a resistência do resistor de soldagem RX é 1K, a faixa de medição é 0-2V;
+
+Ao soldar 2 pontos de arquivo 0-20V juntos, a resistência de soldagem RX é 100K, a faixa de medição é 0-20V;
+
+Ao soldar 2 pontos de arquivo 0-200V juntos, a resistência de soldagem RX é 1M, a faixa de medição é 0-200V;
+
+Exibir sobrefaixa: a primeira posição mostra 1 ou -1
+
+No kit, o RX está disponível em 100K e 1M, e o comprador seleciona a solda de acordo com sua faixa de medição. Este voltímetro também pode ser transformado em um amperímetro. O método de mudar o medidor de corrente: o PCB reserva uma posição de solda por resistência de alta precisão de 2W 0,1 ohm na placa, solde essa resistência e então RX não precisa ser soldado. Este é um amperímetro 0-2A.
+
+Cor de exibição: vermelho
+
+Ferramentas necessárias para fazer a produção: multímetros, ferros elétricos e alicates d'água são necessários.
+
+
+Incluído no Pacote:
+
+
+1 x placa PCB
+
+3 x 1N4148
+
+1 x 5.1V Zener Diode
+
+1 x resistor de 100 ohms
+
+1 x resistor de 270 ohms
+
+2 x resistor 2K
+
+1 x resistor 20K
+
+1 x resistor 47K
+
+1 x resistor de 56K
+
+2 x resistor de 100K
+
+1 x 1M resistor
+
+1 x indutor 2.2MH
+
+2 x 104 capacitor monolítico
+
+2 x 101 capacitor monolítico
+
+1 x 224 capacitor monolítico
+
+1 x 474 capacitor monolítico
+
+2 x 10UF25V capacitor eletrolítico
+
+1 x C1815
+
+1 x TL431
+
+2 x 3296-202 potenciômetro
+
+1 x assento reto XH2.54-2P
+
+1 x linha XH2.54-2P
+
+1 x assento KF301-2
+
+1 x porta-chip 40P
+
+1 x chip LT7107
+
+4 x 0,56 um tubo digital comum
+
+1 x case
+
+4 x M2 * 6 parafusos auto-roscantes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

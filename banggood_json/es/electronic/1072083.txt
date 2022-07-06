@@ -1,0 +1,184 @@
+1072083
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/28/68/7bcd8386-f581-4161-9cdf-0e39128541ab.jpg
+MAX7219 Módulo de Matriz de Puntos 4-en-1 Pantalla para Arduino
+https://es.banggood.com/MAX7219-Dot-Matrix-Module-4-in-1-LED-Display-Module-p-1072083.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAX7219 Módulo de Matriz de Puntos 4-en-1 Pantalla para Arduino
+Especificaciones:
+
+Un solo módulo puede conducir un cátodo común de matriz de puntos de 8x8
+Voltaje de funcionamiento: 5V
+Tamaño del módulo: 12.8 x 3.2 x 1.3 cm (L * W * H)
+Con 64 orificios para tornillos de fijación, diámetro del orificio: 3mm
+Módulo con interfaces de entrada y salida, soporta para conectar en cascada múltiples módulos
+
+
+Alambrado:
+
+1. El lado izquierdo del módulo es el puerto de entrada, y el derecho es el puerto de salida.
+2. Control de un solo módulo, el puerto de entrada sólo necesita recibir CPU.
+3. Cuanto más una cascada de módulo y un extremo de entrada del primer módulo estén conectados con la CPU y el extremo de entrada del extremo de entrada del extremo de salida esté conectado al segundo módulo, terminal de salida del segundo módulo conectado con los tres módulos, y pronto.
+
+Por ejemplo: 51 SCM
+VCC→5V
+GND→GND
+DIN→P2.2
+CS →P2.1
+CLK→P2.0
+
+Paquete incluido:
+
+1 x Módulo de matriz de puntos MAX7219
+1 x Cable de 5 pines DuPont
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,
+
+

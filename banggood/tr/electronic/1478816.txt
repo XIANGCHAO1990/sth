@@ -1,0 +1,376 @@
+https://tr.banggood.com/LILYGO-TTGO-Camera-Module-OV2640-2-Megapixel-Adapter-Support-YUV-RGB-JPEG-For-T-Camera-Plus-ESP32-DOWDQ6-8MB-SPRAM-p-1478816.html?cur_warehouse=CN&ID=6156878&rmmds=CategoryElectronicsPop
+LILYGO® TTGO Kamera Modül OV2640 2 Megapiksel Adaptör Desteği YUV RGB JPEG T-Kamera Plus ESP32-DOWDQ6 8MB SPRAM için
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellik:
+
+
+Fotoğraf Makinesi: OV2640
+
+Kamera Çözünürlüğü: 2 Megapiksel
+	Tür: Normal / uzatılmış Normal / Balık gözü lens / Uzatılmış balık gözü lens (İsteğe bağlı)
+Size: 21.77 x 12.61 x 4.28mm / 74.91 x 12.61 x 4.28mm
+	Kamera Koltuğu: 8.54mm 24pin
+
+
+
+
+
+
+
+
+
+
+Dizi Boyutu
+
+UXGA
+
+1600 x 1200
+
+
+
+Güç kaynağı
+
+çekirdek
+
+1.2VDC +% 5
+
+
+
+Analog
+
+2.5 ~ 3.0VDC
+
+
+
+I / O
+
+1.7V to 3.3V
+
+
+
+Güç Gereksinimleri
+
+Aktif
+
+125 mW (15 fps için, UXGA YUV modu)
+
+
+
+140 mW (15 fps için, UXGA sıkıştırılmış mod) 
+
+
+
+Yanında olmak
+
+600 µA
+
+
+
+Sıcaklık
+
+Operasyon
+
+-30 ° C ila 70 ° C
+
+
+
+Aralık
+
+Kararlı Görüntü
+
+0 ° C ila 50 ° C
+
+
+
+Çıkış Formatları (8 bit)
+
+• YUV (422/420) / YCbCr422
+
+
+
+• RGB565 / 555
+
+
+
+• 8 bit sıkıştırılmış veri
+
+
+
+• 8- / 10-bit RGB verileri
+
+
+
+Objektif Boyutu
+
+1/4"
+
+
+
+Şef Ray Açısı
+
+25 ° doğrusal olmayan
+
+
+
+Maksimum
+
+UXGA / SXGA
+
+15 fps
+
+
+
+görüntü
+
+SVGA
+
+30 fps
+
+
+
+Transfer oranı
+
+CIF
+
+60 fps
+
+
+
+Duyarlılık
+
+0,6 V / Lüks saniye
+
+
+
+S / N Oranı
+
+40 dB
+
+
+
+Dinamik Aralık
+
+50 dB
+
+
+
+Tarama modu
+
+ilerici
+
+
+
+Maksimum Pozlama Aralığı
+
+1247 x tROW
+
+
+
+Gamma düzeltmesi
+
+Programlanabilir
+
+
+
+Piksel Boyutu
+
+2,2 µm x 2,2 µm
+
+
+
+Karanlık Akım
+
+60 ° C'de 15 mV / s
+
+
+
+Kuyu Kapasitesi
+
+12 Ke
+
+
+
+Sabit Desen Gürültü
+
+<% 1 VPEAK-TO-PEAK
+
+
+
+Görüntü Alanı
+
+3590 µm x 2684 µm
+
+
+
+Paket boyutları
+
+5725 µm x 6285 µm
+
+
+
+
+Paket içerir:
+
+	1 x Kamera
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

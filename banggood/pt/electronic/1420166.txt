@@ -1,0 +1,195 @@
+https://pt.banggood.com/Geekcreit-Wireless-NodeMcu-Lua-CH340G-V3-Based-ESP8266-WIFI-Internet-of-Things-IOT-Development-Module-p-1420166.html?cur_warehouse=CN&ID=522225&rmmds=CategoryElectronicsPop
+Geekcreit® Wireless NodeMcu Lua CH340G V3 Based ESP8266 WIFI Internet of Things IOT Development Module
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificações:
+
+
+
+Tamanho: Aprox. 5,7x3x1cm / 2,24x1,18x0,39 "
+
+
+
+
+Vantagem:
+
+
+
+1. Código aberto
+
+2. Interativo
+
+3. Programável
+
+4. Baixo custo
+
+5. Simples
+
+6. Inteligente
+
+Wi-Fi habilitado
+
+IO de hardware semelhante a compatível
+
+API avançada para IO de hardware, que pode reduzir drasticamente o trabalho redundante de configuração e manipulação de hardware.
+
+Compatível com código, mas de forma interativa no script Lua.
+
+API de rede estilo Nodejs
+
+API orientada a eventos para aplicativos de rede, que facilita os desenvolvedores a escrever código em execução em um MCU de 5 mm * 5 mm no estilo Nodejs.
+
+Acelere bastante o processo de desenvolvimento de aplicativos IOT.
+
+WI-FI de menor custo
+
+É uma pequena placa, baseada em ESP8266, integra GPIO, PWM, IIC, 1-Wire e ADC, tudo em uma placa
+
+
+
+
+
+Incluído no Pacote:
+(opcional)
+
+1/2/3/5/10/20/30/40/50 x NodeMcu Lua CH340G ESP8266 Módulo de Internet WIFI
+
+
+
+
+

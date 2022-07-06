@@ -1,0 +1,435 @@
+1605463
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/DA/9F/f305f55d-fe2b-4ca0-a8d0-2f838a0b596c.jpg
+ESP32-CAM WiFi + Bluetooth Entwicklungsboard ESP32 mit FT232RL FTDI USB zu TTL Serial Converter 40 Pin Jumper
+https://de.banggood.com/ESP32-CAM-WiFi-+-bluetooth-Development-Board-ESP32-with-FT232RL-FTDI-USB-to-TTL-Serial-Converter-40-Pin-Jumper-p-1605463.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ESP32-CAM-Funkmodul]
+
+		Beschreibung:
+
+
+
+
+			1. ESP32-CAM ist ein WIFI+ Bluetooth Dual-Mode-Entwicklungsboard, das PCB-On-Board-Antennen und -Kerne basierend auf ESP32-Chips verwendet. Es kann als Mindestsystem unabhängig arbeiten.
+
+			2. ESP integriert WiFi, traditionelles Bluetooth und BLE Beacon, mit 2 leistungsstarken 32-Bit-LX6-CPUs, 7-stufiger Pipeline-Architektur, Hauptfrequenzeinstellbereich 80 MHz bis 240 MHz, On-Chip-Sensor, Hall-Sensor, Temperatursensor usw.
+
+			3. Vollständig kompatibel mit den Standards WiFi 802.11b/g/n/e/i und Bluetooth 4.2, kann es als Master-Modus zum Aufbau eines unabhängigen Netzwerk-Controllers oder als Slave zu anderen Host-MCUs verwendet werden, um vorhandene Netzwerkfunktionen hinzuzufügen Geräte.
+
+			4. ESP32-CAM kann in verschiedenen IoT-Anwendungen eingesetzt werden. Es eignet sich für Heim-Smart-Geräte, industrielle drahtlose Steuerung, drahtlose Überwachung, drahtlose QR-Identifikation, drahtlose Ortungssystemsignale und andere IoT-Anwendungen. Es ist eine ideale Lösung für IoT-Anwendungen. 
+
+
+Merkmale:
+
+
+
+- Ultrakleines 802.11b/g/n W-lan + BT/BLE SoC-Modul
+
+- Dual-Core 32-Bit-CPU mit geringem Stromverbrauch für Anwendungsprozessoren
+
+- Bis zu 240 MHz, bis zu 600 DMIPS
+
+- Eingebauter 520 KB SRAM, externer 4M PSRAM
+
+- Unterstützt Schnittstellen wie UART/SPI/I2C/PWM/ADC/DAC
+
+- Unterstützt OV2640 und OV7670 Kameras mit integriertem Blitz
+
+- Unterstützung für Bilder-WLAN-Upload
+
+-Unterstützung der TF-Karte
+
+- Unterstützt mehrere Schlafmodi
+
+- Eingebettetes Lwip und FreeRTOS
+
+- Unterstützt den STA/AP/STA+AP-Arbeitsmodus
+
+- Unterstützen Sie Smart Config/AirKiss One-Click-Verteilungsnetzwerk
+
+- Unterstützung für serielles lokales Upgrade und Remote-Firmware-Upgrade (FOTA)
+	- Sekundärentwicklung unterstützen
+
+
+
+Notiz:
+
+
+
+Dieses Produkt enthält das Kameramodul OV2640. Wenn Sie die Kamera OV7670 verwenden müssen, kaufen Sie sie bitte separat.
+
+
+Produktspezifikationen:
+
+
+
+
+					Modulmodell
+
+					ESP32-CAM
+
+
+
+					Paket
+
+					DIP-16
+
+
+
+					Größe
+
+					27*40,5*4,5(±0,2)mm
+
+
+
+					SPI Flash
+
+					Standard 32Mbit
+
+
+
+					RAM
+
+					intern520KB+extern 4M PSRAM
+
+
+
+					Bluetooth
+
+					Bluetooth4.2BR/EDR- und BLE-Standards
+
+
+
+					W-lan
+
+					802.11 b/g/n/e/i
+
+
+
+					Support-Schnittstelle
+
+					UART, SPI, I2C, PWM
+
+
+
+					TF-Karte unterstützen
+
+					Maximale Unterstützung 4G
+
+
+
+					IO-Port
+
+					9
+
+
+
+					Serielle Portrate
+
+					Standard 115200 bps
+
+
+
+					Bildausgabeformat
+
+					JPEG (nur unterstützt von OV2640), BMP, GRAUSTUFEN
+
+
+
+					Spektrum
+
+					2412 ~ 2484 MHz
+
+
+
+					Antennenform
+
+					Onboard PCB-Antenne, Gewinn 2dBi
+
+
+
+					Sendeleistung
+
+					802.11b: 17±2 dBm (@11Mbps)
+					802.11g: 14±2 dBm (@54Mbps)
+					802.11n: 13 ± 2 dBm (@MCS7)
+
+
+
+					Empfangsempfindlichkeit
+
+					CCK, 1 Mbit/s : -90 dBm
+					CCK, 11 Mbit/s: -85 dBm
+					6 Mbit/s (1/2 BPSK): -88 dBm
+					54 Mbit/s (3/4 64-QAM): -70 dBm
+					MCS7 (65 Mbit/s, 72,2 Mbit/s): -67 dBm
+
+
+
+					Energieverbrauch
+
+					Blitz ausschalten: 180mA@5V
+					Schalten Sie den Blitz ein und stellen Sie die Helligkeit auf das Maximum ein: 310mA@5V
+					Tiefschlaf: Der niedrigste Stromverbrauch kann 6 mA @ 5 V erreichen
+					Modem-Schlaf: bis zu 20mA@5V
+					Leichter Schlaf: bis zu 6,7mA@5V
+
+
+
+					Sicherheit
+
+					WPA/WPA2/WPA2-Enterprise/WPS
+
+
+
+					Stromversorgungsbereich
+
+					5V
+
+
+
+					Betriebstemperatur
+
+					-20 °C ~ 85 °C
+
+
+
+					Speicherumgebung
+
+					-40 °C ~ 90 °C, < 90%RH
+
+
+
+
+ESP32-CAM Bildausgabeformatrate:
+
+
+
+
+
+
+					QQVGA
+
+					QVGA
+
+					VGA
+
+					SVGA
+
+
+
+					JPEG
+
+					6
+
+					7
+
+					7
+
+					8
+
+
+
+					BMP
+
+					9
+
+					9
+
+					-
+
+					-
+
+
+
+					GRAUSTUFEN
+
+					9
+
+					8
+
+					-
+
+					-
+
+
+
+	Testumgebung: Kameramodell: OV2640 XCLK: 20MHz, das Modul überträgt Bilder per WiFi an den Computerbrowser.
+
+For more Dateis, please click here: Datei
+
+
+[FT232RL Modul]
+
+
+
+		Der FTDI USB Serial Adapter wird mit dem FT232RL Chip geliefert und verwendet sowohl 3,3 V als auch 5V Betriebsspannung. Der Logikpegel des Adapters kann über Jumper auf der Platine eingestellt werden, was den Anschluss an Ihren Controller erleichtert. Die USB-Stromversorgung verfügt über einen Überstromschutz mit einer 500-MA-Selbstwiederherstellungssicherung. Sie können die Module in diesem Kit verwenden, um das Programm ohne zusätzlichen Kauf direkt zu brennen.
+
+
+
+[Drähte von Buchse zu Buchse Dupont Jumper]
+
+
+
+		Die Drähte Jumper bestehen aus hochwertigem Kupferdrahtmaterial für eine sichere und dauerhafte Verwendung. Dieses Set enthält 20 cm 40-Pin-Stecker auf Stecker Jumper Drähte, mit denen Sie das Projekt einfacher abschließen können.
+
+
+
+Lieferinhalt:
+
+
+
+1 x ESP32-CAM-Modul
+
+1 x Kameramodul OV2640 2MP
+		1 x FT232RL-Modul
+1 x Buchse zu Buchse Dupont Jumper Drähte 
+
+
+
+
+
+
+
+
+
+
+
+

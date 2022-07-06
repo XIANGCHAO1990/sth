@@ -1,0 +1,443 @@
+https://www.banggood.com/Geekcreit-DIY-Mini-Tesla-Coil-Module-Unassembled-15W-DC-15-24V-2A-Plasma-Speaker-Electronic-Kit-p-1326817.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® DIY Mini Tesla Coil Module Unassembled 15W DC 15-24V 2A Plasma Speaker Electronic Kit
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This is a DIY kit, you need to assemble it.
+
+>>>Manual: Click here to open<<<Feature:
+
+	 
+
+The Tesla coil can produce high temperature and high-pressure plasma, which can sing, ignition, wireless transmission, and light fluorescent lamp. It has a wonderful arc. It is a very interesting small production of scientific experiments. This is a DIY Tesla coil Kit parts, which needs to be soldered and assembled by yourself.
+
+	 
+
+Parameters:
+
+	 
+
+1. PCB size: 4.0mm*8.0mm
+
+2. Power: 15W
+
+3. Power input: DC 15-24V. The current is 2A. DC5.5 interface / pin
+
+4. Audio input: 3.5 socket, can be connected to mobile phone, MP3, computer audio
+
+	 
+
+Principle introduction:
+
+	 
+
+Tesla coil is a transformer that operates on resonance principle. It was invented by Nicola Tesla, a Serbia American scientist in 1891. It is mainly used to produce ultra high voltage, but low current, high-frequency AC power. The Tesla coil is composed of two groups of resonant circuits (sometimes three groups) coupled. The Tesla coil is difficult to define, and Nicola Tesla has tried a large number of configurations of various coils. Tesla uses these coils to carry out innovative experiments, such as electrical lighting, fluorescence spectrum, X ray, high frequency alternating current phenomenon, electrotherapy, and radio energy transmission, transmitting and receiving radio signals.
+
+	 
+
+Tesla function:
+
+	 
+
+1. Electric arc function: the traverse of the rear end will produce an arc. The arc can also ignite.
+
+2. Septum light function: after the Tesla coil is electric, the fluorescent lamp can be lighted apart.
+
+3. Music playback function: a new concept loudspeaker for an electric arc to stimulate air to make air vibration produced by plasma. You can play mobile/computer music, but the sound is small.
+
+	 
+
+Installation steps:
+
+	 
+
+Tips:
+
+	 
+
+1. Install small components at first;
+
+2. Install complex components preferentially;
+
+3. Pay attention to the installation direction of components.
+
+4. Make sure the soldering iron does not touch the components for a long time. Otherwise it is easy to damage the components.
+
+	 
+
+Note:
+
+	 
+
+1. This product is safe, power is not high, will not be injured by electric shock, but it is not recommended to touch the top of the coil arc, there will be a sense of burning.
+
+2. Do not touch the heat sink after a long time power supply, the temperature is very high, especially the use of 24v high voltage heat huge, if necessary, add their own cooling fan cooling, or working hours lead to too hot, please turn off for a period of time Electric use.
+
+3. Tesla coil is recommended to work when the body or other objects close to the coil, the coil next to half a meter blank can not be other objects, as other objects as a good conductor will make the coil form a good loop, absorbing the coil energy, making Testers Pull the coil at this time the effect of demonstration or deterioration can not be demonstrated!
+
+4. Do not put cell phones, mp3 and other electronic equipment close to the coil, or the coil will produce high-frequency magnetic field interference, making mobile phones, mp3, and other equipment failure or damage!
+
+	 
+
+Note:
+
+	 
+
+1.The real color of the item may be slightly different from the pictures shown on website caused by many factors such as brightness of your monitor and light brightness.
+
+2. Please allow slight deviation for the measurement data.
+
+3. Please allow 1cm-2cm error due to the hand measurement .
+
+
+Package includes:
+
+1 x DIY Tesla Coil Module Kit
+
+
+
+
+
+NO.
+
+Component Name
+
+PCB marker
+
+Parameter
+
+QTY.
+
+
+
+1
+
+Metal film resistor
+
+R1, R4
+
+10K
+
+2
+
+
+
+2
+
+Metal film resistor
+
+R3, R5
+
+2K
+
+2
+
+
+
+3
+
+TIP41
+
+Q2
+
+/
+
+1
+
+
+
+4
+
+LED
+
+LED1, LED2
+
+3mm
+
+2
+
+
+
+5
+
+Audio socket
+
+J2
+
+/
+
+1
+
+
+
+6
+
+Electrolytic capacitor
+
+1uf
+
+C1
+
+1
+
+
+
+7
+
+IRF530
+
+Q1
+
+/
+
+1
+
+
+
+8
+
+Power socket
+
+J1
+
+5.0*2.1mm
+
+1
+
+
+
+9
+
+Primary coil
+
+L1
+
+2-3T
+
+1
+
+
+
+10
+
+Secondary coil
+
+L2
+
+350T
+
+1
+
+
+
+11
+
+Copper pillar
+
+/
+
+M3*10
+
+4
+
+
+
+12
+
+Screw
+
+/
+
+M3*6
+
+4
+
+
+
+13
+
+Heat sink
+
+/
+
+/
+
+1
+
+
+
+14
+
+PCB
+
+/
+
+40*76mm
+
+1
+
+
+
+
+		 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

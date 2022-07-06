@@ -1,0 +1,143 @@
+https://es.banggood.com/36V-350W-12A-XT30-Motor-Controller-For-Scooter-Electric-Bicycle-E-bike-p-1679292.html?cur_warehouse=CZ&rmmds=CategoryAutomobilesPop
+36V 350W 12A XT30 motor Controlador para scooter Bicicleta eléctrica E-bike
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AdvertenciaEste controlador es el reemplazo partes para Identificación: 1647907 y Identificación: 1679291 , si no tiene ID: 1647907 o Identificación: 1679291, no debe comprarloO puedes comprar ID:1740476Especificación:voltajeDC 36VPotencia nominal350Wbajo voltaje30VLimitacion actualSe podría usar un scooter 12A （15A, pero la velocidad sería lenta）Instrucción:1. Arranque: mantenga presionado el arranque (aproximadamente 1 s). Al mismo tiempo, el timbre suena dos veces.2. Apagado: mantenga presionado 3s para apagar. Al mismo tiempo, el timbre suena dos veces.3. Luz: en el estado de encendido, presione brevemente (dentro de 1 segundo) una vez, encienda las luces delantera y trasera,los faros están siempre encendidos y las luces traseras parpadean.4. Freno: freno electrónico + frenos de disco. La luz trasera es larga en los frenos.5. Cambio de marcha: el estado de encendido, el valor predeterminado es el archivo de baja velocidad;presione el botón dos veces (presione dos veces en un segundo) para cambiar la posición del engranaje; El verde es de baja velocidad; rojo es alta velocidad6. Pantalla Batería: 33v-36v La primera luz es larga36v-37v una o dos luces de largo brillante37v-38.5v una o dos luces de largo brillante38.5v o más, una, dos, tres, cuatro lucesAlarma de bajo voltaje: la primera luz parpadea cuyo la batería está por debajo de 33 V y el timbre suena 6 veces.7. Modo de velocidad de alarma de bajo voltaje: el límite de velocidad es de aproximadamente 15 km / h. Cuyo la energía vuelve a 37V,el acelerador debe volver a la posición inicial para liberar el bajo voltaje y volver a la operación normal.8. Velocidad constante de crucero: la velocidad es estable durante aproximadamente 6 segundos para iniciar automáticamente el control de crucero;después de que se arregla el crucero, se puede soltar el acelerador; presione el frenoo presione el acelerador nuevamente para liberar el control de crucero e ingresar al modo manual.9. Velocidad: el engranaje de baja velocidad es de 15 ± 2 km / h; El engranaje de alta velocidad es de 25 ± 2 km / h.10. Apagado automático: se apaga automáticamente 10 minutos después de que no se realice ninguna operación.Pantalla de potencia:1) Voltaje 38.2V-42V La primera segunda tercera cuarta quinta luces están siempre encendidas2) Voltaje 36.6V-38.2V La primera segunda tercera cuarta luz está siempre encendida 3) Voltaje 34.5V-36.6V La primera segunda tercera luz está siempre encendida 4) Voltaje 32,8 V-34,5 V La primera segunda luz siempre está encendida5) Voltaje 31.5V-32.8V La primera luz está siempre encendida 6) Voltaje 30-31,5 V La última rejilla parpadea7) Apagado del motor con voltaje por debajo de 31VCódigo de error:1) "E1" motor Fallo de pasillo2) "E2" MOSFalla MOS o falla de cortocircuito en la línea de fase del motor3) Fallo del freno "E3"4) Fallo del manillar "E4"5) Protección de subtensión "E5"6) Fallo de comunicación del instrumento / control "E6"7) Protección contra sobretensión "E7"8) Fallo del amplificador operacional del controlador "E8"9) Protección contra pérdida "E9"Diagrama del puerto de cableado:Cable de alimentación: gran línea roja negraCable del motor: cable azul / cable verde / cable amarilloCable de pasillo: cable rojo / cable amarillo / cable azul / cable verde / cable negroCable de luz trasera: cable rojo pequeño y cable negroLínea de grabación de software: línea verde / línea roja / línea negraLínea de comunicación: línea verde / línea azul / línea negra / línea roja / línea amarilla El paquete incluye:1 XControlador
+
+
+
+

@@ -1,0 +1,180 @@
+908621
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/C4/58/9ad5f80b-91d9-4ab7-9f84-d251045dcd19.JPG
+Geekcreit® HC-05 Modulo ricetrasmettitore seriale bluetooth wireless Slave e Master Geekcreit per Arduino - prodotti compatibili con schede Arduino ufficiali
+https://it.banggood.com/Geekcreit-HC-05-Wireless-bluetooth-Serial-Transceiver-Module-Slave-And-Master-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-908621.html?cur_warehouse=CN&ID=522225&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+
+HC-05 può essere impostato su master o slave dall'utente. HC-06 può essere solo master o slave che può essere personalizzato.
+
+Cablaggio (necessari solo 4 fili): RX a RXD / TX a TXD / GND a GND / 3,6 V a 6 V
+
+Potenza: 3,3 V
+
+Nota: questo modulo non è adatto per il sistema IOS.
+
+
+
+Il pacchetto include:
+
+
+
+Modulo ricetrasmettitore seriale bluetooth wireless 1/3/5/10 x HC-05 (opzionale)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

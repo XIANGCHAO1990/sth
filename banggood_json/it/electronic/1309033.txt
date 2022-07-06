@@ -1,0 +1,163 @@
+1309033
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/DC/36/8f82ca99-5261-41bf-bf73-17038f0eaef0.JPG
+Sensore di umidità del suolo capacitivo non facile da corrodere Ampio modulo di monitoraggio della tensione
+https://it.banggood.com/Capacitive-Soil-Moisture-Sensor-Not-Easy-To-Corrode-Wide-Voltage-Monitor-Module-p-1309033.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Nota: prodotto congiunto e fornito da Banggood e Newchic.    Questo sensore capacitivo di umidità del suolo si distingue dalla maggior parte dei sensori resistivi sul mercato e utilizza il rilevamento capacitivo per rilevare l'umidità del suolo. Il problema che il sensore di resistenza si corrode facilmente viene evitato e la sua vita utile è notevolmente estesa.   Il sensore ha un chip regolatore di tensione integrato che supporta a 3.3 V/5V ambiente di lavoro, il che significa che funziona anche su un 3.3 V/5V pannello di controllo. Un PC in miniatura come il Raspberry Pi necessita solo di un modulo di conversione ADC (segnale analogico-digitale) esterno per funzionare.  Con uno schermo esterno e una scheda madre puoi parlare con le tue piante! Vedi se ha sete e non hai bisogno di più acqua per inumidirlo.  Tensione di esercizio: 3,3 V/5V  Tensione di uscita: 3.3 V/5V  Interfaccia: PH2.54-3P  Dimensioni: 98 x 23 mm (lunghezza x larghezza)  Il pacchetto include:   1 x sensore di umidità del suolo capacitivo 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

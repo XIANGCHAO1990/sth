@@ -1,0 +1,143 @@
+https://es.banggood.com/LILYGO-TTGO-VGA32-V1_4-Controller-PS-or-2-Mouse-And-Keyboard-Controller-Graphics-Library-Game-Engine-ANSI-or-VT-Terminal-For-ESP32-p-1874190.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+LILYGO® TTGO VGA32 V1.4 Controlador PS / 2 ratón y Teclado Controlador Juego de biblioteca de gráficos Motor Terminal ANSI / VT para ESP32
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Característica:Información de actualización: agregue interfaz de salida de audio, interfaz de 3,5 mm y salida de altavoz, interfaz JST 2.0 PH de 2 pinesHardware EspecificacionesChipsetTTGO Micro32DESTELLOFlash QSPI de 4 MB / PSRAM de 8 MBSRAM 520 kB SRAMBotónReiniciar, IO36Función ampliadaVGA, PS / 2USB a TTLCH9102FInterfaz modularUART, SPI, SDIO, I2C, LED PWM, TV PWM, I2S, IRGPIO, sensor táctil del condensador, ADC, Preamplificador DACLNAReloj de a bordoOscilador de cristal de 40MHz Tensión de trabajo2.7V-3.6VCorriente de trabajoalrededor de 30mACorriente de sueño230uARango de temperatura de trabajo-40℃ ~ +85℃Tamaño y pesosin VGA: 60,99 mm * 32,06 mm * 16,79 mmcon VGA: 66,70 mm * 32,06 mm * 16,79 mm21.25gFuente de alimentación EspecificacionesFuente de alimentaciónUSB 5V / 1ACorriente de carga500mABateríaBatería de litio de 3,7 VWifiDescripciónEstándarFCC / CE-RED / IC / TELEC / KCC / SRRC / NCCProtocolo802.11 b / g / n (802.11n, acelerar hasta 150 Mbps) polimerización A-MPDU y A-MSDU, admite intervalo de protección de 0,4 μSRango de frecuencia2,4 GHz ~ 2,5 GHz (2400 M ~ 2483,5 M)Transmitir energía22dBmDistancia de comunicación300mBluetoothDescripciónProtocolocumple con los estándares bluetooth v4.2BR / EDR y BLEFrecuencia de radiocon receptor NZIF de sensibilidad de -97dBm emisor de clase 1, clase 2 y clase 3 AFHFrecuencia de audioFrecuencia de audio CVSD y SBCEspecificación de softwareDescripciónModo WifiEstación / SoftAP / SoftAP + Station / P2PMecanismo de seguridadWPA / WPA2 / WPA2-Enterprise / WPSCifrado Tipo AES / RSA / ECC / SHAActualización de firmwareDescarga UART / OTA (A través de la red / host para descargar y escribir firmware)Desarrollo de softwareAdmite el desarrollo de servidores en la nube / SDK para el desarrollo de firmware del usuarioProtocoloo de redIPv4, IPv6, SSL, TCP / UDP / HTTP / FTP / MQTTConfiguración de usuarioAT + conjunto de instrucciones, servidor en la nube, android / iSOappSOFreeRTSOEl paquete incluye:1 x controlador
+
+
+
+

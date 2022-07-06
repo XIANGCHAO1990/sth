@@ -1,0 +1,145 @@
+1848494
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/91/D3/b96559f5-ebd6-44ea-b786-eb468748a0b9.jpeg
+Mini módulo de reproductor de MP3 Tarjeta TF U Disco Mini reproductor de MP3 Placa de módulo de voz de audio para DFPlayer
+https://es.banggood.com/Mini-MP3-Player-Module-TF-Card-U-Disk-Mini-MP3-Player-Audio-Voice-Module-Board-For-DFPlayer-p-1848494.html?cur_warehouse=CN&ID=522225&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características:DFPlayer Mini es un módulo MP3 compacto y económico que se puede conectar directamente al altavoz. El módulo con fuente de alimentación de batería, altavoz, teclado se puede utilizar solo, o mediante el control del puerto serie, como para ArduinoUNO o cualquier microcontrolador con un módulo de puerto serie. El módulo en sí mismo perfectamente integrado decodifica MP3, WAV, WMA's. Si bien el software es compatible con el controlador de la tarjeta TF para admitir el sistema de archivos FAT16, FAT32. Se puede hacer mediante un simple comando en serie que reproduce la música especificada, así como también la forma de reproducir música y otras funciones, sin tedioso bajo nivel, fácil de usar, estable y confiable.Especificaciones técnicas:1. Admite tasas de muestreo (KHz): 8/11.025/12/16/22.05/24/32/44.1/482. Salida DAC de 24 bits, soporte de rango dinámico: 90 dB, soporte SNR: 85 dB3. Totalmente compatible con FAT16, sistema de archivos FAT32, soporte máximo de tarjeta 32G TF, soporte de disco U a 32G, 64M bytes de NORFLASH4. Hay una variedad de modos de control disponibles. Modo de control IO, modo serie, modo de control de teclas AD5. La función de anuncios de idioma de transmisión, puede detener la reproducción de la música de fondo. La publicidad terminó de reproducir el sonido de fondo para continuar reproduciéndose6. Los datos de audio están ordenados por carpeta, admite hasta 100 carpetas, las carpetas pueden asignar cada 255 pistas7. Volumen ajustable de 30 niveles, ecualizador ajustable 6Solicitud:1. Coche transmisión de voz de navegación2. Inspectores de transporte por carretera, avisos de voz de peaje3. La estación de tren, la estación de autobuses indica el control de seguridad por voz4. Indicaciones de voz para energía eléctrica, telecomunicaciones y operaciones financieras.5. El vehículo entra o sale del canal para verificar las indicaciones de voz.6. Avisos de voz del canal de control fronterizo **7. Operación de equipo de guía de voz o alarma de voz multicanal8. Seguridad en el autobús turístico eléctrico con avisos de voz9. Alarma de falla de equipos eléctricos y mecánicos.10. Indicaciones de voz de alarma de incendio11. Equipo de transmisión automática, transmisión regular.El paquete incluye:1 x Tarjeta TF U Disco Mini Reproductor MP3 Módulo de voz de audio(el UNOR3 y el altavoz no están incluidos)
+
+
+
+

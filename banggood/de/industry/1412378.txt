@@ -1,0 +1,218 @@
+https://de.banggood.com/MINI-DS213-Digital-Storage-Oscilloscope-Portable-15MHz-Bandwidth-100MSa-or-s-Sampling-Rate-2-Analog-Channels+2-Digital-Channels-3-Inch-Screen-p-1412378.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+MINI DS213 Digitales Speicheroszilloskop Tragbare 15-MHz-Bandbreite 100 MSa / s Abtastrate 2 analoge Kanäle + 2 digitale Kanäle 3-Zoll-Bildschirm
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+
+DS213 ist ein „5-gleisig, 4-Wellen-Linie” digitales Speicheroszilloskop für allgemeine Aufgaben in der Elektrotechnik und basiert auf dem ARM Cortex M3-Kern. DS213 verwendet FPGA, um den Steuerungs- und Daten-Cache-Modus des externen ADC zu verwalten. Es bietet 4 Anwendungspartitionen zum Laden und Aktualisieren von bis zu 4 verschiedenen Anwendungsfirmware. Es verfügt auch über einen integrierten 8-MB-USB-Stick zum Speichern von Wellenformen und zum Aktualisieren der Systemfirmware. Die Anwendungsschicht des Oszilloskop-Codes ist Open Source, und Benutzer können Oszilloskop-Firmware nach ihren Bedürfnissen entwickeln
+
+Eigenschaften:
+
+Mini-Größe, geringes Gewicht, tragbar und tragbar;
+Es kann Wellenformen speichern, wodurch die Wellenformanalyse klarer und effektiver wird.
+Mehrere Trigger-Modi unterstützen Ascend / Descend Edge Trigger, Positive / Negative Pulse Trigger und iLogicTrigger;
+Leistungsstarke Fähigkeit, Wellenformen zu verarbeiten, kann es automatisch Parameter wie Spannung, Frequenz und Pulsbreite messen.
+
+Spezifikationen:
+
+CPU: ARM Cortex M3
+FIFO & Steuerung: FPGA
+ADC: HWD9288-100
+Analoge Kanäle: 2([CH_A] [CH_B])
+Digitale Kanäle: 2 ([C_C] [CH_D])
+Operationskanal: INV [CH_A], INV [CH_B], [CH_A] + [CH_B], [CH_A] - [CH_B], [C_C] & [CH_D], [C_C] | [CH_D]
+Vertikale Empfindlichkeit: 10mV-10V/div (1-2-5 STEP) (mit X1 Sonde)
+                100mV-100V/div (1-2-5 SCHRITT) (mit X10 Sonde)
+Vertikale Auflösung: 8 Bit
+Sample-Speichertiefe: 4 Kanäle, 4*4K
+Kopplung: DC, AC
+Max. Eingangsspannung: ±40Vpp (mit X1 Sonde)
+                 ±400Vpp (mit X10 Sonde)
+Triggertypen: Flankentriggermodus aufsteigend/absteigend, Trigger für positive/negative Pulse, LogicTrigger
+Triggermodus: Auto, Normal, Single, Slow
+Triggerquelle: [CH_A] [CH_B] [C_C] [CH_D]
+Signalquelle: Rechteckwelle: 10 Hz bis 8 MHz, insgesamt 20 schif1ts- und 3 Vss-Signalquellen;
+Sinus/Dreieck/Sägezahnwelle: 10Hz bis 20MHz, insgesamt 11 schif1ts und 3 Vss-Signalquellen
+Speicher: eingebaute 8M USB-Festplatte
+Dateitypen: BMP,BUF,CSV
+Auto-Messtypen: Signalsequenz/Zyklus/Einschaltdauer, Spitzenspannung/virtueller Wert/Maximalwert/Minwert/Durchschnitt
+Cursor-Messung: Zeitwert, Amplitudenwert
+Anzeigemodi: 4 Wellenlinien: Zeile 1: [CH_A], HIDE
+Zeile 2: [CH_B], HIDE
+Zeile 3: [C_C], REC_1, REC_2, REC_3, REC_4, HIDE
+Zeile 4: [CH_D], [CH_A] + [CH_B], [CH_A] - [CH_B], [C_C] & [CH_D], [C_C] | [CH_D], HIDE
+Sampling-Modus: Echtzeit-Sampling
+Abtastrate: 100M Sa/s
+Batterie: 1000mAh
+Größe: 99,5 mm x 58,5 mm x 13,5 mm
+Gewicht: 129g (mit Akku)
+Zertifikat: CE, FCC
+
+
+
+Paket beinhaltet:
+
+1 x DS213 Oszilloskop (nicht enthalten die silikon Fall)
+2 x Testproes
+1 x ein Zubehörset
+Das silikon Fall ist nicht im Paket enthalten, Sie können auf den Link unten klicken, um es zu kaufen 
+
+►Silikonhülle für DS213: 4 Farben zur Auswahl /mit rundem Ständer
+
+
+
+Details Bilder:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

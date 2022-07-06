@@ -1,0 +1,145 @@
+1925270
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/A1/4C/f313c01c-a337-4d5a-9e58-4d0fd1a54c6f.jpg
+Module de relais 5V 12V 24V 1/2/4/6/8 canaux avec relais de déclenchement de niveau haut/bas d'isolement par optocoupleur
+https://fr.banggood.com/5V-12V-24V-1-or-2-or-4-or-6-or-8-Channel-Relay-Module-with-Optocoupler-Isolation-High-or-Low-Level-Trigger-Relay-p-1925270.html?cur_warehouse=CN&ID=49552528397&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spécification:1. L'interface normalement ouverte limite les charges lourdes : AC 250V/10A, DC 30V/10A2. Adoptez l'isolement du photocoupleur, déclenchez le courant 5MA3. Tension de fonctionnement du module : 5V 12 V 24 V4. Le module peut être déclenché par des cavaliers pour régler le niveau haut/bas5. Réglage de la tolérance aux pannes, même si la ligne de commande est cassée. Le relais ne fonctionnera pas6. Indicateur d'alimentation (vert), indicateur d'état du relais (rouge)7. L'interface peut être directement connectée via le bornierDéfinitions et fonctions des broches du produit : DC+ : alimentation positive (sélectionnée en fonction de la tension de fonctionnement du relais)DC-: masse d'alimentationIN ou INx : entrée du signal de commandeNO ou NOx : borne d'accès à la charge, normalement ouverteCOM ou COMx : accès en charge, communNC ou NCx : borne d'accès charge, normalement ferméeEmballage inclus:1 module de relais 1/2/4/6/8 canaux (facultatif)
+
+
+
+

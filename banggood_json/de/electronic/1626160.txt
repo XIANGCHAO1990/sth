@@ -1,0 +1,303 @@
+1626160
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/FB/0F/51b5f007-ca51-44ad-ac2e-2777f6aecfef.JPG
+7W Mini DC DC Boost Aufwärtswandler 2,6-5,5V zu 5V 6V 9V 12V Spannungsreglermodul
+https://de.banggood.com/7W-Mini-DC-DC-Boost-Step-Up-Converter-2_6-5_5V-to-5V-6V-9V-12V-Voltage-Regulator-Module-p-1626160.html?cur_warehouse=CN&ID=519957&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:  
+
+
+
+- DC DC Boost Converter Module Arbeitsfrequenz 1 MHz. 
+
+- Bis zu 93% Effizienz (normalerweise 84%-91%) 
+
+- Ruhestrom: 190uA.
+
+- Strombegrenzungsprogramm (0,5-2,5 A, Standard 1,8 A)  
+
+- Größe: 21 x 11 x 4 mm
+
+- Gewicht: 1,5g
+
+- Schutz :  
+
+Überstromschutz (OCP)
+
+Überspannungsschutz (OVP)
+
+Kurzschlussschutz (SCP)
+
+Übertemperaturschutz (OTP) 
+
+
+
+
+
+
+Ausgabe 5V :
+
+ 
+
+
+Eingangsspannung DC 2,6 ~ 4,5 V, Ausgang DC 5 V ± 3 %
+
+Maximale Leistung: 5V/1300MA (Details finden Sie in der Tabelle unten)   
+
+ 
+
+
+
+ 
+Ausgang 6V :
+
+							Eingangsspannung DC 2,6 ~ 5,5 V, Ausgang DC 6 V ± 3 %
+							Maximale Leistung: 6V/1200MA (Details finden Sie in der Tabelle unten)
+
+
+Ausgang 9V :
+
+							Eingangsspannung DC 2,6 ~ 5,5 V, Ausgang DC 9 V ± 3 %
+							Maximale Leistung: 9V/800MA (Details finden Sie in der Tabelle unten)
+
+
+
+
+
+
+Ausgang 12V :
+
+
+Eingangsspannung DC 2,6 ~ 5,5 V, Ausgang DC 12 V ± 3 %
+					Maximale Leistung: 12V/600MA (Details finden Sie in der Tabelle unten)
+
+
+
+
+ 
+
+
+
+
+Pin-Beschreibung:
+
+
+
+Vi : Eingang positiv (+)
+
+GND: Eingang und Ausgang negativ (GND/-)
+
+Vo : Ausgang positiv (+)
+
+
+
+Anwendungen:
+
+
+
+Batteriebetriebene Geräte
+
+Instrumentierung, Multimeter
+
+Steckbrett Stm32 LCD LED
+
+Kleinmotoren
+
+PTZ-Kamera-Webcam
+
+IP Kamera
+
+Spielzeugautoboot
+
+Modellflugzeuge
+
+Powerbank
+
+LED-Motor  
+
+Solarenergie
+
+Wlan Router 
+
+SPS RS485 Geräte
+
+Stromversorgungsgeräte für Lithiumbatterien
+
+ 
+
+Beachtung :
+
+
+
+Dies ist ein DC-DC-Spannungswandlermodul, Muss bei der Verwendung beachtet werden:
+
+
+
+1. Eingangsspannung darf nicht größer als der maximale Eingangsbereich sein
+
+2. Die Ausgangsleistung kann für längere Zeit nicht größer als die maximale Last sein
+
+3. Die Eingangsleistung muss größer als die Ausgangsleistung sein, da die Leistungsaufnahme des Moduls selbst  
+
+
+
+Fragen und Antworten:
+
+ 
+
+F: Warum ist die Ausgangsspannung kleiner als die Nennspannung?
+
+A: Die Eingangsleistung des Netzteils ist zu niedrig. Testen Sie die Eingangsspannung mit einem Multimeter, zu diesem Zeitpunkt ist die Eingangsspannung sehr niedrig
+
+
+
+Paket enthalten:
+
+
+
+1 x 7W Mini DC DC Boost Aufwärtswandler 2,6-5,5V zu 5V 6V 9V 12V
+
+
+
+
+
+
+
+
+
+

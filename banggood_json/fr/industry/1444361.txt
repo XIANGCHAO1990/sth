@@ -1,0 +1,401 @@
+1444361
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/5A/7D/d706bf38-c5cb-4f91-9919-ed917636dc04.jpeg
+HANPOSE 17HS8401S-PG Nema 17 Moteur pas à pas à engrenages d'extrudeuse 42 Moteur pas à pas à engrenages planétaires à rapport de moteur
+https://fr.banggood.com/HANPOSE-17HS8401S-PG-Nema-17-Extruder-Gear-Stepper-Motor-42-Motor-Ratio-Planetary-Gear-Stepper-Motor-p-1444361.html?cur_warehouse=CN&ID=6120235&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:
+HANPOSE 17HS8401S-PG Nema 17 Moteur pas à pas à engrenages d'extrudeuse 42 Moteur pas à pas à engrenages planétaires à rapport de moteur
+Certification : CE, ROSH, ISO, FCC
+
+Spécification:
+
+
+
+
+				modèle du produit
+
+				17HS8401S-PGXXX
+
+
+
+				Moteur pas à pas Longueur
+
+				48mm
+
+
+
+				Taille de l'arbre
+
+				Axe "D" 16x8mm
+
+
+
+				Câble moteur
+
+				Brancher
+
+
+
+				Y compris le fil
+
+				Fil Dupoint 1M
+
+
+
+
+Rapport de réducteur de vitesse
+
+
+
+Modèle
+
+				3.71-1
+
+				5.18-1
+
+				14-1
+
+				19-1
+
+				27-1
+
+				51-1
+
+
+
+				Réduction
+
+				3.71
+
+				5.18
+
+				14
+
+				19
+
+				27
+
+				51
+
+
+
+				Boîte Longueur
+
+				29
+
+				29
+
+				37
+
+				37
+
+				37
+
+				45
+
+
+
+
+Paramètres techniques du réducteur planétaire
+
+
+
+
+				Matériau de l'engrenage interne
+
+				Acier 45 #
+
+
+
+				Formulaire de roulement de sortie
+
+				Roulements à bille
+
+
+
+				Charge radiale
+
+				≤35N
+
+
+
+				Charge axiale
+
+				≤25N
+
+
+
+				Jeu radial
+
+				≤0.04mm
+
+
+
+				Jeu axial
+
+				≤0.03mm
+
+
+
+				Jeu (pas de charge)
+
+				≤2°
+
+
+
+
+Remarque: Le couple de maintien du moteur pas à pas à engrenage planétaire = 17HS8401-S Couple de maintien du moteur pas à pas * Réduction * 0,8
+	Avertissement: la boîte peut supporter un couple inférieur à 16 NM
+
+Spécifications électriques du moteur pas à pas 17HS8401-S :
+
+
+
+
+				Numéro de modèle
+
+				Étape
+				Angle
+
+				Moteur 
+				Longueur
+
+				Noté 
+				Courant
+
+				La résistance
+				/Phase
+
+				Inductance
+				/Phase
+
+				En portant 
+				Couple
+
+				Détente
+				Couple
+
+				Inertie de
+				Rotor
+
+				  Mener 
+
+
+
+				(°)
+
+				(L)mm
+
+				(UNE)
+
+				(Ω)
+
+				(mH)
+
+				(N.cm) 
+
+				(N.cm) 
+
+				(G.cm²)
+
+				(Non.)
+
+
+
+				17HS8401-S
+
+				1.8
+
+				48
+
+				1.8
+
+				1.8
+
+				3.2
+
+				52
+
+				2.6
+
+				68
+
+				4
+
+
+
+
+Applications:
+	Utilisé pour les robots moteur pas à pas,
+	Moteur pas à pas d'équipement automatique électronique,
+	Moteur pas à pas d'instrument médical,
+	Moteur pas à pas pour instrument publicitaire,
+	Moteur pas à pas d'éclairage et d'équipement audio,
+	Moteur pas à pas d'imprimante, moteur pas à pas de machines textiles,
+	Moteur pas à pas de routeur CNC.
+	Imprimante 3D
+Emballage inclus:
+1 x HANPOSE 17HS8401S-PGXXX Moteur pas à pas pour extrudeuse 
+
+Plus de détails: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

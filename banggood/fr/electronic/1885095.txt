@@ -1,0 +1,143 @@
+https://fr.banggood.com/HW-060B-1602-LCD-5V-Yellow-green-Screen-IIC-I2C-Interface-Module-1602-LCD-Display-Adapter-Board-p-1885095.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+HW-060B 1602 LCD 5V Écran jaune-vert IIC I2C Module d&#39;interface 1602 LCD Carte adaptateur d&#39;affichage
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:Caractéristiques de l'écran LCD 1602 :Module d'affichage LCD avec lumière noire bleue.Grand angle de vision et contraste élevé.Contrôleur intégré à la norme industrielle HD44780 équivalent LCD.Couramment utilisé dans : les copieurs, les télécopieurs, les équipements de test industriels, les équipements de réseau tels que les routeurs et les périphériques de stockage.Type LCM : CaractèresPeut afficher 2 lignes X 16 caractères.Tension : CC 5VDimensions du module : 80 mm x 35 mm x 11 mm.Taille de la zone de visualisation : 64,5 mm x 16 mmCaractéristiques IIC/I2C : Pour interface Arduino 1602 I2C écran 4 fils 1602Le port IO de la carte de commande Arduin0 n'est que de 20, donc les ports IO ne suffisent pas pour de nombreux capteurs, cartes SD et modules de relais.L'écran d'origine 1602 a besoin de 7 ports IO pour monter, et ce module peut économiser 5 ports IOEmballage inclus:1 x 1602 LCD 5V Écran jaune-vert IIC I2C Module d'interface
+
+
+
+

@@ -1,0 +1,319 @@
+https://fr.banggood.com/HackRF-One-1MHz-6GHz-Radio-Platform-Development-Board-Software-Defined-RTL-SDR-Demoboard-Kit-Dongle-Receiver-Ham-Radio-p-1552853.html?cur_warehouse=CN&ID=6270001&rmmds=CategoryElectronicsPop
+HackRF One Carte de développement de plate-forme radio 1 MHz-6 GHz Kit de carte de démonstration RTL SDR défini par logiciel Récepteur de dongle Radio-amateur
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problème commun:
+
+
+
+Q. L'ordinateur ne trouve pas la machine. / L'USB n'est pas reconnu.
+
+R : Nécessite l'installation du micrologiciel. Si le micrologiciel ne fonctionne toujours pas après l'installation du micrologiciel, vous pouvez reflasher le micrologiciel.
+
+Micrologiciel : http://myosuploads3.banggood.com/products/20200116/20200116013405PortapackFirmwareTool.rar
+
+Autres fichiers: 
+
+https://greatscottgadgets.com/sdr/ 
+https://github.com/mossmann/hackrf/wiki
+
+Caractéristique:
+
+
+
+
+HackRF One est un périphérique radio défini par logiciel capable de transmettre ou de recevoir des signaux radio de 1 MHz à 6 GHz. Conçu pour permettre le test et le développement de technologies radio modernes et de nouvelle génération, HackRF One est une plate-forme matérielle open source qui peut être utilisée comme périphérique USB ou programmée pour un fonctionnement autonome.
+
+
+
+Caractéristiques:
+
+
+
+- Fréquence de fonctionnement de 1MHz à 6 GHz
+
+- Émetteur-récepteur semi-duplex
+
+- Jusqu'à 20 millions d'échantillons par seconde
+
+- Échantillons en quadrature 8 bits (8 bits I et 8 bits Q)
+
+- Compatible avec GNU Radio, SDR#, et plus
+
+- Gain RX et TX et filtre de bande de base configurables par logiciel
+
+- Alimentation du port d'antenne contrôlée par logiciel (50 mA à 3,3 V)
+
+- SMA connecteur d'antenne femelle
+
+- SMA entrée et sortie d'horloge femelle pour la synchronisation
+
+- Boutons pratiques pour la programmation
+
+- En-têtes de broches internes pour l'expansion
+
+- USB 2.0 haute vitesse
+
+- Alimenté par USB
+
+- Matériel open source
+
+
+Paramètres:
+
+
+
+- Bande de fréquence : 1MHz-6Ghz
+
+- Bande passante de données : 20MHz
+
+- Précision d'échantillonnage ( ADC/DAC) : 8BIT
+
+- Vitesse d'échantillonnage (ADC/DAC): 20Mbps
+
+-Interface : USB2.0
+
+- Open source
+
+- Puissance d'émission maximale : 10dbm
+
+- EVM de transmission 64QAM : 1,5 %
+
+- Bande passante d'échantillonnage complexe : 20Mhz
+
+
+
+Matériel:
+
+
+
+- Mélangeur RFFC5072 : 80MHz-4200MHz
+
+- Émetteur-récepteur RF à bande passante sans fil MAX2837 : 2,3 Ghz-2,7 Ghz
+
+- Processeur LPC4330 : Fréquence principale 204MHz
+
+- Amplificateur MGA-81563 : 0,1-6Ghz, 3V, 14dbm
+
+
+Le forfait comprend : (facultatif)
+
+
+
+XR-028 : 
+
+
+1 x carte de développement HackRF
+
+1 câble USB
+
+1 x antenne UHF (40Mhz-6GHz)
+
+
+
+XR-029 : 
+
+
+1 x carte HackRF One avec coque acrylique
+
+1 x antenne UHF (40Mhz-6GHz)
+					1 x antenne UHF/VHF
+
+1 câble USB
+
+1 x horloge TCXO 0.1PPM
+
+
+
+
+XR-030 : 
+
+
+1 x carte HackRF One avec coque en aluminium
+
+1 x antenne UHF (40Mhz-6GHz)
+					1 x antenne UHF/VHF
+
+1 câble USB
+
+1 x horloge TCXO 0.1PPM
+
+
+
+XR-031 : 
+
+
+
+
+
+1 x carte HackRF One avec coque en aluminium
+
+1 câble USB
+
+1 x horloge TCXO 0.1PPM
+
+
+1 x antenne UHF (40Mhz-6GHz)
+	1 x antenne UHF/VHF
+
+1 antenne GSM/3G/4G 35DBI 
+	1 x GSM/2G/3G/4G/WIFI 700-960MHz & 1710-2700MHz 5DBI Antenne 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

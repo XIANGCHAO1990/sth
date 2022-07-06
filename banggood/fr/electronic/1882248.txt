@@ -1,0 +1,143 @@
+https://fr.banggood.com/M5Stack-STAMP-PICO-ESP32-PICO-D4-ESP32-Plug-and-Play-Embedded-WIFI-and-Bluetooth-Dual-mode-IoT-Development-Board-Multi-IO-Pinout-p-1882248.html?cur_warehouse=HK&rmmds=CategoryElectronicsPop
+M5Stack STAMP PICO ESP32-PICO-D4 ESP32 Plug-and-Play intégré WIFI et Bluetooth carte de développement IoT bimode brochage multi-IO
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Le nouveau module miniature 'plug-and-play' ESP32 économique de M5Stack—TAMPON PICO  STAMP-PICO présente une conception ultra-compacte avec deux microprocesseurs Xtensa® 32 bits LX6 basse consommation à 240 MHz sur un circuit imprimé aussi petit et délicat qu'un timbre-poste.Il est idéal pour tous les appareils à espace restreint ou alimentés par batterie tels que les appareils portables, hcertains automatismes, smart scapteurs et autres appareils IoT.  1, PLUSIEURS STYLE: 5 options d'installation, c'est des possibilités infinies ! (SMT, DIP, flyw1re, interface Grove), avec une coque en plastique résistant aux hautes températures, une antenne 3D et des composants peuvent être mieux protégés. 2, DÉVELOPPEMENT LOW-CODE : TAMPON PICO prend en charge la plate-forme de programmation graphique interface utilisateurFlow, sans script, push cloud ; et entièrement compatible avec Arduin0, MicroPython, ESP32-IDF et autres plates-formes de développement grand public pour créer rapidement diverses applications. 3, HAUTE INTÉGRATION : TAMPON PICO contient 5V->3,3V DC/DC conception, GPIOx12, RVB programmable LED x1, bouton x1, circuit RF finement réglé, offrant une communication sans fil stable et fiable. 4, FORTE EXPANSION: accès facile au système d'écologie matérielle et logicielle de M5Stack: une multitude de capteurs, d'actionneurs, de modules fonctionnels et d'accessoires au choix, adaptation extrêmement rapide.  caractéristiques du produit- Jeu de puces: ESP32-PICO-D4 (mode double Wi-Fi et bleuetooth 2,4 GHz)- Prise en charge de la programmation graphique interface utilisateurFlow- Prend en charge plusieurs styles d'installation (SMT, DIP, fly-by-wire)- RVB programmable intégré LED et bouton- Miniature en tailleEmballage inclus:- 1 x M5Stamp Pico- 1 autocollant- 4 x en-têtes de broche- 1 connecteur Grove 90°- 1 x clé hexagonale ApplicationsInstrumentationSurveillance/contrôle à distance Wi-FiMaison intelligenteCouleur LED ContrôleGestion intégrée intelligente incendie/sécuritéTerminal de carte à pucePoint de vente sans filspécificationsAttributValeurRessource de contrôle principalESP32-PICO-D4 | 240 MHz double cœur, 600 DMIPS, 520 Ko de SRAM, Wi-Fi et bleuetooth, double modeÉclat4MBTension d'entrée5V @ 500mAConsommation d'énergieVeille normale : 5 V@29 mA,Mode WIFI STA : 5V@60mA,Statut d'envoi de données en mode bleuetooth : 5 V@84 mA, mode veille prolongée : 5 V@0,35 mAinterface utilisateurPhysique programmable bouton x 1, RVB programmable LED (SK6812) x 1Type d'antenne2.4G 3D AntenneWifi802.11 b/g/n (jusqu'à 150 Mbps pour 802.11n), plage de spectre : 2,4 GHz ~ 2,5 GHz bleuetoothbleuedent V4.2 BR/EDR et norme BLE, récepteur NZIF, sensibilité jusqu'à -97 dBmInterface des ressources du moduleADC, DAC, capteur tactile, contrôleur hôte SD/SDIO/MMC, SPI, contrôleur esclave SDIO/SPI, EMAC, moteur PWM, LED PWM, UART, I2C, I2S, télécommande IR, GPIO, compteur d'impulsionsInterface E/S x12G0, G1, G3, G26, G36, G18, G19, G21, G22, G25, G32, G33Espacement des interfaces d'E/S2.54mmTempérature de fonctionnement32°F à 104°F ( 0°C à 40°C )Poids net1.6gPoids brut2.5gdimensions du produit18*24*4.4mmTaille du paquetSac d'étanchéité 85*55mm (translucide) Téléchargement du programme-TIMBRE PICO adopte la conception de circuit la plus rationalisée, il n'inclut donc pas le circuit de téléchargement de programme. Les utilisateurs peuvent choisir Kit de bricolage Pico M5Stamp pour télécharger le programme.
+
+
+
+

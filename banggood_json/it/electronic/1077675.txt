@@ -1,0 +1,180 @@
+1077675
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/B1/D4/219647ea-f2aa-4cad-8c51-cd21341f4f48.JPG
+Pro Micro 5V 16M Mini Leonardo Microcontroller Scheda di Sviluppo per Arduino
+https://it.banggood.com/Geekcreit-Pro-Micro-5V-16M-Mini-Leonardo-Microcontroller-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1077675.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pro Micro 5V 16M Mini Leonardo Microcontroller Scheda di Sviluppo per Arduino
+
+Descrizione:
+
+Questa scheda di sviluppo microcontrollore è dotata di 4 canali 10 bit ADC, 5 PWN pin, 12 DIO, e una connessione seriale RX e TX di hardware che sono familiari per te. In esecuzione su 16MHz e 5V, questa scheda vi ricorderà un sacco di altre schede compatibili con Arduino che ti piaciono. C'è un regolatore di tensione sulla scheda, quindi può accettare la tensione fino a 12 V DC. Se collegare a una scheda con alimentazione instabile, assicurarsi di collegare a "RAW", non al pin VCC. Sono aggiunti anche un PTC fusibile e una protezione di diodo, al circuito di alimentazione e a correggere il circuito RX e il circuito TX LED.
+
+Caratteristiche:
+
+- ATMEGA32U4 funziona in 5V/16MHz 
+- Supporta Arduino IDE V1.0.1
+- Interfaccia Micro USB sulla scheda
+- Quattro ADC pin da 10 bit
+- 12 I/O digitali (5 PWN funzionalità)
+- Collegamento seriale di hardware RX e TX 
+
+Il pacchetto include:
+
+1 x Modulo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

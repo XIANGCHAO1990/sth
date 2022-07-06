@@ -1,0 +1,195 @@
+https://es.banggood.com/TWO-TREES-CNC-Shield-+-UNO-R3-Board-+4x-A4988-Stepper-Motor-Driver-+4x-4401-Stepper-Motor-Kit-for-3D-Printer-p-1510212.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+TWO TREES® CNC Shield + placa UNO R3 + 4x A4988 Stepper motor Driver + 4x 4401 Stepper motor Kit para impresora 3D
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:
+
+
+
+
+Última versión 3.0 de CNC Shield
+
+Compatible con GRBL 0.8c. (Firmware de código abierto que se ejecuta en un UNO que convierte los comandos de código G en señales paso a paso)
+
+Soporte de 4 ejes (X, Y, Z, A-Can duplicar X, Y, Z o hacer un 4to eje completo con firmware personalizado usando los pines D12 y D13)
+
+2 x topes finales para cada eje (6 en total)
+
+Habilitación y dirección del husillo
+
+Habilitación de refrigerante
+
+Utiliza controladores paso a paso compatibles con Pololu A4988 extraíbles. (A4988, DRV8825 y otros)
+
+Jumpers para configurar el Micro-Stepping para los controladores paso a paso. (Algunos controladores como el DRV8825 pueden hacer hasta 1/32 micropasos)
+
+Los motores paso a paso se pueden conectar con conectores molex de 4 pines o soldarse en su lugar
+
+Funciona con 12-36 V CC. (Por el momento, solo los controladores Pololu DRV8825 pueden manejar hasta 36 V, así que tenga en cuenta el voltaje de funcionamiento al encender la placa).
+
+
+
+
+El paquete incluye:
+
+
+1 x escudo CNC V3.0
+
+1 x tablero UNOR3
+
+4 x A4988 controlador
+
+4 x 4401 paso a paso motor
+		1 x cable USB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

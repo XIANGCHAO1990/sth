@@ -1,0 +1,173 @@
+https://tr.banggood.com/Geekcreit-8A-DC5-30V-to-DC1_25-30V-150KHz-Automatic-Step-Up-Step-Down-Adjustable-Power-Module-Voltage-Regulation-With-Short-Circuit-or-Overtemperature-Protection-p-969195.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® 8A DC5-30V - DC1.25-30V 150KHz Otomatik Artırmak Kısa Devre / Aşırı Sıcaklık Korumalı Kademeli Ayarlanabilir Güç Modülü Gerilim Düzenlemesi
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modül parametreleri:
+
+Giriş voltajı: DC5-30V
+Giriş akımı: 8A (MAX) tepe 10A (6A uzun süre çalışır)
+Sakin akım: 4mA (çalışma voltajı aynı değildir, hatalar olacaktır)
+Çıkış voltajı: 1.25-30V sürekli ayarlanabilir
+Çıkış Akımı: 10A (MAX) (5A uzun doğal ısı içeride)
+Çıkış akımı aralığı: 0.2-10A
+Çalışma sıcaklığı: -40 ila + 85 derece
+Çalışma frekansı: 150KHz
+Dönüşüm verimliliği: Tipik% 91 (12V dönüş 12V5A) maksimum% 93
+Aşırı akım koruması: orada
+Kısa devre koruması: (sınırlayıcı koruma)
+Aşırı sıcaklık koruması: (aşırı sıcaklıktan sonra çıkış voltajını otomatik olarak azaltır)
+Giriş ters polarite koruması: Yok, (gerekirse lütfen diziyi diyota girin)
+Sulama önleyici çıktı: Evet, şarj etmeye ve engelleme diyotuna gerek yok.
+Bağlantı: Terminal çıkışı, (IN giriş, OUT çıkışıdır)
+
+
+Çıkış akımı ayarlama yöntemi:
+
+
+
+1. CV potansiyometre ayarı, yük gereksinimlerinize bağlı olarak, çıkış voltajı ihtiyacınız olan voltaj değerine ayarlanır.
+
+2. LED'e bağlı yaklaşık 30 tur saat yönünün tersine yerleştirilmiş CC potansiyometresi (yani çıkış akımı minimuma ayarlanmıştır), potansiyometre CC istenen akıma ayarlanır. Pili şarj ettikten sonra, pil tamamen boşaldı ve ardından çıkış yapmak için istediğiniz akım CC'ye ayarlayın (aktarmaya izin verilmeden önce tamamen boşalmış pilleri şarj etmek için kullandığınızdan emin olun, çünkü pil gücü daha fazla, şarj akım daha küçüktür.) Lütfen kısa devre akım transfer yolunu kullanmayınız, modülün devre yapısı kısa devre yapamaz şekilde transfer
+
+Paket içeriği:
+
+	1 x Otomatik Artırmak Kademeli Ayarlanabilir Güç Modülü
+
+
+
+
+

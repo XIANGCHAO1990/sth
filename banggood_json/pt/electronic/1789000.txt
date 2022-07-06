@@ -1,0 +1,155 @@
+1789000
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/98/76/c7485987-f35f-46e6-8d0d-76513506197b.jpg
+Ender-3 V4.2.7 Mute Super Quiet Motherboard + Touch Auto Leveling Sensor Kit para Ender-3 / Ender-3 pro 3D Prinetr
+https://pt.banggood.com/Ender-3-V4_2_7-Mute-Super-Quiet-Motherboard-+-Touch-Auto-Leveling-Sensor-Kit-for-Ender-3-or-Ender-3-pro-3D-Prinetr-p-1789000.html?cur_warehouse=CN&ID=6287830&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introdução da placa-mãe:Super quieto. Compatível com Creality Ender 3, Ender 3 Pro, Ender 5 impressora 3D. ATENÇÃO: É plug and play apenas para Ender-3 e Ender 3 Pro. Se você deseja instalá-lo em Ender-5, atualize o firmware Ender-5. Você pode baixar o firmware aqui. 
+https://www.creality.com/downloadDriver - driver TMC2208 e Marlin 1.1.8 para placa V1.1.5 enquanto Driver TMC2225 e Marlin 2.0.1 para placa V4.2.7. Bootloader pré-instalado em ambas as placas de versão.Atualizar firmware - se a placa que você recebeu for V1.1.5, atualize o firmware com o cabo ISP. Se a placa que você recebeu for V4.2.7, copie o arquivo do firmware para um cartão SD formatado sem outros arquivos nele. Desligue a impressora e desconecte o cabo de alimentação. Insira o cartão SD e o cabo de alimentação e ligue a impressora. Aguarde 10s para concluir o processo de atualização do firmware.A proteção de fuga térmica está ativada. A placa é otimizada por circuito, efetivamente resolve o problema de aquecimento.Introdução do BLtouch:BLToque é um tipo de sensor Hall semicondutor e é um componente eletrônico para impressoras 3D.BL Touch é um sensor de autonivelamento para impressoras 3D que pode medir com precisão a inclinação da superfície da cama. Pode funcionar com qualquer tipo de material de cama, como vidros, madeiras, metais e assim por diante.BLToque
+ é preenchido com uma estrutura simples e alta precisão, usando sensores solenóides e hall progressivamente projetados. Ele visa a conveniência do usuário e impressão agradável, adicionando muitas funções inteligentes, como autoteste, alarme, liberação de alarme e modo Touch Switch, Blue LED para indicação de sinal de servo e teste Z-probe (Zmin). Recursos:As principais funções e controles do BLToque são iguais aos do sensor de nivelamento automático da cama normal, que consiste em um servo RC e um microinterruptor. Assim, BLToque pode ser aplicado em quase todas as placas.Autoteste: O pino opera duas vezes em um teste quando a energia está ligada.Alarme ： A luz LED pisca se um problema foi encontrado em um autoteste ou durante a operaçãoIndicador de defeito na fiação: Azul e Vermelho LED para indicar defeitos na fiação.Fácil de usar: Este sensor de nivelamento automático da cama facilita o nivelamento do viveiro, que pode medir com precisão a inclinação da superfície da cama. O nivelamento da cama não é mais um problema.Auto-verificação e alarme de inteligência: A função de nivelamento automático é adotada para facilitar o uso e aumentar a taxa de sucesso da modelagem.Observação:Algumas placas-mãe de impressora 3D têm fonte de alimentação 5V insuficiente e podem exigir uma fonte de alimentação 5V externa, o que mostra que a sonda é difícil de empurrar, ou o controle principal de proteção do circuito lógico reinicia durante a operação. Se encontrado, é geralmente recomendado o uso de um módulo redutor DC-DC para obter energia da fonte de alimentação principal. 
+
+  1. + 5V e GND não devem ser conectados inversamente por um longo tempo, pode queimar
+
+  2. Por favor, tente ficar longe de ímãs fortes, motores, ventiladores e outros componentes magnéticos
+  3. Bater acidentalmente na vareta de plástico da sonda pode danificar ou afetar a precisão da detecção
+  4. Ajustar ou remontar o parafuso de fixação da sonda requer cola de rosca
+
+  5. Evite a deformação da carcaça ao instalar a sonda 6. Puxar a haste de alumínio com força danificará ou afetará a precisão da detecçãoIncluído no Pacote:1 x placa-mãe1 x BLtouch com cabo
+
+
+
+

@@ -1,0 +1,299 @@
+1722368
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/D4/3F/497f0e7d-0a9a-4eb4-a4ca-0d5fe92278ee.jpg
+LILYGO® TTGO T-Internet-POE ESP32-WROOM LAN8720A Chip Ethernet Adapter and Downloader Expansion Board Matériel Programmable
+https://fr.banggood.com/LILYGO-TTGO-T-Internet-POE-ESP32-WROOM-LAN8720A-Chip-Ethernet-Adapter-And-Downloader-Expansion-Board-Programmable-Hardware-p-1722368.html?cur_warehouse=CN&ID=6292769&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plus d'informations : https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE Les détails du produit :1. Compatible avec le mode PoE A (alimenté par une paire de données) et le mode PoE B (alimenté par une paire de sauvegarde) et l'automate MDIX, permettant l'utilisation de câbles Ethernet droits et croisés. 2. Une empreinte de 20 aiguilles avec 3,3 V, alimentation V + et 15 ESP32GPIO sont disponibles pour votre application.  3. L'empreinte compacte de 75 mm sur 40 mm est compatible avec 4 trous de montage de vis ordinaires M2,5 ou 4-40. 4. Un petit sous-module de programmation / console série USB a été créé afin que le module Inter-POE puisse être facilement programmé pour répondre aux besoins de l'application de l'utilisateur. Caractéristique:
+
+
+
+Spécifications matérielles
+
+
+
+Jeu de puces
+ESPRESSIF-ESP32-WROOM, puce Ethernet LAN8720A, puce de gestion d'alimentation SI3404
+
+
+ÉCLAT
+4MB 
+
+
+SRAM 
+520 kB SRAM
+
+
+Bouton
+BOT, repos
+
+
+Dispositif externe
+Emplacement pour carte TF, interface de type C, transformateur PA2369NL 1825-S, interface Ethernet-POE HR861153C
+
+
+USB vers TTL
+CP2104
+
+
+Interface modulaire
+ Carte SD, UART, SPI, I2C, PWM, I2S, ADC
+
+
+Horloge de bord
+Oscillateur à cristal 32,768 MHz 
+
+
+Plage de température de travail
+ -40℃ ~ +85℃
+
+
+Poids
+26.85g
+
+
+Taille
+70*52.3*17mm
+
+
+Spécifications de l'alimentation
+
+
+
+Entrée d'alimentation
+USB de type C 5V
+
+
+Interface Ethernet-POE HR861153C 50V
+
+
+Tension de travail
+2.7V-3.6V
+
+
+Courant de sortie maximal
+Environ 1.2A
+
+
+Courant de charge
+500mA
+
+
+USB
+USB de type C
+
+
+Wifi
+
+
+
+Standard
+FCC/CE-RED/IC/TELEC/KCC/SRRC/NCC (puce esp32)
+
+
+Protocole
+802.11 b/g/n (802.11n, vitesse jusqu'à 150 Mbps) polymérisation A-MPDU et A-MSDU, prend en charge l'intervalle de protection de 0,4 S
+
+
+Gamme de fréquences
+2,4 GHz~2,5 GHz(2400M~2483,5M)
+
+
+Puissance de transmission
+22dBm
+
+
+Distance de communication
+300m
+
+
+Bluetooth
+
+
+
+Protocole
+Conforme aux normes Bluetooth v4.2BR/EDR et BLE
+
+
+Fréquence radio
+Avec une sensibilité de -97dBm Récepteur NZIF Classe 1, Classe 2 et Classe 3 émetteur AFH
+
+
+Fréquence audio
+Fréquence audio CVSD et SBC
+
+
+Spécification du logiciel
+
+
+
+Mode Wifi
+Station/SoftAP/SoftAP+Station/P2P
+
+
+Mécanisme de sécurité
+WPA/WPA2/WPA2-Entreprise/WPS
+
+
+Type de chiffrement 
+AES/RSA/ECC/SHA
+
+
+Mise à jour du firmware
+Téléchargement UART/OTA (via le réseau/hôte pour télécharger et écrire le firmware)
+
+
+Développement de logiciels
+Prise en charge du développement du serveur cloud/SDK pour le développement du micrologiciel utilisateur
+
+
+Protocolee de mise en réseau
+IPv4, IPv6, SSL, TCP/UDP/HTTP/FTP/MQTT
+
+
+Configuration utilisateur
+AT + Jeu d'instructions, serveur cloud, android/iSystème d'exploitationapp
+
+
+Système d'exploitation
+FreeRTSystème d'exploitation
+
+Le forfait comprend :1 x T-Internet-POE 1 x broche à double rangée 1 x carte d'extension de téléchargement (en option)Remarque: l'interface USB n'a qu'une fonction de chargement, le produit a besoin d'un téléchargeur pour programmer. 
+
+
+
+

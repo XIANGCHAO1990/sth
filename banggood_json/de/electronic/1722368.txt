@@ -1,0 +1,299 @@
+1722368
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/D4/3F/497f0e7d-0a9a-4eb4-a4ca-0d5fe92278ee.jpg
+LILYGO® TTGO T-Internet-POE ESP32-WROOM LAN8720A Chip-Ethernet-Adapter und programmierbare Hardware der Downloader-Erweiterungskarte
+https://de.banggood.com/LILYGO-TTGO-T-Internet-POE-ESP32-WROOM-LAN8720A-Chip-Ethernet-Adapter-And-Downloader-Expansion-Board-Programmable-Hardware-p-1722368.html?cur_warehouse=CN&ID=6292769&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Weitere Informationen: https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE Produktdetail :1. Kompatibel mit PoE-Modus A (Stromversorgung über Datenpaar) und PoE-Modus B (Stromversorgung über Backup-Paar) und Auto-MDIX, sodass gerade und Crossover-Ethernet-Kabel verwendet werden können. 2. Für Ihre Anwendung stehen 20 Nadeln mit 3,3 V, V + Strom und 15 ESP32GPIO zur Verfügung.  3. Die kompakte Grundfläche von 75 mm x 40 mm ist mit 4 Befestigungslöchern für normale M2.5- oder 4-40-Schrauben kompatibel. 4. Es wurde ein kleines Submodul für die serielle Programmier- / USB-Konsole erstellt, damit das Inter-POE-Modul einfach an die Anwendungsanforderungen des Benutzers programmiert werden kann. Besonderheit:
+
+
+
+Hardware-Spezifikationen
+
+
+
+Chipsatz
+ESPRESSIF-ESP32-WROOM, LAN8720A-Ethernet-Chip, SI3404 Power-Management-Chip
+
+
+BLITZ
+4MB 
+
+
+SRAM 
+520 kB SRAM
+
+
+Taste
+BOT, Ruhe
+
+
+Externes Gerät
+TF-Kartensteckplatz, Typ-C-Schnittstelle, Transformator PA2369NL 1825-S, Ethernet-POE-Schnittstelle HR861153C
+
+
+USB zu TTL
+CP2104
+
+
+Modulare Schnittstelle
+ SD-Karte, UART, SPI, I2C, PWM, I2S, ADC
+
+
+Borduhr
+32,768 MHz Quarzoszillator 
+
+
+Arbeitstemperaturbereich
+ -40℃ ~ +85℃
+
+
+Gewicht
+26.85g
+
+
+Größe
+70*52.3*17mm
+
+
+Spezifikationen des Netzteils
+
+
+
+Netzteileingang
+Typ C USB 5V
+
+
+HR861153C Ethernet-POE-Schnittstelle 50V
+
+
+Betriebsspannung
+2.7V-3.6V
+
+
+Maximaler Ausgangsstrom
+Über 1.2A
+
+
+Ladestrom
+500mA
+
+
+USB
+Typ-C-USB
+
+
+W-lan
+
+
+
+Standard
+FCC/CE-RED/IC/TELEC/KCC/SRRC/NCC (esp32-Chip)
+
+
+Protokoll
+802.11 b/g/n (802.11n, Geschwindigkeit bis zu 150 Mbit/s) A-MPDU- und A-MSDU-Polymerisation, unterstützt 0,4 μS Schutzintervall
+
+
+Frequenzbereich
+2,4 GHz ~ 2,5 GHz (2400 M ~ 2483,5 M)
+
+
+Sendeleistung
+22dBm
+
+
+Kommunikationsentfernung
+300m
+
+
+Bluetooth
+
+
+
+Protokoll
+Erfüllt Bluetooth v4.2BR/EDR und BLE-Standard
+
+
+Radiofrequenz
+Mit -97dBm Empfindlichkeit NZIF Empfänger Klasse-1,Klasse-2&Klasse-3 Sender AFH
+
+
+Audiofrequenz
+CVSD&SBC-Audiofrequenz
+
+
+Softwarespezifikation
+
+
+
+WLAN-Modus
+Station/SoftAP/SoftAP+Station/P2P
+
+
+Sicherheitsmechanismus
+WPA/WPA2/WPA2-Enterprise/WPS
+
+
+Verschlüsselung Typ 
+AES/RSA/ECC/SHA
+
+
+Firmware-Upgrade
+UART-Download/OTA (über Netzwerk/Host zum Herunterladen und Schreiben von Firmware)
+
+
+Software-Entwicklung
+Unterstützung der Cloud-Server-Entwicklung / SDK für die Entwicklung der Benutzer-Firmware
+
+
+Netzwerkprotokoll
+IPv4, IPv6, SSL, TCP/UDP/HTTP/FTP/MQTT
+
+
+Benutzer Konfiguration
+AT + Anleitungsset, Cloud-Server, Android/iBetriebssystemapp
+
+
+Betriebssystem
+KostenlosRTBetriebssystem
+
+Paket beinhaltet:1 x T-Internet-POE 1 x zweireihiger Stift 1 x Downloader-Erweiterungskarte (optional)Hinweis: Die USB-Schnittstelle verfügt nur über eine Ladefunktion. Das Produkt benötigt zum Programmieren einen Downloader. 
+
+
+
+

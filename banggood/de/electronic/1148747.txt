@@ -1,0 +1,454 @@
+https://de.banggood.com/Hiseeu-3MP-1536P-CCTV-8CH-Wireless-NVR-kit-H_265-3MP-1080P-Outdoor-IR-Night-Vision-IP-Wifi-Camera-Security-System-Surveillance-Hiseeu-kit-Eu-Plug-p-1148747.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Hiseeu 3MP 1536P CCTV 8CH Wireless NVR Kit H.265 3MP 1080P Outdoor IR Nachtsicht IP Wifi Kamera Sicherheitssystem Überwachung Hiseeu Kit Eu Plug
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Merkmale :
+
+
+
+HD-1536P-Auflösung
+Drahtlose Verbindung zwischen NVR und IPC
+Die wasserdichte IP-Kamera kann im Innen- und Außenbereich verwendet werden
+Plug and Play, einfacher mobiler Zugriff (Unterstützung für iPhones, Android)
+Bewegungsverfolgung, Mensch erkannt, Email Alarm
+Unterstützung für mehrere Sprachen
+
+
+
+Spezifikation :
+
+
+
+
+
+
+NVR-Parameter
+
+IPC-Spezifikation
+
+
+
+Betriebssystem
+
+Eingebettetes Linux-Betriebssystem
+
+Betriebssystem
+
+Eingebettetes Linux
+
+
+
+AV (Audio/Video)
+
+Netzwerkvideo
+
+8CH
+
+Bildsensor
+
+1/4rdquoProgressive-Scan-Sensor
+
+
+
+Eingang
+
+Netzwerk-Videoeingang
+
+20Mbps Breitband
+
+Audio
+
+NEIN
+
+
+
+AV (Audio/Video)
+
+HDMI-Eingang
+
+1 Kanal, Auflösung: 1024x768, 1336x768,
+
+S/N-Verhältnis
+
+>39,1dB
+
+
+
+1440x900,1920x1080P,2048×1536
+
+Auflösung
+
+3MP
+
+
+
+Ausgabe
+
+VGA-Ausgang
+
+1 Kanal, Auflösung: 1024x768, 1336x768,
+
+Minimum
+
+Farbe: 0,1 Lux
+
+
+
+1440x900,1920x1080P,2048×1536
+
+Erleuchtung
+
+S/W: 0,01 Lux
+
+
+
+AV-CODEC
+
+Video Auflösung
+
+DI/720P/960P
+
+Linse
+
+3.6mm
+
+
+
+Spezifikation
+
+synchrone Wiedergabe
+
+8CH
+
+OSD
+
+Datum Uhrzeit&Titel
+
+
+
+Videosteuerung
+
+Video-/Aufnahmemodus
+
+Manueller.Zeit.Bewegungsalarm
+
+Weißabgleich
+
+Auto
+
+
+
+Wiedergabemodus
+
+Echtzeit .Routine.Ereignis
+
+Tag Nacht
+
+Auto/Farbe/SW
+
+
+
+Sicherung
+
+USB-Sicherung
+
+3D-DNR
+
+Auto
+
+
+
+Festplatte
+
+Art
+
+1 * SATA-Schnittstelle
+
+Spiegeln/Flip
+
+An aus
+
+
+
+Maximale Kapazität
+
+4 TB höchstens für jeden
+
+Privatsphärenmaskierung
+
+4 Zonen wählbar
+
+
+
+Externe Schnittstelle
+
+Netzwerkschnittstelle
+
+
+Rahmenspezifikation
+
+Dual-Stream
+
+
+
+2 WIFI-Schnittstelle
+
+H.264 1920x1080/640x480
+
+
+
+USB-Schnittstelle
+
+1 USB 2.0
+
+
+
+Netzwerksteuerung
+
+Protokoll
+
+UPnP (Play&Plug) SMTP (E-Mail-Dienst)
+
+
+
+PPPoE (DFÜ).DHCP (Automatisch
+
+Anti-Donner-Level
+
+Norm IEC6100-4-5
+
+
+
+Erhalten Sie eine IP-Adresse) usw. ...
+
+Leistungsaufnahme
+
+DC12V-1A
+
+
+
+Andere
+
+Leistung
+
+Gleichstrom 12V 2A
+
+Verbrauch
+
+le6W
+
+
+
+Verbrauch (KEINE Festplatte)
+
+ge5W
+
+Schnittstelle
+
+RJ45/WLAN 802.11b/g/n
+
+
+
+Arbeitstemperatur
+
+-10 bis 55℃
+
+Arbeiten T/H
+
+-10 bis +50 ℃ 30 % bis 80 % relative Luftfeuchtigkeit
+
+
+
+Arbeitsfeuchtigkeit
+
+10%mdash90%
+
+Lagerung T/H
+
+-20 Grad bis +60 Grad/20 % bis 90 % relative Luftfeuchtigkeit
+
+
+
+Größe
+
+257x210x45mm
+
+Größe
+
+205 (L) x 70 (B) X50 (H) mm
+
+
+
+Gewicht (OHNE Festplatte)
+
+le2Kg
+
+Gewicht
+
+Ungefähr 500g
+
+
+
+
+
+
+Bemerkte: Die neue Upgrade-Version hat kein „HISEEU“-Logo. Bitte keine Sorge, die Qualität ist die gleiche wie bei der alten Version.
+
+Lieferumfang:
+
+	1 x 8CH H.264 Digitaler Videorecorder für drahtloses Netzwerk (drahtloser NVR)
+	8 x Farb-CMOS IR LEDs IP-Kameras
+	8 x 12V 1A Netzteil für Überwachungskameras（Du kannst >>>Click here<<< um zusätzliche Kameras zu kaufen）
+	1 x 12V 2A Netzteil für NVR
+	1 x Maus
+	1 x Benutzerhandbuch
+	2 x 3M 9DB-Antenne
+	1 x HDMI-Kabel
+	1 x 1M LAN-Kabel
+2 x Warnaufkleber
+
+
+Detailbilder:
+
+
+
+
+
+
+

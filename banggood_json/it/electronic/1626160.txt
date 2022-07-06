@@ -1,0 +1,303 @@
+1626160
+https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/FB/0F/51b5f007-ca51-44ad-ac2e-2777f6aecfef.JPG
+7W Mini DC DC Boost aumentare Convertitore da 2,6-5,5 V a 5 V 6 V 9 V 12 V Modulo regolatore di tensione
+https://it.banggood.com/7W-Mini-DC-DC-Boost-Step-Up-Converter-2_6-5_5V-to-5V-6V-9V-12V-Voltage-Regulator-Module-p-1626160.html?cur_warehouse=CN&ID=519957&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:  
+
+
+
+- Frequenza di lavoro del modulo convertitore boost DC DC 1MHZ. 
+
+- Fino al 93% di efficienza (di solito è 84%-91%) 
+
+- Corrente di riposo: 190uA.
+
+- Programma limite di corrente (0,5-2,5 A, predefinito 1,8 A)  
+
+- Dimensioni: 21 x 11 x 4 mm
+
+- Peso: 1,5 g
+
+- Protezione :  
+
+Protezione da sovracorrente (OCP)
+
+Protezione da sovratensione (OVP)
+
+Protezione da cortocircuito (SCP)
+
+Protezione da sovratemperatura (OTP) 
+
+
+
+
+
+
+Uscita 5V :
+
+ 
+
+
+Tensione di ingresso CC 2,6 ~ 4,5 V, uscita CC 5 V ± 3%
+
+Uscita massima: 5V/1300MA (vedere la tabella seguente per i dettagli)   
+
+ 
+
+
+
+ 
+Uscita 6V:
+
+							Tensione di ingresso CC 2,6 ~ 5,5 V, uscita CC 6 V ± 3%
+							Uscita massima: 6V/1200MA (Vedi la tabella sotto per i dettagli)
+
+
+Uscita 9V :
+
+							Tensione di ingresso CC 2,6 ~ 5,5 V, uscita CC 9 V ± 3%
+							Uscita massima: 9V/800MA (Vedi la tabella sotto per i dettagli)
+
+
+
+
+
+
+Uscita 12V :
+
+
+Tensione di ingresso CC 2,6 ~ 5,5 V, uscita CC 12 V ± 3%
+					Uscita massima: 12V/600MA (Vedi la tabella sotto per i dettagli)
+
+
+
+
+ 
+
+
+
+
+Descrizione del perno:
+
+
+
+Vi : Ingresso positivo (+)
+
+GND: ingresso e uscita negativo (GND/-)
+
+Vo : Uscita positiva(+)
+
+
+
+Applicazioni:
+
+
+
+Attrezzatura alimentata a batteria
+
+Strumentazione, multimetro
+
+Tagliere Stm32 Lcd LED
+
+Motori di piccola potenza
+
+PTZ fotografica webcam
+
+IP fotografica
+
+Barca per auto giocattolo
+
+Aeromodello
+
+accumulatore di energia
+
+Motore LED  
+
+Energia solare
+
+Router wifi 
+
+PLC RS485 dispositivi
+
+Apparecchiature di alimentazione a batteria al litio
+
+ 
+
+Attenzione:
+
+
+
+Questo è un modulo convertitore di tensione CC-CC, da notare quando si utilizza:
+
+
+
+1. La tensione di ingresso non può essere maggiore dell'intervallo di ingresso massimo
+
+2. La potenza di uscita non può essere superiore al carico massimo per lungo tempo
+
+3. La potenza in ingresso deve essere maggiore della potenza in uscita, poiché il consumo energetico del modulo stesso  
+
+
+
+Domande e risposte:
+
+ 
+
+D: Perché la tensione di uscita è inferiore alla tensione nominale?
+
+A: L'alimentazione in ingresso è troppo bassa. Testare la tensione in ingresso con un multimetro, in questo momento la tensione in ingresso è molto bassa
+
+
+
+Pacchetto incluso:
+
+
+
+1 x 7W Mini DC DC Boost aumentare Convertitore da 2,6-5,5 V a 5 V 6 V 9 V 12 V
+
+
+
+
+
+
+
+
+
+

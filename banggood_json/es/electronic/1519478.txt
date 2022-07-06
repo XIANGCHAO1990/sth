@@ -1,0 +1,235 @@
+1519478
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/79/7D/c2ae1640-a09f-46d1-979f-e70e05cfbf08.jpg
+0.56 "DC 100V 50A Rojo + Rojo Dual LED Pantalla Mini voltímetro digital Amperímetro Panel Amp Volt Voltaje Medidor de corriente Probador
+https://es.banggood.com/0_56-inch-DC-100V-50A-Red+Red-Dual-LED-Display-Mini-Digital-Voltmeter-Ammeter-Panel-Amp-Volt-Voltage-Current-Meter-Tester-p-1519478.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:
+
+
+
+Voltaje de funcionamiento: DC 4 ~ 30 V
+
+Medir voltaje: DC 0 ~ 100V
+
+Resolución mínima (V): 0,1 V
+
+Mida la corriente: 50A (requiere derivación externa)
+
+Resolución mínima (A): 0.1A
+
+Corriente de funcionamiento: <20 mA
+
+Pantalla: tres tubos digitales LED de 0,28 "
+
+Color de la pantalla: rojo y rojo
+
+Frecuencia de actualización: aproximadamente 300 mS / veces
+
+Precisión de la medida: 1% (± 1 dígito)
+
+Temperatura de funcionamiento: -10 a 65 ° C
+
+Humedad de funcionamiento: 10 a 80% (sin condensación)
+
+Presión de trabajo: 80 a 106 kPa
+
+Aplicaciones: Adecuado para monitoreo de baterías automotrices / eléctricos / motocicletas u otros productos de medición de corriente de voltaje
+
+
+
+Alambrado:
+
+
+
+Línea negra (delgada): circuito vacío o buck (módulo) negativo
+
+Línea roja (delgada): fuente de alimentación +
+
+Línea negra (gruesa): COM, medición común
+
+Línea roja (gruesa): PW +, entrada de voltaje del terminal de medición positivo
+
+Línea amarilla (gruesa): IN +, entrada de corriente +
+
+
+
+Aviso:
+
+
+
+El voltaje entre las líneas finas rojas y negras finas debe estar dentro de DC 4-30V
+
+El amperímetro solo se puede conectar al negativo del dispositivo bajo prueba
+
+Supera los 5A, carga completa a largo plazo trabajando continuamente, se recomienda que el lado de medición de los cables se suelde directamente al enchufe
+
+Cuando la línea delgada negra está vacía, es mejor usar cinta aislante alrededor de la parte expuesta del cable para evitar cortocircuitos.
+
+Si solo se usa como voltímetro, se recomienda que la línea amarilla y la línea negra estén conectadas juntas, para evitar que el amperímetro digital parpadee
+
+No es adecuado utilizar este medidor para probar una corriente inferior a 10A.
+
+
+
+Paquete incluido
+
+
+
+1 x amperímetro voltímetro digital
+
+1 x derivación de corriente
+
+1 x cable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,145 @@
+1916055
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/1C/68/9a9b075d-1f00-411e-b900-e0363ebee51e.jpg
+Testeur de courbe VI à double canal, affichant 2 formes d'onde en même temps pour une comparaison facile
+https://fr.banggood.com/Dual-channel-VI-Curve-Tester,Displaying-2-Waveforms-at-the-Same-Time-for-Easy-Comparison-p-1916055.html?cur_warehouse=CN&ID=6315607&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>> Veuillez cliquer ici pour télécharger le manuel d'utilisation en anglais <<Testeur de courbe VI bidirectionnel, qui peut afficher des formes d'onde bidirectionnelles en même temps, ce qui est pratique pour la comparaison.4 niveaux de résistance interne réglables, 4 fréquences de test, peuvent être utilisés lorsqu'ils sont connectés à un oscilloscope, des oscilloscopes analogiques et des oscilloscopes numériques peuvent être utilisésParamétrage de l'oscilloscope：*. Ajustez l'oscilloscope en mode XY (différents oscilloscopes ont différentes méthodes de réglage, veuillez explorer par vous-même)* Ajustez les paramètres verticaux des 2 canaux de XY à 1V/div, et un seul des oscilloscopes à piste unique doit être ajusté. ,* L'oscilloscope analogique n'a pas besoin d'ajuster la base de temps, la base de temps de l'oscilloscope numérique est ajustée entre 1 et 5 ms*Une fois la connexion correcte, l'oscilloscope affichera une ligne horizontale. Si une ligne verticale est affichée, la prise xY sera inversée.* Ajustez les paramètres verticaux et horizontaux, les lignes horizontales et verticales sont dans la zone d'affichage.Méthode de connexion de l'oscilloscope analogique：La connexion de l'oscilloscope analogique est relativement simple et les différents oscilloscopes sont légèrement différents.Réglez l'oscilloscope en mode xY. Certains oscilloscopes peuvent être sélectionnés en appuyant sur les boutons, tandis que d'autres sont sélectionnés par le bouton en mode xY. Veuillez étudier par vous-même.Connectez le câble BNC à l'oscilloscope et mettez-le sous tension. Normalement, une ligne horizontale sera affichée. Ajustez les paramètres du canal vertical xY, environ 1 V/div, puis ajustez l'atténuation x Y de sorte que la ligne horizontale se trouve dans le cadre d'affichage. Il peut également passer la version de test VI. Le potentiomètre d'atténuation x sur le côté supérieur peut aider à ajuster la longueur de la ligne horizontale. Si le stylo de test iest court-circuité, une ligne verticale s'affichera dans des circonstances normales. Si la ligne verticale est trop longue ou trop courte, vous devez ajuster les paramètres du canal Y pour créer la ligne verticale dans le cadre d'affichage. Demi-grille ou 1 grille jusqu'au bord c'est mieux. Si les lignes horizontales et verticales sont normales, vous pouvez entrer la mesure normale.Comment connecter un oscilloscope numérique：Pour les oscilloscopes numériques, entrez dans le mode xY via le menu ou les touches. Les deux canaux de xY sont ajustés à 1 V/div et l'oscilloscope à piste unique n'a besoin d'ajuster que le canal Y. Réglez la base de temps sur 1 à 5 millisecondes. Le canal xY sélectionne le couplage DC, et lel'atténuation est 1x.Lorsque l'oscilloscope n'est pas connecté, l'écran doit être un point lumineux. Ajustez l'horizontale et la verticale pour centrer le point lumineux. Connectez le testeur VI. Normalement, il devrait s'agir d'une ligne horizontale. Ajustez le potentiomètre 103 en haut de la carte VI pour faire la ligne horizontale dans le cadre d'affichage. , Une demi-grille ou 1 grille jusqu'au bord estmeilleur. Court-circuitez les cordons de test et l'affichage doit être une ligne verticale à ce moment. Ajustez les paramètres du canal Y de sorte que la ligne verticale se trouve dans le cadre d'affichage. Jusqu'à présent, le débogage est pratiquement terminé.Lorsque vous testez le circuit imprimé en ligne, ne chargez pas le circuit imprimé. S'il y a un gros condensateur sur la carte de circuit imprimé, déchargez d'abord le condensateur, sinon il est facile de griller la carte de test VI.
+
+
+
+

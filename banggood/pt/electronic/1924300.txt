@@ -1,0 +1,143 @@
+https://pt.banggood.com/ESP32-CAM-Development-Board-with-OV2640-Camera-Module-Receiver-WIFI+Digital-Bluetooth-Module-Kit-p-1924300.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+ESP32 CAM Development Board with OV2640 Camera Module Receiver WIFI+Digital Bluetooth Module Kit
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recursos:Use CPU dual-core de 32 bits de baixo consumo de energia, que pode ser usada como processador de aplicativo.A frequência principal é de até 240 MHz e o poder de computação é de até 600 DMIPSSRAM de 520 KB integrado, PSRAM externo de 8 MBSuporte UART / SPI / I2C/PWM / ADC / DAC e outras interfacesSuporta câmeras OV2640 e OV7670, flash embutidoSuporte para upload de imagem por WiFISuporte cartão TFSuporta vários modos de suspensão.Lwip e FreeRTOS incorporadosSuporte para modo de trabalho STA / AP / STA + APSuporta configuração de rede com um clique Smart Config / AirKissApoiar o desenvolvimento secundárioEspecificações:Tensão de trabalho 4,75-5,25VSPIFlash padrão de 32 MbitsRAM interna de 520 KB + PSRAM externa de 8 MBWi-Fi 802.11b / g / n / e / iBluetooth Bluetooth 4.2BR / EDR e padrão BLEInterface de suporte (2 Mbps) UART, SPI, I2C, PWMSuporte cartão TF, suporte máximo 4GPorta IO 9Taxa de porta serial padrão 115200bpsFaixa de espectro 2400 ~ 2483,5 MHzAntena forma da antena PCB integrada, ganho 2dBiFormato de saída da imagem: JPEG (apenas com suporte para OV2640), BMP, GRAYSCALEMétodo de embalagem DIP-16Potência de transmissão 802.11b: 17 ± 2dBm (@ 11Mbps)802.11g: 14 ± 2dBm (@ 54Mbps)802.11n: 13 ± 2dBm (@ MCS7)Sensibilidade de recepção CCK, 1Mbps: -90dBmCCK, 11Mbps: -85dBm6 Mbps (1 / 2BPSK): -88dBm54Mbps (3/464-QAM): -70dBmMCS7 (65Mbps, 72,2Mbps): -67dBmConsumo de energia Desligue o flash: 180mA @ 5VLigue o flash e ajuste o brilho para o máximo: 310mA @ 5VSono profundo: O menor consumo de energia pode chegar a 6mA @ 5VSono moderado: o mais baixo pode chegar a 20mA @ 5VSono leve: o mais baixo pode chegar a 6,7mA@5VSegurança WPA / WPA2 / WPA2-Enterprise / WPSTemperatura de trabalho -20 ℃ ~ 70 ℃Ambiente de armazenamento -40 ℃ ~ 125 ℃, <90% RHTamanho da placa: 2,72 x 3,980 CMPeso: 13 gramasAplicativo:Transmissão de imagem de dispositivo inteligente domésticoMonitoramento sem fioAgricultura inteligenteReconhecimento sem fio QRSinal do sistema de posicionamento sem fioE outros aplicativos IoTIncluído no Pacote:1 x SP32-CAM com módulo de download Bluetooth1 x módulo de câmera OV2640
+
+
+
+

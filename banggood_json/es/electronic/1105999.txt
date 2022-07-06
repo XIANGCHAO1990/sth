@@ -1,0 +1,179 @@
+1105999
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/E0/89/6bd02b11-ab9d-4e76-9560-332555ce71d3.jpg
+3 piezas CJMCU-1080 HDC1080 Temperatura y humedad de alta precisión Sensor Módulo CJMCU para Arduino - productos que funcionan con placas oficiales Arduino
+https://es.banggood.com/3pcs-CJMCU-1080-HDC1080-High-Precision-Temperature-And-Humidity-Sensor-Module-CJMCU-for-Arduino-products-that-work-with-official-Arduino-boards-p-1105999.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Descripción:
+El HDC1080 es un sensor de humedad digital con sensor de temperatura integrado que proporciona una excelente precisión de medición a muy baja potencia. El HDC1080 funciona en un amplio rango de suministro y es una alternativa de bajo costo y bajo consumo de energía a la solución competitiva en una amplia gama de aplicaciones comunes. La humedad y los sensor de temperatura vienen calibrados de fábrica.
+
+Característica:
+Precisión de humedad relativa ± 2% (típica)
+Precisión de temperatura ± 0,2 ° C (típica)
+Excelente estabilidad a alta humedad
+Resolución de medición de 14 bits
+100 nA de corriente en modo de suspensión
+Corriente de suministro promedio:
+                                          710 nA a 1 sps, medición de HR de 11 bits
+                                          1,3 µA a 1 sps, medición de temperatura y humedad relativa de 11 bits
+Voltaje de suministro 2.7 V a 5.5 V
+Tamaño del dispositivo pequeño de 3 mm × 3 mm
+I2Interfaz C
+
+Aplicaciones:
+
+HVAC
+Termostatos inteligentes y monitores de ambiente
+Electrodomésticos
+Impresoras
+Medidores de mano
+Dispositivos médicos
+Inalámbrico Sensor (TIDA: 00374, 00484, 00524)
+
+Paquete incluido:
+
+3 x Módulo de temperatura y humedad Sensor
+Diagrama
+ 
+
+
+
+
+
+
+

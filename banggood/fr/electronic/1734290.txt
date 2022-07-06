@@ -1,0 +1,144 @@
+https://fr.banggood.com/SDR-Transceiver-and-Receiver-Switch-Antenna-Sharer-TR-Switch-Box-with-Gas-Discharge-Protection-160MHz-p-1734290.html?cur_warehouse=USA&rmmds=CategoryElectronicsPop
+Émetteur-récepteur SDR et boîtier de commutation d&#39;antenne de commutateur de récepteur Sharer TR avec protection contre les décharges de gaz 160 MHz
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spécification:Impédance : 50ΩGamme de fréquence: DC -160MHzPuissance TX maximale: 100 WSeuil de détection RF: <10 mW (1,8 MHz-30 MHz testé)Temps de marche: <20 ms / temps de libération: <190 msPerte d'insertion: <0,3 dB à 144 MHz (0,2 dB typique)Isolation RX:> 38 dB à 144 MHz (40 dB typique)Protection contre les décharges de gazAlimentation: 13.8V DC 200mAPoids : 430gTaille: 126 * 119 * 52 MMComment utiliser une antenne en même temps pour la radio et le SDR :1. Ce partage est une antenne partagée entre la radio et le SDR. Après avoir reçu la marchandise, ouvrez la boîte, retirez le "cavalier" au milieu et changez-le en un état de contrôle automatique, c'est-à-dire: lorsque la radio transmet, le canal de réception SDR est automatiquement fermé et la radio lorsqu'elle ne transmet pas , la radio reçoit le signal avec le SDR.2. Les prises à l'avant du panneau n'ont pas besoin d'être câblées et la ligne PTT distribuée n'a pas besoin d'être connectée.3. Les prises arrière correspondent respectivement à l'interface d'alimentation (VDC), à l'interface radio (RADIO), à l'interface SDR et à l'interface d'antenne (ANTENNA) et se connectent au chargeur en fonction de chaque interface.4. Il est recommandé d'utiliser le chargeur avec de bonnes performances de blindage et de le recouvrir d'un anneau magnétique.5. Il est recommandé que le partageur et la coque radio soient mis à la terre, car la radio peut interférer avec le SDR lors de la transmission.6. Après avoir retiré le cavalier dans la boîte, il est normal que le TRXlight sur le panneau soit toujours allumé en rouge ; lorsque la radio ne transmet pas, le SDR sur le panneau est vert et il est en état de fonctionnement normal ; lorsque la radio transmet, le voyant SDR sur le panneau sera éteint et le SSB suivra l'idée de communication. Il est normal que le son change, que le voyant clignote et que le relais émette un son.Emballage inclus:1 x Host1 x cordon d'alimentation1 x 3,60 cm SMA à SMA ligne de connexion1 x ligne de contrôle PTT
+
+
+
+

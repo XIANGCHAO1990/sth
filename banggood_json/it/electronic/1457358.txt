@@ -1,0 +1,200 @@
+1457358
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/3F/A3/8056cc48-59a4-4593-a87a-67a16776fc08.JPG
+DHT22 Modulo sensore di temperatura e umidità digitale a bus singolo Blocchi di costruzione elettronici AM2302 3,3 V-5 V CC
+https://it.banggood.com/DHT22-Single-bus-Digital-Temperature-and-Humidity-Sensor-Module-Electronic-Building-Blocks-AM2302-3_3V-5V-DC-p-1457358.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifiche:
+
+
+
+Tensione di lavoro: 3 V - 5,5 V
+
+Forma di uscita del segnale: segnale digitale
+
+Intervallo di misurazione della temperatura: da -40°C a 80°C
+
+Precisione di misura: 0,5°c
+
+L'intervallo di misurazione dell'umidità: 0-100% RH
+
+Precisione di misura: 2% UR
+
+Risoluzione: 16
+
+Con fori per viti fissi, installazione e fissaggio convenienti. Diametro di 2,6 mm
+
+Dimensioni: 28,2 x 13,1x10 mm 
+
+
+
+Spillo:
+
+
+
+"+": positivo
+
+"-": il potere dell'anodo
+
+"Out": la porta IO del microcontrollore
+
+
+
+Il pacchetto include:
+
+
+
+1 x DHT22 Modulo umidità temperatura
+
+1 x cavo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

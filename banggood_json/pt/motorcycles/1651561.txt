@@ -1,0 +1,230 @@
+1651561
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/83/31/16845317-3ac6-4db0-845c-8314f7875410.jpg
+iMars® Enusic™ CJ720 Global Version Relé Rastreador GPS Real Tempo GSM Localizador Anti-roubo Corte de combustível Função do sistema de alimentação
+https://pt.banggood.com/IMars-Enusic-CJ720-Global-Version-Relay-GPS-Tracker-Real-Time-GSM-Locator-Anti-theft-Cut-off-Fuel-Power-System-Function-p-1651561.html?cur_warehouse=USA&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Link do Youtube:https://www.youtube.com/watch?v=Bi7mxvcE4wIProblema de expiração do software: Proporciona a IMEI número para o atendimento ao cliente on-line, e daríamos ao fornecedor que estenderia o período de uso da conta (100 anos)https://www.banggood.com/Contact-Us_hi111Descrição:
+
+Posicionamento de modo duplo GPS e russo GLONASS
+
+◆ Rastreamento em tempo real  ◆contra pseudo estação base e detectar
+
+◆ Vibração / Deslocamento / Bateria baixa / Desligar / Desligar
+
+◆ Aviso de corte de energia principal  ◆ Cerca geográfica
+
+◆ Rota da História ◆ Cortar e retomar Combustível Bombear remotamente  ◆ Localização da AGPS
+
+Funções e parâmetros do produto (Relé Rastreador GPS CJ720 / Off gasolina e eletricidade)
+
+
+
+Specifciation:Tamanho do terminal31x 31x 57mmIdioma do sistemaInglês chinêsPeso líquido50gCópia de segurança Bateria3.7V 100mAhRedeGSM / GPRS,Rede Banda850/900/1800/1900MhzApoio, suporte4 frequência GSM 850/900/1800/1900 MHz que pode funcionar em todo o mundomódulo GPSMTK2503Sensibilidade GPS-159dBmPrecisão da posição do GPS10mPrimeiro tempo de posicionamentoPartida a frio 45-120 segundosInício quente35 segundosArranque a quente1 secondTensão operacionalEntrada 10-50VFunção de corte de óleoA tensão é 5-15V, Corrente <10ABateriaBateria de lítio embutida 3.7V 110mAhTemperatura de armazenamento-40 ° C a + 85 ° CTemperatura de operação-20 ° C a + 55 ° CUmidade5% - 95% Não solidificado Consumo de energiaO consumo de energia é de cerca de 40 mA no trabalho e 1 mA no repouso. A corrente instantânea da parte do combustível e da eletricidade é de até 45A.
+
+Nota especial:
+
+COMBUSTÍVEL Bombear pesquisa de linha
+
+Precisa de profissionais.
+
+Ou oficina mecânica para ajudar a encontrar.
+
+Fonte de energia, Combustível Bombear linha de controle de corte
+
+(1) A fonte de alimentação padrão deste equipamento é 10V-50VDC, o fio vermelho é o pólo positivo da fonte de alimentação,
+		e o amarelo (preto) é o pólo negativo da fonte de alimentação;
+		ao instalar o pólo negativo da fonte de alimentação, por favor, selecione o aterramento ou aterramento separadamente,
+		e não compartilhe com outras linhas de terra;
+
+(2) Combustível Bombear linha de controle de corte (linha verde / azul) é conectada ao Combustível Bombear linha.
+
+Comando Enviar
+
+
+
+
+Como usar:
+
+1. abra a tampa, insira uma rede de suporte do cartão NANO SIM GSM/GPRS no slot e certifique-se de que o chip esteja voltado para cima
+	(luz azul pisca, luz verde pisca,)
+
+2.Conf. APN: APN123456 CMNET
+	(por favor, use seu APN local em vez de CMNET, se você não sabe o conteúdo APN, você deve entrar em contato com o fornecedor do cartão SIM)
+
+3. Defina o número de administração enviando um comando SMS para o cartão SIM dentro do dispositivo
+
+Por exemplo: admin123456 + 86186 ****** (+ 86186 ***** deve ser o número do telefone)
+
+4. Conecte o cabo siga a figura, (Combustível Bombear teste de corte de vídeo de fiação: https://www.youtube.com/watch?v=FiUN5nbAVMA)
+
+
+Manual do usuário:
+http://myosuploads3.banggood.com/products/20190814/20190814025004SKUD05342.doc
+
+Precauções de uso:1. Abra a caixa do dispositivo. (Alguns países precisam usar o dispositivo GPS para postar um número IMEI de 15 dígitos para registrar o serviço GSM. A Turquia precisa enviar o número IMEI ao enviar o pedido, nós o modificaremos para você)2. Insira o cartão SIM (o cartão SIM precisa ser compatível com a banda de rede 2G: 850/900/1800/1900Mhz, e função SMS aberta, taxa de tráfego da Internet.)3. Link da fonte de alimentação de 12V: (sinal GPS: luz azul pisca, sinal GSM: luz verde pisca)4. Defina o código APN: Defina APN: APN123456 CMNET (use seu APN local em vez de CMNET, se você não conhece o conteúdo do APN, você deve entrar em contato com o fornecedor do cartão SIM) A configuração no vídeo é você para o país chileno.5. GPS device parameter query comando SMS: (s42, 1234). Verifique o endereço IP e as configurações de APN do dispositivo GPS.6. GPS comando de consulta de status do dispositivo: status Visualização principal: sinal GPRS, sinal GSM, sinal GPS, link de alimentação principal.7. Endereço IP da plataforma: adminip123456 113.98.254.179:77008. Faça login no site ou APP para verificar o status do dispositivo GPS onlinha.http://www.gpscj.netAPLICATIVO: YunTrackConta de experiência: TEST00Senha: 123456
+
+Incluído no Pacote:1 X Relé Rastreador GPS1 X Manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

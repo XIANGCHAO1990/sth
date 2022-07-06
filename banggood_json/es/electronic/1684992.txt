@@ -1,0 +1,145 @@
+1684992
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/87/BB/4ba49921-8b9c-444f-a914-2dcfaeab7f89.JPG
+ESP8266 Test Board Burner Development Board Módulo WIFI para ESP-01 ESP-01S ESP-12E ESP-12F ESP-12S ESP-18T
+https://es.banggood.com/ESP8266-Test-Board-Burner-Development-Board-WIFI-Module-For-ESP-01-ESP-01S-ESP-12E-ESP-12F-ESP-12S-ESP-18T-p-1684992.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nuloCaracterística:1. Descargue e instale el controlador de chip del puerto serie CH340 correspondiente de acuerdo con el sistema operativo.2. Descargue la herramienta de descarga FLASH oficial ESP FLASH DESCARGAR HERRAMIENTA3. Descarga automática de firmware: presione el módulo, conecte el cable USB para suministrar energía, coopere con la herramienta de descarga FLASH, configure los parámetros de grabación correspondientes, haga clic en INICIAR para descargar, se iniciará la grabación de firmware, el descargador se reiniciará y pondrá automáticamente El módulo en modo de grabación.El paquete incluye:1 x tablero de prueba
+
+
+
+

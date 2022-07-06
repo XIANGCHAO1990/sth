@@ -1,0 +1,213 @@
+https://de.banggood.com/Geekcreit-12V-4CH-Channel-433Mhz-Wireless-Remote-Control-Switch-With-2-Transmitter-p-1012323.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® 12V 4CH Kanal 433Mhz drahtloser Fernsteuerung Schalter mit 2 Transmitter
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notizen: Wenn Sie mehr Transmitter brauchen, suchen Sie bitte mit  1018573 
+Es gibt kein Handbuch für dieses Produkt, mehr Einzelheiten finden Sie bitte in der Beschreibung.
+Diese Version wird keine Kopie Code Funktion unterstützen, bitte darauf achten bevor Sie dieses Produkt bestellen.
+
+Eigenschaften:
+
+Es ist ein Lerncode drahtloser Fernsteuerungsschalter (Empfänger), der Ausgang Weise / Arbeitsweise kann geändert werden, wie Sie mögen, ist es einfach, den Übermittler zusammenzubringen. Es verfügt über 4 Relais, die das Gerät drehen oder umkehren, an / aus und so weiter kommen kann. Das Volumen ist klein und die Leistung ist stabil und zuverlässig, hohe Empfangsempfindlichkeit.
+
+1. Es deckt Anwendung von einfachen inländischen Fernbedienung zu autonomen Steuerung, wie Autotür, Fenster, Hebezeuge, Eingang zugreifen, up-und down-Controller, Alarmanlage industrielle Steuerung und Sicherheit usw.
+2. Diese Fernsteuerungen sind entworfen, um eine breite Vielzahl der elektronischen Vorrichtungen mit einem drahtlosen Signal zu steuern.
+3. Extrem einfach einzurichten und zu verwenden.
+4. Kompatibel mit 2262/2260/1527/2240 usw. Span und mehrfacher Code drahtloser Fernsteuerungs. So kann es jemand die Notwendigkeit der Auswahl der drahtlosen Fernbedienung treffen, wie sie mit ihm zu arbeiten.
+
+Anleitung:
+
+1. Drücken Sie den Lerncode, die Anzeige blinken, lösen Sie Ihren Finger, drücken Sie eine beliebige Taste der Fernbedienung, die Anzeige blinken 2 mal und aus, es bedeutet, dass Sie es erfolgreich lernen.
+2. Er kann mehr als 12 PCS 2262 oder 1527 Span mit dem verschiedenen Code drahtloser Fernsteuerungs lernen.
+3. Entfernen / Reinigen: Drücken Sie die Lerntaste ca. 8 Sekunden, die Anzeige schaltet sich aus, es bedeutet, dass die Informationen, die Sie behalten haben, erfolgreich entfernt worden sind.
+
+Ausgabe Arbeitsweise:
+
+1. Selbstverriegelung: Schließen Sie den JP1 mit der Schneidekappe an.
+2. Joggen: Die ausschneidende Kappe ist nicht besetzt, JP1 und JP2 verbinden sich auch nicht.
+3. Inter-Lock: Verbinden Sie den Jp2 mit der Abdeckkappe,
+Joggen: Drücken Sie einen Knopf ist eingeschaltet, lösen Sie Ihren Finger auf dem gleichen Knopf ist AUS (Notwendigkeit ein Kanalschalter und eine knöpft Fernsteuerungs).
+Selbstblockierung:Drücken Sie eine Taste für ein Mal ist ON, drücken Sie die gleiche Taste wieder ist OFF (benötigen Sie einen Kanal-Schalter und eine Taste Fernbedienung).
+Inter-Lock: Drücken Sie eine Taste ist ON, drücken Sie eine andere Taste ist aus (müssen ein Kanal-Schalter und 2 Tasten Fernbedienung).
+
+Empfänger:
+
+1. Arbeitsspannung: DC12V
+2. Ruhezustand: Weniger als 6mA
+3. Arbeitstemperatur: -40 ° C + 80 ° c
+4. Empfängerempfindlichkeit: mehr als -105dBm
+5. Arbeitsfrequenz: 433mhz
+6. Ausgangsspannung: DC und Wechselstrom ist wahlweise freigestellt
+7. Ausgangsstrom: Weniger als 3A
+8. Maximaler Laststrom: 10A
+9. Maße: 72 x 52 x 26mm
+
+Fernbedienung Sender:
+
+1. Fernabstand: 200M
+2. Betriebsspannung: DC 12V
+3. Frequenz: 433 MHz
+4. Betriebsstrom: 13 mAh
+5. Code-Art: Fester Code / Lernencode
+6. Abmessungen: 58 x 39 x 14mm
+
+Lieferinhalt:
+
+2 x Transimitter
+1 x Empfänger
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

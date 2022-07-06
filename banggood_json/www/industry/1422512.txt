@@ -1,0 +1,233 @@
+1422512
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/B3/AB/f11bc5c1-4bc2-467e-892b-75149851ca4a.jpeg
+12V/24V Wind Generator Charge Controller 300W/600W Waterproof Wind And Light Hybrid Controller 
+https://www.banggood.com/12V-or-24V-Wind-Generator-Charge-Controller-300W-or-600W-Waterproof-Wind-And-Light-Hybrid-Controller--p-1422512.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specification:
+	 
+
+Name:12V/24V 300W/600W Waterproof Charge Controller Of Wind Generator
+
+Model:B26386 
+
+Material: Aluminium Alloy
+
+Application:Wind Power Photovoltaic Controller
+
+Color: Black
+
+Product Model: SF-12-24-A
+
+Battery Nominal Voltage: DC12/24V
+
+Rated Power of Wind Turbine: 300W/600W
+
+Lock Voltage of Wind Turbine: 15V/30V
+
+Skid Recovery Voltage (Factory Set Value):13.5V/27V
+
+Working Temperature And Humidity Range:-35~+75℃ 
+
+The Static Current: ≤20 mA                                                                                                                                       
+
+Size:approx. 76mm×102mm×23mm
+
+Level of Protection: IP67
+
+
+Note:
+		 
+
+ 1.The wind generator output voltage and rated voltage of the battery is the same.
+
+ 2. According to the following procedure connection, first connect battery two polar, Yin and Yang, second, the connection of three-phase voltage wind turbines.
+
+ 3. Please in strict accordance with the requirements will be batteries and wind turbines, properly connected on the controller, connect reverse polarity or wrong behavior will lead to system work is not normal, even lead to controller completely damaged.
+
+
+
+
+Features: 
+		 
+
+-  Automatic battery charging controller can control the wind generator. The battery is full, through internal automatic control circuit, the braking, when the battery voltage drops to the recovery voltage, the wind turbine to work, in order to protect the fan and battery.
+
+- Comprehensive waterproof protection. This kind of controller adopts full seal completely waterproof design, protection grade reaches the IP67 above, even in water can normal use for a long time, improve the reliability.
+
+		 
+
+Performance: 
+		 
+
+- Reliability: Intelligent, modular design, simple structure, powerful functions; Industrial grade high-quality components and strict manufacturing techniques, which is suitable for relatively harsh working environments such as low temperature. It also has reliable performance and long service life.
+
+		 
+
+Connection Method:
+		 
+
+1. Batteries have a Yin and Yang, the controller also has the Yin and Yang, the two electric components with wires connected together, the red is the anode, black is the cathode
+
+2. The wind turbine output three-phase ac voltage, the controller three-phase input terminal (green line), can wire together.
+
+		 
+
+Package Included:
+		 
+
+1X  Wind And Light Hybrid Controller 
+
+ 1X Manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

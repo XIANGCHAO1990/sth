@@ -1,0 +1,230 @@
+https://fr.banggood.com/IMars-ELM327-bluetooth-Car-OBD2-Scanner-Diagnostic-Tool-Engine-Code-Reader-p-913030.html?cur_warehouse=CZ&rmmds=CategoryAutomobilesPop
+ELM327 Voiture OBD2 CAN BUS Scanner Outil avec Fonction Bluetooth
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ELM327 Car Bluetooth OBD2 Auto CAN BUS Scanner Tool Android
+
+Avis:Si vos ecu de voiture se connecter avec le protocole J1850 , votre voiture ne peut pas utiliser cet élément .
+
+
+
+
+
+Caractéristiques:
+
+	1. Fonctionner avec tous les véhicules conformes OBD-II .
+2. Sans fil (Bluetooth) 5 ~10m.
+
+
+	3. Logiciel inclus pour Palm , PDA , Mobile, PC Windows, Smartphone. Soutenir Systerm Android .
+4. Lire les codes de diagnostic , à la fois générique et spécifique au fabricant , et afficher leur signification
+(Plus de 3000 définitions génériques de code dans la base de données).
+5. Annuler les codes de la panne et éteindre le MIL ( " vérifier l'engine " la lumière ) .
+6. Afficher les données de capteur de courant , y compris le Régime RPM, Valeur de Charge Calculée, Température du Liquide de Refroidissement , Etat du Système de Carburant, Vitesse du Véhicule , Carburant à Court Terme Trim. Gaz à Longue Terme. Trim, Pression du Collecteur d'Admission , d'Avance Temporelle , l'Air d'Admission ,
+Température, Vitesse du Flux d'Air, Position du Papillon Absolue, Tensions du Capteur d'Oxygène/ courtes garnitures de carburant à long terme relatives, Etat du Système de Carburant, Pression du Carburant.
+
+
+	7. Soutenir les protocoles OBD-II : ISO15765-4 (CAN) , ISO14230-4 ( KWP2000 ), ISO9141-2
+
+Spécification:
+Affichage des données de capteur de courant, y compris:
+Valeur de Charge Calculée
+Température du Liquide de Refroidissement
+Etat du Système de Carburant
+Vitesse du Véhicule
+Compensation de Carburant à Court Terme
+Compensation de Carburant à Long Terme
+Pression du Collecteur d'Admission
+Avance Temporelle
+Température d'Air d'Admission
+Débit d'Air
+Position du Papillon Absolue
+Tensions de Capteurs d'Oxygène / Garnitures de Carburant à Court Terme Associés
+Etat du Système de Carburant
+Pression de Carburant
+
+Soutenir Multi-Protocoles suivant: 
+ISO 9141-2 (5 bauds init, 10.4 kbauds)
+ISO 14230-4 KWP (5 bauds init, 10.4 kbauds)
+ISO 14230-4 KWP (init rapide, 10.4 kbauds)
+ISO 15765-4 CAN (11 bits ID, 500 kbauds)
+ISO 15765-4 CAN (29 bits ID, 500 kbauds)
+ISO 15765-4 CAN (11 bits ID, 250 kbauds)
+ISO 15765-4 CAN (29 bits ID, 250 kbauds)
+SAE J1850 PWM (41.6 kbauds)
+SAE J1850 VPW (10.4 kbauds)
+
+Soutenir les logiciels suivants:
+Torque(peut être téléchargé sur le Marché Android)
+Scantool_net113win (Version Complète)
+EasyOBDII V2.2 (Version Complète)
+OBD2Spy (Version de Démonstration)
+ScanMaster-ELM (Version de Démonstration)
+wOBDCRAZY (Version de Démonstration)
+
+Véhicule compatible : 
+Tous les véhicules après 1996 en US
+
+Remarque:
+Peuvent ne pas fonctionner avec iPhone ou iPad.
+
+Emballage Inclut:
+1 X Scanner de Diagnostic de Voiture Bluetooth Avancé de OBD-II.
+1 X Disque de CD (télécharger ici)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,146 @@
+1734290
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/94/5E/5b2fd5c7-d69f-42a9-aa18-b01d21536786.jpg
+Interruptor transceptor e receptor SDR Antena Interruptor TR compartilhado Caixa com proteção contra descarga de gás 160 MHz
+https://pt.banggood.com/SDR-Transceiver-and-Receiver-Switch-Antenna-Sharer-TR-Switch-Box-with-Gas-Discharge-Protection-160MHz-p-1734290.html?cur_warehouse=USA&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificação:Impedância: 50ΩFaixa de frequência: DC -160 MHzPotência TX máxima: 100WLimite de detecção de RF: <10mW (testado 1,8MHz-30MHz)Tempo ON: <20ms / Tempo de liberação: <190msPerda de inserção: <0,3dB @ 144MHz (0,2dB típico)Isolamento RX:> 38dB @ 144MHz (40dB típico)Proteção contra descarga de gásFonte de alimentação: 13,8 V DC 200mAPeso: 430gTamanho: 126 * 119 * 52 MMComo usar uma antena ao mesmo tempo para o rádio e SDR:1. Este compartilhador é uma antena compartilhada entre o rádio e o SDR. Depois de receber a mercadoria, abra a caixa, retire o "jumper" no meio e mude para um estado de controle automático, ou seja: quando o rádio está transmitindo, o canal de recepção SDR é fechado automaticamente e o rádio quando não está transmitindo , o rádio recebe o sinal junto com o SDR.2. Os conectores na frente do painel não precisam ser conectados e a linha PTT distribuída não precisa ser conectada.3. Os conectores traseiros correspondem à interface de alimentação (VDC), interface de rádio (RADIO), interface SDR e interface de antena (ANTENA), respectivamente, e se conectam ao alimentador de acordo com cada interface.4. Recomenda-se utilizar o alimentador com bom desempenho de blindagem e cobri-lo com anel magnético.5. Recomenda-se que o compartilhador e o shell do rádio sejam aterrados, pois o rádio pode interferir no SDR durante a transmissão.6. Após retirar o jumper da caixa, é normal que o TRXlight do painel fique sempre vermelho; quando o rádio não está transmitindo, o SDR no painel fica verde e está em estado normal de funcionamento; quando o rádio estiver transmitindo, a luz do SDR no painel estará apagada, e o SSB seguirá a ideia de comunicação. É normal que o som mude, a luz indicadora pisque e o relé faça um som.Incluído no Pacote:1 x Host1 x cabo de alimentação1 x 3,60 cm SMA a SMA linha de conexão1 x linha de controle PTT
+
+
+
+

@@ -1,0 +1,215 @@
+1462594
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/F7/7F/9e09cb30-e231-4d53-9c2f-97b3c45abd62.jpg
+Raspberry Pi USB Camera Module with Adjustable Focusing Range for Raspberry Pi 3/2/B/B+
+https://www.banggood.com/Raspberry-Pi-USB-Camera-Module-with-Adjustable-Focusing-Range-for-Raspberry-Pi-3-or-2-or-B-or-B+-p-1462594.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+
+USB Interface Camera, supports all revisions of the Pi
+	Focusing range:20MM(MAX)
+	Video resolution:640*480
+	Size: 3.8cm*1.5cm*3cm,line scalable ,The longest is 65cm
+	 
+
+How to use this camera:
+
+
+1.Adjust Focus
+
+
+Testing this USB camera with your computer and adjust the focus to match best display resolution.
+
+2. Shoot video
+
+sudo apt-get update
+
+sudo apt-get install ffmpeg
+
+avconv -f video4linux2 -r 7 -s 640x480 -i /dev/video0 video0.avi
+
+3.Play Video
+
+omxplayer -o hdmi video0.avi
+
+4.  Take photo
+
+Install the software:
+
+sudo apt-get install fswebcam
+
+Capture images:
+
+fswebcam -r 640x480 image.jpg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

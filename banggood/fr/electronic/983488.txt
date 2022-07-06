@@ -1,0 +1,206 @@
+https://fr.banggood.com/3Pcs-UNO-R3-ATmega328P-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-983488.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+3Pcs Carte de Développement Geekcreit® UNO R3 ATmega328P pour Arduino
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tension de sortie: DC 5V / 3.3V
+Atmega328P
+Version avec le câble USB
+
+Remarque: Cette version n'est pas compatible avec le système OS
+
+
+
+Caractéristiques:
+
+Ouverture de design schématique d'origine, téléchargement gratuit d'interface de logiciel de développement, également permettre à vos besoins d'être modifié, facile et pratique pour télécharger le programme.
+Peut simplement utiliser des capteurs, toutes sortes de composants électroniques de connexion (tels que les lumières LED, buzzer, boutons et la résistance photosensible, etc), faire toutes sortes de travaux intéressants.
+Utilisation de contrôleur à microprocesseur à grande vitesse (ATMEGA328), l'interface de développement et l'environnement sont tous très simples, faciles à comprendre, très approprié pour les débutants à apprendre.
+
+Description:
+
+E / S Numériques: 0 - 13
+E / S Analogiques: 0 - 5
+Fonction de Téléchargement ISP
+Tension d'Entrée: DC 5V ~ 9V (Pas d'alimentation externe lorsqu'elle est connectée à l'ordinateur)
+Tension de Sortie: DC 5V / 3.3V
+Utilisation du contrôleur Atmel Atmega328 microprocesseur
+
+Comment utiliser:
+
+1. Télécharger l'IDE Arduino
+Lien: http://arduino.cc/fr/Main/Software (Copier pour ouvrir)
+2. Télécharger le pilote de puce USB
+Lien: http://www.5v.ru/zip/ch341ser.zip (Copier pour ouvrir)
+3. Brancher la carte de développement UNO, le pilote sera installé automatiquement
+4. Sélectionner l'UNO de la matrice
+5. Sélectionner le port COM
+6. Le meilleur choix d'abord, arduino viennent avec des procédures de routine, brûler en elle.
+
+Emballage inclut:
+
+3 x Panneau de Développement UNO R3 avec Câble USB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

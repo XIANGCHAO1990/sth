@@ -1,0 +1,145 @@
+1940918
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/0E/61/9c84ec93-3ac9-44bc-89c0-cf535ea005b9.jpg
+WZ5020L DC DC Buck Converter CC CV Módulo de alimentação abaixador 50V 20A 1000W fonte de alimentação regulada por tensão ajustável
+https://pt.banggood.com/WZ5020L-DC-DC-50V-20A-1000W-Buck-Converter-CC-CV-Step-down-Power-Module-Adjustable-Voltage-Regulated-Power-Supply-p-1940918.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observação:Este produto é um módulo abaixador e não pode ser aprimorado! A tensão de entrada é 55V, e a tensão de saída pode ser ajustada de 0-50V. Se a tensão de saída for 12V, a tensão mínima de entrada deve ser 14V. A tensão de entrada não deve exceder 55V, deve ser DC e não AC.Destaques:1. O LCD pode exibir tensão de entrada/saída, corrente de saída/potência de saída/capacidade de saída/tempo de saída;2. Ajuste de controle numérico, preciso e rápido, saída abaixada, ajuste arbitrário da tensão de saída 0-50.00V, ajuste arbitrário de corrente limitada 0-20.00A;3. O terminal de saída não queimará quando for derramado para trás;4. O módulo pode ser configurado para ser ligado/desligado por padrão;5. Possui uma variedade de mecanismos de proteção de software e o limite de proteção é ajustável. Quando os parâmetros de trabalho do módulo excederem o limite de proteção, a saída será desligada automaticamente;6. Usando a tecnologia de retificação síncrona, alta eficiência de conversão: mais de 90% de eficiência;7. Aumente o dissipador de calor e instale um ventilador para aumentar a dissipação de calor.Funcionalidade:Modelo: WZ5020LExibição: LCDFaixa de tensão de entrada: 6-55,00 VResolução da tensão de entrada: 0,01VFaixa de tensão de saída: 0-50,00VResolução da tensão de saída: 0,01VFaixa de corrente de saída: 0-20,00AResolução da corrente de saída: 0,01AFaixa de potência de saída: 0-1000WPrecisão da tensão de entrada: ±(1%+5)Precisão da tensão de saída: ±(0,3%+5)Precisão da corrente de saída: ± (0,5% + 5)Valor típico de ondulação de saída: valor de pico de 150mVFaixa de temperatura operacional normal: -10℃~40℃Faixa de medição de capacidade: 0-999,9AHErro estatístico de capacidade de energia: ± 2%Intervalo de tempo estatístico: 0-100 horasModo de despressurização: pressão diferencial >0,05%+1VTamanho do produto: painel 79X43X42mmTamanho do produto: placa principal 106x76x40mmArranque suave: SimMecanismo de proteção:Proteção de subtensão de entrada (5,8-50v ajustável, padrão 5.8v)Proteção contra sobretensão de saída (0-51,00v ajustável, padrão 51V)Proteção de sobrecorrente de saída (0-20,10a ajustável, padrão 20,10a)Proteção de tempo limite (0 - 100h ajustável, desligado por padrão)Proteção de excesso de capacidade (0 – 999.9ah ajustável, desligado por padrão)O pacote inclui:1 x fonte de alimentação CNC desktop DIY
+
+
+
+

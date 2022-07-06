@@ -1,0 +1,143 @@
+https://fr.banggood.com/SONOFF-ZB-Dongle-P-Zigbee3_0-USB-Dongle-Plus-Universal-ZB-Gateway-Support-via-ZHA-or-Zigbee2MQTT-Sonoff-ZB-Series-p-1924364.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+SONOFF ZB Dongle-P Zigbee3.0 USB Dongle Plus Universal ZB Gateway Support via ZHA ou Zigbee2MQTT Sonoff ZB Series
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:- Pré-flashé avec le firmware du coordinateur Z-Stack 3.x.0- Peut utiliser ZHA dans Home Assistant ou utiliser Zigbee2MQTT-Base sur TI CC2652P + CP2102N- Gain de sortie +20dBm- Interface antenne externe SMA- Le boîtier en aluminium réduit efficacement les interférences de signal provenant des périphériquesSpécification:Marque: SONOFFModèle: ZBDongle-PTempérature de fonctionnement: -10℃-40℃Saisir: CC 5V (100 mA maximum)Sans fil: Zigbee3.0Matériau de la coque: Alliage d'aluminiumEmballage inclus:1 x clé USB Zigbee3.0 Plus1 x antenne1 x manuel d'utilisation
+
+
+
+

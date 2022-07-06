@@ -1,0 +1,201 @@
+1155139
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/C5/05/dc90dcb4-a2df-4f7f-ba9e-81cdf2a0944b.jpg
+DIY L298N 2WD Kit Automóvel Rôbo Moteur Rastreamento Ultra-sônico para Arduino
+https://pt.banggood.com/Geekcreit-DIY-L298N-2WD-Ultrasonic-Smart-Tracking-Moteur-Robot-Car-Kit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1155139.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características:
+
+1. Estrutura mecânica simples, a instalação é muito fácil.
+2. Com o módulo de controle L298N, quatro módulos de monitoramento e 51 unidades de controle.
+3. Fornecido com um interruptor, fácil start-stop, todo o sistema é altamente integrado.
+4. Quatro baterias em uma caixa, conveniente para todo o sistema de energia.
+
+Incluído no pacote:
+
+1 x Kit de qutomóvel rôbo de rastreamento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ultrasonic module circuit diagram
+
+
+L298N_Motor Drive Module
+
+
+
+,,
+
+
+

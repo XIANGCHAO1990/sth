@@ -1,0 +1,295 @@
+https://pt.banggood.com/Fanensheng-3018-3-Axis-Mini-DIY-CNC-Router-Standard-Spindle-Motor-Wood-Engraving-Machine-Milling-Woodworking-Engraver-p-1274569.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+Fan’ensheng 3018 3 Axis Mini DIY CNC Router Standard Spindle Motor Wood Engraving Machine Milling Woodworking Engraver
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificação:
+
+
+
+
+
+
+
+
+				Especificação geral
+
+
+
+				 Modelo
+
+				 Mini CNC3018 (Sem Módulo Laser)
+
+
+
+				 Material da estrutura
+
+				 Liga de alumínio
+
+
+
+				 Cor
+
+				 Prata
+
+
+
+				 Área da Mesa
+
+				 Aproximadamente. 340x160mm
+
+
+
+				 Área de trabalho
+
+				 Aproximadamente. 340x160x40mm
+
+
+
+				 Peso do Produto
+
+				 7.5kg
+
+
+
+				 Software de controle para fuso
+
+ GrblControlName
+
+
+
+				 Software de controle para Laser
+
+ Litefires
+
+
+
+				 Requisitos de sistema
+
+				 Windows XP SP3, Win7, Win8, Win10.
+
+
+
+				 Plugue Adaptador
+
+				 Plugue de 2 pinos US
+
+
+
+				 Tensão de entrada do adaptador
+
+				 CA 110-240V 50/60Hz
+
+
+
+				 Tensão de saída do adaptador
+
+				 DC 24V 4A
+
+
+
+				 Recursos
+
+				 1. Construção estável de perfil de alumínio
+				 2. Motor de eixo poderoso e móvel de 3 eixos
+				 3. Contém Guia de Início Rápido do Software GRBL
+				 4. Área de trabalho de 340x160x40mm, atende à maioria das necessidades amadoras de bricolage
+				 5. Gravar Madeira, Plástico, Acrílico, PCB ou Material Similar
+				     Não pode gravar metal, aço, alumínio.
+
+
+
+				 Parâmetros técnicos
+
+
+
+				 Tensão de trabalho
+
+				 DC 24V
+
+
+
+				 Interface
+
+				 USB
+
+
+
+				 Motor de passo
+
+42 Motor de Passo, Tensão: 12V, Corrente de fase 1,3A, Torque 0,25Nm
+
+
+
+				 Motor do fuso
+
+				 Motor do fuso 775 (12-36V) 24V: 7000r/min, 36V: 9000r/min
+
+
+
+				 Diâmetro do eixo do motor do eixo 
+
+				 5mm
+
+
+
+
+
+Recursos:
+
+	- A montagem requer uma certa habilidade mecânica. Todos os componentes de montagem estão incluídos.
+
+	- Materiais de gravação: A máquina pode esculpir madeira, plástico, acrílico, PCB ou materiais semelhantes.
+
+	- Não pode gravar: Metal duro (como latão, aço, ferro, etc), jade e outros itens de textura muito dura. Última página do evento por favor CLIQUE.
+
+Observação:
+
+1. Instruções e Software: Instruções de montagem, software de controle e mais informações, por favor CLIQUE AQUI
+
+2. Este item contém o motor do eixo, mas nenhum módulo de laser. Se você quiser usar o laser para gravação, pode comprá-lo adicionalmente. Obrigado pela sua compreensão e observe que a interface de entrada (deve ser XH2.54-3P ou XH2.54-2P) e a tensão de entrada (deve ser DC 12V) do módulo de laser deve ser compatível com a placa de controle no 3018. Além disso, o suporte do motor original é redondo, certifique-se de que a forma do seu módulo de laser é adequada para instalação.3.A versão do software deve ser a versão 0.9, a versão 1.1 é instável, o que fará com que a máquina de gravação funcione mal!
+
+
+Incluído no Pacote:
+
+	1 x conjunto completo de máquina de gravura de madeira (entrega desmontada)Agora recomendamos o módulo de laser (2500mW Blue Laser Module) produzido pelo fabricante dos originais: IDENTIFICAÇÃO: 1386316Se você quiser Saiba mais sobre produtos de máquina de gravação Clique aqui
+
+
+
+
+
+

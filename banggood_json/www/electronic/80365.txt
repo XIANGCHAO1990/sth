@@ -1,0 +1,183 @@
+80365
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/3E/69/28ad157c-29f6-4337-be6e-3e01b592512a.JPG
+IIC I2C TWI SP Serial Interface Port Module 5V 1602 LCD Adapter Geekcreit for Arduino - products that work with official Arduino boards
+https://www.banggood.com/IIC-I2C-TWI-SP-Serial-Interface-Port-Module-5V-1602-LCD-Adapter-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-80365.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+
+	This is another great IIC/I2C/TWI/SPI Serial Interface. As the pin resources of controller is limited, your project may be not able to use normal LCD shield after connected with a certain quantity of sensors or SD card. However, with this I2C interface module, you will be able to realize data display via only 2 wires. If you already has I2C devices in your project, this LCD module actually cost no more resources at all. It is fantastic for based project.
+	I2C Address: 0X20~0X27 (the original address is 0X20,you can change it yourself)
+	the backlight and contrast is adjusted by potentiometer
+	Come with 2 IIC interface, which can be connected by Dupont Line or IIC dedicated cable
+	I2C Address: 0x27 (I2C Address: 0X20~0X27 (the original address is 0X27,you can change it yourself)
+
+Specification:
+
+	Compatible for 1602 LCD
+	Supply voltage: 5V
+	Weight: 5g
+	Size: 5.5x2.3x1.4cm
+
+Package included:
+
+	1 x IIC/I2C/TWI/SPI serial interface module port
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

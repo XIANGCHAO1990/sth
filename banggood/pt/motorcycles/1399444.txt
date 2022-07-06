@@ -1,0 +1,280 @@
+https://pt.banggood.com/24V36V48V60V-250W350W-LCD-Brushless-Motor-Controller-Battery-Speed-For-MTB-E-Bike-Scooter-p-1399444.html?cur_warehouse=HK&ID=517271520454&rmmds=CategoryAutomobilesPop
+24V/36V48V/60V 250W/350W LCD Brushless Motor Controller Battery Speed For MTB E-Bike Scooter
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:
+		Controlador de modo duplo de 6 mosfet para bateria de lítio
+
+		Tensão de trabalho nominal: 24v / 36v / 48v / 60v
+
+		Potência disponível: 250W / 350W
+
+		Corrente máxima disponível: 10A-20A (configuração padrão 13a)
+
+		Bateria ponto de proteção de subtensão de tensão: 19v / 30v / 41v / 52v
+
+		Ajuste para o ângulo de fase do motor: 60 graus / 120 graus (aprender automaticamente)
+
+
+
+Recurso do Controlador:
+
+		1. Identifique automaticamente a fase e o ângulo do motor. 
+		Você pode aprender com o fio de depuração. método de operação: conecte o cabo de alimentação, fio do interruptor principal, fio do motor,
+		fio de salão, lidar com fio de barra, fio de aprendizagem, ligar a energia e bloqueio de bicicleta, o motor vai começar a trabalhar. 
+		Se a direção de giro estiver correta, desligue o fio de aprendizagem. A aprendizagem está terminada.
+		Se a direção é o oposto, por favor, cortar o fio de aprendizagem, o motor irá mudar de direção automaticamente,
+		trabalho 2-3 segundos, corta fio de aprendizagem, a aprendizagem é terminada. (atenção por favor! corta fio de aprendizagem depois de aprender)
+
+
+		2. modo dual (Quando o salão do motor funciona normalmente, o controlador trabalha com o modo de corredor. 
+		Quando o salão do motor está danificado, o controlador pode testá-lo de forma inteligente e mudar para o modo sem corredor e continuar o trabalho.
+		(outro controlador se não o modo dobro, não pode trabalhar se um corredor de motor danificou)
+
+
+		3. pode controlar e combinar com outras partes elétricas
+
+		tal como pode combinar com o sensor de teste de velocidade externo, de modo que a tela possa indicar a velocidade 
+		mesmo quando a bicicleta está em deslizamento. pode combinar com o sensor de freio, pode combinar com o trabalho de shifter esquerdo como freios ebs e assim por diante.
+
+
+		4. quando a tensão da bateria não é suficiente, o controlador irá reduzir automaticamente a corrente, isso irá proteger sua bateria para uma vida mais longa.
+
+	Função do controlador:
+
+	1. 1: 1 poder PAS
+
+	2. travar e cortar energia
+
+	3. conecte com LCD display
+
+	4. conecte o acelerador
+
+	5. porta de energia da luz e da buzina
+
+	6. auto-aprendizagem
+
+	7. salão linear ebs freio
+
+	8. cruzeiro
+
+	9. 6 km / h impulsionando
+
+
+
+	LCD Mostrar
+
+	1. indica o nível da bateria, a grade 6 está cheia, se a bateria baixa vai brilhar   
+
+	2. indicar velocidade, a unidade de ajuste padrão é km / h
+
+	3. indicar engrenagens
+
+	4. indicar única viagem, DIS, ícone localizado no lado inferior esquerdo, pressione o botão de energia pode mudar para esta interface,
+	significa toda a distância que a moto percorre desde a máquina aberta até a máquina,
+
+	5. Botão de energia de ODO-press pode mudar para esta interface
+
+	6. código de erro - pressione o botão de energia pode mudar para esta interface
+
+	002 - erro de freio 
+
+	Erro do sensor 003-pas
+
+	004-boosting 6km / h modo de cruzeiro
+
+	Modo de cruzeiro 005-oportuna
+
+	Nível de bateria de baixo nível 006
+
+	Erro do motor 007
+
+	Erro do 008-throttle
+
+	Erro do controlador 009
+
+	010-erro de recebimento de comunicação
+
+	011 - erro de envio de comunicação
+
+	Erro de comunicação 012-DMS
+	Erro 013-frontlight
+
+	7. Ajuste de engrenagens - o botão de pressão para cima e para baixo pode ajustar as engrenagens, adicionar ou reduzir uma,
+	pressione e segure o botão para cima e para baixo ao mesmo tempo pode entrar na interface de configuração, 
+	pressione o botão liga / desliga para alternar item de dados, pressione o botão para cima e para baixo para ajustar os dados, 
+	pressione e segure o botão para cima e para baixo para armazenar e sair da interface de dados
+
+
+Montagem:
+
+		1.  Fit for different battery: lead-acid, Li-Fe battery, LNCMO battery  {Li(NiCoMn)O2}, and so on. 
+		Para o material diferente há diferente ponto de proteção de subtensão
+
+		2. Fit para motor de engrenagem brushless DC inferior a 350w e motor gearless e motor de alta velocidade e assim por diante.
+
+
+
+Incluído no Pacote:
+
+	1 x controlador de motor
+	1 X LCD Instrumento de exibição
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,213 @@
+1577997
+https://imgaz.staticbg.com/thumb/large/oaupload/ser1/banggood/images/2C/47/5ac9d8a0-2c34-4de8-afef-f19a7adaf5b8.JPG
+DC-DC 5-32V à 0.8-30V Module abaisseur d'alimentation Régulateur Buck réglable 5A Pilote constant LED Batterie Carte de tension de charge
+https://fr.banggood.com/DC-DC-5-32V-to-0_8-30V-Power-Supply-Step-Down-Module-Adjustable-Buck-Regulator-5A-Constant-LED-Driver-Battery-Charging-Voltage-Board-p-1577997.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aperçu:
+
+
+
+Le module utilise des puces de haute qualité, un rendement élevé (jusqu'à 95%), une faible génération de chaleur, un courant maximal de 5A et le courant de sortie de contrôle de l'amplificateur opérationnel de TI, ce qui rend la sortie globale très stable.
+
+Ce module utilise un condensateur de filtre à faible ESR pour réduire la tension d'ondulation à 50 mV!
+
+
+
+Caractéristiques:
+
+
+
+Nature du module: module buck non isolé
+
+Mode de rectification: rectification asynchrone
+
+Port de câblage: mode d'entrée: IN + entrée positive, entrée IN- négative
+
+Mode de sortie: OUT + sortie positive, sortie OUT négative
+
+Tension d'entrée: DC 5V-32V
+
+Tension de sortie: DC 0.8V-30V
+
+Courant de sortie: réglable, Max 5A
+
+Efficacité de conversion: 95% (maximum)
+
+Fréquence de commutation: 300 KHz
+
+Ondulation de sortie: bande passante de 50 mV (maximum) 20 M
+
+Taux de réglage de la charge: +/- 0,5%
+
+Taux de régulation de tension: +/- 2,5%
+
+Température de fonctionnement: -40 ° C à + 85 ° C
+
+Taille: 51 x 26,3 x 14 (longueur x largeur x hauteur) (mm)
+
+
+
+Emballage inclus:
+
+
+
+1x DC-DC 5A Module d'alimentation de régulateur Buck réglable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,314 @@
+1909572
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/52/2B/8051128b-9570-4d53-b5cd-bd500f934e25.jpg
+A95X W2 Amlogic S905W2 Quad Core Android 11 4GB Veri deposu 64GB ROM Akıllı TV KUTUSU 2.5G 5G Çift WİFİ Bluetooth 5 4Kx2K@60fps
+https://tr.banggood.com/A95X-W2-Amlogic-S905W2-Quad-Core-Android-11-4GB-RAM-64GB-ROM-Smart-TV-BOX-2_5G-5G-Dual-WIFI-Bluetooth-5-4Kx2K-at-60fps-p-1909572.html?cur_warehouse=CN&ID=47184&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Şartname:
+
+
+
+
+
+
+
+Sistem Fiziksel Standart Yapılandırma:
+
+
+Tip
+Detaylar
+
+
+Ürün formu
+Ürün formu
+CN
+
+
+Boyutlar
+104mmx104mmx19.4mm
+
+
+Ağırlık
+yaklaşık 500g
+
+
+Sistem donanım yapılandırması:
+
+
+Tip
+Detaylar
+Açıklamalar
+
+
+İşlemci
+Tip
+Dört çekirdekli Cortex-A35 (Amlogic S905W2)
+
+
+Hız
+1.8GHz
+
+
+GPU
+Tip
+G31 GPU'su
+
+
+Veri deposu
+Kapasite
+4GB
+
+
+ROM
+EMMC
+64GB
+
+
+Ağ bağlantıları:
+
+
+Tip
+Detaylar
+Açıklamalar
+
+
+WİFİ
+WİFİ modülü
+IEEE 802.11 a/b/g/n/ac（2.4G/5GH）+BT5.0
+
+
+Ethernet Ağı
+RJ45
+RJ45 10/100M
+
+
+Arayüz Yapılandırması:
+
+
+Tip
+Detaylar
+Açıklamalar
+
+
+Hafıza kartı yuvası
+Harici bellek
+SDSC/SDHC/SDXC'yi destekleyin
+
+
+USB arabirimi
+Veri aktarımı desteği
+USB2.0x2
+
+
+AV arayüzü
+AV çıkışı
+∮ 3.5mm standart arayüz
+
+
+DC konektörü
+Güç 
+∮ 4.0 mm güç konektörü
+
+
+HDMI arayüzü
+Ses/Video çıkışı
+HDMI2.1
+
+
+Tip C
+
+Yok
+
+
+SPIDF jakı
+Ses çıkışı
+Optik
+
+
+Tuş takımı
+Giriş aygıtı
+USB aleti
+
+
+Fare
+Giriş aygıtı
+USB aleti
+
+
+Uzaktan kumanda
+Giriş aygıtı
+Uzaktan kumanda
+
+
+Gerekli Aksesuarlar:
+
+
+Tip
+Detaylar
+Açıklamalar
+
+
+Güç adaptörü
+Standart konfigürasyon
+∮4.0mm DC 5V@2A
+
+
+Yazılım Yapılandırması:
+
+
+ Tip
+Detaylar
+Açıklamalar
+
+
+İşletim sistemi
+İşletim sistemi sürümü
+Android 11
+
+
+Video Kod Çözücü
+AV1 MP-10@L5.1, 4Kx2K@60fps'ye kadar; VP9 Profil-2, 4Kx2K@60fps'ye kadar; 4Kx2K@60fps'ye kadar H.265 HEVC MP-10@L5.1; 4Kx2K@60fps'ye kadar AVS2-P2 Profili, H.264 AVC HP@L5.1, 4Kx2K@30fps'ye kadar, H.264 MVC, 1080P@60fps'ye kadar, MPEG-4 ASP@L5, 1080P@60fps'ye kadar (ISO-14496), WMV/ 1080P@60fps'ye kadar VC-1 SP/MP/AP, 1080P@60fps'ye kadar AVS-P16(AVS+) /AVS-P2 JiZhun Profili, 1080P@60fps'ye kadar MPEG-2 MP/HL (ISO-13818), MPEG -1 MP/HL 1080P@60fps'ye kadar (ISO-11172), RealVideo 8/9/10 1080P@60fps'ye kadar
+
+
+Ses Kod Çözücü
+MP3, AAC, WMA, RM, FLAC, Ogg'u destekler ve 7.1/5.1 aşağı karıştırma ile programlanabilir
+
+Özellik:İşlemci: Dört çekirdekli Cortex-A35 Amlogic S905W2, hız 1.8GHzGPU: G31 GPUİşletim Sistemi: Android 11Bellek kapasitesi: 4GBROM: EMMC 64GBWİFİ: IEEE 802.11 a/b/g/n/ac (2.4G/5G)Bluetooth: BT5.0Ethernet RJ45 RJ45 10/100MHarici bellek: SDSC/SDHC/SDXC'yi desteklerUSB arabirimi veri iletimi: USB2.0x2'yi desteklerAV arayüzü: AV çıkışı ∮3,5 mm standart arayüzHDMI: ses ve video çıkışı HDMI2.1Uzaktan kumanda: Uzaktan kumandaVideo kod çözücü: AV1 MP-10@L5.1, 4Kx2K@60fps'ye kadar; VP9 Profil-2, 4Kx2K@60fps'ye kadar; H.265 HEVC MP-10@L5.1, 4Kx2K@60fps'ye kadarSes kod çözücü MP3, AAC, WMA, RM, FLAC, Ogg ve programlanabilir 7.1/5.1 downmix'i desteklerBoyut: 104mmx104mmx19.4mmAğırlık: yaklaşık 500gPaket içeriği:1 adet A95X W2 TV Kutu(Diğer ürünler dahil değildir)1 adet Uzakdan Kumanda1 x Kullanım KılavuzuDiğer seçenekler:A95X W2 2 GB Veri deposu 16GB ROM Akıllı TV KUTUSU: [bağlantı]A95X W2 4GB Veri deposu 32GB ROM Akıllı TV KUTUSU: [bağlantı]A95X W2 4GB Veri deposu 64GB ROM Akıllı TV KUTUSU: [bağlantı]
+
+
+
+

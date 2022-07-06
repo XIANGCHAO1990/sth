@@ -1,0 +1,313 @@
+https://fr.banggood.com/PZEM-022-Open-and-Close-CT-100A-AC-Digital-Display-Power-Monitor-Meter-Voltmeter-Ammeter-Frequency-p-1356031.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+PZEM-022 ouvrir et fermer CT 100A AC affichage numérique moniteur de puissance mètre voltmètre ampèremètre fréquence
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:
+
+
+1. Fonction de mesure des paramètres électriques (tension, courant, puissance active, énergie, fréquence, facteur de puissance)
+
+2. Fonction d'alarme de surcharge (seuil d'alarme de suralimentation, rétroéclairage et clignotement de l'alimentation à l'alarme)
+
+3. Fonction prédéfinie de seuil d'alarme de puissance (peut définir le seuil d'alarme de puissance)
+
+4. L'énergie peut être réinitialisée à l'aide de la clé
+
+5. Stocker les données lors de la mise hors tension
+
+6. Grand écran LCD 
+
+7. Fonction de rétroéclairage
+
+8. Fonction clé
+
+
+♦Contrôle du rétroéclairage
+
+Appuyez brièvement sur la touche pour allumer ou éteindre le rétroéclairage, le rétroéclairage a une fonction de mémoire, il peut stocker l'état allumé ou éteint lors de la mise hors tension.
+
+
+♦Réinitialiser l'énergie
+
+Étape 1: appuyez longuement sur le pendant 5 secondes jusqu'à ce que la valeur énergétique clignote, puis relâchez la touche.
+
+Étape 2: appuyez à nouveau brièvement sur la touche, puis la valeur d'énergie est effacée et quittez l'état de clignotement de réinitialisation.
+
+Étape 3: S'il n'y a aucune opération sur la clé dans les 5 secondes, cela signifie que la valeur d'énergie n'est pas effacée et quittera l'état de réinitialisation.
+
+
+♦Définir le seuil d'alarme de puissance 
+
+Étape 1: appuyez longuement sur la touche jusqu'à ce que l'écran LCD affiche "SET CLr", puis relâchez la touche pour entrer dans l'état de réglage
+
+Étape 2: la fenêtre d'alimentation affiche la valeur actuelle de l'alarme de puissance et le dernier chiffre commence à clignoter, puis vous pouvez appuyer brièvement sur plus 1, lorsqu'il n'y a pas d'opération pendant 3 secondes, il changera automatiquement la position du chiffre, la méthode de réglage est la même comme ci-dessus.
+
+Étape 3: Après avoir terminé le réglage, appuyez longuement sur la touche pendant 5 secondes pour stocker automatiquement et quitter, la plage de seuil de puissance active est de 0,0 à 2,5 kW. il peut afficher six paramètres en même temps.
+
+
+
+Caractéristiques:
+
+
+1. Tension de fonctionnement : 80 ~ 260VAC
+
+2. Tension d'essai : 80 ~ 260VAC
+
+3. Puissance nominale : 100A/22000W
+
+4. Fréquence de fonctionnement : 45-65 Hz
+
+5. Précision de mesure : grade 1.0
+
+Format d'affichage :
+
+
+1.Puissance
+	Plage de test : 0~22000W
+	Puissance de mesure de démarrage : 0,2 W
+
+Format d'affichage <10W : 1,00 ~ 9,99 W
+
+Format d'affichage <100 W : 10,0 à 99,9 W
+
+Format d'affichage <1000W : 100~999W
+
+Format d'affichage <10000W : 1,00 ~ 9,90 kW
+
+Format d'affichage ≥10000W : 10,0 ~ 22,0 kW
+
+
+2.Énergie
+	Plage de test : 0~999 kWh
+
+Format d'affichage <1kWh : 0~999Wh
+
+Format d'affichage <10 kWh : 1,00 ~ 9,99 kWh
+
+Format d'affichage ≥10kWh : 10~999kWh
+
+
+3. Tension
+	Plage d'essai : 80~260 V
+
+Format d'affichage : 80~260 V
+
+
+4.Courant
+	Plage de test : 0 ~ 100 A
+	Courant de mesure de démarrage : 0,001 A
+
+<10A format d'affichage : 0,000 ~ 9,000 A
+
+Format d'affichage ≥10A : 10,00 ~ 99,99A
+
+
+5.Fréquence
+	Plage de test : 45 ~ 65 Hz
+
+Format d'affichage : 45~65Hz
+
+
+6. facteur de puissance
+	Plage de test : 0~1PF
+
+Format d'affichage : 0,00 ~ 1,00 PF
+
+
+
+Précautions:
+
+
+1. Ce module convient à l'intérieur, veuillez ne pas l'utiliser à l'extérieur.
+
+2. La charge appliquée ne doit pas dépasser la puissance nominale.
+
+3. L'ordre de câblage ne peut pas être faux.
+
+Emballage inclus:
+
+		1 x moniteur de puissance CT ouvert et fermé
+
+Images de détail :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

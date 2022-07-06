@@ -1,0 +1,260 @@
+https://fr.banggood.com/KP184-DC-Electronic-Load-Battery-Capacity-Tester-RS485-or-232-400W-150V-40A-AC220V-Professional-Battery-Tester-p-1566483.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+KP184 DC charge électronique Batterie testeur de capacité RS485/232 400W 150V 40A AC220V professionnel Batterie testeur
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ La description:
+
+
+
+La charge électronique de la série KP184 peut être largement appliquée aux tests et au vieillissement des produits dans l'éclairage LED, la source d'alimentation, le chargeur et l'accumulateur. Le mode actuel peut être poursuivi pour simuler une charge résistive pour décharger la batterie et charger la source d'alimentation; le mode tension peut être utilisé pour simuler une charge capacitive et charger la charge, ainsi que pour simuler la tension constante de LED et charger la source d'alimentation. Il est utilisé simplement, ajusté de manière pratique et a une fonction de protection parfaite. Les performances et la fonction sont inégalées par la résistance à fil coulissant traditionnelle. S'il est utilisé pour des industries connexes, il pourrait améliorer la productivité et réduire les coûts.>>Sofware: Click here.<<
+>>Manual: Click here <<
+
+Caractéristiques:
+
+
+
+1.Il dispose de quatre modes de charge de base tels que CC, CV, CW et CR.
+
+2. Entrez la protection de transposition positive et négative et donnez l'alarme
+
+3. La structure de rayonnement thermique optimisée réalise une densité de puissance élevée;
+
+4. Mode de contrôle numérique, haute précision et bonne stabilité
+
+5. Dispose d'une protection contre les surtensions, les surintensités, les surpuissances et les surchauffes ;
+
+6. Fonction de mesure distante de tension (détection à distance)
+
+7. Fonction de test automatique, signal de déclenchement I/0 externe, signal d'indication PASS, FAIL ;
+
+Fonction de test dynamique 8,10 KHz ;
+
+9. Fonction de test de capacité de la batterie ;
+
+10.Test de la résistance interne de la batterie
+
+11. Fonction de test de point de protection/temps de protection contre les surintensités
+
+12. Contrôle de la température du ventilateur PWM ;
+
+13.Utilisation de la source d'alimentation 110VAC/220VAC
+
+14.Interface de communication RS485 et 232
+
+15.Fonction de fonctionnement synchrone de plusieurs appareils chargés en ligne
+
+16. Prise en charge des logiciels informatiques supérieurs avec une fonction puissante et une interface conviviale
+
+
+
+Spécification:
+
+
+
+Consommation électrique : < 20 W
+
+Tension de charge : CC 1 -150 V
+
+Courant de charge : 0-40A
+
+Puissance de charge : 0-400W
+
+Précision de mesure Courant : ±0,05 % + 5 mA
+
+Tension de précision de mesure : ± 0,05 % + 5 mV
+
+Courant de précision de contrôle : ±0,05 % + 5 mA
+
+Tension de précision de contrôle : ± 0,05 % + 5 mV
+
+Mode de communication : RS232/RS485
+
+Surtension : lorsque la tension est supérieure à 152 V, la charge est désactivée
+
+Au-dessus de la température : 85℃
+
+Surpuissance : Monocanal : 410 W
+
+Fusible d'entrée d'alimentation : 0,5
+
+Taille: 300*90*180mm/11.8*3.5*7.1in
+
+Poids : environ 4 000 g/141,1 oz
+
+
+
+Le forfait comprend :
+
+
+1 x charge électronique KP184 DC
+
+1 x prise (UE)
+
+1 x borne de compensation à distance
+
+2 x borne de test positive et négative
+
+1 câble de communication 232
+
+2 câbles de test
+
+1 manuel d'utilisation
+
+
+
+Noter:
+
+Nous vous enverrons un adaptateur de prise en fonction de votre pays.
+
+
+Noter:
+
+Cette programmation de logiciel secondaire de support de charge DC, nous espérons que vous aurez le logiciel vous-même ;
+
+Si vous ne l'avez pas, nous pouvons vous l'envoyer en cadeau gratuit, le logiciel n'est qu'un cadeau, pas la marchandise, nous espérons donc que vous êtes un professionnel de l'utilisation de logiciels; il s'agit d'un logiciel gratuit et de développement ; c'est uniquement pour le système Win7 ou IE
+
+Photos de détails :
+
+
+
+
+
+
+
+

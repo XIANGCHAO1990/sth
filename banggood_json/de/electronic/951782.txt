@@ -1,0 +1,174 @@
+951782
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/86/AF/8f2ea68f-3da3-404b-b247-21882d4bb318.jpg
+5pcs ATmega328P Nano V3 Modul verbesserte Version mit USB-Kabel Development Board
+https://de.banggood.com/5Pcs-ATmega328P-Nano-V3-Module-Improved-Version-With-USB-Cable-Development-Board-p-951782.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spezifikation:
+
+Haben Sie den USB-Chip gewechselt, verbessern Sie die Download-Geschwindigkeit und Stabilität von WIN7 / WIN8
+Hinweis: Sie müssen den CH341SER-Treiber installieren. Hier ist der Link: http://wch.cn/download/CH341SER_ZIP.html
+
+Mikrocontroller ATmega328
+Betriebsspannung (Logikpegel): 5V
+Eingangsspannung (empfohlen): 7V ~ 12V
+Eingangsspannung (Grenzwerte): 6V ~ 20 V
+Digitale E / A-Pins: 14 (davon 6 liefern PWM Ausgang)
+Analoge Eingangsstifte: 8
+DC Strom pro I / O Pin: 40mA
+Flash-Speicher: 32KB (ATmega328) (davon 2 KB vom Bootloader verwendet)
+SRAM: 2KB (ATmega328)
+EEPROM: 1KB (ATmega328)
+Taktfrequenz: 16MHz
+
+Lieferinhalt:
+
+5 x Verbesserte Version Nano V3.0
+
+
+
+
+
+
+
+
+
+
+
+
+

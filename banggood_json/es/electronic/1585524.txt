@@ -1,0 +1,263 @@
+1585524
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/5C/1D/b39ce39c-46f9-40eb-907f-f4dd85dbf682.jpg
+ZK-4KX CNC DC DC Buck Boost Converter CC CV 0.5-30V 4A Módulo de alimentación Fuente de alimentación regulada ajustable para carga Solar Batería
+https://es.banggood.com/ZK-4KX-CNC-DC-DC-Buck-Boost-Converter-CC-CV-0_5-30V-4A-Power-Module-Adjustable-Regulated-Power-Supply-for-Solar-Battery-Charging-p-1585524.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características:
+
+
+
+1. LCD puede mostrar voltaje de entrada / salida, corriente de salida / potencia de salida / capacidad de salida / tiempo de salida;
+
+2. El ajuste del CNC, preciso y rápido, puede aumentar y disminuir el voltaje, el voltaje de salida se puede ajustar a voluntad de 0.5-30v, la corriente límite 0-4a se puede ajustar a voluntad;
+
+3. Protección de conexión anti-reversa del extremo de entrada, que no se quemará;
+
+4. Irrigación anti-reversa en el extremo de salida, no se necesita ningún diodo de irrigación anti-reversa adicional para cargar la batería;
+
+5. El módulo se puede configurar para abrir / cerrar de forma predeterminada;
+
+6. Hay varios mecanismos de protección de software disponibles y el umbral de protección es ajustable. Cuando los parámetros de trabajo del módulo superan el umbral de protección, la salida se cerrará automáticamente.
+
+7. La ondulación de salida es pequeña y el filtro PI está disponible;
+
+8. Espesar las aletas del radiador.
+
+
+
+Especificaciones:
+
+
+
+Voltaje de entrada: 5.0-30v
+
+Voltaje de salida: 0.5-30v
+
+Corriente de salida: puede funcionar de manera estable a 3A durante mucho tiempo y puede alcanzar los 4 A con una disipación de calor mejorada
+
+Potencia de salida: disipación de calor natural 35 W, fortalece la disipación de calor 50 W
+
+Resolución de visualización de voltaje: 0,01 V
+
+Resolución de pantalla actual: 0.001A
+
+Eficiencia de conversión: aproximadamente 88%
+
+Soft arranque: sí (con alta potencia y el módulo de carga puede fallar al arrancar)
+
+Mecanismo de protección:
+
+Entrada de conexión anti-reversa;
+
+Salida de riego anti-reversa;
+
+Protección de subtensión de entrada (4.8-30V ajustable, 4.8v por defecto)
+
+Protección de sobretensión de salida (0,5-31 V ajustable, 31 V predeterminado)
+
+Protección de sobrecorriente de salida 0-4.1a (ajustable, por defecto 4.1a)
+
+Protección de sobrepotencia (0-50w ajustable, 50W predeterminado)
+
+Protección contra sobrecalentamiento (80-110 ℃ ajustable, por defecto 110 ℃)
+
+Protección de tiempo de espera (0-100 h ajustable, desactivada de forma predeterminada)
+
+Protección de supercapacidad (0-60ah ajustable, desactivada por defecto)
+
+Frecuencia de funcionamiento: 180 KHZ 
+
+Dimensiones: 79mmx43mmx26mm
+
+
+
+Metodo de uso:
+
+
+
+1. Cambie los parámetros de visualización: en la interfaz normal, presione SW para cambiar la visualización debajo de la pantalla de visualización y cambie el contenido de la pantalla entre la potencia A actual W capacidad Ah tiempo h. Mantenga presionado el botón SW para cambiar la visualización de enlace ascendente en la pantalla pantalla y cambie el contenido de la pantalla entre voltaje de entrada IN voltaje de salida OUT.
+
+2. Configure el voltaje de salida: presione el botón U / I en la interfaz normal para ingresar a la interfaz de configuración de voltaje de corriente constante. Se puede ver que un cierto dígito del valor del voltaje de salida está parpadeando. Gire el codificador hacia la izquierda y hacia la derecha para ajustar el mayor y el menor.Presione brevemente el codificador giratorio para elegir qué bit de voltaje de salida establecer.Después de la configuración, presione el botón U / I 2 veces para regresar a la interfaz normal.O regrese automáticamente a la interfaz normal después de detener el funcionamiento durante 10 s.
+
+3. Configure el valor de corriente constante (es decir, el valor de corriente máximo permitido por el módulo) - presione el botón U / I en la interfaz normal para ingresar a la interfaz de corriente constante de voltaje de configuración. Luego presione el botón U / I y cambie a configuración de valor de corriente constante. Puede ver un poco del valor de corriente constante de ajuste parpadeando. Gire el codificador rotatorio hacia la izquierda y hacia la derecha para ajustar el mayor y el menor.Presione brevemente el codificador rotatorio para elegir qué bit establecer el valor de corriente constante.Después de la configuración, presione U / I para salir de la interfaz de corriente constante de voltaje de configuración y volver a la normal interfaz O volver automáticamente a la interfaz normal después de detener la operación durante 10 s.
+
+4. Configure el estado de encendido / apagado predeterminado del módulo encendido - mantenga presionado U / I en la interfaz normal para ingresar a la interfaz de configuración de parámetros. Puede ver que muestra "OPEN OFF" o "OPEN ON". "OPEN OFF" significa que la salida se apaga de forma predeterminada cuando la alimentación está encendida, y "OPEN ON" significa que la salida se enciende de manera predeterminada cuando la alimentación está encendida. Mantenga presionado el codificador giratorio para cambiar dos estados. Después de la configuración, presione prolongadamente U / I para volver a la interfaz normal.
+
+5. Configuración de los parámetros de protección en el estado y el umbral: mantenga presionado U / I para ingresar a la interfaz de configuración de parámetros en la interfaz normal. Presione SW hasta que aparezca la protección que desea. LUP: umbral de protección de subtensión; OUP: umbral de protección de sobretensión ; OCP - umbral de protección de sobrecorriente; OPP - umbral de protección de sobretensión; OAP - umbral de protección de ultracapacidad; Umbral de protección de tiempo de espera OHP; OTP - umbral de protección de sobrecalentamiento Presione brevemente y gire el codificador para seleccionar qué bit desea configurar el parámetro de protección.Presione prolongadamente el codificador giratorio para activar o desactivar los parámetros de protección (solo la protección de tiempo de espera y la protección de supercapacidad se pueden configurar para encenderse / apagarse, y otros parámetros de protección están encendidos de forma predeterminada). Gire el codificador hacia la izquierda y hacia la derecha. para hacer los parámetros más grandes y más pequeños. Después de la configuración, presione prolongadamente U / I para volver a la interfaz normal.
+
+6. Voltaje y corriente de calibración: presione el botón U / I para ingresar a la interfaz de configuración de parámetros en la interfaz normal. Presione SW hasta que aparezca una interfaz de parámetro con CAL. La interfaz de voltaje de entrada de calibración con el símbolo CAL + IN + V; La salida de calibración interfaz de voltaje con el símbolo CAL + OUT + V; La interfaz de corriente de salida de calibración con el símbolo CAL + OUT + A. Gire el codificador hacia la izquierda y hacia la derecha para ajustar el tamaño de los parámetros. confirme que se completó el ajuste y que el valor del parámetro ya no parpadeará. Mantenga presionado U / I para volver a la interfaz normal. 
+
+Nota: para garantizar la precisión de la calibración, solo se puede iniciar el voltaje de calibración - por encima de 12V; Corriente de calibración - comience la calibración solo cuando la corriente sea superior a 1A.
+
+
+
+Consejos:
+
+
+
+1. Está prohibida la conexión corta entre la entrada IN y la salida OUT del módulo, o la función de corriente constante fallará.
+
+2. ¡Asegúrese de que el momento de potencia de la fuente de alimentación exceda la potencia requerida de la carga de salida!
+
+3. Si el módulo quiere emitir con carga completa, el voltaje de entrada debe estar por encima de 8V. Cuando el voltaje de entrada es de 5 V, la potencia de salida es de aproximadamente 15 W. El valor máximo de corriente del módulo es 4 A, sujeto a la potencia de salida máxima, como 17 V, la corriente no debe ser superior a 2 A.
+
+4. ¡Cuando este módulo se usa sobre 3A y 35W, refuerce la disipación de calor!
+
+5. El módulo tiene una función de protección de subtensión de entrada, que es de aproximadamente 4.8v por defecto (se puede configurar), y la salida se desconectará automáticamente después de que el valor sea menor que este valor (tenga en cuenta que el voltaje en el puerto del módulo es menor que el umbral de protección de subtensión, y cuando la corriente de entrada es relativamente grande, no ignore la tensión parcial en el cable de entrada).
+
+
+
+Paquete incluido:
+
+
+
+1 x ZK-4KX CNC DC DC Buck Boost Converter CC CV 0.5-30V 4A Módulo de potencia
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,285 @@
+https://it.banggood.com/FY3224S-(FY3200S-24M)-24MHz-Dual-channel-Arbitrary-Waveform-DDS-Function-Signal-Generator-Sine-Square-Wave-Sweep-Counter-p-1157268.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+DANIU FY3224S Doppio Canale Arbitrario  Onde DDS Funzione Generatore di Segnale Seno Quadro Contatore
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+
+
+
+
+DANIU FY3224S Doppio Canale Arbitrario  Onde DDS Funzione Generatore di Segnale Seno Quadro Contatore
+
+
+
+
+FedeAtures: 
+
+
+
+
+	Frequenza del segnale di uscita ad alta precisione, buona stabilità.
+L'ampiezza del segnale fino a 20V.
+Lo strumento può essere implementato a seconda delle impostazioni del programma, facile da usare.
+Misuratore di frequenza di accompagnamento, funzione di conteggio, costo elevato.
+Lo strumento può emettere un seno, quadro, triangolo, rampa, scala impulso formula quadrato tensione DC.
+La precisione della larghezza dell'impulso e onda dell'impulso sono essere regolate.
+
+
+
+
+Funzione:
+
+1. L'uso della tecnologia di sintesi digitale diretta segnale DDS crea uscita di segnale accurata, stabile, bassa distorsione.
+2. Due canali CH1 e CH2 sono completamente simmetrici, ogni canale può regolare indipendentemente i parametri.
+
+
+	3. Supporta dorme d'onda definito dall'utente, ogni memoria di forma d'onda arbitraria profondità frequenza di campionamento 2048 x 12 bit 250MSa / s.
+4. Un lotto spruzzata selezionata manualmente innescare CH2 grilletto tre modalità di innesco interno e innesco esterno che permettono il dispositivo a qualsiasi uscita raffica da 1 a 1.048.575.
+5. Funzione di misura: istrumento viene con funzione de contatore di frequenza di 100 MHz e funzioni del contatore di impulsi.
+6. Il generatore di segnale ampio 12 bit, il segnale di uscita è più delicata, la distorsione della forma d'onda si riduce.
+7. Con funzione CNC completa, visualizzazione e regolazione digitale ampiezza della corrente di fase del segnale di uscita, offset, frequenza, ciclo di compito e due segnali.
+8. Dopo aver collegato il dispositivo a un computer, è possibile utilizzare il computer in termini di funzioni e parametri del controllo del generatore di segnale PC e possono essere modificati sul computer per scaricare forma arbitraria della forma d'onda del segnale dello strumento.
+
+9. Comunicazione: protocollo di comunicazione serie completamente aperta, lo sviluppo di facile secondario da usare.
+10. Precisione ad alta frequenz: precisione di frequenza fino a 10-6 magnitudine.
+
+
+	11. Risoluzione ad alta frequenza: l'intervallo completo di risoluzione di frequenza di 10 MHz.
+12. Monitoraggio: frequenza incorporata, ampiezza, offset, ciclo di compito, forma d'onda, e altri parametri delle seguenti funzioni, facile da usare.
+13. Funzione di scansione: la funzione della ricerca lineare e logaritmica, i punti iniziale e finale della scansione possono essere impostati.
+
+
+	14. Funzione di memorizzazione: può memorizzare 20 gruppi di parametri utensile impostati dall'utente, può essere chiamato a svolgere
+15. Operazione: operazione tasto, il display LCD1602 LCD in inglese, cornice digitale diretta o manopola di sintonizzazione continua.
+16. Protezione di tensione in ingresso: AC85V vasta gamma di tensione di ingresso fino a AC240V.
+17. Protezione corto circuito dell'uscita: tutte le uscite di segnale possono operare durante il cortocircuito sovraccarico 60S.
+
+
+
+
+
+
+
+
+
+
+Specifiche:
+Alimentatore di commutazione incorporato: AC85V-AC260V
+Interfaccia: USB
+
+Segnale di uscita:
+Ampiezza di uscita: ≥≥20Vp-p (vuoto)
+Impedenza di uscitae: 50Ω ± 10%
+DC polarizzazione: ± 10V
+Intervallo di frequenza 0 Hz - 24 MHz (orther  0 Hz - 6 MHz)
+
+Contatore:
+Il intervallo di riferimento: 0-4294967295
+Campo di misura: 1 Hz - 100 MHz
+Ampiezza di ingresso: 1 Vp-p - 20Vp-p
+
+Funzione di scansione:
+Modalità di scansione: scansione lineare, scansione logaritmica
+Intervallo di frequenze: i punti di inizio e fine specificati arbitrariamente
+Intervallo di frequenza di scansione: M1 frequenza predeterminata - M2
+La velocità di scansione: 1 ~ 999 s / step
+
+Altri:
+Funzione di memoria e trasferimento: M0 - M9 (M0: predefinito)
+Dimensione: 200mm (L) × 190mm(L) × 90 mm (A)
+Funzione cicalino: imposta la aperta o chiusura tramite programma
+Prestazioni: tutte le operazioni chiave, pulsante di regolazione continua
+Condizioni ambientali: temperature 0 - 40℃ unidità <80%
+
+>>>Clicca qui pwe scaricare tutti i file nel CD<<<
+
+
+
+
+La confezione include: 
+
+
+
+
+1 X FY3224S 24MHz DDS generatore di segnale duplice 
+
+
+1 X 1M cavo di alimentazione
+1 X1.25M cavo USB 
+
+
+2 X1.1M cavi Q9
+
+
+
+
+Immagini dei dettagli: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

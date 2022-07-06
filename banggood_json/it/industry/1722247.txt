@@ -1,0 +1,145 @@
+1722247
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/98/49/7f537331-f7fd-4c80-b2de-7f4ec12410a9.jpg
+Fan'ensheng Aggiornato 3 Assi GRBL USB Driver Controller Offline Modulo di Controllo LCD Scheda SD Schermo per CNC 1610 2418 3018 Router di Legno Laser Macchina Per Incidere
+https://it.banggood.com/Fanensheng-Upgraded-3-Axis-GRBL-USB-Driver-Offline-Controller-Control-Module-LCD-Screen-SD-Card-for-CNC-1610-2418-3018-Wood-Router-Laser-Engraving-Machine-p-1722247.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:Questo controller offline è progettato per l'uso del router Mini CNC 1610/2418/3018 e anche con funzioni più avanzate di set di strumenti, supporto del finecorsa, supporto Laser; Offline e Bluetooth di supporto. Specifica:Firmware: GRBL 08, 09, 1.1 e così via Tensione di ingresso: CC 7 V- 36 VRouter CNC applicabile: router CNC a 3 assi 1610; 2418; 3018 Caratteristiche:1. Supporta il firmware GRBL e benbox. Supporta la macchina incisione laser a 3 assi CNC.2. La lunghezza della corsa non è limitata a 30x18 e 24x18, ma può impostare un'altra lunghezza. Si prega di impostare il tratto nel comando.Per esempio3018, impostare la corsa nel comando, lunghezza 30 cm e larghezza 18 cm;2418, impostare la corsa XY nel comando, lunghezza 24 cm, larghezza 18 cm.Funzione:1: Controllo manuale: regolare manualmente la posizione di tre assi XYZ come punto di partenza della scultura e aprire o chiudere manualmente il mandrino.2: Incisione di file: la scheda offline può essere connessa alla scheda di controllo grbl per l'incisione dopo aver salvato il file e non è necessario collegarsi al computer.3: File di archiviazione: la versione offline viene identificata come dispositivo di archiviazione di massa USB dopo la connessione al computer, che può accedere direttamente ai file di incisione.Istruzioni:Controller offline GRBLPremere Z+ e Z- , l'asse Z si sposterà su e giù.Premi X+ e X- , l'asse X si sposterà a sinistra ea destra.Premi Y+ e Y- , l'asse Y si sposterà davanti e dietro.Premere GIRA: Mandrino acceso (Laser acceso), Mandrino spento (laser spento)Premere SMOD: ritornoPremere Z+ per 5 secondi, cambiare la lingua in inglese.Scheda SD: inclusa, è necessario un lettore di schede SD per scrivere nella directory principale dei file G-code.Avviso:L'interfaccia Laser è a 3 pin su questa scheda di controllo. Supporta solo 42 motori passo-passo. Il pacchetto include:1 x LCD Controller GRBL per schermo1 x cavo per collegamento mandrino1 scheda SD Più dettagli:
+
+
+
+

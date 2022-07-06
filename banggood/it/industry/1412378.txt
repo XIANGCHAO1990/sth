@@ -1,0 +1,218 @@
+https://it.banggood.com/MINI-DS213-Digital-Storage-Oscilloscope-Portable-15MHz-Bandwidth-100MSa-or-s-Sampling-Rate-2-Analog-Channels+2-Digital-Channels-3-Inch-Screen-p-1412378.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+MINI DS213 Archiviazione digitale oscilloscopio Larghezza di banda portatile 15 MHz Frequenza di campionamento 100 MSa / s 2 canali analogici + 2 canali digitali 3 Pollici Schermo
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+
+DS213 è un "Linea a 5 tracce, 4 onde” oscilloscopio a memoria digitale per compiti generali di ingegneria elettronica ed è basato sul core ARM Cortex M3. DS213 utilizza FPGA per gestire il controllo dell'ADC esterno e la modalità cache dati. Fornisce 4 partizioni applicative per caricare e aggiornare fino a 4 diversi firmware applicativi. Dispone inoltre di un'unità flash USB da 8 MB integrata per la memorizzazione di forme d'onda e l'aggiornamento del firmware di sistema. Il livello di applicazione del codice dell'oscilloscopio è open source e gli utenti possono sviluppare il firmware dell'oscilloscopio in base alle proprie esigenze
+
+Caratteristiche:
+
+Mini formato, leggero, portatile e palmare;
+Può memorizzare forme d'onda, rendendo l'analisi della forma d'onda più chiara ed efficace;
+Molteplici modalità di trigger, supportano il trigger sul fronte di salita / discesa, il trigger a impulsi positivo / negativo e iLogicTrigger;
+Potente capacità di elaborare forme d'onda, può misurare automaticamente parametri come tensione, frequenza e larghezza dell'impulso.
+
+Specifiche:
+
+CPU: ARM Cortex M3
+FIFO e controllo: FPGA
+ADC: HWD9288-100
+Canali analogici: 2([CH_A] [CH_B])
+Canali digitali: 2 ([C_C] [CH_D])
+Canale operativo: INV [CH_A], INV [CH_B], [CH_A] + [CH_B], [CH_A] - [CH_B], [C_C] e [CH_D], [C_C] | [CH_D]
+Sensibilità verticale: 10mV-10V/div (1-2-5 STEP) (usando la sonda X1)
+                100mV-100V/div (1-2-5 STEP) (usando la sonda X10)
+Risoluzione verticale: 8 bit
+Profondità memoria campione: 4 canali, 4*4K
+Accoppiamento: CC, CA
+Tensione di ingresso massima: ± 40 Vpp (usando la sonda X1)
+                 ±400Vpp (usando la sonda X10)
+Tipi di trigger: modalità di trigger sul fronte di salita/discesa, trigger a impulso positivo/negativo, LogicTrigger
+Modalità trigger: automatica, normale, singola, lenta
+Fonte trigger: [CH_A] [CH_B] [C_C] [CH_D]
+Sorgente del segnale: onda quadra: da 10Hz a 8MHz, in totale 20 shif1Sorgenti di segnale ts e 3 Vpp;
+Onda sinusoidale/triangolo/a dente di sega: da 10Hz a 20MHz, in totale 11 shif1ts e 3 Vpp sorgenti di segnale
+Archiviazione: disco USB da 8 M integrato
+Tipi di file: BMP, BUF, CSV
+Tipi di misurazione automatica: Sequenza segnale/ciclo/rapporto di lavoro, tensione di picco/valore virtuale/valore massimo/valore minimo/media
+Misura del cursore: valore del tempo, valore dell'ampiezza
+Modalità di visualizzazione: 4 linee d'onda: Linea 1: [CH_A], HIDE
+Riga 2: [CH_B], NASCONDI
+Riga 3: [C_C], REC_1, REC _2, REC _3, REC _4, HIDE
+Riga 4: [CH_D], [CH_A] + [CH_B], [CH_A] - [CH_B], [C_C] e [CH_D], [C_C] | [CH_D], NASCONDI
+Modalità di campionamento: campionamento in tempo reale
+Frequenza di campionamento: 100 M Sa/s
+Batteria: 1000 mAh
+Dimensioni: 99,5 mm x 58,5 mm x 13,5 mm
+Peso: 129 g (con batteria)
+Certificato: CE, FCC
+
+
+
+La confezione include:
+
+1 x DS213 oscilloscopio (non includere la silicone Astuccio)
+2 x test di prova
+1 x un set di accessori
+il silicone la custodia non è inclusa nel pacchetto, è possibile fare clic sul collegamento sottostante per acquistarla 
+
+►Custodia in silicone per DS213: 4 colori a scelta/con supporto rotondo
+
+
+
+Dettagli Immagini:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

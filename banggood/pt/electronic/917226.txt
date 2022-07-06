@@ -1,0 +1,187 @@
+https://pt.banggood.com/Geekcreit-FT232RL-FTDI-USB-To-TTL-Serial-Converter-Adapter-Module-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-917226.html?cur_warehouse=CN&ID=522225&rmmds=CategoryElectronicsPop
+Geekcreit® FT232RL FTDI USB To TTL Serial Converter Adapter Module Geekcreit for Arduino - products that work with official Arduino boards
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Característica:
+
+Chip: FT232RL
+Desenhe todas as portas de sinal do chip FT232RL
+Indicador de comunicação do transceptor RXD / TXD
+Fonte de alimentação USB, pode escolher 5V ou 3.3V, configurado por jumper
+Com proteção de sobrecarga, usa o fusível de auto-restauração de 500mA
+Definição do pino: DTR, RXD, TX, VCC, CTS, GND
+Posição: 2,54 mm
+Tamanho: 36 x 18 mm (L x W)
+Interface: mini USB
+
+NOTA: 
+
+Este chip não é orignal, não tem EEPROM, não pode inverter os sinais.
+
+Incluído no pacote:
+
+1 x FT232RL FTDI módulo adaptador conversor serial USB para TTL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

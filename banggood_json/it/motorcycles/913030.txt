@@ -1,0 +1,229 @@
+913030
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/94/9D/6fdd1b89-4e8f-4443-b01e-f2e2b1484f44.JPG
+iMars ELM327 OBD2 CAN BUS Scanner Strumento Scansione da Macchina Auto con Funzione Bluetooth
+https://it.banggood.com/IMars-ELM327-bluetooth-Car-OBD2-Scanner-Diagnostic-Tool-Engine-Code-Reader-p-913030.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ELM327 OBD2 CAN BUS Scanner Strumento Scansione Automatica da Auto Macchina con Bluetooth per Android
+
+Avviso: se l'ECU della tua auto si connette con il protocollo J1850, non è adatta a questo prodotto la tua auto.
+
+
+
+
+
+Caratteristiche:
+
+	1. Funziona con tutti i veicoli compatibili con OBD-II .
+2. La distanza di collegametno senza fili ( Bluetooth) è da 5 ~ 10 metri .
+3. Il Software incluso è compatibile con Palm , PDA , Cellulare , PC con Windows , Smartphone. Supporta il sistema Android.
+4. Può leggere i codici di difficoltà diagnostici , sia generici che specifici del costruttore, e mostrare il loro significato
+(Con le definizioni di oltre 3000 codici generici nel database).
+5. Con i codici di difficoltà chiari e può spegnere il MIL ( luce "verificazione e controllo di motore" ) .
+6. Può visualizzare i dati di sensori in tempo reale, per esempio RPM di Motore, Valore di Carico Calcolato, Temperatura di Liquido di Raffreddamento , Stato del Sistema di Alimentazione, Velocità del Veicolo , Assetto Carburante a Breve Termine, Assetto Carburante a Lungo Termine, Pressione Collettore d'Aspirazione , Anticipo di Accensione, Aria di Aspirazione, Temperatura, Portata d'Aria, Posizione Assoluta di Valvola a Farfalla, Tensione di Sensore Ossigeno/ Assetto Carburante a Breve Termine Associato, Stato del Sistema di Carburante, Pressione di Carburante.
+7. Protocolli OBD-II conpatibili: ISO15765-4 (CAN) , iso14230-4 ( KWP2000) , ISO9141-2
+
+Specificazione:
+Visualizzazione di Dati di Sensori in Tempo Reale, include:
+Valore di Carico Calcolato
+Temperatura di Liquido di Raffreddamento
+Stato del Sistema di Alimentazione
+Velocità del Veicolo
+Assetto Carburante a Breve Termine
+Assetto Carburante a Lungo Termine
+Pressione Collettore d'Aspirazione
+Accensione d'Anticipo
+Temperatura d'Aria d'Aspirazione
+Portata Aria
+Posizione Assoluta di Valvola a Farfalla
+Tensione di Sensore Ossigeno/ Assetto Carburante a Breve Termine Associato
+Stato del Sistema di Carburante
+Pressione di Carburante
+
+Protocolli Compatibili: 
+ISO 9141-2 (5 baud init, 10.4 kbaud) 
+ISO 14230-4 KWP (5 baud init, 10.4 kbaud) 
+ISO 14230-4 KWP (fast init, 10.4 kbaud) 
+ISO 15765-4 CAN (11 bit ID, 500 kbaud) 
+ISO 15765-4 CAN (29 bit ID, 500 kbaud) 
+ISO 15765-4 CAN (11 bit ID, 250 kbaud) 
+ISO 15765-4 CAN (29 bit ID, 250 kbaud) 
+SAE J1850 PWM (41.6 kbaud) 
+SAE J1850 VPW (10.4 kbaud) 
+
+
+
+Software Compatibili:
+Torque(Può essere scaricata da Mercato Android)
+Scantool_net113win (Versione Completa)
+EasyOBDII V2.2 (Versione Completa)
+OBD2Spy (Versione Demo)
+ScanMaster-ELM (Versione Demo)
+WOBDCRAZY (Versione Demo)
+
+Veicoli compatibili: 
+Tutti i veicoli dopo 1996 di US
+
+Nota:
+Non è compatibile con iPhone o iPad.
+
+La confezione include:
+1 X OBD-II Scanner Diagnostica Avanzata da Auto con Bluetooth
+1 X CD Driver (Scarica qui)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

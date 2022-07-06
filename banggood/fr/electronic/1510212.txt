@@ -1,0 +1,195 @@
+https://fr.banggood.com/TWO-TREES-CNC-Shield-+-UNO-R3-Board-+4x-A4988-Stepper-Motor-Driver-+4x-4401-Stepper-Motor-Kit-for-3D-Printer-p-1510212.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+TWO TREES® CNC Shield + carte UNO R3 + 4x A4988 pilote de moteur pas à pas + 4x 4401 kit de moteur pas à pas pour imprimante 3D
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+
+
+
+
+Dernière version 3.0 du bouclier CNC
+
+Compatible GRBL 0.8c. (Micrologiciel open source qui fonctionne sur un UNO qui transforme les commandes G-code en signaux pas à pas)
+
+Prise en charge 4 axes (X, Y, Z, A-Peut dupliquer X, Y, Z ou faire un 4ème axe complet avec un micrologiciel personnalisé à l'aide des broches D12 et D13)
+
+2 x butées pour chaque axe (6 au total)
+
+Activation et direction de la broche
+
+Activation du liquide de refroidissement
+
+Utilise des pilotes pas à pas compatibles Pololu A4988 amovibles. (A4988, DRV8825 et autres)
+
+Cavaliers pour définir le Micro-Stepping pour les pilotes pas à pas. (Certains pilotes comme le DRV8825 peuvent faire jusqu'à 1/32 de micro-pas)
+
+Les moteurs pas à pas peuvent être connectés avec des connecteurs molex à 4 broches ou soudés en place
+
+Fonctionne sur 12-36V DC. (Pour le moment, seuls les pilotes Pololu DRV8825 peuvent gérer jusqu'à 36V, veuillez donc tenir compte de la tension de fonctionnement lors de l'alimentation de la carte.)
+
+
+
+
+Emballage inclus:
+
+
+1 x CNC Shield V3.0
+
+1 x carte UNOR3
+
+Pilote 4 x A4988
+
+Moteur pas à pas 4 x 4401
+		1 x câble USB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

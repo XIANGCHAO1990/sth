@@ -1,0 +1,200 @@
+1112140
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/64/14/c81e0c94-d03e-41df-a8da-f30a43d89032.jpg
+Geekcreit® LCR-T4 Mega328 Transistor Testeur Diode Triode Capacité ESR Mètre Avec Shell
+https://fr.banggood.com/Geekcreit-LCR-T4-Mega328-Transistor-Tester-Diode-Triode-Capacitance-ESR-Meter-With-Shell-p-1112140.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spécifications:
+
+Résistance: 0.1ω-50Mω
+Condensateur: 25pF-100000uF
+Inductance: 0.01mH - 20H
+Puissance de travail: DC-9V
+Courant de veille: 0.02uA
+Courant de fonctionnement: 25mA
+Matière: métal + plastique
+Taille: environ 11.1cm / 4.37 "x2.6cm / 1.02" x8.5cm / 3.34 "
+[Conversion: 1 cm = 0,3937 pouce, 1 pouce = 2,54 cm]
+
+Description:
+
+1. Ajouter la fonction de détection de tension de démarrage
+2. Détection automatique des transistors NPN et PNP, MOSFET à canal N et à canal P, diodes (y compris double diode), thyristors, transistors, résistances
+Et condensateurs et autres composants
+3. Test automatique de l'élément de broche et affiché sur le LCD
+4. Peut être détecté pour déterminer la tension de polarisation directe d'émetteur de transistor du transistor, la diode de protection de MOSFET et le facteur d'amplification de
+La base
+5. Mesurez la tension de seuil de la porte et la capacité de grille du MOSFET
+6. 1602 affichage à cristaux liquides utilise LCD (12864 LCD avec rétro-éclairage)
+7. Haute vitesse d'essai, test de composant valide: 2 secondes (sauf dans le plus grand condensateur de mesure de grande capacité prend également beaucoup de temps, le
+Le temps mesuré d'une minute est normal)
+8. One opération de bouton, test de mise sous tension, obtenir une clé
+9. Mode de consommation d'énergie éteinte: moins de 20 nA de
+10. Fonction de mise hors tension automatique pour éviter le gaspillage inutile, économie de la batterie, durée de vie de la batterie améliorée
+
+Remarque:
+
+Batterie n'est pas inclus.
+
+Emballage inclut:
+
+1 x LCR-T4 Transistor Testeur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

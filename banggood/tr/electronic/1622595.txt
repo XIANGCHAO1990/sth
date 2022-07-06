@@ -1,0 +1,404 @@
+https://tr.banggood.com/Hiseeu-4K-8MP-POE-NVR-8CH-Audio-ONVIF-H_265-Surveillance-Security-Video-Recorder-for-POE-IP-1080P-4MP-5MP-8MP-Camera-p-1622595.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Hiseeu 4K 8MP POE NVR 8CH Ses ONVIF H.265 POE için Gözetim Güvenlik Video Kaydedici IP 1080P 4MP 5MP 8MP Kamera
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikler :
+
+
+8 x 8MP/4K IP Kameraya kadar destekler, Ethernet Üzerinden 8 Kanallı Güç
+	Onvif desteği.
+	Onvif ile uyumlu Dahua/Hikvision/Hiseeu POE IP Kameralar ile uyumludur.
+
+	POE kurulumunu basitleştirin.
+	Ethernet Üzerinden Güç, IP kameraların hem veri hem de güç ileten tek bir kabloyla NVR'ye bağlandığı anlamına gelir, Güç kablosu bağlamaya gerek yoktur, elektrik kaçağı riskini azaltır ve kurulumu kolaydır. Bu, kurulumu tam anlamıyla basitleştirdi ve maliyetleri düşürdü.
+	Daha fazla Depo alandan tasarruf edin ve H.265 ile daha akıcı bir akış elde edin.
+	Gelişmiş H.265 sıkıştırma teknolojisi, daha uzun kayıt süreleri sağlayan Depo alandan tasarruf etmenizi sağlar. H.265 teknolojisi, UltraHD video kalitesinden ödün vermeden videonuzu sıkıştırır.
+
+	6 TB'a kadar Sabit Diskleri, 7/24 Sürekli Kayıt ve Korumayı destekler.(Sabit disk dahil değildir).
+	Harici uzaktan kumanda mevcuttur.
+	Hiseeu 4K POE CCTV Kamera Sistemini ekrana bağlarken, çalıştırmak için farenin yerini harici bir uzaktan kumanda alabilir.
+
+	Anında Hareket Uyarıları.
+	Hiseeu 4k poe cctv sistemi, hareketli nesneleri algıladığında ve tehlikeler oluştuğunda uyarıları tetiklediğinde, mesaj göndererek veya e-posta göndererek sizi anında bilgilendirecektir.
+	8MP/4K'ya Kadar Çözünürlükte Gerçek Zamanlı 15fps'de Oynatma ve Canlı Görüntü.
+	Akıllı Telefon, Pad/PC ile her yerde, her zaman görüntülemek için uzaktan kumanda.
+
+	Nerede olursanız olun, canlı akışı izlemek ve bağlantıda kalmak için Hiseeu 4K POE CCTV Sistemine uzaktan erişebilirsiniz.
+	Ultra HD 4K Çözünürlük
+	8CH 4K POE NVR.
+	720p/1080p/3MP/4MP/5MP/8MP/4K POE IP Kameraları destekler.
+	Çoklu Dil mevcuttur.
+	Hiseeu 4K POE NVR varsayılan olarak İngilizce olarak görüntülenir, Rusça, İspanyolca, Fransızca, Portekizce, vb.'ye geçişi sağlar.
+
+
+Şartname :
+
+
+
+
+
+
+Şartname
+
+H.265 8CH POE NVR ONVIF
+
+
+
+sistem
+
+Ana işlemci
+
+Teknik sınıf gömülü mikroişlemci
+
+
+
+İşletim sistemi
+
+Gömülü LINUX işletim sistemi
+
+
+
+sistem kaynağı
+
+Çok kanallı gerçek zamanlı eşzamanlı kayıt, çok kanallı gerçek zamanlı oynatma, çok kanallı çok kullanıcılı ağ çalışması, USB yedekleme.
+
+
+
+Arayüz
+
+Çalışma arayüzü
+
+16bit gerçek renkli GUI arayüzü, fare işlemini destekler
+
+
+
+Ön izleme
+
+1/4/8
+
+
+
+Video
+
+video standardı
+
+PAL; NTSC
+
+
+
+Görüntü kodlaması
+
+H.265
+
+
+
+Monitör kalitesi
+
+VGA,HDMI:Yüksek tanımlı
+
+
+
+Video girişi
+
+8*4K IP Kamera
+
+
+
+Hareket algılama
+
+Destek (Kameraya bağlıdır)
+
+
+
+Ses
+
+Ses sıkıştırma
+
+G.711A
+
+
+
+interkom
+
+Evet
+
+
+
+Kayıt ve Oynatma
+
+Kayıt modu
+
+manuel>alarm>hareket algılama>zamanlama
+
+
+
+Yerel oynatma
+
+4K
+
+
+
+Video arama
+
+Saat, tarih, olay, kanal arama
+
+
+
+Depolama ve Yedekleme
+
+video Depo
+
+Yerel HDD, Ağ
+
+
+
+Yedekleme modu
+
+Ağ yedekleme, USB taşınabilir HDD, USB bağlantı noktası, SATA bağlantı noktası
+
+
+
+Arayüz
+
+Video girişi (BNC)
+
+Yok
+
+
+
+Video çıkışı
+
+1 kanal VGA, 1 kanal HDMI HD çıkışı
+
+
+
+döngü çıkışı
+
+Yok
+
+
+
+Ses çıkışı
+
+3.5mm Ses Çıkışı Bağlantı Noktası
+
+
+
+Alarm G/Ç
+
+NUMARA
+
+
+
+Ağ bağlantı noktası
+
+1*RJ45 1000M kendinden uyarlamalı Ethernet bağlantı noktası;8*POE bağlantı noktaları poe güç kaynağını destekler
+
+
+
+PC/Dizüstü Bilgisayar Uzakdan Kumanda
+
+Destek web, PC İstemcisi "VMS"; iPhone/Andriod/Pad ücretsiz APP "Danale"
+
+
+
+USB girişi
+
+3 * USB2.0 bağlantı noktası, ikisi fare içindir, diğeri usb disk içindir
+
+
+
+HDD bağlantı noktası
+
+1 SATA bağlantı noktası, maksimum destek 6 TB (HDD isteğe bağlıdır)
+
+
+
+Diğer
+
+Güç
+
+48V/3A
+
+
+
+ONVIF
+
+ONVIF'i destekleyin, üçüncü taraflara erişin
+
+
+
+Hava sıcaklığı
+
+-25°C ila 50°C (-13° ila 122°)
+
+
+
+Nem
+
+%10-%90
+
+
+
+Boyut
+
+U*G*Y: 252 mm * 230 mm * 40 mm
+
+
+
+
+
+
+Paket içeriği:
+
+
+1 x 8CH 4K POE NVR
+		1 x Uzakdan Kumanda
+		1 x USB Mouse
+		1 x Kullanım Kılavuzu
+		1 x 48V/3A Güç Kaynağı (AB Fişi)
+
+***HDD dahil değildir***
+
+
+Ayrıntılar resimleri:
+
+
+
+
+

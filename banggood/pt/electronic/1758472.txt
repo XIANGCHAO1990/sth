@@ -1,0 +1,143 @@
+https://pt.banggood.com/AOQDQDQD-Module-Sensor-Kit-For-Arduino-with-0_96-inch-OLED-1602-LCD-Display-Relay-Servo-Motor-DHT11-for-Starter-Projects-p-1758472.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+AOQDQDQD® Module Sensor Kit For Arduino with 0.96" OLED 1602 LCD Display Relay Servo Motor DHT11 for Starter Projects
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:Sensor do módulo starter kit para Arduino Raspberry PiOLED de 0,96 ”: feito de pixels OLED azuis amarelos individuais de 128x64. O driver chip SD1306, controlado por I2C, precisa apenas de 2 fios.1602 LCD: Branco Azul com luz de fundo ajustável, display 2x16 caracteres. Com placa adaptadora, só precisa de 4 portas de E / S para controlá-lo.Sensor de toque: toque para ligar, solte-o para desligar.Módulo de prevenção de obstáculos: usado na prevenção de obstáculos do robô, contagem de linha, rastreamento de linha branca preta.8x8 Red Dot Matrix Display: usado para exibir personagens e gráficos, simples de controlar Módulo de relé de 1 canal: Controlado pela saída digital 5V do microcontrolador, com alimentação e indicador de ação de relé. Usado como controle de eletrodomésticos.Sensor de movimento PIR: sensor de corpo humano, automação e controle industrial de iluminação, etc.Servo Motor SG90 9G: Aplicado a helicópteros de controle remoto, micro robô e barcos. Para todo o tipo de brinquedos R / C e para Arduino experiências.DHT11: O sensor digital de temperatura e umidade é uma saída de sinal digital com um sensor combinado de temperatura e umidade calibrado Sensor de umidade do solo: Mais sensível à umidade do ambiente, geralmente é usado para detectar a umidade do solo.Módulo JoyStick: módulo de botão de pressão de 2 eixos por potenciômetro joystick com (X, Y) saída analógica de 2 eixos, (Z) saída digital de 1 botão.Vermelho LED Tubo digital: ânodo comum; Visor digital: 4 dígitos; 4 bits 7 segmentos; Sensor de distância ultrassônico: usando o gatilho IO para pelo menos 10us de sinal de alto nível, quando acionado, ele envia uma série de pulsos ultrassônicos de 40KHz e recebe eco de um objeto  Incluído no Pacote:Tela OLED de 1 x 0,96 polegadas1 x 1602 Módulo de exibição de cristal líquido1 x Módulo de relé de 1 canal1 x DHT11 sensor de temperatura e umidade1 x HC-SR04 sensor ultrassônico1 x 8x8 Dot Matrix Display1 x Módulo JoyStick1 tubo digital de 4 dígitos1 x TTP223B sensor de toque1 x HC-SR501 sensor infravermelho1 x umidade do solo Sensor1 x Evitar Obstáculos Sensor1 x SG90 servo motor 9G2 x tábua de pão20 x diodo (vermelho)30 x resistência (220 1K 10K Ω)20 x cabo DuPont (macho para fêmea)
+
+
+
+

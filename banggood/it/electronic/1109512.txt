@@ -1,0 +1,183 @@
+https://it.banggood.com/ESP32-Development-Board-WiFi+bluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1109512.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+ESP32 Scheda di Sviluppo WiFi + Bluetooth Ultra-Basso Consumo Doppio Core Scheda ESP-32 ESP-32S
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduzione:
+
+ESP32 è antenna già integrata e balun RF, amplificatore di potenza, amplificatori a basso rumore, filtri,
+e il modulo di gestione dell'alimentazione. L'intera soluzione prende la meno quantità di area circuito stampato.
+Questa scheda è utilizzata con 2.4 GHz doppio-modalità wi-Fi e Bluetooth chip con tecnologia a bassa potenza TSMC a 40nm,
+potenza e proprietà RF migliori, che è sicuro, affidabile e scalabile per una varietà di applicazioni.
+
+Caratteristiche:
+
+Elevato rapporto prestazioni-prezzo
+Piccolo volume, inserisce facilmente ad altri prodotti
+Forte funzione con il supporto del protocollo LWIP, Freertos
+Suppora tre modalità: AP, STA e AP + STA
+
+
+Supporta il programma lua, sviluppare facilmente 
+
+
+
+Scheda di sviluppo:https://github.com/Nicholas3388/LuaNode
+
+
+
+
+
+
+
+
+La confezione include:
+
+1 x ESP32 Scheda di Sviluppo 
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,
+
+

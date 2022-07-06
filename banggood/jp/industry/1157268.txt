@@ -1,0 +1,263 @@
+https://jp.banggood.com/FY3224S-(FY3200S-24M)-24MHz-Dual-channel-Arbitrary-Waveform-DDS-Function-Signal-Generator-Sine-Square-Wave-Sweep-Counter-p-1157268.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+FY3224S（FY3200S-24M）24MHzデュアルチャネル任意波形DDS機能信号発生器正弦方形波スイープカウンター
+
+
+
+
+
+
+
+互換性
+このパーツがあなたの車両に合っていることを確認し、車両の詳細を下に記入してください。
+
+
+
+
+
+年:
+
+
+選択
+
+
+
+
+
+
+
+
+メイク:
+
+
+選択
+
+
+
+
+
+
+
+
+モデル:
+
+
+選択
+
+
+
+
+
+
+
+
+サブモデル:
+
+
+選択
+
+
+
+
+
+
+
+
+トリム:
+
+
+選択
+
+
+
+
+
+
+
+
+エンジン:
+
+
+選択
+
+
+
+
+
+
+
+
+全てをクリア
+
+
+
+
+に適用します。 0 車両.
+すべての互換車両を表示する
+
+
+
+
+  に適用します。 1 車両 マッチング 
+ この部分は互換性がありません
+
+
+
+最近の検索
+
+
+
+
+
+
+
+
+
+
+
+年
+メイク
+モデル
+サブモデル
+トリム
+エンジン
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+説明：
+
+
+
+FY3224S24MHzデュアルチャネル任意波形DDS機能信号発生器正弦方形波掃引カウンタ
+
+
+
+Feアトゥレス： 
+
+
+
+	出力信号周波数高精度、良好な安定性。
+	最大20Vppの信号振幅。
+	計測器は、使いやすい機能パラメータの調整プログラムを実現できます。
+	付属の周波数計、カウンター機能、高コスト。
+	計測器は、正弦波、方形波、三角波、ランプ、パルス、階段、DC電圧波形を出力できます。
+	脈波のパルス幅の精度は調整可能です。
+
+
+
+関数：
+
+	1. Using DDS direct digital synthesis technology to generate precise, stable, low distortion output signal.
+	2. CH1とCH2は完全に対称的な2つのチャネルであり、各チャネルは個別にパラメータを設定できます。
+	3. Supports user-defined waveforms, each arbitrary waveform memory depth 2048 x 12bits, 250MSa / s sampling rate.
+	4.バーストバースト出力、選択可能な手動トリガー、内部および外部トリガーCH2トリガーを備え、ユニットが任意の出力1〜1048575バーストを実行できるようにする3つのトリガーモード。
+	5. Measurement functions: instrument comes with 100MHz frequency counter functions and pulse counter functions.
+	6.最大12ビット幅の波形発生器。出力波形はより繊細で、波形の歪みは小さくなります。
+	7. With full CNC functions, display and digital adjustment phase current amplitude of the output signal, offset, frequency, duty cycle, and the two signals.
+	8.機器をコンピュータに接続した後、PC制御信号発生器の機能とパラメータを介してコンピュータを使用でき、コンピュータで編集して任意波形出力波形を機器にダウンロードできます。
+
+	9.通信：シリアル通信、完全にオープンなプロトコル、ユーザーフレンドリーな二次開発。
+	10. High frequency accuracy: frequency accuracy up to 10-6 magnitude.
+	11.高周波分解能：周波数分解能10mHzの全範囲。
+	12. Tracking function: built-in frequency, amplitude, offset, duty cycle, waveform and other parameters follow function, easy to use.
+	13.スキャン機能：周波数線形スイープと対数スイープ機能、スキャンの開始点と終了点を設定できます。
+	14. Storage feature: You can store 20 groups instrument state parameters set by the user, can be called up to Reproduce
+	15.操作：キー操作、英語のLCD1602 LCDディスプレイ、直接デジタル設定パラメーターまたは連続調整ノブ。
+	16. Input voltage protection: extended power input range AC85V to AC240V wide voltage.
+	17.出力短絡保護：すべての信号出力は、過負荷短絡60Sで動作できます。
+
+
+
+
+
+
+
+
+
+
+技術的パラメータ：
+	内蔵スイッチング電源：AC85V-AC260V
+	Interface: USB
+
+信号出力：
+	出力振幅：≥≥20Vp-p（無負荷）
+	Output Impedance: 50Ω ± 10%
+	DC分極：±10V
+	Frequency range: 0Hz - 24MHz (orther  0Hz - 6MHz)
+
+カウンター：
+	カウント範囲：0-4294967295             
+	Measurement frequency range: 1Hz - 100MHz
+	入力振幅：1Vp-p-20Vp-p
+
+スキャン機能：
+	スキャンモード：線形スイープ、対数スキャン
+	Frequency Range: Start and end points set arbitrary
+	周波数スキャン範囲：M1-M2所定の周波数
+	Scan rate: 1s ~ 999s / step
+
+その他：
+	ストレージおよび転送された機能：M0-M9（M0：デフォルト）
+	Size: 200mm (L) × 190mm(W) × 90mm(H)
+	ブザー機能：プログラムによってオープンまたはクローズを設定します
+	Operating characteristics: All key operation, continuous adjustment knob
+	環境条件：温度0〜40℃湿度<80％
+
+>>> CLICKここでCD内のすべてのファイルをダウンロードします<<<
+	>>>CLICK here to download the user manual<<<
+
+
+
+パッケージに含まれるもの： 
+
+
+
+1 x FY3224S24MHzデュアルチャネルDDS機能信号発生器
+
+1 x1M電源ケーブル
+1 x 1.25MUSBケーブル
+2 x 1.1MQ9ケーブル
+注：それはUSプラグタイプです、あなたの国に応じてプラグアダプターを送ります。
+
+詳細写真： 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

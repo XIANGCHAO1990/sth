@@ -1,0 +1,224 @@
+https://fr.banggood.com/NanoVNA-H4-4-inch-LCD-50KHz~1_5GHz-VNA-HF-VHF-UHF-UV-Vector-Network-Analyzer-p-1641897.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+NanoVNA-H4 4" LCD 50KHz ~ 1.5GHz VNA HF VHF UHF UV Analyseur de réseau vectoriel
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:
+
+
+- Avec la méthode de gradation CC, l'écran plein écran 4" LCD peut être vu plus clairement pour les utilisations en extérieur et plus confortable pour les utilisations en intérieur.
+
+- Pont électrique optimisé : tirant pleinement parti des harmoniques du Si5351, il peut utiliser l'harmonique 5th pour mesurer jusqu'à 1,5 GHz.
+
+- Lorsque l'onde fondamentale est utilisée, le niveau de sortie de CH0 est augmenté à 0 dBm, ce qui rend la mesure de réflexion plus précise.
+
+- Résolution de l'anomalie du NanoVNA-H lorsqu'il fonctionnait à environ 6 MHz auparavant.
+
+- Le circuit de gestion de l'alimentation repensé réduit le bruit de l'alimentation, les interférences de l'alimentation USB et le courant de charge.
+
+- Amélioration de la disposition des circuits imprimés.
+
+- Interface UART réservée pour l'extension DIY.
+
+- La coque légère ABS maintient l'appareil bien protégé.
+
+-Le logiciel informatique prend en charge le contrôle et l'affichage en temps réel. Et il prend en charge l'exportation de fichiers snp pour divers logiciels de conception et de simulation radio.
+
+- En tant qu'appareil de mesure, la précision est d'une grande importance. Des pièces d'étalonnage simples sont incluses dans l'emballage. Nous avons calibré les doubles ports du produit avant la livraison. Lorsque vos conditions de mesure changent (par exemple, en passant d'une bande passante d'étalonnage plus étroite à une bande passante de mesure plus large avec une mesure de câble d'extension), vous devez recalibrer. Après l'étalonnage, il est enregistré sous le paramètre 0, qui peut être utilisé directement au prochain démarrage, ou il peut être enregistré dans les 4 autres éléments enregistrés via un rappel si nécessaire.
+
+
+
+Paramètres:
+
+
+1. ABS Coque : 75 mm x 133 mm x 18 mm (à l'exclusion des saillies)
+
+2. Fréquence de mesure : 50 KHz ~ 1,5 GHz
+
+3. Sortie RF : 0 dbm (± 2 dB, onde fondamentale)
+
+4. Précision de fréquence : <2ppm
+
+5. Stabilité de fréquence : <0,5 ppm
+
+6. Plage de mesure : 70 dB (50 kHz-300 MHz), (60 dB (300 M-900 MHz), 40 dB (0,9 G-1,5 GHz) permettent l'extension du micrologiciel)
+
+(Remarque: veuillez faire attention à l'erreur causée par les transformations non linéairesisur l'onde fondamentale lors de l'utilisation de la mesure harmonique.)
+
+7. ROS du port : <1,1
+
+8. Affichage : 4" TFT (320 x 480)
+
+9. Interface USB : USB type-C ; Mode de communication : CDC (série)
+
+10. Alimentation : USB 5V 200mA. Courant de charge maximum 1A
+
+11. Nombre de points d'étalonnage : 101 (fixe)
+
+12. Nombre de points de numérisation : 101 (fixe)
+
+13. Suivi de l'affichage : 4, Marquage : 4, Réglage de sauvegarde : 5
+
+14. Mesure des paramètres S, du rapport d'onde stationnaire de tension, de la phase, du retard, du diagramme de Smith, de l'analyse du domaine temporel, etc.
+
+
+
+Forfait lInclus :
+
+
+1 x NanoVNA-H4  
+
+2 x 15 cm SMA Câbles RF mâle à mâle RG316
+
+1 x SMA connecteur femelle à femelle
+
+1 x SMA Kit d'étalonnage simple COURT
+
+1 x SMA Kit d'étalonnage simple OUVERT
+
+1 x SMA Kit d'étalonnage simple CHARGE
+
+1 x câble de données USB Type-C
+
+1 x Type-C à Type-C (Pour la connexion de téléphone mobile Android)
+
+Détails Photos:
+
+
+
+
+

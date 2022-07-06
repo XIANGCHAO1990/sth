@@ -1,0 +1,260 @@
+https://es.banggood.com/KP184-DC-Electronic-Load-Battery-Capacity-Tester-RS485-or-232-400W-150V-40A-AC220V-Professional-Battery-Tester-p-1566483.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+KP184 DC carga electrónica Batería probador de capacidad RS485/232 400W 150V 40A AC220V profesional Batería probador
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Descripción:
+
+
+
+La carga electrónica de la serie KP184 se puede aplicar ampliamente a las pruebas de producto y al envejecimiento en la iluminación LED, la fuente de alimentación, el cargador y el acumulador. El modo actual se puede demandar para simular una carga resistiva para descargar la batería y cargar la fuente de energía; el modo de voltaje se puede usar para simular la carga capacitiva y cargar la carga, así como simular el voltaje constante de LED y cargar la fuente de energía. Se usa de forma simple, se ajusta convenientemente y tiene una función de protección perfecta. El rendimiento y la función no tienen comparación con la resistencia de cable deslizante tradicional. Si se usa para industrias relacionadas, podría mejorar la productividad y reducir el costo.>>Sofware: Click here.<<
+>>Manual: Click here <<
+
+Características:
+
+
+
+1. Tiene cuatro modos de carga básicos como CC, CV, CW y CR.
+
+2. Ingrese protección de transposición positiva y negativa y dé alarma
+
+3. La estructura de radiación de calor optimizada logra una alta densidad de potencia;
+
+4. Modo de control digital, alta precisión y buena estabilidad.
+
+5.Tiene protección contra sobretensión, sobrecorriente, sobrepotencia y sobretemperatura;
+
+6. Función de medición de voltaje de extremo lejano (sentido remoto)
+
+7. Función de prueba automática, señal de activación I/0 externa, señal de indicación PASA, FALLA;
+
+Función de prueba dinámica de 8,10 KHz;
+
+9. Función de prueba de capacidad de la batería;
+
+10. Prueba de resistencia interna de la batería.
+
+11. Punto de protección contra sobrecorriente/función de prueba de tiempo de protección
+
+12. Control de temperatura del ventilador PWM;
+
+13Fuente de alimentación 110VAC/220VAC uso por turnos
+
+14. Interfaz de comunicación RS485 y 232
+
+15. Función de operación síncrona de múltiples dispositivos cargados en línea
+
+16. Soporte de software de computadora superior con función potente e interfaz amigable
+
+
+
+Especificación:
+
+
+
+Consumo de energía: < 20 W
+
+Tensión de carga: CC 1 -150 V
+
+Corriente de carga: 0-40A
+
+Potencia de carga: 0-400W
+
+Precisión de medición Corriente: ±0.05%+5mA
+
+Voltaje de precisión de medición: ± 0.05% + 5mV
+
+Precisión de control Corriente: ±0.05%+5mA
+
+Precisión de control Voltaje: ±0.05%+5mV
+
+Modo de comunicación: RS232/RS485
+
+Sobretensión: cuando el voltaje es superior a 152 V, la carga se apaga.
+
+Sobre temperatura: 85 ℃
+
+Superpotencia: Canal único: 410W
+
+Fusible de entrada de alimentación: 0,5
+
+Tamaño: 300*90*180mm/11,8*3,5*7,1 pulgadas
+
+Peso: aprox. 4000 g/141,1 oz
+
+
+
+El paquete incluye:
+
+
+1 carga electrónica KP184 DC
+
+1 x enchufe (UE)
+
+1 terminal de compensación Control remoto
+
+2 terminales de prueba positivos y negativos
+
+1 cable de comunicación 232
+
+2 cables de prueba.
+
+1 manual de usuario
+
+
+
+Nota:
+
+Le enviaremos un adaptador de enchufe según su país.
+
+
+Nota:
+
+Esta carga de CC admite la programación de software secundario, esperamos que usted mismo tenga el software;
+
+Si no lo tiene, podemos enviárselo como un obsequio gratuito, el software es solo un obsequio, no los productos, por lo que esperamos que sea un profesional en el uso del software; es un Software libre y de desarrollo; es solo para el sistema Win7 o IE
+
+Cuadros de los detalles:
+
+
+
+
+
+
+
+

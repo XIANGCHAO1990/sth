@@ -1,0 +1,315 @@
+1356031
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/82/96/7ec6d381-6375-4a2c-bcfb-326924a34787.jpg
+PZEM-022 Apertura y cierre CT 100A CA Digital Pantalla Potencia Monitor Medidor Voltímetro Amperímetro Frecuencia
+https://es.banggood.com/PZEM-022-Open-and-Close-CT-100A-AC-Digital-Display-Power-Monitor-Meter-Voltmeter-Ammeter-Frequency-p-1356031.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características:
+
+
+1. Función de medición de parámetros eléctricos (voltaje, corriente, potencia activa, energía, frecuencia, factor de potencia)
+
+2. Función de alarma de sobrecarga (sobre el umbral de alarma de potencia, luz de fondo y encendido parpadeando a la alarma)
+
+3.Función preestablecida de umbral de alarma de potencia (puede configurar el umbral de alarma de potencia)
+
+4. La energía se puede restablecer con la tecla
+
+5. Almacenar datos cuando se apaga
+
+6. Pantalla grande LCD 
+
+7. Función de luz de fondo
+
+8. Función clave
+
+
+♦Control de luz de fondo
+
+Presione brevemente la tecla para encender o apagar la luz de fondo, la luz de fondo tiene función de memoria, puede almacenar el estado de encendido o apagado cuando se apaga.
+
+
+♦Restablecer energía
+
+Paso 1: mantenga pulsado el durante 5 segundos hasta que el valor de energía parpadee, luego suelte la tecla.
+
+Paso 2: presione brevemente la tecla nuevamente, luego el valor de energía se borrará y saldrá del estado de reinicio intermitente.
+
+Paso 3: Si no se realiza ninguna operación en la tecla en 5 segundos, significa que el valor de energía no se borra y saldrá del estado de reinicio.
+
+
+♦Establecer umbral de alarma de potencia 
+
+Paso 1: Mantenga presionada la tecla hasta que la pantalla LCD muestre "SET CLr", luego suelte la tecla para ingresar al estado de configuración
+
+Paso 2: la ventana de energía muestra el valor actual de la alarma de energía y el último dígito comienza a parpadear, luego puede presionar brevemente a más 1, cuando no hay operación durante 3 segundos, cambiará la posición del dígito automáticamente, el método de configuración es el mismo como el anterior.
+
+Paso 3: Después de finalizar la configuración, mantenga presionada la tecla durante 5 segundos para almacenar automáticamente y salir, el rango de umbral de potencia activa es de 0.0 ~ 2.5kW. puede mostrar seis parámetros al mismo tiempo.
+
+
+
+Especificaciones:
+
+
+1. Voltaje de funcionamiento: 80 ~ 260 VCA
+
+2. Prueba de voltaje: 80 ~ 260VAC
+
+3. Potencia nominal: 100A / 22000W
+
+4. Frecuencia de funcionamiento: 45-65 Hz
+
+5. Precisión de la medición: grado 1.0
+
+Desplegar formato:
+
+
+1.Potencia
+	Rango de prueba: 0 ~ 22000 W
+	Potencia de medida inicial: 0,2 W
+
+<Formato de pantalla de 10 W: 1,00 ~ 9,99 W
+
+<Formato de visualización de 100 W: 10,0 ~ 99,9 W
+
+<Formato de visualización de 1000 W: 100 ~ 999 W
+
+<Formato de pantalla de 10000 W: 1,00 ~ 9,90 kW
+
+Formato de visualización ≥10000W: 10.0 ~ 22.0kW
+
+
+2.Energía
+	Rango de prueba: 0 ~ 999kWh
+
+<1kWh formato de visualización: 0 ~ 999Wh
+
+<10kWh formato de visualización: 1,00 ~ 9,99kWh
+
+≥10kWh formato de visualización: 10 ~ 999kWh
+
+
+3.voltaje
+	Rango de prueba: 80 ~ 260 V
+
+Formato de visualización: 80 ~ 260 V
+
+
+4.Actual
+	Rango de prueba: 0 ~ 100A
+	Corriente de medida inicial: 0.001A
+
+<10A formato de visualización: 0.000 ~ 9.000A
+
+Formato de visualización ≥10A: 10.00 ~ 99.99A
+
+
+5.Frecuencia
+	Rango de prueba: 45 ~ 65 Hz
+
+Formato de visualización: 45 ~ 65 Hz
+
+
+6.factor de potencia
+	Rango de prueba: 0 ~ 1PF
+
+Formato de visualización: 0.00 ~ 1.00PF
+
+
+
+Precauciones:
+
+
+1. Este módulo es adecuado para interiores, no lo utilice en exteriores.
+
+2. La carga aplicada no debe exceder la potencia nominal.
+
+3. El orden de cableado no puede ser incorrecto.
+
+El paquete incluye:
+
+		1 x Apertura y cierre CT Power Monitor
+
+Cuadros del detalle:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

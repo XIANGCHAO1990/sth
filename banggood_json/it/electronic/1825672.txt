@@ -1,0 +1,167 @@
+1825672
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/2C/AB/67513bf2-d9bd-49e2-afb9-f3429880baf8.jpg
+ELEGOO® SATURN MSLA 4K 8,9 "MONOCROMATICA LCD Stampante 3D in resina UV Fotocuring LCD Stampante 3D in resina con monocromatico 4K LCD / Matrix UV luce a led Origine / Off-Line / Stampa WLAN / Dimensioni di stampa 192x120x200mm
+https://it.banggood.com/ELEGOO-SATURN-MSLA-4K-8_9-inch-MONOCHROME-LCD-Resin-3D-Printer-UV-Photocuring-LCD-Resin-3D-Printer-with-4K-Monochrome-LCD-or-Matrix-UV-LED-Light-Source-or-Off-Line-or-WLAN-Print-or-Print-Size-192x120x200mm-p-1825672.html?cur_warehouse=USA&ID=47757&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I prodotti non verranno più inviati con schede SD e schede USB e TF.Please download the SD card file hereCaratteristiche: Velocità di stampa più veloce
+ - La stampante Saturn 3D è dotata di un LCD monocromatico 4K da 8,9 pollici con una risoluzione HD di 3840 x 2400, riducendo il tempo di stampa dello strato a 1,5 s-2 s, che è il 60% più veloce di Mars Pro ma offre comunque risultati di stampa eccezionali.Volume di costruzione maggiore - Saturn ha un ampio volume di stampa di 192 * 120 * 200 mm / 7,55 pollici * 4,72 pollici * 7,87 pollici e puoi stampare più modelli a grandezza naturale contemporaneamente, il che può migliorare notevolmente la tua produttività.
+
+ Maggiore precisione e stampa più semplice - L'asse Z utilizza una struttura a doppia guida lineare, che può ottenere un movimento più stabile e una precisione di movimento notevolmente migliorata. Con la porta Ethernet sul retro e un disco dati integrato da 4 GB, Saturn ora supporta il trasferimento di file attraverso la rete locale, che è molto utile per la stampa veloce.
+
+Stampe di qualità e successo costante - La sorgente luminosa Matrix è composta da 54 luci UV LED con emissione di luce uniforme, garantendo risultati di stampa superiori e dimensioni di stampa più accurate. Le viti di fissaggio sulla piastra di costruzione assicurano un livellamento duraturo, non è necessaria una calibrazione frequente e la superficie sabbiata fornisce un'aderenza molto più forte, soprattutto quando si stampano modelli 3D di grandi dimensioni.Forniamo una garanzia di 1 anno su tutta la stampante (LCD 4K, pellicola FEP e kit di strumenti esclusi). Alcuni file da scaricare:* Firmware1.Firmware più recente: Fare clic per scaricare: V4.3.192.Firmware necessario per l'aggiornamento dopo la sostituzione del display LCD: Fare clic per scaricareCome sostituire il display LCD: https://youtu.be/NJhucYuSjjk3.Parametri macchina: Fare clic per scaricare*Attenzione: 
+ Assicurati che questo firmware corrisponda alla tua stampante, un aggiornamento errato su stampanti diverse potrebbe renderlo inutilizzabile. In caso di problemi con il firmware, contattare il nostro team di supporto all'indirizzo 3dp@elegoo.com con il numero di lotto etichettato nella parte inferiore della stampante, faremo del nostro meglio per aiutarti.* Come aggiornare:Passaggio 1: copiare il file nella directory principale dell'unità flash USBPassaggio 2: inserire l'unità flash USB nella stampantePassaggio 3: stampare il file sulla stampante da aggiornare.* Tutorial videoHow to replace the Mono LCD screen2. How to replace the FEP3. How to replace the motherboard* File del driver USB: Fare clic per scaricare USB DRIVE FILES (MANUAL & SLICING SOFTWARE INCLUDED)* Impostazione della resina 1. Suggerimenti ufficiali per la resina ELEGOO su stampanti ELEGOO:  Foglio di impostazione della resina delle stampanti ELEGOO2. Suggerimenti non ufficiali per la maggior parte delle marche di resina sulle stampanti ELEGOO Saturn Seires (Contributo dei membri della nostra comunità):Impostazioni della resina per le stampanti della serie ELEGOO Saturn* Libro manuale:  Fare clic per scaricare
+Specifiche:Sistema: EL3D-3.0.1 Funzionamento: touch screen da 3,5 polliciSoftware affettatrice: Chitu DLP SlicerConnettività: USBTecnologia: LCD UV PhotocuringSorgente luminosa: UV Luci integrate LED (lunghezza d'onda 405 nm)
+
+Risoluzione XY: 0,05 mm (3840 * 2400)
+
+Precisione asse Z: 0,00125 mm
+
+Spessore dello strato: 0,01-0,15 mm
+
+Velocità di stampa: 30-40 mm / h
+
+Requisiti di alimentazione: 110-240 V 50/60 Hz 24 V4 A 96 W.Dimensioni della stampante: 11,02 pollici (L) * 9,44 pollici (L) * 17,55 pollici (H) / 28 cm (L) * 24 cm (L) * 44,6 cm (H)
+
+Volume di costruzione: 7,55 pollici (L) * 4,72 pollici (L) * 7,87 pollici (H) / 192 mm (L) * 120 mm (L) * 200 mm (H)
+
+Peso: 22 libbre (10 kg)
+
+
+
+

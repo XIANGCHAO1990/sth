@@ -1,0 +1,143 @@
+https://es.banggood.com/ESCAM-WNK718-3MP-8CH-Wireless-PTZ-IP-Camera-Wireless-CCTV-Security-System-NVR-Kit-Motion-Sensor-Detection-Dual-Light-Two-way-Voice-Control-p-1896826.html?cur_warehouse=CN&ID=47184&rmmds=CategoryElectronicsPop
+ESCAM WNK718 3MP 8CH PTZ inalámbrico IP Cámara Sistema de seguridad CCTV inalámbrico NVR Kit Motion Sensor Detección Luz dual Control de voz bidireccional
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características:1. Admite el formato de compresión de video H.2652. Cámara domo de alta definición de 8 canales NVR + 8 canales 3MP3. Fuente de luz dual y tres tipos de visión nocturna inteligente a todo color3. Admite voz bidireccional4. Nube de libre circulación almacenamiento durante 7 días5. Soporte máximo de 1 bahía de disco duro de 6 TB6. Grabadora de video de disco duro de red inalámbrica de 3.0MP;7. Módulo WIFI inalámbrico dedicado de seguridad incorporado, señal estable y fuerte capacidad antiinterferente;8. No es necesario emparejar WIFI, la imagen se mostrará cuando la caja esté encendida;9. Uso mixto con cable e inalámbrico, se adapta a varios escenarios;10. P2P EseeCloud (APP: EseeCloud), conexión remota en segundos, imagen suave y estable;11. Admite múltiples disparadores de alarma (pérdida de video/detección de sensor de movimiento, etc.) y salida de alarma (voz/correo electrónico/FTP, etc.);12 Admite acceso y control remoto Android/teléfono móvil Apple (o tableta) (LAN e Internet).Especificación:NVR inalámbricoSistema operativoSistema operativo Linux integrado en tiempo realEntrada de video y audioEntrada de vídeo en red8 canalesSalida de video y audiosalida HDMI1 canal, resolución: 1024x768, 1280x1024, 1366x768, 1440x900, 1920x1080p, admite salida de audiosalida vga1 canal, resolución: 1024x768, 1280x1024, 1366x768,1440x900, 1920x1080pParámetros de código de video y audioResolución de videoD1/960H/720P/960P/1080P/3MPReproducción sincronizada4 canalesVideoModo de vídeo/capturaGrabación manual, grabación de tiempo, grabación de detección de sensor de movimiento, grabación de alarmaModo de reproducciónReproducción instantánea, reproducción normal, reproducción de eventosmodo de copia de seguridadCopia de seguridad periódicaAlmacenamientoNube almacenamiento7 días gratis recurrente almacenamientoTipo de interfaz de disco duro1 interfaz SATACapacidad máxima del disco duroDisco duro hasta 6TBInterfaz externaInterfaz de red1, puerto Ethernet adaptable RJ45 10M/100Minterfaz USB1 USBPuerto de audioUn puerto para auriculares de 3,5 mmRedprotocolo de redUPnP (plug and play), SMTP (servicio de correo), PPPoE (acceso telefónico a Internet), DHCP (obtención automática de una dirección IP), etc.OtroFuente de alimentaciónCC 12V 2AConsumo de energía (sin disco duro)≤5WTemperatura de funcionamiento-10℃-＋55℃Humedad de trabajo10%-90%Peso (sin disco duro)≤1KgTamaño255 x 220 x 42mmIPC inalámbricopíxel3MPImagen SensorSensor CMOS de 1/2,7”, color: 0,1 lux, blanco y negro: 0,01 luxLente4mmProcesamiento de videoCodificación de video H.264/H.265, compatible con flujo dualSalida de imagenCorriente principal: 2304*1296@15fps; Transmisión secundaria: 640x360@15fpsObturadorObturador automáticoReducción de ruidoSoporta reducción de ruido 2D/3DAmplia dinámicaAdmite amplia dinámica digitalModo día y nocheEl tipo de filtro infrarrojo IR-CUT admite infrarrojos / a todo color / 3 modos inteligentesVoltear la imagenSoporta volteo horizontal y verticalProcesamiento de audioEstándar de código G.711, admite sincronización de audio y videoPuerto de audio1 entrada, nivel 2Vp-p, impedancia 1kΩ, Admite entrada de micrófono/recogida; 1 salida, impedancia 8Ω, potencia de salida de 1 W, compatible con altavoces directosRed cableada1 RJ45 Interfaz Ethernet, 10/100M adaptable; admite RTSP/FTP/PPPOE/DHCP/DDNS/NTP/UPnP y otros protocolos de redRed inalámbrica802.11b/g/ninterfaz de señal IR1 interfaz de fotorresistencia, 1 interfaz de unidad IR-CUT, admite control de panel de lámpara de fuente de luz dual (control IO dual, sin MCU de panel de lámpara)Yuntai350° izquierda y derecha, 90° arriba y abajoInterfaz del botón de reinicioapoyarranura para tarjetas SDSoporte máximo 128GCaracterísticasDetección de sensores de movimiento; empujar información de alarma; soporte de monitoreo remoto de teléfonos móviles y clientesVision nocturna4 IR luz + 4 luz blancaFuente de alimentaciónCC 12V 1APeso0.65kgTamaño156 x 91 x 130mmInformación del paquetePeso3.25kgTamaño320 x 332 x 170mmEl paquete incluye:1 x 8CH WIFI NVR8 cámaras WIFI1 adaptador de corriente NVR.8 adaptadores de corriente Cámara1 manual en inglés.1xratónPaquete de 8xTornillo1 cable de red.
+
+
+
+

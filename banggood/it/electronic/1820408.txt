@@ -1,0 +1,143 @@
+https://it.banggood.com/RIDEN-RD6006P-RD6006PW-USB-WiFi-DC-DC-Voltage-Current-Step-Down-Power-Supply-Module-Buck-Adjustable-Converter-60V-6A-p-1820408.html?cur_warehouse=CZ&ID=6303779&rmmds=CategoryElectronicsPop
+RIDEN® RD6006P RD6006PW USB WiFi DC-DC Tensione Corrente Step Down Modulo di alimentazione Convertitore regolabile Buck 60V 6A
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota prima dell'acquisto:1. La serie RD6006P ha due versioni: RD6006P e RD6006P-W, RD6006P-W ha una scheda WIFI, RD6006P non ha. RD6006P-W può utilizzare la scheda WIFI per collegare l'APP, utilizzare anche il micro cavo USB per collegare il software del PC. RD6006P non ha la scheda WIFI, supporta solo il software per PC collegandosi con un micro cavo USB, nessuna APP di supporto. Per la scheda wifi per collegare il software per PC, ora non supportava.Nota: la connessione WiFi è una funzione di test, a causa della scarsa compatibilità di alcuni computer, se non è possibile connettere il software per PC tramite WiFi, ignorare questa funzione. Per questa funzione, non forniamo alcuna garanzia e supporto tecnico e decideremo se mantenere questa funzione in base al feedback dei clienti.2. Per il software per PC, supporta solo Win 7 e versioni successive per ora. Per APP, supporta solo Android 5.0 e versioni successive. per APP e software per PC, poiché potrebbero esserci problemi di incompatibilità, scaricare prima di acquistare, se è possibile scaricare e installare, è possibile effettuare l'ordine o interrompere l'acquisto.Se non si prova il software per PC e la funzione APP prima dell'acquisto e scopriamo che i prodotti funzionano bene tranne il software per PC o l'APP, ci rifiutiamo di rimborsare.3. Per l'alimentazione dell'interruttore CA-CC in ingresso, consigliamo un alimentatore dell'interruttore da 400 W 65 V (la custodia S400 lascia la dimensione del foro fissa per questa versione)Nota: per accendere l'RD6006P, utilizzare l'alimentatore consigliato o un alimentatore di marca qualificato, alimentatori di scarsa qualità possono occasionalmente fornire sovratensione all'accensione e il danno risultante deve essere sopportato dal cliente.Potrebbero verificarsi collisioni durante il trasporto. Può causare graffi sulla superficie ma non influisce sulle prestazioni del prodotto, per favore non essere troppo esigente e, se ti dispiace, per favore acquista con attenzione.4. Se RD6006P-W può connettersi all'hotspot condiviso dal telefono cellulare ma non può connettersi al router, è necessario disattivare l'isolamento del client / isolamento AP e la funzione WMM.5. We show some data you want to see about RD6006P,actual measurement data: accuracy test , efficiency test and ripple test: https://youtu.be/ZncOU4eSjvk 6. Nota: i prodotti venduti in questa pagina non includono alimentatore e shell, se è necessario acquistare, fare clic su buy separately Produtc ID1820469(power supply)<<<Per la custodia S400, abbiamo due versioni tra cui scegliere: Acquista separatamente Product ID1820669(Copertura superiore in alluminio), Product ID1820666(Tutto il materiale di ferro)Parametri tecnici:ModelloRD6006 (ID1587151)RD6006-W(ID1587151)RD6012(ID1687705)RD6012-W(ID1687705)RD6018(ID1750646)RD6018-W(ID1750646)RD6006PRD6006P-WGamma di tensione in ingresso6-70.00V7-70.00VGamma di tensione di uscita0-60.00V0-60.000VGamma corrente di uscita0-6.000A0-12.00A0-18.00A0-6.0000AGamma di potenza in uscita0-360W0-720W0-1080W0-360.00WRisoluzione della misurazione della tensione di ingresso0.01VRisoluzione della misurazione dell'impostazione della tensione di uscita0.01V0.001VRisoluzione della misurazione dell'impostazione della corrente di uscita0.001A0.01A0.0001ARisoluzione della misurazione della tensione della batteria0.01VPrecisione della misurazione della tensione in ingresso±(1%+5 cifre)Precisione della tensione di uscita tra impostazione e misurazione±(0,3%+3 cifre)± (0,5 ‰ + 4 cifre)Precisione della corrente di uscita tra impostazione e misurazione±(0,5%+5 cifre)± (1 ‰ + 6 cifre)Precisione della misurazione della tensione della batteria±(0,5%+3 cifre)Valore corrente di interruzione automatica durante la ricarica10mA100mAImpostato da soloRipple di uscita tipico100mV VPP250mV VPP@6A20mV VPPNote①Intervallo di temperatura di lavoro-10℃~40℃Sensore esterno Campo di rilevamento della temperatura:-10℃~100℃/0℉~200℉Sensore esterno Precisione di rilevamento della temperatura:±3℃/±6℉Tempo di risposta in modalità tensione costante2 ms (carico 0,1 A-5 A)Regolazione del carico in modalità tensione costante±(0,1%+2 cifre)Regolazione del carico in modalità corrente costante±(0,1%+3 cifre)Gamma di misurazione della capacità0-9999.99AhIntervallo di misurazione dell'energia0-9999.99WhErrore statistico di capacità ed energia±2％Modalità di lavoro BuckCaduta di tensione >1V e >10%Caduta di tensione> 10% * VOUT + 2VCondizione di avvio della ventola di raffreddamentoTensione di uscita> 40 V o corrente di uscita> 4 A o temperatura del sistema> 45 ℃Corrente di uscita> 8 A o temperatura del sistema> 45 ℃Corrente di uscita> 4 A o temperatura del sistema> 45 ℃Condizione di arresto della ventola di raffreddamento durante il lavoroTensione di uscita <40 V e corrente di uscita <3,9 A e temperatura del sistema <45 ℃Corrente di uscita <7,9 A e temperatura di sistema <45 ℃Corrente di uscita <3,9 A e temperatura del sistema <45 ℃Protezione da sovratemperaturaTemperatura del sistema > 80Impostazione della luminosità dello schermo0-5 (6 livelli in totale)0-5 (6 livelli)SchermoDisplay HD a colori da 2,4 polliciPeso (con pacchetto)Circa 0,58 kgCirca 0,61 kgCirca 0,68 kgCirca 0.62KgDimensione del prodotto167*81*65mm167*81*69mm167*81*65mmSupporta la comunicazione USBSÌSupporta la comunicazione WiFiNoSÌNoSÌNoSÌNosìLa confezione include:(Opzionale)Versione RD6006P:1 x RD6006P alimentatore CC senza modulo WiFiVersione RD6006P-W:1 x RD6006P-W alimentatore CC con modulo WiFiLink per il download delle istruzioni per l'installazione di tutte le istruzioni RD6006P / RD6006P-W e per l'installazione della custodia:1. Istruzioni per l'uso dell'RD6006P (W) in inglese, istruzioni per software per PC, istruzioni per APP, collegamento per download di software per PC e APP:A: Main download link: https://drive.google.com/drive/folders/1nyd7W_JdeQhPLhKdgG_iCRQ3mHZenbIU?usp=sharing B: Mediafire: http://www.mediafire.com/folder/tskl6yx99s386/RD6006P 2. Android APP:download at file link: https://drive.google.com/drive/folders/1nyd7W_JdeQhPLhKdgG_iCRQ3mHZenbIU?usp=sharing , Supporta il telefono Android 5.0 e versioni successiveDownload di APP IOS: cerca RdPower per scaricare, supportare IOS10 e versioni successive del telefonoDownload di Google Play per l'app Android: cerca RdPower per il download, supporta il telefono Android 5.0 e versioni successive3. RD6006P and S400 caseassemble instruction: >>>Acquista separatamente Product ID1820669(Copertura superiore in alluminio), Product ID1820666(Tutto il materiale di ferro)https://drive.google.com/drive/folders/1nyd7W_JdeQhPLhKdgG_iCRQ3mHZenbIU?usp=sharing 4. RD6006P/RD6006P-W test video: https://youtu.be/ZncOU4eSjvk 
+
+
+
+

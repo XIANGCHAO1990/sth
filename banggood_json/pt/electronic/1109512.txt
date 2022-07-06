@@ -1,0 +1,173 @@
+1109512
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/91/B5/e0d42ff6-a8c7-44ba-8576-89f62f1d5c5a.jpeg
+ESP32 Placa de Desenvolvimento WiFi + Bluetooth Consumo de Energia Ultra-baixo Núcleos Duplos ESP-32 ESP-32S Placa
+https://pt.banggood.com/ESP32-Development-Board-WiFi+bluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1109512.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introdução:
+
+ESP32 já é antena integrada e RF balun, amplificador de potência, amplificadores de baixo ruído, filtros e módulo de gerenciamento de energia. Toda a solução ocupa a menor quantidade de área da placa de circuito impresso.
+Esta placa é usada com 2.4-GHz dual-mode Wi-Fi e chips Bluetooth pela TSMC 40nm tecnologia de baixa potência, potência e RF propriedades melhor, que é seguro, confiável e escalável para uma variedade de aplicações.
+
+Características:
+
+Rácio alto desempenho-preço
+Pequeno volume, facil de ser incorporado a outros produtos
+Função forte com protocolo LWIP de suporte, Freertos
+Apoia três modos: AP, STA e AP + STA
+Apoia o programa Lua, facil de desenvolver
+Placa de desenvolvimento: https://github.com/Nicholas3388/LuaNode
+
+Incluído no Pacote:
+
+
+
+1 x ESP32 placa de desenvolvimento 
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,
+
+

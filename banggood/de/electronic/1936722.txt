@@ -1,0 +1,179 @@
+https://de.banggood.com/Smart-BMS-1A-2A-6A-Balance-Current-8S-17S-20S-24S-JK-BMS-60A-80A-100A-150A-200A-600A-Lifepo4-Li-Ion-Battery-Protection-Board-bluetooth-APP-p-1936722.html?cur_warehouse=CN&ID=6319174&rmmds=CategoryElectronicsPop
+Smart BMS 1A 2A 6A Ausgleichsstrom 8S 17S 20S 24S JK BMS 60A 80A 100A 150A 200A 600A Lifepo4 Li-Ion Batterie Schutzplatine Bluetooth APP
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OVerladeschutz:Überladung verhindern und die Lebensdauer der Batterie beeinträchtigen
+Kurzschlussschutz:Automatischer Schutz bei anormalem Kurzschluss, um Schäden an der Schutzplatine und der Batterie zu vermeiden
+
+Kurzschlussschutz:Automatischer Schutz bei anormalem Kurzschluss, um Schäden an der Schutzplatine und der Batterie zu vermeiden
+
+Tiefentladeschutz:verhindern, dass die Batterie leer ist, und beeinträchtigen die Lebensdauer der Batterie
+
+Überstromschutz:verhindern, dass der Strom die Toleranz der Batterie überschreitet und Batterieschäden verursacht
+
+Ausfallschutz:verhindern, dass das Kabel herunterfällt oder der Kontakt schlecht ist und der Akku seinen Schutz verliert
+
+Übertemperaturschutz:verhindern, dass die Batterietemperatur zu hoch wird und eine Selbstentzündung oder Schäden verursacht
+
+Anweisungen:https://github.com/NEEY-electronic/JK/tree/JK-BMS
+
+BMS-Protokoll:https://github.com/syssi/esphome-jk-bms
+
+VenusOS-Treiber:https://github.com/Louisvdw/dbus-serialbattery
+
+HINWEIS:BMS mit einem Strom von 600 A erfordert, dass Kunden Relais selbst kaufen
+LCD Bildschirm : Klicken Sie hier, um zu öffnen<<<HINWEIS:①: CANBUS-Schnittstelle (derzeit kann nur jk-B2A24S20P die CANBUS-Funktion anpassen)②: RS485-Schnittstelle (derzeit sind alle JK BMS standardmäßig mit RS485-Funktion konfiguriert)③: LCD-Schnittstelle (Bitte prüfen Sie vor dem Kauf, ob BMS über eine LCD-Schnittstelle verfügt. Wenn keine Schnittstelle vorhanden ist, kann LCD nicht verwendet werden.)④: Heizfunktionsschnittstelle (derzeit kann die vom Kunden angepasste Heizfunktion akzeptiert werden, MOQ50pcs)⑤: TemperatursensorDiese ①②③④ Schnittstellen befinden sich auf der BMS-Platine.①④ hat jedoch keine eigentliche Funktion, die eine zusätzliche Anpassung erfordert.②③ Das BMS muss nicht angepasst werden, fügen Sie einfach ein Modul LCD oder ein Plug-in-Modul RS485 hinzu.①CAN-Funktion: angepasst, erfordert, dass der Hersteller den CAN-Chip montiert und das CAN-Kommunikationsprotokoll von JiKong bereitstellt. . Zusätzlich müssen Sie ein CAN-Modul kaufen (bevor Sie eine Bestellung aufgeben, konsultieren Sie im Voraus für die Anpassung)②RS485-Funktion: Kaufen Sie ein weiteres RS485-Steckmodul und stecken Sie es in die GPS-Schnittstelle, um es zu verwenden.③LCD-Funktion: Kaufen Sie ein anderes LCD-Modul und schließen Sie es an die LCD-Schnittstelle an, um es zu verwenden.④Heizfunktion: angepasst, und Sie müssen auch das passende CAN-Heizprotokoll-Ladegerät kaufen. Das Ladegerät kann mit dem BMS kommunizieren und das Ladegerät muss über eine Heizfunktion verfügen. (Bevor Sie eine Bestellung aufgeben, konsultieren und im Voraus anpassen)Hinweis: ②Die Funktion GPS erfordert die Unterstützung des lokalen Betreibers. Einige Regionen oder Länder unterstützen dies möglicherweise nicht. Bevor Sie eine Bestellung aufgeben, müssen Sie mit uns kommunizieren, um zu bestätigen! ! !Lieferinhalt:1 x JK Smart-BMS
+
+
+
+

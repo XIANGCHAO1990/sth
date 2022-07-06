@@ -1,0 +1,380 @@
+1378632
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/E2/E4/d9383660-5d62-4eda-8b41-97c3178b5b5b.jpg
+Câmera IP de segurança Hiseeu HB615 H.265 5MP POE ONVIF exterior à prova d'água IP66 CCTV P2P Câmera de vídeo
+https://pt.banggood.com/Hiseeu-HB615-H_265-5MP-Security-IP-Camera-POE-ONVIF-Outdoor-Waterproof-IP66-CCTV-P2P-Video-Camera-p-1378632.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Atualize de 4 milhões de pixels para 5 milhões de pixels!Recursos :
+
+
+1. Compressão de vídeo H.265
+Avançado H.265 Compressão de Vídeo
+H.265 (HEVC) dobra a eficiência de codificação em comparação com seu predecessor H.264.
+		Isso significa O vídeo H.265 economiza cerca de 50% da taxa de bits com a mesma qualidade de codificação.
+H.265 é superior a H.264 no que diz respeito ao uso de largura de banda.
+2. 1/3 '' 5.0MP CMOS.
+		Imagem de resolução HD 5.0MP.
+		3. À prova d'água, adequado para interior e exterior.
+		4. Lente padrão: 3,6 mm
+		5. Fonte de alimentação: DC 12V / 48V PoE opcional. (Nota: o adaptador de energia não está incluído no pacote)
+		6. Processamento de imagem: exposição automática (AE), balanço de branco automático (AWB), controle de ganho automático (AGC)
+		Filtro de corte de infravermelho integrado.
+		Mudança automática para o modo dia / noite, visão noturna perfeita.
+		7. Suporte a detecção de movimentos, ONVIF, suporte ao acesso móvel.
+		8. Plug and play. Fácil acesso remoto via PC, iPhones e celular Android.
+
+
+Especificação:
+
+
+
+
+
+
+Modelo do produto: HB615
+
+
+
+Câmera
+
+
+
+Sistema
+
+Embeded Linux OS
+
+
+
+Pixel
+
+500W
+
+ 
+
+
+
+Gama dinâmica
+
+52dB
+
+
+
+Redução de ruído
+
+3D DNR
+
+
+
+Obturador eletronico
+
+1s-1/100000s
+
+
+
+Iluminância mínima
+
+Cor: 0,1 Lux (F1.2); BW: 0,05 Lux (F1.2); 0 Lux com IR LIGADO
+
+
+
+Lente
+
+
+
+Comprimento focal
+
+3.6mm
+
+
+
+Visão horizontal
+
+80 °
+
+
+
+Tipo de interface
+
+φ12
+
+
+
+Infravermelho
+
+
+
+Distância infravermelha
+
+20m
+
+
+
+Infravermelho LED
+
+3 unidades infravermelho de alta potência LED
+
+
+
+Modo de codificação
+
+
+
+Compressão de vídeo
+
+H.265 / M-JPEG
+
+
+
+Tipo de codificação
+
+Perfil BaseLine / Perfil Principal / Perfil Alto
+
+
+
+Stream de vídeo
+
+32K-2Mbps
+
+
+
+Modo de transmissão
+
+Dual stream
+
+
+
+Outro
+
+
+
+Protocolo de rede
+
+TCP / IP, UDP, P2P, DNS, DHCP, RTSP, ONVIF
+
+
+
+endereço de IP
+
+Suporta endereços IP estáticos e dinâmicos
+
+
+
+Permissão do sistema
+
+Nome de usuário e senha personalizados
+
+
+
+Relógio do sistema
+
+Relógio integrado, sincronização externa, NTP, fuso horário
+
+
+
+Alarme inteligente
+
+Detecção de movimentos
+
+
+
+Especificação geral
+
+
+
+níveis de proteção
+
+proteção contra relâmpagos, proteção contra sobretensão
+
+
+
+Temperatura
+
+-20 ℃ a 60 ℃
+
+
+
+Umidade
+
+0-95% (sem pré-vazamento)
+
+
+
+Tamanho
+
+85 mm × 65 mm × 60 mm
+
+
+
+Fonte de energia
+
+Adaptador de energia DC12V / 1A
+
+
+
+Poder
+
+<5W
+
+
+
+
+
+
+Pacote inclui:
+
+
+
+1 x Hiseeu câmera IP HB615 H.265 5MP
+
+1 x manual do usuário
+
+1 x conjunto de parafusos
+
+1 x conector à prova d'água
+
+*** Adaptador de alimentação não incluído ***
+
+
+
+
+Detalhes fotos:
+
+
+
+
+

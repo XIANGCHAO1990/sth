@@ -1,0 +1,145 @@
+1876073
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/44/FD/36468960-c141-4f1c-8cf5-ddf8d3a4a03d.jpg
+DALY 3.7V Li-ion 13S 48V 80A 100A 120A 150A 200A 500A 18650 PCM Batteria Scheda di Protezione BMS Swith Al Litio Bilanciato Batteria Modulo
+https://it.banggood.com/DALY-3_7V-Li-ion-13S-48V-80A-100A-120A-150A-200A-500A-18650-PCM-Battery-Protection-Board-BMS-Swith-Balanced-Lithium-Battery-Module-p-1876073.html?cur_warehouse=CN&ID=6304685&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Attenzione:1. Il cliente deve identificare la serie della batteria, quindi scegliere la stessa serie BMS. Ad esempio, la tua batteria è 24S, devi scegliere 24S BMS, non puoi scegliere 20 o altro. Il numero di serie di BMS è fisso, non regolabile una volta che il BMS è stato spedito.2. Tutti gli accessori e BMS sono l'ultima versione, forse l'immagine non è stata aggiornata, se sei preoccupato per la versione, consulta la situazione specifica prima dell'acquisto.Descrizione:Modello: DL13S (Li-ION nominale 3,7 V Batteria non per LiFePO4 nominale 3,2 V)versione comune: porta comune per carica/scarica Versione separata: porta separata per carica/scaricaPossiamo personalizzare qualsiasi PCB da 1S a batterie al litio 30S con corrente diversa. Evidenzia: per lo stesso modello, la sua corrente di carica è inferiore alla corrente di scarica perché i PCBA Daly sono stati aggiornati per proteggere bene la batteria del cliente. Panoramica:◆ Il PCB DL13S48V80A 100A 120A 150A 200A 300A 400A 500A viene utilizzato per il pacco batterie 48V serie 13.◆Possiamo progettarlo per varie batterie al litio come LiFepo4, LiMn2O4 e Li-polymer ecc.◆Le funzioni principali sono: protezione da sovraccarico, protezione da sovraccarico, protezione da sovracorrente, protezione da cortocircuito, protezione termica, ecc.◆Su richiesta del cliente possiamo sviluppare PCM di diverse dimensioni e strutture.◆BMS prodotto da Mos e IC di alta qualità importati. Mantieni la durata del tuo ciclo di vita della batteria. Vantaggio:◆ Forte capacità di carico, corrente di scarica costante 80 A 100 A 120 A 150 A 200 A 300 A 400 A 500 A, utilizzare resistenza ad alta tensione, interno bassoMosfet di potenza di resistenza. Il dissipatore di calore aiuterà notevolmente il raffreddamento.◆IC stesso ha la funzione di bilanciamento della potenza. Il circuito è semplice e affidabile.◆Rilevamento della tensione tipica per ogni cella. Quindi ogni batteria sarà prevenuta sovraccaricata o sovrascaricata. La funzione di protezione da sovracorrente e cortocircuito è molto affidabile. Il cortocircuito prolungato del carico non influirà sul PCB e sulla batteria. Protezione della temperatura durante la carica e la scarica.◆Consumo energetico estremamente basso. Il consumo dell'intero dispositivo è inferiore a 50uA.◆ Il PCB utilizza un rivestimento conforme ESD ad alta resistenza alla corrosione, all'acqua e ad alta impedenza.Il pacchetto include: (Scegli diverse specifiche BMS in base alle tue esigenze :)Consiglio BMS :1 scheda BMS1 x cavo (utilizzare per collegare la batteria)1 modulo NTC
+
+
+
+

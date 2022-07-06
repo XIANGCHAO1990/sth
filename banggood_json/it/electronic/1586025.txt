@@ -1,0 +1,187 @@
+1586025
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/87/10/3fd12135-09f8-4177-bb6c-d0ae78e1461e.jpg
+5 pezzi JoyStick Module Shield 2.54mm 5 pin biassiale Pulsanti Rocker per PS2 Joystick Game Controller Sensor Geekcreit per Arduino - prodotti che funzionano con schede ufficiali Arduino
+https://it.banggood.com/5pcs-JoyStick-Module-Shield-2_54mm-5-pin-Biaxial-Buttons-Rocker-for-PS2-Joystick-Game-Controller-Sensor-p-1586025.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+caratteristica:
+
+
+
+joystick joystick moduli di interfaccia standard componenti elettronici e cavi di interfaccia pin da 2,54 mm.
+
+Phillips è un resistore 10K bilanciere a due vie, con il joystick in una direzione diversa, tocca la resistenza varia. Questo modulo utilizza un'alimentazione di 5V, la tensione di lettura X, Y dello stato originale di 2.5V o giù di lì, quando viene premuto con la direzione della freccia, i valori di tensione di lettura aumentano fino a 5V; premere la freccia nella direzione opposta, la riduzione della tensione di lettura, almeno 0V.
+
+
+
+Specifica:
+
+
+
+Peso netto: 11g
+
+Peso: 21g
+
+Colore nero
+
+Dimensioni: 34.5 * 26 * 38mm
+
+
+
+Il pacchetto include:
+
+
+
+5 moduli JoyStick
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

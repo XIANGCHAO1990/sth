@@ -1,0 +1,358 @@
+https://es.banggood.com/ESCAM-WNK614-8CH-3MP-Wireless-Dome-Camera-CCTV-Security-System-NVR-Kit-Two-Way-Audio-Dual-Light-Motion-Sensor-Detection-IP-Camera-p-1862498.html?cur_warehouse=CZ&ID=47184&rmmds=CategoryElectronicsPop
+ESCAM WNK614 8CH 3MP Inalámbrico Dome Cámara Sistema de seguridad CCTV Kit NVR Audio bidireccional Movimiento de luz dual Sensor Detección IP Cámara
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características:APLICACIÓN: EseeCloud1. Soporte H.265 formato de compresión de video2. NVR inalámbrica de 8 canales + cámara domo de alta definición de 4 canales y 3MP （Si necesita agregar más cámaras, por favor >>> Haga clic aquí <<<）3. Tres tipos de visión nocturna inteligente a todo color con fuentes de luz duales3. Admite voz bidireccional4. 7 días de nube recurrente gratuita almacenamiento5. Soporte máximo de disco duro de 1 bahía de 6 TB6. Admite video de empuje de alarma de detección de sensor de movimiento7. Soporte de monitoreo remoto de aplicaciones móvilesEspecificación:* Grabador de video de disco duro de red inalámbrica de 3.0MP;* Módulo WIFI inalámbrico dedicado de seguridad incorporado, señal estable y fuerte capacidad antiinterferente;* No es necesario emparejar WIFI, la imagen se mostrará cuando la caja esté encendida;* Uso mixto con cable e inalámbrico, se adapta a varios escenarios;* P2P EseeCloud (APLICACIÓN: EseeCloud), conexión remota en segundos, imagen suave y estable;* Admite múltiples activadores de alarma (pérdida de video / detecciones de movimiento, etc.) y salida de alarma (voz / correo electrónico / FTP, etc.);* Admite acceso y control remoto (LAN e Internet) por teléfono móvil (o tableta) Android / Apple. 
+
+
+
+
+NVR inalámbrico
+
+
+sistema operativo
+Sistema operativo Linux integrado en tiempo real
+
+
+Entrada de video y audio
+Entrada de video en red
+8 canales
+
+
+Salida de video y audio
+Salida HDMI
+1 canal, resolución: 1024x768, 1280x1024, 1366x768, 1440x900, 1920x1080p, admite salida de audio
+
+
+Salida VGA
+1 canal, resolución: 1024x768, 1280x1024, 1366x768,1440 x 900, 1920 x 1080 píxeles
+
+
+Parámetros de códec de audio y video
+Resolución de video
+D1 / 960H / 720P / 960P / 1080P / 3MP
+
+
+Reproducción sincrónica
+4 canales
+
+
+Video 
+Modo de video / captura
+Grabación manual, grabación por tiempo, grabación por detección de movimiento, grabación por alarma
+
+
+Modo de reproducción
+Reproducción instantánea, reproducción regular, reproducción de eventos
+
+
+Modo de respaldo
+Copia de seguridad periódica
+
+
+Almacenamiento 
+Nube almacenamiento
+7 días gratis recurrente almacenamiento
+
+
+Tipo de interfaz de disco duro
+1 interfaz SATA
+
+
+Capacidad máxima del disco duro
+Disco duro de hasta 6 TB
+
+
+Interfaz externa
+Interfaz de red
+1, RJ45 puerto Ethernet adaptable 10M / 100M
+
+
+interfaz USB
+1 USB
+
+
+puerto de audio
+Un puerto para auriculares de 3,5 mm
+
+
+La red
+Protocolo de red
+UPnP (plug and play), SMTP (servicio de correo), PPPoE (acceso telefónico a Internet), DHCP (obtener automáticamente una dirección IP), etc.
+
+
+
+
+otro
+fuente de alimentación
+DC 12V 2A
+
+
+Consumo de energía (sin disco duro)
+≤5W
+
+
+Temperatura de funcionamiento
+-10℃-＋55℃
+
+
+Humedad de trabajo
+10% - 90%
+
+
+Peso (sin disco duro)
+≤1Kg
+
+
+Talla
+255 × 220 × 42 mm
+
+
+IPC inalámbrico
+
+
+Pixel
+3MP
+
+
+Imagen Sensor
+Sensor CMOS 1 / 2.7 ”, color: 0.1 Lux, negro / blanco: 0.01 Lux
+
+
+Lente
+4mm
+
+
+Procesamiento de video
+Codificación de video H.264 / H.265, compatible con transmisión dual
+
+
+Salida de imagen
+Corriente principal: 2304 * 1296 @ 15fps; Transmisión secundaria: 640x360 @ 15fps
+
+
+obturador
+Obturador automático
+
+
+Reducción de ruido
+Admite reducción de ruido 2D / 3D
+
+
+Amplia dinámica
+Admite una amplia dinámica digital
+
+
+Modo día y noche
+El tipo de filtro infrarrojo IR-CUT admite modos infrarrojos / a todo color / inteligentes 3
+
+
+Volteo de imagen
+Admite volteo horizontal y vertical
+
+
+Procesamiento de audio
+Estándar de códec G.711, compatible con sincronización de audio y video
+
+
+puerto de audio
+1 entrada, nivel 2Vp-p, impedancia 1kΩ, admite entrada MIC / pickup; 1 salida, impedancia 8Ω, 1 W de potencia de salida, admite altavoces directos
+
+
+Red cableada
+1 RJ45 Interfaz Ethernet, 10 / 100M adaptable; admite RTSP / FTP / PPPOE / DHCP / DDNS / NTP / UPnP y otros protocolos de red
+
+
+red inalámbrica
+802.11b/g/n
+
+
+Interfaz de señal IR
+1 interfaz de fotoresistor, 1 interfaz de unidad IR-CUT, compatible con control de panel de lámpara de fuente de luz dual (control de E / S dual, sin MCU de panel de lámpara)
+
+
+Yuntai
+350 ° a la izquierda y a la derecha, 90 ° hacia arriba y hacia abajo
+
+
+Interfaz de botón de reinicio
+apoyar
+
+
+ranura para tarjetas SD
+Soporte máximo 128G
+
+
+Características
+Detecciones de movimiento; empujar información de alarma; Apoyar el monitoreo remoto de teléfonos móviles y clientes.
+
+
+Vision nocturna
+4 IR luz + 4 luz blanca
+
+
+fuente de alimentación
+DC 12V 1A
+
+
+peso
+0.65kg
+
+
+Talla
+156x91x130mm
+
+
+Información del paquete
+Peso
+3.25kg
+
+
+Tamaño
+320x332x170mm
+
+
+Lista de empaque
+8CH WIFI NVR * 1, cámara WIFI * 4, adaptador de corriente NVR * 1,adaptador de corriente de la cámara * 4, manual * 1, mouse * 1, paquete de tornillos * 4, cable de red * 1
+
+
+
+Paquete incluido:1 x NVR inalámbrico4 x WIFI IP Cámara1 x ratónAdaptador de corriente NVR 5 x 12v 2ACable de red de 1 x 1 m4 x Kit de tornillos1 X Guía de inicio rápido
+
+
+
+

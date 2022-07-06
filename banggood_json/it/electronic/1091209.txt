@@ -1,0 +1,220 @@
+1091209
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/5F/69/992d551e-0391-48e6-ba90-4ee9e7e0ed5e.jpg
+3D Cubo di Luce Kit 8x8x8 di LED Blu LED Spettro Musica MP3 Kit Elettronico Fai Da Te
+https://it.banggood.com/3D-Light-Cube-Kit-8x8x8-Blue-LED-MP3-Music-Spectrum-DIY-Electronic-Kit-p-1091209.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: questo prodotto non include l'alloggiamento !! Se hai bisogno dell'alloggiamento, ti preghiamo di acquistare separatamente (prodotto ID:1101043).
+Questo è un kit Fai Da Te, bisogna una certa conoscenza di elettronica e la capacità. 
+Bisogna tanto lavoro di saldatura, quindi la pazienza è indispensabile.
+Si raccomanda di scaricare e leggere le istruzioni per assicurare che questo prodotto possa essere usato da voi.
+
+Versione 8x8x8 blu LED nebbioso.
+File: clicca qui per scaricare e aprire
+
+Caratteristiche:
+
+1. Con amplificatore incorporato da 3W + altoparlante da 3W di alta qualità.
+2. Si può inserire la scheda TF per riprodurre musica.
+3. Si può anche inserire la chiavetta USB per riprodurre musica.
+4. Può input e output la musica attraverso il cavo audio.
+5. Con la musica MP3 incorporata, il volume può essere regolato.
+6. Si può passare alla musica prossima incorporata con il pulsante.
+7. Con 42 tipi di effetti di animazione fantastichi off-line preinstallati (collegare con l'alimentare per attivare l'animazione). 
+8. Con 14 tipi di effetti di animazione audio dinamici off-line preinstallati (effetto di ballare con la musica).
+9. 3D8 sulla modalità di macchina (controllo animazione).
+10. 3D8 sulla modalità di musica di macchina.
+11. Telecomando a infrarossi.
+12. Modalità di giorno e di notte.
+13. Modalità di luce di respirazione PWM.
+
+14. Modalità di rilevamento automatico di scheda madre con l'accensione.
+15. Funzione di regolazione di luminosità automatica di fotoresistore (bisogna fare l'estensione da solo)
+16. Dimensioni di cassa: 233 * 161 * 161mm
+17. Scheda PCB: 150 * 150mm
+18. Tensione in ingresso: 5V/ 5V caricatore 
+19. Corrente: 1A-2A (2A è migliore)
+
+Funzioni di quattro pulsanti:
+
+Pulsante K1: entrare nella modalità di selezione, controllare la modalità di giorno e di notte.
+Pulsante K2: entrare nella modalità PC 3D8 (premere il pulsante K1 per effettuare dopo l'accesione)
+Pulsante K3: entrare nella modalità di 42 tipi di effetti di animazione off-line (premere il pulsante K1 per effettuare dopo l'accesione)
+Chiave k4: entrare nella modalità di 14 tipi di effetti di audio off-line (premere il pulsante K1 per effettuare dopo l'accesione)
+
+Funzioni di tre pulsanti di musica:
+
+Pulsante S1: controllare la riproduzione/la pausa della misuca
+Pulsante S2: per passare alla musica precedente/abbassare il volume
+Pulsante S3: per passare alla musica successiva/aumentare il volume
+
+Progettazione di circuito:
+
+STC12C5A60S2 + 74HC245 + 74HC138 + 74HC595N
+1. Microcontrollore STC12C5A60S2 integrato da 1T ad alta velocità
+2. 74HC245 driver di buffer (collegamento a cascata)
+3. Chip driver di tubo MOS da 5A ad alta corrente (per risolvere la luminosità irregolare)
+4. Chip di scansione ad alta velocità e chip a cascata di controllo seriale
+5. Chip di musica MP3 professionale
+6. Chip 8002B di amplificatore di potenza professionale
+
+Ci sono due metodi per modificare il modello:
+
+1. Modificare il programma (difficile, bisogna la conoscenza di programmazione)
+2. Gestione diretta del cubo di luce attraverso il software di computer
+
+La confezione include:
+
+1 x Kit Cubo di Luce 3D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

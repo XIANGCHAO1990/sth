@@ -1,0 +1,143 @@
+https://es.banggood.com/480W-Dual-Digital-Display-DC-Switching-Power-Supply-Current-Limit-Adjustable-voltage-0-5V-12V-24V-36V-48V-60V-80V-120V-220V-p-1925433.html?cur_warehouse=CN&ID=6316960&rmmds=CategoryElectronicsPop
+480W Dual Digital Pantalla DC Fuente de alimentación conmutada Límite de corriente Voltaje ajustable 0-5V 12V 24V 36V 48V 60V 80V 120V 220V
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Potencia nominaldigitales PantallaPerilla ajustableIdentificación del artículo480WVoltajeVoltaje1908262VoltajeCorriente de voltaje1925431Corriente de voltajeCorriente de voltaje19254331000WCorriente de voltajeVoltaje1927330Corriente de voltajeCorriente de voltaje1925287Características:● Entrada de voltaje completo● Miniaturización● Función de protección Cortocircuito / sobrecarga / sobretensión● Prueba de envejecimiento al 100% a plena cargaEspecificación:Nombre: Fuente de alimentación conmutada digital dual PantallaPotencia nominal: 480WVoltaje de entrada y rango de frecuencia: 110V / 220VAC / 47 ～ 63HzSalida: 0-5V0-60A, 0-12V0-40A, 0-24V0-20A, 0-36V0-15A, 0-48V0-10A, 0-60V0-8A, 0-80V0-6A, 0-120V0-4A, 0-220V2.2AArranque de sobretensión: 20A @ 120VAC (arranque en frío)Rango de ajuste de salida: ± 100% (voltaje de salida nominal)Protección contra sobrecarga: 105% ~ 200% (carga nominal), autorrecuperaciónProtección contra sobretensiones: 115 %~135 % (tensión nominal de salida)Protección contra cortocircuitos: autorrecuperaciónHora de inicio de salida: ≤2S@120VAC ≤1.0S@230VACTiempo de espera de salida: ≥10mS @ 120VAC, ≥20mS @ 230VACFuerza de aislamiento: Entrada - Salida: AC1500V, 1min; Entrada - carcasa: AC1500V, 1min; Salida - Caja: DC500V, 1minEntorno de trabajo: -10 ° C ~ 50 ° C; 20% ~ 90% RH (sin condensación)Material de la carcasa: caja de metal/caja de aluminioTamaño: 215x115x50mmDescripción del terminal y método de cableado: L, N Terminal de entrada de CA FG marca de tierra V + Terminal positivo de salida de CCTerminal negativo de salida V-DC Potenciómetro ajustable ADJ Ajuste fino de voltaje DC de salidaUso operativo:(¿Cómo limitar la corriente) para ajustar la corriente?1. Opere en caso de falla de energía, tire del pequeño interruptor de tiro en la esquina inferior izquierda al engranaje regulador actual2. Extraiga (inserto de regulación de corriente dedicado) a los puertos segundo y tercero del puerto de cableado, afloje el tornillo del puerto con un destornillador y apriete con un destornillador (en este momento, conéctelo a la alimentación indicada) y luego conecte el El voltaje del medidor muestra 0.00V, y la corriente muestra el parámetro de corriente actual. En este momento, la fuente de alimentación emitirá una pequeña corriente.3. En el lado derecho (ajuste la perilla de corriente), puede ajustar el parámetro de límite de corriente deseado y mostrar el parámetro actual sincrónicamente con la pantalla digital. 0-21A / 0-16A / 0-11A / 0-6.5A se puede ajustar en todo el proceso.4. Retire el (enchufe de corriente de ajuste especial) e insértelo de nuevo en el soporte de la tarjeta de inserción original. Después de quitar la pantalla digital, el voltaje es de aproximadamente 0,90 V y la corriente es de 0,00 A.5. Tire del interruptor de tiro en la esquina inferior izquierda hacia la derecha para abrir la posición "abrir (usar)".6. La fuente de alimentación actual está en el valor del parámetro del límite de corriente. La fuente de alimentación se ajusta a unos pocos V (la pantalla digital muestra el voltaje de salida en tiempo real), la corriente no cambia y la corriente alcanza el límite de corriente del 95% del parámetro de limitación de corriente. Protección de sobrecarga7. El parámetro actual mostrado por la pantalla digital en este momento es el valor actual de la carga del dispositivo, y la corriente de carga se monitorea en tiempo real. Cuando el dispositivo de carga está conectado, el valor actual se puede ajustar directamente en tiempo real. El valor de corriente máximo es el valor de corriente máximo del dispositivo de carga. Si la perilla de ajuste de corriente en el sentido de las agujas del reloj excede el valor de corriente máximo del dispositivo, el valor de corriente digital no durará. Pantalla digital sincronizada en tiempo real, que muestra solo el valor actual máximo del dispositivo. Si no hay necesidad de limitar la corriente, use el equipo general, sin la operación anterior, tire del interruptor de tiro en la esquina inferior izquierda a la posición "abrir (usar)" y gire la (perilla de ajuste de corriente) en el sentido de las agujas del reloj hacia arriba . El límite de corriente máximo en este momento es 21A / 16A / 11A / 6.5A / 4A, en este momento el parámetro de la fuente de alimentación es la salida 0-24V21A / 0-16A / 0-48V11A / 0-36V15A / 0-80V6.5A / 0-120V4A, que es igual a una fuente de alimentación conmutada 0-24V20A / 0-36V15A / 0-48V10A / 0-80V6A / 0-120V4A Solicitud: Se utiliza principalmente para diversas cargas de baterías, equipos de CC, regulación de velocidad continua del motor de CC, atenuación continua LED, regulación de velocidad de galvanoplastia química, pruebas de investigación científica, experimentos de estudiantes, etc., y una amplia gama de usos.Nota: Si utiliza una carga inductiva como un motor o un ventilador, preste atención al parámetro de corriente de arranque máxima del motor. Este parámetro no debe ser superior a la corriente máxima de funcionamiento de la fuente de alimentación. De lo contrario, la fuente de alimentación podría dañarse. Debe seleccionar una fuente de alimentación de mayor corriente o ablandar el motor. El circuito de protección se activa para absorber la corriente de entrada.(Fórmula de potencia) voltaje X corriente = potenciaEl paquete incluye:1 x fuente de alimentación conmutada digital dual Pantalla
+
+
+
+

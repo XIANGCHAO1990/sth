@@ -1,0 +1,215 @@
+1091209
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/5F/69/992d551e-0391-48e6-ba90-4ee9e7e0ed5e.jpg
+3D Işık Cube Kit 8x8x8 Mavi LED MP3 Müzik Spektrumu DIY Elektronik Kit
+https://tr.banggood.com/3D-Light-Cube-Kit-8x8x8-Blue-LED-MP3-Music-Spectrum-DIY-Electronic-Kit-p-1091209.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not: Bu ürün muhafaza içermez !! Muhafazaya ihtiyacınız varsa, lütfen ayrıca satın alın (Ürün Kimliği: 1101043).
+Bu bir DIY kiti, biraz elektronik ve yetenek bilgisine sahip olmanız gerekiyor.
+Çok fazla lehimlemeye ihtiyacınız var, yeterince sabrınız olmalı.
+Önerilen indirme ve kullanabileceğinizden emin olmak için talimatları kontrol edin.8x8x8 Mavi puslu LED versiyonu.Assembled manual: Buraya Tıkla.
+
+Özellik:
+
+1. Dahili 3W amplifikatör + 3W yüksek kaliteli hoparlör
+2. Müzik çalmak için TF hafıza kartı takılabilir
+3. Müzik çalmak için U disk takılabilir
+4. Ses hattı girişi ve çıkışı müziği aracılığıyla
+5. Dahili MP3 müzik, ses seviyesi ayarlanabilir
+6. Dahili müzik, sonraki şarkıdaki bir düğme ile kontrol edilebilir
+7. Yerleşik 42 çeşit çevrimdışı çarpıcı animasyon (fişe takılan elektrik animasyonu çalıştırabilir)
+8. Dahili 14 çeşit çevrimdışı dinamik ses animasyonu (müzikle dans)
+9. Makine modunda 3D8 (kontrol animasyonu)
+10. Makine müzik modunda 3D8
+11. Kızılötesi uzaktan kumanda işlevi
+12. Gece, gündüz kontrol modu
+13. PWM solunum ışığı modu
+14. Anakart otomatik algılama modunu açın
+15. Photoresistor otomatik karartma işlevi (kendiniz genişletmeniz gerekir)
+16. Kabuk boyutu: 233 * 161 * 161 mm
+17. PCB kartı: 150 * 150mm
+18. Giriş voltajı: 5V/5V şarj cihazı
+19. Akım: 1A-2A (2A daha iyi)
+
+Dört temel işlev:
+
+K1 tuşu: Mod seçimi, gündüz, gece modu kontrolünü girin
+K2 tuşu: 3D8 PC moduna girin (güç açıldıktan sonra etkili olmak için K1 tuşuna basın)
+K3 tuşu: 42 çeşit çevrimdışı animasyon modunu girin (güç açıldıktan sonra etkili olmak için K1 tuşuna basın)
+K4 tuşu: 14 çeşit çevrimdışı ses modunu girin (açıldıktan sonra etkili olmak için K1 tuşuna basın)
+
+Üç müzik tuşu özelliği:
+
+S1 tuşu: Müzik çalma / durdurma kontrolüne girin
+S2 tuşu: Önceki şarkıyı / ses seviyesini azaltma kontrolünü girin
+S3 tuşu: Sonraki şarkıyı / ses yükseltme kontrolünü girin
+
+Devre tasarımı:
+
+STC12C5A60S2 + 74HC245 + 74HC138 + 74HC595N
+1. Entegre STC12C5A60S2 yüksek hızlı 1T mikrodenetleyici
+2. 74HC245 arabellek sürücüsü (kademeli bağlantı)
+3. 5A yüksek akım MOS tüp sürücü çipi (düzensiz parlaklığı çözmek için)
+4. Yüksek hızlı tarama çipi ve seri kontrol kademeli çip
+5. Profesyonel MP3 müzik çipini kullanın
+6. Profesyonel güç amplifikatörü çipi 8002B kullanın
+
+Deseni değiştirmenin iki yolu vardır:
+
+1. Programı değiştirin (zordur, programlamayı anlamanız gerekir)
+2. PC bilgisayar yazılımı, ışık küpünün doğrudan manipülasyonu
+
+Paket şunları içerir:
+
+1 x 3D Işık Cube Kit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,145 @@
+1820384
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/D5/48/c96f6ba9-43c8-43c6-8a23-9d0af8bed13f.jpg
+12S 36V Litio Batteria Scheda di protezione dell'alimentazione da 3,2 V 15A-180A con funzione di equalizzazione della protezione della temperatura Protezione da sovracorrente BMS PCB
+https://it.banggood.com/12S-36V-Lithium-Battery-3_2V-Power-Protection-Board-15A-180A-with-Temperature-Protection-Equalization-Function-Overcurrent-Protection-BMS-PCB-p-1820384.html?cur_warehouse=CN&ID=515283&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BMS è per l'uso della batteria, stringhe diverse non sono compatibili.Ad esempio: 13S BMS, non può essere utilizzato per la batteria 10S, può essere utilizzato solo con la batteria 13S.Descrizione:Gamma: la tensione nominale è di 3,2 V batteria al litio (comprese 18650, 26650, batteria ai polimeri).Funzione: funzione di protezione da sovraccarico, funzione di protezione da scarica eccessiva, funzione di protezione da sovracorrente, funzione di protezione da cortocircuito, funzione di gestione del bilanciamento della batteria, funzione di protezione della temperatura.Prodotti: 7S o più adotta il circuito a schema integrato Zhongying e 7S o meno adotta il circuito a schema a cascata a sezione singola.    Protezione termicaSoluzione per circuiti integrati ZhongyingVernice a tre proveL'8-24S è dotato di controllo della temperatura NTC per ottenere funzioni come protezione della temperatura di carica e protezione della temperatura di scarica, migliorando efficacemente la sicurezza dell'uso della batteria e risolvendo i potenziali rischi per la sicurezza causati dalla fuoriuscita termica delle batterie.La scheda di protezione risponde in modo accurato e sensibile, il che presenta più vantaggi rispetto alla soluzione tradizionale, consente di risparmiare spazio sul circuito e i parametri possono essere regolati in base alla personalizzazione del cliente per ottenere la funzione di protezione dalla disconnessione.Tutti i circuiti sono rivestiti con tre vernici anti-vernice, che possono prevenire efficacemente i danni elettrostatici, prevenire i cortocircuiti causati da ambienti umidi, prevenire l'ossidazione dell'aria e prolungare la durata.         Nuova Classe A MOSForte dissipazione del caloreInvia il cavo corrispondenteL'uso di AVIC MOS può garantire la qualità del prodotto, una bassa resistenza interna durante la scarica e un basso aumento della temperatura durante la scarica a lungo termine, senza influenzare l'uscita della batteria, rendendo il controllo più sicuro.Il dissipatore di calore è anodizzato e il gel di silice conduttore di calore è ammortizzato per migliorare l'efficienza di dissipazione del calore. La struttura è trasparente e ha una temperatura ambiente migliore rispetto al tipo sigillato. La scarica a lungo termine non influisce sulle prestazioni.I colori bianco e rosso vengono inviati in modo casuale con the lo stesso effetto.RicaricaCorrente di carica ： Come la corrente continuaTensione di carica ： 44,4 V.Protezione da sovraccaricoTensione di rilevamento sovraccarico ： 3,7 V ± 0,05 V.Tensione di rilascio sovraccarico ： 3,6 V ± 0,05 V.Ritardo di protezione da sovraccarico ： 600uSProtezione da scarica eccessivaTensione di protezione da scarica eccessiva: 2,2 V ± 0,1 V.Tensione di rilascio di scarica eccessiva ： 2,5 V ± 0,1 V.Ritardo rilevamento scarica eccessiva ： 600uSEquilibrioTensione di rilevamento dell'equilibrio ： 3,55 V.Tensione di rilascio bilanciata ： 3,55 V.Corrente di bilanciamento ： 35mA ± 5mA Protezione contro le scaricheCorrente istantanea: corrente continua * 2.5Ritardo rilevamento sovracorrente ： 600uSTensione di rilevamento scarica eccessiva ： 100 mVCondizione di rilascio della protezione da sovracorrente ： Scollegare il caricoProtezione da cortocircuitoCondizione di protezione da cortocircuito ： Cortocircuito carico esternoRitardo rilevamento cortocircuito ： 600uSCondizione di rilascio della protezione da cortocircuito ： Scollegare il caricoProtezione temporaneaTemperatura di carica: -20 ~ 55 ℃Temperatura di scarico: -20 ~ 70 ℃Rimuovere la protezione del controllo della temperatura: entro la temperatura di lavoroResistenza internaResistenza on circuito principale ： ≤10 mΩConsumo di energia elettricaCorrente di lavoro ： ≤100uACorrente di sonno (quando la batteria è eccessivamente scarica) ： ≤20uATemp di lavorointervallo di temperatura ： -20 ℃ / + 80 ℃Il pacchetto include:1 x 12S 36V Litio Batteria Scheda Protezione Alimentazione 3,2V 15A-180AUsa la coda delle operazioni:1. Il cavo parte dal filo sottile nero che collega B-, il secondo filo (il filo rosso sottile) è collegato al polo positivo della prima atteria e il polo positivo di ciascuna batteria è collegato a turno fino all'ultimo filo rosso è collegato a B +;2. Dopo aver collegato il cavo, non inserire la spina direttamente nel BMS. Misurare la tensione tra i due terminali metallici adiacenti sul retro della spina. Se la tensione della batteria in terpolimero deve essere compresa tra 2,8 V e 4,2 V, la batteria ferro-litio dovrebbe essere compresa tra 2,5 V e 3,65 V.3. Dopo la corretta coda di cablaggio e conferma della tensione, inserire la presa BMS.4. La linea B della scheda di protezione (linea spessa blu) è collegata al polo negativo del pacco batteria.5. Dopo aver completato il cablaggio, misurare se la tensione totale del pacco batteria e la tensione totale che passa attraverso il BMS sono uguali. Se sono diversi, ricontrollare in base alla coda di cablaggio sopra.Suggerimenti: La scheda di protezione del pacco batteria, che è un semilavorato di prodotti elettronici, è una parte di usura in caso di uso errato. Se non capisci come usarlo, leggi attentamente il manuale o chiedi al servizio clienti. Qualsiasi uso errato brucerà la resistenza di campionamento front-end. Non accetteremo tali controversie per danni ai clienti. Per favore, non comprare se ti dispiace. 
+
+
+
+

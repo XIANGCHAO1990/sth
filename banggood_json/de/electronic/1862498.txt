@@ -1,0 +1,360 @@
+1862498
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/BD/A4/441df3bd-a65c-4311-afda-2be2e10a23d4.jpg
+ESCAM WNK614 8CH 3MP Wireless Dome Kamera CCTV-Sicherheitssystem NVR Satz Zwei-Wege-Audio Dual-Licht-Bewegungssensor-Erkennung IP-Kamera
+https://de.banggood.com/ESCAM-WNK614-8CH-3MP-Wireless-Dome-Camera-CCTV-Security-System-NVR-Kit-Two-Way-Audio-Dual-Light-Motion-Sensor-Detection-IP-Camera-p-1862498.html?cur_warehouse=USA&ID=47757&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Merkmale:APP: EseeCloud1. Unterstützung H.265 Videokomprimierungsformat2. 8-Kanal-Wireless-NVR + 4-Kanal-3MP-High-Definition-Dome-Kamera（Wenn Sie weitere Kameras hinzufügen müssen, bitte >>>Hier klicken<<<Ich3. Drei Arten von intelligenter Vollfarb-Nachtsicht mit zwei Lichtquellen3. Unterstützt bidirektionale Sprache4. 7 Tage kostenloser wiederkehrender Cloud-Speicher5. Maximale Unterstützung 1 Schacht 6 TB Festplatte6. Unterstützung für Bewegungssensor-Erkennungsalarm-Push-Video7. Unterstützen Sie die mobile APP-FernüberwachungSpezifikation:* 3.0MP drahtloser Netzwerk-Festplatten-Videorecorder;* Eingebautes sicherheitsgerichtetes drahtloses WIFI-Modul, stabiles Signal und starke Entstörungsfähigkeit;* Keine WIFI-Kopplung erforderlich, das Bild wird angezeigt, wenn die Box eingeschaltet ist;* Kabelgebundene und drahtlose Mischnutzung, Anpassung an verschiedene Szenarien;* P2P EseeCloud (APP: EseeCloud), Fernverbindung in Sekunden, flüssiges und stabiles Bild;* Unterstützt mehrere Alarmauslöser (Videoverlust/Bewegungserkennung usw.) und Alarmausgabe (Sprache/E-Mail/FTP usw.);* Unterstützt den Fernzugriff und die Steuerung von Android- / Apple-Mobiltelefonen (oder Tablets) (LAN und Internet). 
+
+
+
+
+Drahtloser NVR
+
+
+Betriebssystem
+Eingebettetes Linux-Echtzeitbetriebssystem
+
+
+Video- und Audioeingang
+Netzwerk-Videoeingang
+8 Kanäle
+
+
+Video- und Audioausgang
+HDMI-Ausgang
+1 Kanal, Auflösung: 1024x768, 1280x1024, 1366x768, 1440x900, 1920x1080p, unterstützt Audioausgabe
+
+
+VGA-Ausgang
+1 Kanal, Auflösung: 1024x768, 1280x1024, 1366x768,1440x900, 1920x1080p
+
+
+Video- und Audio-Codec-Parameter
+Video Auflösung
+D1/960H/720P/960P/1080P/3MP
+
+
+Synchrone Wiedergabe
+4 Kanäle
+
+
+Video 
+Video-/Aufnahmemodus
+Manuelle Aufnahme, Timing-Aufnahme, Aufnahme von Bewegungserkennungen, Alarmaufnahme
+
+
+Wiedergabemodus
+Sofortige Wiedergabe, regelmäßige Wiedergabe, Ereigniswiedergabe
+
+
+Backup-Modus
+Regelmäßige Sicherung
+
+
+Lagerung 
+Cloud-Speicher
+7 Tage kostenlose Dauerspeicherung
+
+
+Schnittstellentyp der Festplatte
+1 SATA-Schnittstelle
+
+
+Maximale Festplattenkapazität
+Festplatte bis 6TB
+
+
+Externe Schnittstelle
+Netzwerkschnittstelle
+1, RJ45 10M/100M adaptiver Ethernet-Port
+
+
+USB-Schnittstelle
+1 USB
+
+
+Audioanschluss
+Ein 3,5-mm-Kopfhöreranschluss
+
+
+Netzwerk
+Netzwerkprotokoll
+UPnP (Plug and Play), SMTP (Mail-Dienst), PPPoE (DFÜ-Internetzugang), DHCP (IP-Adresse automatisch beziehen) usw.
+
+
+
+
+Sonstiges
+Energieversorgung
+Gleichstrom 12V 2A
+
+
+Stromverbrauch (ohne Festplatte)
+≤5W
+
+
+Betriebstemperatur
+-10℃--+55℃
+
+
+Arbeitsfeuchtigkeit
+10%--90%
+
+
+Gewicht (ohne Festplatte)
+≤1kg
+
+
+Größe
+255×220×42mm
+
+
+Drahtloser IPC
+
+
+Pixel
+3MP
+
+
+Bildsensor
+1/2,7” CMOS Sensor, Farbe: 0,1 Lux, Schwarz/Weiß: 0,01 Lux
+
+
+Linse
+4mm
+
+
+Videobearbeitung
+H.264/H.265-Videokodierung, unterstützt Dual-Stream
+
+
+Bildausgabe
+Hauptstream: 2304*1296@15fps; Substream: 640x360@15fps
+
+
+Verschluss
+Automatischer Verschluss
+
+
+Lärmminderung
+Unterstützt 2D/3D-Rauschunterdrückung
+
+
+Breite Dynamik
+Unterstützt Digital Wide Dynamic
+
+
+Tag- und Nachtmodus
+IR-CUT-Infrarotfiltertyp unterstützt Infrarot-/Vollfarbe-/Smart-3-Modi
+
+
+Bild umdrehen
+Unterstützt horizontales und vertikales Flip
+
+
+Audioverarbeitung
+G.711-Codec-Standard, unterstützt Audio- und Videosynchronisierung
+
+
+Audioanschluss
+1 Eingang, Pegel 2Vp-p, Impedanz 1kΩ, MIC/Pickup-Eingang unterstützen; 1 Ausgang, Impedanz 8Ω, 1W Ausgangsleistung, unterstützt direkte Lautsprecher
+
+
+Kabelgebundenes Netzwerk
+1 RJ45 Ethernet-Schnittstelle, 10/100M adaptiv; unterstützt RTSP/FTP/PPPOE/DHCP/DDNS/NTP/UPnP und andere Netzwerkprotokolle
+
+
+drahtloses Netzwerk
+802.11b/g/n
+
+
+IR-Signalschnittstelle
+1 Fotowiderstandsschnittstelle, 1 IR-CUT-Treiberschnittstelle, unterstützt die Steuerung des Lampenpanels mit zwei Lichtquellen (Dual-IO-Steuerung, keine Lampenpanel-MCU)
+
+
+Yuntai
+350° links und rechts, 90° nach oben und unten
+
+
+Schaltflächenschnittstelle zurücksetzen
+stehen zu
+
+
+SD-Kartensteckplatz
+Maximale Unterstützung 128G
+
+
+Merkmale
+Bewegungserkennungen; Push-Alarminformationen; unterstützen die Fernüberwachung von Mobiltelefonen und Clients
+
+
+Nachtsicht
+4 IR Licht + 4 weißes Licht
+
+
+Energieversorgung
+Gleichstrom 12V 1A
+
+
+Last
+0.65kg
+
+
+Größe
+156x91x130mm
+
+
+Paketinformationen
+Gewicht
+3.25kg
+
+
+Größe
+320x332x170mm
+
+
+Packliste
+8CH WIFI NVR*1, WIFI Kamera*4, NVR Netzteil*1,Kamera-Netzteil*4, Handbuch*1, Maus*1, Schraubenpaket*4, Netzwerkkabel*1
+
+
+
+Lieferinhalt:1 x Wireless NVR4 x WIFI IP-Kamera1 x Maus5 x 12V 2A NVR Netzteil1 x 1m Netzwerkkabel4 x Schrauben Satz1 X Kurzanleitung
+
+
+
+

@@ -1,0 +1,213 @@
+https://fr.banggood.com/Geekcreit-NodeMcu-Lua-ESP8266-ESP-12F-WIFI-Development-Board-p-985891.html?cur_warehouse=CN&ID=522225&rmmds=CategoryElectronicsPop
+Geekcreit® NodeMcu Lua ESP8266 ESP-12E Carte de Développement WIFI
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A partir de 2015/10/1, NodeMCU a été mis à niveau vers une nouvelle puce CH340
+
+Description officielle CH340 disques de puce: 
+
+Disque WINDOWS USB à série CH341 / CH340 emballage d'installation
+Support WINDOWS 98 / ME / 2000 / XP / Server 2003 / VISTA / Server 2008 / Win7 / Win8 / Win8.1 32 bits / 64 et MAC
+Grâce à l'authentification de signature numérique de Microsoft
+Dans l'extrémité de l'ordinateur de l'émulation de périphérique USB comme un périphérique série standard Série COM
+Il contient le numéro de série et l'identification CH34X surveillance CH34X échange de matériel de bibliothèque.
+Disques: Http://fr.doit.am/CH341SER.zip
+
+Caractéristiques:
+
+
+Norme sans fil 802.11 b / g / n
+
+
+Support STA / AP / STA + AP trois modes de fonctionnement
+
+
+Pile de protocoles TCP / IP intégrée pour soutenir plusieurs connexions TCP Client (5 MAX)
+
+
+D0 ~ D8, SD1 ~ SD3: utilisé comme GPIO, PWM, IIC, etc., capacité de pilote de port 15mA
+
+
+AD0: 1 chaîne ADC
+
+
+Puissance absorbée: 4.5V ~ 9V (10VMAX), alimenté par USB
+
+
+Courant: transmission continue: ≈70mA (200mA MAX), Veille: <200uA
+
+
+Taux de transfert: 110-460800bps
+
+
+Soutenir l'interface de communication de données UART / GPIO
+
+
+Micrologiciel mis à jour à distance (OTA)
+
+
+Soutenir Liaison Smart Réseau Smart
+
+
+Température de travail: -40 ℃ ~ + 125 ℃
+
+
+Type de lecteur: Double ponts de haute puissance H-pont
+
+Remarque:
+
+Nous n'offrons aucun soutien désolé pour le désagrément
+
+Emballage inclut:
+ 
+1 x NodeMcu Lua ESP-12E Carte de développement WIFI 
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,,
+
+

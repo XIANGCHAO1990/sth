@@ -1,0 +1,145 @@
+1684992
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/87/BB/4ba49921-8b9c-444f-a914-2dcfaeab7f89.JPG
+Módulo WIFI da placa de desenvolvimento do queimador da placa de teste ESP8266 para ESP-01 ESP-01S ESP-12E ESP-12F ESP-12S ESP-18T
+https://pt.banggood.com/ESP8266-Test-Board-Burner-Development-Board-WIFI-Module-For-ESP-01-ESP-01S-ESP-12E-ESP-12F-ESP-12S-ESP-18T-p-1684992.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nuloCaracterística:1. Faça o download e instale o driver do chip da porta serial CH340 correspondente, de acordo com o sistema operacional.2. Faça o download da ferramenta oficial de download do FLASH ESP FLASH DOWNLOAD TOOL3. Download automático do firmware: Pressione o módulo, conecte o cabo USB para fornecer energia, colabore com a ferramenta de download do FLASH, configure os parâmetros de gravação correspondentes, clique em INICIAR para fazer o download, a gravação do firmware será iniciada, o downloader será redefinido automaticamente e colocado o módulo no modo de gravação.O pacote inclui:1 x placa de teste
+
+
+
+

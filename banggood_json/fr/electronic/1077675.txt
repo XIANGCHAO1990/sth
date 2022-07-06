@@ -1,0 +1,180 @@
+1077675
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/B1/D4/219647ea-f2aa-4cad-8c51-cd21341f4f48.JPG
+Pro micro 5v 16m mini-leonardo microcontrôleur carte de développement pour Arduino
+https://fr.banggood.com/Geekcreit-Pro-Micro-5V-16M-Mini-Leonardo-Microcontroller-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1077675.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pro micro 5v 16m mini-leonardo microcontrôleur carte de développement pour Arduino
+
+Description:
+
+Cette carte de développement de microcontrôleur a 4 canaux 10 adc bits, 5 broches pwm, 12 dio, et un serial rx connexion matérielle et tx vous êtes familier avec.fonctionnant sur 16MHz et 5v, cette carte vous rappellera beaucoup d'autres cartes compatibles Arduino que vous aimez.il y a un régulateur de tension à bord, de sorte qu'il peut accepter jusqu'à 12v dc.si vous fournissez une carte d'alimentation électrique instable, assurez-vous de se connecter au "brut" pas sur l'axe de vcc.Nous avons également ajouté un fusible et une diode de protection ptc au circuit d'alimentation et de corriger rx et LED tx circuits.
+
+Caractéristique:
+
+- ATMEGA32U4 fonctionnant en 5V / 16MHz
+- Support Arduino IDE V1.0.1
+- Programmation de l'interface Micro USB sur la carte
+- Quatre broches ADC 10 bits
+- 12 E / S numériques (capacité 5 PWM)
+- Connexion série matérielle Rx et Tx
+
+Emballage inclut:
+
+1 x Module
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

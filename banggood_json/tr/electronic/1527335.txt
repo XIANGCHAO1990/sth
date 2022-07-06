@@ -1,0 +1,405 @@
+1527335
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/B8/7D/b4995611-6a41-4a02-aaac-c0391650d356.jpg
+5 adet M18 Bluetooth 4.2 Ses Alıcı Modülü Kayıpsız Araba Hoparlör Kulaklık Amplifikatör Kurulu Kablosuz Tamir
+https://tr.banggood.com/5pcs-M18-Bluetooth-4_2-Audio-Receiver-Module-Lossless-Car-Speaker-Headphone-Amplifier-Board-Wireless-Refit-p-1527335.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kullanım Kılavuzu: Açmak için buraya tıklayın
+
+	Müşterilerin farklı ihtiyaçları için, aralarından seçim yapabileceğiniz 3 versiyon sunuyoruz:
+
+
+
+
+
+
+
+
+
+İşlev / Model
+
+M18 (bu ürün)
+
+M28 (Ürün Kimliği: 1486747)
+
+M38 (Ürün Kimliği: 1486746)
+
+
+
+Mikro güç kaynağı
+
+x
+
+√
+
+√
+
+
+
+Ses kulaklık jakı
+
+x
+
+√
+
+x
+
+
+
+Dahili amplifikatör
+
+x
+
+x
+
+√ (5N + 5W)
+
+
+
+Lityum pil ile çalışan
+
+√
+
+√
+
+√
+
+
+
+USB ses kartı desteği, ücretsiz sürücü
+
+x
+
+x
+
+√
+
+
+
+Ses hafızası / ayar
+
+√
+
+x
+
+x
+
+
+
+SESSİZ sessiz arayüzü
+
+√
+
+x
+
+x
+
+
+
+Düğme uzatma
+
+√
+
+x
+
+x
+
+
+
+Bluetooth versiyonu
+
+bluetooch V4.2
+
+
+
+Destek Bluetooth protokolü
+
+HFPV1.7, A2DPV1.2, AVRCPV1.5, AVCTPV1.2, AVDTPV1.2
+
+
+
+Formatı desteği
+
+Destek WAV / WMA / FLAC / APE / MP3 kayıpsız kod çözme, stereo iki kanallı çıkış
+
+
+
+Çalışma gerilimi
+
+5V/3.7V-4.2V
+
+
+
+Yayın durumu bağlı değil
+
+5.5MA
+
+
+
+Bağlantı çalışma durumu
+
+20MA
+
+
+
+Derin uyku
+
+3UA
+
+
+
+İletim mesafesi
+
+20 metre (boş veya düşük parazit ortamı)
+
+
+
+Çalışma sıcaklığı
+
+ -40 ° C ila + 85 ° C
+
+
+
+Duyarlılık
+
+ -87dbm
+
+
+
+
+Giriş:
+
+
+
+Bu ürün MH-M18, en son Bluetooth 4.2 iletim, iki kanallı stereo kayıpsız çalma, modül Bluetooth'e bağlandıktan sonra Bluetooth bağlantıyı destekleyen çok uygun bir Bluetooth tasarım çözümüdür. Açık bir ortamda, Bluetooth bağlantı mesafesi 20 metreye kadar olabilir.
+
+Çeşitli Bluetooth ses alımında, çeşitli ses DIY modifikasyonunda yaygın olarak kullanılır.
+
+
+
+
+
+Toplu iğne
+
+fonksiyon
+
+Açıklama
+
+
+
+1
+
+ANAHTAR
+
+Düğme kontrol terminali (4 düğme işlevi, kablo şeması gibi ek dirençler)
+
+
+
+2
+
+SESSİZ
+
+Sessiz kontrol terminali (sessize aldığınızda yüksek seviye 3.3V, oynatma sırasında çıkış düşük seviye)
+
+
+
+3
+
+VCC
+
+Pozitif güç kaynağı 5V (lityum pil 3.7V güç kaynağı kısa devre diyot gerektirir)
+
+
+
+4
+
+GND
+
+Güç negatif / ses sinyali toprağı
+
+
+
+5
+
+L
+
+Sol kanal çıkışı
+
+
+
+6
+
+R
+
+Sağ kanal çıkışı
+
+
+
+
+
+
+İşlev Açıklaması:
+
+
+
+Bluetooth V4.2 sürümü, Bluetooth otomatik bağlantı teknolojisini destekler, WAV / WMA / FLAC / APE / MP3 kayıpsız kod çözme, stereo çift kanal çıkışını destekler.
+
+Modül açıldıktan sonra, cep telefonu Bluetooth MH-M18 / MH-M28 / MH-M38 adını arar ve Bluetooth'i bağladıktan sonra müzik çalabilir.
+
+
+
+Paket içeriği:
+
+	5 x M18 Modül
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

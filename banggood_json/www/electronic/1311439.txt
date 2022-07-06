@@ -1,0 +1,199 @@
+1311439
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/BA/E5/899ae22e-d35c-4819-9935-f2df4d9faf9e.jpeg
+Geekcreit® LCR-T4 12864 LCD Graphical Transistor Tester Resistance Capacitance ESR SCR Meter
+https://www.banggood.com/Geekcreit-LCR-T4-12864-LCD-Graphical-Transistor-Tester-Resistance-Capacitance-ESR-SCR-Meter-p-1311439.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifications:
+
+Resistor: 0.1ω-50Mω
+Capacitor: 25pF-100000uF
+Inductance: 0.01mH - 20H
+Working power: DC-9V
+Standby current: 0.02uA
+Operating current: 25mA
+Material: Metal+Plastic
+Size: about 11.1cm/4.37"x2.6cm / 1.02"x8.5cm/3.34"
+[Conversion: 1cm=0.3937 inch, 1inch=2.54 cm]
+
+
+Features:
+
+	 
+
+1. Support boot voltage detection function
+
+2. Automatic detection of NPN and PNP transistors, N-channel and P-channel MOSFETs, diodes (including dual diodes), thyristors, triodes, resistors, and capacitors. Automatically testing the component leads and displaying them on the LCD
+
+3. The forward bias voltage of the emitter transistor can be determined by detecting the amplification factor and base number of a transistor, a MOSFET protection diode, and the like
+
+4. Measure gate threshold voltage and gate capacitance MOSFET
+
+5. The display uses 12864 lcd LCD (128 * 64 characters)
+
+6. High test speed, valid component test: In 2 seconds (except in larger capacitors, large capacitance measurement also takes a long time, the measurement time in 1 minute is normal)
+
+7. One-button operation, power-on test.
+
+8. Power Consumption Shutdown Mode: Less than 20 nA
+
+9. Automatic shutdown function can avoid unnecessary waste, save battery energy and improve battery life.
+
+Package includes:
+
+	1 x LCR-T4 12864 LCD Graphical Transistor Tester
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

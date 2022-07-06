@@ -1,0 +1,195 @@
+1203369
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/BE/58/a15c7396-6ce2-4fe3-9bb6-22f7d93f781a.jpg
+Geekcreit® DC 6-40V - 1.2-36V 300W 20A Sabit Akım Ayarlanabilir Buck Dönüştürücü Adım Aşağı Modül Kartı
+https://tr.banggood.com/Geekcreit-DC-6-40V-To-1_2-36V-300W-20A-Constant-Current-Adjustable-Buck-Converter-Step-Down-Module-Board-p-1203369.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikler:
+
+	Gümüş renk
+	Malzeme: Metal
+	Boyut: Yaklaşık. 60 x 52 x 27 mm / 2.36 x 2.05 x 1.06''
+	Giriş gerilimi: DC 6-40V (10V - 40V önerilir)
+	Çıkış Voltajı: DC 1.2-36V
+	Çıkış Akımı: 20A(maks.), 15A (önerilen)
+	Verimlilik: %97 (24V - 12V, 20A)
+	Çıkış Dalgalanması: ≤50mV
+	Kablolama Yöntemi: Terminal
+	Kısa Devre Koruması: Kendini kurtarma (uzun süre kısa devre yapılamaz)
+	VO+: Çıkış pozitif
+	VO-: Çıkış negatif
+	+IN: Giriş pozitif
+	-IN: Giriş negatif
+	CV: Çıkış voltajı ayarı
+	CC: Çıkış akımı ayarı
+	TR: Etkinleştir, düşük voltaj seviyesi kapatma çıkışı; süspansiyon, yüksek voltaj seviyesi etkilidir
+	Giriş ve çıkış ortak topraklandığında, yüksüz CV çıkışı sabit voltajı, CC çıkışı sabit akımı
+	Çalışma Sıcaklığı: -10°C-75°C
+
+Özellikleri:
+
+	6V ila 40V arasında geniş bir giriş voltajı aralığı ile, kademeli dönüştürücü, çıkış voltajını ve akımını doğru bir şekilde ayarlayabilir
+	Verimlilik, 20A'da ölçüldüğünde, 24V'u 12V'a dönüştürerek %96'ya kadar çıkabilir
+	75V/80A büyük akım çift MOS tüp ile tasarlanmıştır
+	Buck modülünde, ısı dağılımını artırabilecek 2 ısı emici bulunur
+	Bu büyük akım 30A vidalı terminallerle kablolama uygundur
+	Giriş ve çıkış, yüksek frekanslı düşük dirençli elektrolitik kapasitör, düşük dalgalanma, kararlı çıkış kullanır
+	Kararlı ve güvenilir
+	İnce işçilik ve dayanıklı
+
+Paket içeriği:
+
+	1 x 300W 20A ayarlanabilir kademeli dönüştürücü modülü
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,171 @@
+1047429
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/CA/F9/a3a20464-326a-47ae-8f93-5cd11e61dc89.jpg
+3Stücker Geekcreit® ATmega328P Arduino Kompatibel Nano V3 Verbesserte Version Kein Kabel
+https://de.banggood.com/3Pcs-ATmega328P-Development-Board-Compatible-Nano-V3-Module-Improved-Version-No-Cable-p-1047429.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spezifikation:
+
+Mikrocontroller Atmel ATmega328
+Betriebsspannung (Logikpegel): 5V
+Eingangsspannung (empfohlen): 7V ~ 12V
+Eingangsspannung (Grenzwerte): 6V ~ 20 V
+Digitale E / A-polig: 14 (davon 6 PWM-Ausgang)
+Analoge Eingangsanschlüsse: 8
+DC-Strom pro E / A-polig: 40mA
+Flash-Speicher: 32KB (ATmega328) (davon 2 KB von Bootloader verwendet)
+SRAM: 2KB (ATmega328)
+EEPROM: 1KB (ATmega328)
+Taktgeschwindigkeit: 16MHz
+
+Hinweis:
+
+Diese Version ist nicht im Lieferumfang des USB-Kabels enthalten.
+USB-Chip ändern, verbessern Sie die Download-Geschwindigkeit und Stabilität von WIN7 / WIN8
+
+Lieferinhalt:
+
+3 x Arduino Kompatible Verbesserte Version Nano V3.0
+
+
+
+
+
+
+,
+
+

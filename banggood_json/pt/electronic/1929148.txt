@@ -1,0 +1,145 @@
+1929148
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/73/52/247f4203-bd07-48f9-b8bd-5201f0af2d0d.jpg
+ESP32-C3 Placa de Desenvolvimento de Internet das Coisas WiFi + 5.0 Bluetooth Módulo de Modo Duplo Módulo de Comunicação Sem Fio
+https://pt.banggood.com/ESP32-C3-Internet-of-Things-Development-Board-WiFi+5_0-bluetooth-Dual-mode-Module-Wireless-Communication-Module-p-1929148.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MCU:• Chip ESP32-C3FH4 ou ESP32-C3FN4 integrado, microprocessador de núcleo único RISC-V de 32 bits, a frequência máxima é de 160 MHz• Flash embutido de 4 MB• 384 KBROM• SRAM de 400 KB (dos quais 16 KB são dedicados ao cache)• 8 KBRTCSRAMWi-fi:• Suporte ao protocolo IEEE802.11b/g/n• Faixa de frequência central do canal de trabalho: 2412~2484MHz• Suporta largura de banda de 20 MHz e 40 MHz na banda de frequência de 2,4 GHz• Suporte ao modo 1T1R, taxa de dados de até 150Mbps• Multimídia sem fio (WMM)• Agregação de quadros (TX/RXA-MPDU, TX/RXA-MSDU)• ACK de bloco imediato (ImmediateBlockACK)• Fragmentação e reorganização (Fragmentação e desfragmentação)• Oportunidade de transmissão (oportunidade de transmissão, TXOP)• Monitoramento automático de beacon (hardware TSF)• 4 × interface Wi-Fi virtual• Suporte à rede de infraestrutura (InfrastructureBSS) Modo Estação, modo SoftAP, modo Station+SoftAP e modo promíscuo ao mesmo tempo. Observe que quando a série ESP32-C3 digitaliza no modo Station, o canal SoftAP mudará ao mesmo tempo• Antena diversidade• 802.11mcFTMBluetooth:• Bluetooth Baixa Energia (BluetoothLE): Bluetooth5, Bluetoothmesh• Taxa de suporte 125Kbps, 500Kbps, 1Mbps, 2Mbps• Extensões de transmissão (Extensões de publicidade)• Vários anúncios (MultipleAdvertisementSets)• Seleção de Canal (ChannelSelectionAlgorithm#2)Hardware:• Interface do módulo: GPIO, SPI, UART, I2C, I2S, controle remoto infravermelho (controle remoto periférico), controlador LEDPWM, controlador DMA geral, controlador TWAI® (compatível com ISO11898-1), porta serial USB/controlador JTAG, sensor de temperatura, SAR A Conversor /D• Oscilador de cristal integrado de 40MHz• Temperatura do ambiente de trabalho: –85°C módulo de versão: –40~85°C–105°C módulo de versão: -40~105°CPacote incluído:1 x ESP-C3-12F-Kit Series Development Board
+
+
+
+

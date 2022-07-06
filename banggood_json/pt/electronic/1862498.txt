@@ -1,0 +1,360 @@
+1862498
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/BD/A4/441df3bd-a65c-4311-afda-2be2e10a23d4.jpg
+ESCAM WNK614 8CH 3MP Wireless Dome Câmera CCTV Sistema de Segurança NVR Kit Áudio bidirecional Luz dupla de movimento Sensor Câmera IP de detecção
+https://pt.banggood.com/ESCAM-WNK614-8CH-3MP-Wireless-Dome-Camera-CCTV-Security-System-NVR-Kit-Two-Way-Audio-Dual-Light-Motion-Sensor-Detection-IP-Camera-p-1862498.html?cur_warehouse=USA&ID=47757&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recursos:APP: EseeCloud1. Suporte H.265 formato de compressão de vídeo2 NVR sem fio de 8 canais + câmera dome de alta definição de 4 canais e 3 MP （Se você precisar adicionar mais câmeras, por favor >>> Clique aqui <<<）3. Três tipos de visão noturna inteligente em cores com fontes de luz duplas3. Suporte a voz bidirecional4. 7 dias de nuvem recorrente gratuita Armazenamento5 Suporte máximo para 1 compartimento de disco rígido de 6 TB6. Suporte a detecção de sensor de movimento por vídeo de envio de alarme7. Suporte para monitoramento remoto de APP móvelEspecificação:* Gravador de vídeo de disco rígido de rede sem fio de 3.0MP;* Módulo de WIFI sem fio dedicado de segurança embutido, sinal estável e forte capacidade anti-interferência;* Não há necessidade de emparelhamento WIFI, a imagem será exibida quando a caixa for ligada;* Uso misto com e sem fio, adapta-se a vários cenários;* P2P EseeCloud (APP: EseeCloud), conexão remota em segundos, imagem suave e estável;* Suporta vários gatilhos de alarme (perda de vídeo / detecções de movimento, etc.) e saída de alarme (voz / E-Mail / FTP, etc.);* Suporta acesso e controle remoto (LAN e Internet) de telefone celular Android / Apple (ou tablet). 
+
+
+
+
+NVR sem fio
+
+
+sistema operacional
+Sistema operacional Linux integrado em tempo real
+
+
+Entrada de vídeo e áudio
+Entrada de vídeo em rede
+8 canais
+
+
+Saída de vídeo e áudio
+Saída HDMI
+1 canal, resolução: 1024x768, 1280x1024, 1366x768, 1440x900, 1920x1080p, suporta saída de áudio
+
+
+Saída VGA
+1 canal, resolução: 1024x768, 1280x1024, 1366x768,1440x900, 1920x1080p
+
+
+Parâmetros de codec de vídeo e áudio
+Resolução de vídeo
+D1 / 960H / 720P / 960P / 1080P / 3MP
+
+
+Reprodução síncrona
+4 canais
+
+
+Vídeo 
+Modo de vídeo / captura
+Gravação manual, gravação de tempo, gravação de detecção de movimento, gravação de alarme
+
+
+Modo de reprodução
+Reprodução instantânea, reprodução regular, reprodução de evento
+
+
+Modo de backup
+Backup regular
+
+
+Armazenar 
+Cloud Armazenamento
+7 dias grátis recorrente Armazenamento
+
+
+Tipo de interface de disco rígido
+1 interface SATA
+
+
+Capacidade máxima do disco rígido
+Disco rígido de até 6 TB
+
+
+Interface externa
+Interface de rede
+1, RJ45 porta Ethernet adaptativa 10M / 100M
+
+
+Interface USB
+1 USB
+
+
+porta de áudio
+Uma porta de fone de ouvido de 3,5 mm
+
+
+Rede
+Protocolo de rede
+UPnP (plug and play), SMTP (serviço de e-mail), PPPoE (acesso discado à Internet), DHCP (obter um endereço IP automaticamente), etc.
+
+
+
+
+de outros
+fonte de energia
+DC 12V 2A
+
+
+Consumo de energia (sem disco rígido)
+≤5W
+
+
+Temperatura de operação
+-10℃-＋55℃
+
+
+Umidade de trabalho
+10% - 90%
+
+
+Peso (sem disco rígido)
+≤1Kg
+
+
+Tamanho
+255 × 220 × 42 mm
+
+
+IPC sem fio
+
+
+Pixel
+3MP
+
+
+Image Sensor
+Sensor CMOS de 1 / 2,7 ”, cor: 0,1 Lux, preto / branco: 0,01 Lux
+
+
+Lente
+4mm
+
+
+Processamento de vídeo
+Codificação de vídeo H.264 / H.265, suporte dual stream
+
+
+Saída de imagem
+Transmissão principal: 2304 * 1296 a 15 fps; Sub stream: 640x360 @ 15 fps
+
+
+veneziana
+Obturador automático
+
+
+Redução de ruído
+Suporta redução de ruído 2D / 3D
+
+
+Ampla dinâmica
+Suporta ampla dinâmica digital
+
+
+Modo diurno e noturno
+O tipo de filtro infravermelho IR-CUT suporta os modos infravermelho / full color / smart 3
+
+
+Virar imagem
+Suporte para inversão horizontal e vertical
+
+
+Processamento de áudio
+Padrão de codec G.711, suporta sincronização de áudio e vídeo
+
+
+porta de áudio
+1 entrada, nível 2Vp-p, impedância 1kΩ, suporte MIC / entrada de captação; 1 saída, impedância 8Ω, 1W de potência de saída, suporte a alto-falantes diretos
+
+
+Rede com fios
+1 RJ45 interface Ethernet, adaptável 10/100 M; suporta RTSP / FTP / PPPOE / DHCP / DDNS / NTP / UPnP e outros protocolos de rede
+
+
+rede sem fio
+80211b/g/n
+
+
+Interface de sinal infravermelho
+1 interface de fotoresistor, 1 interface de unidade IR-CUT, suporte para controle de painel de lâmpada de fonte de luz dupla (controle de IO duplo, sem painel de lâmpada MCU)
+
+
+Yuntai
+350 ° à esquerda e à direita, 90 ° para cima e para baixo
+
+
+Interface do botão de reinicialização
+espera
+
+
+Slot para cartão SD
+Suporte máximo 128G
+
+
+Recursos
+Detecções de movimento; empurre informações de alarme; suporte ao monitoramento remoto de telefones celulares e clientes
+
+
+Visão noturna
+4 IR luz + 4 luz branca
+
+
+fonte de energia
+DC 12V 1A
+
+
+peso
+0.65kg
+
+
+Tamanho
+156x91x130mm
+
+
+Informação do pacote
+Peso
+3.25kg
+
+
+Tamanho
+320x332x170mm
+
+
+Lista de embalagem
+8CH WIFI NVR * 1, câmera WIFI * 4, adaptador de energia NVR * 1,adaptador de energia da câmera * 4, manual * 1, mouse * 1, pacote de parafusos * 4, cabo de rede * 1
+
+
+
+Incluído no Pacote:1 x NVR sem fio4 x câmera WIFI IP1 x mouseAdaptador de alimentação 5 x 12v 2A NVR1 x 1m cabo de rede4 x kit de parafusos1 X Guia de início rápido
+
+
+
+

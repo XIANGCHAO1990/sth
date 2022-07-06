@@ -1,0 +1,315 @@
+1526966
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/CF/11/357fe695-967f-4ebb-a19d-1f2a0d4b16a6.jpg
+MDP-XP 30V / 5A 90W 2.4G Kablosuz Bağlantı 2,8 inç TFT Ekranlı Dijital Programlanabilir Güç Sistemi Monitör Otomatik Eşleştirme Kontrolü 6 Alt modül
+https://tr.banggood.com/MDP-XP-30V-or-5A-90W-2_4G-Wireless-Connection-Digital-Programmable-Power-System-with-2_8-inch-TFT-Screen-Monitor-Automatic-Matching-Control-6-Sub-modules-p-1526966.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+※Açıklamalar:
+
+
+
+MDP (Mini Dijital Güç Sistemi), modüler tasarıma dayalı, gerektiğinde kullanım için farklı modülleri bağlayabilen programlanabilir doğrusal DC güç kaynağı sistemidir.
+
+Mevcut İşlevsel Modüller:Ekran Kontrol Modülü,Dijital Güç Modülü
+
+Geliştirmedeki Modüller:Dijital Sinyal Üreteç Modülü,Elektronik Yük Modülü,Güç Şarj Modülü,Pil Paketi Modülü
+
+
+
+MDP-XP, bir ekran kontrol modülü ve bir dijital güç modülünden oluşur. 2.4G kablosuz bağlantı sayesinde, kanal başına 90W gücünde çok kanallı serbest kombinasyon elde eder. MDP-XP, profesyonel güç kaynaklarıyla karşılaştırılabilir göstergeler, kararlılık, güvenilirlik ve farklı kullanıcı arabirimi içeren, yüksek maliyetli, programlanabilir bir doğrusal DC güç kaynağıdır; ayrıca, çeşitlendirilmiş test ihtiyaçlarını karşılamak için programlanabilir çıkış, zamanlama çıkışı, sıralı kontrol, otomatik kompanzasyon ve diğer güçlü işlevler sağlar.
+
+
+
+Ekran Kontrol Modülü: 2,8 inç TFT ekranla donatılmış, voltaj-akım dalga biçimini gerçek zamanlı olarak görüntüleyebilir, veri istatistiklerini destekleyebilir ve çift başparmak tekerleği ile altı alt modülle (dijital güç modülleri) otomatik olarak eşleşebilir ve bunları kontrol edebilir ve 90 derece kaydırmalı kullanıcı dostu tasarım.
+
+Dijital Güç Modülü: yüksek verimli lineer çıkış, 0.25mV dalgalanma dalgası, yüksek hızlı geçici yanıt ve hassas ince ayarı destekler.
+>> bulmak için lütfen buraya tıklayın  MDP-P905 Dijital Güç Modülü<<
+
+
+
+※Özellikleri:
+
+
+- Bir Ekran Kontrolün yanı sıra altı Dijital Gücü destekleyen 2.4G kablosuz bağlantı
+
+- 4,2V ile 30V arasında DC geniş voltaj girişi, başlatmadan sonra 2,7V'a düşürüldü
+
+- 4uS kadar hızlı, yüksek hızlı geçici yanıt ve aşırı akım koruması
+
+- Son derece düşük yük regülasyonu ve akıllı hat kaybı telafisi
+
+- 90W kapasite yükü ile yüksek verim ve doğal ısı dağılımı
+
+- Pozitif ve negatif basınç, seri basınçlandırma, paralel akım paylaşımı, ortak yükün serbest kombinasyonu ve akıllı güç tahsisi desteği
+
+- Güvenlik Korumaları: giriş aşırı voltajı, düşük voltaj koruması, ters bağlantı koruması, geri akış koruması, aşırı sıcaklık koruması ve aşırı akım koruması
+
+
+
+※Uygulamalar: 
+
+
+Ar-Ge laboratuvarında genel testler ve öğretim deneyleri 
+
+Cep telefonlarının, dizüstü bilgisayarların ve diğer dijital ürünlerin bakımı 
+
+RF ve mikrodalga devrelerinin veya modüllerinin güç kaynağı testi ve veri kaydedicisi
+
+Yüksek doğruluklu dijital analog devreler ve Hi-Fi ses cihazları için saflaştırılmış güç sağlayın
+
+Cihazların ve devrelerin özellik doğrulaması ve arıza teşhisi
+
+Kalite kontrol ve kalite kontrol
+
+modl uçaklar ve araçlar için acil durum güç kaynağı
+
+※Özellikler:
+
+
+
+
+
+mod
+
+MDP-XP
+
+
+
+Giriş
+
+DC4.2V-30V(Başlangıçtan sonra 2.7V),100mA-6A,Destek QC3.0
+
+
+
+Çıktı
+
+30V/5A,90W
+
+
+
+Ayar oranı
+
+Yük ayar oranı <±0.01^%
+
+
+
+Güç ayar oranı <±0.01^%
+
+
+
+Dalgalanma ve gürültü
+
+250uVrms/3mVpp
+
+
+
+Geçici yanıt süresi
+
+≤4uS
+
+
+
+Hat kaybı telafisi
+
+5mR-100mR
+
+
+
+Koruma
+
+Giriş aşırı voltajı,düşük voltaj, anti-ters, çıkış anti-geri akış, Aşırı sıcaklık
+
+
+
+Veri kaydı
+
+Maksimum depolama: 7MB, Maksimum kayıt süresi: 24 saat.
+
+
+
+Diğerleri
+
+Otomatik olarak kapanır ve mikro güç moduna girer
+
+
+
+USB bellenim yükseltmesini destekleyin
+
+
+
+Kullanıcı kalibrasyonunu destekleyin
+
+
+
+
+Paket İçeriği:
+
+1 x MDP-XP Güç Sistemi(1 x MDP-M01 Akıllı Dijital Monitör + 1 x MDP-P905 Dijital Güç Kaynağı)
+
+1 x Kablo (Mikro USB'ye 2,5 mm ses kafası)
+
+2 x Çıkış Hattı (4mm muz kafasına timsah klips)
+
+Detaylar Resimler:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

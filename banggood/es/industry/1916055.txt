@@ -1,0 +1,143 @@
+https://es.banggood.com/Dual-channel-VI-Curve-Tester,Displaying-2-Waveforms-at-the-Same-Time-for-Easy-Comparison-p-1916055.html?cur_warehouse=CN&ID=6315607&rmmds=CategoryToolsPop
+Probador de curvas VI de doble canal, que muestra 2 formas de onda al mismo tiempo para una fácil comparación
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>Haga clic aquí para descargar el manual de usuario en inglés<<Probador de curvas VI bidireccional, que puede mostrar formas de onda bidireccionales al mismo tiempo, lo que es conveniente para la comparación.4 niveles de resistencia interna ajustables, 4 frecuencias de prueba, se pueden usar cuando se conecta a un osciloscopio, se pueden usar osciloscopios analógicos y osciloscopios digitalesConfiguración de los parámetros del osciloscopio:*. Ajuste el osciloscopio al modo XY (diferentes osciloscopios tienen diferentes métodos de ajuste, explore usted mismo)* Ajuste los parámetros verticales de los 2 canales de XY a 1V / div, y solo es necesario ajustar uno de los osciloscopios de una sola pista. ,* El osciloscopio analógico no necesita ajustar la base de tiempo, la base de tiempo osciloscopio digital se ajusta entre 1-5ms* Una vez que la conexión sea correcta, el osciloscopio mostrará una línea horizontal. Si se muestra una línea vertical, el conector xY se invertirá.* Ajuste los parámetros verticales y horizontales, las líneas horizontales y verticales están en el cuadro de visualización.Método de conexión del osciloscopio analógico:La conexión del osciloscopio analógico es relativamente simple y los diferentes osciloscopios son ligeramente diferentes.Ajuste el osciloscopio al modo xY. Algunos osciloscopios se pueden seleccionar presionando los botones, mientras que otros se seleccionan con la perilla al modo xY. Por favor, estudie usted mismo.Conecte el cable BNC al osciloscopio y enciéndalo. Normalmente, se mostrará una línea horizontal. Ajuste los parámetros del canal vertical xY, aproximadamente 1V / div, y luego ajuste la atenuación x Y para que la línea horizontal esté en el marco de la pantalla. También puede pasar la versión de prueba VI. El potenciómetro de atenuación x en el lado superior puede ayudar a ajustar la longitud de la línea horizontal. Si la pluma de prueba itiene un cortocircuito, se mostrará una línea vertical en circunstancias normales. Si la línea vertical es demasiado larga o demasiado corta, debe ajustar los parámetros del canal Y para hacer la línea vertical en el marco de visualización. Media cuadrícula o 1 cuadrícula hasta el borde es mejor. Si las líneas horizontales y verticales son normales, puede ingresar la medida normal.Cómo conectar un osciloscopio digital:Para osciloscopios digitales, ingrese el modo xY a través del menú o las teclas. Los dos canales de xY se ajustan a 1V / div, y el osciloscopio de pista única solo necesita ajustar el canal Y. Ajuste la base de tiempo a 1-5 milisegundos. El canal xY selecciona el acoplamiento de CC y ella atenuación es 1x.Cuando el osciloscopio no está conectado, la pantalla debe ser un punto brillante. Ajuste la horizontal y la vertical para centrar el punto brillante. Conecte el probador de VI. Normalmente, debería ser una línea horizontal. Ajuste el potenciómetro 103 en la parte superior de la placa VI para hacer la línea horizontal en el marco de la pantalla. , Media cuadrícula o 1 cuadrícula hasta el borde esmejor. Haga un cortocircuito en los cables de prueba y la pantalla debe ser una línea vertical en este momento. Ajuste los parámetros del canal Y para que la línea vertical esté en el marco de visualización. Hasta ahora, la depuración básicamente ha terminado.Cuando pruebe la placa de circuito en línea, no la cargue. Si hay un condensador grande en la placa de circuito, descargue primero el condensador; de lo contrario, es fácil quemar la placa de prueba VI.
+
+
+
+

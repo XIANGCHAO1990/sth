@@ -1,0 +1,171 @@
+1047429
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/CA/F9/a3a20464-326a-47ae-8f93-5cd11e61dc89.jpg
+3 Adet ATmega328P Geliştirme Kurulu Uyumlu Nano V3 Modülü Geliştirilmiş Versiyonu Hiçbir Kablo
+https://tr.banggood.com/3Pcs-ATmega328P-Development-Board-Compatible-Nano-V3-Module-Improved-Version-No-Cable-p-1047429.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Şartname:
+
+Mikrodenetleyici ATmega328
+Çalışma Gerilimi (mantık seviyesi): 5V
+Giriş Voltajı (önerilen): 7V ~ 12V
+Giriş Voltajı (sınırlar): 6V ~ 20 V
+Dijital G / Ç Pimleri: 14 (hangisi 6 PWM çıktı sağlar)
+Analog Giriş Pimleri: 8
+G / Ç Pini başına DC Akımı: 40mA
+Flash Bellek: 32KB (ATmega328) (2 KB bootloader tarafından kullanılır)
+SRAM: 2KB (ATmega328)
+EEPROM: 1KB (ATmega328)
+Saat Hız: 16MHz
+
+Not:
+
+Bu sürüm USB kablosuyla birlikte verilmemektedir.
+USB yongasını değiştirin, WIN7 / WIN8'in indirme hızını ve kararlılığını geliştirin
+
+Paket içeriği:
+
+3 x Uyumlu Geliştirilmiş Sürüm Nano V3.0
+
+
+
+
+
+
+,
+
+

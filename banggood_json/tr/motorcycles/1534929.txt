@@ -1,0 +1,404 @@
+1534929
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/EB/33/c366866e-b894-4aa6-95e8-4d38e44e5e96.jpg
+9 İnç 2 DIN Araba MP5 Oynatıcı Quad Core 1 + 16G Stereo Radyo IPS Dokunmatik Ekran bluetooth FM DAB DVR
+https://tr.banggood.com/9-Inch-2-DIN-Car-MP5-Player-Quad-Core-1+16G-Stereo-Radio-IPS-Touch-Screen-bluetooth-FM-DAB-DVR-p-1534929.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Installation video: https://drive.google.com/open?id=1KrvmvRVmTvkmVVt2VoixYzvDsP76b2hg
+
+
+
+Şartname:
+
+Güç kaynağı: dc 12v
+
+Maks. Alan sayısı Güncel: 10A
+
+Ekran boyutu: 9 inch
+Birim Büyüklüğü: 2 DIN
+	Ebat: 251 * 146mm
+
+
+
+Sistem:
+
+İşletim sistemi: C200S (Android sistemi değil)
+
+İŞLEMCİ: Dört çekirdekli CPU İşlemci 1.3 GHz
+
+ROM: 16GB
+
+VERİ DEPOSU: 1GB
+
+USB portu, 32GB USB Çubuk desteği
+
+
+
+Sistem Parametresi:
+
+Video Çözme: Tüm Biçim
+
+İşlet Sistemi: C200S
+
+Başlangıç Süresi: Temel yaklaşık 5S, Çoğu yaklaşık 25S'dir
+
+Çalışma Sıcaklığı: -20 ° C ----- + 70 ° C
+
+Depolama Sıcaklığı: -30 ° C ----- + 80 ° C
+
+Bekleme Akımı: <10MA
+
+Çalışma Gerilimi: 10.8 ~ 14.8V
+
+Ekran Tipi: Dijital Kapasitif Dokunmatik Ekran
+
+
+
+Görüntüle:
+
+IPS Dokunmatik Ekran: Evet
+
+Kapasitif veya Direnç Ekranı: Kapasitif
+
+Dahili Saat ve Takvim: Evet, gerçek zamanlı göster ve ağ tarafından sağlanan zamanı kullanabilir
+
+Ana Menü Durum Çubuğu ekranı: Müzik / Radyo / BT-Stereo Oynatıcı ve Saat / Tarih / Hafta olarak değiştirilebilir
+
+Apps-Simge Konumunu Değiştir: Evet
+
+
+
+Ses:
+
+Biçim: MP3 / WMA/MP2 / OGG / AAC / MA4 / FLAC / APE / WAV, vb.
+
+Kayıt: MP3, WMA
+
+Diğer: LRC senkronize ekran; ID3 araması; Dosyalara göre ara; Albüm resmi; Kullanıcı tanımlı ses efekti
+
+Audio IC: En iyi Global Cirrus IC, bağımsız ses çözme
+
+SNR: Gürültü oranları: = 90dB
+
+
+
+Video:
+
+Biçim: Destek AVI (H.264, XVID), RM, RMVB, MKV (H.264, XVID). WMA, MOV, MP4 (H.264, MPEG, XVID).
+	DAT (VCD formatı). VOB (DVD formatı). PMP, MPEG, MPG. FLV (H.263, H.264). ASF, TS, TP, 3GP, MPG vb. = 30 formatı, Oynatma
+	doğrudan internet videosu (indirilirken)
+
+Oynat: 1920'e kadar * 1080 Piksel, 30 Mb. Işık spotu olmadan akıcı oynama
+
+
+
+Bluetooth:
+
+Eller Serbest: Evet
+
+A2DP (bluetooth Stereo Müzik): Evet, Bluetooth üzerinden stereo müzik çalabilir
+
+Bluetooth Müzik Kontrolü: Evet, oynat / duraklat / önceki / sonraki
+
+PB-Download: Evet, telefon rehberini mobil cihazdan bu cihaza indirebilir
+
+PB-Search: Evet, PB Listesindeki irtibat üyesini aramak için ilk harfi kullanabilir.
+
+Arama Kayıtları: Evet, Yapılan Arama, Gelen Arama, Cevapsız Arama
+
+Kurulum: otomatik cevaplama, otomatik bağlantı, cihaz adı
+
+Dahili Mikrofon: Evet, ön panelde
+
+
+
+Radyo:
+
+FM: 87,5-108 MHz
+
+FM Artışı: 0,05 MHz (AB) / 0,1 MHz (US)
+
+FM Alanı: Avrupa / ABD1 / ABD2 / Japonya / Rusya
+
+Önceden Ayarlanmış İstasyonlar: 30 (FM 3 * 6, AM 2 * 6)
+
+
+
+USB:
+
+Konum: 2 USB Bağlantı Noktası, Media / Kamera / DAB + Kutu/Akıllı Telefon ile bağlanabilir
+
+MP5 Videoları Oynat: Evet, 1080P'e kadar RMVB Videoları oynatabilir
+
+Doğrudan oynamak için Müzik Başlığı öğesine dokunun: Evet
+
+
+
+DVR:
+
+Dahili Araba Kaydedici Uygulaması: Evet, bu işlevi kullanmak için bir USB Kamera bağlayın
+
+HD CCD Kamera Desteği: Evet
+
+Kaydedilmiş videoyu doğrudan oynat: Evet
+
+Saklama Pozisyonu: Nand Flash / USB Depolama değiştirilebilir
+
+
+
+DAB (+) - IN:
+
+Destek (DAB + BOX AYARLI SATIN ALMALI GEREKİR)
+
+
+
+DTV-IN:
+
+Dahili Dijital TV Alıcısı: Hayır
+
+TV Kutusu için Harici Bağlantı Noktası: Evet, DVB-T / DVB-T2 / ATSC / ISDB Kutusunu Destekleyin
+
+Doğrudan TV Kutu'a Güç Kaynağı: Evet, bu işlevi elde etmek için TV Kutu'ımızı bağlayabilirsiniz.
+
+TV Kutu'ı ünite üzerinde kontrol et'e dokunun: Evet, bu işlevi elde etmek için TV Kutu'ımızı bağlayabilirsiniz.
+
+
+
+Ek:
+
+Ders kitabı: Yazı tipini, yazı tipi rengini, arka plan rengini, yer imini değiştirebilir, müzik dinlerken E-kitap okuyabilir
+
+Fotoğraf Görüntüleyici: JPS, BMP, PNG, GIF vb. Formatlarını destekler. revolve, PPT Desteği, 4096 * 4096 Piksel desteği
+
+Duvar Kağıtları: 5 canlı duvar kağıdı, 17 standart duvar kağıdı, Galeri'den DIY duvar kağıdını destekler
+
+ APK Yükleyici: Destek Android Paket yükleyici
+
+Destek Torku Pro (OBD2 ve Araba): Evet, bu işlevi kullanmak için bir bluetooth OBD2 Tarayıcı Parçalar bağlayabilirsiniz.
+
+Ayna Bağlama işlevini destekleyin: Evet, iPhone ve android akıllı telefondan yansıtmayı destekleyin
+
+Destek TPMS: EVET (Dahil Değil, birlikte satın alabiliriz)
+
+
+
+Giriş:
+
+AUX Video Girişi
+
+Arka Görüş Kamera Video Girişi
+
+AUX Ses Girişi: R / L
+
+DTV Kutu In
+
+DAB + Kutu In
+
+Araba DVR In
+
+
+
+Çıktı:
+
+Video çıkışı
+
+Ses Çıkışı: LF, LR, RR, RF
+
+Surround Stereo Çıkışı: 4 * 50W
+
+Subwoofer Çıkışı
+
+
+
+Özellikleri:
+
+1. bluetooth işlevi (cevap / çağrı, bluetooth müzik çalar)
+
+2. Destek sürüş kaydedici (DVR)
+
+3. Ekrana dokunun
+
+4. FM radyo
+
+
+
+Not:
+
+1. Not: Bu ürün kabuk içermez. Kabuk kendiniz satın almanız gerekir.
+
+2. Satın almadan önce, Numara'i ölçmeniz ve ürün Numara ile eşleşip eşleşmediğini kontrol etmeniz gerekir. Eşleşmiyorsa, 
+		Braketi ayrıca satın alın.
+
+
+
+
+Paket içeriği:
+
+1 x Araba MP5 Oynatıcı
+
+2 x USB Kablosu   
+
+1 x Güç Kablosu
+
+1 x RCA Kablosu
+
+1 x Kamera Giriş Kablosu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

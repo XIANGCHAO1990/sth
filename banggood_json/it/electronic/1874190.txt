@@ -1,0 +1,145 @@
+1874190
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/F2/1C/00dd15be-a7f1-4b03-a9ab-1dcdbd355f04.jpg
+LILYGO® TTGO VGA32 V1.4 Controller PS/2 Controller per mouse e tastiera Libreria grafica Motore di gioco Terminale ANSI/VT per ESP32
+https://it.banggood.com/LILYGO-TTGO-VGA32-V1_4-Controller-PS-or-2-Mouse-And-Keyboard-Controller-Graphics-Library-Game-Engine-ANSI-or-VT-Terminal-For-ESP32-p-1874190.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristica:Informazioni sull'aggiornamento: aggiungi interfaccia di uscita audio interfaccia da 3,5 mm e uscita altoparlante interfaccia JST 2.0 PH 2-PinHardware SpecificheChipsetTTGO Micro32VELOCEFlash QSPI 4MB / PSRAM 8MBSRAM 520 kB SRAMPulsanteRipristina, IO36Funzione estesaVGA, PS/2Da USB a TTLCH9102FInterfaccia modulareUART, SPI, SDIO, I2C, LED PWM, TV PWM, I2S, IRGPIO, sensore tattile condensatore, ADC, Preamplificatore DACLNAOrologio di bordoOscillatore a cristallo 40MHz Tensione di lavoro2.7V-3.6VCorrente di lavorocirca 30 mACorrente del sonno230uAIntervallo di temperatura di lavoro-40? ~ +85?Dimensioni e pesosenza VGA: 60,99 mm*32,06 mm*16,79 mmcon VGA: 66,70 mm*32,06 mm*16,79 mm21.25gAlimentazione elettrica SpecificheAlimentazione elettricaUSB 5V/1ACorrente di carica500mABatteriaBatteria al litio da 3,7 VWifiDescrizioneStandardFCC/CE-ROSSO/IC/TELEC/KCC/SRRC/NCCProtocollo802.11 b/g/n(802.11n, velocità fino a 150 Mbps) polimerizzazione A-MPDU e A-MSDU, supporto 0.4μS Intervallo di protezioneIntervallo di frequenze2,4 GHz~2,5 GHz (2400 M~2483,5 M)Potenza di trasmissione22dBmDistanza di comunicazione300mBluetoothDescrizioneProtocollosoddisfare gli standard bluetooth v4.2BR/EDR e BLEFrequenza radiocon sensibilità di -97dBm Ricevitore NZIF Classe 1, Classe 2 e Classe 3 emettitore AFHFrequenza audioFrequenza audio CVSD e SBCSpecifiche del softwareDescrizioneModalità WifiStazione/SoftAP/SoftAP+Stazione/P2PMeccanismo di sicurezzaWPA/WPA2/WPA2-Enterprise/WPSCrittografia Tipo AES/RSA/ECC/SHAAggiornamento del firmwareScarica UART/OTA (Tramite rete/host per scaricare e scrivere firmware)Sviluppo softwareSupporta lo sviluppo di server cloud/SDK per lo sviluppo del firmware dell'utenteProtocollolo di reteIPv4, IPv6, SSL, TCP/UDP/HTTP/FTP/MQTTConfigurazione utenteAT + Set di istruzioni, server cloud, Android/iOSappOSFreeRTOSLa confezione include:1 x controller
+
+
+
+

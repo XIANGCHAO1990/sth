@@ -1,0 +1,145 @@
+1789700
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/D7/D5/d7d78ad7-bab9-4424-b9a4-c0e70a9fdcea.jpg
+Récepteur Malahit SDR ultra-fin 50KHz-200MHz Malachite DSP Software Defined Radio 3.5 "Display Batterie Inside Nice Sound - Black 400MHz ~ 2GHz
+https://fr.banggood.com/Ultra-thin-50KHz-200MHz-Malahit-SDR-Receiver-Malachite-DSP-Software-Defined-Radio-3_5-inch-Display-Battery-Inside-Nice-Sound-Black-400MHz~2GHz-p-1789700.html?cur_warehouse=CN&ID=6303140&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Veuillez noter avant l'achat:1. La version logicielle de ce produit est 1.10a ；2. Nous ne vendons que le matériel, ce produit n'inclut pas le service de mise à niveau logicielle de suivi (ne peut pas mettre à niveau vers 1.10b).Avantages :1. écran capacitif de 3,5 pouces2. Ultra-mince et léger3. Adoptez une unité sonore, 2 chambres vibrantes, le haut-parleur est livré avec une chambre sonore, la qualité sonore des basses est très complèteCaractéristiques:- Récepteur DSP SDR pour Malahit- Écran tactile capacitif- Flash via un câble USB- Plage de fréquences par défaut: 50 KHz-200 MHz, 400 MHz ~ 2 GHz (en option)- Mode de démodulation: AM, SSB, NFM, WFMSpécification:1) La radio est construite sur le principe du SDR - la fonction est déterminée par le logiciel chargé;2) Gamme de fréquences: de 50 kHz à 200 MHz (version par défaut), les utilisateurs peuvent contacter le site officiel pour passer de 50 kHz à 250 MHz, 400 MHz à 2 GHz;3) Tous les types de modulation analogique: AM, SSB, NFM, WFM;4) Fonctions puissantes: largeur de filtre variable, suppresseur de bruit adaptatif, suppresseur de bruit de seuil, pour Noise Blanker, AGC, égaliseur;5) Utilisez une puce msi001 bon marché mais entièrement fonctionnelle;6) Le puissant stm32h743 avec une fréquence d'horloge de 480 MHz est appliqué;7) écran tactile IPS de 3,5 pouces;8) Il y a un UHF intégré;9) contrôles: 2 pièces; encodeurs avec boutons et écran tactile;10) Il est alimenté par batterie intégrée et USB, et dispose d'une gestion de charge linéaire de la batterie au lithium, qui peut être chargée via TYPE-C. La capacité de la batterie intégrée n'est pas inférieure à 2000 mA / h.11) Consommation: 300mA lors de l'écoute d'un casque;12) La réception sur un télescope intégré ou une antenne externe vise à améliorer la réception HF sur l'antenne du télescope, et une carte supplémentaire avec suiveur de source a été développée. La carte sera intégrée à la conception standard du récepteur.13) Connectez-vous à l'ordinateur via USB, qui peut transférer CAT, IQ et audio.14) plage de 160 kHz, avec évolutivité;15) Sensibilité: dans des conditions allant jusqu'à 250 MHz, s / w est de 0,3 μV = 10 dB; en raison du manque d'équipement de mesure, les mesures ci-dessus n'ont donc pas été prises;16) En raison des caractéristiques de la puce msi001 utilisée, la plage de blocage dynamique est d'environ 85 dB.17) avec contrôle du rétroéclairage;18) SMA prise d'antenne femelle;19) Taille de la carte mère: 100 x 70 mm (sans les tailles des connecteurs).Emballage inclus:1 x récepteur SDR1 x antenneImage de détails :
+
+
+
+

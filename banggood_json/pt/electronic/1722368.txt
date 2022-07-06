@@ -1,0 +1,299 @@
+1722368
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/D4/3F/497f0e7d-0a9a-4eb4-a4ca-0d5fe92278ee.jpg
+LILYGO® TTGO Adaptador Ethernet de chip T-Internet-POE ESP32-WROOM LAN8720A e placa de expansão de Downloader Hardware programável
+https://pt.banggood.com/LILYGO-TTGO-T-Internet-POE-ESP32-WROOM-LAN8720A-Chip-Ethernet-Adapter-And-Downloader-Expansion-Board-Programmable-Hardware-p-1722368.html?cur_warehouse=CN&ID=6292769&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mais informações: https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE Detalhes do produto :1. Compatível com o modo PoE A (alimentado por par de dados) e modo PoE B (alimentado por par de backup) e MDIX automático, permitindo o uso de cabos Ethernet retos e cruzados. 2. Pegada de 20 agulhas com potência de 3,3V, V + e 15 ESP32GPIO estão disponíveis para sua aplicação.  3. A área compacta de 75 mm por 40 mm é compatível com 4 furos de montagem dos parafusos comuns M2.5 ou 4-40. 4. Um pequeno submódulo de console serial de programação / USB foi criado para que o módulo Inter-POE possa ser facilmente programado para atender às necessidades de aplicativos do usuário. Recurso:
+
+
+
+Especificações de Hardware
+
+
+
+Chipset
+ESPRESSIF-ESP32-WROOM, chip LAN8720A Ethernet, chip de gerenciamento de energia SI3404
+
+
+CLARÃO
+4MB 
+
+
+SRAM 
+520 kB SRAM
+
+
+Botão
+BOT, Rest
+
+
+Dispositivo externo
+Slot para cartão TF, Interface tipo C, Transformador PA2369NL 1825-S, Interface HR861153C Ethernet-POE
+
+
+USB para TTL
+CP2104
+
+
+Interface modular
+ Cartão SD, UART, SPI, I2C, PWM, I2S, ADC
+
+
+Relógio de bordo
+Oscilador de cristal de 32.768 MHz 
+
+
+Faixa de temperatura de trabalho
+ -40 ℃ ~ + 85 ℃
+
+
+Peso
+26.85g
+
+
+Tamanho
+70*52.3*17mm
+
+
+Especificações da fonte de alimentação
+
+
+
+Entrada da fonte de alimentação
+Tipo C USB 5V
+
+
+HR861153C interface Ethernet-POE 50V
+
+
+Tensão de trabalho
+2.7V-3.6V
+
+
+Corrente máxima de saída
+Cerca de 1.2A
+
+
+Corrente de carga
+500mA
+
+
+USB
+USB tipo C
+
+
+Wi-fi
+
+
+
+Padrão
+FCC / CE-RED / IC / TELEC / KCC / SRRC / NCC (chip esp32)
+
+
+Protocolo
+802.11 b / g / n (802.11n, velocidade de até 150 Mbps) A-MPDU e A-MSDU polimerização, suporte para intervalo de proteção de 0,4 μS
+
+
+Alcance de frequência
+2,4 GHz ~ 2,5 GHz (2400M ~ 2483,5M)
+
+
+Potência de transmissão
+22dBm
+
+
+Distância de comunicação
+300m
+
+
+Bluetooth
+
+
+
+Protocolo
+Conheça o padrão bluetooth v4.2BR / EDR e BLE
+
+
+Frequência de rádio
+Com receptor NZIF de sensibilidade de -97dBm Class-1, Class-2 e Class-3, emissor AFH
+
+
+Freqüência de áudio
+Frequência de áudio CVSD e SBC
+
+
+Especificação de software
+
+
+
+Modo Wi-fi
+Estação / SoftAP / SoftAP + Estação / P2P
+
+
+Mecanismo de segurança
+WPA / WPA2 / WPA2-Enterprise / WPS
+
+
+Criptografia Tipo 
+AES / RSA / ECC / SHA
+
+
+Atualização de firmware
+Download UART / OTA (através da rede / host para fazer download e escrever firmware)
+
+
+Desenvolvimento de software
+Suporte ao desenvolvimento de servidor em nuvem / SDK para desenvolvimento de firmware do usuário
+
+
+Protocoloo de rede
+IPv4, IPv6, SSL, TCP / UDP / HTTP / FTP / MQTT
+
+
+Configuração do usuário
+Conjunto de instruções AT +, servidor em nuvem, app Android / iSO
+
+
+SO
+FreeRTSO
+
+O pacote inclui:1 x T-Internet-POE 1 x pino de linha dupla 1 x placa de expansão Downloader (opcional)Nota: A interface USB possui apenas uma função de carregamento, o produto precisa de um downloader para programar. 
+
+
+
+

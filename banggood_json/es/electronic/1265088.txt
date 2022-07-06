@@ -1,0 +1,159 @@
+1265088
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/E0/4B/2daca1d0-84ec-4f24-b525-32bd626511de.jpg
+ESP32 ESP32S 18650 Batería Charge Shield V3 Micro USB Type-A USB 0.5A Test Charging Protection Board Geekcreit para Arduino - productos que funcionan con placas oficiales Arduino
+https://es.banggood.com/Geekcreit-ESP32-ESP32S-18650-Battery-Charge-Shield-V3-Micro-USB-Type-A-USB-0_5A-Test-Charging-Protection-Board-p-1265088.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nota:    Este módulo es adecuado solo para batería 18650  Este módulo puede ser alimentado o para raspberry pi y sensor al mismo tiempo  Esta salida de módulo actual hasta 2A   (Este producto no contiene la instalación batería 18650, tenga cuidado con el positivo de la batería y el negativo al instalarla, no invierta. Siga las indicaciones en + en la PCB y no siga las instrucciones positivas y negativas del soporte de la batería)    caracteristicas:    1. Con protección de sobrecarga y protección de sobre descarga  2. Interfaz de carga micro USB  3. Corriente de carga: 0.5A  4. 1 conmuta para controlar la salida del USB  5. Voltaje de entrada: 5 ~ 8V  6. Tres interfaz de salida 3V 1A   7. Tres 5V interfaz de salida 2A  8. LED luz, verde para carga completa, rojo para carga insuficiente    El paquete incluye:    1 x 18650 Batería Junta de protección de carga  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

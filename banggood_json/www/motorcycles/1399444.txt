@@ -1,0 +1,282 @@
+1399444
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/4B/E6/f5727647-729b-4a3e-a26d-8e4188370a4c.jpg
+24V/36V48V/60V 250W/350W LCD Brushless Motor Controller Battery Speed For MTB E-Bike Scooter
+https://www.banggood.com/24V36V48V60V-250W350W-LCD-Brushless-Motor-Controller-Battery-Speed-For-MTB-E-Bike-Scooter-p-1399444.html?cur_warehouse=HK&ID=517271520454&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+		6 mosfet dual mode controller for lithium battery
+
+		Rated working voltage: 24v/36v/48v/60v
+
+		Power available :250W/350W
+
+		Max current available: 10A-20A (default setting 13a)
+
+		Battery voltage undervoltage protection point: 19v/30v/41v/52v
+
+		Fit for motor phase angle: 60degree/120 degree (automatic learn )
+
+		 
+
+Controller Feature:
+
+		1. Automatically indentify motor phase and angle. 
+		You can learn with debug wire. operation method: connect power cable, main switch wire, motor wire,
+		hall wire, handle bar wire, learning wire, switch on power and bike lock, the motor will start to work. 
+		If the turning direction is right, please cut off learning wire. The learning is finished.
+		If direction is opposite, please cut off learning wire, the motor will switch direction automatically,
+		work 2-3 seconds, cut off learning wire, the learning is finished.( attention please !cut off learning wire after learning)
+		 
+
+		2. dual mode (When motor hall work normally, controller work with hall mode. 
+		When motor hall damaged, controller can intelligently test it and change to no-hall mode and keep on work.
+		(other controller if not double mode, cannot work if motor hall damaged)
+		 
+
+		3. can control and match with other electric parts
+
+		such as can match with external speed test sensor, so that display can indicate speed 
+		even when bike is in sliding. can match with brake sensor, can match with left shifter work as ebs brake and so on.
+		 
+
+		4. when battery voltage is not enough the controller will automatically lower current, this will protect your battery for longer life.
+
+	Controller Function:
+
+	1. 1:1 PAS power
+
+	2. brake and cut off power
+
+	3. connect with lcd display
+
+	4. connect throttle
+
+	5. light and horn power port
+
+	6. self learning
+
+	7. hall linear ebs brake
+
+	8. cruise
+
+	9. 6km/h boosting
+
+	 
+
+	LCD Display
+
+	1. it indicate battery level,   6 grid is full, if battery low it will shine   
+
+	2. indicate speed , default setting unit is km/h
+
+	3. indicate  gears
+
+	4. indicate single trip, DIS, icon located at bottom left side, press power button can switch to this interface,
+	it means the whole distance the bike run from machine open to machine off,
+
+	5. ODO -press power button can switch to this interface
+
+	6. error code--  press power button can switch to this interface
+
+	002 --brake error 
+
+	003-pas sensor error
+
+	004-boosting 6km/h cruise mode
+
+	005-timely cruise mode
+
+	006-battery level low
+
+	007-motor error
+
+	008-throttle error
+
+	009-controller error
+
+	010-communication receive error
+
+	011- communication sending error
+
+	012-DMS communication error
+	013-frontlight error
+
+	7. Gears adjust --short press up and down button can adjust gears, add or reduce one,
+	long press up and down button at same time can go into setting interface, 
+	short press power button can switch data item, short press up and down button can adjust data, 
+	long press up and down button can store and exit data interface
+
+
+Fitment:
+
+		1.  Fit for different battery: lead-acid, Li-Fe battery, LNCMO battery  {Li(NiCoMn)O2}, and so on. 
+		For different material there is different under voltage protecting point
+
+		2. Fit for DC brushless gear motor lower than 350w, and gearless motor, and high speed motor and so on.
+
+
+
+Package Included:
+
+	1 X Motor Controller
+	1 X LCD Display Instrument
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,272 @@
+1619901
+https://imgaz.staticbg.com/thumb/large/oaupload/ser1/banggood/images/FA/E1/c6bed494-8c35-4332-955b-5a1d621041ef.jpg
+Kits de démarrage de Module de capteur 45 en 1/37 en 1 pour Arduino Raspberry Pi paquet de sac d'éducation
+https://fr.banggood.com/45-IN-1-or-37-IN-1-Sensor-Module-Starter-Kits-Set-For-Arduino-Raspberry-Pi-Education-Bag-Package-p-1619901.html?cur_warehouse=CN&ID=514178&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(1) Kit de démarrage de module de capteur 37 en 1
+Caractéristiques:
+
+REMARQUE : cet article est livré sans boîtier de protection pratique.
+Un excellent package pour Arduino expériences ou comme base pour un projet plus vaste.
+Il s'agit d'un ensemble de 37 capteurs prêts à être connectés à un microcontrôleur, par exemple Arduino ou RaspberryPi.
+
+Emballage inclus:
+
+1 x petit module de sonnerie passif KY-006
+1 module bicolore LED KY-011
+1 x module de capteur de frappe KY-031
+1 module de commutation de vibrations KY-002
+1 x module de résistance photo KY-018
+1 module de commutateur à clé KY-004
+1 x module de commutateur d'inclinaison KY-020
+1 module SMD LED polychrome 3 couleurs KY-009
+1 x module de capteur d'émission infrarouge KY-005
+1 module tricolore LED KY-016
+1 x Hydrargyrum Module optique ouvert KY-017
+1 module Yin Yi bicolore LED 3MM KY-029
+1 module de sonnerie Active KY-012
+1 module de capteur de température KY-013
+1 x Clignotant automatique Colorful LED Module KY-034
+1 x mini modules magnétiques Reed KY-021
+1 module de capteur magnétique Hall KY-003
+1 x module récepteur de capteur infrarouge KY-022
+1 x capteur magnétique de classe Bihor KY-035
+1 x module de tasse de lumière magique KY-027
+1 x module d'encodeur rotatif KY-040
+1 x module cassé optique KY-010
+1 x Détecter le module Heartbeat KY-039
+1 x module d'anche KY-025
+1 x module de capteur d'évitement d'obstacles KY-032
+1 x module de capteur de chasse KY-033
+1 module de capteur de son de microphone KY-038
+1 module de capteur KY-008
+1 module de relais 5V KY-019
+1 module de capteur de température KY-001
+1 module de capteur de température KY-028
+1 x Capteurs Hall Magnétiques Linéaires KY-024
+1 module de capteur de flamme KY-026
+1 x module de capteur de microphone sensible KY-037
+1 module de capteur de température et d'humidité KY-015
+1 x module de manette d'axe XY KY-023
+1 x module de capteur tactile de Métal KY-036
+
+(2)Kit de démarrage de module de capteur 45 en 1
+Caractéristiques:
+
+Tous les capteurs sont soigneusement sélectionnés et testés.
+Un ensemble complet pour les composants électroniques les plus courants et les plus utiles d'Arduino.
+Il est extrêmement facile pour les amateurs de Arduino de contrôler et d'utiliser ces modules.
+Sur la base du kit 37 en 1, ajoute des modules plus pratiques pour atteindre des exigences plus expérimentales.
+Il s'agit d'un très bon kit développé spécialement pour les débutants intéressés par Arduino.
+La mise en œuvre et la programmation des capteurs est une compétence clé pour les débutants pour concevoir leur projet de bricolage Ar-duino.
+
+Emballage inclus:
+
+1 module de sol
+1 x module récepteur de capteur infrarouge
+1 x module de capteur de tête
+1 x module de capteur de température et d'humidité
+1 x module de capteur d'émission infrarouge
+1 module de relais 5V
+1 module gyroscopique
+1 x Pour ARDUINO Finger Detect Heartbeat Module
+1 x module de capteur de sensibilité du microphone
+1 x module de capteur tactile de Métal
+1 x module de capteur de flamme
+1 module LED 3 couleurs
+1 x module de capteur de chasse
+1 x capteurs Hall magnétiques linéaires
+1 x modules d'encodeur rotatif
+1 module de sonnerie Active
+1 x modules de tasse de lumière magique
+1 x petit module de sonnerie passive
+1 x module de capteur de température numérique
+1 x module de commutateur d'inclinaison
+1 x capteur magnétique analogique Holzer
+1 module à ultrasons.
+1 x Hydrargyrum Module d'ouverture
+1 x module de capteur magnétique Hall
+1 module CMS RVB LED
+1 x Pour Arduino Mini Module Reed
+1 x module de cathode commune bicolore LED 3MM
+1 x voiture intelligente évitez le commutateur photoélectrique de capteur infrarouge de capteur d'obstacle
+1 x module de commutateur à clé
+1 x module photorésistance
+1 x module d'alimentation de planche à pain
+1 x pour module de capteur de frappe ARDUINO
+1 module de capteur de température.
+1 x module de commutateur de vibration
+1 x module de capteur de son de microphone
+1 x grand module de roseau
+1 x module bicolore LED
+1 x module de rupture optique
+1 module de capteur de température.
+1 module mâle MP1584EN
+1 module de lecteur de carte SD
+1 module de manette de jeu PS2
+1 module clignotant LED
+1 module d'horloge DS1302 (sans Batterie)
+1 module de niveau d'eau.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

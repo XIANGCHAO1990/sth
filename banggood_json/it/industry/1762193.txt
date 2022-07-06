@@ -1,0 +1,145 @@
+1762193
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/E9/26/0e6674da-534e-49d8-b31a-3308e2cfd37e.jpg
+Nuovo sintonizzatore automatico ATU100 Antenna 100 W 1,8-55 MHz / 1,8-30 MHz con Batteria assemblato internamente per stazioni a onde corte da 5-100 W Radio
+https://it.banggood.com/New-ATU100-Automatic-Antenna-Tuner-100W-1_8-55MHz-or-1_8-30MHz-With-Battery-Inside-Assembled-For-5-100W-Shortwave-Radio-Stations-p-1762193.html?cur_warehouse=HK&ID=512915&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tipo A: sintonizzatore automatico da 1,8-55 MHz AntennaCaratteristiche:- Display OLED da 0,96 pollici- Frequenza 1,8-55 MHz- alimentatore intervallo di tensione: 10-15 V CC- Con batteria al litio  - Consumo massimo di corrente: 300 mA- Massima potenza di lavoro: 100W- Massima potenza misurata possibile: 150W- 1W: è necessario iniziare a impostare la potenza minima- Potenza misurata minima possibile: 0,1 W.- Step per misura su potenze inferiori a 10W: 0.1W- Step per misure su potenze superiori a 10W: 1W- Precisione della misurazione della potenza: 10%- Induttore massimo specificato: capacità 8,4 uH- La fase di installazione minima dell'induttore: 0,05μH- Capacità massima di installazione: condensatore da 1870 pF- Passo minimo di installazione: 10 pFIl pacchetto include:-1 x Accordatore automatico Antenna con Shell>>Manual(click to download)Nota: il prodotto è assemblato e con scocca.Tipo B: Mini sintonizzatore automatico 1.8-30 MHz AntennaNota:È assemblato e pronto per l'uso.- Il dispositivo non considera la propria efficienza.- La tensione di alimentazione è la tensione standard 5V.-Questo sintonizzatore può installare la batteria all'interno, se hai bisogno di una batteria, scegli quella con la batteria Mini sintonizzatore automatico CGJ-100 1,8-30 MHz Antenna OLED 0,91 "Display per stazioni a onde corte da 5-100 W Radio- CGJ-100: per stazioni radio a onde corte ad alta potenza che utilizzano 5-100 W.Caratteristiche:- Mini accordatore d'antenna automatico a onde corte.- Interfaccia di ricarica TYPE-C, connettore M.- Con un display OLED da 0,91 pollici.- Questo sintonizzatore per antenna viene sintonizzato automaticamente e non richiede cavi di controllo, adatto per la maggior parte delle stazioni radio.- Il dispositivo contiene un set di 7 condensatori e 7 induttori, che gli consentono (con la configurazione più grande) di funzionare efficacemente in un'ampia banda di frequenza, sovrapponendosi alla banda HF per radioamatori 1.8-30MHz.Specifiche:- alimentatore voltaggio: carica e scarica USB- Consumo di corrente massimo: 400mA- Massima produttività di lavoro: 100 W.- Massima potenza di misura possibile: 150W- Potenza minima richiesta per avviare la sintonizzazione: 5W- Potenza di misurazione minima possibile: 0,1 W.- Passaggi di misurazione per potenze fino a 10 W: 0,1 W.- Passaggi di misurazione per potenze superiori a 10 W: 1 W.- Precisione della misurazione della potenza: 10%- Induttanza massima di installazione: 8.53uH- Dimensione minima del gradino di induttanza di installazione: 0,05 uH- Capacità massima di installazione: 1869pF- Gradino minimo di capacità di installazione: 10pF- 4 pulsanti del pannello: funzione POW, BYP, AUTO e BOT- Display: OLED da 0,91 polliciIl pacchetto include:- 1 x sintonizzatore automatico Antenna>> Manuale (clik per scaricare)Tipo C: senza guscio (Scheda PCB + schermo)Specifiche:Intervallo di alimentazione: 10-15 VDCCorrente massima: 450mAPotenza massima di lavoro: 100 wattPotenza massima misurata: 150 wattPotenza minima per inizio tuning: 1 wattPotenza massima consigliata durante la sintonizzazione non superiore a 30 watt. (dopo l'accordatura puoi impostare 100 watt e lavorare su questa potenza)Potenza minima misurata: 0,1 wattPassaggio per la misurazione su potenze inferiori a 10 watt: 0,1 wattPassaggio per la misurazione su potenze superiori a 10 watt: 1 watt Precisione della misurazione della potenza: 10%Induttanza massima impostata: 8,5 uHPasso minimo per l'impostazione dell'induttanza: 0,1 uHCapacità massima installata: 1870 pFPasso minimo per impostare la capacità: 10 pF Sintonizzatore da 100 Watt, 7x7 (7 condensatori x 7 bobine) basato su PIC 16F1938.Dimensioni: 120 mm x 62 mm.>>Type C Wiring instructions Il pacchetto include:1 x scheda PCB1 x LCD schermo1 x cavo DupontNota: batteria non inclusaDettagli immagine:
+
+
+
+

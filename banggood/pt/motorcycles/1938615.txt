@@ -1,0 +1,143 @@
+https://pt.banggood.com/V313-ODB2-LCD-Display-Engine-Code-Reader-Car-Diagnostic-Tool-Free-Update-Automotive-Scanner-OBDII-Battery-Tester-p-1938615.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+V313 ODB2 LCD Display Engine Code Reader Car Diagnostic Tool Free Update Automotive Scanner OBDII Battery Tester
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:Em1. Este é um cartão de leitura de código multifuncional que integra detecção geral OBD, detecção de bateria e impressão (impressão de porta serial). Ele fornece detecção precisa de veículos, detecção de bateria e resultados de testes de impressão. Introdução do produto V313 Um produto de cartão de leitura de código de carrinho,Tem as seguintes funções:1. Suporte nove protocolos padrão OBD II/EOBD;2. Suporta funções OBD, como diagnóstico de falhas do veículo e transmissão de dados em tempo real;3. Com funções de reprodução de dados, como visualizar as informações de código de falha salvas, fluxo de dados e detecção de bateria;4. Dados com teste de emissão5. Os dados salvos no cartão de leitura de código podem ser impressos através da porta serial USB;6. Suporte a função de atualização USB7. Alemão, holandês, inglês, espanhol, francês, italiano8. Teste rapidamente a corrente de partida a frio, resistência interna, vida útil da bateria e energia restante da bateria de chumbo-ácido de inicialização de 12 V para determinar se a bateria precisa ser substituída: detecção de tensão em tempo real, detecção de impedância da bateria e quanto a energia é deixada após um período de carga total (SOC) Bateria valor da corrente de carga (SOH), detecção de corrente de partida a frio (CCA)Dados do veículo suportado:Leia o código de diagnóstico de erroLimpe o código de erro e desligue a luz indicadora MIL ("Check Engine")Rotações do motor por minuto (RPM)Valor de carga calculadoTemperatura do refrigeranteStatus do sistema de combustívelRapidezSituação de combustível a curto prazoSituação de combustível a longo prazoPressão do coletor de admissãoTempo de avanço da injeção de combustívelTemperatura do ar de admissãoVelocidade do arPosição absoluta da válvula de borboletaTensão de detecção de oxigênio associada ao estado de combustível de curto prazoStatus do sistema de combustívelPressão do combustívelExistem muitos outros dados para monitoramento do consumo de combustível...Nota: O número de itens de dados suportados por diferentes anos de modelo também é diferente, e a situação de suporte real deve prevalecer.Protocolos compatíveisSAE J1850 PWM (41,6 Kbaud)SAE J1850 VPW (10,4 Kbaud)ISO 9141-2 (5 baud init, 10,4 Kbaud)ISO 14230-4 KWP (5 baud init, 10,4 Kbaud)ISO 14230-4 KWP (inicialização rápida, 10,4 Kbaud)ISO 15765-4 CAN (11bit ID, 500 Kbaud)ISO 15765-4 CAN (ID de 29 bits, 500 Kbaud)ISO 15765-4 CAN (11bit ID, 2500 Kbaud)ISO 15765-4 CAN (ID de 29 bits, 250 Kbaud)Especificação:Parâmetros técnicos Chip de controle principal STM32F103VET6tensão de trabalhoDC 12VCorrente de trabalho 98mAAmbiente operacional -20～70℃Temperatura de armazenamento-20～80℃Dimensões 181.5*81*29mmIncluído no Pacote:1 XLeitor OBD2
+
+
+
+

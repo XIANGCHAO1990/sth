@@ -1,0 +1,145 @@
+1833055
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/F2/BC/56b66f8a-7062-46b3-8c5b-5297059ee38d.jpg
+Fonte de alimentação 5V / 7-28V 8 canais ESP8266 WIFI Módulo de relé de 8 vias Placa de desenvolvimento ESP-12F Placa de desenvolvimento secundária
+https://pt.banggood.com/5V-or-7-28V-Power-Supply-8-Channel-ESP8266-WIFI-8-way-Relay-Module-ESP-12F-Development-Board-Secondary-Development-Board-p-1833055.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Observação: Este produto não pode ser usado diretamente, é adequado para ESP8266 aprendizagem de desenvolvimento secundário, iniciantes, preste atenção!Característica:Módulo WiFi ESP-12F integrado e estável, grande capacidade 4M Byte FlashO modo de fonte de alimentação suporta DC7-28V / 5VBotão de reinicialização RST do módulo WIFI integradoESP-12F suporta o uso de ferramentas de desenvolvimento como Eclipse / Arduino lDEFornece programa de referência no ambiente de desenvolvimento Arduin0A bordo 8 relés 5V, sinais de chave de saída, adequados para controlar cargas cuja tensão de trabalho está dentro de AC 250V / DC30VIndicador de energia a bordo e indicador de reléEspecificações do produtoTamanho da placa: 149 * 80 mmPeso: 140gO pacote inclui:1 x Módulo de relé de 8 viasPorta de programação: GND, RX, TX, 5V do ESP8266 estão respectivamente conectados ao módulo de porta serial TTL externo GND, TX, RX, 5V, IO0 deve ser conectado a GND durante o download e, em seguida, desconecte a conexão entre IO0 e GND após o download está completo;Saída de relé:NC: Normalmente fechado, o relé é conectado em curto com o COM antes do pull-in e fica suspenso no ar após o pull-in;COM: fim público;NÃO: extremidade normalmente aberta, o relé é suspenso antes de ser fechado e em curto com COM após ser fechado.Introdução da porta principal GPIO:NúmeroNomeFunção Descrição1ADCResultado da conversão A / D. Faixa de tensão de entrada 0 ~ 1V, faixa de valor: 0 ~ 10242IO2GPIO2; UART1_TXDTXDUART0_TXD; GPIO13RXDUART0_RXD; GPIO34GNDTerra de energia55VFonte de alimentação 5V
+
+
+
+

@@ -1,0 +1,145 @@
+1739035
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/5A/A2/15182bed-0ddc-4eb4-823d-a4a34596b3cd.jpg
+Placa de transferencia de energía de litio Batería 2 cuerdas-17 convertidor de inductancia de cadena 1.2A Modo de equilibrio de alta corriente
+https://es.banggood.com/Lithium-Battery-Energy-Transfer-Board-2-Strings-17-String-Inductance-Converter-1_2A-High-Current-Balance-Mode-p-1739035.html?cur_warehouse=CN&ID=6294208&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:Instrucciones de equilibrio:1. Cuando la luz de ecualización está encendida, el trabajo de ecualización está encendido,2. La luz de ecualización se apaga y el circuito de ecualización duerme.3. La luz de ecualización parpadea, la cuerda se cae o el circuito está defectuoso.Principio de equilibrio:Este módulo es adyacente a la ecualización de diferencia de presión, la diferencia de voltaje de la batería adyacente alcanza más de 0.1V, y el chip interno activa el trabajo de ecualización hasta que la diferencia de voltaje de la batería adyacente está dentro de 0.03V, y hay una diferencia de presión adyacente cuando se usa en el paquete de baterías. Al activar el trabajo de ecualización, el error de voltaje de la batería también se reducirá a un valor más ideal, reduciendo los costos de mantenimiento de la batería.Especificación:El voltaje de trabajo es de 2.0V-4.5V, la batería de litio de hierro ternario es universal, la batería de titanato de litio LTO no es aplicable.Corriente de equilibrio:La diferencia de voltaje adyacente es superior a 0,1 V (la corriente es de aproximadamente 0,5-0,7 A);La diferencia de voltaje adyacente es más de 0,2 V (alcanza la corriente de ecualización máxima 1,2 A);Cuanto menor sea la diferencia de presión, menor será la corriente de compensación.Definición de cableado:B-, el polo negativo total de la batería (el polo negativo de la primera batería)B1, el terminal positivo de la primera bateríaB2, el polo positivo de la segunda bateríaB3 ... y así sucesivamente.Paquete incluido:1 x tableroCable terminal de cobre puro de 1 x 30 cm 22awg
+
+
+
+

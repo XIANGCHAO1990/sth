@@ -1,0 +1,280 @@
+https://de.banggood.com/24V36V48V60V-250W350W-LCD-Brushless-Motor-Controller-Battery-Speed-For-MTB-E-Bike-Scooter-p-1399444.html?cur_warehouse=HK&ID=517271520454&rmmds=CategoryAutomobilesPop
+24 V / 36 V 48 V / 60 V 250 Watt / 350 Watt LCD Brushless Motor Controller Batterie Geschwindigkeit Für MTB E-Bike Roller
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+		6 mosfet dual mode controller für lithiumbatterien
+
+		Bemessungsbetriebsspannung: 24 V / 36 V / 48 V / 60 V
+
+		Verfügbare Leistung: 250W / 350W
+
+		Maximaler Strom verfügbar: 10A-20A (Standardeinstellung 13a)
+
+		Batterie Spannungsunterspannungsschutzpunkt: 19 V / 30 V / 41 V / 52 V
+
+		Fit für Motorphasenwinkel: 60 Grad / 120 Grad (automatisches Lernen)
+
+
+
+Controller-Funktion:
+
+		1. Identifizieren Sie automatisch die Motorphase und den Winkel. 
+		Sie können mit Debug Wire lernen. Betriebsmethode: Netzkabel, Hauptschalterdraht, Motordraht anschließen,
+		Halldraht, Lenkerdraht, Draht lernen, Strom einschalten und Fahrradschloss einschalten, der Motor beginnt zu arbeiten. 
+		Wenn die Drehrichtung stimmt, schneiden Sie bitte den Lerndraht ab. Das Lernen ist beendet.
+		Wenn die Richtung entgegengesetzt ist, schneiden Sie bitte den Lerndraht ab, der Motor wechselt automatisch die Richtung.
+		2-3 Sekunden arbeiten, Lerndraht abschneiden, das Lernen ist beendet. (Achtung bitte! Lerndraht nach dem Lernen abschneiden)
+
+
+		2. Dual-Modus (Wenn die Motorhalle normal arbeitet, arbeitet der Controller mit dem Hall-Modus. 
+		Wenn die Motorhalle beschädigt ist, kann der Controller sie intelligent testen und in den No-Hall-Modus wechseln und weiterarbeiten.
+		(andere Steuerung, wenn nicht Doppelmodus, kann nicht funktionieren, wenn Motorhalle beschädigt ist)
+
+
+		3. kann andere elektrische Teile steuern und zusammenbringen
+
+		B. mit einem externen Geschwindigkeitstestsensor zusammenpassen, so dass das Display die Geschwindigkeit anzeigen kann 
+		Auch wenn das Fahrrad rutscht. kann mit bremssensor passen, kann mit linker schalthebelarbeit als ebs-bremse und so weiter passen.
+
+
+		4. Wenn die Batteriespannung nicht ausreicht, senkt der Controller automatisch den Strom. Dies schützt Ihre Batterie für eine längere Lebensdauer.
+
+	Controller-Funktion:
+
+	1. 1: 1 PAS-Leistung
+
+	2. Bremse und Strom abschalten
+
+	3. verbinden sie sich mit dem lcd-display
+
+	4. Gashebel anschließen
+
+	5. Licht- und Hornstromanschluss
+
+	6. Selbstlernen
+
+	7. hall linear ebs bremse
+
+	8. Kreuzfahrt
+
+	9. 6km / h Erhöhung
+
+
+
+	LCD Anzeige
+
+	1. Zeigt an, dass der Ladezustand des Akkus 6 beträgt, das Netz ist voll. Wenn der Akku fast leer ist, leuchtet es   
+
+	2. Geschwindigkeit anzeigen, Standardeinstellung ist km / h
+
+	3. Zahnräder anzeigen
+
+	4. zeigen Sie die einfache Fahrt an, DIS, das Symbol befindet sich unten links. Drücken Sie die Ein / Aus-Taste, um zu dieser Schnittstelle zu wechseln.
+	bedeutet die gesamte Strecke, die das Fahrrad von der offenen Maschine zur entfernten Maschine fährt,
+
+	5. ODO-Taste drücken, um auf diese Schnittstelle umzuschalten
+
+	6. Fehlercode: Drücken Sie die Netztaste, um zu dieser Schnittstelle zu wechseln
+
+	002 - Bremsfehler 
+
+	003-pas Sensorfehler
+
+	004-Beschleunigungsmodus mit 6 km / h
+
+	005-zeitgerechter Reisemodus
+
+	006-Batteriestand niedrig
+
+	007-Motorfehler
+
+	008-Gasfehler
+
+	009-Controller-Fehler
+
+	010-Kommunikationsfehler
+
+	011 - Fehler beim Senden der Kommunikation
+
+	012-DMS-Kommunikationsfehler
+	013-frontlight fehler
+
+	7. Gears-Einstellung - Kurzes Drücken der Tasten Auf und Ab kann Gänge einstellen, hinzufügen oder verringern,
+	langes Drücken der Auf- und Ab-Taste gleichzeitig kann in die Einstellungsschnittstelle wechseln, 
+	Kurzes Drücken der Ein- / Aus-Taste kann das Datenelement wechseln. Durch kurzes Drücken der Tasten Auf und Ab können Sie die Daten anpassen. 
+	Durch langes Drücken der Auf- und Ab-Taste können Sie die Datenschnittstelle speichern und beenden
+
+
+Einrichtung:
+
+		1.  Fit for different battery: lead-acid, Li-Fe battery, LNCMO battery  {Li(NiCoMn)O2}, and so on. 
+		Für verschiedene Materialien gibt es unterschiedliche Spannungsschutzpunkte
+
+		2. Für bürstenlosen Gleichstrommotor mit weniger als 350 Watt und getriebelosen Motor und Hochgeschwindigkeitsmotor usw. montieren.
+
+
+
+Lieferinhalt:
+
+	1 X Motorsteuerung
+	1 X LCD Anzeigeinstrument
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

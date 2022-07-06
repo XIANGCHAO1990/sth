@@ -1,0 +1,143 @@
+https://es.banggood.com/DALY-Smart-BMS-Accessory-bluetooth-Module-USB-to-UART-or-RS485-Cable-CANbus-Module-Power-Display-Panel-Touch-LCD-Screen-p-1872195.html?cur_warehouse=CN&ID=6310521&rmmds=CategoryElectronicsPop
+DALY Smart BMS Accesorio Módulo bluetooth USB a UART / RS485 Cable Módulo CANbus Alimentación Pantalla Panel táctil LCD Pantalla
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:El accesorio Smart BMS incluye: control de temperatura NTC (configuración convencional), módulo bluetooth, cable USB a UART, cable de herramientas USB a RS485, módulo CANbus, pantalla táctil UART / RS485 Touch LCD.1. Pantalla táctil UART / RS485 LCD: Puede personalizar el icono relacionado o el LOGOTIPO, admite comunicación 485 / UART, solo se pueden modificar algunos parámetros.2. módulo bluetooth: Descargue la APLICACIÓN bluetooth correcta (SMART BMS) en su teléfono, inserte módulo bluetooth en el puerto de coincidencia de BMS (si se inserta mal, se dañará) .Abra la APLICACIÓN, busque el número de serie de bluetooth relativo, luego puede obtener datos.3. Panel de visualización de energía (indicador SOC) : Con la función de activación BMS presionando el botón ； Hay cinco luces en el tablero, 4 luces amarillas, una luz roja, cada luz amarilla representa un 25% de electricidad. La luz roja representa la luz de estado del panel de visualización de energía, que está siempre encendida. El indicador SOC es compatible con solo 4 cuerdas o más (sin incluir 4 cuerdas) SMART BMS.4. Cable USB a UART: Hay dos tipos 3P y 6P. Cable UART 3P para BMS por debajo de 4 cadenas (incluidas 4 cadenas) o por debajo de 60A (incluido 60A), y cable UART 6P para otros.5. Cable de herramienta USB a RS485: Preste atención a la interfaz de comunicación, no haga una conexión incorrecta al azar, para no quemar la placa de protección.6. Módulo CANbus: La herramienta de transmisión de datos entre la PC y el BMS debe garantizar que el variador esté instalado normalmente y que el orden de la línea sea correcto para comunicarse normalmente con el grive proporcionado por nuestra empresa.7. Cable NTC: A medida que aumenta la temperatura, la resistencia disminuye exponencialmente.Comunicación de velocidad de 485 baudios con la computadora superior: 9600 / kbs o 115200 / kbsComunicación de tasa de baudios CAN con la computadora superior: 250 / kbs o 500 / kbsAtención:1. La pantalla de control táctil BMS y el módulo Bluetooth no se pueden usar al mismo tiempo, elija uno de los dos, la misma interfaz.2. Preste atención para elegir el tipo de cable USB a UART que se adapte a su BMS: Hay dos tipos 3P y 6P. Cable UART 3P para BMS por debajo de 4 cadenas (incluidas 4 cadenas) o por debajo de 60A (incluido 60A), y cable UART 6P para otros.3. El indicador SOC es compatible con sólo 4 cuerdas o más (sin incluir 4 cuerdas) SMART BMS.Paquete incluido:1 x cable USB a UART 3P (opcional)1 x cable USB a UART 6P (opcional)1 x cable USB a RS485 (opcional)1 x panel de visualización de energía (opcional)1 x módulo Bluetooth (opcional)1 x pantalla de control táctil UART (opcional)1 x RS485 pantalla de control táctil (opcional)1 x caja USB a CAN (opcional)1 x 1 x cable NTC (opcional)
+
+
+
+

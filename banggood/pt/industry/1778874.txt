@@ -1,0 +1,304 @@
+https://pt.banggood.com/New-NEJE-Master-2S-30W-Powerful-Laser-Engraver-and-Cutter-2-In-1-Adjustable-Variable-Focus-Lens-and-Fixed-Focal-Laser-Support-Wireless-APP-Operation-or-32-bit-MCU-Banggood-Exclusive-World-Premiere-p-1778874.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+New NEJE Master 2S 30W Powerful Laser Engraver & Cutter 2 In 1 Adjustable Variable Focus Lens and Fixed Focal Laser Support Wireless APP Operation/32-bit MCU Banggood Exclusive  World Premiere
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:1. Recém-adicionado chip 2S de 32 bits, efeito de processamento mais inteligente e eficiente.2. Módulo de laser zoom dois em um, lente ajustável e comprimento focal fixo em um módulo, saída de potência óptica de 7,5 W, adequado para gravação e corte.3. Operação sem fio do aplicativo, mais conveniente, trabalho de bricolage a qualquer hora, em qualquer lugar.4. Área de gravação de 170*170mm, sem limite de volume ou peso para gravação.5. Dispositivo de proteção de segurança embutido, operação mais segura e segura.6. Pode suportar uma variedade de módulos: 3500mw/7W/20W/30W/40W. Funcionalidade:1. NEJE brand new master 2s series motherboard’s hardware performance; 2s series motherboard will update the GRBL 1.1f of ATMELs chip to brand new GD32 MCU. Which has improved 50% performance compare with STM32 chip.2. It supports more than 10 different function modules, the NEJE module has excellent optical design and reliable work performance, which is the best and the most guaranteed service currently. Each NEJE module has an intelligent control function, which is quieter to use, and has a heat management function to ensure that each module runs at a safe temperature and obtains a longer service life. NEJE series module provides 2 years free warranty.3. Specializing Motherboard with GD32 MCU.4. It could preprocess 32 instructions, support baud rate as high as 2,000,000, compared to STM32 desktop laser engravers, which only has 921,600, more powerful!5. Engraving speed could be as high as 42,000 millimeters/Min. ( If do not consider the laser carving result, the speed of movement could be as high as 1200millimeters/Sec. ); compared to stm32 desktop laser engravers, which only has 3000 millimeters/Min, more powerful!6. The Most Advanced 32Bits Laser Engraver Firmware, smarter, faster, higher precision and easier to use. NEJE also provides firmware upgrade services7. Laser power range could be S0 - S1000, NEJE Laser Master could control laser beam more accurately, could even use the high power laser unit to "draw" a picture on paper, to match with NEJE series module can achieve the more accurate effect.8. Active Position Protection，There is a G-sensor on the motherboard, if the machine detects unauthorized movement, the laser beam will stop.9. Exposure Duration Detection and Limitation，If laser engraver is under control, but users forget to operate and keep the laser beam working, extra safety will cut off in case the motor stopped moving, to prevent fire. 10. O software NEJE (software livre) oferece suporte ao Windows 7, 8, 10. Macs OS. NEJE APP incluindo android, iOS macsOS, equipe NEJE o desenvolve, que é para iniciantes, ele pode fornecer escultura de alta precisão e software de criação CNC, os procedimentos operacionais são automáticos e de uso simples e seguro. Especialmente o software de gravação atual, a equipe NEJE mantém a atualização e otimização, também oferece serviços de atualização gratuita, você pode obter serviços de atualização gratuita em wiki.nejetool.com11. Benbox free software, supports Windows XP, 7, 8, 10.12. Laser GRBL ( free software ) supports Windows XP, 7, 8, 10. Laser GRBL is the most popular carving software in the world, could import different format images, you could editing in PhotoShop, Inkscape, CAD, etc. and then connect to the engraver via laser Laser GRBL for engraving and cutting.13. Light Burn ( paid software, light burn software.com ) supports Windows, Macs OS, and Linux. It's the most popular paid carving software in the world, very easy to use.14. NEJE module supports PWM control and temperature sensing, the module can adjust the focus by up and down, it also supports zoom module’s and focuses module’s installing.15. Pre-assembled parts, it just has to install 4 screws, need 1 minute to install the machine.16. 170 x 170 mm large engraving area. The widest space is less than 600 millimeters, it just able to place a whole home-used table.17. Aluminum profile frame + structured cabling, solid structure, smooth operation, attractive appearance, NEJE structure is different from other acrylic main structure, NEJE machine is using high-strength composite mostly. It also uses CNC art craft, to make sure pulley and aluminum material without any gap. Besides, it won’t deformation for a long time, which means it is robust and reliable. Observação :1. Use óculos de proteção para laser durante o uso e evite tocar o laser diretamente com os olhos e a pele!2. Não grave objetos espelhados ， Preste atenção ao fogo ， Preste atenção aos animais de estimação ao trabalhar！3. A fumaça será gerada quando queimada, preste atenção à fumaça do escapamento dentro de casa.4. O período de garantia de módulo de laser é de um ano. Se você tiver algum problema de qualidade (exceto situações individuais, como usar o módulo de laser por mais de 30 minutos por vez e causar danos), não hesite em solicitar uma ajuda ao nosso serviço de atendimento ao cliente.5. Se o seu módulo de laser tiver algum problema, NÃO o desmonte sem a nossa permissão. Destruirá o módulo de laser.6. Se você tiver qualquer problema de qualidade sobre a máquina, não hesite em entrar em contato conosco. Muitos problemas operacionais podem ser resolvidos de acordo com o vídeo e a descrição do problema. Agradeço antecipadamente. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESPECIFICAÇÃO
+Modelo
+NEJE Master 2S 30W
+
+Energia Óptica
+450nm 7.5W
+
+Painel de controle
+2S MCU de 32 bits + controle sem fio + MEMS
+
+Proteção Satety
+MEMS
+
+Tamanho de trabalho
+170 x 170 mm
+
+Pixel
+2266 x 2266 px
+
+Tamanho do ponto
+0.075mm
+
+Programas
+NEJE APP para Android, NEJE Wireless APP para iOS / macsOS, NEJE software para windows, Benbox, LaserGRBL com firmware GRBL1.1f.
+
+Serviço de atualização de software NEJE
+SIM
+
+NEJE Cloud Gallery
+SIM
+
+Função NEJE Scanner
+SIM
+
+Material da armação
+Corte CNC Placa composta, liga de alumínio, acrílico.
+
+Pode gravar
+MDF/balsa/papel/madeira/tecido/plástico/couro/madeira compensada/papel de espuma/alumínio anodizado
+
+Não pode gravar
+Metal/vidro/pedra/cerâmica/PCB/aço inoxidável/material reflexivo/material transparente
+
+Trabalho contínuo
+Ilimitado
+
+Comprimento de onda
+450nm
+
+Forma do feixe
+Ponto (Focável)
+
+Dirigir
+Construídas em
+
+Material da Lente
+D-ZK3
+
+Material do dissipador de calor
+Alumínio de aeronave + casco de latão
+
+Cor luminosa
+Azul
+
+Tensão de entrada
+AC100-240V, 50/60Hz
+
+Voltagem de saída
+DC12V, 3A
+
+Formato de imagem
+.bmp .jpg .png .nc .dxf etc. 
+
+
+
+
+
+Incluído no Pacote:
+
+
+1 x
+Máquina de Gravação Master 2S Laser
+
+
+1 x
+Módulo Laser
+
+
+4 x
+Nozes
+
+
+1 x
+Óculos Vermelhos
+
+
+1 x
+chave em L
+
+
+1 x
+Cabo USB
+
+
+1 x
+Chave pequena
+
+
+1 x
+Adaptador de energia 12V3A
+
+
+1 x
+Adaptador da UE
+
+
+1 x
+Bloco de madeira pequeno
+
+
+5 x
+Papel de teste
+
+
+1 x
+Manual do usuário
+
+
+
+Mais detalhes:
+
+
+
+

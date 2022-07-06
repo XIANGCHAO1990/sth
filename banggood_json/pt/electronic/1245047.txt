@@ -1,0 +1,281 @@
+1245047
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/8B/CF/35442189-ce30-459f-827e-3eb98074c67f.JPG
+Módulo de fonte de alimentação de abaixamento da placa do conversor DC-DC CC CV Buck 7-32V para 0,8-28V 12A
+https://pt.banggood.com/DC-DC-CC-CV-Buck-Converter-Board-Step-Down-Power-Supply-Module-7-32V-to-0_8-28V-12A-p-1245047.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recursos:
+
+
+
+- A corrente da lâmpada de giro fixo é 0,1 vezes o valor atual (usado para identificar se a bateria está totalmente carregada durante o carregamento).
+
+- Feito de um benchmark dedicado IC e resistor de detecção de corrente de alta precisão, provando uma corrente constante mais estável, (quando 20 ° C a 100 ° C corrente constante 1A, variação de temperatura inferior a 1%). Particularmente adequado para LED.
+
+- Corrente de saída alta, a corrente de saída máxima pode chegar a 8A.
+
+- Quatro capacitância de alta frequência, pode diminuir a ondulação de saída, melhorar a estabilização do trabalho.
+
+- Projeto de dissipador de calor duplo. MOS dissipador de calor independente do diodo schottky, cuja dissipação de calor é boa e não afetará um ao outro.
+
+- Usando o Sendust Core de tamanho grande e fiação de cobre puro duplo, melhore a eficiência de trabalho e reduza a febre.
+
+- Potenciômetro multivoltas de 3296, regulação de tensão e corrente de alta precisão, boa estabilidade.
+
+- Lâmpada de duas cores, condição de trabalho clara à primeira vista
+
+- A tensão e a corrente são ajustáveis, cujo efeito é bom.
+
+
+
+Parâmetros:
+
+
+
+- Propriedades do Módulo: Corrente constante abaixadora não isolada, módulo de carregamento de módulo de tensão constante (CC CV)
+
+- Tensão de entrada: DC 7-32V
+
+- Tensão de saída: (1) DC 1,2-28V continuamente ajustável. (2) Saída fixa: Escolha entre 0,8v-28v
+
+- Corrente de saída: 8A (quando a temperatura do tubo de alimentação ultrapassar 65 graus, adicione ventilador)
+
+- Faixa de corrente constante: 0,2-8A (ajustável)
+
+- Gire a corrente da lâmpada: valor da corrente constante * (0,1), gire a corrente da lâmpada e a ligação do valor constante, como o valor da corrente constante é 3A, gire a corrente da lâmpada é definida para uma corrente constante é 0,1 vezes (0,1 * 3A = 0,3A )
+
+- Pressão mais baixa: 1V
+
+- Potência de saída: a potência máxima é de cerca de 200W
+
+- Eficiência de conversão: até cerca de 95%
+
+- Freqüência de operação: 300KHZ
+
+- Ondulação de saída: largura de banda de 20M
+
+- Entrada 24 V, saída 12 V 5A, ondulação em torno de 50 mV (excluindo o ruído)
+
+- Proteção de curto-circuito de saída: Sim, corrente constante
+
+- Proteção de polaridade reversa de entrada: Nenhuma
+
+- Saída de prevenção de refluxo: Nenhum
+
+- Fiação: Terminal
+
+- Corrente sem carga: 20mA típica (chave 24V 12V)
+
+- Regulação de carga: ± 1% (constante)
+
+- Regulação de Tensão: ± 1%
+
+- Dynamic ResponseSpeed: 5% 200uS
+
+- Sentido de ajuste do potenciômetro: sentido horário (aumento), anti-horário (diminuição), o potenciômetro (CV) fechado para a tensão de entrada é usado para regular a tensão, o potenciômetro (CC) fechado para a tensão de saída é usado para regular a corrente (CC)
+
+- Temperatura de operação: grau industrial (-40 ° C a +85 ° C) (observe o uso real da temperatura do tubo de alimentação, alta temperatura reforçada com calor)
+
+- Indicador: indicador de cor dupla, a luz indicadora de carga é vermelha, a luz verde significa que está totalmente carregada (sem carga é verde)
+
+- Tamanho: Aprox. 65 x 47 x 23,5 mm / 2,56 x 1,85 x 0,93 ''
+
+- Precisão da corrente constante e temperatura: no teste real, a temperatura do módulo de 25 graus a 60 graus, a mudança do valor da corrente constante é inferior a 5% (valor da corrente constante 5A)
+
+- Proteção de curto-circuito de saída: Sim, corrente constante (o valor de corrente constante de configuração de corrente)
+
+- Proteção de conexão reversa de entrada: NÃO
+
+- Saída de prevenção de fluxo reverso: NÃO
+
+- Método de fiação: conector Amphenol
+
+
+
+Formulários:
+
+
+
+Driver de alta potência LED
+
+Carga da bateria de lítio (ou acumulador de chumbo)
+
+Fonte de alimentação montada em veículos
+
+Fonte de alimentação do sistema de baixa tensão
+
+Carga de bateria de 6 V, 12 V, 14 V, 24 V
+
+Fonte de alimentação do laptop a bordo
+
+Fonte de alimentação regulada
+
+Sistema de alimentação de baixa tensão
+
+
+
+O pacote inclui:
+
+
+
+1 x módulo de fonte de alimentação ajustável DC-DC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

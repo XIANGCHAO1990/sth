@@ -1,0 +1,207 @@
+https://es.banggood.com/New-NEJE-MASTER-2-Upgraded-7W-Smart-Laser-Engraver-DIY-Laser-Engraving-Machine-450nm-Blue-Laser-Deep-Carving-Desktop-Logo-Picture-Printer-with-Wireless-APP-Control-Benbox-GRBL1_1f-MEMS-Protection-p-1549050.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+Nuevo NEJE MASTER 2 Mejorado 7W Smart Láser Grabador DIY Láser Máquina de grabado 450 nm Azul Láser Logotipo de escritorio de talla profunda Impresora de imagen con control de aplicación inalámbrica Benbox GRBL1.1f Protección MEMS
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEJE Láser Máquina de grabado 
+
+
+
+
+
+
+
+
+
+
+
+
+NEJE 3500mW Láser Grabador
+
+
+
+
+Por favor haga clic en eso: Identificación: 1448860
+
+
+
+
+
+NEJE 20W Láser Grabador 
+
+Por favor haga clic en eso: Identificación: 1582758
+
+
+
+Si desea comprar el reemplazo NEJE módulo láser, puede hacer clic en eso: Identificación: 1592200
+Nota:  7W Master 2 es una versión mejorada del 7W original. Master 2 tiene dos MCU. El equipo NEJE continúa desarrollando nuevas funciones. Los usuarios pueden actualizar automáticamente el último firmware NEJE a través de la nube para hacer que la máquina sea más potente. El segundo chip es compatible con el firmware Benbox y LaserGRBL, puede aprender el conocimiento de CAD o código G a través de estos 2 softwares, para avanzar a maestros profesionales de Gcode, por supuesto, NEJE también proporciona herramientas de actualización de firmware Benbox y GRBL1.1f.
+Descripción:
+
+	- La máquina de grabado Master es una máquina de grabado portátil con instalación simple, seguridad y fácil operación. 
+
+	- Dispone de sensor de acelerómetro incorporado. Cuando la máquina se inclina, detendrá automáticamente el trabajo del láser y protegerá contra daños por láser. 
+
+	- Al mismo tiempo, es compatible con el software de control NEJE y el software GRBL, que no solo puede disfrutar de la portabilidad simple del software NEJE, sino que también es compatible con la operación divertida del software de código abierto GRBL;
+	- Es compatible con el control dinámico módulo láser desarrollado por Neje, que puede admitir la regulación de potencia PWM, regulación de brillo con poca luz, protección de inducción de temperatura láser; también es compatible con diferentes láseres de potencia.
+
+	- El maestro 7w está especializado en grabado en metal y grabado y corte en madera profunda. 
+
+
+Solicitud:
+
+		1. Profundidad de grabado (madera de 0,5-3 mm), espesor de corte (madera de 2 mm).
+		2. Admite grabado en metal, incluido el óxido de alúmina, oxido de hierro, y otros materiales no reflectantes.
+
+		Materiales de grabado admitidos: Madera, papel gris, cuero, bambú, plásticos ennegrecidos, caucho, óxido de alúmina, cobre, etc.
+
+		3. No es posible grabar directamente el metal con una fuerte reflectividad del espejo, lo que puede causar lesiones al operador o quemar el láser. 
+
+		4. No se puede trabajar en acero inoxidable/vidrio/aleación/algunos materiales reflectantes.
+
+
+Especificación generalModelo: NEJE Master 2 7W Potencia óptica: 450nm 2.5W Tablero de control: 2 x MCU + control inalámbrico + MEMSProtección de seguridad: MEMSTamaño de trabajo: 170 x 170 mm.Pixel: 2266 x 2266 pxPaso de punto: 0.075 mmSoftware: aplicación NEJE para Android, aplicación inalámbrica NEJE para iOS / OSmac, software NEJE para Windows, Benbox, LaserGRBL con firmware GRBL1.1f.Servicio de actualización de software NEJE: SÍNEJE Cloud Gallery: SÍFunción de escáner NEJE: SÍMaterial del marco: placa compuesta de corte CNC, aleación de aluminio, acrílico.Puede grabar: MDF / Balsa / Papel / Madera / Tela / Plástico / Cuero / Contrachapado / Papel de espuma / Aluminio anodizadoNo se puede grabar: metal / vidrio / piedra / cerámica / PCB / acero inoxidable / material reflectante / material transparenteContinuar trabajando: IlimitadoLongitud de onda: 450 nmForma del haz: punto (enfocable)Unidad: incorporadaMaterial de la lente: D-ZK3Material del disipador de calor: aluminio de la aeronave + carcasa de bronceColor luminoso: azulVoltaje de entrada: AC100-240V, 50/60HzVoltaje de salida: DC12V, 2AFormato de imagen: .bmp .jpg .png .nc .dxf etc. Tipo de enchufe: UE/US (opcional)Características:1. Más conveniente. Control inalámbrico fuera de línea y APP. NEJE Transferencia inalámbrica de escáner. Cloud Gallery y Gcode en línea facilitan la creación.Software CNC profesional: Benbox, LaserGRBL. Rango de grabado de 170 x 170 mm. Sistema operativo: windows 7 / 8.1 / 10 / android / iOS / OSmac. Formato de imagen: BMP / PNG / JPG / NC / DXF2. Mayor poder. Velocidad más rápida, precisión más precisa, si usted es un verdadero fabricante, manitas, ingeniero de CNC o artista, DIY, esta máquina ofrece una excelente manera de hacerlo 3. Tallado más material. Puede tallar MDF, balsa, papel, madera, tela, plástico, cuero, madera contrachapada, papel de espuma, aluminio anodizado, etc. (No apto para hierro u otro metal)4. Proporcionamos garantía de 2 años y servicio al cliente de por vida. Si tiene alguna pregunta sobre esta máquina de grabado, contáctenos, le responderemos en 24 horas. Nota 1 (Por favor, preste atención):1. ¡Use gafas para láser durante el uso y evite tocar el láser directamente con los ojos y la piel!2. No grabe objetos espejados, preste atención al fuego, preste atención a las mascotas cuando trabaje！3. Se generará humo cuando se queme, preste atención al escape de humo en interiores.4. El período de garantía de módulo láser es de un año. Si tiene algún problema de calidad (excepto situaciones individuales como usar el módulo láser más de 30 minutos por vez y causar el daño), no dude en pedir ayuda a nuestro servicio al cliente.5. Si su módulo láser tiene algún problema, NO lo desmonte sin nuestro permiso. Destruirá el módulo láser.6. Si tiene algún problema de calidad con respecto a la máquina, no dude en contactarnos. Muchos problemas operativos se pueden resolver de acuerdo con su video y la descripción del problema. Gracias de antemano.Nota 2:1. Cuando la máquina está funcionando, se recomienda no mirar directamente al cabezal del láser y no operar el cabezal del láser directamente con la mano.2. El diodo láser es un componente sensible, preste atención para evitar daños electrostáticos (el producto incluye un diseño de protección electrostática, pero existe una cierta probabilidad de daño)3. El tiempo de garantía del módulo Láser es de 1 año4. El tiempo de garantía de la placa controladora es de 3 años.5. que el manual y el CD-ROM no están incluidos, descarga de software y ayuda de uso por el servicio wiki de neje El paquete incluye:1 x Master 2 Láser Máquina de grabado1 módulo Láser4 x Nuts1 gafas1 x llave en forma de L1 cable USB.1 llave pequeña.1 x adaptador de corriente 12V2A1 x adaptador de la UE1 x pequeño bloque de madera1 papel de prueba.
+
+
+
+
+
+

@@ -1,0 +1,163 @@
+1422002
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/CA/6F/e0047e59-bfab-4a7e-b157-d99c054cbb1c.jpeg
+Maniglia bluetooth WiFi Kit remoto fai da te modulo di controllo Smart Car per motore Servo Braccio guida Geekcreit per Arduino - prodotti che funzionano con schede Arduino ufficiali
+https://it.banggood.com/WiFi-bluetooth-Handle-DIY-Remote-Control-Smart-Car-Module-Kit-For-Motor-Servo-Drive-Arm-p-1422002.html?cur_warehouse=CN&ID=566380&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Selezione Tipo: (si prega di scegliere quello che vi serve)  Solo scheda di controllo genere WiFi Tipo   bluetooth Tipo   Maniglia Tipo  Caratteristiche:    Servoazionamento a 16-vie e scheda di comando a quattro vie, con azionamento a quattro vie TB6612, PCA9685 per controllo a 16 vie  Piombo UNO pin I / O  Massimo tensione di alimentazione 15V / DC  Riserva presa modulo Bluetooth e WIFI  Riservato socket maniglia PS2  Azionamento a quattro vie per motori a corrente continua, corrente massima di pilotaggio a un canale 1,2A in media / picco 3,2A  Cavo servoassistito a 16 vie, l'alimentazione può essere commutata dall'alimentazione esterna / interna del ponticello berretto      Specifica:   Ingresso alimentazione:    Alimentazione motore (VM): 4,5 V ~ 36 V, che può essere fornita separatamente  L'alimentazione elettrica dello sterzo (VIN): 5 ~ 18 V, che può essere fornita separatamente    Metodo di utilizzo dell'alimentazione singola:   VM e VIN (motore di controllo separato, 6-36 V)  VS e VIN a circuito aperto comandano separatamente lo sterzo (6-18 V)  Cortocircuito VM e VIN, cortocircuito VS e 5V allo stesso tempo. Controllo simultaneo del motore (6-18 V) e del meccanismo di guida 5V a 16 vie     Il pacchetto include:   1 x 2/4 Motor Drive Board  1 scheda di sviluppo UNO  1 cavo USB  2 x Cavo motore  1 x modulo bluetooth (opzionale)  1 x modulo WiFi (opzionale)  1 x kit maniglia (opzionale)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

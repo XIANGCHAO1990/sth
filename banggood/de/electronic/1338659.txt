@@ -1,0 +1,345 @@
+https://de.banggood.com/Nextion-NX8048K070_011C-7_0-Inch-Enhanced-HMI-Intelligent-Smart-USART-UART-Serial-TFT-LCD-Screen-Module-Display-Capacitive-Multi-Touch-Panel-With-Enclosure-p-1338659.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Nextion NX8048K070_011C 7,0 Zoll Enhanced HMI Intelligent Smart USART UART Serial TFT LCD Bildschirmmodul Display Kapazitiv Multi-Touch Panel mit Gehäuse
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Überblick:
+
+Das 7,0'' verbesserte Nextion HMI resistives/kapazitives Touch-Display mit einem Gehäuse. Der Nextion-Bildschirm ist ein aktualisiertes LCD-Panel mit leistungsstärkeren Funktionen. Es gibt zwei Modelle: NX8048K070_011C und NX8048K070_011R. Das NX8048K070_011C ist ein leistungsstarkes 7,0'' HMI TFT kapazitives Multi-Touch-Display mit Gehäuse, während das NX8048K070_011R ein resistives Touchpanel mit Gehäuse ist. Beide sind mit 32 MB Flash Datenspeicherplatz, 1024 Byte EEPROM, 8192 Byte RAM und GPIO unterstützt.
+
+
+
+Was kann Nextion tun?
+
+Während des Entwurfsprozesses von eingebetteten Systemen ist das Design der Mensch-Maschine-Schnittstelle eines der nervigsten und zeitaufwendigsten Dinge. Sie benötigen ein elegantes Diagramm oder ein elegantes Diagramm, schnelle Seitendesigns, Sie benötigen Ressourcen, die für eine schnelle Verarbeitung gespeichert sind, die Antwort finden Sie in der erstaunlichen Nextion-Produktlinie.
+
+Nextion ist durch offene und standardisierte Schnittstellen in Hard- und Software auf Ihre spezifischen Anforderungen an die Mensch-Maschine-Schnittstelle optimiert, was eine effiziente Integration in Ihre Automatisierungssysteme ermöglicht.
+
+Mensch-Maschine-Systeme, Visualisierung, Mensch-Interaktion, Kognition, visuelle Wahrnehmung, maschinelle Intelligenz, Kybernetik bis hin zur Robotik sind nur einige Beispiele, bei denen HMI-Konzepte eine wichtige Rolle spielen.
+
+Welchen Wert kann Nextion bringen?
+
+Erinnern Sie sich als Embedded-Ingenieur an die alten Zeiten, als Sie die Mensch-Maschine-Schnittstelle für ein eingebettetes System entwarfen? Sie müssen Wochen im Low-Level-Design verbringen.
+
+Nextion ist so konzipiert, dass es mit minimalem Designaufwand funktioniert, da alle Daten und Steuersignale vom Gerät bereitgestellt werden, um direkt mit dem Display verbunden zu werden. Dies bietet dem Konstrukteur enorme Vorteile in Bezug auf Entwicklungszeit- und Kosteneinsparungen und nimmt alle Lasten des Low-Level-Designs ab.
+
+Nextion hilft Ihnen, schnell visuell in Stunden statt in Wochen zu entwerfen und lange Codierungsarbeiten zu einem vernünftigen Preis in einfache Drag-and-Drop-Operationen umzuwandeln. Was Sie nur brauchen, ist eine serielle Schnittstelle zur Nextion-Display-Hardware.
+
+Demo sagt mehr als Worte, hier kommt ein weiteres Video, das Ihnen zeigt, wie schnell und einfach eine Anwendung durch Ziehen und Ablegen von Einwänden auf dem virtuellen Bildschirm auf einem WYSIWYG-Design-IDE - Nextion Editor entworfen werden kann.
+
+
+
+Im Vergleich zu den grundlegenden Nextion-Displays haben die erweiterten einige neue Funktionen hinzugefügt, wie z. 
+
+
+
+Merkmale:
+
+
+
+Unterstützt eingebaute RTC
+
+Unterstützt GPIO
+
+SD-Kartenschnittstelle: unterstützt max. 32G Micro TF/SD-Karte (FAT32-Dateiformat)
+
+Flash-Datenspeicherplatz: 32 MB
+
+EEPROM: 1024 Byte
+
+RAM: 8192 Byte
+
+Befehlspuffer: 1024 Byte
+
+Farbe: 65K (65536) Farben
+
+Auflösung: 800×480 Pixel
+
+Einstellbare Helligkeit: 0~230 Nit - das Anpassungsintervall beträgt 1%
+
+Certificates: CE/EMC, RoHS (certificates)
+
+
+
+
+Spezifikation:
+
+
+
+
+Maße:
+
+
+
+
+
+Einfache Installation:
+
+
+
+
+
+
+Unterlagen:
+
+
+Please visit wiki Seite für weitere Informationen zu diesem Produkt. 
+
+
+Technischer Support:
+
+
+For technical support, please open Nextion Forum.
+
+
+
+WEITERE INFORMATIONEN:
+
+
+
+
+
+
+
+
+
+
+Abgesetzt
+
+Nein
+
+
+
+Wiki verlinken
+
+Nein
+
+
+
+Bildschirmauflösung
+
+800 x 480
+
+
+
+Anzeigeschnittstelle
+
+Seriennummer
+
+
+
+Bildschirm Typ
+
+Touchscreen
+
+
+
+Display-Controller
+
+Nein
+
+
+
+TFT-Display-Schnittstelle
+
+N / A
+
+
+
+Bildschirmgröße
+
+7,0”
+
+
+
+Brettgröße
+
+181mm*108mm
+
+
+
+Expandieren
+
+
+
+SD-Kartensteckplatz
+
+Touchscreen
+
+
+
+
+
+Gewicht
+
+598 g
+
+
+
+
+
+
+Lieferinhalt:
+
+1 x Nextion 7,0 Zoll Verbessert Kapazitiv Multi-Touch Panel mit Gehäuse
+1 x Micro-USB zu 2P-Anschlussplatine
+1 x 4-poliges Grove-Kabel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

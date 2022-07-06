@@ -1,0 +1,229 @@
+1060231
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/22/C2/037f2d96-4676-42af-aa23-c26bb2985e0d.jpg
+SL-LC 04 Super Mini LED WIFI APP Controller + remoto Controllo per RGB LED Strip DC 9-12V
+https://it.banggood.com/SL-LC-04-Super-Mini-LED-WIFI-APP-Controller-+-Remote-Control-For-RGB-LED-Strip-DC-9-12V-p-1060231.html?cur_warehouse=CN&rmmds=CategoryHomeGardenPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parametro:
+Modello n .: SL-LC04
+Tensione di funzionamento: DC9-12V
+Canale di uscita: può essere utilizzato a 4 canali
+Corrente di uscita: RGB, 4A*4
+Max. Potenza: 192W 4AX4X12V =
+Metodo Connect: anodo comune
+Dimensione: circa L46*W19*H8mm
+Distanza: 50 m all'aperto
+Modalità di connessione: R, G, B per LED Luce, V+, V- per alimentazione e per ricezione segnale WIFI
+Applicazioni: può utilizzare per LED strisce, LED pannello luce, LED soffitto e altri LED illuminazione
+Contenuto della confezione: 1 X LED Mini controller WiFi, 1 X 24key remoto Control, 1 X manuale inglese
+
+Funzioni:
+* 16 milioni di colori
+* Controllo Smartphone
+* Controllo sincronizzato per gruppo
+*Modalità personalizzata
+* Modo timer
+* Lancia la tua festa
+* Dancing leggero con musica
+* Salva i colori preferiti
+* Telecomando da Intenet
+
+Istruzioni:
+1.Cerca app: "MagicHome WiFi" dal negozio IOS o Android Google Play Store e installa l'app gratuita.
+2.Scan codice QR per installare l'applicazione gratuita.
+
+Impostazione connessione WIFI:
+1. Cerca il controller WiFi "LEDnet ******" nella rete WiFi del tuo telefono e collegalo.
+2. Aprire l'applicazione "Magichome WiFi" e attendere mentre il telefono esegue la scansione per questo controller WiFi.
+3. Hai tre modi per controllare il tuo controller WiFi:
+Modo Singolo:
+Fai clic su "Salta, imposta la prossima volta", quindi vai a controllarlo direttamente.
+In modalità singola, è possibile controllare un solo controllore una volta.
+Inoltre, il controller WiFi del telefono deve mantenere la connessione con il controller WiFi "LEDnet ******" nel frattempo.
+B. Modalità rete:
+Fare clic su "Impostazione", quindi impostare i controller sul router WiFi uno per uno.
+Dopo che i controller sono stati collegati al router WiFi, collegare il telefono a questo router WiFi. Quindi apri l'app "Magichome WiFi"
+E attendere mentre il telefono esegue la scansione per i controller WiFi collegati a questo router WiFi.
+Ora, l'applicazione mostrerà tutti i controller in "Elenco dispositivi". In "Elenco dispositivi", è possibile selezionare il controller da controllare.
+Quanti controllori app possono controllare la sincronizzazione è uguale a quanti dispositivi il router WiFi può supportare.
+Nella modalità di rete, è possibile controllare tutti i controller collegati al router WiFi, indipendentemente dal fatto che il router WiFi sia online o meno.
+C.Remote il controllo da Internet:
+Per controllare i tuoi controller WiFi in qualsiasi parte del mondo.
+Nella modalità di rete, è sufficiente mantenere il router WiFi in linea. Fai clic sull'icona a forma di ingranaggio nell'angolo in alto a sinistra per accedere alla pagina di impostazione.
+Scegliete il proprio controller WiFi e selezionate "Impostazioni remote" nel menu a comparsa. Controllare l'opzione di stato remoto per cambiarla da "unopen".
+Una volta riavviato il controller WiFi, è possibile trovarlo nella scheda "Remoto" nella pagina "Elenco dispositivi".
+
+FAQ:
+(A) Il mio telefono non è in grado di connettersi al controller WiFi in modalità singola.
+   1) Collegare correttamente il controller WiFi, alimentazione elettrica → Controllore WiFi → Illuminazione a LED
+   2) Assicurarsi che la rete WiFi del telefono funziona normalmente.
+   Quindi collegare la rete WiFi del tuo cellulare al controller LED WiFi ******.
+(B) Non sono riuscito a connettersi al dispositivo WiFi in modalità di rete.
+    Assicurarsi di aver inserito la password corretta sul router. Spegnere il controller e il router.
+    Accendere il router prima e poi il controller dopo 30 secondi. Attendere circa 2 minuti prima di eseguire Magichome WiFi.
+    Se il problema persiste, passare all'impostazione di rete WiFi del telefono e impostare nuovamente il controller WiFi "LEDnet ******". Quindi, collegare il controller al router WiFi in modalità singola in primo luogo.
+(C) Il mio telefono non è in grado di eseguire il dispositivo WiFi.
+    Questa applicazione supporta questi OS: Android 2.3 o superiore, IOS6.0 o versioni successive.
+(D) Quanti controller WiFi possono essere controllati da un telefono in modalità singola o in modalità di rete?
+    In modalità singola, un telefono può controllare il controller WiFi da 1pcs. In modalità di rete, quanti controller WiFi un telefono può sincronizzare il controllo è uguale a quanti dispositivi con un router WiFi può funzionare.
+
+(E) Posso utilizzare molti telefoni per controllare un controller WiFi?
+     Sì, è possibile utilizzare 8 telefoni per controllare un controller WiFi.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,,,,
+
+

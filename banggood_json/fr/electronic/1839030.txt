@@ -1,0 +1,145 @@
+1839030
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/D0/BB/2130e979-cc7f-4cfd-bc79-d166122afd56.jpg
+Interface Super USB MACH3 100Khz carte 4 axes Interface pilote contrôleur de mouvement imprimante 3D carte CNC
+https://fr.banggood.com/Super-USB-interface-MACH3-100Khz-Board-4-Axis-Interface-Driver-Motion-Controller-3D-Printer-CNC-Board-p-1839030.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descriptions: 1. Prise en charge de la liaison 4 axes, vous pouvez connecter quatre entraînements de moteur pas à pas ou servo variateurs;2. La fréquence maximale d'impulsion de pas est de 100 KHz, ce qui convient au servomoteur ou au moteur pas à pas;3. Soutenir l'outil de sonde automatique4. Soutenir l'entrée d'urgence5. Prise en charge de l'interrupteur de fin de course6. Support pour connecter le volant électronique7. Besoin d'utiliser une alimentation externe 24 V CC pour isoler le port USB et externe, et pour rendre le système plus stable8. Avoir un port de sortie 0-10V, vous pouvez utiliser le logiciel mach3 pour contrôler la vitesse du moteur de broche.9. 4 entrées à usage général, vous pouvez connecter l'interrupteur de fin de course, l'interrupteur estop, l'interrupteur de sonde, le retour à zéro et un autre appareil10. 4 interface de sortie d'entraînement de relais isolé à usage général, peut conduire quatre relais pour contrôler les démarrages de la broche, la rotation avant et la rotation inverse, les pompes et autres appareils11. 1 LED d'état, indique l'état de la connexion sur la carte Emballage inclus: 1 x planche1 x câble USB1 x CDDétails Image:
+
+
+
+

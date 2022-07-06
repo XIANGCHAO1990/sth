@@ -1,0 +1,210 @@
+https://fr.banggood.com/2-Pcs-VU-Meter-Warm-Backlight-Recording-Audio-Level-Amp-With-Driver-Module-p-1172865.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+2 Pcs VU-Mètre Rétro-Éclairage Chaud Enregistrement Amplificateur de Niveau Audio avec Module de Pilote
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tableau de conduite:
+
+La carte de pilote de quatrième génération au lieu de la plaque d'entraînement 7318IC, a amélioré les deux inconvénients du pilote 7318:
+1. Petite oscillation du pointeur.
+2. Petit ajuster la sensibilité.
+
+
+
+
+
+Mode d'emploi:
+
+
+
+1. L'entrée AC / DC 12V est l'alimentation électrique de la carte d'entraînement. (Il est recommandé d'utiliser un transformateur de puissance séparé, ou un enroulement indépendant pour son alimentation! Le courant est de 45 mA lorsque le panneau de commande n'utilise pas le rétro-éclairage)
+
+
+2. L, GND, R: Il s'agit de la borne d'entrée de signal de bas niveau du panneau de commande, utilisée pour connecter la machine à CD, la carte son de l'ordinateur, la pré-classe et d'autres équipements audio, signal audio, lorsque le câblage L, GND, R nécessite respectivement correspondant à la gauche, au sol et au canal droit.
+
+
+3. Le rétroéclairage DC12V est l'alimentation utilisée pour le rétro-éclairage du compteur après la rectification et la stabilisation de la carte du conducteur. (Remarque: le courant de courant du rétro-éclairage est le support maximal 400MA * 2. Lorsque vous utilisez le courant maximal, le courant du transformateur d'alimentation ne peut pas dépasser 1 A 12W.)
+
+4. Header interface: pay attention to positive and negative.
+5. R1 and R2 Sont deux résistances réglables sur la plaque d'entraînement qui peuvent contrôler la taille de la balançoire du stylet.
+
+VU-Mètre:
+La couleur noire
+Metaristique: plastique
+Taille: 35 x 35 x 37mm
+Plage de mesure: 0--500UA ± 10%
+Résistance: 650Ω ± 10%
+Précision: ± 5%
+Emplacement approuvé: 100UA à pleine échelle
+Tension de rétroéclairage: AC / DC 6-12V
+Tension de rétroéclairage: AC / DC 6-12V
+
+
+
+
+
+Pour prolonger la durée de vie de l'ampoule de contre-jour, vous pouvez utiliser les méthodes suivantes:
+
+
+
+
+1. Sous réserve que le rétro-éclairage répond à l'exigence, la tension de travail peut être réduite afin que la durée de vie puisse être considérablement étendue.
+
+
+2. Alimentation secteur 10 ~ 12V, série 10 ohm ~ 50 ohms résistance limite de courant pour réduire l'impact sur le filament lors du démarrage.
+
+
+Emballage inclut:
+
+2 x VU-mètre
+1 x Module de Pilote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,
+
+

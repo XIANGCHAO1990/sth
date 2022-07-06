@@ -1,0 +1,181 @@
+1077675
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/B1/D4/219647ea-f2aa-4cad-8c51-cd21341f4f48.JPG
+Pro Micro 5V 16M Mini Leonardo Microcontrolador Placa de Desarrollo para Arduino
+https://es.banggood.com/Geekcreit-Pro-Micro-5V-16M-Mini-Leonardo-Microcontroller-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1077675.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pro Micro 5V 16M Mini Leonardo Microcontrolador Placa de Desarrollo para Arduino
+
+Descripción:
+
+Esta placa de desarrollo de microcontroladores tiene 4 canales de ADC de 10 bits, 5 pines de PWM, 12 DIO, y una conexión serial de hardware Rx y Tx con la que está familiarizado. Corriendo en 16MHz y 5V, este tablero le recordará muchos otros tableros compatibles de Arduino que usted tiene gusto. Hay un regulador de voltaje a bordo, por lo que puede aceptar hasta 12V DC. Si está suministrando una tarjeta de fuente de alimentación inestable, asegúrese de conectarse a la "RAW" no en el pin VCC. También hemos añadido una protección de fusibles y diodos PTC al circuito de alimentación y para corregir los circuitos RX y LED TX.
+Característica:
+
+- ATMEGA32U4 funcionando en 5V / 16MHz
+- Soporta Arduino IDE V1.0.1
+- Programación de la interfaz Micro USB en la placa
+- Cuatro clavijas ADC de 10 bits
+- 12 E / S digitales (Capacidad de 5 PWM)
+- Conexión serial de hardware Rx y Tx
+
+
+
+Paquete incluído:
+
+1 x Módulo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

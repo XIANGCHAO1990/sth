@@ -1,0 +1,281 @@
+1245047
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/8B/CF/35442189-ce30-459f-827e-3eb98074c67f.JPG
+DC-DC CC CV Buck Dönüştürücü Kartı Adım Aşağı Güç Kaynağı Modülü 7-32V - 0.8-28V 12A
+https://tr.banggood.com/DC-DC-CC-CV-Buck-Converter-Board-Step-Down-Power-Supply-Module-7-32V-to-0_8-28V-12A-p-1245047.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikleri:
+
+
+
+- Sabit dönüş lambası akımı, mevcut değerin 0,1 katıdır (Şarj sırasında pilin tamamen dolu olup olmadığını belirlemek için kullanılır).
+
+- Özel bir referans IC ve yüksek hassasiyetli akım algılama direncinden yapılmıştır, daha kararlı bir sabit akım olduğunu kanıtlar (20 ° C ila 100 ° C sabit akım 1A, sıcaklık kayması% 1'den az). LED için özellikle uygundur.
+
+- Yüksek çıkış akımı, maksimum çıkış akımı 8A'ya ulaşabilir.
+
+- Dört yüksek frekans kapasitansı, çıkış dalgalanmasını azaltabilir, iş stabilizasyonunu artırabilir.
+
+- Çift soğutucu tasarımı. MOS schottky diyot bağımsız ısı emici, ısı yayılımı iyidir ve birbirini etkilemez.
+
+- Büyük Numara Sendust Core ve çift saf bakır kablo kullanarak, çalışma verimliliğini artırın, ateşi azaltın.
+
+- 3296 çok turlu potansiyometre, yüksek doğrulukta voltaj ve akım regülasyonu, iyi stabilite.
+
+- Çift renkli lamba, çalışma durumu bir bakışta net görünür
+
+- Voltaj ve akım ayarlanabilir, etkisi iyidir.
+
+
+
+Parametreler:
+
+
+
+- Modül Özellikleri: İzole edilmemiş aşağı inen sabit akım, sabit voltaj modülü (CC CV) şarj modülü
+
+- Giriş Voltajı: DC 7-32V
+
+- Çıkış Voltajı: (1) DC 1.2-28V sürekli ayarlanabilir. (2) Sabit çıkış: 0.8v-28v arasında seçim yapın
+
+- Çıkış Akımı: 8A (güç tüpünün sıcaklığı 65 dereceyi aştığında, lütfen soğutma fanı ekleyin)
+
+- Sabit Akım Aralığı: 0.2-8A (Ayarlanabilir)
+
+- Lamba'i çevirin Akım: Sabit akım değeri * (0.1), lamba akımını ve sabit değer bağlantısını çevirin, sabit akım değeri 3A gibi, lamba akımını çevirin, 0.1 kat (0.1 * 3A = 0.3A) )
+
+- En Düşük Basınç: 1V
+
+- Çıkış Gücü: Maksimum güç yaklaşık 200W
+
+- Dönüşüm Verimliliği: Yaklaşık% 95'e kadar
+
+- Çalışma Frekansı: 300KHZ
+
+- Çıkış Dalgalanması: 20M bant genişliği
+
+- Giriş 24V çıkışı 12V 5A 50mV civarında dalgalanma (Gürültü hariç)
+
+- Çıkış Kısa Devre Koruması: Evet, sabit akım
+
+Giriş Ters Polarite Koruması: Yok
+
+- Çıktı Geri Akışı Önler: Yok
+
+- Kablolama: Terminal
+
+- Yüksüz Akım: Tipik 20mA (24V anahtar 12V)
+
+- Yük Yönetmeliği: ±% 1 (Sabit)
+
+- Gerilim Düzenlemesi: ±% 1
+
+Dinamik Tepki Hızı:% 5 200uS
+
+- Potansiyometre Ayar Yönü: saat yönünde (artırma), saat yönünün tersine (azaltma), giriş voltajına kapalı potansiyometre (CV) voltajı düzenlemek için kullanılır, çıkış voltajına kapalı potansiyometre (CC) akımı düzenlemek için kullanılır (CC)
+
+- Çalışma Sıcaklığı: Endüstriyel sınıf (-40 ° C ila +85 ° C) (lütfen güç borusu sıcaklığının, yüksek sıcaklıkta ısıyla güçlendirilmiş gerçek kullanımına dikkat edin)
+
+- Gösterge: çift renkli gösterge, şarj gösterge ışığı kırmızı, yeşil ışık tam şarj anlamına gelir (Yüksüz yeşildir)
+
+- Boyut: Yaklaşık. 65 x 47 x 23,5 mm / 2,56 x 1,85 x 0,93 inç
+
+- Sabit Akım ve Sıcaklığın Hassasiyeti: Gerçek testte, modül sıcaklığı 25 dereceden 60 dereceye, sabit akım değeri değişimi% 5'in altındadır (5A sabit akım değeri)
+
+- Çıkış Kısa Devre Koruması: Var, Sabit akım (mevcut ayar sabit akım değeri)
+
+Giriş Ters Bağlantı Koruması: YOK
+
+Çıktı Ters Düşmeyi Önler: YOK
+
+- Kablolama Yöntemi: Amphenol konektörü
+
+
+
+Uygulamalar:
+
+
+
+Yüksek güçlü LED sürücüsü
+
+Lityum pil (veya kurşun akümülatör) şarjı
+
+Araca monteli güç kaynağı
+
+Düşük voltajlı sistem güç kaynağı
+
+6V, 12V, 14V, 24V akü şarjı
+
+Yerleşik dizüstü bilgisayar güç kaynağı
+
+Düzenlenmiş güç kaynağı
+
+Alçak gerilim güç kaynağı sistemi
+
+
+
+Paket İçeriği:
+
+
+
+1 x DC-DC Ayarlanabilir Güç Kaynağı Modülü
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

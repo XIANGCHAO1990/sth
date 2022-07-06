@@ -1,0 +1,230 @@
+1651561
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/83/31/16845317-3ac6-4db0-845c-8314f7875410.jpg
+iMars® Enusic™ CJ720 Global Version Relè GPS Localizzatore Real Ora GSM Localizzatore Interruzione antifurto Sistema di alimentazione del carburante Funzione
+https://it.banggood.com/IMars-Enusic-CJ720-Global-Version-Relay-GPS-Tracker-Real-Time-GSM-Locator-Anti-theft-Cut-off-Fuel-Power-System-Function-p-1651561.html?cur_warehouse=USA&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Collegamento Youtube:https://www.youtube.com/watch?v=Bi7mxvcE4wIProblema di scadenza del software: Fornire il IMEI numero al servizio clienti online e lo forniremo al fornitore che estenderebbe il periodo di utilizzo dell'account (100 anni)https://www.banggood.com/Contact-Us_hi111Descrizione:
+
+Posizionamento a doppia modalità GPS e GLONASS russo
+
+◆ Monitoraggio in tempo reale  ◆contro la pseudo stazione base e rilevare
+
+◆ Vibrazione / spostamento / batteria scarica / spegnimento / spegnimento di velocità
+
+◆ Alimentazione principale interrotta l'allarme  ◆ Geo-recinzione
+
+◆ Storia Route ◆ Taglia e riprendi Carburante Pompa a distanza  ◆ Localizzazione AGPS
+
+Funzioni e parametri del prodotto (relè GPS Tracker CJ720 / Off benzina ed elettricità)
+
+
+
+Specifciation:Dimensione terminale31x 31x 57mmLinguaggio di sistemacinese/inglesePeso netto50gBackup Batteria3.7V 100mAhReteGSM / GPRS,Rete Banda850/900/1800 / 1900MhzSupporto4 frequenze GSM 850/900/1800/1900 MHz che possono funzionare in tutto il mondoModulo GPSMTK2503GPS sensibilità159dBmPrecisione della posizione GPS10mPrimo tempo di posizionamentoAvviamento a freddo 45-120 secondiInizio caldo35 secondiInizio caldo1 secondTensione di esercizioIngresso 10-50 V.Funzione di taglio dell'olioLa tensione è 5-15 V, corrente <10ABatteriaBatteria al litio integrata da 3,7 V 110 mAhTemperatura di conservazioneDa -40 ° C a + 85 ° CTemperatura di esercizioDa -20 ° C a + 55 ° CUmidità5% - 95% non solidificato Consumo di energiaIl consumo energetico è di circa 40 mA durante il lavoro e 1 mA durante la sospensione. La corrente istantanea del carburante e della parte elettrica è fino a 45A.
+
+Nota speciale:
+
+CARBURANTE Pompa ricerca linea
+
+Hai bisogno di professionisti.
+
+O un'officina riparazioni meccanico per trovare.
+
+Alimentazione elettrica, Carburante Pompa tagliare la linea di controllo
+
+(1) L'alimentazione standard di questa apparecchiatura è 10 V-50 V CC, il filo rosso è il polo positivo dell'alimentazione,
+		e il giallo (nero) è il polo negativo dell'alimentatore;
+		quando si installa il polo negativo dell'alimentatore, selezionare la messa a terra o la messa a terra separatamente,
+		e non condividere con altre linee di terra;
+
+(2) Il Carburante Pompa la linea di controllo del taglio (linea verde / blu) è collegata al Carburante Pompa linea.
+
+Invia comando
+
+
+
+
+Come usare:
+
+1. Aprire il coperchio, inserire una rete di supporto SIM NANO GSM/GPRS nello slot e assicurarsi che il lato del chip sia rivolto verso l'alto
+	(la luce blu lampeggia, la luce verde lampeggia,)
+
+2.Impostare APN: APN123456 CMNET
+	(si prega di utilizzare l'APN locale anziché CMNET, se non si conosce il contenuto dell'APN, è necessario contattare il fornitore della carta SIM)
+
+3. Impostare il numero di amministratore inviando un comando SMS alla scheda SIM all'interno del dispositivo
+
+Ad esempio: admin123456 + 86186 ****** (+ 86186 ***** dovrebbe essere il tuo numero di telefono)
+
+4.Collegare il cavo seguendo l'immagine, (Carburante Pompa tagliare il video del cablaggio di prova: https://www.youtube.com/watch?v=FiUN5nbAVMA)
+
+
+Manualee d'uso:
+http://myosuploads3.banggood.com/products/20190814/20190814025004SKUD05342.doc
+
+Precauzioni d'uso:1. Aprire la custodia del dispositivo. (Alcuni paesi devono utilizzare il dispositivo GPS per pubblicare un numero IMEI di 15 cifre per registrare il servizio GSM. La Turchia deve inviare il numero IMEI al momento dell'invio dell'ordine, lo modificheremo per te)2. Inserire la scheda SIM (la scheda SIM deve essere compatibile con la banda di rete 2G: 850/900/1800/1900 Mhz, e aprire la funzione SMS, tariffa del traffico Internet.)3. Collegamento alimentazione 12V: (segnale GPS: luce blu lampeggia, segnale GSM: luce verde lampeggia)4. Imposta il codice APN: Imposta APN: APN123456 CMNET (usa il tuo APN locale invece di CMNET, se non conosci il contenuto APN, dovresti contattare il fornitore della tua scheda SIM) L'impostazione nel video sei tu per il paese cileno.5. Comando SMS di richiesta parametri dispositivo GPS: (s42, 1234). Verificare l'indirizzo IP e le impostazioni APN del dispositivo GPS.6. GPS comando interrogazione stato dispositivo: stato Vista principale: segnale GPRS, segnale GSM, segnale GPS, collegamento alimentazione principale.7. Indirizzo IP della piattaforma: adminip123456 113.98.254.179:77008. Accedere al sito Web o all'APP per verificare online lo stato del dispositivo GPS.http://www.gpscj.netAPP: YunTrackConto esperienza: TEST00Password: 123456
+
+Il pacchetto include:1 X Relè GPS Tracker1 X Manuale
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

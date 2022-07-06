@@ -1,0 +1,404 @@
+https://de.banggood.com/Hiseeu-4K-8MP-POE-NVR-8CH-Audio-ONVIF-H_265-Surveillance-Security-Video-Recorder-for-POE-IP-1080P-4MP-5MP-8MP-Camera-p-1622595.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Hiseeu 4K 8MP POE NVR 8CH Audio ONVIF H.265 Überwachungssicherheitsvideorecorder für POE IP 1080P 4MP 5MP 8MP Kamera
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Merkmale :
+
+
+Unterstützt bis zu 8 x 8 MP/4K IP-Kameras, 8-Kanal Leistung Over Ethernet
+	Onvif-Unterstützung.
+	Kompatibel mit Dahua/Hikvision/Hiseeu POE-IP-Kameras, die mit onvif kompatibel sind.
+
+	Vereinfachen Sie die POE-Installation.
+	Leistung-over-Ethernet bedeutet, dass die IP-Kameras mit einem einzigen Kabel, das sowohl Daten als auch Strom überträgt, mit dem NVR verbunden sind, kein Stromkabel angeschlossen werden muss, das Risiko von Stromlecks geringer ist und die Einrichtung einfach ist. Dies vereinfachte die Installation buchstäblich und reduzierte die Kosten.
+	Sparen Sie mehr Speicherplatz und erhalten Sie einen reibungsloseren Stream von H.265.
+	Mit der fortschrittlichen H.265-Komprimierungstechnologie können Sie Speicherplatz sparen, was längere Aufnahmezeiten ermöglicht. Die H.265-Technologie komprimiert Ihr Video ohne Einbußen bei der UltraHD-Videoqualität.
+
+	Unterstützt bis zu 6 TB Festplatten, kontinuierliche Aufzeichnung und Schutz rund um die Uhr (die Festplatte ist nicht im Lieferumfang enthalten).
+	Externe Fernbedienung ist verfügbar.
+	Beim Anschließen des 4K-POE-CCTV-Kamerasystems Hiseeu an das Display kann eine externe Fernbedienung die Maus zur Bedienung ersetzen.
+
+	Sofortige Bewegungswarnungen.
+	Sobald sich bewegende Objekte erkannt werden und Warnungen ausgelöst werden, wenn Gefahren auftreten, informiert Sie das Hiseeu 4K-PoE-Überwachungssystem sofort, indem es Nachrichten sendet oder E-Mails sendet.
+	Wiedergabe und Live-Ansicht in bis zu 8 MP/4K-Auflösung bei 15 fps in Echtzeit.
+	Fernanzeige überall und jederzeit per Smartphone, Pad/PC.
+
+	Egal wo Sie sind, Sie können remote auf das 4K POE CCTV-System Hiseeu zugreifen, um Live-Streaming zu sehen und in Verbindung zu bleiben.
+	Ultra HD 4K-Auflösung
+	8CH 4K POE-NVR.
+	Unterstützt 720p/1080p/3MP/4MP/5MP/8MP/4K POE IP-Kameras.
+	Mehrere Sprachen sind verfügbar.
+	Der Hiseeu 4K POE NVR wird standardmäßig in Englisch angezeigt, er ermöglicht das Umschalten auf Russisch, Spanisch, Französisch, Portugiesisch usw.
+
+
+Spezifikation :
+
+
+
+
+
+
+Spezifikation
+
+H.265 8CH POE NVR ONVIF
+
+
+
+System
+
+Hauptprozessor
+
+Eingebetteter Mikroprozessor in technischer Qualität
+
+
+
+Betriebssystem
+
+Eingebettetes LINUX-Betriebssystem
+
+
+
+Systemressource
+
+Synchrone Mehrkanal-Echtzeitaufnahme, Mehrkanal-Echtzeitwiedergabe, Mehrkanal-Mehrbenutzer-Netzwerkbetrieb, USB-Backup.
+
+
+
+Schnittstelle
+
+Betriebsschnittstelle
+
+16-Bit-Echtfarben-GUI-Schnittstelle unterstützt Mausbetrieb
+
+
+
+Vorschau
+
+1/4/8
+
+
+
+Video
+
+Videostandard
+
+KUMPEL; NTSC
+
+
+
+Bildkodierung
+
+H.265
+
+
+
+Qualität überwachen
+
+VGA, HDMI: Hochauflösend
+
+
+
+Video Eingang
+
+8 * 4K IP-Kamera
+
+
+
+Bewegungserkennung
+
+Support (je nach Kamera)
+
+
+
+Audio
+
+Audiokomprimierung
+
+G.711A
+
+
+
+Gegensprechanlage
+
+Ja
+
+
+
+Aufnahme & Wiedergabe
+
+Aufnahmemodus
+
+Manuell > Alarm > Bewegungserkennung > Timing
+
+
+
+Lokale Wiedergabe
+
+4K
+
+
+
+Videosuche
+
+Uhrzeit, Datum, Ereignis, Kanalsuche
+
+
+
+Speicherung und Sicherung
+
+Videospeicherung
+
+Lokale Festplatte, Netzwerk
+
+
+
+Sicherungsmodus
+
+Netzwerksicherung, tragbare USB-Festplatte, USB-Anschluss, SATA-Anschluss
+
+
+
+Schnittstelle
+
+Videoeingang (BNC)
+
+N / A
+
+
+
+Video-Ausgang
+
+1-Kanal-VGA-, 1-Kanal-HDMI-HD-Ausgang
+
+
+
+Schleifenausgang
+
+N / A
+
+
+
+Audio Ausgang
+
+3,5-mm-Audioausgang
+
+
+
+Alarm-E/A
+
+NEIN
+
+
+
+Netzwerkport
+
+1 * RJ45 1000M selbstanpassender Ethernet-Port; 8 * POE-Ports unterstützen Poe-Stromversorgung
+
+
+
+PC/Laptop-Fernbedienung
+
+Support-Web, PC-Client "VMS"; iPhone/Andriod/Pad kostenlose APP „Danale“
+
+
+
+USB-Anschluss
+
+3 * USB2.0-Anschluss, zwei sind für die Maus, der andere für USB-Festplatten
+
+
+
+HDD-Anschluss
+
+1 SATA-Port, max. Unterstützung 6 TB (HDD ist Option)
+
+
+
+Sonstiges
+
+Leistung
+
+48V/3A
+
+
+
+ONVIF
+
+Unterstützen Sie ONVIF, greifen Sie auf Drittanbieter zu
+
+
+
+Temperatur
+
+-25 °C bis 50 °C (-13 ° bis 122 °)
+
+
+
+Feuchtigkeit
+
+10%-90%
+
+
+
+Abmessungen
+
+L*B*H: 252 mm * 230 mm * 40 mm
+
+
+
+
+
+
+Lieferumfang:
+
+
+1 x 8-Kanal-4K-POE-NVR
+		1 x Fernbedienung
+		1 x USB-Maus
+		1 x Benutzerhandbuch
+		1 x 48V/3A Netzteil (EU-Stecker)
+
+***HDD ist nicht enthalten***
+
+
+Detailbilder:
+
+
+
+
+

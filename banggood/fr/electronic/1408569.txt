@@ -1,0 +1,205 @@
+https://fr.banggood.com/1_8-Inch-128X160-ILI9163ST7735-TFT-LCD-Module-With-PCB-Baseboard-SPI-Serial-Port-p-1408569.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+1,8 module 128X160 ILI9163 / ST7735 TFT LCD avec le port série SPI de la carte de base PCB 
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:
+
+
+
+- Module avec régulateur IC prenant en charge l'alimentation 3.2V / 5V
+
+- Avec le support de carte SD, vous pouvez faire des expériences comme le cadre photo numérique
+
+- Le module réserve l'interface Nokia3310 / 5110, prend en charge l'interface 1602 et se branche et se branche!
+
+- IO pour un câblage simplifié
+
+- LCD résolution: 128X160, pilote IC: ILI9163 / ST7735
+
+
+
+Câblage:
+
+
+
+E / S pour câblage simplifié: (seulement 3 E / S après optimisation)
+
+1.RST-- directement connecté au terminal de signal de réinitialisation du microcontrôleur, cet E / S peut économiser
+
+2.D / C - connecté au bas niveau, la puce sélectionne efficace à long terme, cet IO peut sauver
+
+3.D / C - connecté à la sélection du registre de contrôle IO
+
+4.DIN - connecté à la transmission de données de contrôle IO
+
+5.CLK - connecté au bus SPI de contrôle IO
+
+6.BL - Connecté au niveau élevé, le rétroéclairage 3.3V est toujours brillant, alors cet IO peut économiser
+
+
+
+IO pour câblage standard: (6 IO)
+
+1.RST - connecté au contrôle IO LCD reset
+
+2.CE - connecté à la sélection de puces de contrôle IO
+
+3.D / C - connecté à la sélection du registre de contrôle IO
+
+4.DIN - connecté à la transmission de données de contrôle IO
+
+5.CLK - connecté au bus SPI de contrôle IO
+
+6.BL - active ou désactive le rétroéclairage du contrôle IO ou la luminosité du contrôle PWM
+
+
+
+Emballage inclus:
+
+
+Module 1 x 1,8 pouces LCD
+
+
+
+
+
+
+
+
+
+

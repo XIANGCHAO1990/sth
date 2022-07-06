@@ -1,0 +1,405 @@
+1527332
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/F9/70/e7c976fb-7fb0-4d12-a7dd-4f7c4f18a849.jpg
+10 pz M18 Bluetooth 4.2 Audio ricevitore Modulo Lossless Car Speaker Amplificatore per cuffie Scheda Refit Wireless
+https://it.banggood.com/10pcs-M18-Bluetooth-4_2-Audio-Receiver-Module-Lossless-Car-Speaker-Headphone-Amplifier-Board-Wireless-Refit-p-1527332.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manuale dell'utente: clicca qui per aprire
+
+	Per le diverse esigenze dei clienti, offriamo 3 versioni tra cui scegliere:
+
+
+
+
+
+
+
+
+
+Funzione / Modello
+
+M18 (questo articolo)
+
+M28 (ID prodotto: 1486747)
+
+M38 (ID prodotto: 1486746)
+
+
+
+Micro alimentatore
+
+×
+
+√
+
+√
+
+
+
+Jack per cuffie audio
+
+×
+
+√
+
+×
+
+
+
+Amplificatore incorporato
+
+×
+
+×
+
+√ (5W + 5W)
+
+
+
+Batteria al litio
+
+√
+
+√
+
+√
+
+
+
+Supporta scheda audio USB, disco libero
+
+×
+
+×
+
+√
+
+
+
+Memoria del volume / regolazione
+
+√
+
+×
+
+×
+
+
+
+Interfaccia mute MUTE
+
+√
+
+×
+
+×
+
+
+
+Estensione del pulsante
+
+√
+
+×
+
+×
+
+
+
+Versione Bluetooth
+
+bluetooch V4.2
+
+
+
+Supporta il protocollo Bluetooth
+
+HFPV1.7, A2DPV1.2, AVRCPV1.5, AVCTPV1.2, AVDTPV1.2
+
+
+
+Supporto formato
+
+Supporta la decodifica lossless WAV / WMA / FLAC / APE / MP3, uscita stereo a due canali
+
+
+
+Tensione di esercizio
+
+5V/3.7V-4.2V
+
+
+
+Stato trasmissione non connesso
+
+5.5MA
+
+
+
+Stato di lavoro della connessione
+
+20MA
+
+
+
+Sonno profondo
+
+3UA
+
+
+
+Distanza di trasmissione
+
+20 metri (ambiente vuoto o basso disturbo)
+
+
+
+Temperatura di esercizio
+
+ Da -40 ° C a + 85 ° C
+
+
+
+sensibilità
+
+ -87dBm
+
+
+
+
+Introduzione:
+
+
+
+Questo prodotto MH-M18 è una soluzione di design a bassa potenza Bluetooth, che supporta l'ultima trasmissione del Bluetooth 4.2, riproduzione stereo senza perdita a due canali, connessione Bluetooth dopo che il modulo è stato collegato a Bluetooth, molto comodo. In un ambiente aperto, la distanza di connessione del Bluetooth può essere fino a 20 metri.
+
+Ampiamente utilizzato in una varietà di ricezione audio Bluetooth, una varietà di modifiche audio fai-da-te.
+
+
+
+
+
+perno
+
+Funzione
+
+Descrizione
+
+
+
+1
+
+CHIAVE
+
+Terminale di controllo pulsanti (funzioni a 4 pulsanti, resistenze aggiuntive come lo schema elettrico)
+
+
+
+2
+
+MUTE
+
+Terminale di controllo muto (uscita ad alto livello 3,3 V durante l'esclusione, uscita di basso livello durante la riproduzione)
+
+
+
+3
+
+VCC
+
+Alimentazione positiva 5V (l'alimentazione da batteria al litio da 3,7 V richiede diodo di cortocircuito)
+
+
+
+4
+
+GND
+
+Potenza negativa / segnale audio macinato
+
+
+
+5
+
+L
+
+Uscita canale sinistro
+
+
+
+6
+
+R
+
+Uscita del canale destro
+
+
+
+
+
+
+Descrizione della funzione:
+
+
+
+Versione Bluetooth V4.2, supporta la tecnologia di connessione automatica Bluetooth, supporta la decodifica WAV / WMA / FLAC / APE / MP3, uscita stereo a doppio canale.
+
+Dopo aver acceso il modulo, il telefono cellulare cerca il nome Bluetooth MH-M18 / MH-M28 / MH-M38 e può riprodurre musica dopo aver collegato Bluetooth.
+
+
+
+La confezione include:
+
+	Modulo 10 x M18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

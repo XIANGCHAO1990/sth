@@ -1,0 +1,185 @@
+https://www.banggood.com/ELM327-USB-Modified-OBD2-Car-Diagnostic-Scanner-For-Ford-MS-CAN-HS-CAN-Mazda-Forscan-p-1336979.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+ELM327 USB Modified OBD2 Car Diagnostic Scanner For Ford MS-CAN HS-CAN Mazda Forscan
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+1. Coding.
+2. Live Data.
+3. Adaptations.
+4. Actuator tests.
+5. Programming.
+6. Injector coding.
+7. Software updates.
+8. Service procedures.
+9. Force DPF regeneration.
+10. Read vehicle configuration.
+11. Access modules on both HS-CAN and MS-CAN mode.
+12. Read/Erase fault codes from ALL modules, including OBD2/EOBD.
+
+Feature:
+Color: Black
+Size: 8.8x2.5x4.6cm
+
+Supported Modules:
+GEM IPC DDM PDM RDDM RPDM AHCM PAM ACU SRM KVM IPMA SODL SODR
+BCM TCM PCM ABS HEC EHPAS CCM P HCM RCM SASM FACM
+ACM SRM SDDJ
+
+Supported Windows OS:
+Win7, XP, Vista and Windows 2000 (both 32 & 64 Bit OS)
+Supported the following protocols:
+  ISO15765-4 (CAN)
+  ISO14230-4
+  ISO9141-2
+  J1850 VPW (GM vehicles)
+
+Supported Software:
+ELMconfig
+FoCCCus
+Forscan
+Most type of OBD2/EOBD softwares
+ 
+CD File Link:
+http://myosuploads3.banggood.com/products/20200106/20200106234232AppleMACInstallGudie.pdf
+
+Package Included:
+1 X USB Modified ELM327 Scanner Tool
+
+
+
+
+

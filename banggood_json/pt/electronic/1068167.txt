@@ -1,0 +1,176 @@
+1068167
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/3D/C3/15b33a69-e38a-4834-8bfb-2af915689146.jpg
+0,95 polegadas 7pin Full Color 65K cor SSD1331 SPI OLED Display
+https://pt.banggood.com/0_95-Inch-7pin-Full-Color-65K-Color-SSD1331-SPI-OLED-Display-p-1068167.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File download: Click to open
+
+Característica:
+
+Tamanho: 0,95 polegadas
+Resolução: 96 * 64
+Drive IC: SSD1331
+Cor: cor 65536
+Interface: interface SPI
+Nº PIN: 7Pin
+Tensão: 3.3V - 5V
+
+Pin descrição:
+
+GND: terra de energia
+VCC: fonte de alimentação 2.8-5.5V
+D0: relógio CLK
+D1: dados MOSI
+RST: Redefinir
+DC: Dados / comando
+CS: sinal de seleção de chip
+
+O pacote inclui:
+
+1 x 0,95 polegadas 7 pinos OLED
+
+
+
+
+
+
+
+
+,,
+
+

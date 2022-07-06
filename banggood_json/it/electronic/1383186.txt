@@ -1,0 +1,220 @@
+1383186
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/02/6C/11cf490a-4f96-4ec1-8ccc-01927e76f046.jpg
+XH-W1209 Interruttore di controllo della temperatura del termostato DC 12V Termometro Controller con display digitale LED
+https://it.banggood.com/XH-W1209-DC-12V-Thermostat-Temperature-Control-Switch-Thermometer-Controller-With-Digital-LED-Displa-p-1383186.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristiche:
+
+
+
+1.100% di chip macchina completo, saldatura ad onda, prestazioni stabili, buona consistenza
+
+2. Chip del processore centrale integrato (MCU), più intelligente, minor consumo energetico
+
+3. Memoria delle impostazioni di spegnimento automatico (unità di memorizzazione EEPROM integrata nell'MCU)
+
+4. La precisione del controllo di 0,1 gradi Celsius
+
+5. Isteresi 0,1 dal set, è possibile controllare il decimale (0,1-15.0)
+
+
+
+Parametri tecnici:
+
+
+
+Intervallo di controllo della temperatura: -50 ~ 110 °
+
+Risoluzione: -9,9 ~ 99,9 quando l'altra temperatura di 0,1 ° 1 °
+
+Precisione di misurazione della temperatura: 0,1 °
+
+Precisione di controllo: 0,1 °
+
+Precisione dell'isteresi: 0,1 °
+
+Frequenza di aggiornamento: 0,5 S
+
+Potenza in ingresso: DC 5V, DC 12V, DC 24V
+
+Ingresso di misura: sensore impermeabile NTC (10K 0,5%)
+
+Uscita: 1 uscita relè, capacità = 20A 125VAC, 20A 14VDC
+
+Requisiti ambientali: -10 ~ 60° Umidità 20% -85%
+
+Specifiche Dimensioni: 48,5 * 40 mm
+
+Consumo energetico totale: Corrente di riposo: 10MA Corrente pull-in: ≤ 65MA
+
+
+
+Utilizzo:
+
+
+
+- Premere il tasto + per impostare la temperatura desiderata (premere e tenere premuto + - per spostarsi su e giù velocemente) Impostare la temperatura del display. 
+
+- Premere SET per confermare il completamento del ritorno, quindi il controller automaticamente disattivando il relè! L'uscita del termostato per il relè 20A per soddisfare una varietà di carichi ad alta potenza, collegare il circuito di controllo, è possibile fornire alimentazione al termostato, questo display mostra la temperatura ambiente
+
+- Indicatore: lampeggiante indica il ritardo di avvio del raffreddamento o del riscaldamento. Se l'indicatore è acceso, indica che il relè è chiuso
+
+- Controllo digitale: il display LL sensore è aperto, seguire le istruzioni per collegare il sensore; il display HH è fuori dal campo di misura costringerà il relè a disconnettere il termostato; visualizzare l'allarme di alta temperatura.
+
+
+
+Il pacchetto include:
+
+
+
+1 x regolatore di temperatura XH-W1209
+
+
+
+
+
+
+
+
+
+
+
+
+
+

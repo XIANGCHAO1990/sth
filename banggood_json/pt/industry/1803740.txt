@@ -1,0 +1,145 @@
+1803740
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/8A/6E/d79ef493-534d-4417-bd7b-ed88bec4be29.jpg
+Fan'ensheng atualizado 3018 Pro CNC gravador DIY 3 eixos GRBL máquina de gravura para madeira roteador cortador
+https://pt.banggood.com/Fanensheng-Upgraded-3018-Pro-CNC-Engraver-DIY-3Axis-GRBL-Woodworking-Engraving-Machine-Wood-Router-Cutter-p-1803740.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Característica:1. Projetado para CNC: Uma ótima ferramenta para CNC de entrada. Capaz de esculpir texto em materiais diários facilmente. Ótima para quem tem interesse em CNC, ajudando a gravar o modelo de forma eficiente.2. Controle GRBL: Sistema de controle mais recente diferente de outro sistema de controle antigo que não foi mais atualizado. Não há necessidade de acessórios extras. Basta transformar seu computador em uma máquina CNC.3. Compatível com diferentes módulos de laser de 2500mW, 5500mW, 7000mW, 10000mW (lasers não incluídos), Mais do que uma máquina de gravação, mas também gravador do laser.(Agora recomendamos o módulo de laser (Módulo 2500mW Azul Laser) produzido pelo fabricante original: ID: 1386316）4. Aplicação ampla: Com manuais e softwares adequados para esculpir madeira, plástico, acrílico, PCB CCL, metal macio como cobre e alumínio e outros materiais, uma ótima ferramenta para o amante do CNC.5. SO suportado: Windows XP, Windows 7 32/64 bits, Windows 8, Windows 106. Brocas: Ponta 0,2 mm, 20 graus, Diâmetro 3,175 mmCaracterística:1. Suporta firmware GRBL e benbox. Suporte a máquina CNC 3 eixos gravação a laser.2. O comprimento do traçado não está limitado a 30x18 e 24x18, pode estar definindo outro comprimento. Por favor, defina o traço no comando.Por exemplo3018, defina o traço no comando, 30cm de comprimento e 18cm de largura;2418, defina o traço XY no comando, comprimento 24 cm, largura 18 cm.Especificação da máquina:Estilo3018 PRO MDimensões do produto10,9 x 16,7 x 10,9 cmÁrea de Gravação Eficaz300 x 180 x 45 mm (11,8 x 7,1 x 1,8")Peso do Item6 kgMaterialMetalMotor de passo1,3 A, 12 V, torque de 0.25 Nm (2,2 pol-lb)Potência nominal60WForça maxima120WSoftwearSistemas de controle GRBL/sistemas de controle LasergrblEspecificação do controlador:Cabo USB Comprimento20cmFirmware    GRBL 08, 09, 1.1 e assim por diante Tensão de entradaDC 7V- 36VRoteador CNC aplicável  Router CNC 1610 de 3 eixos; 2418; 3018                     Instrução:Placa de controle GRBL de 3 eixosSinal de saída:1: Ventilador: Usado para resfriamento do motor do eixo2: Eixo: Conecte o eixo do motor, mantenha o mesmo com a tensão da fonte de alimentação, eletricidade 5A, se a potência do motor do eixo for alta, pode conectar relés externos, como o interruptor. Código G M3 aberto, M5 fechado, com a versão 0.9 do firmware pode ajustar o PWM, atingir a velocidade do eixo governante e laser ajustável3: saída de sinal do motor do eixo X, A4988 max 1.5A corrente elétrica4: saída de sinal do motor do eixo Y, A4988 max 1.5A corrente elétrica5: saída de sinal do motor do eixo Z, A4988 corrente elétrica máxima de 1,5ASinal de entrada:1: Limite mínimo do eixo X X-2: Limite mínimo do eixo Y Y-3: Limite mínimo do eixo Z Z-4: Botão de reinicialização: pressione o botão, o sistema será reiniciado, pode ser usado para parada urgente da máquinaPacotes Incluídos:1 x conjunto completo de máquina de gravura de madeira (entrega desmontada)1 x placa de controle de 3 eixos GRBL1 x cabo USB1 x Cabo para Conexão do Fuso(Motor do fuso, placa de controle, conjunto de eixo ZA, motores de passo e outras peças de montagem estão todos incluídos.)Instruções e Software: Instruções de montagem, software de controle e mais informações, por favor CLIQUE AQUI 
+
+
+
+

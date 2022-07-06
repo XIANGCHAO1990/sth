@@ -1,0 +1,145 @@
+1684992
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/87/BB/4ba49921-8b9c-444f-a914-2dcfaeab7f89.JPG
+Module WIFI de carte de développement de brûleur de carte de test ESP8266 pour ESP-01 ESP-01S ESP-12E ESP-12F ESP-12S ESP-18T
+https://fr.banggood.com/ESP8266-Test-Board-Burner-Development-Board-WIFI-Module-For-ESP-01-ESP-01S-ESP-12E-ESP-12F-ESP-12S-ESP-18T-p-1684992.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+nulFonctionnalité:1. Téléchargez et installez le pilote de puce de port série CH340 correspondant en fonction du système d'exploitation.2. Téléchargez l'outil de téléchargement FLASH officiel ESP FLASH DOWNLOAD TOOL3. Téléchargement automatique du firmware: appuyez sur le module, branchez le câble USB pour alimenter, coopérez avec l'outil de téléchargement FLASH, configurez les paramètres de gravure correspondants, cliquez sur START pour télécharger, la gravure du firmware démarrera, le téléchargeur se réinitialisera automatiquement et mettra le module en mode gravure.Le forfait comprend:1 x carte de test
+
+
+
+

@@ -1,0 +1,267 @@
+1537029
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/0D/D1/909bd2ac-a1c4-4ff7-91fd-912638b765bb.JPG
+ICL7107 Voltmeter DIY Electronic Production Kit DC5V 35mA Voltage Meter Digital Voltmeter
+https://www.banggood.com/ICL7107-Voltmeter-DIY-Electronic-Production-Kit-DC5V-35mA-Voltage-Meter-Digital-Voltmeter-p-1537029.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+
+	Kit Name: ICL7107 Voltmeter DIY Kit
+
+PCB size: 70.6*39mm
+
+Head mounting opening size: 77*40mm
+
+Display window size: 51*24mm
+
+Soldering manual: Click here.
+
+Electrical parameters:
+	 
+
+Working voltage: DC5V
+
+Working current: 35mA
+
+Measurement accuracy: It can be calibrated to get higher precision and no parameters at present.
+
+Measuring range: divided into 3 files, 0-2V file Measuring small voltage
+
+                                                            0-20V file measuring low voltage
+
+                                                            0-200V, measuring higher voltage.
+
+Range selection method: solder joints with gear selection on the board,
+
+When the two points of the 0-2V file are soldered together, and the resistance of the RX soldering resistor is 1K, the measurement range is 0-2V;
+
+When soldering 2 points of 0-20V file together, the RX soldering resistance is 100K, the measuring range is 0-20V;
+
+When soldering 2 points of 0-200V file together, the RX soldering resistance is 1M, the measurement range is 0-200V;
+
+Overrange display: first position shows 1 or -1
+
+In the kit, the RX is available in 100K and 1M, and the buyer selects the soldering according to his measurement range. This voltmeter can also be changed into an ammeter. The method of changing the current meter: the PCB reserve a 2W 0.1 ohm high-precision resistance soldering position on the board, solder this resistance, and then RX does not need to be soldered. This is a 0-2A ammeter.
+
+Display color: red
+
+Tools needed to make the production: multimeters, electric irons, and water pliers are needed.
+
+
+Package included:
+
+
+1 x PCB board
+
+3 x 1N4148
+
+1 x 5.1V Zener Diode
+
+1 x 100 ohm resistor
+
+1 x 270 ohm resistor
+
+2 x 2K resistor
+
+1 x 20K resistor
+
+1 x 47K resistor
+
+1 x 56K resistor
+
+2 x 100K resistor
+
+1 x 1M resistor
+
+1 x 2.2MH inductor
+
+2 x 104 monolithic capacitor
+
+2 x 101 monolithic capacitor
+
+1 x 224 monolithic capacitor
+
+1 x 474 monolithic capacitor
+
+2 x 10UF25V electrolytic capacitor
+
+1 x C1815
+
+1 x TL431
+
+2 x 3296-202 potentiometer
+
+1 x XH2.54-2P straight seat
+
+1 x XH2.54-2P line
+
+1 x KF301-2 seat
+
+1 x 40P chip holder
+
+1 x LT7107 chip
+
+4 x 0.56 one common digital tube
+
+1 x case
+
+4 x M2*6 self-tapping screws
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

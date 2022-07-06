@@ -1,0 +1,249 @@
+1307801
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/CB/72/7284fbfc-18c1-4b04-af4e-8d4e75df192f.jpg
+MPPT 5A Controlador Regulador de Painel Solar Bateria Carregamento 9V 12V 24V Interruptor Automático
+https://pt.banggood.com/MPPT-5A-Solar-Panel-Regulator-Controller-Battery-Charging-9V-12V-24V-Automatic-Switch-p-1307801.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manual: Clique aqui para abrir<<<
+
+	Recursos:
+
+
+
+1W-100W 9V-28V é adequado 9V 12V 18V 24V painéis solares para as baterias, níquel-cádmio, baterias de lítio (bateria) carregamento, turbinas eólicas lâmpadas de rua solares.
+
+Os terminais de entrada e saída são feitos de fonte de alimentação de comutação de alta qualidade para capacitores eletrolíticos de baixa impedância de alta frequência (LOW ESR), garantem que a ondulação de saída. Pode efetivamente filtrar as falhas da fonte de alimentação de comutação.
+
+
+
+Parâmetros:
+
+
+
+A natureza modular: um verdadeiro rastreamento MPPT de energia solar máxima, gerenciamento de carga inteligente e automático, baixo consumo de energia
+
+Tensão de entrada: DC 8-28V tensão DC de entrada. (proibição de entrada AC)
+
+Tensão de saída: transmissão contínua de 5-26V DC.
+
+A bateria de 6V pode ser carregada com bateria de lítio de 12 ou 8.4V/12.6V/16.8V,7.2V/10.8V/14.4V bateria de fosfato de ferro de lítio,Baterias de lítio de 2-4 cordas, placa de gerenciamento de carga de fosfato de ferro de lítio.
+
+Corrente de saída: 2A/5A corrente de carga máxima em dois: A versão 5A B versão de A 2A 5A versão de envio padrão
+
+Indicador de carga: sim. Carregamento rápido luz vermelha longa e brilhante luzes vermelhas e azuis piscam alternadamente carregadas. Parada automática completa.
+
+Função MPPT: um rastreamento automático de ponto de potência máxima MPPT, para maximizar o uso total do carregamento solar
+
+Baixa pressão: 1V (como é o regulador de tensão abaixador, a tensão de entrada é pelo menos maior que a saída 1V)
+
+Baixo consumo de energia: sim! Pressão ultrabaixa projetada para alcançar baixo consumo de energia e alta eficiência, adaptação profissional de painéis solares
+
+Temperatura de operação: grau industrial (-40 a +85 graus)
+
+Regulagem de carga: ± 1%
+
+Regulação de tensão: ± 0,5%
+
+Eficiência de conversão: Max 93% pico 95% para diferentes condições de iluminação variam.
+
+Carregamento: modo de carregamento automático inteligente de três estágios. A corrente de carga de energia solar de auto-rastreamento ajusta automaticamente o tamanho
+
+Corrente sem carga: 3MA, mesmo a luz solar fraca da manhã, pode iniciar facilmente automaticamente, eliminando a troca manual.
+
+Proteção de polaridade reversa de entrada: sim. Proteção de polaridade reversa do transistor MOS de proteção ultrabaixa projetada exclusivamente, a entrada reversa não está funcionando.
+
+Proteção contra refluxo de saída: sim. Evite efetivamente a folha de carga elétrica da bateria de refluxo noturno!
+
+Conexão: há terminais
+
+
+
+Método de depuração:
+
+
+
+Etapa 1: conecte a célula solar, não leve a garrafa para ser carregada, se a tensão de saída na etapa 2. Se não houver transferência de pequena saída no sentido anti-horário lentamente até a tensão de saída MPPT.
+
+Etapa 2: transferência no sentido anti-horário da pequena tensão de saída até que as luzes vermelha e azul pisquem e, em seguida, a tensão de saída grosseira para uma tensão de corte total
+
+Etapa 3: acessar a bateria descarregada e no amperímetro de string de saída para monitorar a corrente de carga, potenciômetro de corte MPPT até o máximo da corrente de carga.
+
+Passo 4: o acesso está apenas cheio de baterias, se a luz azul estiver no sentido horário aumente a tensão de saída até a luz vermelha. Em seguida, transfira uma pequena tensão de saída lentamente no sentido anti-horário até que apenas a luz azul acenda e, em seguida, use um multímetro para medir para determinar se a tensão de corte está correta para evitar sobrecarga!
+
+
+
+Métodos de transferência em vez de usar a fonte de alimentação da energia solar:
+
+
+
+Etapa 1: a fonte de alimentação foi ajustada à tensão solar MPPT (como 18V)
+
+Passo 2: a fonte de alimentação conectada ao terminal de entrada, não leve a bateria para ser carregada, se a tensão de saída for ajustada no sentido horário até que não haja saída de tensão MPPT grande. Em seguida, lentamente no sentido anti-horário até que a transferência do pequeno MPPT tenha apenas a tensão de saída.
+
+Etapa 3: no sentido anti-horário, diminua a tensão de saída até que as luzes vermelha e azul pisquem e, em seguida, a tensão de saída grosseira para uma tensão de corte total
+
+Passo 4: o acesso está apenas cheio de baterias, se a luz azul estiver no sentido horário aumente a tensão de saída até a luz vermelha. Em seguida, transfira uma pequena tensão de saída lentamente no sentido anti-horário até que apenas a luz azul acenda e, em seguida, use um multímetro para medir para determinar se a tensão de corte está correta para evitar sobrecarga!
+
+
+
+Observação:
+
+
+
+A primeira carga regula antecipadamente a tensão de saída e monitore de perto a tensão da bateria para evitar sobrecarga! Não use baterias de lítio desprotegidas!
+
+
+
+Incluído no Pacote:
+
+
+
+1 X MPPTscontrolador regulador do painel olar
+
+
+
+
+
+
+
+
+
+
+
+
+

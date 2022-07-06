@@ -1,0 +1,221 @@
+1727473
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/92/A9/52fa1a88-9ce3-4031-bad1-31a75590cf79.jpg
+LILYGO® TTGO Meshtastic T-Beam V1.1 ESP32 868Mhz WiFi Bluetooth ESP32 GPS NEO-6M SMA 18650 Batterie Support avec OLED
+https://fr.banggood.com/LILYGO-TTGO-Meshtastic-T-Beam-V1_1-ESP32-868Mhz-WiFi-Bluetooth-ESP32-GPS-NEO-6M-SMA-18650-Battery-Holder-With-OLED-p-1727473.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Plus d'informations:https://github.com/geeksville/Meshtastic-Android/blob/master/README.md https://github.com/meshtastic/Meshtastic-device/releases https://github.com/Xinyuan-LilyGO/LilyGO-T-Beam Fonctionnalité:
+
+
+
+Tension de travail
+1,8 à 3,7 V
+
+
+Courant acceptable
+10 ~ 14mA
+
+
+Transmettre le courant
+120 mA à + 20 dBm
+
+
+90mA à + 17dBm
+
+
+29 mA à + 13 dBm
+
+
+Fréquence de fonctionnement
+868MHz
+
+
+Puissance de transmission
+ + 20 dBm
+
+
+Recevoir de la sensibilité
+ -139dBm @ LoRa et 62.5Khz et SF = 12 et 146bps
+
+
+ -136dBm @ LoRa et 125Khz et SF = 12 et 293bps
+
+
+ -118dBm à LoRa et 125Khz et SF = 6 et 9380bps
+
+
+ -123dBm@FSK&5Khz&1.2Kbps
+
+
+Erreur de fréquence
+ +/- 15 KHz
+
+
+Espace FIFO
+64Byte
+
+
+Débit de données
+1,2K~300Kbps@FSK
+
+
+0.018K~37.5Kbps@LoRa
+
+
+Mode de modulation
+FSK, GFSK, MSK, GMSK, LoRa TM, OOK
+
+
+Forme d'interface
+SPI
+
+
+Courant de sommeil
+0.2uA@SLEEP
+
+
+1.5uA@IDLE
+
+
+Température de fonctionnement
+ -40 ℃ ~ + 85 ℃
+
+Fonction RSSI numériqueCorrection automatique de la fréquenceContrôle automatique du gain Détection basse tension Réveil rapide et saut de fréquenceGestionnaire de paquets de données hautement configurable GPSModules GPS NEO-6M, alimentation 3V-5V UniverselModule destiné avec antenne céramique, signal superEnregistrer les données de paramètres de configuration EEPROM DownAvec batterie de sauvegarde de donnéesIl y a LED indicateur de signalDébit en bauds par défaut: 9600 PuissanceEntrée d'alimentation USB 5V / 1ACourant de charge 500mAEntrée de batterie 3,7-4,2 VCharge IC AXP192Description OLED:1. Taille: 0,96 pouce2. Haute résolution: 128 * 643. Couleur: blanc4. Angle de vision:> 160 °5. Driver IC: SSD13066. Température de travail: -30 celcius ~ 80 celcius7. Volume du module (généreux): 27,0 mm x 27,0 mm x 4,1 mm8. Prend en charge de nombreuses puces de contrôle: entièrement compatible avec Arduino, série 51, série MSP430, puce STM32 / 2, etc. (beaucoup de routines pour référence)9. Prise en charge large de la tension: sans aucune modification, prend directement en charge 3,3 V ~ 5V DC10. Consommation d'énergie ultra-faible: le fonctionnement normal est de 0,04 W11. Le port IO occupe un affichage minimal: la communication IIC, tant que les deux ports IOLe forfait comprend:1 X TTGO poutre en T Antenne 1 X 868 MHz1 X 0,96 pouces 128X64 OLED2 X Pin
+
+
+
+

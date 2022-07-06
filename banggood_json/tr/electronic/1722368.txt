@@ -1,0 +1,299 @@
+1722368
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/D4/3F/497f0e7d-0a9a-4eb4-a4ca-0d5fe92278ee.jpg
+LILYGO® TTGO T-Internet-POE ESP32-WROOM LAN8720A Chip Ethernet Adaptörü ve Downloader Genişletme Kartı Programlanabilir Donanım
+https://tr.banggood.com/LILYGO-TTGO-T-Internet-POE-ESP32-WROOM-LAN8720A-Chip-Ethernet-Adapter-And-Downloader-Expansion-Board-Programmable-Hardware-p-1722368.html?cur_warehouse=CN&ID=6292769&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daha Fazla Bilgi: https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE Ürün ayrıntısı :1. PoE modu A (veri çifti tarafından desteklenmektedir) ve PoE modu B (yedekleme çifti tarafından desteklenmektedir) ve otomatik MDIX ile uyumludur, düz ve çapraz Ethernet kablolarının kullanımına izin verir. 2. Uygulamanız için 3.3V, V + güç ve 15 ESP32GPIO içeren 20 iğne alanı mevcuttur.  3. Kompakt 75mm x 40mm kaplama alanı, sıradan M2.5 veya 4-40 vidalardan oluşan 4 montaj deliği ile uyumludur. 4. Inter-POE modülünün kullanıcının uygulama ihtiyaçlarını karşılamak üzere kolayca programlanabilmesi için küçük bir programlama / USB seri konsol alt modülü oluşturulmuştur. Özellik:
+
+
+
+Donanım Özellikleri
+
+
+
+yonga seti
+ESPRESSIF-ESP32-WROOM, LAN8720A Ethernet yongası, SI3404 Güç yönetimi yongası
+
+
+FLAŞ
+4MB 
+
+
+SRAM 
+520 kB SRAM
+
+
+Buton
+BOT, istirahat
+
+
+Harici cihaz
+TF Kart Yuvası, C Tipi Arayüz, PA2369NL 1825-S Transformatör, HR861153C Ethernet-POE arayüzü
+
+
+USB'den TTL'ye
+CP2104
+
+
+Modüler arayüz
+ SD kart, UART, SPI, I2C, PWM, I2S, ADC
+
+
+Araç içi saat
+32.768MHz kristal osilatör 
+
+
+Çalışma sıcaklığı aralığı
+ -40℃ ~ +85℃
+
+
+Ağırlık
+26.85g
+
+
+Boy
+70*52.3*17mm
+
+
+Güç Kaynağı Özellikleri
+
+
+
+Güç Kaynağı Girişi
+C Tipi USB 5V
+
+
+HR861153C Ethernet-POE arayüzü 50V
+
+
+çalışma voltajı
+2.7V-3.6V
+
+
+Maksimum çıkış akımı
+1.2A Hakkında
+
+
+şarj akımı
+500mA
+
+
+USB
+C Tipi USB
+
+
+Wifi
+
+
+
+Standart
+FCC/CE-RED/IC/TELEC/KCC/SRRC/NCC(esp32 çip)
+
+
+Protokol
+802.11 b/g/n(802.11n, 150Mbps'ye kadar hız)A-MPDU ve A-MSDU polimerizasyonu, 0.4μS Koruma aralığını destekler
+
+
+Frekans aralığı
+2.4GHz~2.5GHz(2400M~2483.5M)
+
+
+İletim Gücü
+22dBm
+
+
+iletişim mesafesi
+300m
+
+
+Bluetooth
+
+
+
+Protokol
+Bluetooth v4.2BR/EDR ve BLE standardını karşılayın
+
+
+Radyo frekansı
+-97dBm hassasiyetli NZIF alıcısı ile Sınıf-1, Sınıf-2 ve Sınıf-3 emitörlü AFH
+
+
+Ses frekansı
+CVSD&SBC ses frekansı
+
+
+Yazılım özellikleri
+
+
+
+Wifi Modu
+İstasyon/SoftAP/SoftAP+İstasyon/P2P
+
+
+Güvenlik mekanizması
+WPA/WPA2/WPA2-Kurumsal/WPS
+
+
+Şifreleme Tip 
+AES/RSA/ECC/SHA
+
+
+Firmware yükseltmesi
+UART indirme/OTA (Firmware indirmek ve yazmak için ağ/ana bilgisayar aracılığıyla)
+
+
+Yazılım geliştirme
+Kullanıcı ürün yazılımı geliştirme için bulut sunucusu geliştirme/SDK desteği
+
+
+ağ protokolü
+IPv4,IPv6,SSL,TCP/UDP/HTTP/FTP/MQTT
+
+
+Kullanıcı Yapılandırması
+AT + Komut seti, bulut sunucusu, android/iişletim sistemiapp
+
+
+işletim sistemi
+ÜcretsizRTişletim sistemi
+
+Paket şunları içerir:1 x T-Internet-POE 1 x Çift Sıralı Pim 1 x Downloader Genişletme Kartı (isteğe bağlı)Not: USB arabiriminin sadece bir şarj işlevi vardır, ürünün programlanması için indiriciye ihtiyacı vardır. 
+
+
+
+

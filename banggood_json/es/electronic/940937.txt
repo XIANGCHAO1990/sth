@@ -1,0 +1,189 @@
+940937
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/EE/8A/ba4e7e35-d74c-45a8-947d-c9d440e6d3ba.JPG
+Geekcreit® ATmega328P Nano V3 Placa controladora Versión mejorada Placa de desarrollo del módulo
+https://es.banggood.com/Geekcreit-ATmega328P-Nano-V3-Controller-Board-Improved-Version-Module-Development-Board-p-940937.html?cur_warehouse=CN&ID=6300464&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificación:
+
+Microcontrolador ATmega328
+Voltaje de funcionamiento (nivel logístico): 5V
+Voltaje de entrada (recomendado): 7V ~ 12V
+Voltaje de entrada (límites): 6V ~ 20 V
+Pines de E/S digitales: 14 (de los cuales 6 proporcionan salida PWM)
+Pines de entrada analógica: 8
+Corriente CC por pin de E/S: 40 mA
+Flash Memoria: 32 KB (ATmega328) (de los cuales 2 KB utilizados por el gestor de arranque)
+SRAM: 2KB (ATmega328)
+EEPROM: 1KB (ATmega328)
+Velocidad de reloj: 16MHz
+Chip: CH340C / G Entrega aleatoria (CH340B es la versión actualizada de CH340G, CH340B viene con cristal, pero CH340G no)
+
+Nota:
+
+Chip USB mejorado para mayor velocidad y estabilidad con WIN7/WIN8. Esta versión viene con los cabezales de los pines sin soldar y no incluye el cable USB.
+
+Paquete incluido:
+
+1/2/3/5/10 x Sin soldadura Compatible con placa Nano V3.0 (opcional)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Note: Joint product & Provided by Banggood and Newchic.
+
+
+

@@ -1,0 +1,365 @@
+https://de.banggood.com/Creality-3D-Ender-5-Plus-3D-Printer-Kit-350+350+400mm-Large-Print-Size-Dual-Z-Axis-or-Auto-Bed-Leveling-Pre-Installed-p-1582767.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Realität 3D® Ender-5 Plus 3D-Drucker Satz 350*350*400mm Große Druckgröße Duale Z-Achse/automatische Bettnivellierung vorinstalliert
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▶ Warme Tipps: Die SD-Karte und der USB-Datenträger sind nicht mehr enthalten. ▶ Download-Datei: 
+
+1. Ender 5 Plus Firmware Flashen (BLTouch Fix) Vider: Klicke hier2. Ender-5 Plus Tutorial zum automatischen Nivellieren des Drucks3. Was soll ich tun, wenn der Ender-5Plus nicht druckt und der Hals verstopft ist?4. SD-Kartendatei▶ Überblick: Großformat 350x350x400mm | Duale Z-Achse | Automatische Bettnivellierung vorinstalliert▶ Merkmale:
+
+
+
+● Würfelrahmen 3D-Drucker: Sehr solider Würfelrahmen. Kastenbauweise mit Überkopfportal. Der Realität Ender-5 Plus 3D-Drucker ist die größere Version des Realität Ender 5 Series 3d Druckers mit dem gleichen kubisch gestalteten, soliden Würfelrahmen.   Ultragroßes Druckformat: 350X350X400mm. Erfüllen Sie mehr Ihrer Druckanforderungen. Ihre Idee sollte nicht eingeschränkt werden. Erzielen Sie bessere Druckergebnisse und gleichzeitig ein größeres Druckmodell.
+
+
+●Automatische Bettnivellierung vorinstalliert: Mit BL Touch wie konfiguriert. Sie stecken sie einfach ein und beginnen mit dem Drucken! Es kann die Neigung der Bettoberfläche präzise messen, bietet einen automatischen Ausgleich der Z-Achse für Unebenheiten der Plattformplatte, kann den durch die Unebenheit der Plattform verursachten Druckfehler einfach beheben und sorgen für einen zuverlässigen Betrieb mit allen Bauoberflächen.
+
+● Standardfunktion zur Wiederaufnahme des Drucks beim Ausschalten und zur Erkennung von Filamentausfällen, um Druckfehler durch Stromausfall oder Materialschnitt zu vermeiden.
+
+
+
+● Doppelte Z-Achse: Reibungsloser Präzisions-Z-Achsen-Leitspindelantrieb. Die Bewegung der Bauplatte wird stabiler. 
+
+
+
+
+
+
+
+
+
+
+
+
+Spezifikationen
+
+
+
+Marke
+
+Realität
+
+
+
+Modell
+
+Ender-5 Plus
+
+
+
+Druckverfahren
+
+FDM
+
+
+
+Druckgenauigkeit
+
+±0,1 mm
+
+
+
+Schichtdicke
+
+0.1-0.4mm
+
+
+
+Düsendurchmesser
+
+0.4mm
+
+
+
+Positioniergenauigkeit der XY-Achse
+
+0.012mm
+
+
+
+Positioniergenauigkeit der Z-Achse
+
+0.001mm
+
+
+
+Düsentemperatur
+
+≤260℃
+
+
+
+Heißbetttemperatur
+
+≤110℃
+
+
+
+Betriebsart
+
+Online- oder TF-Karten werden offline gedruckt
+
+
+
+Datei Format
+
+STL,OBJ,amf
+
+
+
+Slicing-Software
+
+Realität Slicer/Cura/Repetier-Host/Simplify3D
+
+
+
+Leistungsparameter
+
+Eingang: 100-240 V AC; Ausgang: DC 24 V 21 A; Max. 25 A
+
+
+
+Netzteil
+
+350W MESSWELLE
+
+
+
+Maschinenleistung
+
+550W Max
+
+
+
+Druckmaterial
+
+PLA/ABS/Soft Kleber/Holz/Kupfer enthaltend/Gradient Filament usw.
+
+
+
+Durchmesser des Verbrauchsmaterials
+
+1.75mm
+
+
+
+Nennspannung
+
+115V/230V 50/60Hz
+
+
+
+Ausgangsspannung
+
+24V
+
+
+
+Heißbett-Power
+
+460W
+
+
+
+Bedienfeldtyp
+
+2560
+
+
+
+Motorparameter
+
+42-40 Schrittmotor, 42-34 Schrittmotor, Schrittwinkel 1,8°
+
+
+
+motorbetrieben
+
+A4988 16 Unterteilung
+
+
+
+Anzeige
+
+4,3 Zoll LCD Touchscreen
+
+
+
+Computer-Betriebssystem
+
+Windows XP / Vista / 7/10 MACLinux
+Firmware FlashUSB
+
+
+Maschinengröße
+
+Länge 632 Breite 666 Höhe 619
+
+
+
+Paketabmessungen
+
+Äußere Größe L730*B740*H310
+
+
+
+Bruttogewicht der Maschine
+
+23.8KG
+
+
+
+Nettogewicht der Maschine
+
+18.2KG
+
+
+
+Netzteil
+
+Stecker EU-Standard (Standard)
+
+
+
+
+Lieferinhalt:
+
+1 x Ender-5 Plus 3D-Drucker Satz
+
+
+
+
+

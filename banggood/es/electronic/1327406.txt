@@ -1,0 +1,144 @@
+https://es.banggood.com/LILYGO-TTGO-LoRa32-868Mhz-ESP32-LoRa-OLED-0_96-Inch-SD-Card-bluetooth-WIFI-Wireless-Module-ESP-32-SMA-IP5306-p-1327406.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+LILYGO® TTGO LoRa32 868Mhz ESP32 LoRa OLED 0.96 Inch Tarjeta SD bluetooth WIFI Módulo inalámbrico ESP-32 SMA IP5306
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción del producto:Voltaje de funcionamiento: 1,8 ~ 3,7 vCorriente aceptable: 10~14mACorriente de transmisión: 120mA@+20dBm90mA@+17dBm29mA@+13dBmFrecuencia de funcionamiento: 433/868/915MHzPotencia de transmisión: +20dBmSensibilidad de recepción: -139dBm@LoRa &62.5Khz&SF=12&146bps-136dBm@LoRa &125Khz&SF=12&293bps-118dBm @ LoRa y 125Khz y SF = 6 y 9380bps-123dBm@FSK&5Khz&1.2KbpsError de frecuencia: +/-15KHzEspacio FIFO: 64 bytesVelocidad de datos: 1.2K~300Kbps@FSK0.018K~37.5Kbps@LoRaModo de modulación: FSK, GFSK, MSK, GMSK, LoRa TM, OOKFormulario de interfaz: SPITemperatura de funcionamiento: -40 ℃ - +85 ℃Función RSSI digital:Corrección automática de frecuenciaControl de ganancia automáticaDespertador rápido y salto de frecuenciaManejador de paquetes de datos altamente configurableSMA AntenaIP5306Github:https://github.com/Xinyuan-LilyGo/TTGO-LoRa-Series https://github.com/LilyGO/ESP32-PaxcounterEl paquete incluye:1 módulo TTGO LoRa32 868Mhz2 x Pin1xAntena1 cable de alimentación.(Aviso: la lista de envío no incluye batería ni tarjeta SD)
+
+
+
+
+

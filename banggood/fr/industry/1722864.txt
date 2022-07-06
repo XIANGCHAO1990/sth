@@ -1,0 +1,143 @@
+https://fr.banggood.com/JUNTEK-PSG9080-1nHz-80MHz-Signal-Generator-Dual-Channel-Programmable-Function-Arbitrary-Wave-Source-Frequency-Modulation-Amplitude-Modulation-Voltage-Control-Frequency-Meter-p-1722864.html?cur_warehouse=CN&ID=47184&rmmds=CategoryToolsPop
+JUNTEK PSG9080 Générateur de signaux 1nHz-80MHz Fonction programmable à deux canaux Source d&#39;onde arbitraire Modulation de fréquence Modulation d&#39;amplitude Contrôle de la tension Fréquencemètre
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>Please Click Here to Download the English User Manual<<>>Communication Protocol<<Caractéristiques:Sortie programmable : le type de sortie de forme d'onde (comme l'onde sinusoïdale, les ondes carrées, l'onde triangulaire, l'onde arbitraire, etc.), le temps de sortie et la séquence de sortie peuvent être librement formulés pour réaliser un travail automatique.Mise à jour du micrologiciel en temps réel: la mise à jour du micrologiciel peut être mise à jour à tout moment pour corriger les bogues ou utilisée pour vos besoins de personnalisation particuliers. Appuyez sur la touche programmable correspondante pour confirmer l'entrée en mode de mise à jour et effectuez une mise à niveau du micrologiciel à une touche en vous connectant au logiciel PC.Réglage contrôlé par tension: La fréquence, l'amplitude et le cycle de service de la sortie peuvent être contrôlés par un signal de tension analogique externe pour obtenir une fréquence de balayage contrôlée par tension, une amplitude de balayage et un cycle de service de balayage, qui sont largement utilisés dans le débogage industriel.Fonction de modulation: les formes d'ondes modulées peuvent être émises sur un canal simple ou double canal. Modulation: processus d'ajout d'informations d'une source de signal à la porteuse pour la rendre appropriée à la transmission par canal. C'est la technologie qui fait changer l'onde porteuse avec le signal.Taux d'échantillonnage élevé: le taux d'échantillonnage jusqu'à 300 MSa / s peut obtenir plus de données de forme d'onde par unité de temps, rendant ainsi la forme d'onde affichée plus précise.Couleur personnelle: afin de répondre aux besoins personnalisés des clients, quatre schémas de couleurs pour le système sont fournis. Vous pouvez utiliser les touches numériques et le bouton pour sélectionner la couleur système souhaitée, appuyez sur la touche programmable enregistrer pour enregistrer la couleur sélectionnée.Sortie double canal à performances équivalentes: des signaux de fonction identiques ou différents ou des signaux de forme d'onde arbitraires peuvent être émis simultanément; tous les paramètres peuvent être ajustés indépendamment, la différence de phase entre les deux canaux est réglable en continu de 0 à 359,9 degrés; la fréquence du signal peut aller jusqu'à 80 MHz et le signal de sortie peut être compris entre 1 MHz et 25 Vpp.Fonction de rafale : une onde sinusoïdale, des ondes carrées, une onde en dents de scie ou une onde arbitraire peuvent être utilisées pour générer des signaux en rafale, le nombre de périodes est réglable en continu entre 1 et 100 000 000.La largeur d'impulsion peut être ajustée avec précision: La largeur d'impulsion et la durée de la période d'impulsion de l'onde de pouls sont réglables numériquement et avec précision, ce qui permet de régler avec précision une large gamme de formes d'onde d'impulsion sans sortie de gigue.Peut dessiner une forme d'onde arbitraire: le logiciel PC et le protocole de communication sont fournis gratuitement, des formes d'onde arbitraires peuvent être dessinées à l'aide du logiciel PC; l'utilisation du protocole de communication peut être une programmation de développement secondaire; toutes les fonctions de l'instrument peuvent être contrôlées par le logiciel PC (l'instrument peut également terminer toutes les opérations sans se connecter à l'ordinateur.)Largement utilisé: recherche scientifique et ingénierie technique, test d'instruments électroniques en usine, maintenance d'instruments électroniques, enseignement d'expérimentation scolaire, concours de conception électronique, etc.Spécification:Modèle: PSG9080Canaliser: 2Taux d'échantillonnage: 300MSA/SFréquence maximale de l'onde sinusoïdale: 80MHzCaractéristiques de la forme d'ondeLongueur d'onde : 8192 points / canalRésolution verticale de forme d'onde: 14 bits     Type de forme d'onde: Onde sinusoïdale, ondes carrées, onde d'impulsion (le cycle d'utilisation, la largeur d'impulsion et le temps de cycle peuvent être réglés avec précision), onde triangulaire, onde en dents de scie montante, onde en dents de scie descendante, onde CMOS, niveau CC, demi-onde, pleine onde, onde de pas positive, onde de pas inverse, montée exponentielle, chute exponentielle, onde d'impulsion de Lorentz, onde multi-sons, onde de bruit aléatoire, onde d'impulsion trapézoïdale, onde d'impulsion de puits, forme d'onde de modulation d'amplitude, forme d'onde de modulation de fréquence et 99 groupes d'ondes définies par l'utilisateur -formes.Caractéristiques de fréquenceGamme de fréquence sinusoïdale:1nHz-80MHzGamme de fréquence des ondes carrées : 1nHz-30MHzGamme de fréquence d'onde triangulaire:1nHz-50MHzGamme de fréquence de l'onde d'impulsion: 1nHz-30MHzGamme de fréquence d'onde numérique TTL:1nHz-20MHzGamme de fréquence d'onde arbitraire: 1nHz-50MHzPlage de réglage de la largeur d'impulsion:5nS ~ 4SPlage de réglage de la période d'impulsion: 10nS ~ 40SRésolution minimale de fréquence: 1nHzPrécision de fréquence : ± 5ppm 0 à 50 ℃Stabilité de fréquence: ± 3ppm par 1 anPureté spectrale sinusoïdale:Distorsion harmonique totale: ≤0,5% （à 1 kHz, 5 Vpp）Caractéristiques du signalOndes carréesTemps de front montant / descendant: 10nSDépasser: 10%Asymétrie: ≤0.1%Rampe et onde triangulaireLinéarité: ≤ 1% (moins de 1 MHz)Asymétrie: ≤ 1% (moins de 1 MHz)Onde d'impulsionLargeur d'impulsion: 5nS ~ 4SPériode d'impulsion: 10nS ~ 40SCycle de service: 0,01% -99,99%Front montant / descendant: 10nSDépasser: 10%Vague arbitraireLongueur d'onde : 8192 points (8 000 points)Résolution verticale : 14 bitsTemps minimum de montée / descente: 10nSDépasser: 10%Numéro de stockage non volatile de forme d'onde arbitraire: 99Caractéristiques de sortieAmplitudeGamme d'amplitude:Fréquence ≤ 1 MHz 1MHz≤Fréquence ＜ 11MHz11MHz≤Fréquence ＜ 60MHz60MHz≤Fréquence ＜ 80MHz2 mVpp à 25 Vpp2 mVpp à 10 Vpp2 mVpp à 5 Vpp2 mVpp ~ 3,6 VppRésolution d'amplitude:1mVppStabilité d'amplitude:± 1% ± 1 mVpp (à 1 kHz,> 10 mVpp)Planéité d'amplitude:± 1% (0,1 dB) <10 MHz± 2% (0,2 dB) <10 MHz à 50 MHz± 10% (0,9 dB) <50 MHz à 70 MHz± 20% (1,9 dB) <70 MHz à 80 MHzBiais DCPlage de réglage du décalage:-9,99 V à 15,00 VRésolution décalée: 0.01VCaractéristiques des phasesPlage de réglage de phase:0 ° -359,9 °Résolution de phase:0,1°Sortie de forme d'ondeImpédance de sortie :50Ω (nominal)Protection: protection de court circuitCaractéristiques de modulation:Type de modulation: AM, FM, PM, ASK, FSK, PSK, PWMUN M:Onde porteuse : onde sinusoïdale, ondes carrées, onde en dents de scie, onde arbitraire (sauf DC)Source de modulation: interne / externeOnde modulée : onde sinusoïdale, ondes carrées, onde en dents de scie, onde de bruit, onde arbitraireProfondeur de modulation: 0% à 200%Fréquence de modulation: 1 mHz à 1 MHzFM :Onde porteuse : onde sinusoïdale, ondes carrées, onde en dents de scie, onde arbitraire (sauf DC)Source de modulation: interne / externeOnde modulée : onde sinusoïdale, ondes carrées, onde en dents de scie, onde de bruit, onde arbitraireFréquence de modulation: 1 mHz à 1 MHzDéviation de fréquence: 0,1 Hz à 10 kHzPM:Onde porteuse : onde sinusoïdale, ondes carrées, onde en dents de scie, onde arbitraire (sauf DC)Source de modulation: interne / externeOnde modulée : onde sinusoïdale, ondes carrées, onde en dents de scie, onde de bruit, onde arbitraireDéviation de phase: 0 ° à 360 °Fréquence de modulation: 1 mHz à 1 MHzDEMANDER:Onde porteuse : onde sinusoïdale, ondes carrées, onde en dents de scie, onde arbitraire (sauf DC)Source de modulation: interne / externePolarité: positive et négativeTaux: 1 MHz à 1 MHzAmplitude de la demande: 0% à 200%FSK:Onde porteuse : onde sinusoïdale, ondes carrées, onde en dents de scie, onde arbitraire (sauf DC)Source de modulation: interne / externeOnde modulée: onde d'impulsion de cycle de service de 50%Polarité: positive et négativeTaux: 1 MHz à 1 MHzSaut de fréquence: 0,1 Hz à 80 MHzPSK:Onde porteuse : onde sinusoïdale, ondes carrées, onde en dents de scie, onde arbitraire (sauf DC)Source de modulation: interne / externePolarité: positive et négativeTaux: 1 MHz à 1 MHzPhase PSK: 0 ° à 360 °PWM:Onde porteuse: onde de poulsInversion des ondes: régulière et inverséePériode d'impulsion: 0,01uS à 40SLargeur d'impulsion: 0,001 uS à 4SÉclater:Idle: position zéro, maximum positif, maximum négatifMode: unique, automatiqueSource de déclenchement: rafale manuelle, rafale CH2, rafale externe (CA), rafale externe (CC)Numéro d'impulsion: 1-1000000000Fonction de mesure et de comptage:Mode de mesure :Fonction de mesure: fréquence, largeur d'impulsion positive et négative, période, rapport cycliqueMéthode de couplage: DC, ACTemps de porte: 0.001S-10.000SMode de mesure: basse fréquence, haute fréquenceGamme de mesure de fréquence: 1Hz ~ 100MHzPlage d'amplitude du signal d'entrée: 2Vpp ~ 20VppMesure de période: 10nS ~ 4SLargeur d'impulsion: 4SPlage de mesure du cycle de service: 0,01% ~ 99,99%Mode compteur:Plage de comptage: 0-4294967295Méthode de couplage: couplage DC et ACMéthode de comptage: manuelCaractéristiques de l'entrée de modulation externe:Plage d'amplitude du signal d'entrée: 0 ~ 3VppPlage de fréquence du signal d'entrée: DC ~ 200 KHzCaractéristiques de numérisation:Canal de balayage: CH1 ou CH2Onde porteuse : onde sinusoïdale, ondes carrées, onde en dents de scie, onde arbitraire (sauf DC)Fonction de balayage: fréquence de balayage, amplitude de balayage, devoir de balayageMode de balayage: linéaire, logarithmiqueDirection du balayage: incrémenter, décrémenter, aller-retourFréquence de début / fin: cohérente avec les limites supérieure et inférieure de la fréquence porteuse correspondanteAmplitude de début / fin: cohérente avec les limites supérieure et inférieure de l'amplitude de porteuse correspondanteCycle de service début / fin: cohérent avec les limites supérieure et inférieure du cycle de service correspondantTemps de balayage: 0.01S-640SCaractéristiques de contrôle de tension:Canal de contrôle de tension: CH1 ou CH2Onde porteuse : onde sinusoïdale, ondes carrées, onde en dents de scie, onde arbitraire (sauf DC)Fonction de contrôle de tension: contrôle de fréquence, contrôle d'amplitude et contrôle du cycle de serviceMode de balayage: linéaire, logarithmiqueFréquence de début / fin: cohérente avec les limites supérieure et inférieure de la fréquence porteuse correspondanteAmplitude de début / fin: cohérente avec les limites supérieure et inférieure de l'amplitude de porteuse correspondanteCycle de service début / fin: cohérent avec les limites supérieure et inférieure du cycle de service correspondantPlage de tension de contrôle de tension: 0V-5V, le point de départ et le point final peuvent être définis arbitrairementCaractéristiques de programmation:Mode de fonctionnement: débogage, normalStockage: P00-P19Numéro de programmation: 00-99Temps de programmation: temps de programmation de numéro de série unique 0-99SSpécifications générales:Affichage:Écran: écran couleur LCD de 3,5 pouces TFTRésolution: 320 * 480Couleur: 64K vraie couleurStocker et charger:Quantité: 100 groupesEmplacement: 00 à 99 (les données de l'emplacement de stockage 00 sont chargées par défaut)Interface:Méthode d'interface: interface USB vers sérieInterface d'extension: port série avec mode de niveau TTL, pratique pour le développement secondaireTaux de communication: standard 115200BPSProtocole: en utilisant la ligne de commande, le protocole est ouvertPuissance:Alimentation CA: tension d'alimentation: 85V-264V ， 47-63Hz                  consommation d'énergie: moins de 30 W                  fusible: 250VAC, 3.15AAlimentation CC: tension / courant d'alimentation: DC5V ± 0,5 V 3AEnvironnement:Température: 0 ~ 40 ℃Humidité: humidité <80%Taille de l'article: 247 * 243 * 102mm / 9.7 * 9.6 * 4.0inPoids de l'article: 1030g / 2,3lbTaille de l'emballage: 425 * 275 * 215 mm / 16,7 * 10,8 * 8,5 poucesPoids du paquet: 1985g / 4,4lbLe forfait comprend :1 x générateur de signaux1 x cordon d'alimentation1 x Q9-Q9 via la ligne1 x câble de données USB1 x Q9 ligne de clip1 x manuel d'utilisationPhotos de détails : 
+
+
+
+

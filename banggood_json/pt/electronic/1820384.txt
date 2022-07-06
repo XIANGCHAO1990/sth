@@ -1,0 +1,145 @@
+1820384
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/D5/48/c96f6ba9-43c8-43c6-8a23-9d0af8bed13f.jpg
+12S 36V Lithium Bateria 3.2V Placa de Proteção de Energia 15A-180A com Função de Equalização de Proteção de Temperatura Proteção de Sobrecorrente BMS PCB
+https://pt.banggood.com/12S-36V-Lithium-Battery-3_2V-Power-Protection-Board-15A-180A-with-Temperature-Protection-Equalization-Function-Overcurrent-Protection-BMS-PCB-p-1820384.html?cur_warehouse=CN&ID=515283&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BMS é para uso com bateria, strings diferentes não são compatíveis.Ex: 13S BMS, não pode ser usado com bateria 10S, só pode ser usado com bateria 13S.Descrição:Faixa: a tensão nominal é de bateria de lítio de 3,2 V (incluindo 18650, 26650, bateria de polímero).Função: Função de proteção contra sobrecarga, função de proteção contra sobrecarga, função de proteção contra sobrecarga de corrente, função de proteção contra curto-circuito, função de gerenciamento de equilíbrio da bateria, função de proteção de temperatura.Produtos: 7S ou mais adota circuito de esquema integrado Zhongying e 7S ou menos adota circuito de esquema em cascata de seção única.    Proteção de temperaturaSolução de circuito integrado de ZhongyingTrês provas de tintaO 8-24S é equipado com controle de temperatura NTC para realizar funções como proteção de temperatura de carga e proteção de temperatura de descarga, melhorando efetivamente a segurança do uso da bateria e resolvendo riscos potenciais de segurança causados pela fuga térmica das baterias.A placa de proteção responde com precisão e sensibilidade, o que tem mais vantagens do que a solução tradicional, economiza espaço no circuito e os parâmetros podem ser ajustados de acordo com a personalização do cliente para atingir a função de proteção de desconexão.Todos os circuitos são revestidos com três anti-tintas, que podem prevenir efetivamente danos eletrostáticos, evitar curtos-circuitos causados por ambientes úmidos, prevenir oxidação do ar e estender a vida útil.         Nova Classe A MOSDissipação forte de calorEnviar cabo correspondenteO uso do AVIC MOS pode garantir a qualidade do produto, baixa resistência interna durante a descarga e baixa elevação da temperatura durante a descarga de longa duração, sem afetar a saída da bateria, tornando o controle mais seguro.O dissipador de calor é anodizado e o gel de sílica condutor de calor é amortecido para melhorar a eficiência da dissipação de calor. A estrutura é transparente e possui melhor temperatura ambiente que a vedada. A descarga de longo prazo não afeta o desempenho.As cores branca e vermelha são enviadas aleatoriamente com oe mesmo efeito.CarregandoCorrente de carga: Igual à corrente contínuaTensão de carregamento: 44,4 VProteção contra sobrecargaTensão de detecção de sobrecarga: 3,7 V ± 0,05 VTensão de liberação de sobrecarga: 3,6 V ± 0,05 VAtraso de proteção de sobrecarga: 600uSSobre proteção contra descargaTensão de proteção contra descarga excessiva: 2,2 V ± 0,1 VTensão de liberação de descarga excessiva: 2,5 V ± 0,1 VAtraso de detecção de descarga excessiva: 600uSEquilíbrioTensão de detecção de equilíbrio: 3,55VTensão de liberação equilibrada: 3,55 VCorrente de equilíbrio: 35mA ± 5mA Proteção contra descargaCorrente instantânea: corrente contínua * 2,5Atraso de detecção de sobrecorrente ： 600uSTensão de detecção de descarga excessiva: 100mVCondição de liberação de proteção de sobrecorrente: Desconecte a cargaProteção contra curto-circuitoCondição de proteção de curto-circuito: Curto-circuito de carga externaAtraso de detecção de curto-circuito: 600uSCondição de liberação de proteção de curto-circuito: Desconecte a cargaProteção Temp.Temperatura de carregamento: -20 ~ 55 ℃Temperatura de descarga: -20 ~ 70 ℃Remova a proteção de controle de temperatura: dentro da temperatura de trabalhoResistência internaResistência ligada do circuito principal: ≤10mΩAuto consumo de eletricidadeCorrente de trabalho: ≤100uACorrente de suspensão (quando a bateria está totalmente descarregada): ≤20uATemp de Trabalhofaixa de temperatura ： -20 ℃ / + 80 ℃Incluído no Pacote:1 x 12S 36V lítio Bateria 3.2V placa de proteção de energia 15A-180AUse a fila de operações:1. O cabo começa a partir do fio fino preto conectando B-, o segundo fio (o fio vermelho fino) é conectado ao polo positivo do primeiro attery, e o polo positivo de cada bateria é conectado por sua vez até o último fio vermelho está conectado a B +;2. Depois de conectar o cabo, não insira o plugue diretamente no BMS. Meça a tensão entre cada dois terminais de metal adjacentes na parte traseira do plugue. Se a tensão da bateria de terpolímero deve estar entre 2,8 V e 4,2 V, a bateria de ferro-lítio deve estar entre 2,5 V e 3,65 V.3. Após a fila de fiação correta e a confirmação da tensão, insira o soquete BMS.4. A linha B da placa de proteção (linha azul grossa) é conectada ao pólo negativo da bateria.5. Depois que a fiação estiver concluída, meça se a tensão total da bateria e a tensão total que passa pelo BMS são iguais. Se eles forem diferentes, verifique novamente de acordo com a fila de fiação acima.Pontas: A placa de proteção da bateria, que é um produto semiacabado de produtos eletrônicos, é uma peça de desgaste em caso de uso incorreto. Se você não souber como usá-lo, leia o manual com atenção ou consulte o serviço de atendimento ao cliente. Qualquer uso incorreto queimará o resistor de amostragem do front-end. Não aceitaremos tais disputas de danos ao cliente. Por favor, não compre se você se importar. 
+
+
+
+

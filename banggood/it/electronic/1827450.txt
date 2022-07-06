@@ -1,0 +1,143 @@
+https://it.banggood.com/DALY-BMS-8S-24V-150A-200A-250A-18650-3_2V-Smart-BMS-Bluetooth-485-to-USB-Device-CAN-NTC-UART-Software-Li-on-Battery-Protection-Board-p-1827450.html?cur_warehouse=CN&ID=6304171&rmmds=CategoryElectronicsPop
+DALY BMS 8S 24V 150A 200A 250A 18650 3.2V Smart BMS Bluetooth Dispositivo da 485 a USB CAN NTC UART Software Li-on Batteria Scheda di protezione
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: il primo utilizzo di Smart BMS richiede l'attivazione della ricarica prima che possa essere utilizzato. Per le fasi operative, fare riferimento a "Collega e attiva il video" nel seguente documento.>>>Manuale: clicca qui per aprire<<<Attenzione:1. Il cliente deve identificare la serie della batteria, quindi scegliere la stessa serie BMS. Ad esempio, la tua batteria è 24S, devi scegliere 24S BMS, non puoi scegliere 20 o altro. Il numero di serie di BMS è fisso, non regolabile una volta che il BMS viene spedito.2. La prima volta che si utilizza lo smart BMS, è necessario caricarlo e attivarlo.3. Lo schermo di controllo touch BMS e il modulo Bluetooth non possono essere utilizzati contemporaneamente, scegliere uno dei due, la stessa interfaccia.4. Tutti gli accessori e BMS sono l'ultima versione, forse l'immagine non è stata aggiornata, se sei preoccupato per la versione, consulta la situazione specifica prima dell'acquisto.Descrizione:Smart BMS 8S 36V 150A 200A 250A Bluetooth Da 485 a dispositivo USB CAN NTC Software UART Li-on Batteria Scheda di protezione BMSAttualmente, tutti gli Smart BMS senza la funzione impermeabile.Questo collegamento è per la batteria 8S 36V LiFepo4. Caratteristica:◆ UART: è un prodotto normale Daly. UART è Universal Asynchronous ricevitore / Transmitter, trasforma i dati da trasmettere tra comunicazione seriale e comunicazione parallela. Come chip per convertire i segnali di ingresso paralleli in segnali di uscita seriali, l'UART è solitamente integrato in altre interfacce di comunicazione. ◆ RS485: scegliere il modello RS485 di Daly. RS-485 adotta una trasmissione bilanciata e una ricezione differenziale, quindi ha la capacità di sopprimere le interferenze di modo comune.◆ Modulo Bluetooth: se hai bisogno di questa funzione, scegli il modulo bluetooth, se non lo acquisti, non te lo invieremo.DL8S 36V Smart BMS 150A 200A 250A bms può essere utilizzato con batterie agli ioni di litio 8S o LiFePO4 o LTO. Il cliente può regolare il parametro di sovraccarico o sovraccarico del parametro seduto e altri parametri se il cliente ha bisogno di utilizzare il tipo di batteria per la stessa batteria di serie.Attenzione:Il cliente deve identificare la serie della batteria, quindi scegliere la stessa serie BMS. Ad esempio, la tua batteria è 24S, devi scegliere 24S BMS, non puoi scegliere 20 o altro. Il numero di serie di BMS è fisso, non regolabile una volta che il BMS viene spedito.◆ Istruzioni di controllo: monitoraggio del dispositivo di controllo remoto.◆ Icona veicolo: comando di invio trasmissione dati◆ Rapporto statistico: raccogliere le informazioni sui dati, il cliente può monitorare la capacità della batteria e altre informazioni di allarme.◆ Recinzione elettronica: campo limite impostazione recinzione.◆ Informazioni sul dispositivo: informazioni sui parametri del dispositivo, ecc.Le informazioni sulla batteria possono essere controllate sul computer host, quindi è possibile monitorare lo stato della batteria in qualsiasi momento. Che è controllare facilmente il tuo dispositivo. Smart BMS rende la nostra vita facile.Il pacchetto include: (Scegli diverse specifiche BMS in base alle tue esigenze :)100A con UART 485 CAN/150A con UART 485/150A con UART BT/200A con UART 485/200A con UART 485 CAN/200A con UART BT/250A con UART 485/250A con UART 485 CAN/250A con UART BT:1 x scheda BMS1 x cavo (utilizzare per collegare la batteria)1 x modulo NTCSotto l'accessorio è necessario acquistare separatamente:1 x cavo da USB a UART 6P (opzionale)1 x cavo da USB a RS485 (opzionale)1 x pannello di visualizzazione dell'alimentazione (opzionale)1 modulo Bluetooth (opzionale)1 x schermo di controllo touch UART (opzionale)1 x scatola da USB a CAN (opzionale)Se hai bisogno di ulteriori informazioni sugli accessori BMS, puoi fare clic qui per aprire >>>ID: 1872195 <<<
+
+
+
+

@@ -1,0 +1,355 @@
+1259357
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/A1/FA/95d7f5ca-1800-4032-84e1-3aab5a5e5e98.jpg
+Hantek DSO5202P Dijital Osiloskop 200MHz Bant Genişliği 2 Kanal 1GSa / s 7inch TFT LCD PC USB Taşınabilir Osiloskop Elektrikli Parçalar
+https://tr.banggood.com/Hantek-DSO5202P-Digital-Oscilloscope-200MHz-Bandwidth-2-Channels-1GSa-or-s-7inch-TFT-LCD-PC-USB-Portable-Oscilloscope-Electrical-Tool-p-1259357.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikleri:
+
+	200M bant genişliği.
+
+1GSa / s Real Zaman örnekleme hızı.
+
+Geniş (7.0 inç) renkli ekran, WVGA (800x480).
+
+Tetik modu: kenar / darbe genişliği / satır seçilebilir video / eğim / fazla mesai vb.
+
+USB ana bilgisayar ve cihaz bağlantısı, standart.
+
+Çoklu otomatik ölçümler.
+
+FFT standardı dahil dört matematik işlevi.
+
+PC gerçek zamanlı analizi için yazılım sağlar.
+
+Şartname:
+
+
+
+
+
+Modeli
+
+DSO5202P
+
+DSO5102P
+
+DSO5072P
+
+
+
+Bant genişliği
+
+200MHz
+
+100MHz
+
+70MHz
+
+
+
+Kanal
+
+2
+
+
+
+Gerçek Zamanlı Örnek
+
+1GSa/s
+
+
+
+Eşdeğer Örnek
+
+25GSa/s
+
+
+
+Bellek Derinliği
+40IK
+
+
+
+Yükselme zamanı
+
+1.7ns
+
+3.5ns
+
+5ns
+
+
+
+Zaman Tabanı Doğruluğu
+
+50ppm
+
+
+
+Zaman Tabanı Aralığı
+
+2ns / div-40s / böl
+
+4ns / div-40s / böl
+
+
+
+Giriş Empedansı
+
+1M
+
+
+
+VOLTS / DIV Aralığı
+
+2mV / div-5V / div
+
+
+
+A / D Dönüştürücü
+
+8 bit
+
+
+
+Pozisyon Aralığı
+
+50V (5V / böl), 40V (2V / div-500mV / böl),
+					2V (200mV / div-50mV / div), 400mV (20mV / div-2mV / div)
+
+
+
+DC Kazanç Doğruluğu
+
+Normal veya Ortalama edinim modu için% 3, 5V / div ila 10mV / div;
+					Normal veya Ortalama edinim modu için% 4, 5mV / div ila 2mV / div
+
+
+
+Bant genişliği sınırı
+
+200MHz
+
+
+
+Tetik Türleri
+
+Kenar, Video, Darbe, Eğim, Zamanla, Alternatif
+
+
+
+Tetik Kaynağı
+
+CH1, CH2, EXT, EXT / 5, AC Hattı
+
+
+
+Matematik
+
++, -, x, ÷, FFT
+
+
+
+İmleç Ölçümü
+
+İmleçler arasındaki voltaj farkı: V;
+					İmleçler arasındaki zaman farkı: T;
+					Hertz'de T'nin karşılığı (1 / T);
+
+
+
+Otomatik Ölçüm
+
+Frekans, Periyot, Ortalama, Pk-Pk, Cycli RMS, Minimum, Maksimum, Yükselme süresi, Düşme Süresi, + Darbe Genişliği, -Darbe Genişliği, Gecikme1-2 Yükselme, Gecikme1-2Düzme, + Görev, -Görev, Vbase, Vtop, Vmid , Vamp, Overshoot, Preshoot, Preiod Mean, Preiod RMS, FOVShoot, RPREShoot, BWIDTH, FRF
+
+
+
+Görüntüle
+
+7 "TFT 16K Renkli LCD, 800 * 480 nokta
+
+
+
+Boyut
+
+313mm x 108mm x 142mm
+
+
+
+Ağırlık
+
+2.08KG
+
+
+
+Standart Probe
+
+PP200 x 2
+
+PP150 x 2
+
+PP80 x 2
+
+
+
+
+
+Paket içeriği:
+
+
+1 x Hantek DSO5202P Osiloskop Ana Bilgisayar
+
+2 x Bağlantı Hatları
+
+1 x USB Kablosu
+
+1 x Kurulum CD'si
+
+1 x Güç Kablosu
+
+1 x Orijinal kutu
+
+
+
+
+
+
+
+
+

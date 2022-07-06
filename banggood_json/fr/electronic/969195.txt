@@ -1,0 +1,183 @@
+969195
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/6B/B7/1b667a6d-8259-4675-8d6f-b21db57d464a.JPG
+Geekcreit® DC-DC 8A DC5-30V 150KHz Automatique Step Up Step Down module de puissance réglable
+https://fr.banggood.com/Geekcreit-8A-DC5-30V-to-DC1_25-30V-150KHz-Automatic-Step-Up-Step-Down-Adjustable-Power-Module-Voltage-Regulation-With-Short-Circuit-or-Overtemperature-Protection-p-969195.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Paramètres du module:
+
+Tension d'entrée: DC5-30V
+Courant d'entrée: pic 8A (MAX) 10A (6A fonctionnent longtemps)
+Courant de repos: 4mA (la tension de fonctionnement n'est pas la même il y aura des erreurs)
+Tension de sortie: 1.25-30V réglable en continu
+Courant de sortie: 10A (MAX) (5A longue chaleur naturelle à l'intérieur)
+Plage de courant de sortie: 0.2-10A
+Température de travail: -40 à + 85 degrés
+Fréquence de fonctionnement: 150KHz
+Efficacité de conversion: typique 91% (12V tour 12V5A) maximum 93%
+Protection contre les surintensités:
+Protection contre les courts-circuits: (limitation de la protection)
+Protection contre la surchauffe: (réduction automatique de la tension de sortie après surchauffe)
+Protection d'inversion de polarité d'entrée: Aucune, (si nécessaire, entrez la chaîne dans la diode)
+Sortie anti-arrosage: Oui, pas besoin de charge plus diode de blocage.
+Raccordement: sortie borne, (IN est l'entrée, sortie OUT)
+
+
+Méthode de réglage du courant de sortie:
+
+
+
+
+1. Réglage du potentiomètre CV, en fonction de vos besoins de charge, la tension de sortie est réglée sur la valeur de tension dont vous avez besoin.
+
+
+2, Potentiomètre CC dans le sens inverse des aiguilles d'une montre situé à environ 30 tours, (c'est-à-dire que le courant de sortie est réglé à un minimum), connecté à la LED, le potentiomètre CC syntonise le courant souhaité. Après la charge de la batterie, la batterie complètement déchargée, puis à la sortie, ajustez à votre courant CC souhaité, (assurez-vous d'utiliser pour charger les batteries complètement déchargé avant d'être autorisé à transférer, car la batterie reste dans le plus, la charge Courant est plus petit.) S'il vous plaît ne pas utiliser le courant de court-circuit de transfert, la structure du circuit du module ne peut pas court-circuit la façon de transfert
+
+Emballage inclut:
+
+1 x Automatique Step Up Step Down module de puissance réglable
+
+
+
+
+
+
+
+
+
+
+

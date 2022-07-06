@@ -1,0 +1,155 @@
+https://pt.banggood.com/TWO-TREES-7628-Stepper-Motor-4Pcs-Set-with-DM542-Driver-MACH3-Control-Board-360W24V-Power-Supply-CNC-DIY-Kit-for-3D-Printer-p-1863973.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+TWO TREES® 7628 Stepper Motor 4Pcs Set with DM542 Driver MACH3 Control Board 360W24V Power Supply CNC DIY Kit for 3D Printer
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DM542- O driver integra proteção contra sobretensão e sobrecorrente.- Isolamento ótico do sinal de entrada.- Método de corte por corrente constante dipolar.- Fonte de alimentação DC 20-50VDC (trabalho de 24-48VDC é recomendado).- Corrente máxima de acionamento 4.2A.- O seletor de corrente de saída é ajustável.- Baixa velocidade de vibração zero e baixo ruído.- Subdivisão alta: 2,4,8,16,32,64,128,5,10,20,25,40,50,100,125.- Forte capacidade anti-interferência, posicionamento de alta precisão pode ser alcançado no ambiente hostil da rede elétrica.- Alta confiabilidade: os dispositivos de energia têm margem suficiente e foram rigorosamente testados antes de saírem da fábrica.Mach3
+1. Suporte para ligação de 4 eixos, você pode conectar quatro drives de motor de passo ou servo drives;
+2. A frequência máxima de pulso de passo é 100KHz, que é adequada para o servo ou motor de passo;
+3. Suporte a ferramenta de sonda automática
+4. Suporte a entrada de emergência
+5. Suporte para interruptor de limite
+6. Suporte para conectar o volante eletrônico
+7. É necessário usar fonte de alimentação externa de 24 Vcc para isolar o USB e a porta externa e para tornar o sistema mais estável
+8. Possui porta de saída 0-10V, você pode usar o software mach3 para controlar a velocidade do motor do fuso.
+9. 4 entradas de uso geral, você pode conectar o interruptor de limite, interruptor de parada, interruptor de sonda, de volta a zero e outro dispositivo
+10. 4 interface de saída de acionamento de relé isolada de uso geral, pode acionar quatro relés para controlar as partidas do fuso, rotação para frente e rotação reversa, bombas e outros dispositivos
+
+11. 1 LED de status, indica o status da conexão na placaIncluído no Pacote:4 * 7628 motor de passo 4 * DM542 Motor Driver1 * Placa Controladora MACH3Fonte de alimentação 1 * 360W24V
+
+
+
+

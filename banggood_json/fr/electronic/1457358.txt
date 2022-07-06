@@ -1,0 +1,200 @@
+1457358
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/3F/A3/8056cc48-59a4-4593-a87a-67a16776fc08.JPG
+Module de capteur de température et d'humidité numérique à bus unique DHT22 blocs de construction électroniques AM2302 3.3 V-5 V DC
+https://fr.banggood.com/DHT22-Single-bus-Digital-Temperature-and-Humidity-Sensor-Module-Electronic-Building-Blocks-AM2302-3_3V-5V-DC-p-1457358.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:
+
+
+
+Tension de fonctionnement : 3 V - 5,5 V
+
+Forme de sortie du signal : signal numérique
+
+Plage de mesure de température : - 40°c à 80°c
+
+Précision de mesure : 0,5°c
+
+La plage de mesure d'humidité: 0-100% RH
+
+Précision de mesure : 2% HR
+
+Résolution : 16
+
+Avec trous de vis fixes, installation et fixation pratiques. Diamètre de 2,6 mm
+
+Taille : 28,2 x 13,1 x 10 mm 
+
+
+
+Épingler:
+
+
+
+"+" : positif
+
+"-" : la puissance de l'anode
+
+"Out" : le port IO du microcontrôleur
+
+
+
+Emballage inclus:
+
+
+
+1 module d'humidité de la température DHT22
+
+1 câble
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

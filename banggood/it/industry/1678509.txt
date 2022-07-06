@@ -1,0 +1,144 @@
+https://it.banggood.com/NEJE-Master-2-Desktop-CNC-Wood-Router-20W-Laser-Engraver-Cutter-Laser-Engraving-Machine-Desktop-CNC-Wood-Router-APP-Control-for-Windows-or-Mac-or-Android-p-1678509.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+NEJE Master 2 Desktop Router di Legno di CNC 20W Laser Engraver Cutter Laser Macchina per Incidere Desktop di CNC Router di Legno di Controllo APP per Windows/Mac/Android
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifiche:MarcaNEJEModelloMaster 2MaterialeLega di alluminio + acciaio inossidabile + composito CNCModellolo di controlloSoftware NEJE per Windows, APP NEJE per Android, APP "NEJE Wireless" per iOS e Mac OS, Benbox per Windows, LaserGRBL per Windows. DisconnessoSistema di supportoTelefono Win7 / Win8.1 / Win10 / Android (Android 5.0 e versioni successive), iOS Phone (ios10.0 e versioni successive), OSMac (10.15 e versioni successive)Materialei applicabiliOssido di allumina Metallo e altri materiali non riflettenti, (legno, carta grigia, pelle, bambù, plastica annerita, gomma, ecc.), Non può funzionare su acciaio inossidabile, lega, vetro e alcuni materiali riflettenti.Specifica dell'interfaccia4pin PH2.0 (rosso: 12V, nero: GND, giallo: PWM, verde: segnale di temperatura)Lunghezza d'onda450nmArea di lavoro170x170mmPotenza di ingressoca. 12V2A ≈ 20W (senza alimentazione ventola)Potenza ottica in uscita5.5WFormato immagineBMP .JPG .PNG .NC .DXFDimensione dell'immagine2266 * 2266 pixel / 0,075 mm di distanzaTensione di alimentazione della macchina12V 3AMetodo di installazione della linea di controlloCollegabileIntervallo di messa a fuoco30-50mmMiglior Focale Lunghezza40mm dall'uscita della luceAvvertenza di sicurezzaSi prega di applicare questo modulo sotto la premessa della protezione di sicurezza!Macchina di applicazione consigliataMaestro NEJEPeso del pacco1.96 kgDimensioni del prodotto (L x P x A)38,00 x 28,00 x 13,00 cm Dimensioni della confezione (L x L x A)44,00 x 28,00 x 15,00 cm Caratteristiche:1. Controllo wireless APP, avviare il software si connetterà automaticamente, è possibile abbinare l'alimentazione mobile DC 12V, avviare la creazione ovunque, molto portatile. Supporta APP NEJE (Android, iOS, macs), software Windows NEJE, software Windows Benbox, software Windows LaserGRBL;2. NEJE Il software Windows fornisce funzioni portatili di gestione dei file, modifica del testo, modifica delle immagini e posizionamento ad alta precisione. La modalità del controller NEJE è molto efficiente e precisa, la velocità di incisione è più di 3 volte quella della modalità di scansione del codice G e l'algoritmo dell'immagine è molto facile da usare. L'esclusiva funzione del codice G è progettata in modo che i principianti possano ottenere un controllo CNC facile da usare senza una conoscenza professionale del codice G.3. NEJE servizio cloud: fornisce un gran numero di materiali per incisione e materiali G-code online. Può supportare le funzioni di incisione e taglio, in particolare l'incisione di alta qualità e ad alta efficienza in modalità Controller NEJE e il taglio profondo ad alta efficienza in modalità CNC. La macchina utilizza parti fai-da-te non acriliche. Il prodotto è stato assemblato e testato. La struttura meccanica che utilizza materiali compositi e tecnologia CNC garantisce precisione e durata. L'area di lavoro massima è 170 x 170 mm.4. Nella modalità NEJE, NEJE dispone di una protezione di rilevamento intelligente per prevenire il contatto accidentale degli animali domestici.5. Dual MCU integrato, il team NEJE sviluppa costantemente nuove funzioni, gli utenti possono aggiornare automaticamente l'ultimo firmware NEJE tramite il cloud, in modo che la macchina abbia funzioni più potenti; il secondo chip supporta il firmware Benbox e LaserGRBL, puoi imparare CAD o questi due software G-code conoscenza, quindi avanzato ai maestri Gcode professionisti, ovviamente NEJE fornisce anche strumenti di aggiornamento del firmware Benbox e GRBL1.1f.6. NEJE è attualmente l'unico modulo del suo genere che utilizza la tecnologia di confezionamento LD (la vita di altri moduli è di 9-20 ore, mentre i moduli NEJE possono raggiungere 10000-20000 ore), dotato di funzione di rilevamento della temperatura, dissipazione del calore ad alte prestazioni l'assemblaggio può ottenere la massima potenza La temperatura non è troppo bassa, il che rende i moduli NEJE altamente affidabili.Saperne di più:1. Il software per Mac è lo stesso di iOS, perché il Mac ha annullato il metodo di controllo USB ed è un'APP utilizzata direttamente dallo store Apple. Queste due sono app unificate, quindi la funzione non è completa con il software Windows e non supporta la modalità CNC.2. La modalità di controllo del software NEJE è la funzione di incisione e scansione, che supporta il formato immagine JPG, PNG e la modalità CNC è la funzione di scansione e incisione e taglio del percorso utensile e supporta i file NC / DXF. La funzione di taglio deve essere applicata nella modalità CNC.3. Lo spessore massimo del modulo da 20 W può tagliare 8 mm, ma non è un taglio una tantum, di solito circa 3 mm è l'ideale.4. Durante il taglio, la lunghezza focale deve essere focalizzata al centro del materiale ed è a 40 mm dall'uscita della luce.5. Nota: NEJE Master viene fornito di serie con caricabatterie 12V2A. Se vuoi aggiornare la tua vecchia macchina, devi preparare un altro alimentatore 12V3A.Nota: 1. Quando la macchina è in funzione, si consiglia di non guardare direttamente la testa laser e di non azionare la testa laser direttamente a mano.2. Il diodo laser è un componente sensibile, prestare attenzione a prevenire danni elettrostatici (il prodotto include un design di protezione elettrostatica, ma esiste una certa probabilità di danni).3. Il tempo di garanzia del modulo Laser è di 2 anni.4.Il tempo di garanzia della scheda controller è di 3 anni5. che il manuale e il CD-ROM non siano inclusi, scaricare il software e utilizzare l'aiuto del servizio neje wiki.Il pacchetto include:1xMacchina per incidere1xModulo laser1xocchiali1xCavo USB1xAdattatore di alimentazione 12V2A1xAdattatore UE1xChiave a L1xPiccola chiave inglese1xPiccolo blocco di legno1xCarta di prova4xNocciolineImmagini dei dettagli:
+
+
+
+

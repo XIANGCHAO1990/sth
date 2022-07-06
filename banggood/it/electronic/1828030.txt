@@ -1,0 +1,144 @@
+https://it.banggood.com/QRM-Eliminator-X-Phase-(1-30-MHz)-HF-Bands-Box-p-1828030.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Bande HF QRM Eliminator X-Phase (1-30 MHz) Scatola
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manuale: Clicca qui per aprire<<<Principio:Il cancellatore QRM viene inserito nell'alimentatore dell'antenna da thetrx senza altre modifiche alla radio. La scatola ha un controllo PTT integrato per mantenere il cancellatore collegato durante la trasmissione. Tuttavia, è necessaria un'antenna ricevente ausiliaria aggiuntiva, come un'antenna da 2 m o solo pochi metri di cavi in un capannone. Le due antenne ricevono segnali indesiderati, determinando fasi differenti. Il cancellatore QRM ora consente la regolazione dell'angolo di fase e dell'amplificazione per cancellare i segnali indesiderati prima che raggiungano l'estremità anteriore del ricevitore! Si basa su un concetto completamente innovativo e non è paragonabile alle normali prestazioni del "silenziatore".PCB:1. PCB: 73 x 85 x 1,6 mm2. Peso: 55 gLa confezione include:(optional: Bare board/con guscio)1 x cancellatore QRM 
+
+
+
+

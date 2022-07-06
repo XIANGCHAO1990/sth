@@ -1,0 +1,145 @@
+1844059
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/9A/61/48536dfb-e126-4803-befd-870406e39f79.jpg
+NanoVNA-F V2 50 kHz-3GHz IPS 4.3 pouces LCD analyseur de réseau vectoriel d'affichage analyseur d'antenne SAA-2 ondes courtes HF VHF UHF
+https://fr.banggood.com/NanoVNA-F-V2-50kHz-3GHz-IPS-4_3Inch-LCD-Display-Vector-Network-Analyzer-S-A-A-2-Antenna-Analyzer-Short-Wave-HF-VHF-UHF-p-1844059.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:L'analyseur de réseau vectoriel portable NanoVNA-F V2 est un nouveau produit développé sur la base de NanoVNA-F. Il utilise un écran de 4,3 pouces IPS LCD et un boîtier en alliage d'aluminium. Il est équipé en standard d'une batterie au lithium de grande capacité de 5000 mAh. Prise en charge de l'écran tactile et du fonctionnement des boutons latéraux, prise en charge de l'interface chinoise et anglaise. La conception de ce produit est basée sur le NanoVNA d'edy555 et le SAA V2 d'OwOcomm, et l'optimisation approfondie du logiciel est faite sur la base du produit précédent NanoVNA-F. L'interface de fonctionnement est compatible avec NanoVNA-F, les plages de mesure sont étendues à 3 GHz et les plages dynamiques sont plus grandes. La mesure est plus précise et l'opération est plus pratique.Caractéristiques:Écran de 4,3 pouces IPS LCD, résolution 800 * 480, angle de vision ultra-large, utilisation à long terme ne fait pas mal aux yeux.Tout le boîtier en alliage d'aluminium, robuste et durable, protège efficacement les interférences électromagnétiques pour assurer la précision de la mesure.L'interface radiofréquence est SMA, ce qui est pratique pour connecter diverses pièces testées.Conception d'écran tactile complet, avec 3 boutons latéraux en même temps, opération flexible et pratique.Prise en charge de l'interface chinoise et anglaise.Conception d'interface utilisateur optimisée, pratique pour les utilisateurs pour effectuer des opérations de mesure.Supporte le réglage de la luminosité de l'écran.Le micrologiciel peut être mis à niveau via un disque U virtuel, aucun programmeur n'est nécessaire et le micrologiciel peut être mis à niveau via le câble de données USB de type c inclus.Pièces d'étalonnage de qualité fine standard et câble à phase stable RG405 pour assurer la précision de l'étalonnage.Conçu avec une interface de sortie d'alimentation USB, qui peut prendre en charge la sortie d'alimentation 5V / 1A.En utilisant un circuit intégré de recharge à courant élevé 2A, le temps de recharge est plus court.Prenant en charge le logiciel de l'ordinateur hôte, l'ordinateur hôte prend en charge les interfaces chinoises et anglaises.Les images d'écran de l'appareil peuvent être obtenues en prenant une capture d'écran de l'ordinateur hôte.Fonction: peut mesurer les paramètres S, le rapport des ondes stationnaires de tension, le graphique de Smith, la phase, le retard de groupe, etc.Caractéristiques:Matériel: alliage d'aluminium (boîtier)Couleur principale : noirBatterie: 1 * batterie au lithium, 5000mAhLa fréquence: 50kHz-3GHzPuissance de sortie RF: -9 dBm (erreur dans 1 GHz: ± 1 dB)Précision de fréquence : <0,5 ppmPlages dynamiques S21: 70 dB (1,5 GHz), 60 dB (3 GHz)S11 plages dynamiques: 50 dB (1,5 GHz), 40 dB (3 GHz)Perte de retour sur 2 ports: 20 dB typ (1,5 GHz), 13 dB min (3 GHz)Nombre de points d'étalonnage: 101 pointsNombre de points de numérisation: 101 pointsNombre de traces: 4Nombre de points de repère: 4 (la barre de points de repère peut être déplacée vers le haut et vers le bas sur l'écran)Interface USB : USB Type-C mode de communication : CDC (série)Sauvegarde des paramètres: 5 groupes (après l'enregistrement, il peut être directement rappelé lorsqu'il est à nouveau utilisé, pas besoin de recalibrer, et les paramètres enregistrés avant le dernier arrêt seront automatiquement rappelés lors de la remise sous tension)Prise en charge de l'interpolation des résultats d'étalonnage, peut mesurer sans recalibrage après avoir ajusté la bande de fréquence de mesureTemps de balayage: environ 1,9 s / 1 fois (bande de fréquence complète de 50 kHz à 3000 MHz)Taille de l'article: 140 * 73 * 20mm / 5.5 * 2.9 * 0.8inPoids de l'article: 270g / 9,5 oncesTaille d'emballage: 250 * 150 * 50mm / 9.8 * 5.9 * 2.0inPoids d'emballage: 500g / 1.1lbLe forfait comprend :1 * Host1 * SMA Kit d'étalonnage ouvert1 * SMA Kit d'étalonnage de court-circuit1 * SMA Kit d'étalonnage de charge 50Ω1 * adaptateur de trou femelle à double tête SMA-KK1 * adaptateur de broche mâle à double tête SMA-JJ1 * SMA-JKW coude vis extérieure trou intérieur à vis intérieure adaptateur d'aiguilles intérieuresCâble RF SMA-JJ RG405 2 * 200 mm1 * câble de données USB Type-C1 * styletImage de détails :
+
+
+
+

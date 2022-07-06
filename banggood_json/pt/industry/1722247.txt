@@ -1,0 +1,145 @@
+1722247
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/98/49/7f537331-f7fd-4c80-b2de-7f4ec12410a9.jpg
+Fan'ensheng atualizado 3 eixos GRBL USB driver controlador offline módulo de controle LCD tela cartão SD para CNC 1610 2418 3018 roteador de madeira Laser máquina de gravura
+https://pt.banggood.com/Fanensheng-Upgraded-3-Axis-GRBL-USB-Driver-Offline-Controller-Control-Module-LCD-Screen-SD-Card-for-CNC-1610-2418-3018-Wood-Router-Laser-Engraving-Machine-p-1722247.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:Este controlador offline é projetado para o uso do Mini CNC router 1610/2418/3018 e mesmo com funções mais avançadas de conjunto de ferramentas, suporte para interruptor de limite, suporte para Laser; Off-line e Bluetooth de suporte. Especificação:Firmware: GRBL 08, 09, 1.1 e assim por diante Tensão de entrada: DC 7V- 36VRoteador CNC aplicável: Roteador CNC de 3 eixos 1610; 2418; 3018 Recursos:1. Suporta firmware GRBL e benbox. Suporte a máquina CNC gravação a laser de 3 eixos.2. O comprimento do traçado não está limitado a 30x18 e 24x18, pode estar definindo outro comprimento. Por favor, defina o traço no comando.Por exemplo3018, defina o traço no comando, 30cm de comprimento e 18cm de largura;2418, defina o traço XY no comando, comprimento 24 cm, largura 18 cm.Função:1: Controle manual: ajuste manualmente a posição dos três eixos XYZ como ponto de partida da escultura e abra ou feche manualmente o eixo.2: Gravação de arquivo: a placa offline pode ser conectada à placa de controle grbl para gravação após salvar o arquivo, e não é necessário conectar-se ao computador.3: Arquivos de armazenamento: a versão offline é identificada como dispositivo USB Armazenamento após a conexão ao computador, que pode acessar diretamente os arquivos de gravação.Instruções:Controlador off-line GRBLPressione Z+ e Z- , o eixo Z se moverá para cima e para baixo.Pressione X+ e X-, o eixo X se moverá para a esquerda e para a direita.Pressione Y+ e Y- , o eixo Y se moverá para frente e para trás.Pressione SPIN : Spindle on (Laser on ), Spindle off (laser desligado)Pressione SMOD: retornarPressione Z+ por 5 segundos, mude o idioma para inglês.Cartão SD: Incluído, você precisa de um leitor de cartão SD para gravar nos arquivos de código G do diretório raiz.Perceber:A Interface Laser é de 3 pinos nesta placa de controle. Suporta apenas motor de passo 42. Incluído no Pacote:1 x LCD Controlador GRBL de tela1 x Cabo para Conexão do Fuso1 x cartão SD Mais detalhes:
+
+
+
+

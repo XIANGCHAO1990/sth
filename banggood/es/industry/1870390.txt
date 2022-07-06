@@ -1,0 +1,144 @@
+https://es.banggood.com/ORTUR-Laser-Master-2-Pro-S2-LU2-4-LF-Upgraded-Laser-Engraving-Cutting-Machine-Cutter-400-x-430mm-Large-Engraving-Area-Fast-Speed-High-Precision-Laser-Engraver-p-1870390.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+ORTUR Láser Master 2 Pro S2 LU2-4 LF Mejorado Láser Cortadora de grabado Cortadora 400 x 430 mm Gran área de grabado Velocidad rápida Alta precisión Láser Grabador
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LU2-4 LFOrtur Láser Master = Ortur Láser Master 2ProS2-LF grabador de láser tiene detección de llama, parada de emergencia, etc. Está equipado con la última placa base OLM-MAXUP-V10 y un sistema de mayor confiabilidad, grabado suave, velocidad de grabado más rápida, mayor precisión. LU2-4-LF Láser Modould es un cabezal láser de foco largo de punto focal comprimido de segunda generación con Air Assist, mejor para cortar, especialmente materiales más gruesos. El punto focal es de 0,17 x 0,25 mm y puede cortar limpiamente tablas de pino de 6 mm en una pasada.EspecificaciónMarca: Ortur Número de modelo: Láser Master 2 pro S2 LF (Mejor para cortar / Con boquilla asistida por aire)Tipo: máquina de grabado Láser Material: aluminio + acero con recubrimiento en polvoPotencia del láser: Módulo láser de punto focal comprimido LU2-4 20w （Potencia eléctrica: 20W, Potencia luminosa: 5000-5500mw） Rango de alcance del láser: 445 ± 5 nm Alimentación por: Adaptador de corriente 24V 2APeso del paquete: 4,6 000 kg Tamaño del producto (largo x ancho x alto): 600x570x189 mmTamaño del paquete (L x W x H): 660x250x110mmDescripciónA.[Ortur nueva actualización Pro modelo]* Laser Master 2 Pro se actualizó recientemente, agregando nuevas funciones como detección de llama, parada de emergencia, etc., con mayor confiabilidad del sistema, grabado suave, velocidad de grabado más rápida, mayor precisión y productos de grabado más refinados. ¡La nueva actualización brinda a los usuarios una mejor experiencia!B.[Optimización general]* Laser Master 2 Pro tiene una vida útil más larga, porque la estructura mecánica ha sido optimizada y diseñada para tener una velocidad más rápida y puede funcionar de manera estable durante mucho tiempo. Al mismo tiempo, Ortur Laser Master 2 Pro puede brindar a los usuarios más seguridad porque tiene más funciones de seguridad.C. [Actualización del sistema de accesorios]* 1. Debido a que está equipado con la última placa base OLM-PRO-V10, el grabado es más suave y delicado, la precisión del grabado es mayor y la velocidad es más rápida.* 2. El sistema de circuito con voltaje de 24 V se actualiza, la corriente es menor y el sistema es más seguro.* 3. Actualice el firmware Ortur Láser 1.5, que es el firmware de máquina grabado del láser más avanzado en la actualidad, con funciones más potentes.* 4. Admite la pantalla de control fuera de línea de Ortur.D.[Ventaja del producto]* El firmware Ortur Láser 1.5 se basa en la actualización del firmware OLF1.4, optimiza el algoritmo de movimiento y aumenta la velocidad máxima de movimiento de 4000 mm / min a 10000 mm / min. El foco del LU2-4 (20w) módulo láser es más pequeño debido a eso. Es el FAC módulo láser de segunda generación, el punto focal es de solo 0,08 * 0,15 mm y el área focal es aproximadamente una cuarta parte de los 0,23 * 0,23 mm de la primera generación. Para que pueda cortar madera contrachapada de 3 mm y tabla de pino de 6 mm a la vez.E.[ Protección]*1. Cuando la máquina de grabado se desplaza o se inclina, detendrá automáticamente el láser para evitar que el láser dañe el objetivo;* 2. Cuando la máquina de grabado o la computadora fallan, el láser dejará de funcionar inmediatamente para evitar un fuego continuo.* 3. La máquina de grabado está encendida, pero no hay movimiento durante mucho tiempo, estará protegida y el láser se apagará automáticamente.*4. Detector de Llama + Alarma Zumbador.* 5. Interruptor de parada de emergencia para emergencias.Características● Placa base Specializeds con STM32 MCU.Podría preprocesar 32 instrucciones, admitir una velocidad en baudios de hasta 921600, ¡más potente!● El firmware de grabador Láser de 32 bits más avanzado.Firmware maestro láser Ortur, más inteligente, más rápido, de mayor precisión y más fácil de usar.● El rango de potencia Láser podría ser S0 - S1000, en comparación con los grabadores láser de escritorio de 8 bits, que solo tienen S0 - S255, Ortur Láser Master podría controlar el rayo láser con mayor precisión, incluso podría usar la unidad láser de alta potencia para "dibujar" una imagen en papel , que los grabadores láser de alta potencia de 8 bits no podían hacer.● La velocidad de grabado puede ser de hasta 10000 MM / Min. (Podría ahorrarle la mitad del tiempo de grabado que las máquinas de grabado de pasatiempos similares)● Active Protección de posición.Hay un sensor G en la placa base, si la máquina detecta un movimiento no autorizado, el rayo láser se detendrá.● Láser Protector de seguridad para vigasSi el sistema de su computadora se detuvo o el cable USB se desconectó, lo que provocó que el grabador de láser dejara de moverse, el rayo láser se detendrá para evitar incendios.● Detección y limitación de la duración de la exposición.Si grabador de láser está bajo control, pero los usuarios olvidan operar y mantener el rayo láser en funcionamiento, la seguridad adicional se cortará en caso de que el motor deje de moverse, para evitar incendios.● LaserGRBL (software gratuito) es compatible con Windows XP, 7, 8, 10. LaserGRBL es el software de tallado más popular del mundo, puede importar imágenes de diferentes formatos, puede editar en PhotoShop, Inkscape, CAD, etc. y luego conectarse al grabador mediante láser LaserGRBL para grabado y corte.● LightBurn (software de pago, lightburnsoftware.com) es compatible con Windows, SO y Linux. Es el software de tallado de pago más popular del mundo, muy fácil de usar.● Este grabador de láser admite el modo PWM.● Piezas preensambladas, solo necesita de 10 a 20 minutos para instalar la máquina.● Área de grabado de 400 x 400 mm de gran tamaño.● Estructura de la tapa de aluminio, operaciones suaves, apariencia atractiva.Preguntas y respuestasP: ¿Cuánto tiempo se tarda en ensamblar?R: 10-15 minutos (depende de su preparación).P: ¿Qué software de grabado es compatible?R: LaserGrbl (gratuito) (Windows XP, Windows 7, Windows 8, Windows 10): Página de descargaLightBurn (prueba gratuita de pago de 30 días) (Mac OS, Linux, Windows XP, Windows 7, Windows 8, Windows 10): Página de descarga P: ¿Puedo grabar metal y acero inoxidable?R: Puede marcar el metal después de enchapado o rociado (actuando sobre el revestimiento o la capa de óxido), acero inoxidable (el efecto es mejor después de que el acero inoxidable se pinta de negro. Nota: no es un grabado, sino una decoloración).P: ¿Cuál es el grosor máximo de corte de la tabla?R: Con el módulo láser LU2-4, puede cortar madera contrachapada de 4 mm (madera contrachapada) o tabla de pino de 6 mm con un solo corte.P: ¿Cuántas horas puede trabajar continuamente Láser Master 2 Pro?R: 24 horas (en un ambiente bien ventilado).P: ¿Se puede reemplazar el módulo láser?R: Sí, pero el voltaje de entrada del módulo Láser debe admitir 24 V.P: ¿Cuánto dura el período de garantía?R: One años de garantía (le enviaremos las piezas correspondientes sin daños artificiales de forma gratuita).P: ¿Es posible grabar superficies cilíndricas?R: Necesita comprar Ortur YRR Series Rotary Rodillo como accesorio para esculpir la superficie cilíndrica.P: ¿Cómo establecer la distancia focal correcta?R: Todos los módulos láser Ortur tienen una distancia focal fija (la distancia desde el módulo láser a la superficie del objeto es fija).Nota● Utilice gafas protectoras cuando utilice la grabadora láser. Use gafas de seguridad para evitar la ceguera.● No toque el emisor láser con la mano, ya que podría quemarse la mano.● Evite impactos fuertes en la máquina.● Los niños menores de 14 años no pueden usar este producto y los niños mayores de 14 años necesitan la supervisión de un adulto.● La máquina de grabado con luz no se puede aplicar directamente a ningún objeto reflectante de espejo, lo que puede causar lesiones al operador o quemar el láser.● Este producto no se recomienda para corte industrial debido a su alta velocidad de grabado.● Sugerencia: debido a que el software se actualiza y optimiza constantemente, haga clic aquí para ver las actualizaciones.El paquete incluye1 máquina de grabado Láser.AccesoriosMás detalles:
+
+
+
+

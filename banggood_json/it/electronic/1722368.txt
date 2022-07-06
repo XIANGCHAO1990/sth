@@ -1,0 +1,299 @@
+1722368
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/D4/3F/497f0e7d-0a9a-4eb4-a4ca-0d5fe92278ee.jpg
+Hardware programmabile LILYGO® TTGO T-Internet-POE ESP32-WROOM LAN8720A Chip Ethernet Scheda di espansione e downloader Scheda di espansione
+https://it.banggood.com/LILYGO-TTGO-T-Internet-POE-ESP32-WROOM-LAN8720A-Chip-Ethernet-Adapter-And-Downloader-Expansion-Board-Programmable-Hardware-p-1722368.html?cur_warehouse=CN&ID=6292769&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ulteriori informazioni: https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE Dettagli del prodotto :1. Compatibile con la modalità PoE A (alimentata dalla coppia di dati) e la modalità PoE B (alimentata dalla coppia di backup) e auto MDIX, che consente l'uso di cavi Ethernet diritti e incrociati. 2. 20 foot foot con 3,3 V, V + potenza e 15 ESP32GPIO sono disponibili per l'applicazione.  3. L'impronta compatta da 75 mm per 40 mm è compatibile con 4 fori di montaggio delle normali viti M2.5 o 4-40. 4. È stato creato un piccolo sottomodulo console di programmazione / USB seriale in modo che il modulo Inter-POE possa essere facilmente programmato per soddisfare le esigenze dell'applicazione dell'utente. Caratteristica:
+
+
+
+Specifiche hardware
+
+
+
+Chipset
+ESPRESSIF-ESP32-WROOM, chip Ethernet LAN8720A, chip di gestione dell'alimentazione SI3404
+
+
+VELOCE
+4MB 
+
+
+SRAM 
+520 kB SRAM
+
+
+Pulsante
+BOT, Riposo
+
+
+Dispositivo esterno
+Slot per schede TF, interfaccia di tipo C, trasformatore PA2369NL 1825-S, interfaccia Ethernet-POE HR861153C
+
+
+Da USB a TTL
+CP2104
+
+
+Interfaccia modulare
+ Scheda SD, UART, SPI, I2C, PWM, I2S, ADC
+
+
+Orologio di bordo
+Oscillatore a cristallo 32,768 MHz 
+
+
+Intervallo di temperatura di lavoro
+ -40℃ ~ +85℃
+
+
+Il peso
+26.85g
+
+
+Taglia
+70*52.3*17mm
+
+
+Specifiche dell'alimentatore
+
+
+
+Ingresso alimentazione
+USB 5V di tipo C
+
+
+Interfaccia Ethernet-POE HR861153C 50V
+
+
+Tensione di lavoro
+2.7V-3.6V
+
+
+Corrente di uscita massima
+Circa 1,2 A.
+
+
+Corrente di carica
+500mA
+
+
+USB
+USB di tipo C
+
+
+Wifi
+
+
+
+Standard
+FCC/CE-RED/IC/TELEC/KCC/SRRC/NCC (chip esp32)
+
+
+Protocollo
+802.11 b/g/n (802.11n, velocità fino a 150 Mbps) polimerizzazione A-MPDU e A-MSDU, supporto intervallo di protezione 0,4 μS
+
+
+Intervallo di frequenze
+2,4 GHz~2,5 GHz (2400 M~2483,5 M)
+
+
+Potenza di trasmissione
+22dBm
+
+
+Distanza di comunicazione
+300m
+
+
+Bluetooth
+
+
+
+Protocollo
+Soddisfa gli standard bluetooth v4.2BR/EDR e BLE
+
+
+Frequenza radio
+Con ricevitore NZIF di sensibilità -97dBm Classe 1, Classe 2 e Classe 3 emettitore AFH
+
+
+Frequenza audio
+Frequenza audio CVSD e SBC
+
+
+Specifiche del software
+
+
+
+Modalità Wifi
+Stazione/SoftAP/SoftAP+Stazione/P2P
+
+
+Meccanismo di sicurezza
+WPA/WPA2/WPA2-Enterprise/WPS
+
+
+Crittografia Tipo 
+AES/RSA/ECC/SHA
+
+
+Aggiornamento del firmware
+Download UART/OTA (tramite rete/host per scaricare e scrivere firmware)
+
+
+Sviluppo software
+Supporta lo sviluppo di server cloud/SDK per lo sviluppo del firmware dell'utente
+
+
+Protocollolo di rete
+IPv4,IPv6,SSL,TCP/UDP/HTTP/FTP/MQTT
+
+
+Configurazione utente
+AT + Set di istruzioni, server cloud, Android/iOSapp
+
+
+OS
+FreeRTOS
+
+La confezione include:1 x T-Internet-POE 1 pin doppia fila 1 x Downloader Expansion Board (opzionale)Nota: l'interfaccia USB ha solo una funzione di ricarica, il prodotto necessita del downloader per programmare. 
+
+
+
+

@@ -1,0 +1,179 @@
+945769
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/4F/7A/ece2dcfc-1651-408c-82e4-18bbc65bd0c8.jpg
+Ferramenta de scanner de diagnóstico de carro V139 Interface de multi-idiomas para Renault Clip 
+https://pt.banggood.com/V139-Car-Diagnostic-Scanner-Tool-Multi-Langauges-Interface-for-Renault-Clip--p-945769.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Função:
+Veja todas as informações relativas ao veículo
+Teste de computador
+Teste automático de todos os computadores
+Teste de airbag
+Ccantool (testes OBD)
+Doc Base (acesso a notas técnicas)
+Medições físicas
+Antipoluição
+Multímetro
+
+Como rachar Renault Can Clip:
+1) Após a conclusão da instalação, NÃO execute o seu CLIP !!!
+     Primeiro, substitua o arquivo original (faça backup primeiro do seu RSRwin.exe original) pelo arquivo RSRwin.exe em C: CLIP_X91LibApplication
+2) Em seguida, execute o RSRwin.exe, escolha "Registre-me agora" e, na próxima janela, selecione "Não"!
+3) Use esta chave para registro: 333DEF-111DEF-111DEF-222DEF-221DEF-000DEF, funcionará até 31/12/2020 :)
+4) Recupere o RSRWin.exe original
+5) Executar atualização 139
+
+O conjunto Renault CAN Clip inclui:
+1 x Interface de Clip CAN
+1 x cabos de 16 pinos para CAN Clip - conexão para carro
+1 x cabos de 12 pinos para CAN Clip - conexão para carro
+1 x cabo para CAN Clip - conexão com o PC
+1 x CD de software 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

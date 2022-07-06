@@ -1,0 +1,280 @@
+https://www.banggood.com/KONNWEI-KW903-WIFI-ELM327-OBD2-Car-Scan-Tool-Diagnostic-Scanner-Engine-Code-Reader-p-1625270.html?cur_warehouse=USA&ID=47972&rmmds=CategoryAutomobilesPop
+KONNWEI KW903 WIFI ELM327 OBD2 Car Scan Tool Diagnostic Scanner Engine Code Reader
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The KW903 device is a small adapter that plugged into the vehicle OBD-connector. On Wifi, it connects to any computer, tablet or
+		smartphone, With associated diagnostic procedures . Doing these simple operations, you will be able:
+		 
+
+1. Read hard (memory) / pending (intermittent) and historic codes and show definitions.
+
+2. Measure the fuel consumption.
+
+3. Display real-time operating performance of the car, such as momentum,
+
+4. Monitor Vehicle speed
+
+5. Oil pressure
+
+6. Coolant temperature
+
+7. Engine load
+
+8. Intake manifold  pressure
+
+9. throttle position,
+
+10. the values of oxygen sensors,
+
+11. air intake
+
+12. temperature, and more.
+
+13. Turn off the MIL (signal Check Engine).
+
+14. Download data to external media in a variety of formats for later printing.
+
+15. Record various parameters, display graphics in real time, and more.
+
+
+Features:
+
+Small size, compact structure. Plug and never unplug
+
+Stable wireless connection
+
+No wires or batteries (adapter is powered by the diagnosis size sockets)
+
+Stop communication, wait half an hour, auto sleep
+
+Supports almost OBDII protocols
+
+The adapter uses the fastest and most reliable chips
+
+This is Wifi version, support Android / IOS system smartphone,Tablet computer and PC    
+
+The icar2 version is 100% V1.5
+
+  
+
+Protocols :
+	 
+
+0.Automatic
+
+1.SAE J1850 PWM(41.6Kbaud)
+
+2.SAE J1850 VPW(10.4Kbaud)
+
+3.ISO9141-2(5 baud init,10.4Kbaud)
+
+4.ISO14230-4 KWP(5 baud init,10.4 Kbaud)
+
+5.ISO14230-4 KWP(fast init,10.4 Kbaud)
+
+6.ISO15765-4 CAN(11bit ID,500 Kbaud)
+
+7.ISO15765-4 CAN(29bit ID,500 Kbaud)
+
+8.ISO15765-4 CAN(11bit ID,250 Kbaud)
+
+9.ISO15765-4 CAN(29bit ID,250 Kbaud)
+
+A.SAE J1939 CAN(29bit ID,250*Kbaud)
+
+B.USER1 CAN(11*bit ID,125*Kbaud)
+
+C.USER2 CAN(11*bit ID,50*kbaud)
+
+Default settings(user adjustable)
+
+	 
+
+OBDII compliant Vehicles Reference:
+	 
+
+Europe cars: Works on After 2000 and newer  OBDII/OBD2/OBD/CAN-BUS Vehicles, which including icar2 support obd protocols list
+
+America Cars: Works on all 1996 and newer OBDII/OBD2/OBD/CAN-BUS vehicles, which including icar2 support obd protocols list
+
+Asia / AU Cars: Works on After 2005 and newer  OBDII/OBD2/OBD/CAN-BUS  Vehicles, which including icar2 support obd protocols list
+
+	 
+
+Some Special Car Models:
+	 
+
+For SSangyong Kyron/Actyon will be suitable from 2010 and newer cars. 
+
+For LADA Priora, From 2008 to 2016 model will be suitable, LADA 2111, 2116 Will only be suitable after 2013
+
+
+Package included:
+		 
+
+1 X OBD Scanner Tool
+
+1 X CD
+
+1 X User Manual
+There are only manuals in the CD, and the files are as follows:http://myosuploads3.banggood.com/products/20220531/20220531060018KONNWEIWIFI327CDRX4.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

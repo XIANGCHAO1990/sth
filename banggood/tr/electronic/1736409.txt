@@ -1,0 +1,382 @@
+https://tr.banggood.com/M5Stack-Core2-ESP32-with-Touch-Screen-Development-Board-Kit-WiFi-bluetooth-Graphical-Programming-WiFi-BLE-IoT-M5Stack-for-Arduino-products-that-work-with-official-Arduino-boards-p-1736409.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Dokunmatik Ekran Geliştirme Kartı ile M5Stack® Core2 ESP32 Kit WiFi bluetooth Grafik Programlama Arduino için WiFi BLE IoT M5Stack - resmi Arduino panolarıyla çalışan ürünler
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanım:M5Core2, M5Stack geliştirme kiti serisindeki ikinci nesil çekirdek cihazdır ve orijinal çekirdek neslinin işlevlerini daha da geliştirir.MCU, ESP32 model D0WDQ6-V3'tür ve ayrı olarak kontrol edilebilen çift çekirdekli Xtensa® 32-bit 240Mhz LX6 işlemcilere sahiptir. WiFi ve Bluetooth standart olarak desteklenir ve dahili 16MB flaş ve 8MB PSRAM, şarj etme, program indirme ve seri iletişim için USB TYPE-C arabirimi, 2.0 inç entegre kapasitif dokunmatik ekran ve dahili titreşim motoru içerir .M5Core2 ayrıca doğru zamanlama sağlayabilen yerleşik bir RTC modülüne sahiptir. Güç kaynağı, tabanın güç tüketimini etkin bir şekilde kontrol edebilen bir AXP192 güç yönetimi yongası tarafından yönetilir ve yerleşik bir yeşil LED güç göstergesi, kullanıcıyı pil seviyesinden haberdar etmeye yardımcı olur. Pil kapasitesi, çekirdeğe önceki modelden çok daha uzun süre güç sağlayabilen 390mAh'a yükseltildi.M5Core2, SD kart yuvasını ve hoparlörleri tutar. Bununla birlikte, daha yüksek kaliteli ses çıkışı sağlamak için, I2S dijital ses arabirimi güç amplifikatörü yongası, sinyal bozulmasını etkili bir şekilde önlemek için kullanılır. Tabanın sol tarafında ve altında bağımsız güç ve sıfırlama düğmeleri vardır.The 3 icons on the front of the screen are capacitive buttons which are programmable. There is a small expansion board on the back of the base with a 6 eksenli IMU sensor and microphone. The development platform and programming language supported by M5Stack Core2: Arduino, UIFlow (Blockly, MikroPython dili kullanarak) Geliştirme ve programlama becerileriniz ne düzeyde olursa olsun, M5Stack fikirlerinizi aşamalı olarak gerçeğe dönüştürmenize yardımcı olacaktır.Güç açık / kapalı:Gücü açın: güç düğmesine tıklayınGücü kapatın: güç düğmesine 6sn basınYeniden başlatın: En alttaki RST düğmesine tıklayınÖzellikler:ESP32 tabanlı, yerleşik Bluetooth, WiFi16M Flaş ， 8M PSRAMDahili hoparlör, güç göstergesi, titreşim motoru, RTC, I2S amplifikatör, kapasitif dokunmatik ekran, güç düğmesi, sıfırlama düğmesiTF kart yuvası (16G Maksimum Numara)Güç yönetimi çipi ile donatılmış dahili lityum pilBağımsız küçük kart yerleşik 6 eksenli IMU, PDM mikrofonM-Bus Soket ve PimlerProgram Platform: UIFlow, MikroPython, ArduinoPaket içeriği:1x M5Stack Core21x Type-C USB (20cm)UygulamalarŞeylerin Internet terminal denetleyicisiKök eğitim ürünüDIY oluşturmaAkıllı ev ekipmanlarıŞartname:
+
+
+
+KaynaklarParametre
+
+
+ESP32-D0WD-V3240MHz çift çekirdekli, 600 DMIPS, 520KB SRAM, Wi-Fi, çift mod Bluetooth
+
+
+flaş16MB
+
+
+PSRAM8MB
+
+
+Giriş gerilimi5V @ 500mA
+
+
+ArayüzTypeC x 1, GROVE(I2C+I/0+UART) x 1
+
+
+IPS LCD Ekranı2,0 "@ 320 * 240 ILI9342C
+
+
+Dokunmatik ekranFT6336U
+
+
+hoparlör1W-0928
+
+
+LEDYeşil güç gösterge ışığı
+
+
+ButonGüç düğmesi, RST düğmesi, Sanal ekran düğmesi * 3
+
+
+Titreşim hatırlatıcısıtitreşim motoru
+
+
+mikrofonSPM1423
+
+
+I2S Gücü AmplifikatörNS4168
+
+
+6 eksenli IMUMPU6886
+
+
+RTCBM8563
+
+
+PMUAXP192
+
+
+USB ÇipCP2104
+
+
+DC-DC YükseltmeSY7088
+
+
+TF Kart Girişi16G Maks.
+
+
+Lityum Batarya390mAh @ 3.7V
+
+
+Anten2.4G 3D anten
+
+
+Çalışma sıcaklığı32°F - 104°F (0°C - 40°C)
+
+
+Net ağırlığı52g
+
+
+Brüt ağırlık70g
+
+
+Ürün boyutu54 x 54 x 16mm
+
+
+Paket Boyutu75 x 60 x 20mm
+
+
+Kasa MalzemesiPlastik ( PC )
+
+Kolay Yükleyici:EasyLoader is a concise and fast program writer, which has a built-if program related to the product. It can be burned to the main control by simple steps to perform a series of function verification. Please install the corresponding driver according to the device type. M5Core host CP210X sürücü kurulum öğreticisini görüntülemek için lütfen buraya tıklayın, M5StickC / V / T / ATOM serisi sürücü olmadan kullanılabilir)PinMap:LCD ve TF kartıLCD ： 320x240 TF kartı Maksimum Numara 16GB
+
+
+
+
+
+
+
+
+
+
+ESP32 ÇipGPIO38GPIO23GPIO18GPIO5GPIO15
+
+
+AXP192 ÇipAXP_IO4AXP_DC3AXP_LDO2
+
+
+ILI9342CMİSOMOS1SCKCSDCRSTBLgüç
+
+
+
+
+
+
+
+
+ESP32 ÇipGPIO38GPIO23GPIO18GPIO4
+
+
+TF kartıMİSOMOS1SCKCS
+
+CAP.TOUCH:
+
+
+
+
+
+
+ESP32 çipiGPIO21GPIO22GPIO39
+
+
+AXP192AXP_IO4
+
+
+FT6336USDASCLINTRST
+
+Mikrofon ve NS4168:
+
+
+
+
+
+
+
+ESP32 ÇipGPIO12GPIO0GPIO2AXP_IO2GPIO34
+
+
+NS4168BCLKLRCKVERİSPK_EN
+
+
+mikrofonCLKVERİ
+
+AXP Güç Gösterge Işığı:
+
+
+
+
+AXP192AXP_IO1AXP_LDO3
+
+
+Yeşil LEDVcc
+
+
+titreşim motoruVcc
+
+RTC:
+
+
+
+
+
+ESP32 ÇipGPIO21GPIO22
+
+
+AXP192AXP_güç
+
+
+BM8563SDASCLINT
+
+IMU (3 eksenli jiroskop ve 3 eksenli ivmeölçer):
+
+
+
+
+ESP32 ÇipGPIO21GPIO22
+
+
+MPU6886SDASCL
+
+USB'den seri yongaya:
+
+
+
+
+ESP32 ÇipGPIO1GPIO3
+
+
+CP2104RXDTXD
+
+Dahili I2C bağlantısı:
+
+
+
+
+ESP32 ÇipGPIO21GPIO22
+
+
+MPU6886SDASCL
+
+
+AXP192SDASCL
+
+
+BM8563SDASCL
+
+
+FT6336USDASCL
+
+M5LİMAN AÇIKLAMASI:
+
+
+
+
+LİMANTOPLU İĞNENot:
+
+
+LİMAN-A (Kırmızı)G32 / 33I2C
+
+ESP32 ADC / DAC:
+
+
+
+
+
+ADC1ADC2DAC1DAC2
+
+
+8 kanal10 kanal2 kanal2 kanal
+
+
+G32-39G0 / 2/4 / 12-15 / 25-27G25G26
+
+For more information about Pin assignment and Pin Remapping, Please refer to ESP32 Veri Sayfasıİlgili BağlantıESP32FT6336UNS4168MPU6886ILI9342CSPM1423BM8563SY7088AXP192Şematik: açmak için buraya tıklayınArduin IDE için örnekArduin kodunu almak için buraya tıklayın
+
+
+
+

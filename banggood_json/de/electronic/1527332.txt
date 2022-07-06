@@ -1,0 +1,405 @@
+1527332
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/F9/70/e7c976fb-7fb0-4d12-a7dd-4f7c4f18a849.jpg
+10 stücke M18 Bluetooth 4,2 Audio Receiver Modul Verlustfreie Autolautsprecher Kopfhörer Verstärkerplatine Wireless Refit
+https://de.banggood.com/10pcs-M18-Bluetooth-4_2-Audio-Receiver-Module-Lossless-Car-Speaker-Headphone-Amplifier-Board-Wireless-Refit-p-1527332.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Benutzerhandbuch: Zum Öffnen hier klicken
+
+	Für unterschiedliche Kundenbedürfnisse bieten wir 3 Versionen zur Auswahl:
+
+
+
+
+
+
+
+
+
+Funktion / Modell
+
+M18 (dieser Artikel)
+
+M28 (Produkt-ID: 1486747)
+
+M38 (Produkt-ID: 1486746)
+
+
+
+Micro Netzteil
+
+×
+
+√
+
+√
+
+
+
+Audio-Kopfhöreranschluss
+
+×
+
+√
+
+×
+
+
+
+Eingebauter Verstärker
+
+×
+
+×
+
+√ (5 W + 5 W)
+
+
+
+Lithium-Batterie betrieben
+
+√
+
+√
+
+√
+
+
+
+Unterstützt USB-Soundkarte, freies Laufwerk
+
+×
+
+×
+
+√
+
+
+
+Lautstärkespeicher / Anpassung
+
+√
+
+×
+
+×
+
+
+
+STUMM Mute-Schnittstelle
+
+√
+
+×
+
+×
+
+
+
+Tastenerweiterung
+
+√
+
+×
+
+×
+
+
+
+Bluetooth-Version
+
+bluetooch V4.2
+
+
+
+Unterstützung Bluetooth protokoll
+
+HFPV1.7, A2DPV1.2, AVRCPV1.5, AVCTPV1.2, AVDTPV1.2
+
+
+
+Formatunterstützung
+
+Unterstützung WAV / WMA / FLAC / APE / MP3 verlustfreie Dekodierung, Stereo-Zweikanal-Ausgang
+
+
+
+Betriebsspannung
+
+5V/3.7V-4.2V
+
+
+
+Broadcast-Status nicht verbunden
+
+5.5MA
+
+
+
+Verbindungsstatus
+
+20MA
+
+
+
+Tief schlafen
+
+3UA
+
+
+
+Übertragungsreichweite
+
+20 Meter (leere oder störungsarme Umgebung)
+
+
+
+Betriebstemperatur
+
+ -40 ° C bis + 85 ° C
+
+
+
+Empfindlichkeit
+
+ -87 dBm
+
+
+
+
+Einführung:
+
+
+
+Dieses Produkt MH-M18 ist eine Bluetooth-Designlösung mit geringem Stromverbrauch, die die neueste Bluetooth 4.2-Übertragung, verlustfreie Stereowiedergabe mit zwei Kanälen und Bluetooth-Verbindung nach dem Anschließen des Moduls an Bluetooth unterstützt. Sehr praktisch. In einer offenen Umgebung kann die Bluetooth-Verbindungsentfernung bis zu 20 Meter betragen.
+
+Weit verbreitet in einer Vielzahl von Bluetooth-Audio-Empfang, eine Vielzahl von Audio-DIY-Modifikation.
+
+
+
+
+
+Stift
+
+Funktion
+
+Beschreibung
+
+
+
+1
+
+SCHLÜSSEL
+
+Tastensteuerklemme (4 Tastenfunktionen, Zusatzwiderstände wie Schaltplan)
+
+
+
+2
+
+STUMM
+
+Mute-Steueranschluss (Ausgangspegel 3,3 V bei Stummschaltung, Ausgangspegel während der Wiedergabe niedrig)
+
+
+
+3
+
+VCC
+
+Positive Stromversorgung 5V (Lithiumbatterie 3,7 V Stromversorgung erfordert Kurzschlussdiode)
+
+
+
+4
+
+GND
+
+Stromversorgung negativ / Audiosignal Masse
+
+
+
+5
+
+L
+
+Ausgang des linken Kanals
+
+
+
+6
+
+R
+
+Rechter Kanalausgang
+
+
+
+
+
+
+Bedienungsanleitung:
+
+
+
+Bluetooth V4.2-Version, unterstützt die automatische Bluetooth-Verbindungstechnologie, unterstützt verlustfreie WAV / WMA / FLAC / APE / MP3-Dekodierung und Stereo-Dual-Channel-Ausgabe.
+
+Nach dem Einschalten des Moduls sucht das Mobiltelefon nach dem Bluetooth-Namen MH-M18 / MH-M28 / MH-M38 und kann nach dem Herstellen einer Bluetooth-Verbindung Musik abspielen.
+
+
+
+Paket beinhaltet:
+
+	10 x M18 Module
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,145 @@
+1839030
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/D0/BB/2130e979-cc7f-4cfd-bc79-d166122afd56.jpg
+Interfaz Super USB MACH3 Placa de 100 kHz 4 controlador de interfaz de eje Controlador de movimiento Impresora 3D Tablero CNC
+https://es.banggood.com/Super-USB-interface-MACH3-100Khz-Board-4-Axis-Interface-Driver-Motion-Controller-3D-Printer-CNC-Board-p-1839030.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripciones: 1. Soporte para conexión de 4 ejes, puede conectar cuatro unidades de motor paso a paso o servoaccionamientos;2. La frecuencia máxima de pulso de paso es de 100 KHz, que es adecuada para el servomotor o motor paso a paso;3. Admite herramienta de sonda automática4. Apoyo a la entrada de emergencia5. Soporte para interruptor de límite6. Soporte para conectar volante electrónico7. Necesita utilizar una fuente de alimentación externa de 24 V CC para aislar el puerto USB y externo y hacer que el sistema sea más estable8. Tiene un puerto de salida de 0-10 V, puede usar el software mach3 para controlar la velocidad del motor del husillo.9. 4 entradas de uso general, puede conectar el interruptor de límite, interruptor de parada, interruptor de sonda, volver a cero y otro dispositivo10. 4 interfaz de salida de transmisión de relé aislada de propósito general, puede conducir cuatro relés para controlar los arranques del husillo, rotación hacia adelante y rotación inversa, bombas y otros dispositivos11. 1 LED de estado, indica el estado de la conexión en la placa El paquete incluye: 1 x tablero1 x cable USB1 x CDDetalles de la imagen:
+
+
+
+

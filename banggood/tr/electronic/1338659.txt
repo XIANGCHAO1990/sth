@@ -1,0 +1,345 @@
+https://tr.banggood.com/Nextion-NX8048K070_011C-7_0-Inch-Enhanced-HMI-Intelligent-Smart-USART-UART-Serial-TFT-LCD-Screen-Module-Display-Capacitive-Multi-Touch-Panel-With-Enclosure-p-1338659.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Nextion NX8048K070_011C 7.0 İnç Gelişmiş HMI Akıllı Akıllı USART UART Seri TFT LCD Ekran Modülü Ekran Kapasitif Çoklu-Dokunmatik Muhafazalı Panel
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+genel bakış:
+
+Bir muhafaza ile 7.0'' geliştirilmiş Nextion HMI dirençli/kapasitif dokunmatik ekran. Nextion ekran, daha güçlü özelliklere sahip yükseltilmiş bir LCD paneldir. İki model vardır: NX8048K070_011C ve NX8048K070_011R. NX8048K070_011C, muhafazalı güçlü bir 7,0'' HMI TFT kapasitif çoklu dokunmatik ekrandır, NX8048K070_011R ise muhafazalı dirençli dokunmatik paneldir. Her ikisi de 32MB Flash veri Depo alanı, 1024 bayt EEPROM, 8192 bayt RAM ile entegredir ve GPIO desteklenir.
+
+
+
+Nextion Ne Yapabilir?
+
+Gömülü sistem tasarımı sürecinde en can sıkıcı, zaman alıcı şeylerden biri insan-makine arayüz tasarımıdır. Kaygan bir çizelgeye veya kaygan grafiğe, hızlı sayfa tasarımlarına ihtiyacınız var, hızlı işleme için depolanmış kaynaklara ihtiyacınız var, cevabı muhteşem Nextion Ürün Hattında bulacaksınız.
+
+Nextion, donanım ve yazılımda açık ve standartlaştırılmış arayüzler kullanarak özel insan-makine arayüzü ihtiyaçlarınızı karşılamak için optimize edilmiştir ve bu da otomasyon sistemlerinize verimli entegrasyona olanak tanır.
+
+İnsan makine sistemleri, Görselleştirme, İnsan Etkileşimi, Biliş, Görsel algı, Makine zekası, Sibernetik, hatta robotik, HMI kavramlarının önemli bir rol oynadığı sadece birkaç örnektir.
+
+Nextion Hangi Değeri Getirebilir?
+
+Gömülü bir mühendis olarak, gömülü bir sistem için insan makine arayüzü tasarladığınız o eski günleri hatırlıyor musunuz? Düşük seviyeli tasarımda haftalar harcamanız gerekiyor.
+
+Nextion, tüm veri ve kontrol sinyalleri cihaz tarafından doğrudan ekrana arayüz sağlamak üzere sağlandığı için minimum tasarım çabasıyla çalışacak şekilde tasarlanmıştır. Bu, tasarımcıya geliştirme süresi ve maliyet tasarrufu açısından büyük avantaj sağlar ve düşük seviyeli tasarımın tüm yüklerini ortadan kaldırır.
+
+Nextion, haftalar değil saatler içinde hızlı bir şekilde görsel tasarım yapmanıza, uzun kodlama çalışmalarını makul bir maliyetle basit sürükle ve bırak işlemine dönüştürmenize yardımcı olacaktır. Tek ihtiyacınız olan, Nextion ekran donanımına bir seri bağlantı noktası arabirimidir.
+
+Demo kelimelerden daha yüksek sesle konuşuyor, işte size bir WYSIWYG tasarım IDE - Nextion Düzenleyici üzerinde itirazları sanal ekrana sürükleyip bırakarak bir uygulamanın ne kadar hızlı ve kolay bir şekilde tasarlanabileceğini gösteren başka bir video geliyor.
+
+
+
+Temel Nextion ekranlarla karşılaştırıldığında, geliştirilmiş olanlar, yerleşik RTC'yi destekleme, verileri Flash'a kaydetmeyi destekleme, GPIO'yu destekleme, daha büyük flash kapasitif ve daha büyük CPU saati gibi bazı yeni işlevler ekledi. 
+
+
+
+Özellikleri:
+
+
+
+Yerleşik RTC'yi destekler
+
+GPIO'ü destekler
+
+SD Kart arayüzü: maksimum 32G Micro TF/SD kartı destekler (FAT32 dosya formatı)
+
+Flash veri Depo alanı: 32MB
+
+EEPROM: 1024 bayt
+
+RAM: 8192 bayt
+
+Komut arabelleği: 1024 bayt
+
+Renk: 65K (65536) renk
+
+Çözünürlük: 800×480 piksel
+
+Ayarlanabilir Parlaklık: 0~230 nit- ayar aralığı %1'dir
+
+Certificates: CE/EMC, RoHS (certificates)
+
+
+
+
+Şartname:
+
+
+
+
+Boyutlar:
+
+
+
+
+
+Kolay kurulum:
+
+
+
+
+
+
+Belgeler:
+
+
+Please visit wiki Bu ürün hakkında daha fazla bilgi için sayfa. 
+
+
+Teknik Destek:
+
+
+For technical support, please open Nextion Forum.
+
+
+
+EK BİLGİ:
+
+
+
+
+
+
+
+
+
+
+Durdurulan
+
+Numara
+
+
+
+Wiki'yi bağla
+
+Numara
+
+
+
+Ekran çözünürlüğü
+
+800 x 480
+
+
+
+Ekran Arayüzü
+
+Seri
+
+
+
+Ekran Tip
+
+Dokunmatik ekran
+
+
+
+Ekran Denetleyicisi
+
+Numara
+
+
+
+TFT ekran arayüzü
+
+Yok
+
+
+
+Ekran Boyutu
+
+7,0”
+
+
+
+Yönetim Kurulu Boyutu
+
+181mm*108mm
+
+
+
+Genişletmek
+
+
+
+SD Kart Soket
+
+Dokunmatik ekran
+
+
+
+
+
+Ağırlık
+
+598 g
+
+
+
+
+
+
+Paket içeriği:
+
+1 x Nextion 7.0 İnç Gelişmiş Kapasitif Çoklu-Dokunmatik Panolu Pano
+1 x Mikro USB'den 2P Konektör Kartına
+1 x 4-Pin Grove Kablosu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,525 @@
+https://de.banggood.com/2Pcs-LILYGO-TTGO-LORA-SX1278-ESP32-0_96-OLED-Display-Module-16-Mt-Bytes-128-Mt-bit)-433Mhz-p-1270420.html?cur_warehouse=GWTR&ID=6314336&rmmds=CategoryElectronicsPop
+2Pcs Wemos® TTGO LORA SX1278 ESP32 0,96 OLED Modul 16 Mt Bytes (128 Mt Bit) 433Mhz für Arduino
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Produktbeschreibung:
+
+
+Die 433 MHz Antenne muss in Verbindung mit der IPEX-Schnittstelle verwendet werden (wenn die Antenne nicht angeschlossen ist, kann sie den LoRa-Chip beschädigen)
+Lithiumbatterie Lade- und Entladeschaltung, wenn die Batterie voll ist, hört der blaue LED auf zu arbeiten. Achten Sie bei der Verwendung auf den Plus- und Minuspol der Batterie, da sie sonst beschädigt wird.
+Mit dem IO-Port Touchscreen Touch-Signal-Eingang, müssen Sie die 100nF Pull-Down-Kondensator an diesem Pin hinzufügen!
+
+
+Beispiel:
+
+Dieses Produkt ist ein SX1278 Chip basierend auf ESP32 WIFI erhöhte OLED, nämlich LoRa Remote-Modem, 433MHz Frequenz, hohe Empfindlichkeit ist etwa -148dBm, + 20dBm Ausgangsleistung, hohe Zuverlässigkeit, lange Übertragungsdistanz.
+Die Onboard 16 Mt Bytes (128 Mt Bit), Wi-Fi-Antenne, 0,96 Zoll blau OLED-Display, Lithium-Batterie Ladeschaltung, CP2102 Schnittstelle und USB Serial-Chip, die perfekte Unterstützung für Arduino Entwicklungsumgebung, kann für Programmverifizierung und Produkt verwendet werden Entwicklung ist sehr einfach und schnell.
+Betriebsspannung: 3,3V bis 7V
+Betriebstemperaturbereich: -40 Grad C bis +90 Grad C
+Unterstützung für Sniffer, Station, SoftAP und Wi-Fi Direct Modi
+Datenraten: 150 Mbps @ 11n HT40, 72 Mbps @ 11n HT20, 54 Mbps @ 11g, 11 Mbps @ 11b
+Sendeleistung: 19,5 dBm bei 11b, 16,5 dBm bei 11 g, 15,5 dBm bei 11 n
+Empfängerempfindlichkeit bis zu -98 dBm
+UDP-Durchsatz von 135 Mbps
+
+
+
+
+
+
+
+
+
+Pinbezeichnung:
+
+
+
+For more product information, click https://drive.google.com/file/d/1L8ll-DeAC2SATBZn0-KbSaZsrinbnXkF/view
+
+
+
+Testdetails:
+
+
+
+
+
+
+
+
+
+
+
+Klicken Sie auf Links, um weitere Informationen zu erhalten: https://eyun.baidu.com/s/3hsiTNgg
+
+
+Zum Beispiel eins:
+
+(1) LoRaSender
+#Einschließen
+#Einschließen
+#Einschließen
+// GPIO5 - SX1278s SCK
+// GPIO19 - SX1278 MISO
+// GPIO27 - SX1278's MOSI
+// GPIO18 - SX1278's CS
+// GPIO14 - SX1278 ist RESET
+// GPIO26 - SX1278s IRQ (Interrupt Request)
+
+#Define SS 18
+#Define RST 14
+#Define DI0 26
+#Define BAND 433E6
+Int Zähler = 0;
+
+Void setup () {
+PinMode (25, AUSGABE); // Sende Erfolg, LED wird hell 1 Sekunde
+
+Serial.begin (115200);
+While (! Seriell); // Wenn nur die Grundfunktion, muss eine Verbindung zu einem Computer herstellen
+
+SPI.begin (5,19,27,18);
+LoRa.setPins (SS, RST, DI0);
+// Serial.println ("LoRa Sender");
+
+If (! LoRa.Anfang (BAND)) {
+Serial.println ("Starting LoRa failed!");
+Während (1);
+}
+Serial.println ("LoRa Initial OK!");
+}
+
+Void loop () {
+Serial.print ("Sendepaket:");
+Serial.println (Zähler);
+
+// Paket senden
+LoRa.beginPacket ();
+LoRa.print ("Hallo");
+LoRa.print (Zähler);
+LoRa.endPacket ();
+
+Zähler ++;
+DigitalWrite (25, HOCH); // Schalten Sie den LED ein (HIGH ist der Spannungspegel)
+Verzögerung (1000); // warte kurz
+DigitalWrite (25, LOW); // Schalten Sie den LED aus, indem Sie die Spannung auf NIEDRIG stellen
+Verzögerung (1000); // warte kurz
+
+Verzögerung (3000);
+}
+
+Zum Beispiel Zwei
+(2) LoRaReceiver
+#Einschließen
+#Einschließen
+
+
+// GPIO5 - SX1278s SCK
+// GPIO19 - SX1278 MISO
+// GPIO27 - SX1278's MOSI
+// GPIO18 - SX1278's CS
+// GPIO14 - SX1278 ist RESET
+// GPIO26 - SX1278s IRQ (Interrupt Request)
+
+#Define SS 18
+#Define RST 14
+#Define DI0 26
+#Define BAND 433E6
+
+Void setup () {
+Serial.begin (115200);
+While (! Seriell); // Wenn nur die Grundfunktion, muss eine Verbindung zu einem Computer herstellen
+Verzögerung (1000);
+
+Serial.println ("LoRa-Empfänger");
+
+SPI.begin (5,19,27,18);
+LoRa.setPins (SS, RST, DI0);
+
+If (! LoRa.Anfang (BAND)) {
+Serial.println ("Starting LoRa failed!");
+Während (1);
+}
+}
+
+Void loop () {
+// Versuche das Paket zu parsen
+Int Paketgröße = LoRa.parsePacket ();
+If (Paketgröße) {
+// Habe ein Paket erhalten
+Serial.print ("Empfangenes Paket");
+
+// Paket lesen
+While (LoRa.available ()) {
+Serial.print ((char) LoRa.read ());
+}
+
+// RSSI von Paket drucken
+Serial.print ("mit RSSI");
+Serial.println (LoRa.packetRssi ());
+}
+}
+
+Zum Beispiel drei
+(3) LoRaReceiverCallback
+#Einschließen
+#Einschließen
+
+
+
+// GPIO5 - SX1278s SCK
+// GPIO19 - SX1278 MISO
+// GPIO27 - SX1278's MOSI
+// GPIO18 - SX1278's CS
+// GPIO14 - SX1278 ist RESET
+// GPIO26 - SX1278s IRQ (Interrupt Request)
+
+#Define SS 18
+#Define RST 14
+#Define DI0 26
+#Define BAND 433E6
+
+Void setup () {
+Serial.begin (115200);
+While (! Seriell); // Wenn nur die Grundfunktion, muss eine Verbindung zu einem Computer herstellen
+
+SPI.begin (5,19,27,18);
+LoRa.setPins (SS, RST, DI0);
+
+Serial.println ("LoRa-Empfänger-Rückruf");
+
+If (! LoRa.Anfang (BAND)) {
+Serial.println ("Starting LoRa failed!");
+Während (1);
+}
+
+// Registriere den Empfangsrückruf
+LoRa.onReceive (onReceive);
+
+// Setze das Radio in den Empfangsmodus
+LoRa.receive ();
+}
+
+Void loop () {
+// Nichts tun
+}
+
+Void onReceive (int Paketgröße) {
+// Habe ein Paket erhalten
+Serial.print ("Empfangenes Paket");
+
+// Paket lesen
+Für (int i = 0; i Serial.print ((char) LoRa.read ());
+}
+
+// RSSI von Paket drucken
+Serial.print ("mit RSSI");
+Serial.println (LoRa.packetRssi ());
+}
+In der Tat
+Zum Beispiel vier
+#Einschließen // Wird nur für Arduino 1.6.5 und früher benötigt
+#Einschließen "SSD1306.h" // Alias In der TatIn der Tatfür `#Einschließen" SSD1306Wire.h "`
+#Einschließen "Bilder.h"
+
+// OLED-Pins zu ESP32 0.96OLEDGPIOs über dieses connecthin:
+// OLED_SDA - GPIO4
+// OLED_SCL - GPIO15
+// OLED_RST - GPIO16
+
+SSD1306 Anzeige (0x3c, 4, 15);
+
+#Definiere DEMO_DURATION 3000
+Typedef void (* Demo) (void);
+Int demoMode = 0;
+Int Zähler = 1;
+
+Void setup () {
+PinMode (16, AUSGABE);
+DigitalWrite (16, LOW); // Setze GPIO16 niedrig, um OLED zurückzusetzen
+Verzögerung (50);
+DigitalWrite (16, HOCH); // während OLED läuft, muss GPIO16 auf high gesetzt werden
+
+Serial.begin (115200);
+Serial.println ();
+Serial.println ();
+
+
+// Durch das Initialisieren der Benutzeroberfläche wird auch die Anzeige gestartet.
+Display.init ();
+
+Display.flipScreenVertically ();
+Display.setFont (ArialMT_Plain_10);
+
+}
+
+Leere drawFontFaceDemo () {
+// Schriftart Demo1
+// Erstellen Sie mehr Schriftarten auf http://oleddisplay.squix.ch/
+Display.setTextAlignment (TEXT_ALIGN_LEFT);
+Display.setFont (ArialMT_Plain_10);
+Display.drawString (0, 0, "Hallo Welt");
+Display.setFont (ArialMT_Plain_16);
+Display.drawString (0, 10, "Hallo Welt");
+Display.setFont (ArialMT_Plain_24);
+Display.drawString (0, 26, "Hallo Welt");
+}
+
+Void drawTextFlowDemo () {
+Display.setFont (ArialMT_Plain_10);
+Display.setTextAlignment (TEXT_ALIGN_LEFT);
+Display.drawStringMaxWidth (0, 0, 128,
+"Lorem ipsumn dolor sit amet, consetetur sadipscing elitr, séd diam nonumy eirmod tempor invidutunt ut labore." );
+}
+
+Void drawTextAlignmentDemo () {
+// Textausrichtung Demo
+Display.setFont (ArialMT_Plain_10);
+
+// Die Koordinaten definieren den linken Startpunkt des Textes
+Display.setTextAlignment (TEXT_ALIGN_LEFT);
+Display.drawString (0, 10, "linksbündig (0,10)");
+
+// Die Koordinaten definieren die Mitte des Textes
+Display.setTextAlignment (TEXT_ALIGN_CENTER);
+Display.drawString (64, 22, "Center aligned (64,22)");
+
+// Die Koordinaten definieren das rechte Ende des Textes
+Display.setTextAlignment (TEXT_ALIGN_RIGHT);
+Display.drawString (128, 33, "Rechtsbündig (128,33)");
+}
+
+Void drawRectDemo () {
+// Zeichne ein Pixel an einer bestimmten Position
+Für (int i = 0; i <10; i ++) {
+Display.setPixel (i, i);
+Display.setPixel (10 - i, i);
+}
+Display.drawRect (12, 12, 20, 20);
+
+// Fülle das Rechteck
+Display.fillRect (14, 14, 17, 17);
+
+// Zeichne eine Linie horizontal
+Display.drawHorizontalLine (0, 40, 20);
+
+// Zeichne eine Linie horizontal
+Display.drawVerticalLine (40, 0, 20);
+}
+
+Void drawCircleDemo () {
+Für (int i = 1; i <8; i ++) {
+Display.setColor (WEISS);
+Display.drawCircle (32, 32, i * 3);
+If (i% 2 == 0) {
+Display.setColor (SCHWARZ);
+}
+Display.fillCircle (96, 32, 32 - i * 3);
+}
+}
+Void drawProgressBarDemo () {
+Int progress = (Zähler / 5)% 100;
+// Zeichne den Fortschrittsbalken
+Display.drawProgressBar (0, 32, 120, 10, Fortschritt);
+
+// Zeichne den Prozentsatz als String
+Display.setTextAlignment (TEXT_ALIGN_CENTER);
+Display.drawString (64, 15, String (Fortschritt) + "%");
+}
+
+Void drawImageDemo () {
+// Siehe http://blog.squix.org/2015/05/esp8266-nodemcu-how-to-create-xbm.html
+// Zum Erstellen von xbm-Dateien
+Display.drawXbm (34, 14, WiFi_Logo_width, WiFi_Logo_height, WiFi_Logo_bits);
+}
+
+Demo-Demos [] = {drawFontFaceDemo, drawTextFlowDemo, drawTextAlignmentDemo, drawRectDemo, drawCircleDemo, drawProgressBarDemo, drawImageDemo};
+Int demoLength = (sizeof (demos) / sizeof (Demo));
+Lang timeSinceLastModeSwitch = 0;
+
+Void loop () {
+// Lösche die Anzeige
+Display.clear ();
+// Zeichne die aktuelle Demo-Methode
+Demos [demoMode] ();
+
+Display.setTextAlignment (TEXT_ALIGN_RIGHT);
+Display.drawString (10, 128, String (millis ()));
+// Schreibe den Puffer in die Anzeige
+Display.display ();
+
+If (millis () - timeSinceLastModeSwitch> DEMO_DURATION) {
+DemoMode = (demoMode + 1)% demoLength;
+TimeSinceLastModeSwitch = millis ();
+}
+Zähler ++;
+Verzögerung (10);
+}
+
+
+Hinweis: Dieses Produkt enthält nicht die Batterie.
+
+
+Lieferinhalt:
+
+
+2 x ESP32 OLED
+
+
+2 x Line
+
+
+4 x Stift
+
+
+2 x 433 m Federantenne
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

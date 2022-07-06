@@ -1,0 +1,179 @@
+945769
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/4F/7A/ece2dcfc-1651-408c-82e4-18bbc65bd0c8.jpg
+V139 Araba Teşhis Tarayıcı Parçalar Renault Klip için Çok Langauges Arayüzü 
+https://tr.banggood.com/V139-Car-Diagnostic-Scanner-Tool-Multi-Langauges-Interface-for-Renault-Clip--p-945769.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+İşlev:
+Araca ilişkin tüm bilgilere bakın
+Bilgisayar testi
+Tüm bilgisayarların otomatik testi
+Hava yastığı testi
+Ccantool (OBD testleri)
+Temel Doküman (Teknik Notlara Erişim)
+Fiziksel ölçümler
+Kirlenme karşıtı
+Multimetre
+
+Renault nasıl kırılır Can Clip:
+1). Kurulum tamamlandıktan sonra CLIP'NİZİ YAPMAYIN!
+     1. orijinal dosyayı değiştirin (ilk önce orijinal RSRwin.exe dosyasını yedekleyin) C'deki RSRwin.exe dosyasını değiştirin: CLIP_X91LibApplication
+2). Ardından RSRwin.exe'yi çalıştırın, "Beni şimdi kaydet" i seçin ve sonraki pencerede "Hayır" ı seçin!
+3). Kayıt İçin Bu Anahtarı kullanın: 333DEF-111DEF-111DEF-222DEF-221DEF-000DEF, 31/12/2020 tarihine kadar çalışacak :)
+4). Orijinal RSRWin.exe'yi kurtarma
+5). Güncelleştirmeyi çalıştır 139
+
+Renault CAN Clip set içerir:
+1 x CAN Klip Arabirimi
+CAN Clip - Araba bağlantısı için 1 x 16 Pinli kablo
+CAN Clip - Araba bağlantısı için 1 x 12 Pinli kablo
+1 x CAN Klip Kablosu - PC bağlantısı
+1 x Yazılım CD'si 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

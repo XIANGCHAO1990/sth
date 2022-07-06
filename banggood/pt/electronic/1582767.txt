@@ -1,0 +1,365 @@
+https://pt.banggood.com/Creality-3D-Ender-5-Plus-3D-Printer-Kit-350+350+400mm-Large-Print-Size-Dual-Z-Axis-or-Auto-Bed-Leveling-Pre-Installed-p-1582767.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Creality 3D® Ender-5 Plus 3D Printer Kit 350*350*400mm Large Print Size Dual Z-Axis/Auto Bed Leveling Pre-Installed
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▶ Dicas quentes: já não está incluído o cartão SD e o disco USB. ▶ ⇬ Fazer download do arquivo: 
+
+1. Ender 5 Plus Firmware Flashing (BLTouch Fix) Vider: Clique aqui2. Ender-5 Plus tutorial de impressão de nivelamento automático3. O que devo fazer se a Ender-5Plus não imprimir e a garganta estiver bloqueada?4. Arquivo do cartão SD▶ Visão geral: Grande Formato 350x350x400mm | Eixo Z duplo | Nivelamento automático da cama pré-instalado▶ Recursos:
+
+
+
+● Impressora 3D Cube Frame: Quadro de cubo muito sólido. Caixa Design com pórtico suspenso. A impressora Criatividade Ender-5 Plus 3D é a versão maior da impressora Criatividade Ender Série 5 3D, com a mesma estrutura de cubo sólido de design cúbico.   Formato de impressão ultra grande: 350X350X400mm. Atenda a mais requisitos de impressão. Sua ideia não deve ser confinada. Obtenha melhores resultados de impressão e um modelo de impressão maior por vez.
+
+
+●Nivelamento automático da cama pré-instalado: Com o BL Touch configurado. Basta conectá-los e começar a imprimir! Ele pode medir com precisão a inclinação da superfície da cama, oferece compensação automática para o eixo Z para irregularidades da placa da plataforma, fácil de resolver a falha de impressão causada pela irregularidade da plataforma, e fornecer operação confiável com todas as superfícies de construção.
+
+● A função padrão de impressão de retomada de desligamento e de detecção de esgotamento do filamento evita falhas de impressão causadas por falha de energia, corte de material.
+
+
+
+● Eixo Z duplo: Eixo Z de precisão Acionamento do parafuso de avanço suavemente. O movimento da placa de construção será mais estável. 
+
+
+
+
+
+
+
+
+
+
+
+
+Especificações
+
+
+
+Marca
+
+Criatividade
+
+
+
+Modelo
+
+Ender-5 Plus
+
+
+
+Método de impressão
+
+FDM
+
+
+
+Precisão de impressão
+
+±0,1 mm
+
+
+
+Espessura da camada
+
+0.1-0.4mm
+
+
+
+Diâmetro do bocal
+
+0.4mm
+
+
+
+Precisão de posicionamento do eixo XY
+
+0.012mm
+
+
+
+Precisão de posicionamento do eixo Z
+
+0.001mm
+
+
+
+Temperatura do bico
+
+≤260℃
+
+
+
+Temperatura da cama quente
+
+≤110℃
+
+
+
+Modo operacional
+
+cartões on-line ou TF são impressos off-line
+
+
+
+formato de arquivo
+
+STL,OBJ,amf
+
+
+
+Software de fatiamento
+
+Criatividade Slicer/Cura/Repetier-Host/Simplify3D
+
+
+
+Parâmetro de potência
+
+Entrada: 100-240V AC;Saída:DC 24V 21A;Max25A
+
+
+
+Fonte de energia
+
+350W MEANWELL
+
+
+
+Potência da máquina
+
+550W Max
+
+
+
+Material de impressão
+
+PLA/ABS/Soft Cola/madeira/cobre contendo/filamento de gradiente, etc.
+
+
+
+Diâmetro do consumível
+
+1.75mm
+
+
+
+Tensão nominal
+
+115V/230V 50/60Hz
+
+
+
+Tensão de saída de energia
+
+24V
+
+
+
+Energia da cama quente
+
+460W
+
+
+
+Tipo de painel de controle
+
+2560
+
+
+
+Parâmetros do motor
+
+Motor de passo 42-40, motor de passo 42-34, ângulo de passo 1,8°
+
+
+
+Movido a motor
+
+A4988 16 subdivisão
+
+
+
+Mostrar
+
+4,3 polegadas LCD tela sensível ao toque
+
+
+
+Sistema operacional do computador
+
+Windows XP / Vista / 7/10 MACLinux
+Firmware FlashUSB
+
+
+Tamanho da máquina
+
+Comprimento 632 largura 666 altura 619
+
+
+
+Dimensões da embalagem
+
+Tamanho externo L730*W740*H310
+
+
+
+Peso bruto da máquina
+
+23.8KG
+
+
+
+Peso líquido da máquina
+
+18.2KG
+
+
+
+Fonte de energia
+
+Plug padrão da UE (padrão)
+
+
+
+
+Incluído no Pacote:
+
+1 x Ender-5 Plus Kit de impressora 3D
+
+
+
+
+

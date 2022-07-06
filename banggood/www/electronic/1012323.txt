@@ -1,0 +1,214 @@
+https://www.banggood.com/Geekcreit-12V-4CH-Channel-433Mhz-Wireless-Remote-Control-Switch-With-2-Transmitter-p-1012323.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® 12V 4CH Channel 433Mhz Wireless Remote Control Switch With 2 Transmitter
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: If you need more transmitter, please search 1018573
+This product does not supply any instructions, please reference the description.
+This version does not support copy code function, please note about this before you order it.
+
+Features:
+
+It is a learning code wireless remote control switch (receiver), the output way /working way can be changed as you like, it is easy to match the transmitter. It has 4 Relays which can make the equipment turn or reverse, on/off and so on come true. The volume is small and the performance is stable and reliable, high receive sensitivity.
+
+1. It covers application ranging from simple domestic remote control to autonomous control, like auto door, window, lifting equipment, entrance access, up and down controller, alarm system industrial control and security etc.
+2. These remote controls are designed to control a wide variety of electronic devices with a wireless signal.
+3. Extremely easy to set up and use.
+4. Compatible with 2262 / 2260 / 1527 / 2240 etc chip and several code wireless remote control. So it can meet someone's need of choosing the wireless remote control as they like to work with it .
+
+Instructions:
+
+1. Press the learning code, the indicator flash, loosen your finger, press any button of the remote control, the indicator flash 2 times and off, it means you learn it successfully .
+2. It can learn more than 12 PCS 2262 or 1527 chip with the different code wireless remote control.
+3. remove/clean: press the learning button about 8 seconds , the indicator turn on to off, it means the information that you keep have been removed successfully.
+
+Output working way:
+
+1. Self-lock: connect the JP1 with the cutting out cap.
+2. Jog: the cutting-out cap is non-occupation, JP1 and JP2 do not connect either.
+3. Inter-lock: Connect the Jp2 with the Cutting out cap,
+Jog: press one button is ON, loosen your finger on the same button is OFF (need one channel switch and one buttons remote control).
+Self -lock: press one button for one time is ON, press the same button again is OFF (need one channel switch and one buttons remote control).
+Inter-lock: press one button is ON, press another button is OFF (need one channel switch and 2 buttons remote control).
+
+Receiver:
+
+1. Working voltage: DC12V
+2. Quiescent condition: Less than 6mA
+3. Working temperature: -40°c+80°c
+4. Receiver sensitivity: more than -105dBm
+5. Working frequency: 433mhz
+6. Output voltage: DC and AC is optional
+7. Output current: Less than 3A
+8. Max load current: 10A
+9. Dimensions: 72 x 52 x 26mm
+ 
+Remote control transmitter:
+
+1. Remote Distance: 200M
+2. Operating Voltage: DC 6V
+3. Frequency: 433mhz
+4. Operating Current: 13 mAh
+5. Code Type: Fixed code / Learning code
+6. Dimensions: 58 x 39 x 14mm
+7. Used battery type: 2016 button battery
+
+Package included:
+
+2 x Transimitter
+1 x Receiver
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

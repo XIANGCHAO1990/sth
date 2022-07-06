@@ -1,0 +1,145 @@
+1803740
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/8A/6E/d79ef493-534d-4417-bd7b-ed88bec4be29.jpg
+Fan'ensheng mis à niveau 3018 Pro CNC graveur bricolage 3 axes GRBL gravure sur bois Machine bois routeur Cutter
+https://fr.banggood.com/Fanensheng-Upgraded-3018-Pro-CNC-Engraver-DIY-3Axis-GRBL-Woodworking-Engraving-Machine-Wood-Router-Cutter-p-1803740.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristique:1. Conçu pour CNC: Un excellent outil pour la CNC d'entrée. Capable de graver facilement du texte sur des matériaux quotidiens. Idéal pour ceux qui s'intéressent à la CNC, vous aidant à graver le modèle efficacement.2. Contrôle GRBL: Dernier système de contrôle différent des autres anciens systèmes de contrôleur qui n'ont plus été mis à niveau. Pas besoin d'accessoires supplémentaires. Transformez simplement votre ordinateur en une machine CNC.3. Compatible avec différents modules laser de 2500mW, 5500mW, 7000mW, 10000mW (lasers non inclus), plus qu'une simple machine de gravure mais aussi un graveur laser.(Maintenant, nous recommandons le module laser (module laser bleu 2500mW) produit par le fabricant d'origine: ID: 1386316）4. Large application: Avec des manuels et des logiciels adaptés à sculpter le bois, le plastique, l'acrylique, le PCB CCL, métal doux comme le cuivre et l'aluminium et d'autres matériaux, un excellent outil pour les amateurs de CNC.5. Système d'exploitation pris en charge : Windows XP, Windows 7 32/64 bits, Windows 8, Windows 106. Forets : pointe de 0,2 mm, 20 degrés, diamètre de 3,175 mmCaractéristique:1. Prise en charge du micrologiciel GRBL et benbox. Prise en charge de la machine de gravure laser 3 axes CNC.2. La longueur de course n'est pas limitée à 30x18 et 24x18, elle peut définir une autre longueur. Veuillez définir le trait dans la commande.Par example3018, veuillez définir le trait dans la commande, 30 cm de longueur et 18 cm de largeur ;2418, veuillez définir le trait XY dans la commande, longueur 24 cm, largeur 18 cm.Spécification de la machine :Style3018 PRO Mdimensions du produit10,9 x 16,7 x 10,9 cmZone de gravure efficace300 x 180 x 45 mm (11,8 x 7,1 x 1,8")Poids de l'article6 kgMatérielMétalMoteur pas à pas1,3 A, 12 V, couple de 1 738 900 Nm (2,2 in-lb)Puissance nominale60WPuissance maximum120WSoftwearSystèmes de contrôle GRBL / Systèmes de contrôle LasergrblSpécification du contrôleur :Câble USB Longueur20cmMicrologiciel    GRBL 08, 09, 1.1 et ainsi de suite Tension d'entréeDC 7 V à 36 VRouteur CNC applicable  Routeur CNC 3 axes 1610; 2418; 3018                     Instruction:Carte de contrôle GRBL à 3 axesSignal de sortie:1 : Ventilateur : Utilisé pour le refroidissement du moteur de l'arbre2 : arbre : connectez l'arbre du moteur, conservez la même tension d'alimentation, 5A électricité, si la puissance du moteur de la broche est élevée, vous pouvez connecter des relais externes tels que l'interrupteur. Le code G M3 ouvert, M5 fermé, avec la version 0.9 du firmware peut ajuster PWM, atteindre la vitesse de l'axe régissant et accordable laser3: sortie du signal du moteur de l'axe X, courant électrique A4988 max 1,5A4: sortie du signal du moteur de l'axe Y, courant électrique A4988 max 1,5A5: sortie de signal de moteur d'axe Z, courant électrique A4988 max 1.5ASignal d'entrée :1 : Limite minimale de l'axe X X-2 : Limite minimale de l'axe Y Y-3 : Limite minimale de l'axe Z Z-4 : Bouton de réinitialisation : appuyez sur le bouton, le système redémarrera, peut être utilisé pour un arrêt urgent de la machine.Packgae inclus :1 x ensemble complet de machine à graver sur bois (livraison non assemblée)1 carte de commande GRBL 3 axes1 câble USB.1 x câble pour la connexion de la broche(Le moteur de broche, la carte de commande, l'ensemble ZA xis, les moteurs pas à pas et d'autres pièces d'assemblage sont tous inclus.)Instructions et logiciel : instructions de montage, logiciel de contrôle et autres informations, veuillez CLIQUEZ ICI 
+
+
+
+

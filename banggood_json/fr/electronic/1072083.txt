@@ -1,0 +1,183 @@
+1072083
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/28/68/7bcd8386-f581-4161-9cdf-0e39128541ab.jpg
+MAX7219 Microcontrôleur 4-en-1 Module d'Affichage à Matrice de Points pour Arduino
+https://fr.banggood.com/MAX7219-Dot-Matrix-Module-4-in-1-LED-Display-Module-p-1072083.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MAX7219 Microcontrôleur 4-en-1 Module d'Affichage à Matrice de Points pour Arduino
+
+Caractéristiques:
+
+Un seul module peut conduire une matrice de points de 8x8 cathode commune
+Tension de fonctionnement: 5V
+Taille du module: 12.8 x 3.2 x 1.3 cm (L*W*H)
+Avec 64 trous de fixation à vis, diamètre du trou: 3mm
+Module avec des interfaces d'entrée et de sortie, le soutien à plusieurs modules en cascade
+
+Câblage:
+
+1. Le côté gauche du module est le port d'entrée, et la droite est le port de sortie.
+2. Le contrôle d'un seul module, le port d'entrée seulement besoin de recevoir une unité centrale de traitement.
+3. Plus une extrémité module cascade et l'entrée du premier module est relié à l'extrémité d'unité centrale de traitement et l'entrée de l'extrémité d'entrée de l'extrémité de sortie est reliée au second module, la borne de sortie du deuxième module connecté avec les trois modules, etc. .
+Par exemple : 51 SCM
+VCC → 5V
+GND → GND
+DIN → P2.2
+CS → P2.1
+CLK → P2.0
+
+Emballage inclut:
+
+1 x MAX7219 Module de Matrice de Points
+1 x Câble Dupont 5pin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,
+
+

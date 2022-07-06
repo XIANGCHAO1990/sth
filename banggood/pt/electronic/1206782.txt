@@ -1,0 +1,204 @@
+https://pt.banggood.com/2_8-Inch-ILI9341-240x320-SPI-TFT-LCD-Display-Touch-Panel-SPI-Serial-Port-Module-p-1206782.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+2.8 Inch ILI9341 240x320 SPI TFT LCD Display Touch Panel SPI Serial Port Module
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Download do arquivo: http://files.banggood.com/2017/12/2.8-spi-9341.zip
+
+Especificações:
+
+
+
+Tipo: Touch Panel
+
+Tela: Serial SPI 2.8 "
+
+Área de exibição: 46 (W) X 65 (A) mm
+
+Tamanho: 86 x 50 mm
+
+Elemento condutor: matriz ativa a-Si TFT
+
+Arranjo de pixels: faixa vertical RGB
+
+Driver IC: ILI9341
+
+Luz de fundo: Branco LED
+
+Direção de visão: 6 horas
+
+Profundidade de cor: 262K / 65K
+
+Resolução (pontos): 240RGB * 320Dots
+
+5 V compatível, use com lógica de 3,3 V ou 5 V
+
+Precisa de pelo menos 4 IOs de seu MCU
+
+Com placa PCB (incluindo fonte de alimentação IC, SD), compatível com interface 5110
+
+
+
+Incluído no Pacote:
+
+
+
+1 x 2,8 "TFT LCD Módulo de painel de toque de exibição
+	1 x caneta de toque
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

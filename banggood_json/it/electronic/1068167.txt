@@ -1,0 +1,176 @@
+1068167
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/3D/C3/15b33a69-e38a-4834-8bfb-2af915689146.jpg
+Geekcreit® 0.95 Pollici 7 Pin Colore Pieno 65K Colore SSD1331 SPI OLED Display per Arduino
+https://it.banggood.com/0_95-Inch-7pin-Full-Color-65K-Color-SSD1331-SPI-OLED-Display-p-1068167.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File download: Click per aprire
+
+Caratteristica:
+
+Dimensione: 0,95 pollici
+Risoluzione: 96 * 64
+Drive IC: SSD1331
+Colore: 65536 colore
+Interfaccia: interfaccia SPI
+Numero di PIN: 7Pin
+Tensione: 3.3V - 5V
+
+Descrizione pin:
+
+GND: terra di potenza
+VCC: alimentazione da 2.8-5.5V
+D0: orologio CLK
+D1: dati MOSI
+RST: azzerare
+DC: dati/comando
+CS: segnale di selezione del chip
+
+La confezione include:
+
+1 x OLED da 0,95 Pollici 7 perni
+
+
+
+
+
+
+
+
+,,
+
+

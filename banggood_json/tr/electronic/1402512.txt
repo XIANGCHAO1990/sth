@@ -1,0 +1,425 @@
+1402512
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/2D/14/ac6487ba-1072-41b1-910a-030ca7ecc9ab.jpg
+Baofeng UV-9R Plus Yükseltme Sürümü İki Yönlü Radyo VHF UHF Walkie Talkie Su Geçirmez CB Ham için
+https://tr.banggood.com/Baofeng-UV-9R-Plus-Upgrade-Version-Two-Way-Radio-VHF-UHF-Walkie-Talkie-Waterproof-for-CB-Ham-p-1402512.html?cur_warehouse=CN&ID=533245&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikleri :
+
+
+
+1) IP68 su geçirmez ve toz geçirmez (Dalış değil) 
+
+2) Yeniden Yönlendirme Onaylandı (1750 HZ) 
+
+3) İkili Bant, İkili Ekran ve İkili Bekleme 
+
+4) Yüksek ve Düşük Güç Değiştirme 
+
+5) Batarya Tasarruf 
+
+6) V0X İşlevi 
+
+7) Geniş / Dar Band Seçimi 
+
+8) Otomatik Arka Işık 
+
+9) İkili Band Bekleme 
+
+10) Zaman Aşımı Zamanlayıcısı (TOT) 
+
+11) 50 CTCSS ve 104 DCS Kodu 
+
+12) Sesli Mesaj 
+
+13) ANI Kodu 
+
+14) PC veya Manuel Program 
+
+15) DTMF Kodu 
+
+16) PTT-ID 
+
+17) ATUO Tuş Takımı Kilit 
+
+18) Meşgul Kanal Kilit Fonksiyonu 
+
+19) Düşük Batarya Uyarı 
+
+20) Acil Durum Alarmı 
+
+21) Priory Tarama İşlevi 
+
+22) U / V Cross Band İkili İzle 
+
+
+
+Şartname :
+
+
+
+
+
+
+Genel
+
+
+
+Frekans Aralığı
+
+VHF: 136-174 MHz UHF400-520 MHz
+
+
+
+Kanal Kapasitesi
+
+128
+
+
+
+Kanal aralığı
+
+25KHz / 12.5KHz
+
+
+
+Anten Empedansı
+
+50Ω
+
+
+
+Mikrofon Empedansı
+
+600Ω
+
+
+
+Çalışma Volt
+
+7,4V DC ±% 15
+
+
+
+Frekans Kararlılığı
+
+± 2.5 ppm
+
+
+
+Batarya
+
+1500mAh (Polimer Li-ion)
+
+
+
+Amerikan Askeri Standardı ile Uyumlu (Mil-STD-810C / D / E)
+
+
+
+Verici (EIA-RS 316B STANDARDI)
+
+
+
+RF Güç Çıkışı
+
+8W
+
+
+
+Modülasyon Tip
+
+FM Radyo (65.0MHz-108.0MHz)
+
+
+
+Modülasyon Hassasiyeti
+
+<15µV
+
+
+
+Modülasyon Bozulması
+
+≤% 3
+
+
+
+Maksimum Frekans Sapması
+
+<5KHz
+
+
+
+İşgal Edilen Bant Genişliği
+
+≤16KHz
+
+
+
+Modülasyon Özelliği
+
+± 3dB
+
+
+
+Sahte Radyasyon
+
+≤7.5μW
+
+
+
+Bitişik Kanal Gücü
+
+≤-65dB
+
+
+
+Alıcı
+
+
+
+Hassasiyet (12db SINAD)
+
+≤0.15μ (12dB S / G)
+
+
+
+Susturma Hassasiyeti
+
+≤0.1μV
+
+
+
+Ses Güç çıkışı
+
+1W / 16Ω
+
+
+
+Sesli Yanıt
+
+-6
+
+
+
+Operasyon Bant Genişliği
+
+> 5KHz
+
+
+
+Ortak Kanal Reddi
+
+≥-8dB
+
+
+
+Engelleme
+
+≥85dB
+
+
+
+Bitişik Kanal Seçiciliği
+
+≥65dB
+
+
+
+Bekleme akımı
+
+60mA, 15mA
+
+
+
+Sahte Reddetme
+
+≥60dB
+
+
+
+İntermodülasyon Direnci
+
+≥60dB
+
+
+
+
+
+
+Paket içeriği:
+
+
+
+1 x Baofeng BF-UV9R Plus Radyo 
+
+1 x Anten 
+
+1 x Li-ion pil takımı
+
+1 x Kemer klips
+
+1 x Askı
+		1 x Güç Şarj Cihazı
+
+1 x Kullanım kılavuzu
+
+
+
+Detaylar resimler:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

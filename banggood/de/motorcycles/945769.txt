@@ -1,0 +1,177 @@
+https://de.banggood.com/V139-Car-Diagnostic-Scanner-Tool-Multi-Langauges-Interface-for-Renault-Clip--p-945769.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+V139 Auto-Diagnosescanner-Tool Multi-Langauges-Schnittstelle für Renault Clip 
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Funktion:
+Alle Informationen zum Fahrzeug anzeigen
+Computertest
+Automatischer Test aller Computer
+Airbag-Test
+Ccantool (OBD-Tests)
+Basisdokument (Zugang zu technischen Notizen)
+Körperliche Messungen
+Gegen Verschmutzung
+Multimeter
+
+So knacken Sie Renault Can Clip:
+1). Führen Sie Ihren CLIP nach Abschluss der Installation NICHT mehr aus !!!
+     Ersetzen Sie zuerst die ursprüngliche Datei (sichern Sie zuerst Ihre ursprüngliche RSRwin.exe) durch die RSRwin.exe-Datei in C: CLIP_X91LibApplication
+2). Führen Sie dann RSRwin.exe aus, wählen Sie "Jetzt registrieren" und im nächsten Fenster "Nein"!
+3). Verwenden Sie diesen Schlüssel für die Registrierung: 333DEF-111DEF-111DEF-222DEF-221DEF-000DEF, funktioniert bis zum 31.12.2020 :)
+4). Stellen Sie die ursprüngliche RSRWin.exe wieder her
+5). Führen Sie das Update 139 aus
+
+Das Renault CAN Clip Set beinhaltet:
+1 x CAN-Clip-Schnittstelle
+1 x 16 Pin Kabel für CAN Clip - Car Verbindung
+1 x 12 Pin Kabel für CAN Clip - Car Verbindung
+1 x Kabel für CAN Clip - PC Verbindung
+1 x Software-CD 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

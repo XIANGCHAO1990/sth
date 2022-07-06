@@ -1,0 +1,202 @@
+42826
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/39/33/6dcd2713-7457-432c-b7f9-da3b9fda0498.jpg
+Geekcreit® L298N Scheda Doppia H del Conducente del Motore Passo a Passo per Arduino
+https://it.banggood.com/Wholesale-L298N-Dual-H-Bridge-Stepper-Motor-Driver-Board-p-42826.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+
+
+
+
+
+Doppia unità ponte H
+Chip: L298N (ST NEW)
+Tensione logico: 5V
+Tensione di pilotaggio: 5V-35V
+Corrente logica : 0 mA-36mA
+
+
+Corrente di azionamento: 2A (Ponte unico massimo)
+
+
+Temperatura di stoccaggio: da -20 a +135
+
+
+Potenza massima: 25W
+
+
+Peso: 30g
+
+
+Dimensione: 43 x 43 x 27mm
+
+
+
+
+Note:
+
+
+
+
+
+
+Questo modulo ha un 5v alimentazione elettrica incorporata, quando la tensione di guida è 7v-35v, questa fornitura è adatta per l'alimentazione elettrica, NON la tensione di ingresso a +5V di alimentazione di interfaccia, tuttavia girando fuori 5v per l'uso esterno è disponibile.
+Quando ENA abilita IN1 IN2 il comando OUT1 OUT2
+
+
+Quando ENB abilita IN3 IN4 il controllo OUT3 OUT4
+
+
+
+
+Note:  la confezione non include le viti.
+
+
+
+La confezione include:
+
+
+
+
+1 x 236 L298N doppio ponte H DC scheda modulo motore passo controllo di drive Arduino
+
+
+
+
+

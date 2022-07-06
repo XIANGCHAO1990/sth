@@ -1,0 +1,240 @@
+https://it.banggood.com/Excellway-REX-C100-110-240V-1300-Degree-Digital-PID-Temperature-Controller-Kit-with-400-Degree-Probe-p-965589.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+REX-C100 Kit di Regolazione Temperatura PID a 1300 Gradi 110-240V con Sonda a 400 Gradi
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristiche :
+
+
+
+REX-C100 Regolatore di temperatura
+
+
+
+Precisione di misura: ± 0,5% FS
+Tolleranza di compensazione a fine freddo: ± 2℃ può essere modificata dal software in 0 ~ 50℃
+Risoluzione: 14 bit
+Ciclo di campionamento: 0,5 sec
+Potenza: AC 110-240V 50 / 60HZ
+Valore di processo (PV), valore di impostazione (SV)
+L'uscita, l'allarme e l'auto-tuning possono essere indicati con: LED
+Controllo PIN (incluso ON / OFF, PID a passo e PID continuo)
+Controllo automatico
+Uscita relè: capacità di contatto 250V AC 3A (carico resistivo)
+Uscita funzione di allarme: 2 vie
+Banda proporzionale (P): 0 ~ intervallo completo (controllo ON / OFF se impostato a 0)
+Intervallo di temperatura di rilevazione: Da 0 a 1300 ° C
+Resistenza di isolamento:> 50M ohm (500V DC)
+Resistenza all'isolamento: 1500V AC / min
+Resistenza all'isolamento: potenza assorbita <10 VA
+Ambiente di servizio: 0 ~ 50 ℃
+Ambiente senza gas corrosivo 30 ~ 85% RH
+
+
+
+K Cavo sonda termocoppia
+
+
+
+Lunghezza: 1M
+Diametro del sensore: 4.5mm
+Intervallo di temperatura: da 0 a 400 ° C
+Isolamento interno: vetroresina
+Schermatura esterna: schermatura isolata
+
+
+
+Max.40A SSR
+
+
+
+Intervallo di tensione di uscita: tipo standard
+Corrente di uscita: 40A
+Tensione di ingresso: DC 3-32V
+Tensione di uscita: 24-380V AC
+
+
+
+
+
+
+La confezione include: 
+
+
+
+1 x REX-C100 Regolatore di temperatura PID
+1 x Sensore di sonda tipo K
+1 x Max.40A SSR
+
+
+
+Altri prodotti:
+Ora abbiamo creato uno SKU108327  cioè 220V, 0 ~ 400 ℃.
+e SKU188430 quello è 110-240V, 0 ~ 400 ℃.
+Foto di dettaglio:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

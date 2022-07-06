@@ -1,0 +1,207 @@
+https://it.banggood.com/New-NEJE-MASTER-2-Upgraded-7W-Smart-Laser-Engraver-DIY-Laser-Engraving-Machine-450nm-Blue-Laser-Deep-Carving-Desktop-Logo-Picture-Printer-with-Wireless-APP-Control-Benbox-GRBL1_1f-MEMS-Protection-p-1549050.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+Nuovo NEJE MASTER 2 Aggiornato 7W Smart Laser Incisore DIY Laser Macchina per incisione 450nm Blu Laser Stampante per desktop profonda con logo per foto con controllo APP wireless Benbox GRBL1.1f Protezione MEMS
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NEJE Laser macchina per incidere 
+
+
+
+
+
+
+
+
+
+
+
+
+NEJE 3500 mW Laser Incisore
+
+
+
+
+Si prega di fare clic su questo: ID: 1448860
+
+
+
+
+
+NEJE 20W Laser Incisore 
+
+Si prega di fare clic su questo: ID: 1582758
+
+
+
+Se desideri acquistare la sostituzione NEJE modulo laser, puoi fare clic su: ID: 1592200
+Nota:  7W Master 2 è una versione aggiornata dell'originale 7W. Master 2 ha due MCU. Il team NEJE continua a sviluppare nuove funzioni. Gli utenti possono aggiornare automaticamente l'ultimo firmware NEJE attraverso il cloud per rendere la macchina più potente. Il secondo chip supporta il firmware Benbox e LaserGRBL, è possibile apprendere le conoscenze CAD o G-code attraverso questi 2 software, in modo da passare ai master Gcode professionisti, ovviamente NEJE fornisce anche strumenti di aggiornamento del firmware Benbox e GRBL1.1f.
+Descrizione:
+
+	- La macchina per incidere Master è una macchina per incidere portatile con installazione semplice, sicurezza e facilità d'uso. 
+
+	- Ha un accelerometro con sensore integrato. Quando la macchina si inclina, interrompe automaticamente il lavoro del laser e protegge dai danni del laser. 
+
+	- Allo stesso tempo, supporta il software di controllo NEJE e il software GRBL, che non solo può godere della semplice portabilità del software NEJE, ma supporta anche il divertimento operativo del software open source GRBL;
+	- Supporta il controllo dinamico modulo laser sviluppato da Neje, che può supportare la regolazione della potenza PWM, la regolazione della bassa luminosità della luce, la protezione dell'induzione della temperatura del laser; supporta anche diversi laser di potenza.
+
+	- Il master 7w è specializzato nell'incisione di metalli e nell'incisione e nel taglio del legno profondo. 
+
+
+Applicazione:
+
+		1. Profondità dell'incisione (legno 0,5-3 mm), spessore del taglio (legno 2 mm).
+		2. Supporta l'incisione di metalli tra cui ossido di allumina, ossido di ferro, e altri materiali non riflettenti.
+
+		Materiali di incisione supportati: legno, carta grigia, pelle, bambù, plastica annerente, gomma, ossido di allumina, rame, ecc.
+
+		3. Non è possibile incidere direttamente il metallo con una forte riflettività dello specchio, che potrebbe causare lesioni all'operatore o bruciare il laser. 
+
+		4. Non può funzionare su acciaio inossidabile/vetro/lega/alcuni materiali riflettenti.
+
+
+Specifiche generaliModello: NEJE Master 2 7W Potenza ottica: 450nm 2,5 W. Scheda di controllo: 2 x MCU + controllo wireless + MEMSProtezione Satety: MEMSDimensioni di lavoro: 170 x 170 mmPixel: 2266 x 2266 pxDot pitch: 0,075 mmSoftware: NEJE APP per Android, NEJE Wireless APP per iOS / OSmac, NEJE software per Windows, Benbox, LaserGRBL con firmware GRBL1.1f.Servizio di aggiornamento software NEJE: SÌNEJE Cloud Gallery: SÌNEJE Funzione scanner: SÌMateriale del telaio: piatto composito da taglio CNC, lega di alluminio, acrilico.Può incidere ： MDF / balsa / carta / legno / tessuto / plastica / pelle / compensato / carta espansa / alluminio anodizzatoImpossibile incidere ： Metallo / vetro / pietra / ceramica / PCB / acciaio inossidabile / materiale riflettente / materiale trasparenteContinua a lavorare: illimitatoLunghezza d'onda: 450nmForma del fascio ： Punto (focalizzabile)Drive: incorporatoMateriale dell'obiettivo: D-ZK3Materiale del dissipatore di calore Aluminum Alluminio per aeromobili + calotta in ottoneColore luminoso ： BluTensione di ingresso: AC100-240V, 50/60HzTensione di uscita: DC12V, 2AFormato immagine: .bmp .jpg .png .nc .dxf ecc. Tipo di spina: EU / US (opzionale)Caratteristiche:1. Più conveniente. Controllo wireless off-line e APP. NEJE Scanner Wireless Transfer. Cloud Gallery e Gcode online semplificano la creazione.Software CNC professionale: Benbox, LaserGRBL. Gamma di incisioni 170 x 170 mm. Sistema operativo: windows 7 / 8.1 / 10 / android / iOS / OSmac. Formato immagine: BMP / PNG / JPG / NC / DXF2. Maggiore potenza. Maggiore velocità, precisione più accurata, se sei un vero produttore, tuttofare fai da te, ingegnere CNC o un artista, questa macchina offre un ottimo modo per farlo 3. Intagliato più materiale. Può scolpire MDF, balsa, carta, legno, tessuto, plastica, pelle, compensato, carta espansa, alluminio anodizzato, ecc. (Non adatto per ferro o altri metalli)4. Abbiamo fornito una garanzia di 2 anni e un servizio clienti a vita. Se hai domande su questa macchina per incidere, ti preghiamo di contattarci, ti risponderemo entro 24 ore. Nota 1 (prestare attenzione):1. Indossare occhiali laser durante l'uso ed evitare di toccare il laser direttamente con gli occhi e la pelle!2. Non incidere oggetti a specchio ， Prestare attenzione al fuoco ， Prestare attenzione agli animali domestici durante il lavoro！3. Il fumo verrà generato quando bruciato, si prega di prestare attenzione allo scarico dei fumi all'interno.4. Il periodo di garanzia di modulo laser è di un anno. In caso di problemi di qualità (eccetto situazioni individuali come l'utilizzo del modulo laser più di 30 minuti alla volta e il danno causato), non esitate a chiedere assistenza al nostro servizio clienti.5. Se il tuo modulo laser ha qualche problema, NON smontarlo senza la nostra autorizzazione. Distruggerà il modulo laser.6. In caso di problemi di qualità della macchina, non esitate a contattarci. Molti problemi operativi possono essere risolti in base al video e alla descrizione del problema. Grazie in anticipo.Nota 2:1. Quando la macchina è in funzione, si consiglia di non guardare direttamente la testa laser e di non azionare la testa laser direttamente a mano2. Il diodo laser è un componente sensibile, prestare attenzione a prevenire danni elettrostatici (il prodotto include un design di protezione elettrostatica, ma esiste una certa probabilità di danni)3. Il tempo di garanzia del modulo Laser è di 1 sì4. Il tempo di garanzia della scheda del controller è di 3 sì5. che il manuale e il CD-ROM non siano inclusi, scaricare il software e utilizzare l'aiuto del servizio neje wiki Il pacchetto include:1 x Master 2 Laser macchina per incidere1 modulo Laser4 x Nuts1 maschera1 chiave a forma di L1 cavo USB1 chiave inglese piccola1 adattatore di alimentazione 12V2A1 adattatore UE1 x piccolo blocco di legno1 carta di prova
+
+
+
+
+
+

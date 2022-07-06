@@ -1,0 +1,180 @@
+https://fr.banggood.com/Geekcreit-ATmega328P-Nano-V3-Module-Improved-Version-With-USB-Cable-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-933647.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® ATmega328P Compatible avec l'Arduino Nano V3 Version Améliorée avec Câble USB
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spécification:
+
+Changez la puce USB, améliorez la vitesse de téléchargement et la stabilité de WIN7 / WIN8
+Remarque: Vous devez installer le pilote CH341SER, voici le lien: http://wch.cn/download/CH341SER_ZIP.html
+
+Microcontrôleur Atmel ATmega328
+Tension de Fonctionnement (niveau logique): 5V
+Tension d'Entrée (recommandée): 7V ~ 12V
+Tension d'Entrée (limites): 6V ~ 20 V
+Broches d'E / S numériques: 14 (dont 6 fournissent une sortie PWM)
+Broches d'Entrée Analogique: 8
+Courant par broche d'E / S: 40 mA
+Mémoire Flash: 32 Ko (ATmega328) (dont 2 Ko utilisé par le chargeur de démarrage)
+SRAM: 2Ko (ATmega328)
+EEPROM: 1Ko (ATmega328)
+Vitesse d'Horloge: 16MHz
+
+Emballage incluts:
+
+1 x Compatible avec Arduino Version Améliorée Nano V3.0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Note: Joint product & Provided by Banggood and Newchic.
+
+
+

@@ -1,0 +1,213 @@
+https://it.banggood.com/Geekcreit-12V-4CH-Channel-433Mhz-Wireless-Remote-Control-Switch-With-2-Transmitter-p-1012323.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® 12V 4CH Canale 433Mhz Wireless Controllo a Distanza Interrutore con 2 Trasmettitori
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: Se hai bisogno di più trasmettitore, si prega di cerca 1018573
+Questo prodotto non fornisce tutte le istruzioni, si prega di rimandare alla descrizione.
+Questa versione non supporta la funzione di copia del codice, si prega di notare su questo prima di ordinare.
+
+Caratteristiche:
+
+Si tratta di un codice di apprendimento interruttore di telecomando senza fili (ricevitore), il modo di output / senso di funzionamento può essere modificata come vuoi, è facile abbinare il trasmettitore. Dispone di 4 relè che possono rendere l'apparecchiatura turno o invertire, on / off e così via che si avvera. Il volume è piccolo e la prestazione è stabile e affidabile, elevata sensibilità di ricezione.
+
+1. Esso copre applicazioni che vanno dal semplice controllo domestico telecomando per controllare autonomo, come porta automatica, finestre, impianti di sollevamento, accesso ingresso, su e giù del controller, il sistema di allarme di controllo industriale e di sicurezza, ecc
+2. Questi telecomandi sono progettati per controllare una vasta gamma di dispositivi elettronici con un segnale wireless.
+3. Estremamente facile da costruire e utilizzare.
+4. Compatibile con 2262/2260/1527/2240 ecc circuito integrato e telecomando senza fili diversi di codice. Così può soddisfare il bisogno di qualcuno di scegliere il telecomando senza fili come a loro piace lavorare con esso.
+
+Istruzioni:
+
+1. Premere il codice di apprendimento, l'indicatore del flash, allentare il dito, premere un tasto qualsiasi del telecomando, l'indicatore del flash 2 volte e fuori, significa che si impara con successo.
+2. Si può imparare più di 12 pezzi 2262 o 1527 del circuito integrato con il telecomando senza fili codice diverso.
+3. Rimuovere / pulire: premere il tasto d'apprendimento circa 8 secondi, l'indicatore si accende a spento, significa l'informazione che si tiene sono stati rimossi con successo.
+
+Uscita senso di funzionamento:
+
+1. Auto-lock: Collegare il JP1 con il tappo di taglio fuori.
+2. Jog: Il tappo di taglio-out non è occupazione, JP1 e JP2 non collegare sia.
+3. Inter-lock: Collegare il Jp2 con il tappo di taglio fuori,
+Jog: Premere un pulsante è accesso, allentare il dito sullo stesso pulsante è disattivato (bisogno di un interruttore di canale e uno pulsanti di controllo a distanza).
+Auto -lock:Premere un tasto per una volta è acceso, premere lo stesso tasto è spento (bisogno di un interruttore di canale e uno pulsanti di controllo a distanza).
+Inter-lock: Premere un pulsante è acceso, premere un altro pulsante è spento (bisogno di un interruttore di canale e 2 pulsanti del telecomando).
+
+Ricevitore:
+
+1. Tensione di funzionamento: DC12V
+2. Condizione di riposo: Meno di 6mA
+3. Temperatura di funzionamento: -40 ° C + 80 ° C
+4. Sensibilità del ricevitore: più di -105dBm
+5. Frequenza di lavoro: 433
+6. Tensione di uscita: DC e AC è opzionale
+7. Corrente di uscita: Meno di 3A
+8. Corrente di carico massima: 10A
+9. Dimensioni: 72 x 52 x 26mm
+
+Trasmettitore del telecomando:
+
+1. Distanza di telecomando: 200M
+2. Tensione di funzionamento: DC 12V
+3. Frequenza: 433MHz
+4. Corrente di funzionamento: 13 mAh
+5. Tipo di Codice: Codice fissato / Apprendimento del codice
+6. Dimensioni: 58 x 39 x 14 mm
+
+La confezione include:
+
+2 x Trasmettitori
+1 x Ricevitore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

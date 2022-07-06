@@ -1,0 +1,143 @@
+https://es.banggood.com/JUNTEK-PSG9080-1nHz-80MHz-Signal-Generator-Dual-Channel-Programmable-Function-Arbitrary-Wave-Source-Frequency-Modulation-Amplitude-Modulation-Voltage-Control-Frequency-Meter-p-1722864.html?cur_warehouse=CN&ID=47184&rmmds=CategoryToolsPop
+JUNTEK PSG9080 1nHz-80MHz Generador de señal Función programable de doble canal Fuente de onda arbitraria Modulación de frecuencia Modulación de amplitud Control de voltaje Medidor de frecuencia
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>Please Click Here to Download the English User Manual<<>>Communication Protocol<<Características:Salida programable: el tipo de salida de forma de onda (como onda sinusoidal, ondas cuadradas, onda triangular, onda arbitraria, etc.), el tiempo de salida y la secuencia de salida se pueden formular libremente para realizar un trabajo automático.Actualización de firmware en tiempo real: la actualización de firmware puede actualizarse en cualquier momento para corregir errores o utilizarse para sus necesidades especiales de personalización. Presione la tecla suave correspondiente para confirmar el ingreso al modo de actualización y realice una actualización de firmware con una sola tecla conectándose con el software de la PC.Ajuste controlado por voltaje: la frecuencia, la amplitud y el ciclo de trabajo de la salida se pueden controlar mediante una señal de voltaje analógica externa para lograr una frecuencia de barrido controlada por voltaje, amplitud de barrido y ciclo de trabajo de barrido, que se utilizan ampliamente en la depuración industrial.Función de modulación: las formas de onda moduladas se pueden emitir en un solo canal o en dos canales. Modulación: El proceso de agregar información desde una fuente de señal a la portadora para que sea adecuada para la transmisión del canal. Es la tecnología que hace que la onda portadora cambie con la señal.Alta frecuencia de muestreo: la frecuencia de muestreo de hasta 300MSa / s puede obtener más datos de forma de onda por unidad de tiempo, lo que hace que la forma de onda mostrada sea más precisa.Color personal: para satisfacer las necesidades personalizadas de los clientes, se proporcionan cuatro esquemas de color para el sistema. Puede usar las teclas numéricas y la perilla para seleccionar el color del sistema deseado, presione la tecla suave guardar para guardar el color seleccionado.Salida de doble canal de rendimiento equivalente: la misma o diferentes señales de función o señales de forma de onda arbitrarias pueden emitirse simultáneamente; todos los parámetros se pueden ajustar de forma independiente, la diferencia de fase entre los dos canales se puede ajustar continuamente de 0 a 359,9 grados; la frecuencia de la señal puede ser de hasta 80 MHz y la señal de salida puede estar dentro de 1 MHz hasta 25 Vpp.Función de ráfaga: se pueden usar onda sinusoidal, ondas cuadradas, onda de diente de sierra u onda arbitraria para generar señales de ráfaga, el número de períodos se puede ajustar continuamente entre 1-1000000000.El ancho del pulso se puede ajustar con precisión: el ancho del pulso y el período de tiempo del pulso de la onda del pulso se pueden ajustar digitalmente y con precisión, lo que permite configurar con precisión una amplia gama de formas de onda del pulso sin salida de fluctuación.Puede dibujar formas de onda arbitrarias: el software de PC y el protocolo de comunicación se proporcionan de forma gratuita, se pueden dibujar formas de onda arbitrarias utilizando el software de PC; el uso del protocolo de comunicación puede ser una programación de desarrollo secundaria; Todas las funciones del instrumento pueden ser controladas por el software de PC (el instrumento también puede finalizar todas las operaciones sin conectarse a la computadora).Ampliamente utilizado: investigación científica e ingeniería técnica, pruebas de instrumentos electrónicos de fábrica, mantenimiento de instrumentos electrónicos, enseñanza de experimentos escolares, competencia de diseño electrónico, etc.Especificación:Modelo: PSG9080Canal: 2Tasa de muestreo: 300MSA/SFrecuencia máxima de onda sinusoidal: 80MHzCaracterísticas de la forma de ondaLongitud de onda: 8192 puntos / canalResolución vertical de forma de onda: 14 bits     Tipo de forma de onda: Onda sinusoidal, ondas cuadradas, onda de pulso (ciclo de trabajo, ancho de pulso y tiempo de ciclo se pueden configurar con precisión), onda triangular, onda de diente de sierra ascendente, onda de diente de sierra descendente, onda CMOS, nivel de CC, media onda, onda completa, onda de paso positivo, onda de paso inverso, aumento exponencial, caída exponencial, onda de pulso de Lorentz, onda de sonido múltiple, onda de ruido aleatorio, onda de pulso trapezoidal, onda de pulso de hundimiento, forma de onda de modulación de amplitud, forma de onda de modulación de frecuencia y 99 grupos de onda definida por el usuario -formas.Características de frecuenciaRango de frecuencia de onda sinusoidal:1nHz-80MHzRango de frecuencia de ondas cuadradas: 1nHz-30MHzRango de frecuencia de onda triangular:1nHz-50MHzRango de frecuencia de la onda de pulso: 1nHz-30MHzRango de frecuencia de onda digital TTL:1nHz-20MHzRango de frecuencia de onda arbitraria: 1nHz-50MHzRango de ajuste de ancho de pulso:5nS ~ 4SRango de ajuste del período de pulso: 10nS ~ 40SResolución mínima de frecuencia: 1nHzPrecisión de frecuencia: ± 5ppm 0 a 50 ℃Estabilidad de frecuencia: ± 3ppm por 1 añoPureza espectral de onda sinusoidal:Distorsión armónica total: ≤0,5% （a 1 kHz, 5 Vpp）Características de la señalOndas cuadradasTiempo de flanco ascendente / descendente: ≤10nSExcederse: ≤10%Asimetría: ≤0,1%Rampa y onda triangularLinealidad: ≤1% (menos de 1 MHz)Asimetría: ≤1% (menos de 1 MHz)Onda de pulsoAncho de pulso: 5nS ~ 4SPeriodo de pulso: 10nS ~ 40SCiclo de trabajo: 0,01% -99,99%Borde ascendente / descendente: ≤10nSExcederse: ≤10%Onda arbitrariaLongitud de onda: 8192 puntos (8K puntos)Resolución vertical: 14 bitsTiempo mínimo de subida / bajada: ≤10nSExcederse: ≤10%Forma de onda arbitraria no volátil almacenamiento número: 99Características de salidaAmplitudRango de amplitud:Frecuencia≤1MHz 1MHz≤Frecuencia ＜ 11MHz11MHz≤ Frecuencia ＜ 60MHz60MHz≤Frecuencia ＜ 80MHz2mVpp ~ 25Vpp2mVpp ~ 10Vpp2mVpp ~ 5Vpp2mVpp ~ 3.6VppResolución de amplitud:1mVppEstabilidad de amplitud:± 1% ± 1 mVpp (a 1 kHz,> 10 mVpp)Planitud de amplitud:± 1% (0,1 dB) <10 MHz± 2% (0.2dB) <10MHz ~ 50MHz± 10% (0.9dB) <50MHz ~ 70MHz± 20% (1.9dB) <70MHz ~ 80MHzSesgo DCRango de ajuste de compensación:-9,99 V-15,00 VResolución de compensación: 0.01VCaracterísticas de la faseRango de ajuste de fase:0 ° -359,9 °Resolución de fase:0,1 °Salida de forma de ondaImpedancia de salida:50Ω (nominal)Proteccion: protección contra cortocircuitosCaracterísticas de modulación:Tipo de modulación: AM, FM, PM, ASK, FSK, PSK, PWMSOY:Onda portadora: onda sinusoidal, ondas cuadradas, onda de diente de sierra, onda arbitraria (excepto CC)Fuente de modulación: interna / externaOnda modulada: onda sinusoidal, ondas cuadradas, onda de diente de sierra, onda de ruido, onda arbitrariaProfundidad de modulación: 0% a 200%Frecuencia de modulación: 1 MHz a 1 MHzFM:Onda portadora: onda sinusoidal, ondas cuadradas, onda de diente de sierra, onda arbitraria (excepto CC)Fuente de modulación: interna / externaOnda modulada: onda sinusoidal, ondas cuadradas, onda de diente de sierra, onda de ruido, onda arbitrariaFrecuencia de modulación: 1 MHz a 1 MHzDesviación de frecuencia: 0,1 Hz a 10 kHzPM:Onda portadora: onda sinusoidal, ondas cuadradas, onda de diente de sierra, onda arbitraria (excepto CC)Fuente de modulación: interna / externaOnda modulada: onda sinusoidal, ondas cuadradas, onda de diente de sierra, onda de ruido, onda arbitrariaDesviación de fase: 0 ° a 360 °Frecuencia de modulación: 1 MHz a 1 MHzPEDIR:Onda portadora: onda sinusoidal, ondas cuadradas, onda de diente de sierra, onda arbitraria (excepto CC)Fuente de modulación: interna / externaPolaridad: positiva y negativa.Tasa: 1 MHz a 1 MHzPreguntar amplitud: 0% a 200%FSK:Onda portadora: onda sinusoidal, ondas cuadradas, onda de diente de sierra, onda arbitraria (excepto CC)Fuente de modulación: interna / externaOnda modulada: onda de pulso del ciclo de trabajo del 50%Polaridad: positiva y negativa.Tasa: 1 MHz a 1 MHzSalto de frecuencia: 0,1 Hz a 80 MHzPSK:Onda portadora: onda sinusoidal, ondas cuadradas, onda de diente de sierra, onda arbitraria (excepto CC)Fuente de modulación: interna / externaPolaridad: positiva y negativa.Tasa: 1 MHz a 1 MHzFase PSK: 0 ° a 360 °PWM:Onda portadora: onda de pulsoInversión de onda: regular e inversaPeríodo de pulso: 0.01uS a 40SAncho de pulso: 0.001uS a 4SEstallar:Inactivo: posición cero, máximo positivo, máximo negativoModo: sencillo, automáticoFuente de activación: ráfaga manual, ráfaga CH2, ráfaga externa (CA), ráfaga externa (CC)Número de pulso: 1-1000000000Función de medición y conteo:Modo de medición:Función de medición: frecuencia, ancho de pulso positivo y negativo, período, ciclo de trabajoMétodo de acoplamiento: CC, CATiempo de puerta: 0.001S-10.000SModo de medición: baja frecuencia, alta frecuenciaRango de medición de frecuencia: 1 Hz ~ 100 MHzRango de amplitud de la señal de entrada: 2Vpp ~ 20VppMedición del período: 10nS ~ 4SAncho de pulso: 4SRango de medición del ciclo de trabajo: 0.01% ~ 99.99%Modo contador:Rango de contador: 0-4294967295Método de acoplamiento: acoplamiento CC y CAMétodo de conteo: manualCaracterísticas de entrada de modulación externa:Rango de amplitud de la señal de entrada: 0 ~ 3 VppRango de frecuencia de la señal de entrada: DC ~ 200 KHzCaracterísticas de escaneo:Canal de barrido: CH1 o CH2Onda portadora: onda sinusoidal, ondas cuadradas, onda de diente de sierra, onda arbitraria (excepto CC)Función de barrido: frecuencia de barrido, amplitud de barrido, trabajo de barridoModo de barrido: lineal, logarítmicoDirección de barrido: incremento, decremento, ida y vueltaFrecuencia inicial / final: coherente con los límites superior e inferior de la frecuencia portadora correspondienteAmplitud inicial / final: coherente con los límites superior e inferior de la amplitud portadora correspondienteCiclo de trabajo de inicio / fin: coherente con los límites superior e inferior del ciclo de trabajo del portador correspondienteTiempo de barrido: 0.01S-640SCaracterísticas de control de voltaje:Canal de control de voltaje: CH1 o CH2Onda portadora: onda sinusoidal, ondas cuadradas, onda de diente de sierra, onda arbitraria (excepto CC)Función de control de voltaje: control de frecuencia, control de amplitud y control del ciclo de trabajoModo de barrido: lineal, logarítmicoFrecuencia inicial / final: coherente con los límites superior e inferior de la frecuencia portadora correspondienteAmplitud inicial / final: coherente con los límites superior e inferior de la amplitud portadora correspondienteCiclo de trabajo de inicio / fin: coherente con los límites superior e inferior del ciclo de trabajo del portador correspondienteRango de voltaje de control de voltaje: 0 V-5 V, el punto de inicio y el punto final se pueden configurar arbitrariamenteCaracterísticas de programación:Modo de ejecución: depuración, normalAlmacenamiento: P00-P19Número de programación: 00-99Tiempo de programación: tiempo de programación de un solo número de serie 0-99SEspecificaciones generales:Monitor:Pantalla: pantalla de 3,5 pulgadas TFT color LCDResolución: 320 * 480Color: color verdadero 64KAlmacenar y cargar:Cantidad: 100 gruposUbicación: 00 a 99 (Los datos de la ubicación 00 almacenamiento se cargan de forma predeterminada)Interfaz:Método de interfaz: USB a interfaz serialInterfaz de extensión: puerto serie con modo de nivel TTL, conveniente para desarrollo secundarioVelocidad de comunicación: estándar 115200BPSProtocolo: usando la línea de comando, el protocolo está abiertoPoder:Alimentación de CA: voltaje de suministro: 85V-264V, 47-63Hz                  consumo de energía: menos de 30W                  fusible: 250VAC, 3.15AAlimentación CC: voltaje / corriente de suministro: CC5V ± 0.5V 3AMedio ambiente:Temperatura: 0 ~ 40 ℃Humedad: humedad <80%Tamaño del artículo: 247 * 243 * 102 mm / 9.7 * 9.6 * 4.0inPeso del artículo: 1030g / 2,3 librasTamaño del paquete: 425 * 275 * 215 mm / 16.7 * 10.8 * 8.5inPeso del paquete: 1985g / 4.4lbEl paquete incluye:1 x generador de señales1 x cable de alimentación1 x Q9-Q9 a través de la línea1 x cable de datos USB1 línea de clip Q91 x manual de usuarioCuadros de detalles: 
+
+
+
+

@@ -1,0 +1,143 @@
+https://fr.banggood.com/LILYGO-TTGO-T-Display-RP2040-Raspberry-Pi-Module-1_14-inch-LCD-Development-Board-p-1915490.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+LILYGO® TTGO T-Display RP2040 Raspberry Pi Module 1,14 pouces LCD Carte de développement
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Micropython pour commencer : https://www.raspberrypi.org/documentation/microcontrollers/micropython.html C/C++ Prise en main : https://www.raspberrypi.org/documentation/microcontrollers/c_sdk.html Github :https://github.com/Xinyuan-LilyGO/LILYGO-T-display-RP2040Schéma des broches :Le forfait comprend :1 X T-Display RP20401 câble d'alimentation2 X Pin
+
+
+
+

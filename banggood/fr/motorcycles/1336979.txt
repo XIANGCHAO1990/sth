@@ -1,0 +1,185 @@
+https://fr.banggood.com/ELM327-USB-Modified-OBD2-Car-Diagnostic-Scanner-For-Ford-MS-CAN-HS-CAN-Mazda-Forscan-p-1336979.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+ELM327 Scanner diagnostique de voiture d&#39;OBD2 modifié par USB pour le Ford MS-CAN HS-CAN Mazda Forscan
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:
+1. Codage
+2. Données en direct.
+3. Adaptations
+4. Tests d'actionneur.
+5. Programmation
+6. Codage de l'injecteur.
+7. Mises à jour logicielles
+8. Procédures de service.
+9. Forcer la régénération du DPF.
+10. Lisez la configuration du véhicule.
+11. Accédez aux modules en mode HS-CAN et MS-CAN.
+12. Lecture / effacement des codes d'erreur de TOUS les modules, y compris OBD2 / EOBD.
+
+Fonctionnalité:
+La couleur noire
+Taille: 8.8x2.5x4.6cm
+
+Modules pris en charge:
+GEM IPC DDM PDM RDDM RPDM AHCM PAM ACU SRM KVM IPMA SODL SODR
+BCM TCM PCM ABS HEC EHPAS CCM P HCM RCM SASM FACM
+ACM SRM SDDJ
+
+Système d'exploitation Windows pris en charge:
+Win7, XP, Vista et Windows 2000 (OS 32 et 64 bits)
+Supporté les protocoles suivants:
+  ISO15765-4 (CAN)
+  ISO14230-4
+  ISO9141-2
+  J1850 VPW (véhicules GM)
+
+Logiciels pris en charge:
+ELMconfig
+FoCCCus
+Forscan
+La plupart des logiciels OBD2 / EOBD
+
+Lien de fichier CD:
+http://myosuploads3.banggood.com/products/20200106/20200106234232AppleMACInstallGudie.pdf
+
+Emballage inclus:
+1 X Outil de numérisation ELM327 modifié par USB
+
+
+
+
+

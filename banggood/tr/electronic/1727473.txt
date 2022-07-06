@@ -1,0 +1,219 @@
+https://tr.banggood.com/LILYGO-TTGO-Meshtastic-T-Beam-V1_1-ESP32-868Mhz-WiFi-Bluetooth-ESP32-GPS-NEO-6M-SMA-18650-Battery-Holder-With-OLED-p-1727473.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+LILYGO® TTGO Meshtastic T-Beam V1.1 ESP32 868Mhz WiFi Bluetooth ESP32 GPS NEO-6M SMA 18650 Batarya OLED&#39;li Tutucu
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Daha fazla bilgi:https://github.com/geeksville/Meshtastic-Android/blob/master/README.md https://github.com/meshtastic/Meshtastic-device/releases https://github.com/Xinyuan-LilyGO/LilyGO-T-Beam Özellik:
+
+
+
+Çalışma gerilimi
+1,8 ~ 3.7V
+
+
+Kabul edilebilir akım
+10 ~ 14mA
+
+
+Akım iletmek
+120mA + 20dBm
+
+
+90mA + 17dBm
+
+
+29mA + 13dBm
+
+
+Çalışma frekansı
+868MHz
+
+
+İletim gücü
+ + 20dBm
+
+
+Hassasiyet alın
+ -139dBm @ LoRa ve 62.5Khz ve SF = 12 ve 146bps
+
+
+ -136dBm @ LoRa ve 125 Khz ve SF = 12 ve 293bps
+
+
+ -118dBm @ LoRa ve 125 Khz ve SF = 6 ve 9380bps
+
+
+ -123dBm@FSK&5Khz&1.2Kbps
+
+
+Frekans hatası
+ +/- 15kHz
+
+
+FIFO alanı
+64Byte
+
+
+Veri hızı
+1.2K~300Kbps@FSK
+
+
+0.018K~37.5Kbps@LoRa
+
+
+Modülasyon Modu
+FSK, GFSK, MSK, GMSK, LoRa TM, OOK
+
+
+Arayüz formu
+SPI
+
+
+Uyku akımı
+0.2uA@SLEEP
+
+
+1.5uA@IDLE
+
+
+Çalışma sıcaklığı
+ -40 ℃ ~ + 85 ℃
+
+Dijital RSSI işleviOtomatik frekans düzeltmeOtomatik kazanç kontrolü Düşük voltaj algılama Hızlı uyandırma ve frekans atlamaSon derece yapılandırılabilir veri paketi işleyici Küresel Konumlama SistemiKüresel Konumlama Sistemi modülleri NEO-6M, 3V-5V güç kaynağı EvrenselSeramik antenli hedef modül, süper sinyalYapılandırma parametresi verilerini EEPROM Down'a kaydedinVeri yedekleme pili ileLED sinyal göstergesi varVarsayılan Baud Hızı: 9600 GüçGüç Kaynağı Girişi USB 5V / 1AŞarj akımı 500mAPil Girişi 3.7-4.2VIC AXP192'yi şarj edinOLED Tanımı:1. Boyut: 0,96 inç2. Yüksek çözünürlük: 128 * 643. Renk: Beyaz4. Görüş açısı:> 160 °5. Sürücü IC: SSD13066. Çalışma sıcaklığı: -30 santigrat ~ 80 santigrat derece7. Modül hacmi (cömert): 27.0mm x 27.0mm x 4.1mm8. Birçok kontrol çipini destekler: Arduino, 51 serisi, MSP430 serisi, STM32 / 2 çip vb. İle tam uyumlu (referans için birçok rutin)9. Geniş voltaj desteği: herhangi bir değişiklik yapılmadan doğrudan 3.3V ~ 5V DC'yi destekler10. Ultra düşük güç tüketimi: Normal çalışma 0,04 W'tır11. IO bağlantı noktası minimum ekran kaplar: İki IO bağlantı noktası olduğu sürece IIC iletişimiPaket şunları içerir:1 X TTGO T-Kiriş 1 adet 868MHz Anten1 X 0.96 inç 128X64 OLED2 X Pin
+
+
+
+

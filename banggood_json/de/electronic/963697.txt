@@ -1,0 +1,206 @@
+963697
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/FF/0C/f0997157-6ccd-46de-ae8f-ab02045bffcd.jpg
+Geekcreit® UNO R3 ATmega328P Entwicklungskarte Für Arduino
+https://de.banggood.com/UNO-R3-ATmega328P-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-963697.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ausgangsspannung: DC 5V / 3,3V
+Atmega328P
+Mit USB Kabel Version
+
+Hinweis: Diese Version kann nicht mit dem Betriebssystem kompatibel sein
+
+
+Eigenschaften:
+
+Original-Schaltplan öffnen, kostenlose Entwicklung Software-Schnittstelle herunterladen, können Sie auch Ihre Bedürfnisse geändert werden, einfach und bequem, um das Programm herunterzuladen.
+Kann einfach Sensoren, alle Arten von elektronischen Komponenten Verbindung (wie LED-Leuchten, Summer, Tasten und Lichtempfindlichkeit, etc.), machen alle Arten von interessanten Arbeiten.
+Mit High-Speed-Mikroprozessor-Controller (ATMEGA328), Entwicklungs-Schnittstelle und Umgebung sind alle sehr einfach, leicht zu verstehen, sehr geeignet für Anfänger zu lernen.
+
+Beschreibung:
+
+Digitale E / A: 0 - 13
+Analoge I / O: 0 - 5
+ISP Herunterladen Funktion unterstützen
+Eingangsspannung: DC 5V ~ 9V (keine externe Stromversorgung, wenn an den Computer angeschlossen)
+Ausgangsspannung: DC 5V / 3,3V
+Verwenden Sie Atmel Atmega328 Mikroprozessor-Controller
+
+Wie benutzt man:
+
+1. Laden Sie die IDE arduino
+Link: http://arduino.cc/de/Main/Software (Kopieren zu öffnen)
+2. Laden Sie den USB-Chiptreiber herunter
+Link: http://www.5v.ru/zip/ch341ser.zip (Kopieren zu öffnen)
+3. Plug in UNO Entwicklungsplatine, wird der Treiber automatisch installiert
+4. Wählen Sie die UNO aus der Matrize
+5. Wählen Sie den COM-Port aus
+6. Die beste Wahl zuerst, Arduino mit Routine-Verfahren kommen, brennen in sie.
+
+Lieferinhalt:
+
+1 x UNO R3 Entwicklungskarte mit USB-Kabel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

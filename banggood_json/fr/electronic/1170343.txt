@@ -1,0 +1,189 @@
+1170343
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/76/A6/68083893-413b-4cd1-8f47-e017bfea598d.JPG
+PCA9685 16 Chaînes 12-bits PWM Servomoteur de Moteur I2C Module pour Arduino Robot
+https://fr.banggood.com/PCA9685-16-Channel-12-bit-PWM-Servo-Motor-Driver-I2C-Module-p-1170343.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:
+
+Ce panneau / puce utilise I2C adresse 7-bits entre 0x60-0x80, sélectionnable avec des cavaliers
+Bloc de jonction pour l'entrée d'alimentation (ou vous pouvez utiliser les spires de 0,1 "sur le côté)
+Protection contre les inversions de polarité sur l'entrée du bloc terminal
+Alimenté par LED vert de bonne qualité
+Connecteurs à 3 broches en groupes de 4 afin de pouvoir brancher 16 servos à la fois (les fiches servo sont légèrement plus larges que 0,1 ", donc vous ne pouvez piloter que 4 à côté de l'en-tête de 0,1"
+Design «en chaîne»
+Un endroit pour placer un grand condensateur sur la ligne V + (au cas où vous en auriez besoin)
+Résistances série de 220 ohm sur toutes les lignes de sortie pour les protéger et pour rendre les LED de conduite triviales
+Pulls à souder pour les 6 broches de sélection d'adresse
+Pilote PWM commandé par i2c avec une horloge intégrée. Contrairement à la famille TLC5940, vous n'avez pas besoin de lui envoyer en continu le signal d'attachement de votre microcontrôleur, sa course complètement gratuite!
+Il est conforme à 5V, ce qui signifie que vous pouvez le contrôler à partir d'un microcontrôleur de 3,3 V et toujours conduire jusqu'à des sorties de 6V (ce qui est bon lorsque vous souhaitez contrôler les LED blanches ou bleues avec 3,4 + de tensions avant)
+6 broches de sélection d'adresse afin que vous puissiez transférer jusqu'à 62 de celles-ci sur un seul bus i2c, un total de 992 sorties - c'est beaucoup de servos ou de LED
+Fréquence réglable PWM jusqu'à environ 1,6 KHz
+Résolution 12 bits pour chaque sortie - pour les servos, cela signifie une résolution de 4us au taux de mise à jour de 60 Hz
+Sortie configurable push-pull ou open-drain
+La broche de validation de sortie permet de désactiver rapidement toutes les sorties
+
+Emballage inclut:
+
+1 x PCA9685 16 Chaînes 12-bits PWM Servomoteur de Moteur I2C Module pour Arduino Robot
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

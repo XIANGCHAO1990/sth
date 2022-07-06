@@ -1,0 +1,195 @@
+https://it.banggood.com/TWO-TREES-CNC-Shield-+-UNO-R3-Board-+4x-A4988-Stepper-Motor-Driver-+4x-4401-Stepper-Motor-Kit-for-3D-Printer-p-1510212.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+TWO TREES® CNC Shield + UNO R3 Board + 4x A4988 Stepper Motor Driver + 4x 4401 Stepper Motor Kit per stampante 3D
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+
+
+
+
+Ultima versione 3.0 di CNC Shield
+
+Compatibile GRBL 0.8c. (Firmware open source che gira su un UNO che trasforma i comandi del codice G in segnali stepper)
+
+Supporto a 4 assi (X, Y, Z, A-Può duplicare X, Y, Z o eseguire un 4 ° asse completo con firmware personalizzato utilizzando i pin D12 e D13)
+
+2 x Fine corsa per ogni asse (6 in totale)
+
+Abilitazione e direzione mandrino
+
+Abilitazione refrigerante
+
+Utilizza driver passo-passo compatibili Pololu A4988 rimovibili. (A4988, DRV8825 e altri)
+
+Ponticelli per impostare il Micro-Stepping per i driver stepper. (Alcuni driver come il DRV8825 possono eseguire fino a 1/32 micro-stepping)
+
+I motori passo-passo possono essere collegati con connettori molex a 4 pin o saldati in posizione
+
+Funziona con 12-36 V CC. (Al momento solo i driver Pololu DRV8825 possono gestire fino a 36V quindi si prega di considerare la tensione di funzionamento quando si alimenta la scheda.)
+
+
+
+
+Il pacchetto include:
+
+
+1 x Schermo CNC V3.0
+
+1 x scheda UNOR3
+
+Driver 4 x A4988
+
+Motore passo-passo 4 x 4401
+		1 x cavo USB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

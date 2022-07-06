@@ -1,0 +1,145 @@
+1937604
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/8C/3F/bed8fc72-28fb-4f0e-9e28-e38c2ee6127f.jpg
+Kit contador Geiger DIY de código aberto tubo Miller GM tubo módulo peças de radiação
+https://pt.banggood.com/DIY-Geiger-Counter-Kit-Open-Source-Miller-Tube-GM-Tube-Module-Radiation-Parts-p-1937604.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manual: Clique aqui para abrir<<<Descrição:Nome: Sistema de radiaçãoParâmetros do tubo Geiger:Diâmetro dos parâmetros técnicos: Φ10±0,5mmComprimento total: 90±2mmTensão inicial: < 350VTensão de operação recomendada: 380VComprimento mínimo do platô: 80VInclinação máxima do platô: 10%/80VTensão de operação extrema: 550VA taxa máxima de contagem: 25 vezes/minVida: > 1 x 10^9 pulsoTemperatura média: -40 ~ 55 ℃Tamanho: 108x63x20mmNota: Produto desmontado, solda necessária.Recursos:1) fonte de alimentação 5V ou 1,5V 3x bateria; 1.2V 4x bateria, corrente: 30mA - 12mA2) para a detecção de 20mR/h ~ 120mR/h de raios gama e 100 ~ 1800 offvariáveis / pontos / cm 2 do raio beta macio.3) alarme de som e luz4) interrompa a interface de saída, através desta interface pode ser conectado aomicrocontrolador e, em seguida, exibido no LCD.5) Compatível com Ardunio6) suporta a maior parte do tubo Geiger: M4011, STS-5, SBM20, J305, etc. (oA tensão de operação de 330 ~ 600 V do tubo Geiger pode ser suportada).7) apoiar a aquisição de dados do computador (PC), análise e processamento do MatlabDetecção de trabalho de radiação nuclear (copie o link a seguir para o navegador para assistir):Http://v.youku.com/v_show/id_XNzI3MTU2NzQ0.htmlClientes que usam nosso contador Geiger para gravar o vídeo:Http://v.youku.com/v_show/id_XOTE4ODIyNTIw.htmlCompatível com :(recomendado UNO R3 , ou qualquer outro arbitrário com 5V e interrupção externa INT)Internet pode ser baixada: exemplo SPI para Radiation LoggerO Logger Radiation pode ser usado como o software do computador host para construir a estação de monitoramento de radiação.Incluído no Pacote:1 x kit de contador Geiger DIY
+
+
+
+

@@ -1,0 +1,224 @@
+https://es.banggood.com/NanoVNA-H4-4-inch-LCD-50KHz~1_5GHz-VNA-HF-VHF-UHF-UV-Vector-Network-Analyzer-p-1641897.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+NanoVNA-H4 4 "LCD 50KHz ~ 1.5GHz VNA HF VHF UHF UV Analizador de redes vectoriales
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características:
+
+
+- Con el método de atenuación de CC, la pantalla LCD de vista completa de 4 "se puede ver con mayor claridad para usos en exteriores y más cómoda para usos en interiores.
+
+- Puente eléctrico optimizado: aprovechando al máximo los armónicos de Si5351, puede utilizar el armónico 5th para medir hasta 1,5 GHz.
+
+- Cuando se utiliza una onda fundamental, el nivel de salida de CH0 aumenta a 0dBm, lo que hace que la medición de la reflexión sea más precisa.
+
+- Resolvió la anomalía de NanoVNA-H cuando operaba a alrededor de 6MHz antes.
+
+- El circuito de administración de energía rediseñado reduce el ruido de energía, la interferencia de energía USB y la corriente de carga.
+
+- Diseño mejorado de PCB.
+
+- Interfaz UART reservada para expansión DIY.
+
+- La carcasa ligera ABS mantiene el dispositivo bien protegido.
+
+-El software de la computadora admite control y visualización en tiempo real. Y es compatible con la exportación de archivos snp para varios programas de diseño y simulación de radio.
+
+- Como dispositivo de medición, la precisión es de gran importancia. Las piezas de calibración simples están incluidas en el paquete. Hemos calibrado los puertos duales del producto antes de la entrega. Cuando cambian las condiciones de medición (por ejemplo, al cambiar de un ancho de banda de calibración más estrecho a un ancho de banda de medición más amplio con una medición de cable de extensión), debe volver a calibrar. Después de la calibración, se guarda como configuración 0, que se puede usar directamente en el próximo arranque, o se puede guardar en los otros 4 elementos guardados mediante recuperación cuando sea necesario.
+
+
+
+Parámetros:
+
+
+1. ABS Carcasa: 75 mm x 133 mm x 18 mm (sin incluir las protuberancias)
+
+2. Frecuencia de medición: 50 KHz ~ 1,5 GHz
+
+3. Salida RF: 0dbm (± 2dB, onda fundamental)
+
+4. Precisión de frecuencia: <2 ppm
+
+5. Estabilidad de frecuencia: <0.5ppm
+
+6. Rango de medición: 70dB (50kHz-300 MHz), (60dB (300M-900MHz), 40dB (0.9G-1.5GHz) habilitar firmware de expansión)
+
+(Nota: preste atención al error causado por transformaciones no linealesion de la onda fundamental cuando se utiliza la medición armónica.)
+
+7. Puerto SWR: <1.1
+
+8. Pantalla: 4 "TFT (320 x 480)
+
+9. Interfaz USB: USB tipo C; Modo de comunicación: CDC (serial)
+
+10. Fuente de alimentación: USB 5V 200mA. Corriente de carga máxima 1A
+
+11. Número de puntos de calibración: 101 (fijo)
+
+12. Número de puntos de escaneo: 101 (fijo)
+
+13. Pantalla Seguimiento: 4, Marcado: 4, Configuración de guardado: 5
+
+14. Medición de parámetros S, relación de onda estacionaria de voltaje, fase, retardo, gráfico de Smith, análisis en el dominio del tiempo, etc.
+
+
+
+Paquete lIncluido:
+
+
+1 x NanoVNA-H4  
+
+2 cables RF de 15 cm SMA macho a macho RG316
+
+1 x SMA hembra a hembra Conector
+
+1 x SMA Kit de calibración simple CORTO
+
+1 x SMA Kit de calibración simple ABIERTO
+
+1 x SMA Kit de calibración simple CARGA
+
+1 x cable de datos USB Type-C
+
+1 x Type-C a Type-C (para conexión de teléfono móvil Android)
+
+Cuadros de los detalles:
+
+
+
+
+

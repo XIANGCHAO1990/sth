@@ -1,0 +1,143 @@
+https://it.banggood.com/HANTEK-4-Channels-70MHz-Bandwidth-Digital-Storage-Oscilloscopes-USB-Portable-Automotive-Oscilloscope-6074BC-or-6074BC-or-6074BD-p-1941451.html?cur_warehouse=CN&ID=6318699&rmmds=CategoryToolsPop
+HANTEK Oscilloscopi a memoria digitale con larghezza di banda 70 MHz a 4 canali Oscilloscopio per auto portatile USB 6074BC/6074BC/6074BD
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:Dotato di serie di oltre 80 tipi di funzioni di misurazione per autoveicoli (Azione di accensione/Il sensore/Diagnosi del bus/Performer/Startup&Charge); Interfaccia USB 2.0 plug and play e non necessita di alimentazione aggiuntiva; Supporto per tablet PC; Supporta WIN10/WIN8/WIN7 ecc. Aggiornamento costante del software gratuito, prestazioni di costo più elevate; Supporta USBXI, facile da usare. Oscilloscopio a 4 canali isolati, frequenza di campionamento in tempo reale 1GSa/s, sensibilità di ingresso elevata 2mV-10V/DIV e ampio intervallo di ingresso, larghezza di banda elevata 70MHz, dimensioni ridotte, facile da trasportare. Tracciamento dinamico del cursore, registrazione della forma d'onda e funzione di riproduzione.Caratteristiche:Dotato di serie di oltre 80 tipi di funzione di misurazione automobilistica; Prima diagnosi: accensione del vuoto del collettore di aspirazione, accensione del vuoto della valvola di regolazione dei fumi di benzina, accensione dello scarico al minimo, accensione dello scarico di avviamento; Accensione: primaria e secondaria; Sensore: flussometro, albero a camme, albero motore, distributore , Sensore Lambda, Posizione farfalla; Diagnosi bus: esame dati bus CAN, integrità segnale bus CAN, acquisizione a lungo termine bus CAN bus LH, bus LIN; Esecutore: benzina/dieselAdatto per computer portatili, PC da tavolo e adatto per l'uso mobile selvaggio e l'uso in viaggio d'affari. Supporta WIN10/WIN8/WIN7 ecc.Interfaccia USB 2.0 plug and play e non necessita di alimentazione aggiuntiva;Ottima funzione, più di 20 tipi di funzione di misurazione automatica, funzione di verifica PASS/FAIL. Funzione trigger ricca di risorse, tracciamento dinamico del cursore, registrazione della forma d'onda e funzione di riproduzione.Buon design meccanico con dimensioni ridotte che è facile da trasportare. La custodia esterna è realizzata con lo stesso materiale: alluminio anodizzato. Ha una grande resistenza al calore e resistenza all'abrasione con un bell'aspetto. La durezza della superficie della lega di alluminio è notevolmente migliorata.Oscilloscopio a 4 canali isolati, frequenza di campionamento in tempo reale 1GSa/s, alta sensibilità di ingresso 2mV-10V/DIV e ampio intervallo di ingresso, larghezza di banda elevata 70MHz,I dati della forma d'onda possono essere emessi in EXCEL, BMP, JPG.Media della forma d'onda, bagliore residuo, controllo della luminosità, inversione, aggiunta, sottrazione, moltiplicazione, divisione, visualizzazione XY.Analizzatore di spettro FFTUn computer può connettersi con più oscilloscopi, espandere facilmente il numero del canale.Fornire DLL della libreria di sviluppo secondaria; Fornire un esempio di sviluppo di LabviewVBVCQTLa differenza è che il 6074BC non ha una funzione di opzione per il test dell'auto e le altre funzioni sono le stesse del 6074BE.Specifica:ModelloHantek 6074BELarghezza di banda70MHzCanale4 CHFrequenza di campionamento in tempo reale1GSa/sProfondità di memoria64KPrecisione della base dei tempi±50 ppmIntervallo di base dei tempi2ns/div-1000s/div (1-2-4 sequenze)Impedenza di ingresso1MΩ 25pFSensibilità di ingresso2mV/div~10V/divRisoluzione verticale8BitIntervallo di spostamento verticale2mV ~ 10V/div @ sonda x1; 20 mV ~ 100 V/div @ sonda x10;200 mV ~ 1000 V/div @ sonda x100; 2V ~ 10000V/div @ sonda x1000Precisione di guadagno CC±3%Larghezza di banda20MHzModalità di attivazioneEdge, Pulse, Video, AlternativaSorgente di attivazioneCH1, CH2, CH3,CH4Processo del segnale della forma d'onda+,-,x,÷,FFT, InvertiMisurazione dei cursoriCroce, Traccia, Orizzontale, VerticaleMisurazione automatica Vpp, Vamp, Vmax, Vmin, Vtop, Vmid, Vbase, Vavg, Vrms, Vcrms, Preshoot, Overshoot, Frequenza, Periodo, Tempo di salita, Tempo di caduta, Larghezza positiva, Larghezza negativa, Duty CycleVolume175mm x 105mm x 25mmIl pacchetto include1 x 6074BE1 x HT3071 x HT191 x HT18A1 x HT30A3 linee di clip Gator1 x HT251 x USB1 manualeModelloHantek 6074 aCLarghezza di banda70MHzCanale4 CHFrequenza di campionamento in tempo reale1GSa/sProfondità di memoria64KPrecisione della base dei tempi±50 ppmIntervallo di base dei tempi2ns/div-1000s/div (1-2-4 sequenze)Impedenza di ingresso1MΩ 25pFSensibilità di ingresso2mV/div~10V/divRisoluzione verticale8BitIntervallo di spostamento verticale2mV ~ 10V/div @ sonda x1; 20 mV ~ 100 V/div @ sonda x10200 mV ~ 1000 V/div @ sonda x100; 2V ~ 10000V/div @ sonda x1000Precisione di guadagno CC±3%Limite di banda20MHzModalità di attivazioneEdge, Pulse, Video, AlternativaSorgente di attivazioneCH1, CH2, CH3,CH4Processo del segnale della forma d'onda+,-,x,÷,FFT, InvertiMisurazione dei cursoriCroce, Traccia, Orizzontale, VerticaleMisurazione automaticaVpp, Vamp, Vmax, Vmin, Vtop, Vmid, Vbase, Vavg, Vrms, Vcrms, Preshoot, Overshoot, Frequenza, Periodo, Tempo di salita, Tempo di caduta, Larghezza positiva, Larghezza negativa, Duty CycleVolume175mm x 105mm x 25mmIl peso0.9KGIl pacchetto include1 oscilloscopio USB 6074bc2 x sonda per oscilloscopio(Nota: solo 2 pezzi di sonde nella confezione, se vuoi acquistarne di più, ti preghiamo di contattarci direttamente!!!)2 x BNC - cavo a clip1 cavo USB1 autista1 manualeModelloHantek 6074BDLarghezza di banda70MHzCanale4 CHFrequenza di campionamento in tempo reale1GSa/sProfondità di memoria64KPrecisione della base dei tempi±50 ppmIntervallo di base dei tempi2ns/div-1000s/div (1-2-4 sequenze)Impedenza di ingresso1MΩ 25pFSensibilità di ingresso2mV/div~10V/div Risoluzione verticale8BitIntervallo di spostamento verticale2mV ~ 10V/div @ sonda x1; 20 mV ~ 100 V/div @ sonda x10;200 mV ~ 1000 V/div @ sonda x100; 2V ~ 10000V/div @ sonda x1000Precisione di guadagno CC±3%Larghezza di banda20MHzModalità di attivazioneEdge, Pulse, Video, AlternativaSorgente di attivazioneCH1, CH2, CH3,CH4Processo del segnale della forma d'onda+,-,x,÷,FFT, InvertiMisurazione dei cursoriCroce, Traccia, Orizzontale, VerticaleMisurazione automaticaVpp, Vamp, Vmax, Vmin, Vtop, Vmid, Vbase, Vavg, Vrms, Vcrms, Preshoot, Overshoot, Frequenza, Periodo, Tempo di salita, Tempo di caduta, Larghezza positiva, Larghezza negativa, Duty CycleVolume175mm x 105mm x 25mmIl peso0.9KGAccessorio2 sonde passive, 2 linee di clip gatorIl pacchetto include:1 x 6074BC/6074BC/6074BD Memoria digitale oscilloscopio1 set di accessoriImmagini dei dettagli:
+
+
+
+

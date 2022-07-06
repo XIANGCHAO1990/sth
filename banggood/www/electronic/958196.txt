@@ -1,0 +1,177 @@
+https://www.banggood.com/Geekcreit-0_96-Inch-4Pin-White-IIC-I2C-OLED-Display-Module-12864-LED-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-958196.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® 0.96 Inch 4Pin White IIC I2C OLED Display Module 12864 LED Geekcreit for Arduino - products that work with official Arduino boards
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feature:
+
+OLED Driver IC: SSD1306
+Resolution: 128 x 64
+Visual Angle: >160°
+Input Voltage: 3.3V ~ 6V
+Compatible I/O Level: 3.3V, 5V
+Mini Size: 2.7 x 2.8cm
+Only Need 2 I/O Port to Control
+Full Compatible , 51
+
+Note:
+
+If you decide to buy OLED display, you must confirm that you can make it work by yourself, we'll haven't any technology support. Thanks for your understanding and support.
+
+Package included:
+
+1 x 0.96 Inch White IIC I2C OLED Display Module
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

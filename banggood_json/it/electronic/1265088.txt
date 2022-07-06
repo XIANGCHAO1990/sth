@@ -1,0 +1,159 @@
+1265088
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/E0/4B/2daca1d0-84ec-4f24-b525-32bd626511de.jpg
+ESP32 ESP32S 18650 Batteria Charge Shield V3 Micro USB Type-A USB 0.5A Test Scheda di protezione ricarica Geekcreit per Arduino - prodotti compatibili con schede Arduino ufficiali
+https://it.banggood.com/Geekcreit-ESP32-ESP32S-18650-Battery-Charge-Shield-V3-Micro-USB-Type-A-USB-0_5A-Test-Charging-Protection-Board-p-1265088.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nota:    Questo modulo è adatto solo per 18650 batteria  Questo modulo può essere alimentato o per raspberry pi e sensore contemporaneamente  Questo modulo emette corrente fino a 2A   (Questo prodotto non contiene l'installazione 18650 batteria, fare attenzione alla batteria positiva e negativa durante l'installazione, non invertire. Seguire la direzione + sul PCB e non seguire le indicazioni positive e negative sul supporto della batteria)    Caratteristiche:    1. Con protezione da sovraccarico e protezione da scarica eccessiva  2. Interfaccia di ricarica micro USB  3. Corrente di carica: 0,5 A  4. 1 commuta per controllare l'uscita USB  5. Tensione in ingresso: 5 ~ 8V  6. Tre interfacce di uscita 3V 1A   7. Tre interfacce di uscita 2A 5V  8. LED chiaro, verde per carica completa, rosso per sotto carica    La confezione include:    1 x 18650 Batteria Scheda di protezione ricarica  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

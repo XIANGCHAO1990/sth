@@ -1,0 +1,246 @@
+https://it.banggood.com/FLSUN-Super-Racer(SR)-3D-Printer-260mmX330mm-Print-Size-Fast-Print-or-Three-axis-Linkage-with-3_5inch-DANGLY-Touch-Screen-or-Removable-Crystal-Lattice-Glass-Hotbed-or-Dual-Drive-Extruder-p-1844899.html?cur_warehouse=CZ&ID=47184&rmmds=CategoryElectronicsPop
+Stampante 3D FLSUN® Super Racer (SR) 260 mm x 330 mm Formato di stampa Stampa rapida / Collegamento a tre assi con touch screen DANGLY da 3,5 pollici / Piano di cottura in vetro a reticolo di cristallo rimovibile / Estrusore a doppia unità
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▶ I prodotti non verranno più inviati con schede SD e schede USB e TF.▶ Caratteristiche:Dimensioni di stampa: 260 mm x 330 mm. La dimensione dell'stampante 3D in una vasta gamma di gruppi di pubblico interessati alle dimensioni della regione, per soddisfare le esigenze di una vasta gamma di gruppi di pubblico.Capacitivo a colori touch screen, dotato di cavo retrattile e supporto mobile touch screen, l'esperienza è più umana, più comoda e comoda da usare.Attacco a tre assi, la velocità di stampa è 2-3 volte i risultati del mercato I3, lo stesso modello, con la stessa precisione e qualità della superficie, può essere ridotto della metà del tempo, il che è il principale punto di vendita della macchina.Con rilevamento di materiale rotto, funzione di rinnovo dell'interruzione di corrente.Scheda madre a 32 bit processore, più stabile, più efficiente, controlla il modulo di azionamento a terra del motore per TMC2209 silent drive, l'effetto silenzioso appartiene al livello superiore delle stampanti di livello desktop.Installazione del modulo effettore: doppia ventola turbo + 4010 normale ventola per un totale di 3 ventole, l'effetto di dissipazione del calore che soffia è molto buono.La guida di movimento è un calibro di filo di livello industriale per garantire una stampa più precisa e stabile.Sistema di livellamento automatico, una chiave di livellamento, memoria permanente.Letto caldo in cristallo reticolo, riscaldando il letto caldo durante la stampa, il modello può aderire meglio alla piattaforma, dopo che la stampa è finita e il letto caldo si raffredda, è più facile togliere il modello.Estrusore a doppia marcia(Meccanismo di estrusione a doppia trasmissione), più coppia, estrusione più forte, più stabile e più durevole.Braccio parallelo in fibra di carbonio 3K ad alta resistenza, più efficace per garantire l'accuratezza del movimento, stabilità.Assemblaggio modulare, i clienti necessitano solo di 10-15 minuti per completare l'esperienza di assemblaggio.La macchina è dotata di scatola delle parti, le parti di uso comune possono essere conservate nella scatola delle parti, un servizio più umano e più confortevole.Piastra laterale in alluminio personalizzato ad alta resistenza, in grado di garantire che la macchina nel processo di stampa ad alta velocità, per mantenere un corpo stabile.La cintura è una cintura ad alta resistenza all'abrasione da 10 mm, per garantire al cliente nello stato di movimento ad alta velocità stampante 3D di uso a lungo termine.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifiche
+
+
+Tecnologia: modellazione a deposizione fusa (FDM)
+Anno: 2021
+
+Assemblaggio: parzialmente assemblato
+
+Disposizione meccanica: Deltaprinter
+
+Produttore: Flsun
+
+Proprietà della stampante 3D
+
+Volume di costruzione: Ø260 x 330 mm
+
+Velocità di stampa: 100-200 mm / s
+
+Sistema di alimentazione: Bowden
+
+Testina di stampa: ugello singolo
+
+Dimensione ugello: 0,4 mm
+
+Max. temperatura dell'estremità calda: 260 ℃
+
+Max. temperatura del letto riscaldato: 100 ℃
+
+Materiale letto di stampa: vetro
+
+Telaio: N / A
+
+Livellamento del letto: automatico
+
+Connettività: USB, scheda SD
+
+Recupero della stampa: sì
+
+Sensore del filamento: sì
+
+Fotocamera: no
+
+Materiali
+
+Diametro del filamento: 1,75 mm
+
+Filamento di terze parti: sì
+
+Materiali del filamento: materiali di consumo (PLA, ABS, PETG)
+
+Software
+
+Affettatrice consigliata: Cura, Repetier-Host
+
+Sistema operativo: Windows, OSX, Linux
+
+Tipi di file: STL, OBJ, AMF
+
+Dimensioni e peso
+
+Dimensioni del telaio: 440 x 390 x 960 mm
+
+Peso: 13,6 kg
+
+
+
+
+
+

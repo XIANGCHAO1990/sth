@@ -1,0 +1,218 @@
+1091209
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/5F/69/992d551e-0391-48e6-ba90-4ee9e7e0ed5e.jpg
+Kit 8x8x8 Blau LED MP3 Musik Spektrum DIY Elektro Kit Kubus 3D Licht
+https://de.banggood.com/3D-Light-Cube-Kit-8x8x8-Blue-LED-MP3-Music-Spectrum-DIY-Electronic-Kit-p-1091209.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HINWEIS:Dieses Produkt enthält nicht Gehäuse !! Wenn Sie das Gehäuse benötigen, bitte separat kaufen (Produkt ID:1101043).
+Dies ist ein DIY Kit, Sie müssen einige Kenntnisse sowie die Fähigkeit über die Elektronik haben.
+Sie benötigen viel Löten, sollten Sie genügend Geduld haben.
+Empfohlenes Herunterladen und den Anweisungen überprüfen, um sicherzustellen, dass Sie verwenden können.
+
+8x8x8 Blau nebligen LED Version.
+Datei Herunterladen: Klicken Sie zum Öffnen
+
+Feature:
+
+1. Eingebetter 3W Verstärker + 3W hochwertiger Lautsprecher
+2. Kann TF Speicherkarte eingesetzt, um Musik zu spielen
+3. Kann U Disk eingelegt werden, um Musik zu spielen
+4. Durch die Audio Line Eingang und Ausgang Musik
+5. Integrierte MP3-Musik, kann die Lautstärke eingestellt werden
+6. Eingebettete Musik kann durch einen Knopf auf der nächsten Song gesteuert werden
+7. Eingebettete 42 Arten von Off-line atemberaubende Animation (Stecker im Strom kann Animation laufen)
+8.  Eingebettete 14 Arten von Offline-dynamische Audio-Animation (Tanz mit Musik)
+9. 3D8 auf dem Maschinenbetrieb (Steuer Animation)
+10. 3D8 auf der Maschine Musikmodus
+11. Infrarote Fernbedienung Funktion
+12. Nacht, tagsüber Steuermodus
+13. PWM Atmung Lichtmodus
+14. Schalten Sie auf dem Mainboard automatischen Erfassungsmodus
+15. Photoresistor automatische Dimmfunktion (müssen selbst zu erweitern)
+16. Gehäusegröße: 233 * 161 * 161mm
+17. PCB Board: 150 * 150mm
+18. Eingangsspannung: 5V / 5V Ladegerät
+19. Stromstärke: 1A-2A (2A besser)
+
+Vier Schlüsselfunktionen:
+
+K1 Taste: Modusauswahl eingeben, Tag, Nacht Modus Steuer
+K2 Schlüssel: Geben Sie den 3D8 PC Modus (drücken Sie die K1 Schlüssel um wirksam zu sein nach dem Einschalten)
+K3 Geben Sie 42 Arten von Offline Animationsmodus (drücken Sie die: Taste K1 Schlüssel um wirksam zu sein nach dem Einschalten)
+K4-Schlüssel: Geben Sie 14 Arten von Off-Line-Audio-Modus (drücken Sie die K1 Schlüssel um wirksam zu sein nach dem Einschalten)
+
+Drei Musiktasten Funktionen:
+
+S1 Schlüssel:Musik-Wiedergabe eingeben/Stopp- Kontrolle
+S2 Schlüssel: Vorherigen Song eingeben/ Volumenabnahme Kontrolle
+S3 Schlüssel: Geben Sie den nächsten Song / Volumenzunahme Kontrolle
+
+Circuit Design:
+
+STC12C5A60S2 + 74HC245 + 74HC138 + 74HC595N
+1. Integrierte STC12C5A60S2 High-Speed-1T-Mikrocontroller
+2. 74HC245 Puffer Treiber (Kaskadenschaltung)
+3. 5A Hochstrom-MOS-Rohr-Treiber-Chip (die ungleichmäßige Helligkeit zu lösen)
+4. High-Geschwindigkeit Scannen Chip und die serielle Steuerung Kaskade Chip
+5. Professionellen MP3 Musik Chip verwenden
+6. Professionellen Leistungsverstärker Chip 8002B verwenden
+
+Es gibt zwei Möglichkeiten, um das Muster zu ändern:
+
+1. Ändern Sie das Programm (schwer, Sie müssen verstehen, Programmierung)
+2. PC Computer Software direkte Manipulation des Licht kubisch
+
+Lieferumfang:
+
+1 x 3D Licht Kubus Satz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

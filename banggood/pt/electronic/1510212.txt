@@ -1,0 +1,195 @@
+https://pt.banggood.com/TWO-TREES-CNC-Shield-+-UNO-R3-Board-+4x-A4988-Stepper-Motor-Driver-+4x-4401-Stepper-Motor-Kit-for-3D-Printer-p-1510212.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+TWO TREES® CNC Shield + UNO R3 Board +4x A4988 Stepper Motor Driver +4x 4401 Stepper Motor Kit for 3D Printer
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:
+
+
+
+
+Versão mais recente do CNC Shield 3.0
+
+GRBL 0.8c compatível. (Firmware de código aberto que roda em um UNO que transforma comandos de código G em sinais de passo)
+
+Suporte a 4 eixos (X, Y, Z, A-Can duplicar X, Y, Z ou fazer um 4o eixo completo com firmware personalizado usando os pinos D12 e D13)
+
+2 x paradas finais para cada eixo (6 no total)
+
+Habilitação do fuso e direção
+
+Habilitar refrigerante
+
+Usa drivers de passo compatíveis com Pololu A4988 removíveis. (A4988, DRV8825 e outros)
+
+Jumpers para definir o Micro-Stepping para os drivers de passo. (Alguns drivers como o DRV8825 podem fazer até 1/32 micro-stepping)
+
+Os motores de passo podem ser conectados com conectores molex de 4 pinos ou soldados no lugar
+
+Funciona em 12-36 V DC. (No momento, apenas os drivers Pololu DRV8825 podem lidar com até 36V, portanto, considere a tensão de operação ao alimentar a placa.)
+
+
+
+
+Incluído no Pacote:
+
+
+1 x CNC Shield V3.0
+
+1 x UNOR3 Board
+
+4 x A4988 Driver
+
+4 x 4401 motor de passo
+		1 x cabo USB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

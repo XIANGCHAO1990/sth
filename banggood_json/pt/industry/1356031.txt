@@ -1,0 +1,315 @@
+1356031
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/82/96/7ec6d381-6375-4a2c-bcfb-326924a34787.jpg
+PZEM-022 Abrir e Fechar CT 100A AC Monitor de Energia Monitor Digital Voltímetro Frequência Amperímetro
+https://pt.banggood.com/PZEM-022-Open-and-Close-CT-100A-AC-Digital-Display-Power-Monitor-Meter-Voltmeter-Ammeter-Frequency-p-1356031.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características:
+
+
+1. Função de medição de parâmetros elétricos (tensão, corrente, potência ativa, energia, frequência, fator de potência)
+
+2. Função de alarme de sobrecarga (limite de alarme de sobrecarga, luz de fundo e energia piscando para o alarme)
+
+3. Função predefinida de limite de alarme de energia (pode definir o limite de alarme de energia)
+
+4. A energia pode ser reiniciada usando a chave
+
+5. Armazene os dados ao desligar
+
+6. Tela grande LCD 
+
+7. Função de luz de fundo
+
+8. Função-chave
+
+
+♦Controle de luz de fundo
+
+Pressione rapidamente a tecla para ligar ou desligar a luz de fundo, a luz de fundo tem função de memória, pode armazenar o estado ligado ou desligado ao desligar.
+
+
+♦Reiniciar energia
+
+Passo 1: Pressione e segure o por 5 segundos até que o valor da energia pisque, então solte a tecla.
+
+Passo 2: Pressione rapidamente a tecla novamente, então o valor de energia é apagado e sai do estado de reinicialização piscando.
+
+Passo 3: Se não houver nenhuma operação na chave em 5 segundos, significa que o valor de energia não foi apagado e sairá do estado de reinicialização.
+
+
+♦Definir limite de alarme de energia 
+
+Passo 1: Pressione longamente a tecla até que a tela LCD exiba “SET CLr” e, em seguida, solte a tecla para entrar no estado de configuração
+
+Passo 2: a janela de energia exibe o valor do alarme de energia atual e o último dígito começa a piscar, então você pode pressionar rapidamente para mais 1, quando não houver operação por mais de 3 segundos, ele mudará a posição do dígito automaticamente, o método de configuração é o mesmo como acima.
+
+Passo 3: Depois de terminar a configuração, pressione e segure a tecla por mais de 5 segundos para armazenar automaticamente e sair, a faixa de limite de potência ativa é de 0,0 ~ 2,5 kW. ele pode exibir seis parâmetros ao mesmo tempo.
+
+
+
+Especificações:
+
+
+1. Tensão de trabalho: 80 ~ 260VAC
+
+2. Tensão de teste: 80 ~ 260VAC
+
+3. Potência nominal: 100A / 22000W
+
+4. Frequência de operação: 45-65 Hz
+
+5. Precisão de medição: grau 1,0
+
+Formato de apresentação:
+
+
+1. Poder
+	Faixa de teste: 0 ~ 22000W
+	Potência de medição inicial: 0,2W
+
+<Formato de exibição de 10 W: 1,00 ~ 9,99 W
+
+<Formato de exibição de 100 W: 10,0 ~ 99,9 W
+
+<Formato de exibição de 1000 W: 100 ~ 999 W
+
+<Formato de exibição de 10000W: 1,00 ~ 9,90kW
+
+≥10000W formato de exibição: 10,0 ~ 22,0kW
+
+
+2. Energia
+	Faixa de teste: 0 ~ 999kWh
+
+Formato de exibição <1kWh: 0 ~ 999Wh
+
+Formato de exibição <10kWh: 1,00 ~ 9,99kWh
+
+Formato de exibição ≥10kWh: 10 ~ 999kWh
+
+
+3.Tensão
+	Faixa de teste: 80 ~ 260V
+
+Formato de exibição: 80 ~ 260V
+
+
+4. Atual
+	Faixa de teste: 0 ~ 100A
+	Corrente de medição inicial: 0,001A
+
+<10A formato de exibição: 0,000 ~ 9,000A
+
+Formato de exibição ≥10A: 10,00 ~ 99,99A
+
+
+5. Freqüência
+	Faixa de teste: 45 ~ 65Hz
+
+Formato de exibição: 45 ~ 65Hz
+
+
+6. Fator de potência
+	Faixa de teste: 0 ~ 1PF
+
+Formato de exibição: 0,00 ~ 1,00PF
+
+
+
+Precauções:
+
+
+1. Este módulo é adequado para uso interno, não use ao ar livre.
+
+2. A carga aplicada não deve exceder a potência nominal.
+
+3. A ordem da fiação não pode estar errada.
+
+Incluído no Pacote:
+
+		1 x abrir e fechar o monitor de energia CT
+
+Imagens detalhadas:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

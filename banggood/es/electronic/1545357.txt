@@ -1,0 +1,244 @@
+https://es.banggood.com/HackRF-One-1MHz-to-6GHz-USB-Open-Source-Software-Radio-Platform-SDR-RTL-Development-Board-Reception-of-Signals-p-1545357.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+HackRF One 1MHz a 6GHz Software de código abierto USB Radio Plataforma Placa de desarrollo SDR RTL Recepción de señales
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Si necesitas el PortaPack H1, compre ID de producto: 1545380
+HackRF One Versión negra Identificación de producto: 1546421
+
+TXCO: ID de producto 1153700
+
+
+Problema comun:
+
+
+
+P. La computadora no puede encontrar la máquina. / No se reconoce el USB.
+
+R: Requiere instalación de firmware. Si el firmware aún no funciona después de instalarlo, puede actualizarlo.
+
+Firmware: http://myosuploads3.banggood.com/products/20200116/20200116013405PortapackFirmwareTool.rar
+
+Otros archivos: 
+
+https://greatscottgadgets.com/sdr/ 
+https://github.com/mossmann/hackrf/wiki
+
+Especificaciones:
+
+
+
+- Frecuencia de funcionamiento de 1 MHz a 6 GHz
+
+- Transceptor semidúplex
+
+- Hasta 20 millones de muestras por segundo
+
+- Muestras de cuadratura de 8 bits (I de 8 bits y Q de 8 bits)
+
+- Compatible con GNU Radio, SDR # y más
+
+- Filtro de banda base y ganancia RX y TX configurable por software
+
+- Alimentación del puerto de antena controlada por software (50 mA a 3,3 V)
+
+- Conector de antena hembra SMA
+
+- Entrada y salida de reloj hembra SMA para sincronización
+
+- Prácticos botones para programar
+
+- Encabezados de pines internos para expansión
+
+- USB 2.0 de alta velocidad
+
+- alimentado por USB
+
+- Hardware de código abierto   
+
+
+
+Parámetros:
+
+
+
+- Banda de frecuencia: 1MHz-6Ghz
+
+- Ancho de banda de datos: 20MHz
+
+- Precisión de muestreo (ADC / DAC): 8BIT
+
+- Velocidad de muestreo (ADC / DAC): 20 Mbps
+
+- Interfaz: USB2.0
+
+- Fuente abierta
+
+- Potencia máxima de transmisión: 10dbm
+
+- EVM de transmisión 64QAM: 1,5%
+
+- Ancho de banda de muestreo complejo: 20Mhz
+
+
+
+Hardware:
+
+
+
+- Mezclador RFFC5072: 80MHz-4200MHz
+
+- Transceptor de RF de ancho de banda inalámbrico MAX2837: 2.3Ghz-2.7Ghz
+
+- Procesador LPC4330: Frecuencia principal 204MHz
+
+- Amplificador MGA-81563: 0,1-6 Ghz, 3 V, 14 dBm
+
+
+
+El paquete incluye:
+
+
+
+1 x tablero HackRF One 
+
+1 x cable USB
+
+
+
+
+

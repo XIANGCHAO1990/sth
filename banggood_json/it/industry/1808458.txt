@@ -1,0 +1,323 @@
+1808458
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/89/2C/69afcef1-7241-4b07-9597-96050190d638.jpg
+TOOLTOP ET8134 Schermo da 4,7 pollici Grande LCD Smart True RMS Digitale Multimetri Misurazione automatica + manuale Resistenza diodo Capacità Temperatura Frequenza Test
+https://it.banggood.com/TOOLTOP-ET8134-4_7-inch-Large-LCD-Screen-Smart-True-RMS-Digital-Multimeter-Automatic-+-Manual-Measure-Resistance-Diode-Capacitance-Temperature-Frequency-Test-p-1808458.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristiche:Test manuale + AtuoDisplay digitale a 6000 conteggiVero RMSMisurazione della tensione CA CCMisurazione della corrente AC DCMisurazione della continuitàMisurazione della resistenzaProva diodiMisurazione della capacitàMisura della temperaturaMisurazione della frequenzaSpecifiche:● Selezionare automaticamente la funzione di misurazione e l'intervallo.● Protezione da sovraccarico su tutta la gamma.● Max. tensione tra il terminale di misurazione e la terra: 600 V CC o 600 V CA.● Display: 4,7 pollici LCD ● Max. valore visualizzato: 6000 cifre.● Indicazione di polarità: indicazione automatica e "-" indica negativo.● Visualizzazione fuori scala: "0L" o "-0L".● Tempo di campionamento: circa 3 volte / secondo., Grafico a barre 10 volte / secondo● Visualizzazione unità: visualizzazione della funzione e della quantità di elettricità.● Tempo di spegnimento automatico: 15 minuti● Alimentazione: batteria AAA da 1,5 V × 2 (non inclusa)● Batteria Indicazione di sottotensione: LCD simbolo del display● Coefficiente di temperatura: meno di 0,1 × precisione / ℃.● Temperatura di funzionamento: 18 ℃ ～ 28 ℃.● Temperatura di conservazione: -10 ℃ ～ 50 ℃.
+
+
+
+
+
+
+
+Allineare
+Risoluzione
+Precisione
+
+
+Corrente alternata
+6000mA
+1mA
+± (1,0% lettura + 8 cifre)
+
+
+10 A
+0.01 A
+
+
+Corrente continua
+6000mA
+1mA
+± (1,0% lettura + 5 cifre)
+
+
+10 A
+1mA
+
+
+Tensione continua
+6V
+0.001V
+± (0,5% lettura + 3 cifre)
+
+
+60V
+0.01V
+
+
+600V
+0.1V
+
+
+Tensione AC
+6V
+0.001V
+± (0,8% lettura + 5 cifre)
+
+
+60V
+0.01V
+
+
+600V
+0.1V
+
+
+Test di linea on-off
+
+1Ω
+Se la resistenza della linea
+
+
+essere misurato è inferiore a
+
+
+50Ω, cicalino nello strumento
+
+
+renderà continuo
+
+
+suoni allarmanti.
+
+
+Resistenza
+6000
+0,1 Ω
+± (0,8% lettura + 3 cifre)
+
+
+6kΩ
+0,001 kΩ
+
+
+60kΩ
+0,01 kΩ
+
+
+600 kΩ
+0,1 kΩ
+
+
+6MΩ
+0,001 MΩ
+
+
+60 MΩ
+0,01 MΩ
+
+
+Prova diodi
+1 V
+0.001V
+Corrente di prova ： circa 1mA
+
+
+Tensione a circuito aperto: circa 2,8 V.
+
+
+Il display mostra un file
+
+
+approssimazione del diodo
+
+
+caduta di pressione in avanti
+
+
+
+
+
+Temperatura
+-40 ~ 1000 ° C
+1°C
+± (1% lettura + 3 ° C)
+
+
+-40-1832 ° F
+1°F
+± (1% lettura + 3 ℉)
+
+
+Frequenza
+100.0 Hz
+0.1Hz
+土 （1,0% lettura + 5 cifre)
+
+
+1000Hz
+1Hz
+
+
+Condensatore
+6nF
+0.001nF
+士 (10% lettura + 40 cifre)
+
+
+600nF
+ 0.1nF
+ ± (2,5% lettura + 20 cifre)
+
+
+6uF
+0.001 uF
+
+
+60uF
+0.01 uF
+
+
+600uF
+0.1uF
+
+
+6mF
+1 uF
+
+
+60mF
+0.01mF
+
+
+>>Si prega di fare clic qui per scaricare il manuale utente in inglese<<Il pacchetto include:1xMultimetri1 paio di puntali 1 x cavo temperatura1 x manuale utente inglese1 confezione Scatola 
+
+
+
+

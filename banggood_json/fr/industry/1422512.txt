@@ -1,0 +1,231 @@
+1422512
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/B3/AB/f11bc5c1-4bc2-467e-892b-75149851ca4a.jpeg
+Contrôleur de Charge de générateur de vent 12V/24V contrôleur hybride vent et lumière étanche 300W/600W 
+https://fr.banggood.com/12V-or-24V-Wind-Generator-Charge-Controller-300W-or-600W-Waterproof-Wind-And-Light-Hybrid-Controller--p-1422512.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spécification:
+
+
+Nom : contrôleur de charge étanche 12 V/24 V 300 W/600 W de l'éolienne.
+
+Modèle : B26386 
+
+Matériel: Alliage d'aluminium
+
+Application : contrôleur photovoltaïque d'énergie éolienne
+
+La couleur noire
+
+Modèle de produit : SF-12-24-A
+
+Tension nominale de la batterie : DC12/24V
+
+Puissance nominale de l'éolienne : 300 W/600 W
+
+Tension de verrouillage de l'éolienne : 15 V/30 V
+
+Tension de récupération de dérapage (valeur définie en usine) : 13,5 V/27 V
+
+Plage de température et d'humidité de fonctionnement : -35 ~ + 75 ℃ 
+
+Le courant statique : ≤ 20 mA                                                                                                                                       
+
+Taille : env. 76mm×102mm×23mm
+
+Niveau de protection : IP67
+
+
+Noter:
+
+
+ 1. La tension de sortie de l'éolienne et la tension nominale de la batterie sont les mêmes.
+
+ 2. Selon la procédure de connexion suivante, connectez d'abord la batterie à deux polaires, Yin et Yang, deuxièmement, la connexion des éoliennes à tension triphasée.
+
+ 3. S'il vous plaît, en stricte conformité avec les exigences, les batteries et les éoliennes seront correctement connectées au contrôleur, connectez l'inversion de polarité ou un mauvais comportement conduira à un fonctionnement du système n'est pas normal, voire à un contrôleur complètement endommagé.
+
+
+
+
+Caractéristiques: 
+
+
+- Le contrôleur de charge automatique de la batterie peut contrôler l'éolienne. La batterie est pleine, grâce au circuit de contrôle automatique interne, le freinage, lorsque la tension de la batterie chute à la tension de récupération, l'éolienne fonctionne, afin de protéger le ventilateur et la batterie.
+
+- Protection étanche complète. Ce type de contrôleur adopte une conception complètement étanche, le niveau de protection atteint le IP67 ci-dessus, même dans l'eau, une utilisation normale pendant une longue période améliore la fiabilité.
+
+
+
+Performance: 
+
+
+- Fiabilité : Conception intelligente et modulaire, structure simple, fonctions puissantes ; Composants de haute qualité de qualité industrielle et techniques de fabrication strictes, adaptés aux environnements de travail relativement difficiles tels que les basses températures. Il a également des performances fiables et une longue durée de vie.
+
+
+
+Méthode de connexion :
+
+
+1. Batteries ont un Yin et Yang, le contrôleur a également le Yin et Yang, les deux composants électriques avec des fils connectés ensemble, le rouge est l'anode, le noir est la cathode
+
+2. La tension alternative triphasée de sortie de l'éolienne, la borne d'entrée triphasée du contrôleur (ligne verte), peut être câblée ensemble.
+
+
+
+Emballage inclus:
+
+
+1X contrôleur hybride vent et lumière 
+
+ 1X manuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

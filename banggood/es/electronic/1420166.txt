@@ -1,0 +1,195 @@
+https://es.banggood.com/Geekcreit-Wireless-NodeMcu-Lua-CH340G-V3-Based-ESP8266-WIFI-Internet-of-Things-IOT-Development-Module-p-1420166.html?cur_warehouse=CN&ID=522225&rmmds=CategoryElectronicsPop
+Geekcreit® Wireless NodeMcu Lua CH340G V3 Módulo de desarrollo IOT de Internet de las cosas WIFI basado en ESP8266
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificaciones:
+
+
+
+Tamaño: Aprox. 5.7x3x1cm / 2.24x1.18x0.39 "
+
+
+
+
+Ventaja:
+
+
+
+1. De código abierto
+
+2. Interactivo
+
+3. Programable
+
+4. Bajo costo
+
+5. Simple
+
+6. Inteligente
+
+Wi-Fi habilitado
+
+IO de hardware similar al compatible
+
+API avanzada para E / S de hardware, que puede reducir drásticamente el trabajo redundante para configurar y manipular hardware.
+
+Código compatible, pero de forma interactiva en el script Lua.
+
+API de red de estilo Nodejs
+
+API impulsada por eventos para aplicaciones de red, que facilita a los desarrolladores escribir código que se ejecuta en una MCU de 5 mm * 5 mm de tamaño en estilo Nodejs.
+
+Acelere enormemente el proceso de desarrollo de su aplicación IOT.
+
+WI-FI de menor costo
+
+Es una placa pequeña, basada en ESP8266, integra GPIO, PWM, IIC, 1-Wire y ADC, todo en una placa
+
+
+
+
+
+Paquete incluido:
+(Opcional)
+
+1/2/3/5/10/20/30/40/50 x NodeMcu Lua CH340G ESP8266 Módulo de Internet WIFI
+
+
+
+
+

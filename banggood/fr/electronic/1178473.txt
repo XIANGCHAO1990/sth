@@ -1,0 +1,193 @@
+https://fr.banggood.com/3Pcs-4A-XL6009E1-Adjustable-DC-DC-Step-Up-Boost-Converter-Power-Supply-Module-p-1178473.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+3Pcs 4A XL6009E1 Réglable DC-DC Step Up Booster Convertisseur Module d'Alimentation
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+
+Le XL6009 est un module haute performance (BOOST) avec un courant de commutation 4A. Le module utilise la deuxième génération de technologie de commutation à haute fréquence XL6009E1 en tant que puce de base, une performance bien supérieure à la première génération de technologie LM2577. Le module progressif XL6009 coûte plus bas, des performances plus excellentes, le module LM2577 est sur le point d'être éliminé.
+Tension d'entrée ultra-large 3V ~ 32V, la meilleure plage de tension de fonctionnement est de 5 ~ 32V;
+Tension de sortie ultra-large de 5V ~ 35V;
+Commutateur transistor MOSFET haute efficacité intégré 4A, l'efficacité jusqu'à 94%; (LM2577 courant seulement 3A)
+Fréquence de commutation ultra-haute 400KHz, vous pouvez utiliser un condensateur de filtre de petite capacité qui peut obtenir de très bons résultats, plus petite, plus petite. (LM2577 fréquence seulement 50KHz)
+
+Caractéristique:
+
+Nature du module: Boost non isolé (BOOST)
+Méthode de rectification: rectification non synchrone
+Plage d'entrée: 3V ~ 32V
+Plage de sortie: 5V ~ 35V
+Courant d'entrée: 4A (max), sans charge 18mA (entrée 5V, sortie 8V, sans charge inférieure à 18mA. Plus la tension est élevée, plus le courant sans charge est élevé.)
+Efficacité de conversion: <94% (plus la différence de pression est élevée, plus l'efficacité est faible)
+Fréquence de commutation: 400KHz
+Onduleur de sortie: 50mV (plus la tension est élevée, plus le courant est grand, plus l'ondulation est grande)
+Régulation de charge: ± 0,5%
+Régulation de tension: ± 0,5%
+Température de fonctionnement: -40 ℃ ~ + 85 ℃
+Dimensions: 43mm * 21mm * 14mm (L * W * H)
+
+Emballage inclut:
+
+3 x 4A XL6009E1 Réglable DC-DC Step Up Booster Convertisseur Module d'Alimentation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,
+
+

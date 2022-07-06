@@ -1,0 +1,198 @@
+1311439
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/BA/E5/899ae22e-d35c-4819-9935-f2df4d9faf9e.jpeg
+Geekcreit® LCR-T4 12864 LCD Grafiksel Transistör Test Cihazı Direnç Kapasitans ESR SCR Ölçer
+https://tr.banggood.com/Geekcreit-LCR-T4-12864-LCD-Graphical-Transistor-Tester-Resistance-Capacitance-ESR-SCR-Meter-p-1311439.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikler:
+
+Direnç: 0.1ω-50Mω
+Kondansatör: 25pF-100000uF
+Endüktans: 0.01mH - 20H
+Çalışma gücü: DC-9V
+Bekleme akımı: 0.02uA
+Çalışma akımı: 25mA
+Malzeme: Metal + Plastik
+Boyut: yaklaşık 11,1 cm / 4,37 "x2,6 cm / 1,02" x8,5 cm / 3,34 "
+[Dönüşüm: 1 cm = 0,3937 inç, 1 inç = 2,54 cm]
+
+
+Özellikleri:
+
+
+
+1. Önyükleme voltajı algılama işlevini destekleyin
+
+2. NPN ve PNP transistörlerinin, N-kanal ve P-kanal MOSFET'lerinin, diyotların (çift diyotlar dahil), tristörlerin, triotların, dirençlerin ve kapasitörlerin otomatik tespiti. Bileşen uçlarını otomatik olarak test etme ve LCD'te görüntüleme
+
+3. Verici transistörün ileri öngerilim voltajı, bir transistörün, bir MOSFET koruma diyotunun ve benzerinin amplifikasyon faktörü ve baz sayısı tespit edilerek belirlenebilir.
+
+4. Kapı eşik voltajını ve kapı kapasitansı MOSFET'i ölçün
+
+5. Ekran 12864 lcd LCD kullanır (128 * 64 karakter)
+
+6. Yüksek test hızı, geçerli bileşen testi: 2 saniyede (daha büyük kapasitörler hariç, büyük kapasitans ölçümü de uzun zaman alır, 1 dakikadaki ölçüm süresi normaldir)
+
+7. Tek tuşla çalıştırma, güç testi.
+
+8. Güç Tüketimi Kapatma Modu: 20 nA'dan az
+
+9. Otomatik kapanma işlevi gereksiz israfı önleyebilir, pil enerjisinden tasarruf edebilir ve pil ömrünü uzatabilir.
+
+Paket şunları içerir:
+
+	1 x LCR-T4 12864 LCD Grafik Transistör Test Cihazı
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

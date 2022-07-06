@@ -1,0 +1,144 @@
+1170343
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/76/A6/68083893-413b-4cd1-8f47-e017bfea598d.JPG
+Módulo I2C do driver servo motor PCA9685 de 16 canais e 12 bits PWM
+https://pt.banggood.com/PCA9685-16-Channel-12-bit-PWM-Servo-Motor-Driver-I2C-Module-p-1170343.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características:   Esta placa / chip usa I2C endereço de 7 bits entre 0x60-0x80, selecionável com jumpers  Bloco de terminais para entrada de energia (ou você pode usar os breakouts de 0,1 "na lateral)  Proteção de polaridade reversa na entrada do bloco terminal  Energia verde - bom LED  Conectores de 3 pinos em grupos de 4 para que você possa conectar 16 servos de uma vez (os plugues dos servos são ligeiramente mais largos que 0,1 ", então você só pode empilhar 4 próximos um do outro no cabeçalho de 0,1"  Design "Corrente"  Um local para colocar um grande capacitor na linha V + (se você precisar)  Resistores da série de 220 ohms em todas as linhas de saída para protegê-los e tornar os LEDs de acionamento triviais  Jumpers de solda para os 6 pinos de seleção de endereço  Driver PWM controlado por i2c com relógio integrado. Ao contrário da família TLC5940, você não precisa enviar continuamente sinal de amarrando seu microcontrolador, seu funcionamento é totalmente gratuito!  É compatível com 5V, o que significa que você pode controlá-lo de um microcontrolador de 3,3 V e ainda conduzir com segurança até saídas de 6 V (isso é bom para quando você deseja controlar LEDs brancos ou azuis com mais de 3,4 voltagens diretas)  6 pinos de seleção de endereço para que você possa conectar até 62 deles em um único barramento i2c, um total de 992 saídas - são muitos servos ou LEDs  Frequência ajustável PWM até cerca de 1,6 KHz  Resolução de 12 bits para cada saída - para servos, isso significa resolução de cerca de 4us com taxa de atualização de 60 Hz  Saída configurável push-pull ou open-dreno  Pino de habilitação de saída para desabilitar rapidamente todas as saídas  Incluído no Pacote:   1 x PCA9685 16 canais 12 bits PWM Servo Motorista I2C Módulo para robô                        
+
+
+

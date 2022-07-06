@@ -1,0 +1,159 @@
+https://fr.banggood.com/ESP-F1-Wireless-WiFi-Module-ESP8266-Serial-WiFi-Module-ESP-07S-p-1424196.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Module WiFi sans fil ESP-F1 ESP8266 Module WiFi série ESP-07S Geekcreit pour Arduino - produits compatibles avec les cartes Arduino officielles
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Fonctionnalités:    Le processeur de base du module ESP-F1 utilise la puce ESP8266EX à coût élevé. La puce intègre le microcontrôleur 32 bits ultra-basse consommation L106 de Tensilica, leader sur le marché, avec mode simplifié 16 bits, prise en charge des fréquences principales 80 MHz et 160 MHz et prise en charge RTOS dans des boîtiers plus petits. L'ESP8266EX dispose d'une fonction réseau Wi-Fi complète, qui peut être utilisée indépendamment et exécutée en tant qu'esclave sur d'autres MCU hôtes. Lorsque ESP8266EX est appliqué indépendamment, il peut être démarré directement à partir de Flash externe. La mémoire cache intégrée est utile pour améliorer les performances du système et optimiser le système de stockage. En outre, l'ESP8266EX peut être utilisé comme adaptateur Wi-Fi uniquement via l'interface SPI / SDIO ou l'interface I2C / UART et peut être appliqué à la conception de tout microcontrôleur.  Le module ESP-F1 prend en charge le protocole standard IEEE802.11 b / g / n / e / i et la pile de protocoles TCP / IP complète. Les utilisateurs peuvent utiliser ce module pour ajouter des fonctions de mise en réseau à des périphériques existants ou pour créer des contrôleurs de réseau indépendants.  Le module ESP-F1 offre une praticabilité maximale au coût le plus bas, ainsi que des possibilités infinies pour que la fonction Wi-Fi soit intégrée dans d'autres systèmes.      Spécification:   Gamme de fréquence: 2.4G ~ 2.5G (2400M ~ 2483.5M)  Puissance d'émission: 802.11b: +20 dBm                                    802.11b: +17 dBm                                      802.11b: +14 dBm  Sensibilité à la réception: 802.11b: -91 DBM (11 Mbps)                                     802.11g: - 75 DBM (54 Mbps)                                     802.11n: - 72 DBM (MCS7)  Antenne: antenne de carte de circuit imprimé  CPU: microcontrôleur Tensilica L106 32 bits  Périphériques: Télécommande UART / SDIO / SPI / I2C / I2S / IR                                  GPIO / ADC / PWM / SPI / I2C / I2S  Tension de travail: 2.5V ~ 3.6V  Courant moyen: 80 mA  Température de fonctionnement: - 40 C ~ 85 C  Plage de température ambiante: - 40 C ~ 125 C  Taille de l'emballage: 16 mm x 24 mm x 3 mm  Mode Wi-Fi: Station / SoftAP / SoftAP + Station  Mécanisme de sécurité: WPA / WPA2  Type de cryptage: WEP / TKIP / AES  Mise à niveau du firmware: UART Download / OTA (via le réseau)  Développement de logiciels: Non-RTOS / RTOS / IDE, etc.  Protocoles réseau: IPv4, TCP / UDP / HTTP / FTP / MQTT  Configuration utilisateur: Jeu d'instructions AT + / Serveur Cloud / Android / AP iOS     Emballage inclus:  1 x module WiFi sans fil ESP-F1 ESP8266 module WiFi série 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,223 @@
+1206782
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/DE/26/ebb27e89-c2b9-4de0-8488-37da3f1b2651.JPG
+2.8 Pollici ILI9341 240x320 SPI TFT LCD Display Modulo Porta Seriale SPI a Sfioramento
+https://it.banggood.com/2_8-Inch-ILI9341-240x320-SPI-TFT-LCD-Display-Touch-Panel-SPI-Serial-Port-Module-p-1206782.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Scarica il file: http://files.banggood.com/2017/12/2.8-spi-9341.zip
+
+Specifiche tecniche:
+
+
+
+
+Tipo: Pannello touch
+
+
+Schermo: 2.8 "SPI Seriale
+
+
+Display area: 46 (L) X 65 (A) mm
+
+
+Dimensioni: 86 x 50 mm
+
+
+Elemento di driver: matrice attiva a-Si TFT
+
+
+Disposizione di pixel: striscia verticale RGB
+
+
+Driver IC: ILI9341
+
+
+Retroilluminazione: bianco LED
+
+
+Direzione di visualizzazione: ore 6
+
+
+Profondità di colore: 262K / 65K
+
+
+Risoluzione (punti): 240RGB * 320punti
+
+
+5V compatibile, utilizzabile con la logica 3.3V o 5V
+
+
+Hai bisogno di almeno 4 IOs dal tuo MCU
+
+
+Con piastra PCB (compresa l'alimentazione IC, SD) compatibile con l'interfaccia 5110
+
+
+
+
+La confezione include:
+
+
+
+
+1 x 2,8 "TFT LCD Display modulo panello di touch
+1 x Penna di touch 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

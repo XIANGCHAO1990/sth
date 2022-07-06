@@ -1,0 +1,211 @@
+1136883
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/B8/15/80a5542f-5a45-4f45-b3d8-52357cf4029f.jpg
+Geekcreit Assembled Geiger Counter Module Miller Tube GM Tube Nuclear Radiation Geekcreit for Arduino - products that work with official Arduino boards
+https://www.banggood.com/Geekcreit-Assembled-Geiger-Counter-Module-Miller-Tube-GM-Tube-Nuclear-Radiation-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1136883.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+ 
+Name:Radiation system
+Geiger tube parameters:
+Technical parameters diameter:Φ10±0.5mm
+Total length: 90±2mm
+Starting voltage: < 350V
+Recommended operating voltage: 380V
+Minimum plateau length: 80V
+Maximum plateau slope: 10%/80V
+Extreme operating voltage: 550V
+The maximum count rate: 25 times / min
+Life: > 1 x 10^9 pulse
+Medium temperature: -40 ~ 55 ℃
+Size:108x63x20mm
+Infos: click here!
+
+Features:
+
+1) 5V power supply, or 1.5V 3x battery; 1.2V 4x battery, current: 30mA - 12mA
+2) for the detection of 20mR/h ~ 120mR/h of gamma rays and 100 ~ 1800 off
+variables / points / cm 2 of the soft beta ray.
+3) sound and light alarm
+4) interrupt the output interface, through this interface can be connected to the
+microcontroller and then displayed on the LCD.
+5) Ardunio compatible
+6) supports most of the Geiger tube: M4011, STS-5, SBM20, J305, etc. (the
+330~600V operating voltage of the Geiger tube can be supported).
+7) support the computer (PC) data acquisition, Matlab analysis and processing
+
+Detection of nuclear radiation work (copy the following link to the browser to watch):
+Http://v.youku.com/v_show/id_XNzI3MTU2NzQ0.html
+
+Customers using our Geiger counter to record the video:
+Http://v.youku.com/v_show/id_XOTE4ODIyNTIw.html
+
+Compatible with :
+(recommended UNO R3 , or any other arbitrary with 5V and external interrupt INT)
+Internet can be downloaded: SPI example for Radiation Logger
+Logger Radiation can be used as the host computer software to build radiation monitoring station.
+
+Package included:
+
+1 x Assembled Radiation system
+1 x GM Tube
+1 x Power supply cable
+1 x Battery Holder (without batteries)
+3 x Jumper Wires
+4 x Nuts
+1 x Acrylic cover
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,,
+
+
+

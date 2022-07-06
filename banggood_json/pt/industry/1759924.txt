@@ -1,0 +1,146 @@
+1759924
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/4B/CD/d3435e9a-9660-476f-8ba3-1511aae363e3.jpg
+MUSTOOL UD24 5V ~ 32V DC5.5 USB Tester 2.4 Polegada Type-C Voltímetro Digital Amperímetro Banco de Potência Testador de Tensão Voltímetro para PD Carga Rápida
+https://pt.banggood.com/MUSTOOL-UD24-5V~32V-DC5_5-USB-Tester-2_4-Inch-Type-C-Digital-Voltmeter-Ammeter-Power-Bank-Voltage-Tester-Volt-Meter-for-PD-Fast-Charge-p-1759924.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modo de download do arquivo:1, manual do usuário, instruções de instalação do software para PC e software para PC e link de download do aplicativo Android: http://www.mediafire.com/folder/9r973dly7uvui/UD242, IOS APP: pesquisar E_test no iphonie app store para baixar 3. APP Android: pesquise E-test no Google Play para baixar Ele pode ser usado como um testador USB ou como um voltímetro CC. É um produto topo de gama criado pela sabedoria da indústria!UD24 2.4 "polegada USB testador DC5.5 Type-C voltímetro amperímetro digital banco de potência testador de tensão volt QC PD medidor elétrico para APPRecursos:Faixa de medição de tensão: 5V ~ 32,0V Faixa de medição de corrente: 0,00 ~ 5,10A Tempo de temporização: 999 horas 59 minutos 59 segundos Interface de entrada: Type-C / Interface de saída micro USB / USB: Type-C / USB Configuração de lembrete de carregamento de temporização: contagem regressiva 24 horas qualquer conjunto valor USB D + faixa de tensão: 0V ~ 2,99 V USB D- faixa de tensão: 0V ~ 2,99V Tempo de atualização:> 500mS / vezes> 500mS / vezes Taxa de medição: cerca de 0,5 vezes / seg. tipo: tela grande com display digital true color com interface de medição de custo pesado 2.4 em chinês e inglês
+Corrente de autoconsumo: <0,02A Temperatura de trabalho: -10 ~ + 60 ° C -10 ~ + 60 ° C Umidade de trabalho: 10 ~ 80 (sem dúvida) 10 ~ 80 (sem dúvida) Pressão de trabalho: 80 ~ 106kPaTela de inicialização do UD24 e interface de teste de funçãoInterface de alta precisão de 1,6 dígitos 2. Display do medidor USB 3. Display do medidor DC 4. Display de porcentagem DCO protocolo de carga rápida Qualcom QC3.0 / 2.0 aciona a detecção automática de vários protocolos de carga rápidaProteção inteligente quíntupla, carregamento seguro e segurança duplaDe acordo com suas necessidades reais, o usuário pode definir o interruptor de desligamento total, as condições do parâmetro de desligamento total, o tempo de carregamento de tempo e sobrecorrente, sobretensão, baixa voltagem e outros parâmetros, para que este equipamento possa ser totalmente automatizado e autônomo de acordo com suas necessidades. Os parâmetros definidos são executados automaticamente e o monitor em tempo real corta automaticamente a energia de acordo com as configurações correspondentes para proteger seu equipamento de carregamento em todos os aspectos. A partir daí, seu carregamento se torna mais seguro, interessante e jogável! 1. FCOP: Corte de energia total (ON / OFF), você mesmo pode definir quando a energia for <1W por 1 minuto, ele será desligado 2. TC: Carregamento cronometrado (ON / OFF), você pode definir o período de 01: 00-24: 00 para carregar regularmente, quando atingir a configuração, ele será desligado automaticamente 3. Proteção de sobrecorrente: você pode definir a faixa de 0,0A-5.1A por si mesmo 4. Proteção contra sobretensão: A faixa 01V-36V pode ser definida por você 5. Proteção de baixa tensão: a faixa 00V-35V pode ser definida por você mesmoA tela giratória de 360 ° em todos os lados satisfaz a leitura em qualquer ânguloQualcom QC3.0 / 2.0 disparador de protocolo de carga rápida Detecção automática de vários protocolos de carga rápidaSuporte para carga rápida de PDFunção de medição de resistência de linha UD24 Suporte para detecção de resistência de cabo Android / Type-CDe acordo com o método de conexão mostrado abaixo, primeiro meça a tensão sem carga da bateria atual e, em seguida, adicione a carga de saída. Neste momento, você pode ler a resistência interna atual da bateria. A fórmula de cálculo da resistência interna desta tabela: (tensão carregada com tensão sem carga) / corrente atual = resistência interna da bateriaFaixa de aplicação de teste USB e Type-CConecte e teste várias interfaces USB e Type-C e vários dispositivos de bateria Multi-port design-multi-uso e multi-playPorcentagem de energia da bateriaO medidor pode definir livremente o tipo de bateria de acordo com o usuário em segundo plano, o valor de tensão total correspondente e a tensão de descarga. Se não houver um valor baixo, o sistema calcula a porcentagem de acordo com o limite definido pelo usuário e, em seguida, muda a cor da porcentagem através do display do símbolo da bateria (mais de 30% verde, menos de 30% amarelo, menos de 10% vermelho); Quando a faixa do display está entre 1% e 100%, a luz vermelha POWER no painel acende e a interface de saída do relé é ativada neste momento. O nível é usado para controlar o relé para conectar o caminho atual. Quando excede a faixa de 1% ~ 100%, a luz vermelha apaga-se ao mesmo tempo. O plugue do aparelho elétrico produz um nível baixo para desconectar o caminho da corrente para garantir a proteção de segurança da bateria para carregar e descarregar. As pessoas evitam o risco de danificar a bateria devido a sobrecarga e descarga excessiva, e ela também pode ser usada para outros fins de proteção contra sobretensão e desconexão de baixa tensão.Função de detecção de resistência interna da bateriaDe acordo com o método de conexão mostrado abaixo, primeiro meça a tensão sem carga da bateria atual e, em seguida, adicione a carga de saída. Neste momento, você pode ler a resistência interna atual da bateria. A fórmula de cálculo da resistência interna desta tabela: (tensão carregada com tensão sem carga) / corrente atual = resistência interna da bateriaFaixa de aplicação de teste de fonte de alimentação DCConecte e teste várias fontes de alimentação DC e equipamentosDesign de várias porções, uma coisa, multiuso, reprodução múltipla1) APLICATIVO móvel da Apple:   Por favor, procure E_test na loja de aplicativos para baixar e instalar, clique no ícone do aplicativo Bluetooth para abrir o software e, em seguida, clique no ícone Bluetooth acima do software para inserir a seleção DL24-BLE para conectar, você pode obter o telefone celular remoto controle remoto wireless configurações e função de medição, o status de descarga pode ser visualizado a qualquer momento no telefone celular, várias limpezas de dados são visíveis, a tensão e a curva de potência atual da descarga, etc.2) APLICATIVO de telefone Android: Digitalize o código QR na parte de trás do host para baixar o software APP correspondente ou o aplicativo Android: pesquise E-test no Google play para baixar. Após a conclusão da instalação, abra o software e clique no ícone Bluetooth para entrar na seleção direta do DL24-BLE para usá-lo online com sucesso. (Não há necessidade de emparelhamento Bluetooth, o ícone do software Bluetooth seleciona diretamente DL24. pode)3) APP online sem fio do computador Bluetooth:Primeiro, adicione o dispositivo Bluetooth ao dispositivo de porta serial do DL24-SPP no computador e, em seguida, digitalize o código QR na parte traseira do host para baixar o software APP correspondente e armazená-lo. Abra o software sem instalar e selecione o modelo de porta serial Bluetooth recém adicionado. Você pode usar com sucesso onlineAvaliação de precisão de tensãoTeste de precisão de grandes instrumentos profissionaisAvaliação de precisão atualTeste de precisão de grandes instrumentos profissionaisConfiguração do parâmetro de fundo do produtoUD 24 Menu V5.7 01: Chinês Inglês 02: Limpar dados cumulativos 03: Calibração de tensão: 005.110V 04: Calibração de corrente: 000.000A 05: Brilho do visor: 9 06: Brilho de espera: 9 07: Entrar tempo de espera: 60S 08: Correção de Temp ([n) 026,9 09: Correção de Temp ou): 035,6C 10: Porcentagem de Vol BAT (Baixo): 08,00V 11: Porcentagem de Yol de BAT (Ful): 16,60V 12: Excesso de Potência: 100W 13: Seleções Padrão 14 : SaídaAplicativos de produtosLista de produtos1 X UD24 2,4 "polegadas USB testador DC5.5 Type-C voltímetro digital Detalhes Fotos:
+
+
+
+

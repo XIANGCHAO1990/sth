@@ -1,0 +1,206 @@
+913030
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/94/9D/6fdd1b89-4e8f-4443-b01e-f2e2b1484f44.JPG
+iMars ELM327 bluetooth Car OBD2 Scanner Diagnostic Tool Engine Code Reader
+https://www.banggood.com/IMars-ELM327-bluetooth-Car-OBD2-Scanner-Diagnostic-Tool-Engine-Code-Reader-p-913030.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iMars Car OBD2 CAN BUS Scanner Tool with bluetooth Function
+
+Note: 
+1.Can not work for  iPhone or iPad.
+2.If your car ECU connect with the J1850 protocol, then your car can't use this item.
+
+Description:
+	1.Works with all 1996 to now OBD-II compliant vehicles in the world, and with some light trucks sold in the United States, some 1994 and 1995 models are also ok.
+2. Wireless (bluetooth) 5~10meters.
+3.OBD-II Software for 327 bluetooth is a free program that allows you to use your PC and a hardware interface to get the information 
+from your car's computer.
+3.The program is very user-friendly, and easy to learn. It is also very easy to install: simply extract the files into a folder on your computer's hard drive, and you're ready to go. To uninstall the program, simply delete the entire contents of the folder where the program resides.
+
+Multi-Protocol Support:
+	ISO9141-2(5 baud init, 10.4Kbaud)
+	ISO14230-4 KWP (5 baud init, 10.4 Kbaud)
+	ISO14230-4 KWP (fast init, 10.4 Kbaud)
+	ISO15765-4 CAN (11bit ID, 500 Kbaud)
+	ISO15765-4 CAN (29bit ID, 500 Kbaud)
+	ISO15765-4 CAN (11bit ID, 250 Kbaud)
+	ISO15765-4 CAN (29bit ID, 250 Kbaud)
+
+Functions:
+	1. Read diagnostic trouble codes, both generic and manufacturer-specific, and display their meaning (over 3000 generic code definitions in the database).
+	2. Clear trouble codes and turn off the MIL ("Check Engine" light)
+	3. Display current sensor data, including:
+	4. Engine RPM
+	5. Calculated Load Value
+	6. Coolant Temperature
+	7. Fuel System Status
+	8. Vehicle Speed
+	9. Short Term Fuel Trim
+	10. Long Term Fuel Trim
+	11. Intake Manifold Pressure
+	12. Timing Advance
+	13. Intake Air Temperature
+	14. Air Flow Rate
+	15. Absolute Throttle Position
+	16. Oxygen sensor voltages/associated short term fuel trims
+	17. Fuel System status
+	18. Fuel Pressure
+	AND Many others...
+
+Compatible software(all can download from the Android market):
+Window version: ScanMaster, ScanTool.net, PCMSCAN
+Android version: Torque, DashCommand, EOBD
+Symbian version: OBDScope
+Support System: Windows XP, Windows 7/8, Android, Symbian
+
+Package Included:
+	1 X bluetooth OBD-II Car Diagnostic Scanner
+
+
+
+
+
+
+
+
+
+
+
+
+
+

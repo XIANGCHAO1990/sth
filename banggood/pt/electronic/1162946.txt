@@ -1,0 +1,171 @@
+https://pt.banggood.com/Dual-Channel-L298N-DC-Motor-Driver-Board-PWM-Speed-Dual-H-Bridge-Stepper-Module-p-1162946.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Dual Channel L298N DC Motor Driver Board PWM Speed Dual H Bridge Stepper Module
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recursos:
+
+1. Driver de motor duplo H-bridge, pode acionar dois motores DC ou motores de passo bifásicos de 4 fios
+2. TSD embutido, sem se preocupar com a parada do motor
+3. Tamanho ultrapequeno, adequado para montagem e carro
+
+Especificação:
+
+1. Tensão de alimentação do módulo: DC 2V-10V
+2. Tensão de entrada do sinal: DC 1.8-7V
+3. Corrente de trabalho única: 1.5A
+4. Corrente de pico até 2,5A
+5. Baixa corrente de espera (menos de 0,1uA)
+6. Circuito de condução comum embutido, o terminal de entrada vazio, o motor não funciona mal
+7. Tamanho: 24,7 x 21 x 7 mm
+8. Diâmetro do orifício de montagem: 2 mm
+
+Incluído no Pacote:
+
+1 x Mini módulo de driver de motor DC de canal duplo
+
+
+
+
+
+
+
+
+
+
+
+
+

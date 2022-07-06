@@ -1,0 +1,145 @@
+1731815
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/09/8F/c20bdb1f-31cb-4a8c-a2f4-af70ad2dcf80.jpg
+3 uds 3S 11,1 V 12,6 V 40A 18650 Li-ion litio Batería Placa de protección BMS
+https://es.banggood.com/3Pcs-3S-11_1V-12_6V-40A-18650-Li-ion-Lithium-Battery-BMS-Protection-Board-p-1731815.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:Aplicación: Voltaje nominal de 3,6 V, batería de litio de 3,7 V (incluida 18650.26650, batería de polímero de litio)Corriente de descarga continua (límite superior): 40A (si el ambiente de enfriamiento no es bueno, reduzca el uso de corriente de carga)Corriente de carga continua (límite superior): 20AAdecuado para los taladros con corriente de arranque por debajo de 80A, potencia 135W por debajo. Nota:Nota 1: El inicio exitoso del simulacro requiere tres baterías de alimentación 15C-20C o seis baterías de alimentación 10C-15C (¡el 18650 ordinario no puede iniciar el simulacro!).Nota 2: estrictamente de acuerdo con el cableado del mapa 0 V, 4,2 V, 8,4 V, 12,6 V, no provoque un cortocircuito deliberado.Nota 3: Cuando se utiliza la carga del cepillo del motor, intente conectar el condensador no polar (voltaje de resistencia superior a 25 V, capacidad 10uF-100uF) a los terminales positivo y negativo del motor para evitar el pico inverso del motor. Romper el tubo MOS.Nota 4: 3 grupos de baterías en serie, asegúrese de que el voltaje de cada grupo de baterías, si no es el mismo, llene cada batería por separado y luego úselo en serie. La prueba de descarga, la batería cae más rápido que el grupo es batería pobre. Especificaciones:Voltaje de carga: 12,6 V - 13,6 VTamaño del producto: 5x4,2 cm / 1,97x1,65 "(versión mejorada),  El paquete incluye:3 x 3S 11,1 V 12,6 V 40A Litio Batería Placa de protección
+
+
+
+

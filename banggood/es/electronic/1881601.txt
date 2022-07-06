@@ -1,0 +1,143 @@
+https://es.banggood.com/LILYGOTTGO-T-Echo-SoftRF-Meshtastic-BME280-TEMP-Pressure-Sensor-NRF52840-SX1262-433-or-868-or-915MHz-Module-LORA-1_54-E-Paper-BLE-p-1881601.html?cur_warehouse=CN&ID=5108036311711&rmmds=CategoryElectronicsPop
+LILYGO®TTGO T-Echo SoftRF Meshtastic BME280 TEMP Presión Sensor NRF52840 SX1262 433/868 / 915MHz Módulo LORA 1.54 E-Paper BLE
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+El T-Echo es una versión evolucionada de LILYGO T-BEAM.Al comienzo del diseño, se tuvo más consideración para adaptarse a Meshtastic y SotfRF, por lo que Bluetooth y el bajo consumo de energía se consideraron al diseñar, y se seleccionó NRF52840 Advanced Bluetooth 5 Thread y Zigbeemultiprotocol SoC.La función LORA continúa con el módulo funcional de la versión LILYGO SX1262 de T-BEAM.Módulo transceptor inalámbrico T-SX1262, con diseño de chip transceptor RF Semtech SX1262 LORA, trabajando en la banda de frecuencia 868 / 915MHz ISM, oscilador de cristal TCXO 32MHz de alta estabilidad integrado, módulo transceptor semidúplex, potencia hasta + 22dBm, sensibilidad de recepción -139dBm .Conmutación automática del transceptor, aislamiento del canal de transmisión y recepción interna, tecnología avanzada de comunicación de espectro ensanchado LORA, fuerte antiinterferencia y privacidad, puede realizar transmisión y recepción de datos inalámbricas a larga distancia.Nota: asegúrese de confirmar el modelo para evitar malentendidos.T-Echo SoftRF es la versión básica. Puede elegir la versión Meshtastic o BME280 según sea necesario.Características del módulo: - El sistema de posicionamiento multisatélite L76K es un sistema multisatélite de soporte (GPS, BeiDou, GLONASS, QZSS), posicionamiento conjunto multisistema y posicionamiento independiente del sistema único, compatible con la función AGNSS, amplificador de bajo ruido incorporado y filtro de superficie, puede proporcionar a los usuarios un módulo GNSS con una experiencia de posicionamiento rápida, precisa y de alto rendimiento.- En comparación con un único sistema GPS, el sistema multisatélite de posicionamiento de alta precisión aumenta en gran medida el número de satélites visibles y utilizables, mejora la precisión de posicionamiento y puede lograr un posicionamiento estable de alta precisión incluso en entornos urbanos complejos.- Es compatible con la función AGNSS, que puede reducir en gran medida el tiempo para el primer posicionamiento, amplificador de bajo ruido incorporado, puede lograr alta sensibilidad, posicionamiento de alta precisión y captura y seguimiento de señal rápidos, incluso en condiciones de señal débil también puede garantizar un buen rendimiento de posicionamiento, filtro acústico de superficie incorporado, puede mejorar enormemente la capacidad antiinterferente del módulo, y el circuito de detección de antena activa y el circuito de protección están integrados en el interior para proteger el módulo y la antena activa de daños.- La pantalla utiliza una pantalla de papel electrónico de 1,54 pulgadas con luz frontal, resolución 200x200 1,54 frontal LED E-paper, y se puede utilizar en un entorno oscuro.Especificaciones de T-Echo: - NRF52840 BLE / NFC- Módulo L76K GPS- Módulo LORA T-SX1262- 1 .54 E-paper con luz de pantalla frontal LED- RTC PCF8563- RGB LED- Botón RST X1- Botón personalizado X1- Botón táctil TTP223- IPX Antena Base X3- Soporte de batería de 1,25 pasos- 12. Entrada 5V Type-C USB- El zócalo BTB de 10 pines y 0,4 paso se puede utilizar para expandir módulos funcionalesEscenarios de aplicación:Creación de bricolajelora networkingPosicionamiento GPSControlador de terminal IOTProducto educativo de talloEnlace de Github:Ejemplo básico:https://github.com/Xinyuan-LilyGO/LilyGO-T-Echohttps://github.com/lyusupov/SoftRF/wiki/Badge-EditionMeshtastic:  https://github.com/meshtastic/Meshtastic-device/releasesSoftRF: https://github.com/lyusupov/SoftRF/wiki/SoftRF-Configuration-Tool El paquete incluye: 1 X T-Echo / T-Echo Meshtastic BME280 Placa base (opcional)1 X GPS Antena1 X LORA 915/868 / 433MHz Antena (opcional)1 X NFC Antena1 X cable táctil1 X Jst 2pin1.25mm Batería Cable1 X cable USB TIPO-CCapacidad de 1 X 850mA Batería1 X recinto impreso en 3D
+
+
+
+

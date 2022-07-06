@@ -1,0 +1,218 @@
+1091209
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/5F/69/992d551e-0391-48e6-ba90-4ee9e7e0ed5e.jpg
+Kit de 3D Cube Lumineux 8x8x8 LED Bleu Musique MP3 Spectrum DIY Kit Électronique
+https://fr.banggood.com/3D-Light-Cube-Kit-8x8x8-Blue-LED-MP3-Music-Spectrum-DIY-Electronic-Kit-p-1091209.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Remarque:Ce produit ne comprend pas le logement !! Si vous avez besoin du logement, s'il vous plaît acheté séparément (ID produit:1101043).
+Ceci est un kit de bricolage, vous devez avoir une certaine connaissance de l'électronique et de la capacité.
+Besoin de beaucoup de soudure, vous devriez avoir assez de patience.
+Recommandé de télécharger et vérifier les instructions pour vous assurer que vous pouvez utiliser.
+
+8x8x8 brumeux bleu LED Version.
+Téléchargement de fichier: cliquez pour ouvrir
+
+Caractéristique:
+
+1. Intégré 3w amplificateur de haut-parleurs + 3w haute qualité
+2. Peut être inséré tf carte mémoire pour jouer de la musique
+3. Peut être inséré u disque pour jouer de la musique
+4. à travers la musique d'entrée et de sortie ligne audio
+5. Intégré dans la musique mp3. le volume peut être réglé
+6. Intégré dans la musique peut être contrôlé par un bouton sur la chanson suivante
+7. Intégré dans 42 types de off-line animation étonnante (plug dans l'électricité peut fonctionner animation)
+8. Intégré dans 14 types d'animation audio hors ligne dynamique (danse avec de la musique)
+9. 3D8 sur le mode de la machine (animation de contrôle)
+10. 3d8 sur le mode de la musique de la machine
+11. Fonction télécommande infrarouge de contrôle
+12. Nuit, mode de contrôle de jour
+13. Mode lumière de respiration pwm
+14. Activer le mode de détection automatique de la carte mère
+15. Photorésistance fonction d'atténuation automatique (besoin d'élargir par vous-même)
+16. Taille shell: 233 * 161 * 161mm
+17. Pcb: 150 * 150mm
+18. Tension d'entrée: 5v / chargeur 5v
+19. Courant: 1a-2a (2a mieux)
+
+Quatre fonctions clés:
+
+K1 clé: entrer dans la sélection de mode, jour, régulateur de mode nuit
+K2 clé: entrer dans le mode 3d8 pc (appuyez sur la K1 clé pour être efficace après mise sous tension)
+K3 clé: entrez 42 types de mode d'animation hors ligne (appuyez sur la K1 clé pour être efficace après mise sous tension)
+K4 clé: entrez 14 sortes de mode audio hors ligne (appuyez sur la K1 clé pour être efficace après mise sous tension)
+
+Trois caractéristiques clés de musique:
+
+S1 clé: entrer dans la lecture de musique / arrêter le contrôle
+S2 clé: entrez la commande de diminution morceau précédent / volume de
+S3 clé: entrez le morceau suivant / augmentation du volume de contrôle
+
+Conception de circuit:
+
+STC12C5A60S2 + 74HC245 + 74HC138 + 74HC595N
+1. Microcontrôleur 1T haute vitesse STC12C5A60S2 intégré
+2. Pilote de tampon 74HC245 (connexion en cascade)
+3. Puce de pilote de tube de MOS à haute intensité 5A (pour résoudre la luminosité inégale)
+4. Puce de balayage à grande vitesse et puce de cascade de contrôle en série
+5. Utilisez la puce de musique MP3 professionnelle
+6. Utilisez la puce d'amplificateur de puissance professionnel 8002B
+
+Il existe deux façons de modifier le modèle:
+
+1. Modifier le programme (difficile, vous avez besoin de comprendre la programmation)
+2. Logiciel de PC d'ordinateur manipulation directe du cube de lumière
+
+Emballage inclut:
+
+1 x Kit de 3D Cube lumineux
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

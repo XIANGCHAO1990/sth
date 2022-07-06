@@ -1,0 +1,145 @@
+1939247
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/65/97/43b52082-cbd3-4deb-8f1c-5adfa1e15e69.jpg
+Cancello del garage a 2 canali remoto ricevitore RX MULTI 300-900MHZ AC/DC 9-30V ricevitore per trasmettitore di controllo del cancello di comando della porta del garage
+https://it.banggood.com/2-Channel-Garage-Gate-Remote-Receiver-RX-MULTI-300-900MHZ-AC-or-DC-9-30V-Receiver-for-Garage-Door-Command-Gate-Control-Transmitter-p-1939247.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manuale: clicca qui per aprire<<<Specifiche:Tensione di funzionamento: 9V-30VCanale: 2.Frequenza: 300 MHz - 900 MHz.Codice: codice mobile e fisso e codice di apprendimento.Usi: porte da garage, porte per cancelli, motocicli, prodotti di allarme per auto, prodotti per la sicurezza domestica, prodotti telecomando senza fili a corto raggio, prodotti di controllo industriale, sistemi di allarme ecc.Frequenza di lavoro: 300-900 MHz (codice mobile e codice fisso)300MHz310MHz315MHz318MHz390MHz433.4MHz433MHz433.92MHz868MHz868.3MHz868.8MHzPuò identificare TUTTI i codici fissi (2262, 2260, 2264, 5326, M1E, M5E e così via). Tutti i codici di apprendimento (1527, 2240, 6P20B, 6P20D e così via), Rolling code (HCS301, HCS300, HCS200, HCS201, HCS100, HCS101)Caratteristica:1) Distanza: 30-50 metri.（200 metri/area aperta）2) Dimensioni molto mini: 5,5 cm * 4,5 cm * 1,0 cm.3) Il ricevitore One può funzionare con 400 codici.4) Non interferisce con altri telecomandi e ricevitori.5) Selettore: con 8 dip switch l'utente può creare diverse combinazioni per diverse marche di telecomando.6) Selettore di ingresso alimentazione: questo ricevitore può funzionare a AC/DC 9V~30V. Tuttavia, è meglio cambiare il PIS in base alla potenza assorbita. Se l'ingresso è maggiore di 24 V, accorciare i pin 2 e 3; accorciare 1 e 2 se l'ingresso è inferiore a 24 V.Vantaggi:Selezione del telecomando: ricezione multifrequenza, compatibile con telecomando nazionale ed estero, utilizzando un selettore a 8 bit, gli utenti possono scegliere diverse marche di canali di telecomando.Apprendimento del telecomando: il controller multifrequenza ha due canali di uscita indipendenti e ogni canale ha pulsanti di apprendimento indipendenti S1 e S2.Modo di lavorare:Come inserire il telecomando e cancellare tutti gli ingressi remoti: uno o più telecomandi:(1) Innanzitutto, selezionare la marca del telecomando corretta da inserire tramite l'interruttore DIP;(2) Premere qualsiasi pulsante di apprendimento per accendere il LED. Premere il pulsante sul telecomando, il LED lampeggia 4 volte, questo pulsante entra con successo in R-Multi.(3) Ripetere il passaggio 2 per l'altro pulsante. I due canali funzionano sullo stesso.Cancella tutti i dati nella scheda di memoria:(1) Tenere premuto il pulsante di apprendimento, il LED inizia ad accendersi.(2) Continuare a premere questo pulsante finché l'indicatore LED non si spegne. Tutti i dati nella scheda di memoria vengono cancellati.Il pacchetto include:1 modulo ricevitore
+
+
+
+

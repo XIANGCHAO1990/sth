@@ -1,0 +1,179 @@
+https://tr.banggood.com/Smart-BMS-1A-2A-6A-Balance-Current-8S-17S-20S-24S-JK-BMS-60A-80A-100A-150A-200A-600A-Lifepo4-Li-Ion-Battery-Protection-Board-bluetooth-APP-p-1936722.html?cur_warehouse=CN&ID=6319174&rmmds=CategoryElectronicsPop
+Akıllı BMS 1A 2A 6A Denge Akımı 8S 17S 20S 24S JK BMS 60A 80A 100A 150A 200A 600A Lifepo4 Li-Ion Batarya Koruma Levhası bluetooth APP
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Açıklama:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oşarj koruması:aşırı şarjı önlemek ve pil ömrünü etkilemek
+Kısa devre koruması:anormal kısa devre sırasında koruma panosuna ve pile zarar gelmesini önlemek için otomatik koruma
+
+Kısa devre koruması:anormal kısa devre sırasında koruma panosuna ve pile zarar gelmesini önlemek için otomatik koruma
+
+Aşırı deşarj koruması:pilin bitmesini ve pil ömrünü etkilemesini önleyin
+
+Aşırı akım koruması:Akımın pilin toleransını aşmasını ve pilin zarar görmesine neden olmasını önleyin
+
+Bırakma koruması:kablonun düşmesini veya temasın zayıf olmasını ve pilin korumasını kaybetmesini önleyin
+
+Aşırı sıcaklık koruması:pil sıcaklığının çok yükselmesini, kendiliğinden yanmaya veya hasara neden olmasını önleyin
+
+Talimatlar:https://github.com/NEEY-electronic/JK/tree/JK-BMS
+
+BMS protokolü:https://github.com/syssi/esphome-jk-bms
+
+VenusOS sürücüsü:https://github.com/Louisvdw/dbus-serialbattery
+
+NOT:600A akıma sahip BMS, müşterilerin röleleri kendi başlarına satın almalarını gerektirir
+LCD Ekran : Açmak için buraya tıklayın<<<NOT:①:CANBUS arayüzü (Şu anda sadece jk-B2A24S20P CANBUS işlevini özelleştirebilir)②:RS485 arabirimi (Şu anda tüm JK BMS, varsayılan olarak RS485 işleviyle yapılandırılmıştır)③:LCD arayüzü(Lütfen satın almadan önce BMS'nin LCD arayüzü olup olmadığını kontrol edin. Arayüz yoksa LCD kullanılamaz)④: Isı Fonksiyonu arayüzü (Şu anda, müşteriler tarafından özelleştirilmiş ısıtma fonksiyonu kabul edilebilir, MOQ50pcs)⑤:Sıcaklık sensörüBu ①②③④ arayüzleri BMS kartındadır.Ancak, ①④ ek özelleştirme gerektiren gerçek bir işleve sahip değildir.②③ BMS'yi özelleştirmeye gerek yoktur, sadece bir LCD modülü veya bir RS485 eklenti modülü ekleyin.①CAN işlevi: özelleştirilmiş, üreticinin CAN çipini monte etmesini ve JiKong'un CAN iletişim protokolünü sağlamasını gerektirir. . Ek olarak, bir CAN modülü satın almanız gerekir (sipariş vermeden önce özelleştirme için önceden danışın)②RS485 işlevi: başka bir RS485 eklenti modülü satın alın ve kullanmak için GPS arabirimine takın.③LCD işlevi: başka bir LCD modülü satın alın ve kullanmak için LCD arayüzüne takın.④Isıtma işlevi: özelleştirilmiştir ve ayrıca eşleşen CAN ısıtma protokolü şarj cihazını satın almanız gerekir. Şarj cihazı BMS ile iletişim kurabilir ve şarj cihazının bir ısıtma işlevine sahip olması gerekir. (Sipariş vermeden önce, önceden danışın ve özelleştirin)Not: ②GPS işlevi, yerel operatörün desteğini gerektirir. Bazı bölgeler veya ülkeler bunu desteklemeyebilir. Sipariş vermeden önce, onaylamak için bizimle iletişime geçmeniz gerekiyor! ! !Paket içeriği:1 x JK Akıllı BMS
+
+
+
+

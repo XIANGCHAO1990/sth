@@ -1,0 +1,145 @@
+1916055
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/1C/68/9a9b075d-1f00-411e-b900-e0363ebee51e.jpg
+Testador de curva VI de canal duplo, exibindo 2 formas de onda ao mesmo tempo para fácil comparação
+https://pt.banggood.com/Dual-channel-VI-Curve-Tester,Displaying-2-Waveforms-at-the-Same-Time-for-Easy-Comparison-p-1916055.html?cur_warehouse=CN&ID=6315607&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>Por favor, clique aqui para baixar o manual do usuário em inglês<<Testador de curva VI bidirecional, que pode exibir formas de onda bidirecionais ao mesmo tempo, o que é conveniente para comparação.4 níveis de resistência interna ajustável, 4 frequências de teste, podem ser usados quando conectado a um osciloscópio, tanto osciloscópios analógicos quanto osciloscópios digitais podem ser usadosConfiguração dos parâmetros do osciloscópio:*. Ajuste o osciloscópio para o modo XY (diferentes osciloscópios têm diferentes métodos de ajuste, explore você mesmo)* Ajuste os parâmetros verticais dos 2 canais de XY para 1V / div, e apenas um dos osciloscópios de trilha única precisa ser ajustado. ,* O osciloscópio analógico não precisa ajustar a base de tempo, a base de tempo osciloscópio digital é ajustada entre 1-5ms* Depois que a conexão estiver correta, o osciloscópio exibirá uma linha horizontal. Se uma linha vertical for exibida, o plugue xY será invertido.* Ajuste os parâmetros verticais e horizontais, as linhas horizontais e verticais estão na caixa de exibição.Método de conexão do osciloscópio analógico:A conexão do osciloscópio analógico é relativamente simples, e osciloscópios diferentes são ligeiramente diferentes.Ajuste o osciloscópio para o modo xY. Alguns osciloscópios podem ser selecionados pressionando os botões, enquanto outros são selecionados pelo botão para o modo xY. Por favor, estude sozinho.Conecte o cabo BNC ao osciloscópio e ligue. Normalmente, uma linha horizontal será exibida. Ajuste os parâmetros do canal vertical xY, cerca de 1V / div e, em seguida, ajuste a atenuação x Y de forma que a linha horizontal fique no quadro de exibição. Ele também pode passar na versão de teste VI. O potenciômetro de atenuação x no lado superior pode ajudar no ajuste do comprimento da linha horizontal. Se a caneta de teste iestiver em curto-circuito, uma linha vertical será exibida em circunstâncias normais. Se a linha vertical for muito longa ou muito curta, você precisará ajustar os parâmetros do canal Y para fazer a linha vertical no quadro de exibição. Meia grade ou 1 grade até a borda é melhor. Se as linhas horizontais e verticais forem normais, você pode inserir a medição normal.Como conectar um osciloscópio digital:Para osciloscópios digitais, entre no modo xY por meio do menu ou das teclas. Os dois canais de xY são ajustados para 1V / div, e o osciloscópio de trilha única só precisa ajustar o canal Y. Ajuste a base de tempo para 1-5 milissegundos. O canal xY seleciona o acoplamento DC, e oa atenuação é 1x.Quando o osciloscópio não está conectado, a tela deve ser um ponto brilhante. Ajuste a horizontal e a vertical para centralizar o ponto brilhante. Conecte o testador de VI. Normalmente, deve ser uma linha horizontal. Ajuste o potenciômetro 103 na parte superior da placa VI para fazer a linha horizontal no quadro da tela. , Meia grade ou 1 grade até a borda éMelhor. Faça um curto-circuito nos cabos de teste e o display deve estar em uma linha vertical neste momento. Ajuste os parâmetros do canal Y para que a linha vertical esteja no quadro de exibição. Até agora, a depuração basicamente acabou.Ao testar a placa de circuito online, não carregue a placa de circuito. Se houver um capacitor grande na placa de circuito, primeiro descarregue o capacitor, caso contrário, será fácil queimar a placa de teste VI.
+
+
+
+

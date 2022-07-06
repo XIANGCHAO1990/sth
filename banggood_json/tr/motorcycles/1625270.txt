@@ -1,0 +1,282 @@
+1625270
+https://imgaz.staticbg.com/thumb/large/oaupload/ser1/banggood/images/BB/44/3b53bff2-225e-40b6-b648-a5a1e8429601.jpg
+KONNWEI KW903 WIFI ELM327 OBD2 Araba Tarama Parçalar Teşhis Tarayıcı Motor Kod Okuyucu
+https://tr.banggood.com/KONNWEI-KW903-WIFI-ELM327-OBD2-Car-Scan-Tool-Diagnostic-Scanner-Engine-Code-Reader-p-1625270.html?cur_warehouse=USA&ID=47972&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+bu KW903 cihaz, araç OBD konektörüne takılan küçük bir adaptördür. Kablosuz ağda, herhangi bir bilgisayara, tablete veya
+		akıllı telefon, ilişkili teşhis prosedürleri ile. Bu basit işlemleri yaparak şunları yapabilirsiniz:
+
+
+1. Sabit (bellek) / beklemede (aralıklı) ve geçmiş kodları okuyun ve tanımları gösterin.
+
+2. Yakıt tüketimini ölçün.
+
+3. momentum gibi arabanın Ekran gerçek zamanlı çalışma performansı,
+
+4. Monitör Araç hızı
+
+5. Yağ basıncı
+
+6. Soğutma sıvısı sıcaklığı
+
+7. Motor yük
+
+8. Emme manifoldu basıncı
+
+9. gaz kelebeği konumu,
+
+10. oksijen sensörlerinin değerleri,
+
+11. hava girişi
+
+12. sıcaklık ve daha fazlası.
+
+13. MIL'i kapatın (sinyal Kontrolü Motor).
+
+14. Verileri daha sonra yazdırmak için çeşitli biçimlerde harici ortama indirin.
+
+15. Çeşitli parametreleri kaydedin, grafikleri gerçek zamanlı olarak görüntüleyin ve daha fazlasını yapın.
+
+
+Özelliks:
+
+Küçük boyutlu, kompakt yapı. Tak ve asla fişini çekme
+
+Kararlı kablosuz bağlantı
+
+Tel veya pil yok (adaptör, teşhis Numara soketleri tarafından desteklenmektedir)
+
+İletişimini kes, yarım saat bekle, otomatik uyku
+
+Neredeyse OBDII protokollerini destekler
+
+Adaptör en hızlı ve en güvenilir yongaları kullanır
+
+Bu Wi-Fi sürümü, destek Android / IOS sistemi akıllı telefon, Tablet bilgisayar ve PC 
+
+İcar2 sürümü% 100 V1.5
+
+ 
+
+Protokoller:
+
+
+0.Automatic
+
+1.SAE J1850 PWM (41.6Kbaud)
+
+2.SAE J1850 VPW (10.4Kbaud)
+
+3.ISO9141-2 (5 baud init, 10.4Kbaud)
+
+4.ISO14230-4 KWP (5 baud init, 10.4 Kbps)
+
+5.ISO14230-4 KWP (hızlı başlatma, 10.4 Kbps)
+
+6.ISO15765-4 CAN (11bit Kimlik, 500 Kb)
+
+7.ISO15765-4 CAN (29 bit Kimlik, 500 Kb)
+
+8.ISO15765-4 CAN (11 bit Kimlik, 250 Kb)
+
+9.ISO15765-4 CAN (29 bit Kimlik, 250 Kb)
+
+A.SAE J1939 CAN (29bit Kimliği, 250 * Kbas)
+
+B.USER1 CAN (11 * bit kimliği, 125 * Kbaud)
+
+C.USER2 CAN (11 * bit kimliği, 50 * kBaud)
+
+Varsayılan ayarlar (kullanıcı tarafından ayarlanabilir)
+
+
+
+OBDII uyumlu Araçlar Referansı:
+
+
+Avrupa otomobilleri: 2000'den sonra çalışır ve icar2 destek obd protokolleri listesini içeren daha yeni OBDII / OBD2 / OBD / CAN-BUS Araçları
+
+America Cars: 1996 ve daha yeni OBDII / OBD2 / OBD / CAN-BUS araçlarında çalışan, icar2 desteği obd protokolleri listesini içeren
+
+Asya / AU Otomobilleri: 2005 sonrası ve icar2 destek obd protokolleri listesini içeren daha yeni OBDII / OBD2 / OBD / CAN-BUS Araçları üzerinde çalışır
+
+
+
+Bazı Özel Araba Modelleri:
+
+
+SSangyong için Kyron / Actyon 2010 ve daha yeni otomobillerden uygun olacaktır. 
+
+LADA Priora için, 2008'den 2016'ya model uygun olacak, LADA 2111, 2116 sadece 2013'ten sonra uygun olacak
+
+
+Paket içeriği:
+
+
+1 X OBD Tarayıcı Parçalar
+
+1 X CD
+
+1 X Kullanım Kılavuzu
+CD'de yalnızca kılavuzlar vardır ve dosyalar aşağıdaki gibidir:http://myosuploads3.banggood.com/products/20220531/20220531060018KONNWEIWIFI327CDRX4.pdf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

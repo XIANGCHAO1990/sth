@@ -1,0 +1,205 @@
+https://fr.banggood.com/3A-75W-DC-PWM-Speed-Adjustable-Motor-Driver-Module-LMD18200T-p-1278639.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Module de commande de moteur à vitesse réglable 3A 75W DC PWM LMD18200T Geekcreit pour Arduino - produits compatibles avec les cartes officielles Arduino
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fonctionnalité:
+
+
+
+LMD18200T DC Motor Driver Module est un composant pilote H-Bridge dédié au moteur CC. 
+
+Circuit de commande CMOS intégré et dispositif d'alimentation DMOS sur la même puce, dont l'utilisation peut constituer un système de commande de mouvement complet avec le processeur principal, les moteurs et les codeurs incrémentaux. 
+
+LMD18200 largement utilisé dans les imprimantes, les robots Avec indicateur de puissance, et la vitesse est réglable. 
+
+Anti-brouillage avec une protection contre le flux continu.
+
+LMD18200T DC Motor Driver Module est un composant pilote H-Bridge dédié au moteur CC.
+
+Circuit de commande CMOS intégré et dispositif d'alimentation DMOS sur la même puce, dont l'utilisation peut constituer un système de commande de mouvement complet avec le processeur principal, les moteurs et les codeurs incrémentaux. 
+
+LMD18200 largement utilisé dans les imprimantes, les robots 
+
+Avec indicateur de puissance, et la vitesse est réglable.
+
+Anti-brouillage avec une protection contre le flux continu.
+
+Peut contrôler individuellement un moteur à courant continu.
+
+PWM peut aider à obtenir une régulation de vitesse en douceur.
+
+Peut réaliser le virage et l'inversion.
+
+
+
+Spécification:
+
+
+
+Matériel: CCL
+
+Puce principale: LMD18200
+
+Tension de travail: Signal de commande DC 4.5-5.5V; tension du moteur d'entraînement: 10-30V
+
+Courant de sortie maximum: 3A (courant crête instantané 6A)
+
+Puissance de sortie maximale: 75W
+
+
+
+Le forfait comprend:
+
+
+
+1 x PWM Module de réglage de moteur de vitesse
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

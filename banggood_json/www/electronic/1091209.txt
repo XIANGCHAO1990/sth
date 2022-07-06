@@ -1,0 +1,216 @@
+1091209
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/5F/69/992d551e-0391-48e6-ba90-4ee9e7e0ed5e.jpg
+3D Light Cube Kit 8x8x8 Blue LED MP3 Music Spectrum DIY Electronic Kit
+https://www.banggood.com/3D-Light-Cube-Kit-8x8x8-Blue-LED-MP3-Music-Spectrum-DIY-Electronic-Kit-p-1091209.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This product does not includes housing!! if you need the housing, please purchased separately (Product ID: 1101043).
+This is a DIY kit, you need to have some knowledge of electronics and ability.
+Need a lot of soldering, you should have enough patience.
+Recommended download and check the instructions to ensure that you can use.8x8x8 Blue misty LED version.Assembled manual: Click here.
+
+Feature:
+
+1. Built-in 3W amplifier + 3W high-quality speaker
+2. Can be inserted TF memory card to play music
+3. Can be inserted U disk to play music
+4. Through the audio line input and output music
+5. Built-in MP3 music, the volume can be adjusted
+6. Built-in music can be controlled by a button on the next song
+7. Built-in 42 kinds of off-line stunning animation (plug in the electricity can run animation)
+8. Built-in 14 kinds of offline dynamic audio animation (dance with music)
+9. 3D8 on the machine mode (control animation)
+10. 3D8 on the machine music mode
+11. Infrared remote control function
+12. Night, daytime control mode
+13. PWM breathing light mode
+14. Switch on the mainboard automatic detection mode
+15. Photoresistor automatic dimming function (need to expand by yourself)
+16. Shell size: 233 * 161 * 161mm
+17. PCB board: 150 * 150mm
+18. Input voltage: 5V / 5V charger
+19. Current: 1A-2A (2A better)
+
+Four key functions:
+
+K1 key: Enter the mode selection, day, night mode control
+K2 key: Enter the 3D8 PC mode (press the K1 key to be effective after power on)
+K3 key: Enter 42 kinds of offline animation mode (press the K1 key to be effective after power on)
+K4 key: Enter 14 kinds of off-line audio mode (press the K1 key to be effective after power on)
+
+Three music keys features:
+
+S1 key: Enter the music playback / stop control
+S2 key: Enter the previous song / volume decrease control
+S3 key: Enter the next song / volume increase control
+
+Circuit design:
+
+STC12C5A60S2 + 74HC245 + 74HC138 + 74HC595N
+1. Integrated STC12C5A60S2 high-speed 1T microcontroller
+2. 74HC245 buffer driver (cascade connection)
+3. 5A high-current MOS tube driver chip (to solve the uneven brightness)
+4. High-speed scanning chip and serial control cascade chip
+5. Use professional MP3 music chip
+6. Use professional power amplifier chip 8002B
+
+There are two ways to modify the pattern:
+
+1. Modify the program (difficult, you need to understand programming)
+2. PC computer software direct manipulation of the light cubic
+
+Package includes:
+
+1 x 3D Light Cube Kit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

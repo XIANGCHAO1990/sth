@@ -1,0 +1,314 @@
+1909572
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/52/2B/8051128b-9570-4d53-b5cd-bd500f934e25.jpg
+A95X W2 Amlogic S905W2 Quatro Core Android 11 4GB RAM 64GB ROM Smart TV BOX 2.5G 5G WI-FI duplo Bluetooth 5 4Kx2K a 60fps
+https://pt.banggood.com/A95X-W2-Amlogic-S905W2-Quad-Core-Android-11-4GB-RAM-64GB-ROM-Smart-TV-BOX-2_5G-5G-Dual-WIFI-Bluetooth-5-4Kx2K-at-60fps-p-1909572.html?cur_warehouse=CN&ID=47184&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificação:
+
+
+
+
+
+
+
+Configuração do padrão físico do sistema:
+
+
+Tipo
+Detalhes
+
+
+Formulário do produto
+Formulário do produto
+CN
+
+
+Dimensões
+104mmx104mmx19.4mm
+
+
+Peso
+Cerca de 500g
+
+
+Configuração de hardware do sistema:
+
+
+Tipo
+Detalhes
+Descrições
+
+
+CPU
+Tipo
+Quad-core Cortex-A35 (Amlogic S905W2)
+
+
+Velocidade
+1.8GHz
+
+
+GPU
+Tipo
+G31 GPU
+
+
+RAM
+Capacidade
+4GB
+
+
+ROM
+EMMC
+64GB
+
+
+Conexões de rede:
+
+
+Tipo
+Detalhes
+Descrições
+
+
+WI-FI
+Módulo Wi-Fi
+IEEE 802.11 a/b/g/n/ac（2.4G/5GH）+ BT5.0
+
+
+Rede Ethernet
+RJ45
+RJ45 10/100M
+
+
+Configuração da interface:
+
+
+Tipo
+Detalhes
+Descrições
+
+
+Soquete do cartão de memória
+Memória externa
+Suporte SDSC/SDHC/SDXC
+
+
+Interface USB
+Transferência de dados de suporte
+USB2.0x2
+
+
+Interface AV
+Saída AV
+∮ interface padrão de 3,5 mm
+
+
+Conector DC
+Poder 
+∮ Conector de alimentação de 4,0 mm
+
+
+Interface HDMI
+Saída de áudio/vídeo
+HDMI2.1
+
+
+Tipo C
+
+N / D
+
+
+Conector SPIDF
+Saída de áudio
+Óptico
+
+
+Teclado
+Dispositivo de entrada
+dispositivo USB
+
+
+Mouse
+Dispositivo de entrada
+dispositivo USB
+
+
+Controle remoto
+Dispositivo de entrada
+Controle remoto
+
+
+Acessórios necessários:
+
+
+Tipo
+Detalhes
+Descrições
+
+
+Adaptador de energia
+Configuração padrão
+∮4,0 mm DC 5V@2A
+
+
+Configuração do software:
+
+
+ Tipo
+Detalhes
+Descrições
+
+
+Sistema operacional
+Versão do sistema operacional
+Android 11
+
+
+Decodificador de vídeo
+AV1 MP-10@L5.1 até 4Kx2K a 60fps; VP9 Perfil-2 até 4Kx2K a 60fps; H.265 HEVC MP-10@L5.1 até 4Kx2K @ 60fps; Perfil AVS2-P2 até 4Kx2K @ 60fps, H.264 AVC HP@L5.1 até 4Kx2K @ 30fps, H.264 MVC até 1080P @ 60fps, MPEG-4 ASP @ L5 até 1080P @ 60fps (ISO-14496), WMV / VC-1 SP / MP / AP até 1080P @ 60fps, AVS-P16 (AVS +) / AVS-P2 JiZhun Perfil até 1080P @ 60fps, MPEG-2 MP / HL até 1080P @ 60fps (ISO-13818), MPEG -1 MP / HL até 1080P a 60 fps (ISO-11172), RealVideo 8/9/10 até 1080P a 60 fps
+
+
+Decodificador de áudio
+Suporta MP3, AAC, WMA, RM, FLAC, Ogg e programável com down-mixing 7.1/5.1
+
+Característica:CPU: Quad-core Cortex-A35 Amlogic S905W2, velocidade de 1,8 GHzGPU: G31 GPUSistema operacional: Android 11Capacidade de memória: 4GBROM: EMMC 64GBWI-FI: IEEE 802.11 a / b / g / n / ac (2.4G / 5G)Bluetooth: BT5.0Ethernet RJ45 RJ45 10 / 100MMemória externa: suporte SDSC / SDHC / SDXCTransmissão de dados de interface USB: suporte USB 2.0x2Interface AV: saída AV ∮ interface padrão de 3,5 mmHDMI: saída de áudio e vídeo HDMI2.1Controle remoto: controle remotoDecodificador de vídeo: AV1 MP-10@L5.1 até 4Kx2K @ 60fps; VP9 Perfil-2 até 4Kx2K a 60fps; H.265 HEVC MP-10@L5.1 até 4Kx2K a 60fpsO decodificador de áudio suporta MP3, AAC, WMA, RM, FLAC, Ogg e downmix 7.1 / 5.1 programávelTamanho: 104 mm x 104 mm x 19,4 mmPeso: cerca de 500gIncluído no Pacote:1 x A95X W2 TV Caixa (outros produtos não incluídos)1 x Controle Remoto1 x manual do usuárioOutras opções:A95X W2 2GB RAM 16GB ROM Smart TV CAIXA: [link]A95X W2 4GB RAM 32GB ROM Smart TV CAIXA: [link]A95X W2 4GB RAM 64GB ROM Smart TV CAIXA: [link]
+
+
+
+

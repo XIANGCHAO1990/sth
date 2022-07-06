@@ -1,0 +1,405 @@
+1527335
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/B8/7D/b4995611-6a41-4a02-aaac-c0391650d356.jpg
+5pcs M18 Bluetooth 4.2 Récepteur audio Module sans perte de voiture haut-parleur casque Amplificateur Conseil sans fil refaire
+https://fr.banggood.com/5pcs-M18-Bluetooth-4_2-Audio-Receiver-Module-Lossless-Car-Speaker-Headphone-Amplifier-Board-Wireless-Refit-p-1527335.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manuel de l'utilisateur: Cliquez ici pour ouvrir
+
+	Pour différents besoins de clients, nous vous proposons 3 versions parmi lesquelles vous pouvez choisir:
+
+
+
+
+
+
+
+
+
+Fonction / Modèle
+
+M18 (cet élément)
+
+M28 (ID du produit: 1486747)
+
+M38 (numéro de produit: 1486746)
+
+
+
+Micro alimentation
+
+×
+
+√
+
+√
+
+
+
+Prise casque audio
+
+×
+
+√
+
+×
+
+
+
+Amplificateur intégré
+
+×
+
+×
+
+√ (5W + 5W)
+
+
+
+Alimenté par batterie au lithium
+
+√
+
+√
+
+√
+
+
+
+Supporte la carte son USB, lecteur libre
+
+×
+
+×
+
+√
+
+
+
+Mémoire de volume / ajustement
+
+√
+
+×
+
+×
+
+
+
+MUET interface muet
+
+√
+
+×
+
+×
+
+
+
+Extension de bouton
+
+√
+
+×
+
+×
+
+
+
+Version Bluetooth
+
+bluetooch V4.2
+
+
+
+Soutenir le protocole Bluetooth
+
+HFPV1.7, A2DPV1.2, AVRCPV1.5, AVCTPV1.2, AVDTPV1.2
+
+
+
+Support de format
+
+Prise en charge du décodage sans perte WAV / WMA / FLAC / APE / MP3, sortie stéréo à deux canaux
+
+
+
+Tension de fonctionnement
+
+5V/3.7V-4.2V
+
+
+
+Statut de diffusion non connecté
+
+5.5MA
+
+
+
+Statut de connexion
+
+20MA
+
+
+
+Sommeil profond
+
+3UA
+
+
+
+Distance de transmission
+
+20 mètres (environnement vide ou à faibles interférences)
+
+
+
+Température de fonctionnement
+
+ -40 ° C à + 85 ° C
+
+
+
+Sensibilité
+
+ -87dbm
+
+
+
+
+Introduction:
+
+
+
+Ce produit MH-M18 est une solution de conception Bluetooth basse consommation, prenant en charge la dernière transmission Bluetooth 4.2, la lecture stéréo sans perte à deux canaux, la connexion Bluetooth une fois le module connecté à Bluetooth, très pratique. Dans un environnement ouvert, la distance de connexion Bluetooth peut atteindre 20 mètres.
+
+Largement utilisé dans une variété de réception audio Bluetooth, une variété de modifications audio de bricolage.
+
+
+
+
+
+Épingle
+
+Une fonction
+
+La description
+
+
+
+1
+
+CLÉ
+
+Terminal de commande de boutons (fonctions à 4 boutons, résistances supplémentaires telles que le schéma de câblage)
+
+
+
+2
+
+MUET
+
+Terminal de commande de sourdine (sortie haut niveau 3.3V lors de la mise en sourdine, sortie bas lors de la lecture)
+
+
+
+3
+
+VCC
+
+Alimentation positive 5V (l’alimentation 3,7V de la batterie au lithium nécessite une diode de court-circuit)
+
+
+
+4
+
+GND
+
+Signal électrique négatif / masse audio
+
+
+
+5
+
+L
+
+Sortie du canal gauche
+
+
+
+6
+
+R
+
+Sortie du canal droit
+
+
+
+
+
+
+La description de la fonction:
+
+
+
+Version Bluetooth V4.2, prend en charge la technologie de connexion automatique Bluetooth, prend en charge le décodage sans perte WAV / WMA / FLAC / APE / MP3, sortie stéréo à double canal.
+
+Une fois le module sous tension, le téléphone mobile recherche le nom Bluetooth MH-M18 / MH-M28 / MH-M38 et peut lire de la musique après la connexion Bluetooth.
+
+
+
+Le forfait comprend:
+
+	Module 5 x M18
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

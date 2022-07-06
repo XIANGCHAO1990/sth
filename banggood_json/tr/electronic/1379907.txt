@@ -1,0 +1,413 @@
+1379907
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/DC/30/8fa6933e-d76b-4048-a06c-a9529ff10407.jpg
+Hiseeu 10 inç Ekran 4 adet 1080P Kablosuz CCTV IP Kamera 8CH NVR WiFi Video Gözetleme Sistemi
+https://tr.banggood.com/Hiseeu-10-inch-Display-4pcs-1080P-Wireless-CCTV-IP-Camera-System-8CH-NVR-WiFi-Video-Surveillance-Home-Security-System-Kit-p-1379907.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikleri :
+
+
+
+
+8CH NVR'yi uyarlayın
+
+Toplamda 8 kameraya kadar harcama yapabilir, kamera mağazası linki aşağıdaki gibidir.
+
+Karmaşık tellerden arındırılmış
+
+NVR wifi modunda inşa edilmiş, kamera ile NVR arasındaki bağlantı kablosuz, Tak ve kullan, karmaşık ayarlara gerek yok
+
+Çoklu Dilleri Destekleyin
+
+Uzakdan Kumanda Access size huzur getiriyor 
+
+Destek windows PC, ios, Android cep
+
+Hareket Algılama ve E-posta Uyarısı
+
+Çok hareketli algılama alanı ayarlayabilir, herhangi bir şüpheli hareket güvenlik sistemimiz tarafından tespit edildiğinde Anında e-posta gönderilecektir. Bu yüzden çok geç olmadan savunma önlemleri alınabilir.
+
+Akıllı oynatma özelliğine sahip Yerel Olay videosu 
+
+Video kaydını zamana göre veya alarmla arayabilir, oynatmak istediğiniz videoyu kolayca bulabilirsiniz.
+
+Hava Koşullarına Dayanıklı Güvenlik Kameraları
+
+Hem iç hem de dış mekan kullanımı için uygundur.
+
+Kolay Kurulum, profesyonel becerilere gerek yok
+
+Süper kolay kurulum ve konfigürasyonlar. Real tak ve çalıştır, herhangi bir profesyonel beceriye ihtiyaç duymazsınız, tamamen kendiniz zahmetsizce yapabilir ve kendi gözetim sisteminizi oluşturabilirsiniz.
+
+
+
+
+Şartname :
+
+
+
+
+
+
+Ürün Modeli: 8WNKIT-10V-4HB612
+
+
+
+Kamera
+
+
+
+sistem
+
+Gömülü Linux İşletim Sistemi
+
+
+
+Piksel
+
+2MP
+
+ 
+
+
+
+Dinamik aralık
+
+52dB 
+
+
+
+Gürültü azaltma
+
+3D DNR
+
+
+
+Elektronik obtüratör
+
+1s-1/100000s
+
+
+
+Minimum aydınlık
+
+Renk: 0.1 Lux (F1.2); BW: 0.05 Lux (F1.2); 0 Lux IR ON ile
+
+
+
+Lens
+
+
+
+Odak uzaklığı
+
+3.6mm
+
+
+
+Yatay görünüm
+
+80 °
+
+
+
+Arayüz türü
+
+φ12
+
+
+
+Kızılötesi
+
+
+
+Kızılötesi mesafe
+
+20m
+
+
+
+Kızılötesi LED
+
+3 adet Yüksek güçlü Kızılötesi LED
+
+
+
+Kodlama modu
+
+
+
+Video sıkıştırma
+
+H.264 / M-JPEG
+
+
+
+Kodlama tipi
+
+BaseLine Profili / Ana Profil / Yüksek Profil
+
+
+
+Video akışı
+
+32K-2Mbps
+
+
+
+İletim modu
+
+Çift akış
+
+
+
+Diğer
+
+
+
+Ağ protokolü
+
+TCP / IP, UDP, P2P, DNS, DHCP, RTSP, ONVIF
+
+
+
+IP adresi
+
+Statik ve dinamik IP adreslerini destekleyin
+
+
+
+Sistem izni
+
+Kullanıcı adı ve şifre özel
+
+
+
+Sistem saati
+
+Dahili saat, Harici senkronizasyon, NTP, Saat dilimi
+
+
+
+Akıllı alarm
+
+Hareket algılama
+
+
+
+Genel özellikler
+
+
+
+koruma seviyeleri
+
+yıldırımdan korunma / koruma
+
+
+
+Sıcaklık
+
+-20 ℃ ila 60 ℃
+
+
+
+Nem
+
+% 0-95 (Önkoşul yok)
+
+
+
+Boyut
+
+35mmx20mmx30mm
+
+
+
+
+
+
+Paket içeriği:
+
+
+
+4 x Su Geçirmez 1080P IP Kameralar
+
+1 x 8CH 10 inç LCD NVR
+
+Kameralar için 4 x AB Tak 12V / 1A güç adaptörü
+
+NVR için 1 x AB Tak 12V / 2A güç adaptörü
+
+1 x Mouse
+
+1 x 1M LAN Kablosu
+
+1 x Anten güçlendirici
+
+1 x HDMI Kablosu
+
+2 x Uyarı etiketi
+
+
+
+
+Detaylar resimler:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,198 @@
+1112140
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/64/14/c81e0c94-d03e-41df-a8da-f30a43d89032.jpg
+LCR-T4 Mega328 Probador del Transistor Capacitancia de Diodo Tríodo ESR Metro con Cáscara
+https://es.banggood.com/Geekcreit-LCR-T4-Mega328-Transistor-Tester-Diode-Triode-Capacitance-ESR-Meter-With-Shell-p-1112140.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificaciones:
+Resistencia: 0.1ω-50mω
+Condensador: 25pf-100000uf
+Inductancia: 0.01MH - 20H
+Potencia de trabajo: DC-9V
+Corriente de espera: 0.02UA
+Corriente de funcionamiento: 25mA
+Material: Metal + plástico
+Tamaño: Cerca de 11.1cm/4.37 "x2.6cm/1.02" x8.5cm/3.34
+[Conversión: 1cm = 0.3937 pulgadas, 1 pulgada = 2.54 cm]
+
+Descripción:
+
+1. Añade función de iniciar detección de voltaje
+2. Detección automática de transistores NPN y PNP, MOSFET de canal N y canal P, diodos (incluidos diodos dobles), tiristores, transistores, resistencias
+Y condensadores y otros componentes
+3. Prueba automáticamente el elemento de pin y se muestra en el LCD
+4. Puede detectarse para determinar la tensión de polarización directa del emisor del transistor del transistor, el diodo de protección MOSFET y el factor de amplificación de
+La base
+5. Mide el voltaje de umbral de puerta y la capacitancia de puerta del MOSFET
+6. 1602 LCD pantalla utiliza LCD(12864 LCD con luz de fondo)
+7. Alta velocidad de prueba, prueba de componente válida: 2 segundos (excepto en el condensador más grande de la medición de capacitancia grande también toma mucho tiempo, el tiempo medido de un minuto es normal)
+8. Operación de un botón, prueba de encendido, obtiene una clave
+9. Modo de consumo de energía apagado: Menos de 20 nA de
+10. Función de apagado automático para evitar desperdicios innecesarios, ahorro de energía de la batería, duración de la batería mejorada
+
+Nota:
+
+Batería no está incluída.
+
+Paquete incluído:
+
+LCR-T4 1 x Probador de transistor 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

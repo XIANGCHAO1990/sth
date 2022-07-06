@@ -1,0 +1,266 @@
+1537029
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/0D/D1/909bd2ac-a1c4-4ff7-91fd-912638b765bb.JPG
+ICL7107 voltmètre bricolage Kit de production électronique DC5V 35mA voltmètre numérique voltmètre
+https://fr.banggood.com/ICL7107-Voltmeter-DIY-Electronic-Production-Kit-DC5V-35mA-Voltage-Meter-Digital-Voltmeter-p-1537029.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:
+
+	Nom du kit: ICL7107 Kit de bricolage voltmètre
+
+Taille du PCB: 70,6 * 39 mm
+
+Taille de l'ouverture de montage de la tête: 77 * 40mm
+
+Taille de la fenêtre d'affichage: 51 * 24mm
+
+Soldering manual: Cliquez ici.
+
+Paramètres électriques:
+
+
+Tension de fonctionnement: DC5V
+
+Courant de travail: 35mA
+
+Précision de mesure: il peut être étalonné pour obtenir une précision plus élevée et aucun paramètre pour le moment.
+
+Plage de mesure: divisée en 3 fichiers, fichier 0-2V Mesure de petite tension
+
+                                                            Fichier 0-20V mesurant la basse tension
+
+                                                            0-200V, mesurant une tension plus élevée.
+
+Méthode de sélection de gamme: soudure des joints avec sélection des engrenages sur la carte,
+
+Lorsque les deux points du fichier 0-2V sont soudés ensemble et que la résistance de la résistance de soudage RX est de 1K, la plage de mesure est de 0-2V;
+
+Lors de la soudure de 2 points de fichier 0-20V ensemble, la résistance de soudure RX est de 100K, la plage de mesure est de 0-20V;
+
+Lors de la soudure de 2 points de fichier 0-200V ensemble, la résistance de soudure RX est de 1M, la plage de mesure est de 0-200V;
+
+Affichage de dépassement de plage: la première position indique 1 ou -1
+
+Dans le kit, le RX est disponible en 100K et 1M, et l'acheteur sélectionne la soudure en fonction de sa plage de mesure. Ce voltmètre peut également être changé en ampèremètre. La méthode de changement du compteur de courant: le PCB réserve une position de soudure par résistance de haute précision de 2 W 0,1 ohm sur la carte, soudez cette résistance, puis RX n'a pas besoin d'être soudé. Ceci est un ampèremètre 0-2A.
+
+Couleur d'affichage: rouge
+
+Les outils nécessaires pour réaliser la production: des multimètres, des fers électriques et des pinces à eau sont nécessaires.
+
+
+Emballage inclus:
+
+
+1 x carte PCB
+
+3 x 1N4148
+
+1 x diode Zener 5.1V
+
+1 x résistance de 100 ohms
+
+1 x résistance de 270 ohms
+
+2 x résistance 2K
+
+1 x résistance 20K
+
+1 x résistance 47K
+
+1 x résistance 56K
+
+2 x résistance 100K
+
+1 x 1M résistance
+
+1 x inducteur 2.2MH
+
+Condensateur monolithique 2 x 104
+
+Condensateur monolithique 2 x 101
+
+1 x 224 condensateur monolithique
+
+1 x 474 condensateur monolithique
+
+Condensateur électrolytique 2 x 10UF25V
+
+1 x C1815
+
+1 x TL431
+
+Potentiomètre 2 x 3296-202
+
+1 x siège droit XH2.54-2P
+
+1 x ligne XH2.54-2P
+
+1 x siège KF301-2
+
+1 x porte-puce 40P
+
+1 x puce LT7107
+
+4 x 0,56 un tube numérique commun
+
+1 x case
+
+4 x M2 * 6 vis autotaraudeuses
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

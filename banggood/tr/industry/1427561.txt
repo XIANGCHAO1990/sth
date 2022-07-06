@@ -1,0 +1,332 @@
+https://tr.banggood.com/ET44-Series-Desktop-Digital-LCR-Meter-Capacitance-Resistance-Impedance-Inductance-Measure-LCR-Bridge-LCR-Meter-p-1427561.html?cur_warehouse=CN&ID=6156606&rmmds=CategoryToolsPop
+ET44 Serisi Masaüstü Dijital LCR Ölçer Kapasitans Direnç Empedans Endüktans Ölçümü LCR Köprü LCR Ölçer
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Açıklamalar:
+
+
+
+ET44 serisi masaüstü köprüsü, 3,5 inç TFT ekranı, kullanıcı dostu arayüzü ve çeşitli ölçüm parametrelerini tek bir gövdede bir araya getirir. Kullanıcıların USB ve RS232 ile uzaktan kumandayı gerçekleştirmesi ve aynı zamanda kolu kullanarak bileşenlerin tasnifini gerçekleştirmesi uygundur. İşlevsel olarak, yalnızca çıkış frekansını ve test seviyesini ayarlayamaz, aynı zamanda ölçüm sürecindeki bileşenlerin değerini de kaydedebilir. Performans parametrelerinde temel doğruluğu% 0,2'ye ulaşır.
+
+Özellikleri:
+
+
+
+
+
+100 kHz'e kadar ölçüm frekansı
+					● Test seviyesi 100 ~ 2000mV
+					● DC direnci ve elektrolitik kondansatör ölçümünü destekleyin
+					● Dahili öngerilim voltaj çıkışı (1mV-1500mV)
+					● Bileşen ölçümünün otomatik tanımlanması
+					3,5 inç TFT ekran, 5 buçuk bit ekran
+					● USB, RS232 iletişim arayüzü, Sap ayırma
+					● Veri kayıt işlevi (maksimum ve minimum değerler, ortalama değer)
+
+● SCPI iletişim protokolünü destekleyin
+					● Kullanıcıların ihtiyaçlarına göre dili, sesli uyarıyı, ekran parlaklığını vb. Yapılandırabilen sistem ayarlarını sağlayın.
+					● Temel doğruluk% 0,2
+					● Manuel ve otomatik aralık
+					● Açık devre ve kısa devre düzeltmesi ile donatılmış olmalıdır
+					● Karşılaştırıcının sıralama ve alarm işlevi vardır
+					● Çeşitli test bağlantı noktaları sağlayın
+
+
+
+
+
+Özellikler:
+
+
+
+
+
+Modeli
+
+ET4401
+
+ET4402
+
+ET4410
+
+
+
+Rakamlar
+
+Ana parametre: 5 hane; ikincil parametre: 5 hane
+
+
+
+Ölçüm Parametresi
+
+Ana parametre: L / C / R / Z; ikincil parametre: X / D / Q / θ / ESR
+
+
+
+Ölçüm Aralığı (L)
+
+ 0.01μH - 9999H
+
+
+
+Ölçüm Aralığı (C)
+
+0.01pF - 99999μF
+
+
+
+Ölçüm Aralığı (R)
+
+0.0001Ω - 99.99MΩ
+
+
+
+Temel Doğruluk
+
+% 0.2
+
+
+
+Test Frekansı (Hz)
+
+100 ~ 10kHz 10 nokta
+
+100 ~ 20kHz 12 nokta
+
+100 ~ 100kHz 20 nokta
+
+
+
+Ölçüm Ekran Hız
+
+2 kez / saniye (yavaş), 4 kez / saniye (orta hız), 8 kez / saniye (hızlı)
+
+
+
+İç Önyargı
+
+0-1500mV ayarlanabilir, 1mV kademeli
+
+
+
+Test Düzeyi
+
+100mV, 300mV, 600mV, 1000mV, 1500mV, 2000mV
+
+
+
+Düzeltme Fonksiyonu
+
+Açık devre düzeltmesi, kısa devre düzeltmesi
+
+
+
+Tarama işlevi
+
+Tarama limiti% 1,% 5,% 10 ve% 20 sabit noktalar ile -% 50 ila +% 50 arasında ayarlanabilir.
+
+
+
+Karşılaştırıcının seçimi
+
+Beş dişli sıralama, üçüncü vites uygun, bir vites başarısız, bir yardımcı dişli
+
+
+
+İletişim arayüzü
+
+Standart yapılandırma: USB, RS232 (veya 485), Kulp arabirimi; İsteğe bağlı: GPIB, USB Host
+
+
+
+Diğerleri
+
+İngilizce ve Çince olarak isteğe bağlı DCR, elektrolitik kapasitör ölçüm modu, ayarlanabilir arka ışık parlaklığı desteği
+
+
+
+
+
+Güç kaynağı voltajı: 220V AC ±% 10 veya 110V AC ±% 10, 45-65Hz
+
+● Çalışma ortamı: 0 ~ 40 ℃, bağıl nem <% 80.
+
+● Depolama ortamı: -10 ~ 50 ℃, bağıl nem <% 80.
+
+● Boyutlar: 265mm * 105mm * 305mm (genişlik * yükseklik * derinlik).
+
+● Ağırlık: 2.3kg.
+
+● Güç tüketimi: <10W
+
+
+>> İngilizce Kullanım Kılavuzunu İndirmek İçin Lütfen Tıklayınız <<
+
+
+Paket İçeriği:
+
+	1 x ET4401 LCR Test Cihazı
+1 x Aksesuar seti
+
+Detay Resimleri:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,145 @@
+1714403
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/05/6B/38da678a-a732-4c3d-af72-0758edb35539.jpg
+ZK-TB21 TPA3116D2 carte amplificateur de subwoofer bluetooth 5.0 50WX2 + 100W 2.1 canaux amplificateur de basse stéréo Audio de puissance
+https://fr.banggood.com/ZK-TB21-TPA3116D2-bluetooth-5_0-Subwoofer-Amplifier-Board-50WX2+100W-2_1-Channel-Power-Audio-Stereo-Bass-AMP-p-1714403.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:Modèle: ZK-TB21Matériel : composants électroniquesLa couleur noireVersion Bluetooth: 5.0 (pas de blindage, 10 m)Sensibilité d'entrée : 500 mVEntrée audio : AUX + BluetoothCanal : 2.1Puce: TPA3116D2 (avec fonction anti-interférence AM)Puissance: DC12-24V / 5AHaut-parleur adaptateur: 20-100W, 4-8ΩPuissance de sortie: 50 W maximum (canaux R et L), 100 W maximum (subwoofer)Mécanisme de protection: surtension, sous-tension, surentance, détection CC, protection contre les courts-circuitsTaille: 118x100x22mm / 4.6x3.9x0.8 poucesNoter:Transition : 1 cm = 10 mm = 0,39 poucesVeuillez autoriser une erreur de 0 à 1 cm en raison de la mesure manuelle. Veuillez vous assurer que cela ne vous dérange pas avant d'enchérir.En raison de la différence entre les différents moniteurs, l'image peut ne pas refléter la couleur réelle de l'article. Merci!Emballage inclus:1 x carte amplificateur ZK-TB21Questions et réponses :1. Comment choisir l'alimentation?L'alimentation avec la carte est très essentielle, l'ondulation de l'alimentation sélectionnée doit être petite, l'ondulation d'une grande alimentation entraînera un bruit de fond de l'amplificateur de puissance, il y a un son de courant.Plus la tension est élevée, plus le courant est élevé et plus le courant est élevé. la puissance de sortie. Si vous n'avez que 12V 1A, vous pouvez avoir des haut-parleurs de 3-4 pouces.Si vous êtes au-dessus de 19V 5A, pas de problème avec 8-10 pouces, la puissance doit être très appréciée.Si la tension est trop faible et le son est amplifié, il causera facilement une distorsion du son. Si le courant est trop faible et que le klaxon ne peut pas être augmenté, la tension sera abaissée, ce qui entraînera un fonctionnement anormal ou une mauvaise qualité sonore.Il est recommandé d'utiliser une alimentation 18V19V24V avec un courant supérieur à 5A.Si vous n'avez qu'une alimentation 9V12V ou 1A 2A, vous pouvez également l'utiliser mais avec une faible puissance. Lors de son utilisation, choisissez un volume proche du maximum, ce qui peut provoquer une distorsion et affecter la qualité du son.2. Comment sélectionner les enceintes?À propos du type de haut-parleur: les haut-parleurs couramment utilisés sont généralement de 4 à 8 ohms, peuvent être utilisés.Les haut-parleurs des canaux gauche et droit doivent être connectés à des haut-parleurs pleine fréquence ou moyenne et haute fréquence avec une puissance comprise entre 20W et 100W.Les haut-parleurs du caisson de basses ne peuvent pas être connectés aux orateurs ordinaires. Les haut-parleurs avec haut-parleurs subwoofer doivent être connectés, avec une puissance comprise entre 20 et 100 W. Le pavillon du subwoofer doit avoir une fréquence de plongée d'au moins 50 Hz.Si la puissance de votre haut-parleur est faible, par exemple entre 20W-50W peut également être utilisée, la tension d'alimentation doit être faible, pour éviter que le haut-parleur ne brûle après un fort, comme choisissez une puissance inférieure à 15V.Si vous êtes un haut-parleur 50W-100W , vous n'avez pas à vous soucier de brûler la corne. Vous pouvez choisir une alimentation 12-24V. Plus la tension que vous choisissez est élevée, plus vous pouvez produire de son ou de puissance.La puissance des haut-parleurs n'est pas facile à dépasser 100W, sinon cela affectera la qualité du son.3. Mode d'entrée audioIl existe deux modes d'entrée audio pour ce module amplificateur audio: l'un est l'entrée Bluetooth et l'autre est l'entrée AUX. Le mode Bluetooth est préféré.Bluetooth peut être connecté dans les deux modes.Tant que la connexion Bluetooth est réussie, il s'agit du mode Bluetooth et le mode Bluetooth prend en charge la sauvegarde automatique.L'insertion AUX est le mode AUX lorsque Bluetooth est déconnecté.Il convient de noter que la connexion bluetooth de ce module est déconnectée lors de l'utilisation du mode AUX.4. Comment régler le volume principal?Le bouton MAIN - VOLUME sert à régler le MAIN VOLUME. Le volume principal droit augmente et le volume principal gauche diminue. Le volume principal affecte à la fois les canaux gauche et droit et le volume du caisson de graves.5. Comment régler la hauteur et les basses des canaux gauche et droit?R&L CHANNEL - Le bouton BASS est destiné aux BASS, à l'amélioration BASS droitier et à l'atténuation BASS gaucher. Lorsque le bouton est dans la position la plus à droite, il n'améliore ni n'atténue les graves.Le bouton R&L CHANNEL - TREBLE est utilisé pour contrôler le TREBLE, avec une amélioration de TREBLE pour droitier et une atténuation de TREBLE pour gaucher. Lorsque le bouton est au milieu, il n'améliore ni n'atténue les aigus.Remarque lors du réglage des sons aigus et graves: lorsque les sons TREBLE ou BASS sont tournés vers la droite presque au maximum, si la distorsion du son est déformée, le gain des sons TREBLE ou BASS est trop important. Il est nécessaire de tourner le bouton TREBLE ou BASS vers la gauche pour baisser le gain ou de tourner le bouton MAIN-VOLUME sur la droite vers la gauche pour réduire le VOLUME total.6. Comment régler le subwoofer?SUBWOOFER - VOLUME contrôle le VOLUME du SUBWOOFER. Le volume pour droitier augmente et le volume pour gaucher diminue.Le bouton SUBWOOFER - FREQ contrôle la fréquence de coupure du SUBWOOFER. La fréquence droite augmente et la fréquence gauche diminue. La plage de réglage de la fréquence est de 20 Hz à 200 Hz.7. Quels sont les facteurs associés à la qualité sonore?La qualité du son n'est pas seulement liée au module d'amplificateur de puissance, mais également à l'alimentation, à la source sonore et à l'ensemble du système audio.En gros, chaque lien du système audio affectera la qualité du son, parmi lesquels le lien principal est l'audio ligne de transmission, alimentation audio, circuit de tonalité, circuit amplificateur, haut-parleurs et environnement environnant.La qualité sonore est meilleure lorsque la source sonore, l'alimentation, le module amplificateur et le haut-parleur sont adaptés. 
+
+
+
+

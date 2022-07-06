@@ -1,0 +1,146 @@
+1327406
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/85/1D/788c4521-fe60-4d07-ab22-73a33068394f.jpg
+LILYGO® TTGO LoRa32 868 Mhz ESP32 LoRa OLED 0,96 Pollici Scheda SD Bluetooth WIFI Modulo wireless ESP-32 SMA IP5306
+https://it.banggood.com/LILYGO-TTGO-LoRa32-868Mhz-ESP32-LoRa-OLED-0_96-Inch-SD-Card-bluetooth-WIFI-Wireless-Module-ESP-32-SMA-IP5306-p-1327406.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione del prodotto:Tensione di lavoro: 1,8 ~ 3,7 vCorrente accettabile: 10~14mACorrente di trasmissione: 120mA@+20dBm90mA@+17dBm29mA@+13dBmFrequenza operativa: 433/868/915 MHzPotenza di trasmissione: +20dBmSensibilità di ricezione: -139dBm@LoRa &62.5Khz&SF=12&146bps-136dBm@LoRa &125Khz&SF=12&293bps-118dBm@LoRa &125Khz&SF=6&9380bps-123dBm@FSK&5Khz&1.2KbpsErrore di frequenza: +/-15KHzSpazio FIFO: 64 byteVelocità dati: 1,2 K~300 Kbps @ FSK0,018 K~37,5 Kbps @ LoRaModalità di modulazione: FSK, GFSK, MSK, GMSK, LoRa TM, OOKModulo interfaccia: SPITemperatura di esercizio: -40℃- +85℃Funzione RSSI digitale:Correzione automatica della frequenzaControllo automatico del guadagnoSveglia veloce e salto di frequenzaGestore di pacchetti di dati altamente configurabileSMA AntennaIP5306Github:https://github.com/Xinyuan-LilyGo/TTGO-LoRa-Series https://github.com/LilyGO/ESP32-PaxcounterLa confezione include:1 modulo TTGO LoRa32 868Mhz2 x Pin1xAntenna1 cavo di alimentazione(Avviso: la lista di spedizione non include batteria e scheda SD)
+
+
+
+
+

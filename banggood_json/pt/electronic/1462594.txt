@@ -1,0 +1,214 @@
+1462594
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/F7/7F/9e09cb30-e231-4d53-9c2f-97b3c45abd62.jpg
+Módulo de câmera USB Raspberry Pi com faixa de foco ajustável para Raspberry Pi 3/2/B/B+
+https://pt.banggood.com/Raspberry-Pi-USB-Camera-Module-with-Adjustable-Focusing-Range-for-Raspberry-Pi-3-or-2-or-B-or-B+-p-1462594.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:
+
+Câmera de interface USB, suporta todas as revisões do Pi
+	Alcance de focagem: 20MM (MAX)
+	Resolução de vídeo: 640*480
+	Tamanho: 3,8 cm * 1,5 cm * 3 cm, linha escalável, o mais longo é 65 cm
+
+
+Como usar esta câmera:
+
+
+1. Ajuste o foco
+
+
+Teste esta câmera USB com seu computador e ajuste o foco para corresponder à melhor resolução de exibição.
+
+2. Grave vídeos
+
+sudo apt-get update
+
+sudo apt-get install ffmpeg
+
+avconv -f video4linux2 -r 7 -s 640x480 -i /dev/video0 video0.avi
+
+3.Reproduzir vídeo
+
+omxplayer -o hdmi video0.avi
+
+4.  Tirar fotos
+
+Instale o software:
+
+sudo apt-get install fswebcam
+
+Capturar imagens:
+
+fswebcam -r 640x480 image.jpg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

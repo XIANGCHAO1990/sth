@@ -1,0 +1,295 @@
+https://it.banggood.com/Fanensheng-3018-3-Axis-Mini-DIY-CNC-Router-Standard-Spindle-Motor-Wood-Engraving-Machine-Milling-Woodworking-Engraver-p-1274569.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+Fan&#39;ensheng 3018 3 Assi Mini Router di CNC FAI DA TE Motore Mandrino Standard Macchina Per Incidere del Legno Fresatura Lavorazione Del Legno Incisore
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifica:
+
+
+
+
+
+
+
+
+				Specifiche generali
+
+
+
+				 Modello
+
+				 Mini CNC3018 (Senza modulo Laser)
+
+
+
+				 Materiale del telaio
+
+				 Lega di alluminio
+
+
+
+				 Colore
+
+				 Argento
+
+
+
+				 Zona tavola
+
+				 ca. 340x160mm
+
+
+
+				 Area di lavoro
+
+				 ca. 340x160x40mm
+
+
+
+				 Peso del prodotto
+
+				 7.5kg
+
+
+
+				 Software di controllo per mandrino
+
+ GrblControl
+
+
+
+				 Software di controllo per Laser
+
+ Litefires
+
+
+
+				 Requisiti di sistema
+
+				 Windows XP SP3, Win7, Win8, Win10.
+
+
+
+				 Spina adattatore
+
+				 Spina US a 2 pin
+
+
+
+				 Tensione di ingresso dell'adattatore
+
+				 AC 110-240V 50/60Hz
+
+
+
+				 Tensione di uscita dell'adattatore
+
+				 CC 24V 4A
+
+
+
+				 Caratteristiche
+
+				 1. Costruzione stabile con profilo in alluminio
+				 2. Motore mandrino a 3 assi mobile e potente
+				 3. Contiene la guida di avvio rapido del software GRBL
+				 4. Area di lavoro 340x160x40mm, soddisfa la maggior parte delle esigenze fai-da-te amatoriali
+				 5. Incidere legno, plastica, acrilico, PCB o materiale simile
+				     Non è possibile incidere metallo, acciaio, alluminio.
+
+
+
+				 Parametri tecnici
+
+
+
+				 Tensione di lavoro
+
+				 CC 24V
+
+
+
+				 Interfaccia
+
+				 USB
+
+
+
+				 Motore passo-passo
+
+42 Motore passo-passo, Tensione: 12 V, Corrente di fase 1,3 A, Coppia 0,25 Nm
+
+
+
+				 Motore mandrino
+
+				 Motore mandrino 775 (12-36 V) 24 V: 7000 giri/min, 36 V: 9000 giri/min
+
+
+
+				 Diametro albero motore mandrino 
+
+				 5mm
+
+
+
+
+
+Caratteristiche:
+
+	- Il montaggio richiede una certa abilità meccanica. Tutti i componenti di assemblaggio sono inclusi.
+
+	- Materiali per incisione: la macchina può intagliare legno, plastica, acrilico, PCB o materiali simili.
+
+	- Non è possibile incidere: metallo duro (come ottone, acciaio, ferro, ecc.), Giada e altri oggetti con texture molto dure. Ultima pagina dell'evento per favore CLIC.
+
+Nota:
+
+1. Istruzioni e software: Istruzioni di montaggio, software di controllo e ulteriori informazioni per favore CLICCA QUI
+
+2. Questo articolo contiene il motore del mandrino, ma nessun modulo laser. Se desideri utilizzare il laser per l'incisione, puoi acquistarlo in aggiunta. Grazie per la tua comprensione e tieni presente che l'interfaccia di ingresso (dovrebbe essere XH2.54-3P o XH2.54-2P) e la tensione di ingresso (dovrebbe essere DC 12V) del modulo laser dovrebbero essere compatibili con la scheda di controllo su 3018. Inoltre, il supporto del motore originale è rotondo, assicurati che la forma del tuo modulo laser sia adatta per l'installazione.3.La versione del software dovrebbe essere la versione 0.9, la versione 1.1 è instabile, il che causerà un funzionamento irregolare della macchina per incidere!
+
+
+Il pacchetto include:
+
+	1 x set completo di macchine per incidere del legno (consegna smontata)Ora consigliamo il modulo laser (2500mW Blue Laser Module) prodotto dal produttore originale: ID: 1386316Se lo desidera Ulteriori informazioni sui prodotti delle macchine per incisione Clicca qui
+
+
+
+
+
+

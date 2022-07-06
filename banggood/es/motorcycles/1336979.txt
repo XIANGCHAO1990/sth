@@ -1,0 +1,185 @@
+https://es.banggood.com/ELM327-USB-Modified-OBD2-Car-Diagnostic-Scanner-For-Ford-MS-CAN-HS-CAN-Mazda-Forscan-p-1336979.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+ELM327 USB modificado OBD2 Coche escáner de diagnóstico para Ford MS-CAN HS-CAN Mazda Forscan
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:
+1. Codificación.
+2. Datos en vivo.
+3. Adaptaciones.
+4. Pruebas de actuadores.
+5. Programación.
+6. Codificación del inyector.
+7. Actualizaciones de software.
+8. Procedimientos de servicio.
+9. Fuerza la regeneración de DPF.
+10. Lea la configuración del vehículo.
+11. Acceda a los módulos tanto en modo HS-CAN como en modo MS-CAN.
+12. Lea / borre los códigos de falla de TODOS los módulos, incluido OBD2 / EOBD.
+
+Característica:
+De color negro
+Tamaño: 8.8x2.5x4.6cm
+
+Módulos compatibles:
+GEM IPC DDM PDM RDDM RPDM AHCM PAM ACU SRM KVM IPMA SODL SODR
+BCM TCM PCM ABS HEC EHPAS CCM P HCM RCM SASM FACM
+ACM SRM SDDJ
+
+Sistema operativo compatible con Windows:
+Win7, XP, Vista y Windows 2000 (sistema operativo de 32 y 64 bits)
+Soportó los siguientes protocolos:
+  ISO15765-4 (CAN)
+  ISO14230-4
+  ISO9141-2
+  J1850 VPW (vehículos GM)
+
+Software compatible:
+ELMconfig
+FoCCCus
+Forscan
+La mayoría de los tipos de softwares OBD2 / EOBD
+
+Enlace de archivo de CD:
+http://myosuploads3.banggood.com/products/20200106/20200106234232AppleMACInstallGudie.pdf
+
+El paquete incluye:
+1 X USB ELM327 Escáner Modificado herramienta
+
+
+
+
+

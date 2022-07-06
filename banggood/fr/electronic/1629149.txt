@@ -1,0 +1,219 @@
+https://fr.banggood.com/OPEN-SMART-Long-Range-433MHz-Wireless-Transceiver-Kit-Mini-RF-Transmitter-Receiver-Module-+-2PCS-Spring-Antennas-p-1629149.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+OPEN-SMART Longue portée 433 MHz Kit émetteur-récepteur sans fil Mini émetteur RF Module récepteur + 2 PCS Antennes à ressort
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:
+
+
+
+Le kit comprend une paire de modules émetteur et récepteur et une paire d'antennes à ressort pour augmenter la distance de communication. Et la fréquence est de 433 MHz. Il est très populaire pour les systèmes de télécommande, tels que la sonnette sans fil, les portes roulantes de télécommande, la voiture intelligente, la maison intelligente, etc.
+
+
+
+À propos du module émetteur:
+
+
+
+- Compatible avec Arduino
+
+- Bibliothèque: VirtualWire
+
+- Tension de travail: 4 - 12VDC
+
+- Courant de travail: 40mA
+
+- Puissance d'émission: 27dBm @ 12V (grande puissance)
+
+- Fréquence de travail: 433 MHz
+
+- Taux de transfert: 4,8 kbps (max)
+
+- Distance de transmission: lorsque les antennes à ressort sont soudées au module émetteur et récepteur et que l'alimentation est de 5 V, la distance de transmission en zone ouverte peut être augmentée à 400 mètres. La tension d'alimentation est plus grande, la distance de transmission plus longue.
+
+- Antenne: Vous pouvez utiliser le fil dont la longueur est de 17 cm ou l'antenne à ressort pour 433 MHz RF.
+
+
+
+À propos du module récepteur (forme rectangulaire):
+
+
+
+- Compatible avec Arduino
+
+- Bibliothèque: VirtualWire
+
+- Tension de fonctionnement: 2 - 5,5 VDC
+
+- Fréquence de travail: 433 MHz
+
+- Courant de travail: 2mA
+
+- Sensibilité: -110db
+
+- Antenne: Vous pouvez utiliser le fil dont la longueur est de 17 cm ou l'antenne à ressort pour 433 MHz RF.
+
+- Idéal pour un projet de bricolage.
+
+
+
+Le forfait comprend:
+
+
+
+1 module émetteur RF 433 MHz
+
+1 module récepteur RF 433 MHz
+
+2 antennes à ressort 433 MHz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

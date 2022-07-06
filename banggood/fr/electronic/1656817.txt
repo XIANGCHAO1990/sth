@@ -1,0 +1,232 @@
+https://fr.banggood.com/5pcs-Mini-DC-3_5-6V-to-3_3V-DC-DC-Converter-Step-Down-Buck-Regulator-LDO-Module-Voltage-regulator-Board-for-18650-li-ion-AAA-Dry-Cell-Batteries-ESP8266-p-1656817.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+5 pcs Mini DC 3.5-6 V à 3.3 V DC-DC Convertisseur Step Down Buck Régulateur LDO Module Tension Régulateur Carte pour 18650 li-ion AAA Cellule sèche Batteries ESP8266
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:
+
+ 
+
+Tension d'entrée: DC 3,5-6 V 
+
+Tension de sortie: DC 3,3 V 
+
+Courant de sortie maximal de longue durée: 300mA
+
+Courant de sortie maximal de courte durée: 400mA 
+
+Très précis: ± 2%
+
+Courant de repos: 8uA
+
+Courant de court-circuit: 30mA
+
+Protection contre les surintensités: 500mA 
+
+Température de fonctionnement: -25 ℃ - + 85 ℃ 
+
+Taille: 11,6 x 7,8 x 2,5 mm
+
+Faible consommation d'énergie, Low ESR Cap.Module compatible LDO de la série DD0403MA, très approprié pour les batteries au lithium.
+
+ 
+
+Remarque:
+
+ 
+
+1. La tension d'entrée ne peut pas être supérieure à la plage d'entrée maximale.
+
+2. La puissance de sortie ne peut pas être supérieure à la charge maximale pendant une longue période.
+
+3. La puissance d'entrée doit être supérieure à la puissance de sortie, car la consommation d'énergie du module lui-même.
+
+ 
+
+Applications:
+
+ 
+
+3.3V MCU ARM CPU FPGA / CPLD
+
+Systèmes alimentés par batterie au lithium de 5 V, 3,7 V à 3,3 V
+
+3.3V Motor Toy
+
+Module WIFI esp8266
+
+caméra de vidéosurveillance
+
+Module sans fil: Nrf24l01 CC1101 CC2500 CC2530 Zigbee
+
+Maison intelligente / domotique
+
+Chargeur de batterie
+
+Pré-régulateur pour régulateurs linéaires
+
+radio FM
+
+Équipement alimenté par batterie
+
+Amplificateur audio
+
+
+ 
+
+Emballage inclus:
+
+ 
+
+5 x Mini Convertisseur DC-DC 3,5-6 V à 3,3 V DC-DC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

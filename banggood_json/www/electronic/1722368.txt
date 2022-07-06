@@ -1,0 +1,300 @@
+1722368
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/D4/3F/497f0e7d-0a9a-4eb4-a4ca-0d5fe92278ee.jpg
+LILYGO® TTGO T-Internet-POE ESP32-WROOM LAN8720A Chip Ethernet Adapter And Downloader Expansion Board Programmable Hardware
+https://www.banggood.com/LILYGO-TTGO-T-Internet-POE-ESP32-WROOM-LAN8720A-Chip-Ethernet-Adapter-And-Downloader-Expansion-Board-Programmable-Hardware-p-1722368.html?cur_warehouse=CN&ID=6292769&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+More Information: https://github.com/Xinyuan-LilyGO/LilyGO-T-ETH-POE Product Detail :1. Compatible with PoE mode A (powered by data pair) and PoE mode B (powered by backup pair) and auto MDIX, allowing the use of straight and crossover Ethernet cables. 2. 20 needle footprint with 3.3V, V+ power and 15 ESP32GPIO are available for your application.  3. The compact 75mm by 40mm footprint is compatible with 4 mounting holes of ordinary M2.5 or 4-40 screws. 4. A small programming/USB serial console sub-module has been created so that the Inter-POE module can be easily programmed to meet the user's application needs. Feature:
+
+
+
+Hardware Specifications
+
+
+
+Chipset
+ESPRESSIF-ESP32-WROOM,LAN8720A Ethernet chip,SI3404 Power management chip
+
+
+FLASH
+4MB 
+
+
+SRAM 
+520 kB SRAM
+
+
+Button
+BOT,Rest
+
+
+External Device
+TF Card Slot,Type-C  Interface,PA2369NL 1825-S Transformer,HR861153C Ethernet-POE interface
+
+
+USB to TTL
+CP2104
+
+
+Modular interface
+ SD card,UART,SPI,I2C,PWM,I2S,ADC
+
+
+On-board clock
+32.768MHz crystal oscillator 
+
+
+Working temperature range
+ -40℃ ~ +85℃
+
+
+Weight
+26.85g
+
+
+Size
+70*52.3*17mm
+
+
+Power Supply Specifications
+
+
+
+Power Supply Input
+Type-C USB  5V
+
+
+HR861153C Ethernet-POE interface  50V
+
+
+Working voltage
+2.7V-3.6V
+
+
+Maximum output current
+About 1.2A
+
+
+Charging current
+500mA
+
+
+USB
+Type-C USB
+
+
+Wi-Fi
+
+
+
+Standard
+FCC/CE-RED/IC/TELEC/KCC/SRRC/NCC(esp32 chip)
+
+
+Protocol
+802.11 b/g/n(802.11n,speed up to150Mbps)A-MPDU and A-MSDU polymerization,support 0.4μS Protection interval
+
+
+Frequency range
+2.4GHz~2.5GHz(2400M~2483.5M)
+
+
+Transmit Power
+22dBm
+
+
+Communication distance
+300m
+
+
+Bluetooth
+
+
+
+Protocol
+Meet bluetooth v4.2BR/EDR and BLE standard
+
+
+Radio frequency
+With -97dBm sensitivity NZIF receiver Class-1,Class-2&Class-3 emitter AFH
+
+
+Audio frequency
+CVSD&SBC audio frequency
+
+
+Software specification
+
+
+
+Wi-Fi Mode
+Station/SoftAP/SoftAP+Station/P2P
+
+
+Security mechanism
+WPA/WPA2/WPA2-Enterprise/WPS
+
+
+Encryption Type 
+AES/RSA/ECC/SHA
+
+
+Firmware upgrade
+UART download/OTA(Through network/host to download and write firmware)
+
+
+Software Development
+Support cloud server development /SDK for user firmware development
+
+
+Networking protocol
+IPv4,IPv6,SSL,TCP/UDP/HTTP/FTP/MQTT
+
+
+User Configuration
+AT + Instruction set, cloud server, android/iOSapp
+
+
+OS
+FreeRTOS
+
+Package includes:1 x T-Internet-POE 1 x Double Row Pin 1 x Downloader Expansion Board (optional)Note: The USB interface only has a charging function, the product needs downloader to program. 
+
+
+
+
+

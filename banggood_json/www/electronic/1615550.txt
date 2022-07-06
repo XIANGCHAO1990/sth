@@ -1,0 +1,226 @@
+1615550
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/47/8F/c32e4bec-2427-4529-8f6a-8fe475e9975c.jpg
+PM1.0 PM2.5 PM10 Meaturing Module Air Quality Dust Sensor Tester Support Export Data Monitoring Home Office Car Tools
+https://www.banggood.com/PM1_0-PM2_5-PM10-Meaturing-Module-Air-Quality-Dust-Sensor-Tester-Support-Export-Data-Monitoring-Home-Office-Car-Tools-p-1615550.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Note: This version can Transfer data to PC by the host computer software
+
+No the function of data transmission click here:ID: 1588436
+	 
+
+Click to download: the host computer software
+ Operating Instruction：Click to open
+
+Specifications:
+
+	 
+
+Material: Acrylic Case + Electronic Components
+
+Size: Approx. 8.5x6.5x3.7cm/ 3.35x2.56x1.46"
+
+Processor: For ARM 32 Bit Chips
+
+Font color: Multi Colors
+
+Screen: 2.8" TFT (2 different display)
+
+Resolution Ratio: 320x240
+
+Power Supply: DC 5V
+
+Operation Current: 1-2A
+
+Temperature Measure Range: -20 to 60 ℃
+
+Accuracy: ±0.1 ℃
+
+Language Version: English
+
+	 
+
+Working Principle:
+
+	 
+
+Multi-angle Laser Scattering Detection, laser irradiation in the suspended particulate matter in the air and generate scattering. Scattered light will be collected in a specified angle at the same time. According to the scattering intensity, time-varying curves can be obtained through the sensor. Being processed by the microcomputer processor, equivalent particle diameters and the number of suspended particulate matter with different sizes in per unit volume can be obtained.
+
+	 
+
+Features:
+
+	 
+
+- Data transmission can be completed through the host computer software
+
+- Acrylic clear case shell, high transmittance to be looked through
+
+- Built in for ARM 32 bit processor, accurate detection & system fluency
+
+- 2.8" TFT screen, colorization display, wide angle vision up to 180°
+
+- High sensitivity sensor ensures the high accuracy in data collections
+
+- Semi-closing design performs excellent in heat radiation, long-life use
+
+- Multipurpose in air quality detection in PM1.0, PM2.5, PM10.0, AQI, temperature&humidity, suspended particulate matter
+
+- Real-time detection results will be shown on screen in corresponding colors related to collected datas
+
+- Lightweight, easy to use and be a straightaway in data interpretation
+
+- Power supply in DC 5V universal, usb socket, car charger, power bank, etc
+
+- Suitable for home/office and car or part scope on air quality detection  What are PM10, PM2.5 and PM1.0?In addition to gaseous pollution, the surrounding air may also be polluted by particles. These particles (suspension, liquid or solid) with different compositions and sizes are sometimes called "aerosols". They are usually classified as "suspended matter" and are 0ften referred to as PM (abbreviation of "Particulate Matter" in English).The floating fabric is generally classified according to "aerodynamic diameter". The aerodynamic diameter of a dust particle is the diameter of a spherical particle, and the diameter of the spherical particle shows the same behavior as the dust particle in ambient air (not necessarily having a spherical shape). In the context of air quality issues, particulate matter is particularly important.Fine particles such as PM10, PM2.5, and PM1 are defined as parts with aerodynamic diameters of less than 10, 2.5, and 1 µm (information: 1 µm = parts per million) meters or thousandths of a millimeter ). For comparison, the average diameter of human hair is 50-70 µm.What is the difference between PM10, PM2.5 and PM1.0?PM1: PM1 is much finer than PM2.5. The main source of PM1 is mainly daily power generation, industrial production, indoor environmental pollution, etc., which is difficult to judge by the naked eye. PM1 mainly comes from the burning of fossil fuels, such as coal and VOCs.PM2.5: PM2.5 has a small particle size, large area, and strong activity. It is easy to attach toxic and hazardous substances (for example, heavy metals, microorganisms, etc.), and it has a long residence time in the atmosphere and a long transportation distance. Human health and atmospheric environmental quality have a greater impact. PM2.5 is mainly smog and dust from roads in daily life.PM10: PM10, also known as respirable particulate matter, refers to particulate matter with an aerodynamic equivalent diameter of ≤10 microns. Usually comes from motor vehicles driving on unpaved asphalt and cement roads, crushing and grinding of materials, and dust raised by the wind.
+
+	 
+
+Package Included:
+
+	 
+
+1 x PM2.5 Air Quality Meaturing Module
+
+1 x USB Cable
+
+
+
+
+
+

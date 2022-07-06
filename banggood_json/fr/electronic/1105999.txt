@@ -1,0 +1,179 @@
+1105999
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/E0/89/6bd02b11-ab9d-4e76-9560-332555ce71d3.jpg
+3pcs CJMCU-1080 HDC1080 Module de capteur de température et d'humidité de haute précision CJMCU pour Arduino - produits compatibles avec les cartes officielles Arduino
+https://fr.banggood.com/3pcs-CJMCU-1080-HDC1080-High-Precision-Temperature-And-Humidity-Sensor-Module-CJMCU-for-Arduino-products-that-work-with-official-Arduino-boards-p-1105999.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	La description:
+Le HDC1080 est un capteur d'humidité numérique avec capteur de température intégré qui offre une excellente précision de mesure à très faible puissance. Le HDC1080 fonctionne sur une large plage d'alimentation et constitue une alternative à faible coût et faible consommation aux solutions concurrentes dans une large gamme d'applications courantes. Les capteurs d'humidité et de température sont étalonnés en usine.
+
+Caractéristique:
+Précision de l'humidité relative ±2% (typique)
+Précision de la température ±0,2°C (typique)
+Excellente stabilité à haute humidité
+Résolution de mesure 14 bits
+100 nA Courant en mode veille
+Courant d'alimentation moyen :
+                                          710 nA @ 1sps, mesure d'HR 11 bits
+                                          1,3 µA @ 1sps, 11 bits RH et mesure de la température
+Tension d'alimentation 2,7 V à 5,5 V
+Petite empreinte de l'appareil de 3 mm × 3 mm
+I2Interface C
+
+Applications:
+
+CVC
+Thermostats intelligents et moniteurs de pièce
+Produits blancs
+Imprimantes
+Compteurs portatifs
+Équipement médical
+Capteur sans fil (TIDA : 00374, 00484, 00524)
+
+Emballage inclus:
+
+3 x module de capteur de température et d'humidité
+Diagramme
+ 
+
+
+
+
+
+
+

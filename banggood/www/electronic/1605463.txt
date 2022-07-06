@@ -1,0 +1,433 @@
+https://www.banggood.com/ESP32-CAM-WiFi-+-bluetooth-Development-Board-ESP32-with-FT232RL-FTDI-USB-to-TTL-Serial-Converter-40-Pin-Jumper-p-1605463.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+ESP32-CAM WiFi + bluetooth Development Board ESP32 with FT232RL FTDI USB to TTL Serial Converter 40 Pin Jumper
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[ESP32-CAM Wireless Module]
+
+		Description:
+
+		 
+
+
+			1. ESP32-CAM is a WIFI+ bluetooth dual-mode development board that uses PCB on-board antennas and cores based on ESP32 chips. It can work independently as a minimum system.
+
+			2. ESP integrates WiFi, traditional bluetooth and BLE Beacon, with 2 high-performance 32-bit LX6 CPUs, 7-stage pipeline architecture, main frequency adjustment range 80MHz to 240MHz, on-chip sensor, Hall sensor, temperature sensor, etc.
+
+			3. Fully compliant with WiFi 802.11b/g/n/e/i and bluetooth 4.2 standards, it can be used as a master mode to build an independent network controller, or as a slave to other host MCUs to add networking capabilities to existing devices.
+
+			4. ESP32-CAM can be widely used in various IoT applications. It is suitable for home smart devices, industrial wireless control, wireless monitoring, QR wireless identification, wireless positioning system signals and other IoT applications. It is an ideal solution for IoT applications. 
+
+
+Features:
+
+	 
+
+- Ultra-small 802.11b/g/n Wi-Fi + BT/BLE SoC module
+
+- Low-power dual-core 32-bit CPU for application processors
+
+- Up to 240MHz, up to 600 DMIPS
+
+- Built-in 520 KB SRAM, external 4M PSRAM
+
+- Supports interfaces such as UART/SPI/I2C/PWM/ADC/DAC
+
+- Support OV2640 and OV7670 cameras with built-in flash
+
+- Support for images WiFI upload
+
+-Support TF card
+
+- Support multiple sleep modes
+
+- Embedded Lwip and FreeRTOS
+
+- Support STA/AP/STA+AP working mode
+
+- Support Smart Config/AirKiss One-click distribution network
+
+- Support for serial local upgrade and remote firmware upgrade (FOTA)
+	- Support secondary development
+
+	 
+
+Note:
+
+	 
+
+This product contains the OV2640 Camera Module. If you need to use the OV7670 camera, please purchase it separately.
+
+
+Product Specifications:
+
+
+
+
+					Module model
+
+					ESP32-CAM
+
+
+
+					Package
+
+					DIP-16
+
+
+
+					Size
+
+					27*40.5*4.5(±0.2)mm
+
+
+
+					SPI Flash
+
+					default 32Mbit
+
+
+
+					RAM
+
+					internal520KB+external 4M PSRAM
+
+
+
+					bluetooth
+
+					bluetooth4.2BR/EDR and BLE standards
+
+
+
+					Wi-Fi
+
+					802.11 b/g/n/e/i
+
+
+
+					Support interface
+
+					UART, SPI, I2C, PWM
+
+
+
+					Support TF card
+
+					Maximum support 4G
+
+
+
+					IO port
+
+					9
+
+
+
+					Serial port rate
+
+					default 115200 bps
+
+
+
+					Image output format
+
+					JPEG (only supported by OV2640), BMP, GRAYSCALE
+
+
+
+					Spectrum range
+
+					2412 ~ 2484MHz
+
+
+
+					Antenna form
+
+					onboard PCB antenna , gain 2dBi
+
+
+
+					Transmit power
+
+					802.11b: 17±2 dBm (@11Mbps)
+					802.11g: 14±2 dBm (@54Mbps)
+					802.11n: 13±2 dBm (@MCS7)
+
+
+
+					Receiving sensitivity
+
+					CCK, 1 Mbps : -90dBm
+					CCK, 11 Mbps: -85dBm
+					6 Mbps (1/2 BPSK): -88dBm
+					54 Mbps (3/4 64-QAM): -70dBm
+					MCS7 (65 Mbps, 72.2 Mbps): -67dBm
+
+
+
+					Power consumption
+
+					Turn off the flash: 180mA@5V
+					Turn on the flash and adjust the brightness to the maximum: 310mA@5V
+					Deep-sleep: The lowest power consumption can reach 6mA@5V
+					Moderm-sleep: up to 20mA@5V
+					Light-sleep: up to 6.7mA@5V
+
+
+
+					Security
+
+					WPA/WPA2/WPA2-Enterprise/WPS
+
+
+
+					Power supply range
+
+					5V
+
+
+
+					Operating temperature
+
+					-20 °C ~ 85 °C
+
+
+
+					Storage environment
+
+					-40 °C ~ 90 °C, < 90%RH
+
+
+
+
+ESP32-CAM Picture Output Format Rate:
+
+
+
+
+					 
+
+					QQVGA
+
+					QVGA
+
+					VGA
+
+					SVGA
+
+
+
+					JPEG
+
+					6
+
+					7
+
+					7
+
+					8
+
+
+
+					BMP
+
+					9
+
+					9
+
+					-
+
+					-
+
+
+
+					GRAYSCALE
+
+					9
+
+					8
+
+					-
+
+					-
+
+
+
+	Test environment: camera model: OV2640 XCLK: 20MHz, the module transmits pictures to the computer browser by WiFi.
+
+For more files, please click here: file
+
+
+[FT232RL Module]
+
+		 
+
+		FTDI USB Serial Adapter comes with the FT232RL chip and uses both 3.3V and 5V operating voltage. Adapter Logic-level can be set via jumpers on the board, which makes simple to connect to your controller. USB power has over current protection, using 500MA self-restore fuse. You can use the modules in this kit to burn the program directly without additional purchase.
+
+		 
+
+[Female to Female Dupont Jumper Wires]
+
+		 
+
+		The Jumper wires are made of high-grade copper wire material for safe and durable to use. This set contains 20cm 40pin male to male Jumper Wires, with which you can easier to complete the project.
+
+
+
+Package Included:
+
+		 
+
+1 x ESP32-CAM Module
+
+1 x Camera Module OV2640 2MP
+		1 x FT232RL Module
+1 x Female to Female Dupont Jumper Wires 
+
+
+
+
+
+
+
+
+
+
+
+

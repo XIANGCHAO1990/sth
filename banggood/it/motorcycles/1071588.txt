@@ -1,0 +1,206 @@
+https://it.banggood.com/24V-500W-Motorcycle-Brush-Speed-Controller-and-Scooter-Throttle-Twist-Grips-p-1071588.html?cur_warehouse=CZ&rmmds=CategoryAutomobilesPop
+24V 500W Regolatore di Velocità della Spazzola di Motorino & Impugnature di Torsione dell'acceleratore di Motorino
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24V 500W Regolatore di Velocità della Spazzola di Motorino & Impugnature di Torsione dell'acceleratore di Motorino
+
+Descrizione:
+Definizione dell'interfaccia dei fili del regolatore
+Batteria: nero spesso (potere negativo) / rosso spesso (potere positivo)
+Motore: giallo spesso (motore negativo) / blu spesso (motore positivo)
+Interruttore di accensione: rosso sottile (VCC) / blu sottile
+Indicatore: rosso sottile (indicatore di uscita potenza) / nero sottile (indicatore negativo)
+Freno: giallo sottile (segnale del freno) / nero sottile (energia negativa)
+Regolatore di velocità: blu sottile (ingresso segnale manubrio velocità) / nero sottile (potenza negtive) / rosso sottile (5V positivo)
+Porta di ricaricare: rosso sottile (potenza di ingresso carica positiva) / nero sottile (energia negativa)
+Luce di freno: rosso sottile (energia positiva) / nero sottile (energia negativa)
+
+Specifica:
+Controllore spazzolato:
+Dimensione: formato: (lunghezza x larghezza) 8 cm x 6.5cm/ 3.1 "x 2.6"
+Motore spazzolato controllore per bicicletta elettrica & motorino
+Tensione nominale: 24 V DC
+Limite di corrente: 28a
+Potenza nominale: 500 w
+Corrispondenza del motore: dc motore brushed
+Protezione di sotto tensione: 20v
+Manubrio:
+Dimensioni: (lunghezza x diametro) 10cm x 2cm / 3.9 "x 0.8
+Elettrico del motorino della bici acceleratore torsione della valvola a farfalla con display di potenza,  5LED indicatori della batteria.
+Tensione per funzionare l'acceleratore : DC5V
+Velocità del segnale di regolazione: 0.8V ~ 4.3V
+Tensione visualizzazione della potenza: 24V DC
+Visualizzazione della potenza:
+Normale: 23V sopra, 3 LED verde
+La metà: 23v ~ 20v, LED giallo
+Vuoto: 20v o meno, LED rosso
+Angolo di rotazione: 0° ~ 70°
+Temperatura di funzionamento: -20 ℃ ~ +50 ℃
+Accoppiamenti standard di 7/8 pollici (22.2mm) maniglia
+Lunghezza del cavo è di circa 59 pollici (1.5 m)
+Quantità: 2pezzi (1 acceleratore a manopola e 1 presa normale (corrispondente presa pollice))
+
+ Diagramma di cablaggio dell'acceleratore:
+Valvola a farfalla           Controllore                Descrizione
+Rosso                         collega a rosso         a tensione 4.3 a 5.0V
+Blu                              collega a nero o giallo           terra
+Verde                         collega a verde, blu o bianco segnale di regolazione della velocità  (da 0.8 a 4.3V)
+Giallo                           collega a giallo al  potere positivo  display di potenza
+
+Note:
+1.Si prega di consentire errore di 1-3cm a causa di measura manuale. Assicurasi che non Le dispiace prima di fare un'offerta .
+2.Il colore può essere diverso come la visualizzazione della differenza, si prega di comprendere
+
+La confezione include:
+1 x 24V motore brushed 500w controllore
+1 x Manopola acceleratore (con una presa normale)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

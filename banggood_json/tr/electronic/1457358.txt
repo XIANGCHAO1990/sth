@@ -1,0 +1,200 @@
+1457358
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/3F/A3/8056cc48-59a4-4593-a87a-67a16776fc08.JPG
+DHT22 Single-bus Dijital Sıcaklık ve Nem Sensör Modülü Elektronik Yapı Taşları AM2302 3.3V-5V DC
+https://tr.banggood.com/DHT22-Single-bus-Digital-Temperature-and-Humidity-Sensor-Module-Electronic-Building-Blocks-AM2302-3_3V-5V-DC-p-1457358.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikler:
+
+
+
+Çalışma voltajı: 3 V - 5.5 V
+
+Sinyal çıkış formu: dijital sinyal
+
+Sıcaklık ölçüm aralığı: - 40°c ila 80°c
+
+Ölçüm doğruluğu: 0,5°c
+
+Nem ölçüm aralığı: %0-100 RH
+
+Ölçüm doğruluğu: %2 RH
+
+Çözünürlük: 16
+
+Sabit vida delikleri, uygun kurulum ve sabitleme. 2,6 mm çap
+
+Boyut: 28,2 x 13,1x10 mm 
+
+
+
+Toplu iğne:
+
+
+
+"+" : pozitif
+
+"-" : anotun gücü
+
+"Out" : mikrodenetleyici IO bağlantı noktası
+
+
+
+Paket içeriği:
+
+
+
+1 x DHT22 Sıcaklık Nem Modülü
+
+1 x Kablo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,235 @@
+1519478
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/79/7D/c2ae1640-a09f-46d1-979f-e70e05cfbf08.jpg
+0,56 "DC 100V 50A Rot + Rot Dual LED Display Mini Digital Voltmeter Amperemeter Panel Amp Volt Spannung Stromzähler Tester
+https://de.banggood.com/0_56-inch-DC-100V-50A-Red+Red-Dual-LED-Display-Mini-Digital-Voltmeter-Ammeter-Panel-Amp-Volt-Voltage-Current-Meter-Tester-p-1519478.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+
+
+
+Betriebsspannung: DC 4 ~ 30V
+
+Spannung messen: DC 0 ~ 100V
+
+Mindestauflösung (V): 0,1 V.
+
+Messstrom: 50A (externer Shunt erforderlich)
+
+Mindestauflösung (A): 0,1A
+
+Betriebsstrom: <20mA
+
+Anzeige: drei 0,28 "LED Digitalröhre
+
+Anzeigefarbe: Rot und Rot
+
+Aktualisierungsrate: ca. 300 ms / mal
+
+Messgenauigkeit: 1% (± 1 Stelle)
+
+Betriebstemperatur: -10 bis 65 ° C.
+
+Betriebsfeuchtigkeit: 10 bis 80% (nicht kondensierend)
+
+Arbeitsdruck: 80 bis 106 kPa
+
+Anwendungen: Geeignet für die Batterieüberwachung von Kraftfahrzeugen / Elektroautos / Motorrädern oder zur Messung des Spannungsstroms anderer Produkte
+
+
+
+Verdrahtung:
+
+
+
+Schwarze Linie (dünn): Leer- oder Buck-Schaltung (Modul) negativ
+
+Rote Linie (dünn): Netzteil +
+
+Schwarze Linie (dick): COM, gemeinsame Messung
+
+Rote Linie (dick): PW +, Messklemmenspannungseingang positiv
+
+Gelbe Linie (dick): IN +, Stromeingang +
+
+
+
+Beachten:
+
+
+
+Die Spannung zwischen den dünnen roten und dünnen schwarzen Leitungen muss innerhalb von 4-30 V DC liegen
+
+Das Amperemeter kann nur an den Minuspol des Prüflings angeschlossen werden
+
+Übersteigt 5A bei Langzeit-Volllast, die kontinuierlich arbeitet, wird empfohlen, die Messseite der Kabel direkt an die Steckdose anzulöten
+
+Wenn die schwarze dünne Linie frei ist, ist es besser, Isolierband um den freiliegenden Teil des Drahtes zu verwenden, um Kurzschlüsse zu vermeiden
+
+Wenn es nur als Voltmeter verwendet wird, wird empfohlen, die gelbe und die schwarze Leitung miteinander zu verbinden, um ein digitales Blinken des Amperemeter zu verhindern
+
+Es ist ungeeignet, dieses Messgerät zum Testen von Strom unter 10A zu verwenden.
+
+
+
+Lieferinhalt
+
+
+
+1 x Digital Voltmeter Amperemeter Meter
+
+1 x aktueller Shunt
+
+1 x Kabel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

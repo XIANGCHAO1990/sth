@@ -1,0 +1,315 @@
+1526966
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/CF/11/357fe695-967f-4ebb-a19d-1f2a0d4b16a6.jpg
+MDP-XP 30V / 5A 90W 2.4G Conexão sem fio Sistema de energia programável digital com monitor de tela de 2,8 polegadas TFT Controle de correspondência automática 6 submódulos
+https://pt.banggood.com/MDP-XP-30V-or-5A-90W-2_4G-Wireless-Connection-Digital-Programmable-Power-System-with-2_8-inch-TFT-Screen-Monitor-Automatic-Matching-Control-6-Sub-modules-p-1526966.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+※Descrições:
+
+
+
+MDP (Mini Digital Power System) é um sistema de fonte de alimentação linear DC programável baseado em design modular, capaz de conectar diferentes módulos para uso conforme a necessidade.
+
+Módulos funcionais atuais: Módulo de controle de exibição,Módulo Digital de Potência
+
+Módulos em desenvolvimento: Módulo gerador de sinal digital,Módulo de Carga Eletrônica,Módulo carregador de energia,Módulo de bateria
+
+
+
+O MDP-XP consiste em um módulo de controle de display e um módulo de energia digital. Por meio da conexão sem fio 2.4G, ele atinge combinação livre de multicanais com potência de 90W por canal. MDP-XP é uma fonte de alimentação DC linear programável de alto custo-benefício, apresentando indicadores, estabilidade, confiabilidade e interface de usuário distinta comparável a fontes de alimentação profissionais; ele também fornece saída programável, saída de temporização, controle sequencial, compensação automática e outras funções poderosas, de modo a atender a diversas necessidades de teste.
+
+
+
+Módulo de controle de exibição: equipado com uma tela TFT de 2,8 polegadas, pode exibir a forma de onda de tensão-corrente em tempo real, dar suporte a estatísticas de dados e emparelhar e controlar automaticamente seis submódulos (módulos de energia digital), com botões giratórios duplos e Design amigável com rolagem de 90 graus.
+
+Módulo de alimentação digital: saída linear de alta eficiência, onda ondulada de 0,25 mV, resposta transiente de alta velocidade e suporte para ajuste fino preciso.
+>> Clique aqui para encontrar o  MDP-P905 Módulo Digital de Potência<<
+
+
+
+※Recursos:
+
+
+- Conexão sem fio de 2,4 G, com suporte a um controle de exibição, bem como seis poderes digitais
+
+- Entrada de tensão ampla DC entre 4,2 V e 30 V, reduzida para 2,7 V após a inicialização
+
+- Resposta transitória de alta velocidade e proteção contra sobrecarga de corrente, tão rápido quanto 4uS
+
+- Regulação de carga extremamente baixa e compensação inteligente de perda de linha
+
+- Alta eficiência e dissipação de calor natural com 90W de capacidade de carga
+
+- Suporta pressão positiva e negativa, pressurização em série, compartilhamento de corrente paralela, combinação livre de carga colaborativa e alocação inteligente de energia
+
+- Proteções de segurança: sobretensão de entrada, proteção contra subtensão, proteção de conexão anti-reversa, proteção anti-refluxo, proteção de sobretemperatura e proteção contra sobrecarga de corrente
+
+
+
+※Formulários: 
+
+
+Testes gerais e experiências de ensino em laboratório de P&D 
+
+Manutenção de celulares, laptops e outros produtos digitais 
+
+Teste de fonte de alimentação e registrador de dados de módulos ou circuitos de RF e microondas
+
+Fornece energia purificada para circuitos analógico-digitais de alta precisão e dispositivos de áudio Hi-Fi
+
+Verificação de propriedade e diagnóstico de falha de dispositivos e circuitos
+
+Controle de qualidade e inspeção de qualidade
+
+Fonte de alimentação de emergência para modelos de aviões e veículos
+
+※Especificações:
+
+
+
+
+
+Modo
+
+MDP-XP
+
+
+
+Entrada
+
+DC4.2V-30V (após a inicialização 2.7V), 100mA-6A, suporte QC3.0
+
+
+
+Saída
+
+30 V / 5 A, 90 W
+
+
+
+Taxa de ajuste
+
+Taxa de ajuste de carga <± 0,01 ^%
+
+
+
+Taxa de ajuste de energia <± 0,01 ^%
+
+
+
+Ondulação e ruído
+
+250uVrms / 3mVpp
+
+
+
+Tempo de resposta transiente
+
+≤4uS
+
+
+
+Compensação de perda de linha
+
+5mR-100mR
+
+
+
+Proteção
+
+Sobretensão de entrada,sob tensão, anti-reverso, saída anti-refluxo, acima da temperatura
+
+
+
+Gravação de dados
+
+Armazenamento máximo: 7 MB, tempo máximo de gravação: 24 horas.
+
+
+
+Outras
+
+Desligue automaticamente e entre no modo de micro-alimentação
+
+
+
+Suporta atualização de firmware USB
+
+
+
+Suporte a calibração do usuário
+
+
+
+
+O pacote inclui:
+
+1 x sistema de alimentação MDP-XP (1 x MDP-M01 Monitor digital inteligente + 1 x fonte de alimentação digital MDP-P905)
+
+1 x cabo (cabeça de áudio de 2,5 mm para micro USB)
+
+2 x linha de saída (cabeça de banana de 4 mm para crocodilo grampo)
+
+Detalhes Imagens:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

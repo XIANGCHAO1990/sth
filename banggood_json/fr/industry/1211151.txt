@@ -1,0 +1,192 @@
+1211151
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/69/39/9f6bc43a-4152-4ebf-bdc3-568231e69ff4.jpg
+Original JYETech Assemblé DSO-SHELL DSO150 Oscilloscope Numérique Module 9V
+https://fr.banggood.com/Original-JYETech-Assembled-DSO-SHELL-DSO150-Digital-Oscilloscope-Module-9V-p-1211151.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DSO Shell (DSO150) Oscilloscope:
+
+1. DSO Shell a un commutateur de bande similaire à DSO138, bien qu'il contienne des améliorations significatives dans la structure, la mécanique et l'opération.
+2. L'affichage et le MCU sont maintenant montés sur la même carte (carte mère) pour éviter d'utiliser des en-têtes inter-cartes. Les commentaires de DSO138 usres ont montré que la soudure sur les en-têtes portables est souvent problématique pour de nombreux débutants. Le canal analogique est placé sur une carte séparée qui contient la plupart des pièces d'installation de l'utilisateur. Cela permet une meilleure séparation entre les circuits analogiques et les circuits numériques. Sans la partie analogique, la carte mère est en fait une carte de contrôle à usage général qui peut être utilisée dans de nombreuses autres applications. La carte mère est entièrement installée (à l'exception de quelques composants de retenue) et testée en usine avant l'emballage.
+3. DSO Shell est livré avec un boîtier complet. Le panneau avant et les supports supérieur / inférieur sont flexibles pour une simple modification de l'utilisateur.
+4. Le codeur rotatif a été ajouté. Il rend le réglage des paramètres beaucoup plus rapide et plus facile.
+5. La sensibilité de DSO Shell a été étendue dans les deux sens et est plus élevée et plus large que DSO138. Il atteint 5mV / div --- 20V / div tandis que DSO138 est seulement 10mV / div --- 5V / div.
+6. DSO Shell fonctionne avec une alimentation 9V (ne pas utiliser une tension d'alimentation supérieure à 10V!). Les utilisateurs doivent préparer leur propre alimentation car ils ne sont pas inclus dans les kits. Le jack d'alimentation sur la carte mère accepte une prise DC Standare 5.5mm / 2.1mm. Un autre connecteur à 2 broches (hauteur de 0,1 ") est également fourni pour plus de commodité pour se connecter à différentes sources d'alimentation.
+
+Caractéristiques des indicateurs:
+
+Nombre de chaînes: 1
+Bande passante analogique: 0 - 200KHz
+Sensibilité: 5mV / Div - 20V / Div
+Erreur de sensibilité: <5%
+Résolution: 12 bits
+Impédance d'entrée: 1M ohm
+Tension d'entrée maximale: 50Vpk
+Accouplement: DC, AC, GND
+Taux maximal d'échantillonnage en temps réel: 1Mps
+Base de temps: 10us / Div - 500s / Div
+Durée de l'enregistrement: 1024
+Modes de déclenchement: Auto, Normal, Simple
+Types de déclenchement: front ascendant / descendant
+Position de déclenchement: 1/2 de la taille du tampon fixe
+Couleur 2.4 pouces TFT LCD avec résolution 320 x 240
+Alimentation: 9 V DC (assurez-vous que l'alimentation est de 9 V, inférieure ou supérieure à 9 V entraînera des problèmes.)
+Courant d'alimentation: 120mA @ 9V
+Dimension: 115mm x 75mm x 22mm
+Poids: 100 grammes (sans les câbles et l'alimentation électrique)
+
+Informations de mise à jour: composants et accessoires carte de circuit imprimé fait un certain nombre de changements (maintenant est la dernière version de 109-15001-00E)
+Firmwares: Cliquez pour ouvrir
+Mode d'emploi: Cliquez pour ouvrir
+Schéma de la carte mère: Cliquez pour ouvrir
+Schéma de la carte analogique: Cliquez pour ouvrir
+Comment utiliser la bibliothèque DSO150: Cliquez pour ouvrir
+Codes sources: Cliquez pour ouvrir
+FAQ, astuces et dépannage: Cliquez pour ouvrir
+
+Emballage inclut:
+
+1 x Assemblé DSO150 Oscilloscope numérique
+1 x Instruction anglais
+
+
+
+
+
+
+
+

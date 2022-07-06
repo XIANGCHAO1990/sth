@@ -1,0 +1,145 @@
+1921644
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/79/E4/1b81ef6c-a656-4819-bb16-633c6fd63ecf.jpg
+Carte de développement WT32-SC01 ESP32 avec écran multi-tactile capacitif 3,5 " 320X480 LCD Bluetooth intégré WIFI
+https://fr.banggood.com/WT32-SC01-ESP32-Development-Board-with-3_5-inch-320X480-Capacitive-Multi-Touch-LCD-Screen-Built-In-bluetooth-WIFI-p-1921644.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manuel : Cliquez ici pour ouvrir<<<La description:WT32-SC01 est une carte de développement pour écran tactile visuel. La carte est équipée d'un micrologiciel de plate-forme GUI auto-développé et prend en charge la programmation graphique par glisser-déposer pour aider les utilisateurs à compléter le développement d'une plate-forme de contrôle personnalisée.La carte de développement WT32-SC01 adopte le module ESP32-WROVER-B, qui est un module universel Wi-Fi+BT+BLE MCU, équipé de 4 Mo SPI Flash et 8 Mo PSRAM. La carte de développement WT32-SC01 peut également être via l'interface d'extension des deux côtés du bouton, de la voix, de la caméra et d'autres fonctions de développement et de débogage, raccourcissant considérablement le cycle de développement de l'utilisateur.Spécification:Affichage : écran LCD de 3,5 poucesRésolution : 320*480Écran tactile : CapacitéMulti-touch: Prise en charge de 2 touchesProcesseur : MCU double cœur XtensaRO 32 bits LX6Wi-Fi : protocole Wi-Fi 2,4 GHz 802.11b/g/nBluetooth : Conforme aux normes Bluetooth V4.2 BR/EDR et BLEAlimentation: DC5V /2ATempérature de fonctionnement : -20℃ ～85℃Emballage inclus:1 x carte de développement WT32-SC01 ESP32
+
+
+
+

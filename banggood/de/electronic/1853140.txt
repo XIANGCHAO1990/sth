@@ -1,0 +1,603 @@
+https://de.banggood.com/GTMEDIA-GTcombo-2-in-1-Amlogic-S905X3-Smart-TV-Box-DVB-S2X-T2-Satellite-TV-Receiver-2GB-RAM-16GB-ROM-Android-9_0-H_265-HD-4K-2_4G-5G-WIFI-bluetooth-Support-CA-Card-IPTV-Youtube-Netflix-for-Disney-p-1853140.html?cur_warehouse=CN&ID=47184&rmmds=CategoryElectronicsPop
+GTMEDIA GTcombo 2 in 1 Amlogic S905X3 Smart TV Box DVB-S2X T2 Satelliten-TV-Empfänger 2 GB RAM 16GB Rom Android 9.0 H.265 HD 4K 2.4G 5G WIFI Bluetooth Unterstützung CA-Karte IPTV Youtube Netflix für Disney
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Liste der CA-Kartenunterstützung: [Verknüpfung]
+
+
+
+Spanien
+Seca CAID 0100 für 19.2E Spanien Movistar
+
+
+Italien
+Nagra CAID 183E für 13E Italien Tivusat (das Gold) und grau)
+
+
+Nagra CAID 183D für 13E Italien Tivusat(alte Karte)
+
+
+Nagra CAID 1805 für 13E Italien Mediaset Premium
+
+
+Nagra CAID 1805 für Italy DVB-T Mediaset Premium
+
+
+Schweiz
+Viacess CAID 0500 für 13E Schweiz SRG/SSR
+
+
+Russlund
+Conax CAID 0B00 für 85.2E Russlund Telekarta
+
+
+Polen
+Conax CAID 0B01 für 13E Polen TNK
+
+
+Seca CAID 0100 für 13E Polen CYFRA+
+
+
+Kroatien
+Viacess CAID 0500 für 16E Kroatien OIV
+
+
+Österreich
+CryptoWorks CAID 0D98 für 19.2E Österreich ORF ICE
+
+
+Niederlunde
+Seca CAID 0100 für 19.2E/23.5E Niederlunde Canal Digitaal
+
+
+Slowakei
+CryptoWorks CAID 0D96 für 23.5E Slowakei SkyLink ICE
+
+
+Malaysia
+NDS CAID 09AC für 91.5E Malaysia Astro
+
+
+Truthahn
+Conax CAID 0B00 für Kabel Türkei TV
+
+
+Bulgarien
+Conax CAID 0B00 für Kabel Bulgarien Blizoo BG
+
+
+Unbekannt
+Viacess CAID 0500 für 5W Fransat
+
+
+Irdeto CAID 0602 für (unbekannt) Telekarta TV
+
+Spezifikation:
+
+
+
+
+
+
+
+Markieren
+1. Android 9.0 TV BOX + DVB-S / S2/S2X, DVB + T / T2 / Kabel / ATSC-C (J.83B) / ISDBT, AVS +HEVC-Hauptprofil 10 (10 Bit), AUTO BISS, T2MI, GTFeeds, YUV422, Gtshare
+
+
+2.Amlogic S905X3 2GBRAM + 16GBRom
+
+
+3.Unterstützt 4K Ultra-High-Definition-Display und -Decoder, Dual-Core-MIPS75Kf-Prozessoren
+
+
+4. Support Unicable, DiSEqC1.0 / 1.1 / 1.2 / USALS Motor wird vollständig unterstützt
+
+
+5.Unterstützen Sie Full PowerVu, DRE & Biss Key. AUTO BISS
+
+
+6. Eingebautes W-lan 2.4G / 5G + BT4.1, 802.1.1b / g / n / ac
+
+
+7.System ist GT UI, GTStore Addons vorinstallierte Netflix, Youtube, Prime-Video, für Disney Plus, Online-Filme usw. Unterstützung SAT2 IP, GTshare APP
+
+
+8. Unterstützen Sie IPTV auf dem GTPlayer
+
+
+9.Unterstützen Sie die Dekodierung von CCCAM-, NEWCAM-, MGCAM- und CA-Karten
+
+
+10.Technische Support-Website: www.freesat.cn
+
+
+Hardware
+Zentralprozessor
+Amlogic S905X3, 64-Bit-Quad-Core-ARM® Cortex ™ A53-Zentralprozessor mit bis zu 2,0 GHz (DVFS)
+
+
+Grafikkarte
+Daul-Core Mali-G31 MP2, bis zu 850 M (DVFS)
+
+
+RAM
+2G-DDRIII
+
+
+Rom
+16G EMMC
+
+
+3D-Grafik
+Unterstützung von OpenGL ES 1.1/2.0 und Open VG 1.1
+
+
+Video-Decodierung 
+4KP75 10B, H.265, VP9 Profil 2, AVS2 4Kp30 H.264, MPEG-4, DIVD / DIVX, Real8 / 9/10, RM, RMVB, PMP, FLV, MP4, M4V, VOB, WMV, 3GP, MKV 8KH265_Main10 @ L6.2 @ Main_7680x4320_24fps_30.9Mbps_10bit8KVP9_7680x4320_23.976fps_22.2Mbps_8bit
+
+
+Audiodecodierung
+Stereo-DACs, 2x I2S-Eingang, 8x I2S-Ausgang, 8x DAIC, MPEG1-Schicht I, MPEG1-Schicht II, MPEG1-Schicht III, MPEG2-AAC, MPEG4-HE-AAC, Dolby +
+
+
+Panel-Anzeige
+4-stelliges weißes LED-Display. Mit mehreren Funktionsanzeigen
+
+
+LED-Anzeige
+Einschalten: Grün. Stundby: Rot 
+
+
+Taste
+NICHT
+
+
+W-lan
+Eingebaute 2,4G / 5,8G WiFi-Unterstützung IEEE 802.1.1b / g / n / ac
+
+
+Bluetooth
+Bluetooth 4.0
+
+
+IR
+Beenden Sie IR für 38 kHz, Infrarot-Fernbedienung
+
+
+Rückwund
+ANT IN (EC-Typ IEC169-2 weiblich)
+
+
+LNB IN (Frequenzbereich 950 MHz bis 2150 MHz)
+
+
+HD OUT (HDMI2.1, 8Kx4K bei maximaler Auflösung von 24)
+
+
+1 x USB2.0 + 1 x USB3.0 HOST
+
+
+1 x TF-KARTE
+
+
+1 SPDIF
+
+
+1 x RJ45
+
+
+1 x CA-Karte
+
+
+Stromversorgung (DC 12 V/1,5 A)
+
+
+DVB-S / S2-Spezifikationen
+Systemstundard
+ETS 302 307
+
+
+Frequenzbereich
+950~2150MHz für DVB-S/S2/S2X Basisbunddemodulator
+
+
+LNB-Leistung und Polarisation
+DiSEqC1.0 / 1.1 / 1.2 / USALS Motor wird vollständig unterstützt. Unterstützung Unicable, 13 / 18V DC bei 400mA MAX, 22KHz ± 0,4KHz (0,6V ± 0,2V) Ton, Überlastschutz
+
+
+Eingangspegelbereich
+ -80dBm ~ -20dBm (durchschnittliche Leistung)
+
+
+Symbolpreise
+DVB-S QPSK, DVB-S2 QPSK / 8PSK / 16APSK / 32APSK, DVB-S2X QPSK / 8PSK / 16APSK / 32APSK / 64APSK
+
+
+Vorwärtsfehlerkorrekturrate 
+1/4, 1/3, 2/5, 3/5, 2/3, 3/4, 4/5, 5/6, 8/9, 9/10
+
+
+Erfassungsbereich der Trägerfrequenz
+±5 MHz für Symbolraten über 3 Msps und ±3 MHz für die restlichen Symbolraten
+
+
+Symbolpreise
+Symbolratenbereich: QPSK / 8PSK / 16APSK 56M, 32APSK 49,6M, 64APSK 41,3M
+
+
+Roll-off-Faktoren
+Roll-Off-Faktoren für Pulsformung: 0,2, 0.25 und 0,35
+
+
+Coderaten
+1/2, 2/3, 3/4, 5/6, 7/8 für DVB-S, 1/4, 1/3, 2/5, 1/2, 3/5, 2/3, 3 / 4, 5/6, 8/9, 9/10 für die FEC-Code-Raten DVB-S2, DVB-S2X Normal Frame und Short Frame
+
+
+Merkmale 
+Unterstützung von CCM / VCM / ACMUnterstützung von PLHEADER Scrambling (AMC)Integration von LDPC- und BCH-Decodern
+
+
+AMEISE. Verbinder
+Stecker: IEC TYP F Eingangsimpedanz: 75 Ω
+
+
+DVB-T / T2-Spezifikationen
+Systemstundard
+ETSIEN 302 755
+
+
+Frequenzbereich
+VHF: 174 ~ 230 MHz, UHF: 470 ~ 862 MHz für DVB-T / T2
+
+
+Demodulation
+COFDM, 16QAM, 64QAM, 256QAM
+
+
+Bundbreitenmodell
+6 MHz, 7 MHz und 8 MHz
+
+
+Lund
+Italien, Polen, Russlund, Spanien, Schweden, Großbritannien, Deutschlund, Griechenlund, Slowenien, Argentinien, Australien, Dänemark, Finnlund, Frankreich, Englund, Brasilien, Chile, Peru, Kolumbien, Indien, Georgien0, Indonesien
+
+
+FEC-Coderate
+1/2, 3/5, 2/3, 3/4, 4/5, 5/6
+
+
+FFT
+2K und 8K
+
+
+Guard-Intervall
+1/4, 19/256, 1/8, 19/128, 1/16, 1/32, 1/128
+
+
+Eingangssignalpegel:
+Min -80dbm max -20dbm (64QAM, 8K 1/8, 7/8)
+
+
+Antennenleistung
+5 V DC bei 150 mA MAX
+
+
+AMEISE. Verbinder
+IEC 169-2, weiblich. Eingangsimpedanz: 75 Ω
+
+
+ISDB-T-Spezifikationen
+Systemstundard
+ISDB-T Broadcast (1, 3, 13 Segment), MPEG-2/MPEG-4 AVC/H.264 HD/SD Video, DiVX 
+
+
+Frequenzbereich
+VHF: 177,143 ~ 213,143 MHz: UHF 473,143 ~ 803,143 MHz
+
+
+Lund
+Brasilien und Japan
+
+
+FFT
+2K/ 8K/32K
+
+
+Demodulation
+QPSK / 16QAM / 64QAM / QPSK oder DQPSK
+
+
+FEC-Coderate
+1/2, 2/3, 3/4, 5/6, 7/8 Automatisch
+
+
+Guard-Intervall 
+1/4, 1/8, 1/16, 1/32
+
+
+DVB-Kabelspezifikationen
+Frequenzbereich
+50-858 MHz für DVB-Kabel (J.83A / B / C)
+
+
+Demodulation
+16QAM, 32QAM, 64QAM, 128QAM, 256QAM
+
+
+FEC-Coderate
+1/2, 2/3, 3/4, 5/6, 6/7 oder 7/8
+
+
+Eingangssignalpegel
+Min -80dbm max -20dbm 
+
+
+Lund (ATSC-C)
+USATSC-Kabel STD / USATSC-Kabel IRC / USATSC-Kabel HRC für ATSC-C
+
+
+Sortware-Funktionen
+Stundard
+Vollständige Einhaltung von DVB-S / S2 / S2X (SCPC- und MCPC-Empfang vom C / Ku-Bundsatelliten), DVB-T / T2 / Kabel (J83.A / B / C) / ISDBT, MPEG-2/4 H.265 Stundard
+
+
+Kanalsuche
+Unterstützt die automatische Netzwerksuche nach neu hinzugefügten Transpondern und die NIT-Suche nach DVB-T / Kabel
+
+
+Kanalnummer
+10000 Kanäle TV und Radio programmierbar
+
+
+Kanal
+Aufnahme eines Kanals, kann einen underen Kanal unter demselben TP anzeigen, verschiedene Kanalbearbeitungsfunktionen (Favoriten, verschieben, sperren, überspringen, löschen, umbenennen, suchen, sortieren)
+
+
+Favoriten
+8 verschiedene Lieblingsgruppenauswahl
+
+
+OSD-Sprache
+OSD Mehrsprachig für Optionen (Arabisch, Katalanisch, Tschechisch, Dansk, Deutsch, Eapanol, Englisch, Euskar, Persisch, Französisch, Finnisch, Galego, Griechisch, Hrvatska, Italienisch, Magyar, Niederlunde, Polska, Spanisch, Slowakisch, Svenska, Portugiesisch , Russisch, Ukrainisch, Türkisch, Thailändisch usw.)
+
+
+EPG
+Volle Unterstützung für 7 Tage Electronic Program Guide (EPG)
+
+
+OSD-Farbe
+256-Farben- / 32-Bit-OSD mit Flimmerschutz
+
+
+Kindersicherung
+Kindersicherung für Kanäle
+
+
+Einfaches Menü
+Plug-und-Play-Installation mit einfach zu bedienendem Menüsystem
+
+
+PAL/NTSC
+Automatische PAL/NTSC-Konvertierung
+
+
+Untertitel
+unterstützt DVB EN300743 und EBU
+
+
+Teletext
+unterstützt DVB ETS300472 von VBI und OSD
+
+
+Zeiteinstellung
+Zeiteinstellung durch GMT automatisch und manuell, Sommerzeitunterstützung
+
+
+Timer
+5 Ereignis-Timer, Modus Aus/Einmal/Täglich/Wöchentlich
+
+
+USB 3.0/2.0
+Unterstützt FAT/FAT32/NTFS-Festplatten mit großer Kapazität
+
+
+PVR-Option
+USB für PVR, TIMESHIFT, Wiedergabe von Mediendateien
+
+
+Medien-Codec
+TS/MPG/MKV/AVI/ASF/FLV/MP4/WMA/WMV/VOB/MOV/DAT/SRT/SUB/BMP/JPG/JPEG/GIF/PNG/M4A-Dateien
+
+
+Audio-Codec
+WMA, MP3, AAC (wma, mp3, m4a)
+
+
+Foto-Codec
+JPEG, BMP, PNG, GIF werden unterstützt
+
+
+SoftUpgrade
+Software-Upgrades über USB-Anschluss, Support-OTA- und HTTP / FTP-Upgrade
+
+
+Verpackung
+Produktabmessung
+12.4 x 11.9 x 3.6cm
+
+
+Verpackte Größe
+18.8 x 15.2 x 8.5cm
+
+
+Kartongröße 
+43,5 x 38,5 x 31,5 cm (20 Stück / ctn)
+
+
+Gewichtseinheit
+0,66 kg mit Verpackung
+
+
+Karton Menge und Gewicht
+20 Stück / Karton, 14,1 kg
+
+
+Zubehör
+ Geschenkbox, Adapter, Fernbedienung IR, HDMI-Kabel, Benutzerhundbuch
+
+
+Physik
+Netzteil
+AC IN100-250V, DC 12V / 1500mAh
+
+
+Energieverbrauch
+12W in Betrieb≦1 W Stundby-Power-Modus
+
+
+Temperatur
+Betrieb 0～+45℃, Lagerung -10 ~ + 60℃
+
+
+Feuchtigkeit
+20~90 %, nicht kondensiert
+
+Merkmal:1. Android 9.0 TV BOX + DVB-S / S2/S2X, DVB + T / T2 / Kabel / ATSC-C (J.83B) / ISDBT, AVS +HEVC-Hauptprofil 10 (10 Bit), AUTO BISS, T2MI, GTFeeds, YUV422, Gtshare2. Amlogic S905X3 2 GB RAM + 16 GB Rom3. Unterstützt 4K-Ultra-High-Definition-Display und -Decoder, Dual-Core-MIPS75Kf-Prozessoren4. Support Unicable, DiSEqC1.0 / 1.1 / 1.2 / USALS Motor wird vollständig unterstützt5. Unterstützt Full PowerVu, DRE & Biss Key. AUTO BISS6. Eingebautes W-lan 2.4G / 5G + BT4.1, 802.1.1b / g / n / ac7. Das System ist GT UI, GTStore Addons vorinstalliert Netflix, Youtube, für Prime-Video, für Disney Plus, Online-Filme usw. Unterstützt SAT2 IP, GTshare APP8. Unterstützt IPTV auf dem GTPlayer9. Unterstützen Sie NEWCAM, z CCCAM, MGCAM- und CA-Kartendecodierung10. Starke Zentralprozessor und Grafikkarte sorgen für eine ultraschnelle Laufgeschwindigkeit: Quad-Core, Cortex-A53, 4-Core-Mail-G3111. Benutzerdefinierter Hintergrund: Fügen Sie einen Hintergrund hinzu, den Sie als Bildschirmschoner mögen. Gefällt dir der APP-Hintergrund nicht? Sie können auch nach Belieben wechseln12. 1 Maschine mit MEHREREN Funktionen: Erfüllen Sie unterschiedliche Anforderungen, Benutzer können Online-Filme ansehen, nach Kanälen suchen, die ihren eigenen Vorlieben oder lokal unterstützten Signalbedingungen entsprechen13. Google Sprachsuche: Halten Sie die Taste auf der Fernbedienung gedrückt, um direkt nach Programmen zu suchen14. Website des technischen Supports: www.freesat.cnProduktabmessung: 124 x 119 x 36 mmStückgewicht: 0,66 kg mit VerpackungStromversorgung: AC IN100-250V, DC 12V / 2000mAhTemperatur: Betrieb 0 ～ + 45 ℃, Lagerung -10 ~ + 60 ℃Luftfeuchtigkeit: 20 ~ 90%, nicht kondensiertLieferinhalt:1 x GTMEDIA GTcombo Smart TV Box (Andere Produkte sind nicht enthalten)1 x HDMI-Kabel1x IR Fernbedienung1 x Benutzerhundbuch1 x Adapter
+
+
+
+

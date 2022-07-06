@@ -1,0 +1,145 @@
+1883633
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/45/86/20edb469-ab68-4084-be17-ae2188565da7.jpg
+ESP-32S CH9102X QFN28 ESP32 Scheda di sviluppo Wireless WiFi + Bluetooth CPU dual-core 2 in 1 a basso consumo energetico Scheda di controllo ESP-32
+https://it.banggood.com/ESP-32S-CH9102X-QFN28-ESP32-Development-Board-Wireless-WiFi-+-Bluetooth-2-in-1-Dual-core-CPU-Low-Power-Consumption-ESP-32-Control-Board-p-1883633.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristica:ESP32 integra interruttori d'antenna, balun RF, amplificatori di potenza, amplificatori a basso rumore, filtri e moduli di gestione dell'alimentazione e l'intera soluzione occupa la più piccola area del circuito stampato. Wi-Fi a 2,4 GHz e chip dual-mode BluetoothUtilizzando la tecnologia TSMC a 40 nm a bassa potenza, le prestazioni di potenza e le prestazioni RF sono le migliori, sicure e affidabili e facili da estendere a varie applicazioni.Utilizzare il download del documento: https://github.com/Nicholas3388/LuaNode Specifica:ConvenientePiccolo volume. Facile da incorporare in qualsiasi prodottoPotente, supporta il protocollo LWIP, freertosSupporta tre modalità: modalità di coesistenza AP, STA, AP + STALa programmazione Lua semplifica il tuo sviluppoLa confezione include:1 x ESP32 Scheda di sviluppo
+
+
+
+

@@ -1,0 +1,352 @@
+https://fr.banggood.com/HK1-Box-Amlogic-S905X3-4GB-RAM-64GB-ROM-5G-WIFI-bluetooth-4_0-1000M-LAN-Android-9_0-4K-8K-H_265-TV-Box-Support-Google-Assistant-p-1608873.html?cur_warehouse=CN&ID=533601&rmmds=CategoryElectronicsPop
+HK1 Box Amlogic S905X3 4GB RAM 64GB ROM 5G WIFI Bluetooth 4.0 1000M LAN Android 9.0 4K 8K H.265 TV Box prend en charge Google Assistant
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:
+
+
+
+
+
+
+
+
+
+
+CPU
+
+Processeur Amlogic S905X3 quadricœur ARM® Cortex™ A55 64 bits
+
+
+
+GPU
+
+Processeur GPU G31™ MP2
+
+
+
+Mémoire
+
+DDR3 4 Go
+
+
+
+Éclat
+
+MEM 64GB
+
+
+
+Wifi
+
+IEEE 802.11 ac/b/g/n/AC ; 2.4G / 5G            
+
+
+
+Bluetooth
+
+ BT, prise en charge de la télécommande vocale
+
+
+
+Moule
+
+Plastique
+
+
+
+E/S
+
+1 x HD HD 2.1, prise en charge HD CEC, dynamique HDR et sortie de résolution maximale 8Kx4K@24
+
+
+
+1 x sortie définition standard AV OUT 480i/576i
+
+
+
+1 port USB 3.0 ; 1 port USB 2.0
+
+
+
+1 x IR Récepteur Récepteur à distance Connect
+
+
+
+1 interface Ethernet RJ45 ; prise en charge 10/1000 M.
+
+
+
+1 prise en charge de la carte TF 4 Go/8 Go/16GB/32GB/64GB/128 Go.
+
+
+
+Pouvoir
+
+CC 5V/2A
+
+
+
+Logiciel
+
+
+
+SE
+
+Android 9.0
+
+
+
+Vidéo
+
+Amlogic Vidéo Engine (AVE) avec décodeurs et encodeurs matériels dédiés
+				Prend en charge le décodeur multi-vidéo jusqu'à 4x1080P @ 60fps
+				Prend en charge plusieurs sessions de décodage vidéo "sécurisées" et le décodage et l'encodage simultanés
+				Décodage vidéo/image
+				VP9 Profile-2 jusqu'à 8Kx4K@24 fps
+				H.265 HEVC MP-10@L5.1 jusqu'à 8Kx4K@24 ips
+				Profil AVS2-P2 jusqu'à 8Kx4K@24 fps
+				H.264 AVC HP@L5.1 jusqu'à 4Kx2K@30fps
+				MPEG-4 ASP@L5 jusqu'à 1080P@60fps (ISO-14496)
+				WMV/VC-1 SP/MP/AP jusqu'à 1080P@60fps
+				Profil AVS-P16(AVS+) /AVS-P2 JiZhun jusqu'à 1080P@60fps
+				MPEG-2 MP/HL jusqu'à 1080P@60fps (ISO-13818)
+				MPEG-1 MP/HL jusqu'à 1080P@60fps (ISO-11172)
+				RealVidéo 8/9/10 jusqu'à 1080P@60fps
+				Prise en charge de vidéos de sous-titres en plusieurs langues et en plusieurs formats
+				Décodage de résolution de pixels illimité MJPEG et JPEG (ISO/IEC-10918)
+				Prend en charge les vignettes JPEG, la mise à l'échelle, la rotation et les effets de transition
+				Prend en charge les formats de fichiers *.mkv, *.wmv, *.mpg, *.mpeg, *.dat, *.avi, *.mov, *.iso, *.mp4, *.rm et *.jpg
+
+
+
+l'audio
+
+Prend en charge MP3, AAC, WMA, RM, FLAC, Ogg et programmable avec sous-mixage 7.1/5.1
+				VAD basse consommation
+				Entrée/sortie audio numérique série intégrée SPDIF/IEC958 et entrée/sortie PCM
+				3 ports TDM/PCM/I2S intégrés avec mode TDM/PCM jusqu'à 384kHz x 32bits x 16ch ou 96kHz x 32bits x 32ch et mode I2S jusqu'à 384kHz x 32bits x 16ch
+				Entrée PDM pour microphone numérique avec CIC, LPF et HPF programmables, prend en charge jusqu'à 8 DMIC
+				DAC audio stéréo intégré
+				Prend en charge la sortie simultanée de deux canaux stéréo audio avec une combinaison analogique + PCM ou I2S + PCM
+
+
+
+Image
+
+HD JPEG, BMP, GIF, PNG, TIF
+
+
+
+Langue
+
+Anglais Français Allemand Espagnol Italien etc langues multilatérales
+
+
+
+Applications
+
+
+
+En ligne
+
+Parcourez tous les sites Web vidéo, prenez en charge Netflix, Hulu, Flixster, Youtube, etc. 
+
+
+
+applications
+
+Les applications se téléchargent librement depuis le marché Android, la boutique d'applications Amazon, etc.
+
+
+
+Moyen
+
+Lecture de médias locaux, prise en charge du disque dur, U Disck, carte TF
+
+
+
+Parlez en ligne
+
+Prend en charge les appels vidéo SKYPE, MSN, Facebook, Twitter, QQ, etc.
+
+
+
+Autres
+
+Assistance par e-mail, costume de bureau, etc.
+				Prise en charge de la fonction DLNA
+				Prise en charge de la souris/clavier sans fil 2.4G
+
+
+
+
+Emballage inclus:
+
+1 boîtier TV HK1 S905X3 4G/64G
+1 câble HD
+1 x télécommande (télécommande IR, pas de fonction de commande vocale)
+1 adaptateur secteur
+1 manuel d'utilisationCaractéristiques:
+
+
+CPU: Processeur Amlogic S905X3 quadricœur ARM® Cortex™ A55 64 bits
+
+GPU : Processeur GPU G31™ MP2
+
+RAM: DDR3 4 Go
+
+ROM : eMMC 64GB
+	Système d'exploitation : Android 9.0
+	Ethernet : 1 000 m de réseau local
+
+Wifi: IEEE 802.11 ac/b/g/n/AC ; 2.4G / 5G            
+
+Bluetooth : BT
+	Prend en charge Google Assistant, vous devez acheter un contrôleur vocal pour cette fonction
+
+
+
+
+
+
+
+
+
+
+
+

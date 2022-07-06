@@ -1,0 +1,192 @@
+1004868
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/C7/67/8336968d-e357-4904-857b-eb69c77b312c.jpg
+3Pcs UNO R3 ATmega16U2 AVR Scheda principale di sviluppo USB
+https://it.banggood.com/3Pcs-UNO-R3-ATmega16U2-AVR-USB-Development-Main-Board-p-1004868.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+
+
+La scheda UNO R3 è compatibile al 100% con l'originale, ora ha qualità e prestazioni perfette.
+
+è una piattaforma di elaborazione fisica open source basata su una semplice scheda i / o e un ambiente di sviluppo che implementa il linguaggio Process / Wiring. può essere utilizzato per sviluppare oggetti interattivi autonomi o può essere collegato a software sul computer (ad esempio Flash, Processing, MaxMSP). L'IDE open source può essere scaricato gratuitamente (attualmente per Mac OS X, Windows e Linux).
+		Questo è il nuovo Tosduino Uno R3. Oltre a tutte le funzionalità della precedente scheda, l'Uno R3 utilizza ora un ATmega16U2 anziché il chip ATmega8U2. Ciò consente una velocità di trasferimento più veloce, non è necessario alcun driver per Linux o Mac (è necessario un file inf per Windows) e la possibilità di visualizzare Uno come tastiera, mouse, joystick ecc.
+
+Nota: 
+
+		TOSduino Uno R3 richiede la cartella dei driver 1.0 per poter essere installato correttamente su alcuni computer. Abbiamo testato e confermato che il R3 può essere programmato nelle versioni precedenti dell'IDE. Tuttavia, la prima volta che si utilizza R3 su un nuovo computer, è necessario che 1.0 sia installato su quella macchina.
+Il piccolo chip è ATmega16U2, il chip a 28 pin DIP è ATmega328-pu.
+
+Descrizione delle prestazioni:
+
+		Terminale di ingresso / uscita digitale I / O digitali: da 0 a 13.
+		Analogico I / O Ingressi / uscite analogiche: da 0 a 5.
+		Supporto funzione di download ISP.
+		Tensione di ingresso: Nessun alimentatore esterno quando è collegato al computer USB, alimentazione esterna 5V ~ 9V DC input di tensione.
+		Tensione di uscita: 5V / 3.3V DC.
+		Utilizzo del controller a microprocessore Atmega328.
+
+Il pacchetto include:
+
+		3 x UNO R3
+		3 cavi USB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

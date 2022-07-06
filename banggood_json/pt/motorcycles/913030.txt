@@ -1,0 +1,228 @@
+913030
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/94/9D/6fdd1b89-4e8f-4443-b01e-f2e2b1484f44.JPG
+iMars ELM327 Automóvel OBD2 CAN BUS Ferramenta Scanner com Função Bluetooth
+https://pt.banggood.com/IMars-ELM327-bluetooth-Car-OBD2-Scanner-Diagnostic-Tool-Engine-Code-Reader-p-913030.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+iMars ELM327 Automóvel OBD2 CAN BUS Ferramenta Scanner com Função Bluetooth
+
+Aviso prévio: Se a ECU do seu carro se conectar ao protocolo J1850, seu carro não pode usar este item.
+
+
+
+
+
+
+Característica:
+
+		1. Funciona com todos os veículos compatíveis com OBD-II.
+2. Wireless (Bluetooth) 5 ~ 10 metros.
+3. Software incluído para Palm, PDA, Mobile, Windows PC, Smartphone.Support Android systerm.
+4. Leia os códigos de problemas de diagnóstico, tanto genéricos quanto específicos do fabricante, e mostre seu significado (mais de 3000 definições de código genérico no banco de dados).
+5. Limpe os códigos de problemas e desligue o MIL (luz "Verificar Motor").
+6. Exibe dados do sensor atual, incluindo RPM do motor, valor de carga calculado, temperatura do líquido refrigerante, estado do sistema de combustível, velocidade do veículo, trim de combustível de curto prazo. Combustível a longo prazo. guarnição, pressão do colector de admissão, avanço de temporização, ar de admissão, temperatura, caudal de ar, posição absoluta do acelerador, tensões do sensor de oxigênio / condições de combustível associadas, estado do sistema de combustível, pressão do combustível.
+7. Suporta protocolos OBD-II: ISO15765-4 (CAN), ISO14230-4 (KWP2000), ISO9141-2
+
+Especificação:
+Exibe dados atuais do sensor, incluindo:
+Valor de carga calculado
+Temperatura do refrigerante
+Status do sistema de combustível
+Velocidade do veiculo
+Calibração de combustível a curto prazo
+Recorte de combustível a longo prazo
+Pressão do colector de admissão
+Avanço de tempo
+Temperatura do ar de admissão
+Taxa de fluxo de ar
+Posição absoluta do acelerador
+Tensões do sensor de oxigênio / acabamentos de combustível associados a curto prazo
+Status do sistema de combustível
+Pressão de combustível
+
+Suporta multi- protocolo como segue: 
+ISO 9141-2 (5 baud init, 10.4 kbaud) 
+ISO 14230-4 KWP (5 baud init, 10.4 kbaud) 
+ISO 14230-4 KWP (fast init, 10.4 kbaud) 
+ISO 15765-4 CAN (11 bit ID, 500 kbaud) 
+ISO 15765-4 CAN (29 bit ID, 500 kbaud) 
+ISO 15765-4 CAN (11 bit ID, 250 kbaud) 
+ISO 15765-4 CAN (29 bit ID, 250 kbaud) 
+SAE J1850 PWM (41.6 kbaud) 
+SAE J1850 VPW (10.4 kbaud) 
+
+Suporta os seguintes softwares:
+Torque (pode ser baixado do Android Market)
+Scantool_net113win (Versão completa)
+EasyOBDII V2.2 (Versão completa)
+OBD2Spy (Versão Demo)
+ScanMaster-ELM (Versão Demo)
+WOBDCRAZY (Versão Demo)
+
+Veículos compatíveis : 
+Todos os veículos a partir de 1996 nos EUA
+
+Atenção: 
+Não pode trabalhar com iPhone ou iPad.
+
+Incluído no pacote:
+1 X Scanner diagnóstico de automável OBD-II Bluetooth avançado
+1 X CD Driver (baixe aqui)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

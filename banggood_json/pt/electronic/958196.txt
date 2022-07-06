@@ -1,0 +1,180 @@
+958196
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/B5/BC/dd0ea98f-02d3-4bfb-aeda-d8e12920032f.jpg
+Geekcreit® 0,96 Polegadas 4 Pino Branco IIC I2C Módulo de Exibição OLED 12864 LED para Arduino
+https://pt.banggood.com/Geekcreit-0_96-Inch-4Pin-White-IIC-I2C-OLED-Display-Module-12864-LED-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-958196.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Característica:
+
+Driver OLED IC: SSD1306
+Resolução: 128 x 64
+Ângulo visual:>160°
+Tensão de entrada: 3,3V~6V
+Nível de I/O compatível: 3,3V, 5V
+Mini tamanho: 2,7 x 2,8 cm
+Apenas precisa 2 portas I/O para controlar
+Compatível com Arduino, 51
+
+Atenção:
+
+Se você decidir comprar OLED display, você deve confirmar que você pode fazê-lo funcionar sozinho, nós não teremos qualquer suporte de tecnologia. Obrigado pela sua compreensão e apoio.
+
+Incluído no pacote:
+
+1 x 0,96 polegadas branco IIC I2C módulo de exibição OLED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

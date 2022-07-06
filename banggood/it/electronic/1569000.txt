@@ -1,0 +1,505 @@
+https://it.banggood.com/ESCAM-PVR008-H_265-Auto-Tracking-PTZ-Pan-or-Tile-Camera-2MP-HD-1080P-Wireless-Night-Vision-IP-Camera-p-1569000.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+ESCAM PVR008 H.265 Auto Tracking PTZ Pan / Tile fotografica 2MP HD 1080P Visione notturna wireless IP fotografica
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Click here to purchase the tuya version<<<Caratteristiche :
+
+
+
+Risoluzione 1.1080P e chip Hisilicon, qualità dell'immagine ad alta definizione
+
+Compressionee 2.H.265, ha risparmiato molto sui costi di trasmissione e archiviazione
+
+3.Supporto visione notturna, distanza IR fino a 10 m 
+
+4.Audio bidirezionale di alta qualità, con cancellazione del rumore
+
+5.Supporto connessione WiFi e connessione AP
+
+6.Supporto rilevamento movimenti, rilevamento umanoide e rilevamento del suono
+
+7.Supporto max fino a 128 GB di scheda SD Mirco
+
+8.Supporto Pan e Tilt monitoraggio, Pan 355 ° + Tilt 120 °
+
+9.Supporto multipiattaforma, supporto APP, client PC 
+
+10.Supporta la notifica push dell'APP
+
+11.Supporto Onvif e protocollo Rtsp.
+
+
+
+
+Specificazione:
+
+
+
+
+
+
+
+
+
+
+
+
+Modello
+
+ESCAM PVR008
+
+
+
+telecamera
+
+
+
+
+
+Sensore
+
+CMOS progressivo da 1 / 2,9 "e 2 Megapixel
+
+
+
+Velocità dell'otturatore elettronico
+
+Auto / Manuale, 1/50 ~ 1 / 10000s 
+
+
+
+Illuminazione minima
+
+Colore: 0.1Lux@F1.2, B / N: 0.01Lux@F1.2
+
+
+
+Focale Lunghezza
+
+3.6mm
+
+
+
+Punto di vista
+
+75,7 °
+
+
+
+Funzioni
+
+
+
+
+
+Funzione P / T
+
+Panoramica: 355 °, inclinazione: 120 °
+
+
+
+Commutazione giorno / notte
+
+10 pz IR led, IR distanza 10 m
+
+
+
+Bilanciamento del bianco
+
+Bilanciamento del bianco automatico
+
+
+
+BLC
+
+Supporta BLC
+
+
+
+Riduzione digitale del rumore
+
+Supporta la riduzione del rumore 3D
+
+
+
+WDR
+
+Supporta D-WDR
+
+
+
+Rifugio di P rivacy
+
+Supporta 4 zone
+
+
+
+OSD
+
+Supporta l'impostazione OSD
+
+
+
+video
+
+
+
+
+
+Compressione
+
+H.264 / H.265
+
+
+
+Risoluzione
+
+Corrente principale: 1080P (1920 * 1080), 720P (1280 * 720)
+
+
+
+Substream:D1 (704 * 576), 360P (640 * 360), CIF (352 * 288)
+
+
+
+Frequenza fotogrammi video
+
+25 fps (50 HZ), 25 fps (60 HZ);
+
+
+
+Biterate
+
+135 Kbps ~ 2048 Kbps CBR / VBR regolabile
+
+
+
+Regolazione video
+
+luminosità, saturabilità, regolazione della cromacità
+
+
+
+Rete
+
+
+
+
+
+senza fili
+
+Supporta WIFI 802.11b / g / n, banda 2.4G; modalità AP
+
+
+
+Tipo di IP
+
+IP dinamico e IP statico
+
+
+
+Accordo di rete
+
+HTTP, TCP / IP, UPNP, RTSP, SMTP, NTP, DHCP, DNS, PPPOE, DDNS, FTP
+
+
+
+Protocollo di accesso
+
+Supporta ONVIF 2.4
+
+
+
+Qtà max utente
+
+4
+
+
+
+Cliente
+
+iPhone, iPad, Android,PC Windows
+
+
+
+Allarme
+
+
+
+
+
+Rilevamento degli allarmi
+
+Rilevamento umanoide e tracciamento automatico, rilevamento dei movimenti, rilevamento del suono
+
+
+
+Azione di allarme
+
+Registrazione allarmi, acquisizione allarmi, invio di immagini tramite e-mail e FTP, push APP
+
+
+
+Audio
+
+
+
+
+
+Ingresso audio
+
+Microfono incorporato
+
+
+
+Uscita audio
+
+Altoparlante incorporato
+
+
+
+Interfaccia
+
+
+
+
+
+Carta di TF
+
+Supporta schede TF fino a 128 GB (micro SD)
+
+
+
+Generale
+
+
+
+
+
+Alimentazione elettrica
+
+DC5V
+
+
+
+Consumo di energia
+
+<6W
+
+
+
+Ambiente di lavoro
+
+-10 ° C ~ + 50 ° C, 10% ~ 85%
+
+
+
+Dimensione
+
+90mm * 80mm *105mm 
+
+
+
+Peso
+
+0.19kg
+
+
+
+Dimensionee del pacchetto
+
+150mm * 140mm * 100mm 
+
+
+
+peso del pacco
+
+0.35kg
+
+
+
+Elenco dei pacchetti
+
+Telecamera IP * 1, adattatore di alimentazione * 1, cavo USB * 1, pin di ripristino * 1, viti * 1, manuale * 1
+
+
+
+
+
+
+Manuale: http://myosuploads3.banggood.com/products/20200113/20200113021337PVR008-20190815.pdf
+
+Pacchetto include:
+
+
+1 x PVR008 IP fotografica
+	1 x adattatore di alimentazione USB
+	1 x cavo di ricarica micro USB
+	2 x espansione in plastica
+	2 x viti
+	1 x Guida rapida
+
+
+Immagini dei dettagli:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

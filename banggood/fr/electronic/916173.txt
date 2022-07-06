@@ -1,0 +1,180 @@
+https://fr.banggood.com/KY-015-DHT11-Temperature-Humidity-Sensor-Module-p-916173.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+KY-015 Module DHT11 Capteur de Température et d'Humidité pour Arduino
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+KY-015 Module DHT11 Capteur de Température et d'Humidité pour Arduino
+
+Description:
+
+Le module de capteur est notamment composant résistif de détection d'humidité et le test de température NTC
+Le module de capteur d'humidité de température numérique compatible est connecté avec les composants et les 8 octets MCU
+Réponse rapide, grande capacité anti-ingérence et durable
+à Trou fixe pour une installation facile
+3 Faire l'interface de sortie numérique petit interrupteur plaque microcontrôleur connecté IO le port
+Deux spécifications de l'interface module (3 broches)
+
+Spécification:
+
+Modèle: capteur DHT11
+Portée de transmission de signal: 20m
+Plage de mesure de l'humidité: 20 - 95% RH
+Humidité erreur de mesure: + / -5%
+Plage de mesure de température: 0 - 50℃
+Erreur de mesure de la température: + / -2℃
+Tension de fonctionnement: 3.3 - 5v
+Type de sortie: sortie numérique
+Tailles des petites assiettes en PCB: 3.2 x 1.4cm
+Puissance LED: rouge
+Poids net: 8g
+
+Emballage inclut:
+
+1 x Module de Capteur de Température et d'Humidité
+
+
+
+
+
+
+
+
+
+
+,,
+
+

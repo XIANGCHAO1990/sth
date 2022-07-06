@@ -1,0 +1,145 @@
+1839030
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/D0/BB/2130e979-cc7f-4cfd-bc79-d166122afd56.jpg
+Interface Super USB MACH3 100Khz Placa de 4 eixos Interface Driver Controlador de movimento Impressora 3D Placa CNC
+https://pt.banggood.com/Super-USB-interface-MACH3-100Khz-Board-4-Axis-Interface-Driver-Motion-Controller-3D-Printer-CNC-Board-p-1839030.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrições: 1. Suporte para ligação de 4 eixos, você pode conectar quatro drives de motor de passo ou servo drives;2. A frequência máxima de pulso de passo é 100KHz, que é adequada para o servo ou motor de passo;3. Suporte a ferramenta de sonda automática4. Suporte a entrada de emergência5. Suporte para interruptor de limite6. Suporte para conectar o volante eletrônico7. É necessário usar fonte de alimentação externa de 24 Vcc para isolar o USB e a porta externa e para tornar o sistema mais estável8. Possui porta de saída de 0-10V, você pode usar o software mach3 para controlar a velocidade do motor do fuso.9. 4 entradas de uso geral, você pode conectar o interruptor de limite, interruptor de parada, interruptor de sonda, de volta a zero e outro dispositivo10. 4 interface de saída de acionamento de relé isolada de uso geral, pode acionar quatro relés para controlar as partidas do fuso, rotação para frente e rotação reversa, bombas e outros dispositivos11. 1 LED de status, indica o status da conexão na placa Incluído no Pacote: 1 x placa1 x cabo USB1 x CDDetalhes da imagem:
+
+
+
+

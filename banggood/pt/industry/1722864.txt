@@ -1,0 +1,143 @@
+https://pt.banggood.com/JUNTEK-PSG9080-1nHz-80MHz-Signal-Generator-Dual-Channel-Programmable-Function-Arbitrary-Wave-Source-Frequency-Modulation-Amplitude-Modulation-Voltage-Control-Frequency-Meter-p-1722864.html?cur_warehouse=CN&ID=47184&rmmds=CategoryToolsPop
+JUNTEK PSG9080 1nHz-80MHz Signal Generator Dual Channel Programmable Function Arbitrary Wave Source Frequency Modulation Amplitude Modulation Voltage Control Frequency Meter
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>Please Click Here to Download the English User Manual<<>>Communication Protocol<<Recursos:Saída programável: O tipo de saída de forma de onda (como onda senoidal, onda quadrada, onda triangular, onda arbitrária, etc.), tempo de saída e sequência de saída podem ser formulados livremente para realizar trabalho automático.Atualização de firmware em tempo real: A atualização de firmware pode ser atualizada a qualquer momento para corrigir bugs ou usada para suas necessidades especiais de personalização. Pressione a tecla de função correspondente para confirmar a entrada no modo de atualização e execute uma atualização de firmware com uma tecla conectando-se ao software do PC.Ajuste controlado por voltagem: A frequência, amplitude e ciclo de trabalho da saída podem ser controlados por um sinal de voltagem analógico externo para atingir frequência de varredura controlada por voltagem, amplitude de varredura e ciclo de trabalho de varredura, que são amplamente usados em depuração industrial.Função de modulação: As formas de onda moduladas podem ser emitidas em canal único ou canal duplo. Modulação: O processo de adicionar informações de uma fonte de sinal à portadora para torná-la adequada para transmissão de canal. É a tecnologia que faz a onda portadora mudar com o sinal.Alta taxa de amostragem: A taxa de amostragem de até 300MSa / s pode obter mais dados de forma de onda por unidade de tempo, tornando a forma de onda exibida mais precisa.Cor pessoal: Para atender às necessidades personalizadas dos clientes, são fornecidos quatro esquemas de cores para o sistema. Você pode usar as teclas numéricas e o botão giratório para selecionar a cor do sistema desejada, pressione a tecla de função salvar para salvar a cor selecionada.Saída de canal duplo de desempenho equivalente: Os mesmos sinais de função ou diferentes ou sinais de forma de onda arbitrária podem ser emitidos simultaneamente; todos os parâmetros podem ser ajustados independentemente, a diferença de fase entre os dois canais é continuamente ajustável de 0 a 359,9 graus; a frequência do sinal pode ser de até 80 MHz e o sinal de saída pode ser de 1 MHz até 25 Vpp.Função de estouro: Onda senoidal, onda quadrada, onda dente de serra ou onda arbitrária podem ser usados para gerar sinais de estouro, o número de períodos é continuamente ajustável entre 1-1000000000.A largura do pulso pode ser ajustada com precisão: A largura do pulso e o período de tempo do pulso da onda do pulso são ajustáveis digitalmente e com precisão, permitindo que uma ampla gama de formas de onda do pulso seja definida com precisão sem saída de jitter.Pode desenhar formas de onda arbitrárias: o software de PC e o protocolo de comunicação são fornecidos gratuitamente; formas de ondas arbitrárias podem ser desenhadas usando o software de PC; usar o protocolo de comunicação pode ser uma programação de desenvolvimento secundária; todas as funções do instrumento podem ser controladas pelo software do PC (o instrumento também pode terminar todas as operações sem conectar ao computador).Amplamente utilizado: pesquisa científica e engenharia técnica, teste de instrumento eletrônico de fábrica, manutenção de instrumento eletrônico, ensino experimental escolar, competição de design eletrônico, etc.Especificação:Modelo: PSG9080Canal: 2Taxa de amostragem: 300MSA/SFrequência máxima da onda senoidal: 80MHzCaracterísticas da forma de ondaComprimento de onda: 8192 pontos / canalResolução vertical da forma de onda: 14 bits     Tipo de forma de onda: Onda senoidal, ondas quadradas, onda de pulso (ciclo de trabalho, largura de pulso e tempo de ciclo podem ser definidos com precisão), onda triangular, onda dente de serra crescente, onda dente de serra decrescente, onda CMOS, nível DC, meia onda, onda completa, onda de passo positivo, onda de passo inverso, aumento exponencial, queda exponencial, onda de pulso de Lorentz, onda de som muti, onda de ruído aleatório, onda de pulso trapezoidal, onda de pulso de afundamento, forma de onda de modulação de amplitude, forma de onda de modulação de frequência e 99 grupos de ondas definidas pelo usuário -formas.Características de frequênciaFaixa de frequência da onda senoidal:1nHz-80MHzFaixa de frequência de ondas quadradas: 1nHz-30MHzFaixa de frequência de onda triangular:1nHz-50MHzFaixa de frequência da onda de pulso: 1nHz-30MHzFaixa de frequência de onda digital TTL:1nHz-20MHzFaixa de frequência de onda arbitrária: 1nHz-50MHzFaixa de ajuste de largura de pulso:5nS ~ 4SFaixa de ajuste do período de pulso: 10nS ~ 40SResolução mínima de frequência: 1nHzPrecisão de freqüência: ± 5ppm 0 a 50 ℃Estabilidade de frequência: ± 3 ppm por 1 anoPureza espectral de onda senoidal:Distorção harmônica total: ≤0,5% （@ 1kHz, 5Vpp）Características do sinalOndas quadradasTempo de borda de subida / descida: ≤10nSOvershoot: ≤10%Assimetria: ≤0,1%Rampa e onda triangularLinearidade: ≤1% (menos de 1MHz)Assimetria: ≤1% (menos de 1MHz)Onda de pulsoLargura do pulso: 5nS ~ 4SPeríodo de pulso: 10nS ~ 40SCiclo de trabalho: 0,01% -99,99%Borda de subida / descida: ≤10nSOvershoot: ≤10%Onda arbitráriaComprimento de onda: 8192 pontos (8K pontos)Resolução vertical: 14 bitsTempo mínimo de subida / descida: ≤10nSOvershoot: ≤10%Número Armazenamento de forma de onda arbitrária não volátil: 99Características de saídaAmplitudeFaixa de amplitude:Frequência≤1MHz 1MHz≤ Freqüência ＜ 11MHz11MHz≤ Freqüência ＜ 60MHz60MHz≤ Freqüência ＜ 80MHz2mVpp ~ 25Vpp2mVpp ~ 10Vpp2mVpp ~ 5Vpp2mVpp ~ 3,6VppResolução de amplitude:1mVppEstabilidade de amplitude:± 1% ± 1 mVpp (@ 1 kHz,> 10 mVpp)Nivelamento de amplitude:± 1% (0,1dB) <10MHz± 2% (0,2dB) <10MHz ~ 50MHz± 10% (0,9dB) <50MHz ~ 70MHz± 20% (1,9dB) <70MHz ~ 80MHzPolarização DCFaixa de ajuste de compensação:-9,99V-15,00VResolução de deslocamento: 0.01VCaracterísticas de faseFaixa de ajuste de fase:0 ° -359,9 °Resolução de fase:0,1 °Saída de forma de ondaImpedância de saída:50Ω (nominal)Proteção: proteção contra curto-circuitoCaracterísticas de modulação:Tipo de modulação: AM, FM, PM, ASK, FSK, PSK, PWMSOU:Onda portadora: onda senoidal, onda quadrada, onda dente de serra, onda arbitrária (exceto DC)Fonte de modulação: interna / externaOnda modulada: onda senoidal, onda quadrada, onda dente de serra, onda de ruído, onda arbitráriaProfundidade de modulação: 0% a 200%Frequência de modulação: 1mHz a 1MHzFM:Onda portadora: onda senoidal, onda quadrada, onda dente de serra, onda arbitrária (exceto DC)Fonte de modulação: interna / externaOnda modulada: onda senoidal, onda quadrada, onda dente de serra, onda de ruído, onda arbitráriaFrequência de modulação: 1mHz a 1MHzDesvio de frequência: 0,1 Hz a 10 kHzPM:Onda portadora: onda senoidal, onda quadrada, onda dente de serra, onda arbitrária (exceto DC)Fonte de modulação: interna / externaOnda modulada: onda senoidal, onda quadrada, onda dente de serra, onda de ruído, onda arbitráriaDesvio de fase: 0 ° a 360 °Frequência de modulação: 1mHz a 1MHzPERGUNTE:Onda portadora: onda senoidal, onda quadrada, onda dente de serra, onda arbitrária (exceto DC)Fonte de modulação: interna / externaPolaridade: positiva e negativaTaxa: 1mHz a 1MHzAmplitude PERGUNTE: 0% a 200%FSK:Onda portadora: onda senoidal, onda quadrada, onda dente de serra, onda arbitrária (exceto DC)Fonte de modulação: interna / externaOnda modulada: onda de pulso do ciclo de trabalho de 50%Polaridade: positiva e negativaTaxa: 1mHz a 1MHzSalto de frequência: 0,1 Hz a 80 MHzPSK:Onda portadora: onda senoidal, onda quadrada, onda dente de serra, onda arbitrária (exceto DC)Fonte de modulação: interna / externaPolaridade: positiva e negativaTaxa: 1mHz a 1MHzFase PSK: 0 ° a 360 °PWM:Onda portadora: onda de pulsoInversão de onda: regular e reversaPeríodo de pulso: 0,01uS a 40SLargura de pulso: 0,001uS a 4SExplosão:Inativo: posição zero, máximo positivo, máximo negativoModo: único, automáticoFonte de disparo: burst manual, burst CH2, burst externo (AC), burst externo (DC)Número de pulso: 1-1000000000Função de medição e contagem:Modo de medição:Função de medição: frequência, largura de pulso positivo e negativo, período, ciclo de serviçoMétodo de acoplamento: DC, ACTempo de porta: 0,001S-10.000SModo de medição: baixa frequência, alta frequênciaFaixa de medição de frequência: 1Hz ~ 100MHzFaixa de amplitude do sinal de entrada: 2Vpp ~ 20VppMedição do período: 10nS ~ 4SLargura de pulso: 4SFaixa de medição do ciclo de trabalho: 0,01% ~ 99,99%Modo contador:Faixa do contador: 0-4294967295Método de acoplamento: acoplamento DC e ACMétodo de contagem: manualCaracterísticas de entrada de modulação externa:Faixa de amplitude do sinal de entrada: 0 ~ 3VppFaixa de frequência do sinal de entrada: DC ~ 200KHzCaracterísticas de digitalização:Canal de varredura: CH1 ou CH2Onda portadora: onda senoidal, onda quadrada, onda dente de serra, onda arbitrária (exceto DC)Função de varredura: frequência de varredura, amplitude de varredura, tarefa de varreduraModo de varredura: linear, logarítmicoDireção da varredura: incremento, decremento, ida e voltaFreqüência inicial / final: consistente com os limites superior e inferior da freqüência portadora correspondenteAmplitude inicial / final: consistente com os limites superior e inferior da amplitude da portadora correspondenteIniciar / terminar o ciclo de trabalho: consistente com os limites superior e inferior do ciclo de trabalho da transportadora correspondenteTempo de varredura: 0.01S-640SCaracterísticas de controle de tensão:Canal de controle de tensão: CH1 ou CH2Onda portadora: onda senoidal, onda quadrada, onda dente de serra, onda arbitrária (exceto DC)Função de controle de tensão: controle de frequência, controle de amplitude e controle de ciclo de trabalhoModo de varredura: linear, logarítmicoFreqüência inicial / final: consistente com os limites superior e inferior da freqüência portadora correspondenteAmplitude inicial / final: consistente com os limites superior e inferior da amplitude da portadora correspondenteIniciar / terminar o ciclo de trabalho: consistente com os limites superior e inferior do ciclo de trabalho da transportadora correspondenteFaixa de tensão de controle de tensão: 0V-5V, ponto inicial e ponto final podem ser definidos arbitrariamenteCaracterísticas de programação:Modo de execução: depuração, normalArmazenamento: P00-P19Número de programação: 00-99Tempo de programação: tempo de programação de número de série único 0-99SEspecificações Gerais:Exibição:Tela: display TFT colorido LCD de 3,5 polegadasResolução: 320 * 480Cor: 64K true colorArmazene e carregue:Quantidade: 100 gruposLocalização: 00 a 99 (os dados de 00 Armazenamento localização são carregados por padrão)Interface:Método de interface: interface USB para serialInterface de extensão: porta serial com modo de nível TTL, conveniente para desenvolvimento secundárioTaxa de comunicação: 115200 BPS padrãoProtocolo: usando a linha de comando, o protocolo é abertoPoder:Alimentação CA: tensão de alimentação: 85V-264V ， 47-63Hz                  consumo de energia: menos de 30W                  fusível: 250VAC, 3,15AAlimentação DC: tensão / corrente de alimentação: DC5V ± 0,5V 3AAmbiente:Temperatura: 0 ~ 40 ℃Umidade: umidade <80%Tamanho do item: 247 * 243 * 102 mm / 9,7 * 9,6 * 4,0 pol.Peso do item: 1030g / 2,3lbTamanho do pacote: 425 * 275 * 215 mm / 16,7 * 10,8 * 8,5 pol.Peso da embalagem: 1985g / 4,4lbO pacote inclui:1 x gerador de sinal1 x cabo de alimentação1 x Q9-Q9 através da linha1 x cabo de dados USB1 x Q9 linha de grampo1 x manual do usuárioDetalhes fotos: 
+
+
+
+

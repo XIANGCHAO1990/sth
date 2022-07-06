@@ -1,0 +1,187 @@
+1336979
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/04/2B/26e8f7bb-c90c-42d0-8c4f-9a6e6d67571d.JPG
+ELM327 Scanner diagnostico USB OBD2 modificato per Ford MS-CAN HS-CAN Mazda Forscan
+https://it.banggood.com/ELM327-USB-Modified-OBD2-Car-Diagnostic-Scanner-For-Ford-MS-CAN-HS-CAN-Mazda-Forscan-p-1336979.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+1. Coding.
+2. Dati in tempo reale.
+3. Adattamenti.
+4. Test dell'attuatore.
+5. Programmazione.
+6. Codifica dell'iniettore.
+7. Aggiornamenti software.
+8. Procedure di servizio.
+9. Forza la rigenerazione del DPF.
+10. Leggere la configurazione del veicolo.
+11. Accedere ai moduli sia in modalità HS-CAN che MS-CAN.
+12. Lettura / cancellazione dei codici di errore da TUTTI i moduli, incluso OBD2 / EOBD.
+
+Caratteristica:
+Colore nero
+Dimensioni: 8.8x2.5x4.6cm
+
+Moduli supportati:
+GEM IPC DDM PDM RDDM RPDM AHCM PAM ACU SRM KVM IPMA SODL SODR
+BCM TCM PCM ABS HEC EHPAS CCM P HCM RCM SASM FACM
+ACM SRM SDDJ
+
+Sistema operativo Windows supportato:
+Win7, XP, Vista e Windows 2000 (sistema operativo a 32 e 64 bit)
+Supportato i seguenti protocolli:
+  ISO15765-4 (CAN)
+  ISO14230-4
+  ISO9141-2
+  J1850 VPW (veicoli GM)
+
+Software supportato:
+ELMconfig
+FoCCCus
+Forscan
+La maggior parte dei software OBD2 / EOBD
+
+Collegamento file CD:
+http://myosuploads3.banggood.com/products/20200106/20200106234232AppleMACInstallGudie.pdf
+
+Il pacchetto include:
+1 X Scanner USB ELM327 modificato
+
+
+
+
+

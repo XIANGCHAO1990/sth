@@ -1,0 +1,192 @@
+https://tr.banggood.com/ESP32-Development-Board-WiFi+bluetooth-Ultra-Low-Power-Consumption-Dual-Cores-ESP-32-ESP-32S-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1109512.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+ESP32 Geliştirme Kartı WiFi+bluetooth Ultra Düşük Güç Tüketimi Çift Çekirdekli ESP-32 ESP-32S Kartı Geekcreit, Arduino için - resmi Arduino anakartlarla çalışan ürünler
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanıtım:
+
+ESP32 zaten entegre anten ve RF balun, güç amplifikatörü, düşük gürültülü amplifikatörler, filtreler, 
+ve güç yönetimi modülü. Çözümün tamamı en az baskılı devre kartı alanını kaplar.
+Bu kart, TSMC 40nm düşük güç teknolojisi ile 2.4 GHz çift modlu Wi-Fi ve bluetooth yongaları ile kullanılır,
+güvenli, güvenilir ve çeşitli uygulamalar için ölçeklenebilir olan güç ve RF özellikleri en iyisidir.
+
+Özellikleri:
+
+- Yüksek performans-fiyat oranı
+- Küçük hacimli, diğer ürünlere kolayca entegre edilebilir
+- Destek LWIP protokolü, Freertos ile güçlü işlev
+- Üç modun desteklenmesi: AP, STA ve AP+STA
+- Lua programını destekleyen, kolayca geliştirilebilir
+- Geliştirme Kurulu: https://github.com/Nicholas3388/LuaNode 
+
+ESP32 Forumu: https://www.esp32.com/
+
+Paket içeriği:
+
+1 x 36 pin ESP32 Geliştirme Kartı
+
+30pin ESP32 Geliştirme Kartı satın almak istiyorsanız, buraya tıklayın: İD: 1461896
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,
+
+

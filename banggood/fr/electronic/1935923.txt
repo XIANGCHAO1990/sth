@@ -1,0 +1,143 @@
+https://fr.banggood.com/HW-877-Si5351A-SI5351-8kHz-160MHz-Clock-Signal-Generator-Module-High-Frequency-Signal-Frequency-Generator-p-1935923.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+HW-877 Si5351A SI5351 8kHz -160MHz Module générateur de signal d&#39;horloge Générateur de fréquence de signal haute fréquence
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description du produit:Si55351 est un générateur de fréquence d'horloge programmable à interface IIC, qui peut remplacer l'oscillateur à cristal, l'oscillateur à cristal, l'oscillateur commandé en tension, la boucle à verrouillage de phase, etc. Un signal d'horloge de 8 kHz ~ 160 MHz peut être émis sur chaque port de sortie en réglant la PLL et le diviseur de fréquence.Paramètres du produit :Tension d'alimentation : CC 3,3 ~ 5,0 VTempérature de fonctionnement: -40 ℃ ～ 85 ℃Impédance de sortie : 85ΩRapport cyclique du signal de sortie : 50 %Taux IIC : 100k ~ 400kbpsTemps de montée : 1nsFonction broche :(1) SDA : broche de données(2) SCL : broche d'horloge(3) NIV : VCC(4) GND : mise à la terre(5) Broche 0 : canal de sortie du signal d'horloge 0(6) Broche 1 : canal de sortie du signal d'horloge 1(7) Broche 2 : canal de sortie du signal d'horloge 2Emballage inclus:1 module générateur de signal d'horloge SI5351
+
+
+
+

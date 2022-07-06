@@ -1,0 +1,430 @@
+1594324
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/06/A0/73460d5e-9eb5-4691-abe1-3b4f8c1b9837.jpeg
+RIDEN® RD6006/RD6006-W LED Switching Power Supply S-400W-48V/DC12V/24V/36V/60V 8.3A-33.3A Support Monitoring Transformer Lighting
+https://www.banggood.com/RIDEN-RD6006-or-RD6006-W-LED-Switching-Power-Supply-S-400W-48V-or-DC12V-or-24V-or-36V-or-60V-8_3A-33_3A-Support-Monitoring-Transformer-Lighting-p-1594324.html?cur_warehouse=CN&ID=520159&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feature:
+
+Note: This power supply can be used with Product ID: 1587151 (RD6006/RD6006-W), S06A Case Product ID 1587330 (If you need to use with RD6006/RD6006-W, please select 60V)
+
+
+Model: S-400-xx
+
+Output power: 400W
+
+Output voltage: DC12/24/36/48/60V (Optional)
+
+Input voltage: 110V/220V AC
+
+Ambient temperature: -10 ° C ~ +50 ° C
+
+Adjustable voltage: ±10%
+
+Product size: 215 x 115 x 50mm
+
+
+
+
+
+
+
+
+
+
+Item
+
+Technical Specifications
+
+
+
+Output
+
+DC voltage
+
+12V
+
+24V
+
+36V
+
+48V
+
+60V
+
+
+
+Rated current
+
+33.3A
+
+16.6A
+
+11.1A
+
+8.3A
+
+6.6A
+
+
+
+Rated power
+
+399.6W
+
+398.4W
+
+399.6W
+
+398.4W
+
+396W
+
+
+
+Ripple and noise ①
+
+<150mV  
+
+<150mV
+
+<240mV
+
+<240mV
+
+<240mV
+
+
+
+Voltage accuracy
+
+±1%
+
+
+
+Output voltage adjustment range
+
+±10%
+
+
+
+Load Regulation
+
+<±1.2%
+
+<±1%
+
+<±0.5%
+
+<±0.5%
+
+<±0.5%
+
+
+
+Linear adjustment rate
+
+<±1%
+
+
+
+Input
+
+Voltage range
+
+90-132VAC/180-264VAC 47Hz~63Hz; 254VDC~370VDC
+
+
+
+Efficiency (typical) ②
+
+>82%
+
+>84%
+
+>86%
+
+>86%
+
+>86%
+
+
+
+Working current
+
+<5.2A 115VAC, <2.8A 230VAC
+
+
+
+Electric shock
+
+110VAC: 25A, 220VAC: 50A
+
+
+
+Start, rise, hold time
+
+200ms, 50ms, 20ms: 230VAC
+
+
+
+Protection
+
+Overload protection
+
+105%-135% type: constant current output, +V0 falls to undervoltage point to cut off output, reset: power on again
+
+
+
+Overvoltage protection
+
+Turn off output when >=115%-145%
+
+
+
+Undervoltage protection
+
+Turn off output when <10%-45%
+
+
+
+Short circuit protection
+
+Close output
+
+
+
+						 
+
+Over temperature protection
+
+RTH3:>=65°C fan starts, <=55°C fan off, >=80°C off output (5V-15V)
+						RTH3:>=70°C fan starts, <=60°C fan off, >=85°C off output (18V-48V)
+
+
+
+Environment
+
+Working temperature, humidity
+
+-10°C ~+50°C, 20% ~90%RH
+
+
+
+Storage temperature, humidity
+
+-20°C ~+85°C, 10%~95%RH
+
+
+
+Safety
+
+Withstand voltage
+
+Input-Output: 1.5KVAC 
+						Input - Enclosure: 1.5KVAC 
+						Output - Enclosure: 0.5KVAC for 1 minute
+
+
+
+Leakage current
+
+Input-output <6mA at 1.5KVAC
+
+
+
+Leakage current
+
+Input-output <1.5mA at 220VAC
+
+
+
+Isolation resistance
+
+Input-output, input-housing, output-housing: 500VDC/100MΩ
+
+
+
+Other
+
+Size
+
+215*115*50mm
+
+
+
+Net reset / gross reset
+
+874.1/936.3g
+
+
+
+
+
+①Ripple and noise measurement method: Use a 12mm twisted pair cable, and the terminal should be connected with 0.1uF and 47uF capacitors in parallel and measure at 20MHz bandwidth.
+
+②Efficiency is tested at an input voltage of 230VAC, rated load, and ambient temperature of 25°C.
+
+Accuracy: Includes setting error, linear adjustment rate and load adjustment rate.
+
+Linear Rate Test Method: Test from low voltage to high voltage at rated load.
+
+Load regulation test method: from 0% to 100% of rated load.
+
+The startup time is measured in the cold start state. The fast and frequent switching machine may increase the startup time. When the operating altitude is higher than 2000M, the operating environment temperature should be reduced by 5°C/1000M.
+
+Package includes:
+
+		1 x Power Supply
+
+		 
+
+Note: Due to logistics reasons, the following problems may occur after you receive the goods (just like the picture), you can use your hand to adjust, that's ok, if you mind this, please stop buying. 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,315 @@
+1526966
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/CF/11/357fe695-967f-4ebb-a19d-1f2a0d4b16a6.jpg
+MDP-XP 30V / 5A 90W 2.4G Wireless Connection Sistema di alimentazione digitale programmabile con monitor da 2,8 pollici TFT Controllo automatico della corrispondenza 6 sottomoduli
+https://it.banggood.com/MDP-XP-30V-or-5A-90W-2_4G-Wireless-Connection-Digital-Programmable-Power-System-with-2_8-inch-TFT-Screen-Monitor-Automatic-Matching-Control-6-Sub-modules-p-1526966.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ioDescrizioni:
+
+
+
+MDP (Mini Digital Power System) è un sistema di alimentazione DC lineare programmabile basato su un design modulare, in grado di collegare diversi moduli da utilizzare secondo necessità.
+
+Moduli funzionali correnti: modulo di controllo display,Modulo di alimentazione digitale
+
+Moduli in sviluppo: Modulo generatore di segnale digitale,Modulo di carico elettronico,Modulo caricabatterie,Modulo pacco batteria
+
+
+
+MDP-XP è costituito da un modulo di controllo del display e un modulo di alimentazione digitale. Attraverso la connessione wireless 2.4G, raggiunge la combinazione libera multicanale alla potenza di 90 W per canale. MDP-XP è un alimentatore DC lineare programmabile ad alto costo, dotato di indicatori, stabilità, affidabilità e interfaccia utente distinta paragonabile agli alimentatori professionali; fornisce anche output programmabili, output di temporizzazione, controllo sequenziale, compensazione automatica e altre potenti funzioni, in modo da soddisfare esigenze di test diversificate.
+
+
+
+Modulo di controllo display: dotato di uno schermo TFT da 2,8 pollici, può visualizzare la forma d'onda tensione-corrente in tempo reale, supportare le statistiche dei dati e accoppiare e controllare automaticamente sei sottomoduli (moduli di alimentazione digitali), con doppie rotelle e Design intuitivo a scorrimento di 90 gradi.
+
+Modulo di alimentazione digitale: uscita lineare ad alta efficienza, onda ondulata da 0,25 mV, risposta ai transitori ad alta velocità e supporto per una regolazione fine precisa.
+>> Fare clic qui per trovare il  MDP-P905 Modulo di alimentazione digitale<<
+
+
+
+ioCaratteristiche:
+
+
+- Connessione wireless 2.4G, che supporta un controllo Display e sei potenze digitali
+
+- Ingresso di tensione CC ampio tra 4,2 V e 30 V, ridotto fino a 2,7 V dopo l'avvio
+
+- Risposta ai transitori ad alta velocità e protezione da sovracorrente, fino a 4uS
+
+- Regolazione del carico estremamente bassa e compensazione intelligente della perdita di linea
+
+- Alta efficienza e dissipazione naturale del calore con 90 W di capacità di carico
+
+- Supporta pressione positiva e negativa, pressurizzazione in serie, condivisione della corrente parallela, combinazione libera di carico collaborativo e allocazione intelligente della potenza
+
+- Protezioni di sicurezza: sovratensione in ingresso, protezione da sottotensione, protezione anti-inversione di connessione, protezione antiriflusso, protezione da sovratemperatura e protezione da sovracorrente
+
+
+
+Applicazioni: 
+
+
+Prove generali ed esperimenti didattici nel laboratorio di ricerca e sviluppo 
+
+Manutenzione di cellulari, laptop e altri prodotti digitali 
+
+Test di alimentazione e data logger di circuiti o moduli RF e microonde
+
+Fornisce potenza purificata per circuiti analogici digitali ad alta precisione e dispositivi audio Hi-Fi
+
+Verifica della proprietà e diagnosi dei guasti di dispositivi e circuiti
+
+Controllo di qualità e ispezione di qualità
+
+Alimentazione di emergenza per aeromodelli e veicoli
+
+ioSpecifiche:
+
+
+
+
+
+Modalità
+
+MDP-XP
+
+
+
+Ingresso
+
+DC4.2V-30V (dopo l'avvio 2.7V), 100mA-6A, supporto QC3.0
+
+
+
+Produzione
+
+30V/5A,90W
+
+
+
+Tasso di adeguamento
+
+Tasso di regolazione del carico <±0.01^%
+
+
+
+Tasso di regolazione della potenza <±0,01^%
+
+
+
+Ondulazione e rumore
+
+250uVrms/3mVpp
+
+
+
+Tempo di risposta transitorio
+
+4uS
+
+
+
+Compensazione della perdita di linea
+
+5mR-100mR
+
+
+
+Protezione
+
+Sovratensione in ingresso,sottotensione, anti-ritorno, uscita antiriflusso, sovratemperatura
+
+
+
+Registrazione dati
+
+Memoria massima: 7 MB, Tempo di registrazione massimo: 24 ore.
+
+
+
+Altri
+
+Spegnimento automatico e accesso alla modalità micro-power
+
+
+
+Supporta l'aggiornamento del firmware USB
+
+
+
+Supporta la calibrazione dell'utente
+
+
+
+
+La confezione include:
+
+1 x sistema di alimentazione MDP-XP (1 x monitor digitale intelligente MDP-M01 + 1 x alimentatore digitale MDP-P905)
+
+1 x cavo (testa audio da 2,5 mm a Micro USB)
+
+2 x linea di uscita (testa a banana da 4 mm a coccodrillo clip)
+
+Dettagli Immagini:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

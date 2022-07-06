@@ -1,0 +1,204 @@
+80365
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/3E/69/28ad157c-29f6-4337-be6e-3e01b592512a.JPG
+IIC I2C TWI SP Interface série Port Module Pour 5V Arduino 1602LCD
+https://fr.banggood.com/IIC-I2C-TWI-SP-Serial-Interface-Port-Module-5V-1602-LCD-Adapter-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-80365.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IIC I2C TWI SP Interface série Port Module Pour 5V Arduino 1602LCD Affichage est disponible maintenant de notre Entrepôt  US et UK
+
+
+
+
+Livraison gratuite à US et UK dans  3-6 Jours ouvrables
+ Expédiez au Canada, au Brésil dans7-10Jours dans entrepôt US
+Expédiez aux pays européens dans 7-10 Jours à l'Entrepôt UK
+
+
+IIC I2C TWI SP Interface série Port Module Pour 5V Arduino 1602LCD affichage
+
+Description :
+
+Il s'agit d'une autre grande iic/i2c/twi/spi serial interface. les ressources de la goupille d'arduino contrôleur étant limité, votre projet peut être pas en mesure d'utiliser le bouclier de lcd normal après connecté avec une certaine quantité de capteurs ou carte sd. Cependant, avec ce module d'interface i2c, vous serez en mesure de réaliser l'affichage de données via 2 fils seulement. Si vous possède déjà des périphériques i2c dans votre projet, ce module lcd en fait ne coûté aucune ressource plus du tout. C'est fantastique pour le projet arduino basé.
+Adresse I2C: 0 ~ 0 x 27 (l'adresse d'origine est 0 x 20, vous pouvez le changer vous-même)
+Le rétro-éclairage et le contraste est ajusté par potentiomètre
+Viennent avec 2 interface iic, qui peut être connecté par dupont ligne ou câble dédié iic
+Adresse I2C: 0 x 27 (adresse i2c: 0 ~ 0 x 27 (l'adresse d'origine est 0 x 27, vous pouvez le changer vous-même)
+
+Spécification : 
+
+Compatible pour écran lcd 1602
+Tension d'alimentation : 5v
+Poids : 5g
+Taille : 5.5x2.3x1.4cm
+
+Emballage inclut:
+
+1 x IIC I2C TWI SP Interface série Port Module
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

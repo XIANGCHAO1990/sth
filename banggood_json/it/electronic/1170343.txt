@@ -1,0 +1,189 @@
+1170343
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/76/A6/68083893-413b-4cd1-8f47-e017bfea598d.JPG
+PCA9685 16 Canali 12 bit Modulo I2C Driver di Motore Servo PWM per Robot Arduino
+https://it.banggood.com/PCA9685-16-Channel-12-bit-PWM-Servo-Motor-Driver-I2C-Module-p-1170343.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristiche:
+
+Questa scheda/chip utilizza l'indirizzo I2C a 7 bit tra 0x60-0x80, selezionabile con i cavi jumper.
+Morsettiera per l'ingresso di energia (o è possibile utilizzare i breakout da 0,1" sul lato)
+Protezione da inversa di polarità sull'ingresso di morsettiera.
+L'indicatore LED verde per indicare lo stato normale di energia.
+Connettori a 3 pin, 4 in un gruppo, si può collegare 16 servi contemporaneamente (le spine di servo sono leggermente più ampie di 0,1", si può solo collegare 4 vicini sul connettore header da 0,1"
+Design di "catenabile"
+Un punto per mettere un grande condensatore sul cavo V + (se ne hai bisogno)
+Resistori da 220 oh su tutti i cavi di uscita per fornire protezione, e per azionare i LED.
+Cavi jumper di saldatura per 6 pin di selezione di indirizzi.
+Driver PWM controllato da I2C con un clock integrato. A differenza della serie TLC5940, non è necessario inviare continuamente il segnale per il collegamento del microcontrollore, il suo azionamento è completamente libero!
+Compatibile con 5V, il che significa che è possibile controllarlo da un microcontroller di 3,3V mentre azionare ancora le uscite da 6V in modo sicuro (questo è utile quando si desidera controllare LED bianco o blu con la tensione di avanzamento da 3,4+)
+Con 6 pin di selezione degli indirizzi, con cui si può collegare fino a 62 di questi su un singolo bus I2C, con in totale 992 uscite - cioè molti servi o LED.
+Frequenza PWM regolabile fino a circa 1,6 KHz.
+Risoluzione a 12 bit per ogni uscita - per i servi, che significa una risoluzione di 4US a frequenza di aggiornamento da 60Hz.
+Uscita push-pull o open-drain configurabile
+Pin di abilitazione di uscita per disabilitare rapidamente tutte le uscite.
+
+La confezione include:
+
+1 x PCA9685 16 Canali 12 bit Modulo I2C Driver di Motore Servo PWM per Robot Arduino
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,806 @@
+1013032
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/91/F4/a56bf2b2-3857-4b8d-a4df-0267b897e3ce.jpg
+Almacenamiento digital USB Hantek DSO5102P Osciloscopio 2 canales 100MHz 1GSa / s
+https://es.banggood.com/Hantek-DSO5102P-USB-Digital-Storage-Oscilloscope-2Channels-100MHz-1GSa-or-s-p-1013032.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:
+
+
+
+Almacenamiento digital USB Hantek DSO5102P Osciloscopio 2 canales 100MHz 1GSa / s>> Haga clic aquí para descargar el manual de usuario en inglés <<
+
+
+
+Características: 
+
+
+
+
+		Anchos de banda de 100 MHz
+
+		1GSa / s Real Frecuencia de muestreo de tiempo
+
+		Pantalla a color de gran tamaño (7,0 pulgadas), WVGA (800x480)
+
+		Longitud de registro de hasta 40K
+
+		Modo de disparo: borde / ancho de pulso / línea seleccionable video / pendiente / horas extra, etc.
+
+		Conectividad de dispositivo y host USB, estándar
+
+		Varias medidas automáticas
+
+		Cuatro funciones matemáticas, incluido el estándar FFT
+
+		Proporciona software para análisis de PC en tiempo real 
+
+
+
+
+Especificación:
+
+
+
+
+
+
+
+
+
+Modelo
+
+DSO5202P
+
+DSO5102P
+
+DSO5072P
+
+
+
+Adquisición
+
+
+
+Frecuencia de muestreo 
+
+Muestra en tiempo real: 1GS / s
+					Muestra equivalente: 25GS / s
+
+
+
+Modos de adquisición
+
+
+
+
+
+
+
+
+
+Normal
+
+Solo datos normales
+
+
+
+Detectar Pea'k
+
+Captura glith de alta frecuencia y randon
+
+
+
+Promedio
+
+Wavefom Promedio, seleccionable 4,8,16,32,64,128
+
+
+
+Entradas
+
+
+
+Acoplamiento de entradas
+
+CA, CC, GND
+
+
+
+Entrada de impedancia
+
+1MΩ ± 2% II20pF ± 3pF
+
+
+
+Atenuación de la sonda
+
+1X, 10X
+
+
+
+Factor de atenuación de sonda admitido
+
+1X, 10X, 100X, 1000X
+
+
+
+Voltaje de entrada máximo
+
+CAT I y CAT II: 300VRMS (10 ×), categoría de instalación;
+					CAT III: 150VRMS (1 x);
+					Categoría de instalación II: reducción de potencia a 20 dB / década por encima de 100 kHz a 13 V CA Pea'k a 3 MHz * y superior. 
+					Para formas de onda no sinusoidales, el valor Pea'k debe ser menor a 450V. 
+					La excursión por encima de 300 V debe tener una duración inferior a 100 ms. 
+					El nivel de señal RMS, incluidos todos los componentes de CC eliminados a través del acoplamiento de CA, debe limitarse a 300 V.
+					 Si se exceden estos valores, se pueden producir daños en el osciloscopio.
+
+
+
+Horizontal
+
+
+
+Rango de frecuencia de muestreo
+
+500MS / s - 1GS / s
+
+
+
+Interpolación de forma de onda
+
+(sen x) / x
+
+
+
+R'ecord longitud
+
+40'K
+
+
+
+Rango SEC / DIV
+
+4ns / div a 40s / div
+
+4ns / div a 40s / div
+
+
+
+Frecuencia de muestreo y
+					Precisión del tiempo de retardo
+
+± 50ppm (en cualquier intervalo de tiempo ≥1ms)
+
+
+
+Rango de posición
+
+2ns / div a 10ns / div; 
+					(-4div xs / div) a 20ms;
+
+20ns / div a 80us / div; (-8div xs / div) a 40ms;
+					200us / div a 40s / div; (-8div xs / div) a 400s
+
+
+
+Precisión incremental de la medición del tiempo 
+					(Ancho de banda completo)
+
+Modo normal de disparo único: ± (1 intervalo de muestra + 100 ppm × lectura + 0,6 ns);
+					> 16 promedios: ± (1 intervalo de muestra + 100 ppm × lectura + 0,4 ns);
+					Intervalo de muestra = s / div ÷ 200
+
+
+
+Vertical
+
+
+
+Resolución vertical
+
+Resolución de 8 bits, todos los canales muestreados simultáneamente
+
+
+
+Rango de posición
+
+2 mV / div a 200 mV / div, ± 2 V
+					200mV / div a 5V / div, ± 50V
+
+
+
+Banda ancha
+
+100MHz
+
+100MHz
+
+70MHz
+
+
+
+Tiempo de subida en BNC (típico)
+
+3.5ns
+
+ 3.5ns
+
+5ns
+
+
+
+Ancho de banda analógico en normal y
+					 Modos promedio en BNC o con sonda, DC acoplado
+
+2 mV / div a 20 mV / div, ± 400 mV; 50 mV / div a 200 mV / div, ± 2 V
+					500mV / div a 2V / div, ± 40V; 5V / div, ± 50 V
+
+
+
+Matemáticas
+
++, -, *, /, FFT
+
+
+
+FFT
+
+Ventanas: Hanning, Flatop, Rectamgular, Bartlett, Blackman;
+					1024 punto de muestra
+
+
+
+Límite de ancho de banda
+
+20MHz
+
+
+
+Respuesta de baja frecuencia (-3db)
+
+≤10Hz en BNC
+
+
+
+Precisión de ganancia de CC
+
+± 3% para el modo de adquisición Normal o Promedio, 5V / div a 10mV / div;
+					± 4% para el modo de adquisición normal o promedio, de 5 mV / div a 2 mV / div
+
+
+
+Precisión de medición de CC, 
+					Modo de adquisición promedio
+
+Cuando el desplazamiento vertical es cero y N ≥16: ± (3% × lectura + 0.1div + 1mV) solo se selecciona 10mV / div o más; 
+					Cuando el desplazamiento vertical no es cero y N≥16: ± [3% × (lectura + posición vertical) + 1% de la posición vertical + 0,2div]; 
+					Agregue 2 mV para configuraciones de 2 mV / div a 200 mV / div; agregue 50mV para configuraciones de 200mV / div a 5V / div
+
+
+
+Repetibilidad de la medición de voltios, 
+					Modo de adquisición promedio
+
+D1elta voltios entre dos promedios de ≥16 formas de onda adquiridas en la misma configuración y condiciones ambientales
+
+
+
+Sistema de disparo
+
+
+
+Tipos de disparadores
+
+Borde, Video, Pulso, Pendiente, Con el tiempo, Alternativa
+
+
+
+Fuente de activación
+
+CH1, CH2, EXT, EXT / 5, Línea AC
+
+
+
+Modos de disparo
+
+Automático, Normal, Único
+
+
+
+Acoplamiento Tipo
+
+DC, AC, Rechazo de ruido, Rechazo de HF, Rechazo de LF
+
+
+
+Sensibilidad de disparo
+					(Disparador de borde Tipo)
+
+CC (CH1, CH2):
+					1div de DC a 10MHz; 1.5div de 10MHz a 100MHz; 2div de 100MHz a Full;
+					CC (EXT): 
+					200 mV de CC a 100 MHz; 350 mV de 100 MHz a 200 MHz;
+					CC (EXT / 5):       
+					1 V de CC a 100 MHz; 1,75 V de 100 MHz a 200 MHz;       
+					CA: atenúa las señales por debajo de 10 Hz;
+					Rechazo de HF: atenúa las señales por encima de 80 kHz; 
+					Rechazo de LF: Igual que los límites acoplados a CC para frecuencias superiores a 150 kHz; atenúa las señales por debajo de 150 kHz
+
+
+
+Rango de nivel de disparo
+
+CH1 / CH2: ± 8 divisiones desde el centro de la pantalla; 
+					EXT: ± 1,2 V;
+					EXT / 5: ± 6V
+
+
+
+Precisión del nivel de disparo (típica) Precisión 
+					es para señales con tiempos de subida y bajada ≥20ns
+
+CH1 / CH2: 0.2div × voltios / div dentro de ± 4 divisiones desde el centro de la pantalla;
+					EXT: ± (6% del ajuste + 40mV);
+					EXT / 5: ± (6% del ajuste + 200mV);
+
+
+
+Establecer el nivel al 50% (típico)
+
+Funciona con señales de entrada ≥50Hz
+
+
+
+Disparador de video
+
+
+
+
+
+Disparador de video Tipo 
+
+CH1, CH2: amplitud de pico a pico de 2 divisiones;
+					EXT: 400 mV;
+					EXT / 5: 2V
+
+
+
+Formatos de señal y tasas de campo, disparador de video Tipo
+
+Admite sistemas de transmisión NTSC, PAL y SECAM para cualquier campo o línea
+
+
+
+Rango de retención
+
+100ns ~ 10s
+
+
+
+Disparador de ancho de pulso
+
+
+
+
+
+Modo de disparo por ancho de pulso
+
+Activar cuando (<,>, = o ≠); Pulso positivo o pulso negativo
+
+
+
+Punto de activación de ancho de pulso
+
+Igual: el osciloscopio se dispara cuando el borde posterior del pulso cruza el nivel de disparo.
+					No igual: si el pulso es más estrecho que el ancho especificado, el punto de activación es el borde de salida.
+					De lo contrario, el osciloscopio se dispara cuando un pulso continúa durante más tiempo que el especificado como Ancho de pulso.
+					Menor que: el punto de activación es el borde posterior.
+					Mayor que (también llamado disparo de tiempo extra): el osciloscopio se dispara cuando un pulso continúa por más tiempo que el tiempo especificado como Ancho de pulso
+
+
+
+Rango de ancho de pulso
+
+20ns ~ 10s
+
+
+
+Activador de pendiente
+
+
+
+
+
+Modo de disparo de pendiente
+
+Activar cuando (<,>, = o ≠); Pendiente positiva o pendiente negativa
+
+
+
+Punto de activación de pendiente
+
+Igual: el osciloscopio se dispara cuando la pendiente de la forma de onda es igual a la pendiente establecida.
+					No igual: el osciloscopio se dispara cuando la pendiente de la forma de onda no es igual a la pendiente establecida.
+					Menor que: el osciloscopio se dispara cuando la pendiente de la forma de onda es menor que la pendiente establecida.
+					Mayor que: el osciloscopio se dispara cuando la pendiente de la forma de onda es mayor que la pendiente establecida.
+
+
+
+Intervalo de tiempo
+
+20ns ~ 10s
+
+
+
+Activador de horas extraordinarias
+
+
+
+
+
+Modo a lo largo del tiempo
+
+Borde ascendente o borde descendente
+
+
+
+Intervalo de tiempo
+
+20ns ~ 10s
+
+
+
+Disparador alternativo
+
+
+
+
+
+Activar en CH1
+
+Disparador interno: borde, ancho de pulso, video, pendiente
+
+
+
+Activar CH2
+
+Disparador interno: borde, ancho de pulso, video, pendiente
+
+
+
+Contador de frecuencia de disparo
+
+
+
+Resolución de lectura
+
+6 digits
+
+
+
+Precisión (típica)
+
+± 30 ppm (incluidos todos los errores de referencia de frecuencia y ± 1 errores de recuento)
+
+
+
+Rango de frecuencia
+
+Acoplado a CA, desde 4 Hz mínimo hasta el ancho de banda nominal
+
+
+
+Fuente de señal
+
+Modos de disparo de ancho de pulso o de borde: todas las fuentes de disparo disponibles
+					El contador de frecuencia mide la fuente de disparo en todo momento, incluso cuando se detiene la adquisición del osciloscopio. 
+					debido a cambios en el estado de ejecución, o se ha completado la adquisición de un evento de disparo único.
+					Modo de disparo por ancho de pulso: el osciloscopio cuenta pulsos de amplitud significativa dentro de la ventana de medición de 1s que califican como eventos disparables, 
+					como pulsos estrechos en un tren de pulsos PWM si se establece en el modo <y el ancho se establece en un tiempo relativamente pequeño.
+					Modo de disparo de borde: el osciloscopio cuenta todos los bordes de suficiente amplitud y polaridad correcta.
+					Modo de disparo de video: el contador de frecuencia no funciona.
+
+
+
+La medida
+
+
+
+Medición del cursor
+
+Diferencia de voltaje entre cursores: ΔV
+					Diferencia de tiempo entre cursores: ΔT
+					Recíproco de ΔT en Hertz (1 / ΔT)
+
+
+
+Medición automática
+
+Frecuencia, Periodo, Media, Pk-Pk, Cycli RMS, Mín, Máximo, Tiempo de subida, Tiempo de caída, + Ancho de pulso, -Ancho de pulso, Delay1-2Rise, Delay1-2Fall, + Duty, -Duty, Vbase, Vtop, Vmid , Vamp, Overshoot, Preshoot, Preiod Mean, Preiod RMS, FOVShoot, RPREShoot, BWIDTH, FRF, FFR, LRR, LRF, LFR, LFF
+
+
+
+Monitor
+
+
+
+Pantalla Tipo
+
+7 pulgadas 64K color TFT (cristal líquido diagonal)
+
+
+
+Resolución de pantalla
+
+800 píxeles horizontales por 480 verticales
+
+
+
+Contraste de pantalla
+
+Ajustable (16 marchas) con la barra de progreso
+
+
+
+Salida del compensador de sonda
+
+
+
+Voltaje de salida (típico)
+
+Aproximadamente 5Vpp en carga ≥1MΩ
+
+
+
+Frecuencia (típica)
+
+1kHz
+
+
+
+Fuente de alimentación
+
+
+
+Voltaje de suministro
+
+100-120VACRMS (± 10%), 45Hz a 440Hz, CATII
+					120-240VACRMS (± 10%), 45Hz a 66Hz, CATII
+
+
+
+El consumo de energía
+
+<30W
+
+
+
+Fusible
+
+2A, clasificación T, 250V
+
+
+
+Ambiental
+
+
+
+Temperatura
+
+En funcionamiento: 32 ° F a 122 ° F (0 ° C a 50 ° C);
+					Sin funcionamiento: -40 ° F a 159,8 ° F (-40 ° C a + 71 ° C)
+
+
+
+Método de enfriamiento
+
+Convección
+
+
+
+Humedad
+
++ 104F o menos (+ 40C o menos): ≤90% de humedad relativa;
+					106F a 122F (+ 41C a 50C): ≤60% de humedad relativa
+
+
+
+Altitud
+
+En funcionamiento: por debajo de los 3.000 m (10.000 pies);
+					No operativo: por debajo de 15.000 m (50.000 pies)
+
+
+
+Mecánico
+
+
+
+Tamaño
+
+Longitud 385 mm, ancho 200 mm, altura 245 mm
+
+
+
+Peso
+
+3,5 KG (con embalaje); 2,08 KG (sin embalaje)
+
+
+
+
+
+
+El paquete incluye: 
+
+
+
+	1 x almacenamiento digital Osciloscopio
+	2 x sondas (PP150)
+	1 x Osciloscopio Cable de alimentación
+	1 x línea USB1 x CD de datos Hantek
+	1 x certificado de fabricante
+
+
+Cuadros de detalles: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,208 @@
+https://it.banggood.com/Geekcreit-0_96-Inch-OLED-I2C-IIC-Communication-Display-128+64-LCD-Module-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1535708.html?cur_warehouse=CN&ID=229&rmmds=CategoryElectronicsPop
+Geekcreit® 0.96 Pollici OLED I2C IIC Communication Display 128 * 64 LCD Modulo Geekcreit per Arduino - prodotti che funzionano con schede Arduino ufficiali
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>More details: Click here to open<<<
+
+	Definizione dei pin:
+
+
+
+VCC: 3,3-5 V.
+
+GND: terra
+
+SCL: orologio seriale
+
+SDA: dati seriali
+
+caratteristica:
+
+
+Dimensioni: 0,96 pollici
+
+Risoluzione: 128 * 64
+
+Colore: bianco, blu (opzionale)
+
+Angolo di visione:> 160 °
+
+Piattaforma di supporto: serie 51, serie MSP430, STM32/2, ecc.
+
+Consumo energetico estremamente basso: 0,04 W durante il normale funzionamento
+
+Ampio supporto di tensione: DC 3,3 V-5 V.
+
+Temperatura di lavoro: -30 ° C ~ 80 ° C
+
+Chip del driver: SSD1306
+
+Metodo di comunicazione: IIC, solo 2 porte I / O
+
+Retroilluminazione: autoilluminazione OLED, nessuna retroilluminazione richiesta
+
+La confezione include:
+
+		1 x modulo OLED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

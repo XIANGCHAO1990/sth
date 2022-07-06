@@ -1,0 +1,145 @@
+1947309
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/FC/78/9a7af4d0-5ce2-4a85-9f1f-8c2dc337ce96.jpg
+JYETech M162 LCR Meter Kit fai da te Resistenza Capacità Induttanza Misura 1uH - 20KH smontato
+https://it.banggood.com/JYETech-M162-LCR-Meter-DIY-Kit-Resistance-Capacitance-Inductance-Measure-1uH-20KH-Unassembled-p-1947309.html?cur_warehouse=CN&ID=6310517&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Avviso:1. Questo prodotto richiede la saldatura.2. La custodia deve essere acquistata separatamente.3. Si prega di confermare che l'opzione shell separata o l'opzione kit fai da te è stata selezionata prima dell'acquisto, la differenza di prezzo è grande, in modo da evitare inutili malintesi.Documenti: (clicca per aprire)Manuale d'uso (Rev.00)Guida al montaggio (Rev.00)Schema (scheda principale)Schematico (scheda analogica)Introduzione:Il misuratore LCR M162 è un ottimo strumento complementare alla maggior parte dei multimetri. I multimetri regolari sono buoni in molti modi. Ma di solito hanno una capacità piuttosto limitata o addirittura assente per la misurazione di capacità, induttanza e resistenza sub-ohm. L'aggiunta di un misuratore LCR M162 supererà questa carenza. La versione in kit fai da te di M162 è molto facile da costruire. Non è richiesta alcuna calibrazione speciale per ottenere una precisione dell'1% circa.Punti salienti del misuratore LCR M162:Intervallo di resistenza: 0,1 ohm — 20 M ohmGamma di capacità: 1 pF — 20 mFIntervallo di induttanza: 1uH — 20KHIntervallo completamente automaticoPrecisione: circa 1%Porta USB virtuale integrata per l'uscita dei dati e l'aggiornamento del firmwareUscita dati seriale tramite porta USB o LVTTL direttoVisualizza la funzione HOLDUSB/Batteria alimentatoFacile da costruire, facile da usareCustodia in acrilico opzionale (venduta separatamente)Specifiche:Schermo:Primarie: R, C, LSecondario: Q, D, ESRModalità circuito equivalente: parallelo o serialeDati primitivi: |Z| e Θ, o Rs e XsIntervallo di misurazione e precisione:R, |Z|: 0,1Ω - 20MΩC: 1 pF - 20000 μFL: 1μH - 20000HD, D: 0 - 10000Θ: -90° - 90°Precisione: circa 1% (testato per resistenza 1Ω - 1MΩ)Condizioni di misurazione:Frequenza di prova: 100 Hz, 1 KHzTensione aperta: 0,5 VppVarie:Connessioni di misura: 4 fili Kelvin sui terminali di provaAmbito: Completamente automaticoCompensi: Aperto, CortoUscita dati seriale: SìAlimentazione: USB o batteriaConsumo energetico: < 100 mA @ 5VDimensioni: 111 x 76 x 25 mm (4,37" x 3,0" x 1,0")Peso: 100 gLa confezione include:1 x kit fai da te M162 (opzionale)1 solo guscio (opzionale)
+
+
+
+

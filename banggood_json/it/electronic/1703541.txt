@@ -1,0 +1,145 @@
+1703541
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/95/05/4b36cb8d-db47-466c-bedf-9293610fbc3e.jpg
+DSTIKE BAD Watch Orologio programmabile Atmega32u4 USB Laser VL53L0 Sensore di distanza Temperatura RTC con 800mAh Batteria
+https://it.banggood.com/DSTIKE-BAD-Watch-Programmable-Watch-Atmega32u4-USB-Laser-VL53L0-Distance-Sensor-Temperture-RTC-with-800mAh-Battery-p-1703541.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Che cos'è?È un orologio di sviluppo atmega32u4 con sensore di distanza, laser, cicalino, RGB LED e RTC all'interno.Viene pre-lampeggiato con a demo programma in grado di visualizzare tempo, temperatura interna (temperatura di RTC3231) e distanza.Spingi l'interruttore verso l'alto e l'orologio rileverà la distanza tra te e il tuo obiettivo. Se la distanza è inferiore a 1 m, il cicalino suonerà "B ~" e RGB diventerà ROSSO contemporaneamente. Il sensore di distanza è in grado di rilevare solo 0-1,2 m di distanza.Spingere l'interruttore verso il basso per abilitare il laser. Premere di nuovo verso il basso per spegnere il laser.Puoi guardare il video introduttivo che ho realizzato.Perché ce l'hai fatta?Volevo solo creare un fantastico orologio per i principianti di Arduin. Atmega32u4 potrebbe essere riconosciuto come una tastiera per computer. Ecco perché molte persone lo usano come USB difettosa. Questo è anche lo stesso motivo per cui lo uso su questo orologio. Ho aggiunto un comando che può mostrare le password wifi del tuo computer, quindi quando colleghi questo orologio a un computer si aprirà una finestra che mostra tutte le password.Puoi modificare il codice BadUSB per fare quello che vuoi con il computer. Solo per divertimento. Non fare cose cattive.Cosa lo rende speciale?Bootloader è Arduin LeonardoBuzzer (Digital Pin 12)RGB LED (Digital Pin 6)Laser (Digital Pin 13)1.3 OLED SH1106 (IIC)SDA (Digital Pin 3)SCL (Digital Pin 2)Button Up (Digital Pin 10)Pulsante giù (pin digitale 8)Selezione pulsante (pin digitale 9)Breakou GPIOs (5V, 3V, BAT, GND, GPIO5, SDA, SCL, TXD, RXD, AD0)VL53L0 Distance Sensor (IIC)DS3231 (IIC) estremamente accurato40-70 mA di potenza (il tempo di lavoro dipende dal codice)Batteria Li 800mAhIndicare la ricarica LED (25% ， 50% ， 75% ， 100%)Interruttore di accensione (fare clic per accendere, fare doppio clic per spegnere, fare clic lungo per aprire l'evidenziazione LED)Come programmarloApri IDE e seleziona "Arduin Leonardo" nell'opzione scheda.ConsigliHo messo tutti i file di progettazione e il codice sul mio github. Quando provi il codice di esempio, è meglio scaricare prima le librerie nell'IDE di Arduin1.USB difettosaUna parte di codice USB errata può essere inserita solo nel campo setup (). Se lo metti nel loop () potresti avere un problema a causa del quale il computer non è in grado di riconoscere l'orologio. È necessario eseguire nuovamente il flashing del bootloader per risolvere questo problema.2.PowerKeepUso IP5306 per alimentare questo orologio. Quando IP5306 rileva una corrente inferiore a 45 mA, si spegne automaticamente. Quindi uso un PowerKeep codice per simulare ogni 10 secondi fare clic sul pulsante di accensione. Ciò manterrà sempre la potenza di uscita ip5306. Se non si aggiunge questo codice, questa scheda potrebbe funzionare per circa 30 secondi e quindi spegnersi automaticamente.3.RTCQuando trovi che l'ora non viene visualizzata correttamente, puoi lampeggiare codice demo ancora. L'ora si sincronizzerà contemporaneamente con il computer.4.DemoCodeDopo aver capito come controllare ogni parte di questo orologio, puoi sviluppare il tuo orologio personalizzato! Mi dispiace di non essere molto bravo nella parte software, in caso di problemi puoi informarmi in qualsiasi momento.Pacchetto incluso:1 x DSTIKE BAD Watch Orologio programmabile con 800mAh Batteria
+
+
+
+

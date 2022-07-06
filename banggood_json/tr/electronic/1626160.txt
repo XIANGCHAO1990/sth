@@ -1,0 +1,303 @@
+1626160
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/FB/0F/51b5f007-ca51-44ad-ac2e-2777f6aecfef.JPG
+7W Mini DC DC Boost Artırmak Dönüştürücü 2.6-5.5V - 5V 6V 9V 12V Voltaj Regülatörü Modülü
+https://tr.banggood.com/7W-Mini-DC-DC-Boost-Step-Up-Converter-2_6-5_5V-to-5V-6V-9V-12V-Voltage-Regulator-Module-p-1626160.html?cur_warehouse=CN&ID=519957&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Açıklama:  
+
+
+
+- DC DC Boost Dönüştürücü Modülü çalışma frekansı 1MHZ. 
+
+- %93'e varan Verimlilik (genellikle %84-91'dir) 
+
+- Sessiz akım: 190uA.
+
+- Akım Limit Programı(0.5-2.5A,Varsayılan 1.8A)  
+
+- Boyut : 21x11x4mm
+
+- Ağırlık : 1.5g
+
+- Koruma:  
+
+Aşırı akım koruması (OCP)
+
+Aşırı voltaj koruması (OVP)
+
+Kısa devre koruması (SCP)
+
+Aşırı sıcaklık koruması (OTP) 
+
+
+
+
+
+
+Çıktı 5V :
+
+ 
+
+
+Giriş voltajı DC 2.6 ~ 4.5V, çıkış DC 5V±3%
+
+Maksimum çıktı: 5V/1300MA(Ayrıntılar için aşağıdaki tabloya bakın)   
+
+ 
+
+
+
+ 
+Çıkış 6V :
+
+							Giriş voltajı DC 2.6 ~ 5.5V, çıkış DC 6V±3%
+							Maksimum çıkış : 6V/1200MA(Ayrıntılar için aşağıdaki tabloya bakın)
+
+
+Çıkış 9V :
+
+							Giriş voltajı DC 2.6 ~ 5.5V, çıkış DC 9V±3%
+							Maksimum çıkış: 9V/800MA(Ayrıntılar için aşağıdaki tabloya bakın)
+
+
+
+
+
+
+Çıkış 12V :
+
+
+Giriş voltajı DC 2.6 ~ 5.5V, çıkış DC 12V±3%
+					Maksimum çıkış : 12V/600MA(Ayrıntılar için aşağıdaki tabloya bakın)
+
+
+
+
+ 
+
+
+
+
+Pin Açıklaması:
+
+
+
+Vi : Giriş pozitif(+)
+
+GND : Giriş ve Çıkış negatif(GND/-)
+
+Vo : Çıkış pozitif(+)
+
+
+
+Uygulamalar:
+
+
+
+Pille çalışan ekipman
+
+Enstrümantasyon, multimetre
+
+Breadboard Stm32 Lcd LED
+
+Küçük güç motorları
+
+PTZ Kamera web kamerası
+
+IP Kamera
+
+oyuncak araba tekne
+
+Model uçak
+
+Taşınabilir şarj aleti
+
+LED Motor  
+
+Güneş enerjisi
+
+WIFI Yönlendirici 
+
+PLC RS485 cihazlar
+
+Lityum pil güç kaynağı ekipmanı
+
+ 
+
+Dikkat :
+
+
+
+Bu bir DC-DC voltaj dönüştürücü modülüdür, Kullanırken not edilmelidir:
+
+
+
+1. Giriş voltajı, maksimum giriş aralığından büyük olamaz
+
+2. Çıkış gücü, uzun süre maksimum yükten daha büyük olamaz
+
+3. Giriş gücü, çıkış gücünden daha büyük olmalıdır, çünkü modülün kendi güç tüketimi  
+
+
+
+Soru-Cevap:
+
+ 
+
+Q : Çıkış voltajı neden nominal voltajdan düşük?
+
+A : Giriş güç kaynağı gücü çok düşük. Giriş voltajını bir multimetre ile test edin, bu anda giriş voltajı çok düşük
+
+
+
+Paket İçeriği:
+
+
+
+1 x 7W Mini DC DC Boost Artırmak Dönüştürücü 2.6-5.5V - 5V 6V 9V 12V
+
+
+
+
+
+
+
+
+
+

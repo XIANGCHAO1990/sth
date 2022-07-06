@@ -1,0 +1,1257 @@
+https://tr.banggood.com/Hantek-2D82-AUTO-Digital-Oscilloscope-Multimeter-4-in1-2-Channels-80MHz-Signal-Source-Automotive-Diagnostic-250MSa-or-s-p-1561640.html?cur_warehouse=CN&ID=6281245&rmmds=CategoryToolsPop
+Hantek 2D82 OTO Dijital Osiloskop Multimetre 4&#39;ü 1 arada 2 Kanal 80MHz Sinyal Kaynağı Otomotiv Teşhis 250MSa/s
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikleri:
+
+
+
+Tamamen yeni bir el tipi osiloskop-Hantek2000 serisi, kompakt ve hafif konseptini sürdürüyor ancak yeni nesil 4'ü 1 arada çok işlevli test cihazı ile: Otomotiv Teşhisi, osiloskop, sinyal kaynağı ve multimetre; Tek elle küçük bir miktar kar amacı gütmeyen kavrama; Askı, çok açılı ayarı desteklemek üzere tasarlanmıştır; Ultra düşük güç, Tip C şarj arayüzü, her 2 saatlik pil şarjı, bir tam gün çalışmaya veya iki ay beklemeye izin verir; Yüksek çözünürlüklü renkli LCD ekran net ve hassas; Minimalist klavye tasarımı, işlemi basitleştirir, kullanımı kolaydır.
+
+
+
+80'den fazla araç testi çeşidiyle ve cihazın arkasındaki QR kodunu tarayarak, araçların nasıl test edileceğini göstermek için video yardım dosyalarını açabilir.
+
+
+
+· İlk test projeleri: emme manifoldu vakum derecesi ve ateşlemesi, lamba siyahı ayar valfi vakum derecesi ve ateşlemesi, egzoz ateşlemesi (rölanti), egzoz ateşlemesi (başlangıç).
+
+· Start & Charge: Şarj devresi, akım ve voltaj.
+
+· Aktüatör: Benzinli / Dizel.
+
+· Bus Algılama: CAN bus veri gözlemi, CAN bus sinyal bütünlüğü, CAN bus LH uzun vadeli edinim, LIN bus.
+
+· Sensörler: hava akış ölçer, eksantrik mili, krank mili, distribütör, lambda sensörü, gaz kelebeği konumu. . .
+
+· Ateşleme: Birincil/İkincil.
+
+· Osiloskop: 2 kanallı osiloskop, 80MHz bant genişliği, 250M örnekleme hızı.
+
+· Multimetre işlevi: voltaj, akım, direnç, diyot, kapasitör, açma-kapama testi;
+
+· Dalga biçimi üreteci çıkış işlevi: çıkış sinüsü, kare, üçgen, yamuk ve diğer dalga biçimleri; 25MHz'e kadar sinüs;
+
+
+
+
+
+modeli
+
+Hantek2D82OTOMATİK
+
+
+
+ Araç Test Modu
+
+
+
+Araç Teşhisi
+
+Araç Teşhis Fonksiyonu
+
+Ateşleme
+
+Birincil Ateşleme (Voltaj)
+
+
+
+Birincil Ateşleme (akım)
+
+
+
+Birincil Ateşleme (Gerilim ve Akım)
+
+
+
+Birincil Ateşleme (Krank Mili Sensörü)
+
+
+
+Birincil Ateşleme ve İkincil Ateşleme
+
+
+
+İkincil
+
+İkincil Ateşleme Dağıtıcı Tip (Fiş Kablosu)
+
+
+
+İkincil Ateşleme Dağıtıcı Tip (King Lead)
+
+
+
+İkincil DIS (Pozitif ateşlemeli)
+
+
+
+İkincil DIS veya CPC (Negatif ateşlemeli))
+
+
+
+İkincil Bobin Çıkışı Teşhisi
+
+
+
+İkincil Ateşleme ve Birincil Ateşleme
+
+
+
+Sensörler
+
+Hava Akış Ölçer
+
+Hava Akış Ölçer (Sıcak Tel)
+
+
+
+Hava Akış Ölçer (Hava Kanadı)
+
+
+
+Hava Akış Sensörü (B'OSCH Dizel)
+
+
+
+Hava Emme Basıncı Sensörü (B'OSCH Dizel)
+
+
+
+eksantrik mili
+
+Eksantrik Mili (Endüktif)
+
+
+
+Eksantrik Mili (AC Heyecanlı)
+
+
+
+Eksantrik Mili (Hall Etkisi)
+
+
+
+Eksantrik Mili (B'OSCH Common Rail Dizel)
+
+
+
+krank mili
+
+Krank Mili Endüktif Çalışma
+
+
+
+Krank Mili Endüktif Marş
+
+
+
+Krank Mili Hall Etkisi
+
+
+
+Krank Mili Sensör & Birincil Ateşleme
+
+
+
+Distribütör
+
+Distribütör Alımı (Hall Etkisi)
+
+
+
+Distribütör Endüktif Pick-up Kranklama
+
+
+
+Distribütör Endüktif Toplama Koşusu
+
+
+
+Lambda Sensörleri
+
+Lambda Sensör Titanya
+
+
+
+Lambda Sensör Zirkonya
+
+
+
+Lambda Sensör Zirkonya Ön ve Son kedi
+
+
+
+gaz kelebeği konumu
+
+Gaz Kelebeği Konum Potansiyometresi
+
+
+
+Gaz Kelebeği Konum Anahtarı
+
+
+
+Gaz Pedalı Anahtarı (B'OSCH Dizel)
+
+
+
+ABS Dijital Hız Sensör
+
+
+
+ABS Analog Hız Sensör
+
+
+
+Soğutma Suyu Sıcaklığı (5V)
+
+
+
+Soğutma Suyu Sıcaklığı (GM/Vauxhall Simtec
+
+
+
+Kilitlenme Sensör
+
+
+
+HARİTA Analog
+
+
+
+HARİTA Dijital
+
+
+
+Hall Etkisi Yol Hızı Sensör
+
+
+
+Gaz Pedalı (B'OSCH Dizel)
+
+
+
+Otobüs Teşhisi
+
+CAN Otobüsü
+
+CAN Bus Veri Görünümü
+
+
+
+CAN Bus Sinyal Bütünlüğü
+
+
+
+CAN Bus LH Uzun Yakalama
+
+
+
+LIN-otobüs
+
+LINBus
+
+
+
+Motor
+
+Benzin
+
+Tek Nokta Enjektör (Voltaj)
+
+
+
+Tek Nokta Enjektör (Akım)
+
+
+
+Çok Noktalı Enjektör (Voltaj)
+
+
+
+Çok Noktalı Enjektör (Akım)
+
+
+
+Enjektör Voltajı ve Akımı
+
+
+
+Enjektör Akımı ve Birincil Ateşleme
+
+
+
+Dizel
+
+Common Rail Dizel (Mevcut)
+
+
+
+Enjektör B'OSCH CDi 3 (Akım)
+
+
+
+Enjektör B'OSCH Dizel (Rölantide)
+
+
+
+Enjektör B'OSCH Dizel (Hızlanır)
+
+
+
+
+
+Dizel Kızdırma Bujileri
+
+
+
+Elektronik Yakıt Pompa
+
+
+
+Karbon Bidon Solenoid Valfı
+
+
+
+ERG Devridaim Solenoid Valfı
+
+
+
+Adım Motor Örnek 1
+
+
+
+Adım Motor Örnek 2
+
+
+
+Rölanti Hız Kontrol Vanası (Döner)
+
+
+
+Rölanti Hız Kontrol Vanası (Elektromagmetik)
+
+
+
+Gaz Kelebeği Servomotoru (Rölantide)
+
+
+
+Gaz Kelebeği Servomotoru (Hızlanır)
+
+
+
+B'OSCH CDi3 Miktar Kontrol Vanası
+
+
+
+B'OSCH CDi3 Basınç Regülatör Vanası
+
+
+
+Değişken Hızlı Soğutma Fanı Açık
+
+
+
+Değişken Hızlı Soğutma Fanı Kapalı
+
+
+
+Değişken Eksantrik Mili Valf Zamanlaması
+
+
+
+Başlatma ve Şarj
+
+Şarj Devreleri
+
+Şarj Devreleri Akım/Voltaj
+
+
+
+Şarj Devreleri Akım/Voltaj Başlangıç 24V
+
+
+
+Şarj Devreleri Akım/Voltaj Rölantide 24V
+
+
+
+Şarj Devreleri Alternatör AC Dalgalanma/Diyot Teşhisi
+
+
+
+
+
+Bağıl Sıkıştırma Benzin
+
+
+
+Bağıl Sıkıştırma Dizel
+
+
+
+Başlangıç Gerilimi Düşüşü
+
+
+
+Osiloskop Modu
+
+
+
+Bant genişliği
+
+80MHz
+
+
+
+Kanal
+
+2CH+DMM+AWG
+
+
+
+
+
+Yatay
+
+
+
+Örnek Hız Aralığı
+
+250MSa/s(Tek kanal), 125MSa/s(Çift kanal)
+
+
+
+Dalga Formu İnterpolasyonu
+
+(günah x)/x
+
+
+
+Uzunluk rekoru
+
+Çift kanal başına 3K örnek
+
+
+
+SEC/DIV Aralığı
+
+5ns/div~500s/div 1, 2, 5 dizisi
+
+
+
+Dikey
+
+
+
+A/D Dönüştürücü
+
+8 bit çözünürlük, her kanal aynı anda örneklenir
+
+
+
+VOLT/DIV Aralığı
+
+10mV/div~10V/divat girişi BNC
+
+
+
+Bant Genişliği Sınırı, tipik
+
+20MHz
+
+
+
+
+
+Düşük Frekans Tepkisi (-3db)
+
+BNC'de ≤10Hz
+
+
+
+BNC'de Yükselme Süresi, tipik
+
+≤5ns
+
+
+
+DC Kazanç Doğruluğu
+
+Normal veya Ortalama edinme modu için ±%3, 10V/div ila 10mV/div
+
+
+
+Not: 1X prob kullanılırken bant genişliği 6 MHz'e düşürüldü.
+
+
+
+Kazanma
+
+
+
+Edinme Modları
+
+Normal
+
+
+
+Tetiklemek
+
+
+
+Tip
+
+Köşe
+
+
+
+mod
+
+Otomatik, Normal, tek
+
+
+
+Seviye
+
+Ekranın ortasından ±4 bölüm
+
+
+
+Tetikleme Seviyesi Doğruluğu
+
+Ekranın ortasından ±4 bölüm içinde 0,2div × volt/div   
+
+
+
+Eğim
+
+Yükselen, Düşen, Yükselen ve Düşen
+
+
+
+Kaynak
+
+CH1/CH2
+
+
+
+Giriş
+
+
+
+kaplin
+
+DC, AC veya GND
+
+
+
+Giriş Empedansı, 
+
+25pF±3 pF, 1MΩ±2%
+
+
+
+DC bağlantılı
+
+
+
+Prob Zayıflaması
+
+1X, 10X
+
+
+
+Desteklenen Probe Zayıflatma Faktörleri
+
+1X, 10X, 100X, 1000X
+
+
+
+Maksimum Giriş Voltajı
+
+150VRMS
+
+
+
+Ölçüm
+
+
+
+imleç
+
+İmleçler arasındaki voltaj farkı: △V
+
+
+
+İmleçler arasındaki zaman farkı: △T
+
+
+
+Otomatik Ölçümler
+
+Frekans, Genlik
+
+
+
+Keyfi Dalga Formu Üretici Modu
+
+
+
+Dalga Formu Frekansı
+
+Sinüs: 1Hz~25MHz
+
+
+
+Kare: 1Hz~10MHz
+
+
+
+Rampa: 1Hz~1MHz
+
+
+
+EXP: 1Hz~5MHz
+
+
+
+Örnekleme
+
+250MSa/s
+
+
+
+Genlik
+
+2.5Vpp(50Ω)
+
+
+
+5Vpp (Yüksek empedans)
+
+
+
+Frekans Çözünürlüğü
+
+0.001
+
+
+
+Kanal
+
+1CH dalga formu çıkışı
+
+
+
+Dalga Formu Derinliği
+
+512Sa
+
+
+
+Dikey Çözünürlük
+
+12 bit
+
+
+
+Frekans Kararlılığı
+
+<30ppm
+
+
+
+Çıkış empedansı
+
+50 Ω
+
+
+
+DMM Test Modları
+
+
+
+Maksimum Çözünürlük
+
+4000 Counts
+
+
+
+DMM Test Modları
+
+Gerilim,Akım,Direnç,Kapasitans,Diyot &Açık kapalı
+
+
+
+Maksimum Giriş Voltajı
+
+AC:600V, DC: 800V
+
+
+
+Maksimum Giriş Akımı
+
+AC: 10A, DC:10A
+
+
+
+Giriş Empedansı
+
+10MΩ
+
+
+
+Ölçüm Terimi
+
+Menzil
+
+Kesinlik
+
+Çözünürlük
+
+
+
+DC gerilimi
+
+400.00mV
+
+± (%0,8 + 5)
+
+100uV
+
+
+
+4.000V
+
+1mV
+
+
+
+40.00V
+
+10mV
+
+
+
+400.0V
+
+100mV
+
+
+
+600.0V
+
+± (%1 + 2)
+
+1V
+
+
+
+Aşırı yük koruması: 400mV: 250V, diğer: 600Vrms.
+
+
+
+Alternatif akım voltajı
+
+4.000V
+
+± (%1.2 + 5)
+
+1mV
+
+
+
+40.00V
+
+10mV
+
+
+
+400.0V
+
+100mV
+
+
+
+600.0V
+
+±(%1.5 + 5)
+
+1V
+
+
+
+Frekans: 40Hz~400Hz;
+
+
+
+400V ve 600V frekansı: 40Hz~100Hz
+
+
+
+DC Akımı
+
+40.00mA
+
+± (%1 + 2)
+
+10uA
+
+
+
+200.0mA
+
+± (%1.5 + 2)
+
+100uA
+
+
+
+4.000A
+
+± (%1.8 + 2)
+
+1mA
+
+
+
+10.00A
+
+± (%3 + 2)
+
+10mA
+
+
+
+Aşırı yükleme koruması: 
+
+
+
+kendini onaran sigorta: 200mA/250V, 4A ve 10A serisi sigortasız.
+
+
+
+AC akım
+
+40.00mA
+
+± (%1.3 + 2)
+
+10uA
+
+
+
+400.0mA
+
+± (%1.8 + 2)
+
+100uA
+
+
+
+4.000A
+
+± (%2 + 3)
+
+1mA
+
+
+
+10.00A
+
+± (%3 + 5)
+
+10mA
+
+
+
+Frekans: 40Hz~400Hz;
+
+
+
+kendini onaran sigorta: 200mA/250V, 4A ve 10A serisi sigortasız.
+
+
+
+Direnç
+
+400.0Ω
+
+±(1% + 3)
+
+0.1Ω
+
+
+
+4.000KΩ
+
+±(%1.2 + 5)
+
+1Ω
+
+
+
+60.00KΩ
+
+10Ω
+
+
+
+400.0KΩ
+
+100Ω
+
+
+
+4.000MΩ
+
+1KΩ
+
+
+
+40.00MΩ
+
+± (%1.5±3)
+
+10KΩ
+
+
+
+Aşırı yük koruması: 220Vrms
+
+
+
+kapasitans
+
+40.00nF
+
+±(3% + 5)
+
+10pF
+
+
+
+400.0nF
+
+100pF
+
+
+
+4.000uF
+
+1nF
+
+
+
+40.00uF
+
+10nF
+
+
+
+100.0uF
+
+100nF
+
+
+
+Aşırı yük koruması: 220Vrms
+
+
+
+Diyot
+
+0V~2.0V
+
+
+
+Açık kapalı
+
+<50Ω
+
+
+
+Genel Özellikler
+
+
+
+Görüntülemek
+
+
+
+Ekran Tip
+
+2,8 inç 64K renkli TFT
+
+
+
+Ekran çözünürlüğü
+
+320 yatay x 240 dikey piksel
+
+
+
+Ekran Kontrastı
+
+Ayarlanabilir
+
+
+
+Güç kaynağı
+
+
+
+Besleme gerilimi
+
+100V-240VAC, 50Hz-60Hz; DC GİRİŞ: 5VDC, 2A
+
+
+
+Güç tüketimi
+
+<2,5W
+
+
+
+Sigorta
+
+3A
+
+
+
+pil
+
+2600mA*2
+
+
+
+çevre
+
+
+
+Çalışma sıcaklığı
+
+0~50 °C (32~122 °F)
+
+
+
+Depolama sıcaklığı
+
+-40~+71 °C (-40~159,8 °F)
+
+
+
+Nem
+
+≤+104°(≤+40°C): ≤90% bağıl nem
+
+
+
+106°~122° (+41°C ~50°C): ≤60% bağıl nem
+
+
+
+Soğutma yöntemi
+
+Konveksiyon
+
+
+
+Rakım
+
+İşletim ve
+
+3.000 m (10.000 fit)
+
+
+
+çalışmıyor
+
+
+
+Mekanik şok
+
+Rastgele Titreşim
+
+50Hz'den 500Hz'e 0.31gRMS, her eksende 10 dakika
+
+
+
+çalışmıyor
+
+5Hz'den 500Hz'e 2.46gRMS, her eksende 10 dakika
+
+
+
+İşletme
+
+50g, 11ms, yarım sinüs
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,184 @@
+74110
+https://imgaz1.staticbg.com/thumb/large/upload/2012/jiangjunchao/SKU075676o.JPG
+Geekcreit® 5V 8 Canali Scheda Relè Modulo per Arduino PIC AVR DSP ARM
+https://it.banggood.com/5V-8-Channel-Relay-Module-Board-PIC-AVR-DSP-ARM-p-74110.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+
+Questo è 5V scheda modulo relè 8 canali per Arduino PIC AVR DSP ARM
+Questo modulo relè è 5V basso attivo.
+È una scheda di interfaccia a 8 canali che può essere controllata direttamente da una vasta gamma di microcontrollori come Arduino, AVR, PIC, ARM, PLC, ecc.
+Inoltre è in grado di controllare vari apparecchi e altre apparecchiature con grande corrente.
+Il contatto massimo di uscita del relè è AC250V 10A e DC30V 10A.
+L'interfaccia standard può essere collegata direttamente con i microcontrollori.
+Le luci rosse di stato di funzionamento contribuente all'utilizzo sicuro.
+Ampiamente utilizzato per tutto il controllo MCU, settore industriale, controllo PLC, controllo intelligente casa.
+
+Funzione:
+
+Supporta tutto il controllo microcomputer a chip singolo
+Cerchio industriale
+PLC controllore
+Controllo intelligente delle famiglie
+
+Specifiche tecniche:
+
+Tensione di esercizio: 5V
+Canale: 8 canali
+Dimensione dell'articolo: 13.4x5.3x1.7cm / 5.28x2.09x0.67pollici
+Peso dell'articolo: 116g / 4.11oz
+Peso della confezione: 118g / 4.17oz
+
+La confezione include:
+
+1 x 8 canali modulo relè 
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,
+
+

@@ -1,0 +1,361 @@
+1862498
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/BD/A4/441df3bd-a65c-4311-afda-2be2e10a23d4.jpg
+ESCAM WNK614 8CH 3MP Wireless Dome Camera CCTV Security System NVR Kit Two Way Audio Dual Light Motion Sensor Detection IP Camera
+https://www.banggood.com/ESCAM-WNK614-8CH-3MP-Wireless-Dome-Camera-CCTV-Security-System-NVR-Kit-Two-Way-Audio-Dual-Light-Motion-Sensor-Detection-IP-Camera-p-1862498.html?cur_warehouse=USA&ID=47757&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Features:﻿APP: EseeCloud1. Support H.265 video compression format2. 8ch wireless NVR+4ch 3MP high-definition dome camera（If you need to add more cameras, please >>>Click here<<<）3. Three kinds of intelligent full-color night vision with dual light sources3. Support two-way voice4. 7 days free recurring cloud storage5. Maximum support 1 bay 6TB hard drive6. Support motion sensor detection alarm push video7. Support mobile APP remote monitoring﻿Specification:* 3.0MP wireless network hard disk video recorder;* Built-in security dedicated wireless WIFI module, stable signal and strong anti-interference ability;* No need for WIFI pairing, the image will be displayed when the box is powered on;* Wired and wireless mixed use, adapt to various scenarios;* P2P EseeCloud (APP: EseeCloud), remote connection in seconds, smooth and stable picture;* Support multiple alarm triggers (video loss/motion detections, etc.) and alarm output (voice/E-Mail/FTP, etc.);* Support Android/Apple mobile phone (or tablet) remote (LAN and Internet) access and control. 
+
+
+
+
+Wireless NVR
+
+
+operating system
+Embedded Linux real-time operating system
+
+
+Video and audio input
+Network video input
+8 channels
+
+
+Video and audio output
+HDMI output
+1 channel, resolution: 1024x768, 1280x1024, 1366x768, 1440x900, 1920x1080p, support audio output
+
+
+VGA output
+1 channel, resolution: 1024x768, 1280x1024, 1366x768,1440x900, 1920x1080p
+
+
+Video and audio codec parameters
+Video resolution
+D1/960H/720P/960P/1080P/3MP
+
+
+Synchronous playback
+4 channels
+
+
+Video 
+Video/capture mode
+Manual recording, timing recording, motion detections recording, alarm recording
+
+
+Playback mode
+Instant playback, regular playback, event playback
+
+
+Backup mode
+Regular backup
+
+
+Storage 
+Cloud storage
+7 days free recurring storage
+
+
+Hard disk interface type
+1 SATA interface
+
+
+Maximum hard disk capacity
+Hard drive up to 6TB
+
+
+External interface
+Network Interface
+1, RJ45 10M/100M adaptive Ethernet port
+
+
+USB interface
+1 USB
+
+
+audio port
+A 3.5mm headphone port
+
+
+Network
+Network protocol
+UPnP (plug and play), SMTP (mail service), PPPoE (dial-up Internet access), DHCP (automatically obtain an IP address), etc.
+
+
+
+
+other
+power supply
+DC 12V 2A
+
+
+Power consumption (without hard disk)
+≤5W
+
+
+Operating temperature
+-10℃--＋55℃
+
+
+Working humidity
+10%--90%
+
+
+Weight (without hard disk)
+≤1Kg
+
+
+size
+255×220×42mm
+
+
+Wireless IPC
+
+
+Pixel
+3MP
+
+
+Image Sensor
+1/2.7” CMOS Sensor, color: 0.1 Lux, black/white: 0.01 Lux
+
+
+Lens
+4mm
+
+
+Video processing
+H.264/H.265 video encoding, support dual stream
+
+
+Image output
+Main stream: 2304*1296@15fps; Sub stream: 640x360@15fps
+
+
+shutter
+Automatic shutter
+
+
+Noise reduction
+Support 2D/3D noise reduction
+
+
+Wide dynamic
+Support digital wide dynamic
+
+
+Day and night mode
+IR-CUT infrared filter type support infrared / full color / smart   3 modes
+
+
+Image flip
+Support horizontal and vertical flip
+
+
+Audio processing
+G.711 codec standard, support audio and video synchronization
+
+
+audio port
+1 input, level 2Vp-p, impedance 1kΩ, support MIC/pickup input; 1 output, impedance 8Ω, 1W output power, support direct speakers
+
+
+Wired network
+1 RJ45 Ethernet interface, 10/100M adaptive; support RTSP/FTP/PPPOE/DHCP/DDNS/NTP/UPnP and other network protocols
+
+
+wireless network
+802.11b/g/n
+
+
+IR signal interface
+1 photoresistor interface, 1 IR-CUT drive interface, support dual light source lamp panel control (dual IO control, no lamp panel MCU)
+
+
+Yuntai
+350° left and right, 90° up and down
+
+
+Reset button interface
+stand by
+
+
+SD card slot
+Max support 128G
+
+
+Features
+Motion detections; push alarm information; support remote monitoring of mobile phones and clients
+
+
+Night vision
+4 IR light + 4 white light
+
+
+power supply
+DC 12V 1A
+
+
+weight
+0.65kg
+
+
+size
+156x91x130mm
+
+
+Package information
+Weight
+3.25kg
+
+
+Size
+320x332x170mm
+
+
+Packing list
+8CH WIFI NVR*1, WIFI camera*4, NVR power adapter*1,camera power adapter*4, manual*1, mouse*1, screw pack*4, network cable*1
+
+
+
+Package Included:﻿1 x Wireless NVR4 x WIFI IP Camera1 x Mouse5 x 12v 2A NVR Power Adapter1 x 1m Network Cable4 x Screws Kit1 X Quick Start Guide
+
+
+
+
+

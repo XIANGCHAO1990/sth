@@ -1,0 +1,353 @@
+https://www.banggood.com/Hantek-DSO5202P-Digital-Oscilloscope-200MHz-Bandwidth-2-Channels-1GSa-or-s-7inch-TFT-LCD-PC-USB-Portable-Oscilloscope-Electrical-Tool-p-1259357.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+Hantek DSO5202P Digital Oscilloscope 200MHz Bandwidth 2 Channels 1GSa/s 7inch TFT LCD PC USB Portable Oscilloscope Electrical Tool
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Features:
+
+	200M bandwidths.
+
+1GSa/s Real Time sample rate.
+
+Large (7.0-inch) color display,WVGA(800x480).
+
+Trigger mode: edge/pulse width/line selectable video/slop/overtime etc.
+
+USB host and device connectivity, standard.
+
+Multiple automatic measurements.
+
+Four math functions, including FFTs standard.
+
+Provides software for PC real-time analysis.
+
+Specification:
+
+
+
+
+
+Model
+
+DSO5202P
+
+DSO5102P
+
+DSO5072P
+
+
+
+Bandwidth
+
+200MHz
+
+100MHz
+
+70MHz
+
+
+
+Channel
+
+2
+
+
+
+Real-Time Sample
+
+1GSa/s
+
+
+
+Equivalent Sample
+
+25GSa/s
+
+
+
+Memory Depth
+40IK
+
+
+
+Rise Time
+
+1.7ns
+
+3.5ns
+
+5ns
+
+
+
+Time Base Accuracy
+
+50ppm
+
+
+
+Time Base Range
+
+2ns/div-40s/div
+
+4ns/div-40s/div
+
+
+
+Input Impendance
+
+1M
+
+
+
+VOLTS/DIV Range
+
+2mV/div-5V/div
+
+
+
+A/D Converter
+
+8 bit
+
+
+
+Position Range
+
+50V(5V/div), 40V(2V/div-500mV/div),
+					2V(200mV/div-50mV/div), 400mV(20mV/div-2mV/div)
+
+
+
+DC Gain Accuracy
+
+3% for Normal or Average acquisition mode, 5V/div to 10mV/div;
+					4% for Normal or Average acquisition mode, 5mV/div to 2mV/div
+
+
+
+Bandwidth Limit
+
+200MHz
+
+
+
+Trigger Types
+
+Edge, Video, Pulse, Slope, Over time, Alternative
+
+
+
+Trigger Source
+
+CH1, CH2, EXT, EXT/5, AC Line
+
+
+
+Math
+
++, -, x, ÷, FFT
+
+
+
+Cursor Measurement
+
+Voltage difference between cursors: V;
+					Time difference between cursors: T;
+					Reciprocal of T in Hertz (1/T);
+
+
+
+Auto Measurement
+
+Frequency, Period, Mean, Pk-Pk, Cycli RMS, Minimum, Maximum, Rise time, Fall Time, +Pulse Width, -Pulse Width, Delay1-2Rise, Delay1-2Fall, +Duty, -Duty, Vbase, Vtop, Vmid, Vamp, Overshoot, Preshoot, Preiod Mean, Preiod RMS, FOVShoot, RPREShoot, BWIDTH, FRF
+
+
+
+Display
+
+7" TFT 16K Color LCD, 800*480 dots
+
+
+
+Size
+
+313mm x 108mm x 142mm
+
+
+
+Weight
+
+2.08KG
+
+
+
+Standard Probe
+
+PP200 x 2
+
+PP150 x 2
+
+PP80 x 2
+
+
+
+
+
+Package Included:
+
+
+1 x Hantek DSO5202P Oscilloscope Host
+
+2 x Connecting Lines
+
+1 x USB Cable
+
+1 x Installation CD
+
+1 x Power Cable
+
+1 x Original box
+
+
+
+	 
+
+
+
+
+

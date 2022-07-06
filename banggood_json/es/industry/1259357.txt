@@ -1,0 +1,355 @@
+1259357
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/A1/FA/95d7f5ca-1800-4032-84e1-3aab5a5e5e98.jpg
+Hantek DSO5202P Digital Osciloscopio 200MHz Ancho de banda 2 canales 1GSa / s 7 pulgadas TFT LCD PC USB Portátil Osciloscopio Eléctrico herramienta
+https://es.banggood.com/Hantek-DSO5202P-Digital-Oscilloscope-200MHz-Bandwidth-2-Channels-1GSa-or-s-7inch-TFT-LCD-PC-USB-Portable-Oscilloscope-Electrical-Tool-p-1259357.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características:
+
+	200M de ancho de banda.
+
+1GSa / s Real Frecuencia de muestreo de tiempo.
+
+Pantalla a color de gran tamaño (7,0 pulgadas), WVGA (800x480).
+
+Modo de disparo: borde / ancho de pulso / línea de video seleccionable / pendiente / horas extra, etc.
+
+Conectividad de dispositivo y host USB, estándar.
+
+Varias medidas automáticas.
+
+Cuatro funciones matemáticas, incluido el estándar FFT.
+
+Proporciona software para análisis de PC en tiempo real.
+
+Especificación:
+
+
+
+
+
+Modelo
+
+DSO5202P
+
+DSO5102P
+
+DSO5072P
+
+
+
+Banda ancha
+
+200MHz
+
+100MHz
+
+70MHz
+
+
+
+Canal
+
+2
+
+
+
+Muestra en tiempo real
+
+1GSa/s
+
+
+
+Muestra equivalente
+
+25GSa/s
+
+
+
+Profundidad de memoria
+40IK
+
+
+
+Hora de levantarse
+
+1.7ns
+
+3.5ns
+
+5ns
+
+
+
+Precisión de la base de tiempo
+
+50ppm
+
+
+
+Rango de base de tiempo
+
+2ns / div-40s / div
+
+4ns / div-40s / div
+
+
+
+Impedancia de entrada
+
+1M
+
+
+
+Rango de VOLTIOS / DIV
+
+2mV / div-5V / div
+
+
+
+Convertidor A / D
+
+8 bit
+
+
+
+Rango de posición
+
+50V (5V / div), 40V (2V / div-500mV / div),
+					2V (200mV / div-50mV / div), 400mV (20mV / div-2mV / div)
+
+
+
+Precisión de ganancia de CC
+
+3% para el modo de adquisición Normal o Promedio, 5V / div a 10mV / div;
+					4% para el modo de adquisición normal o promedio, 5 mV / div a 2 mV / div
+
+
+
+Límite de ancho de banda
+
+200MHz
+
+
+
+Tipos de disparadores
+
+Borde, vídeo, pulso, pendiente, en el tiempo, alternativa
+
+
+
+Fuente de activación
+
+CH1, CH2, EXT, EXT / 5, Línea AC
+
+
+
+Matemáticas
+
++, -, x, ÷, FFT
+
+
+
+Medición del cursor
+
+Diferencia de voltaje entre cursores: V;
+					Diferencia de tiempo entre cursores: T;
+					Recíproco de T en Hertz (1 / T);
+
+
+
+Medición automática
+
+Frecuencia, Periodo, Media, Pk-Pk, Cycli RMS, Mínimo, Máximo, Tiempo de subida, Tiempo de caída, + Ancho de pulso, -Ancho de pulso, Delay1-2Rise, Delay1-2Fall, + Duty, -Duty, Vbase, Vtop, Vmid , Vamp, Overshoot, Preshoot, Preiod Mean, Preiod RMS, FOVShoot, RPREShoot, BWIDTH, FRF
+
+
+
+Mostrar
+
+7 "TFT LCD en color de 16K, 800 * 480 puntos
+
+
+
+Tamaño
+
+313mm x 108mm x 142mm
+
+
+
+Peso
+
+2.08KG
+
+
+
+Sonda estándar
+
+PP200 x 2
+
+PP150 x 2
+
+PP80 x 2
+
+
+
+
+
+El paquete incluye:
+
+
+1 x Hantek DSO5202P Osciloscopio Anfitrión
+
+2 x líneas de conexión
+
+1 x cable USB
+
+1 x CD de instalación
+
+1 x cable de alimentación
+
+1 x caja original
+
+
+
+
+
+
+
+
+

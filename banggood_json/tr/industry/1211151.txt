@@ -1,0 +1,190 @@
+1211151
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/69/39/9f6bc43a-4152-4ebf-bdc3-568231e69ff4.jpg
+Orijinal JYETech Montajlı DSO-SHELL DSO150 Dijital Osiloskop Modülü 9V
+https://tr.banggood.com/Original-JYETech-Assembled-DSO-SHELL-DSO150-Digital-Oscilloscope-Module-9V-p-1211151.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DSO Shell (DSO150) Osiloskop:
+
+1. DSO Shell, yapı, mekanik ve işletimde önemli iyileştirmeler içermesine rağmen, DSO138 ile benzer bir bant anahtarına sahiptir.
+2. Ekran ve MCU, kartlar arası pin başlıklarını kullanmaktan kaçınmak için artık aynı karta (ana kart) monte edilmiştir. DSO138 usres'ten alınan geri bildirimler, pin başlıklarının lehimlenmesinin çoğu yeni başlayanlar için genellikle sorunlu olduğunu göstermiştir. Analog kanal, çoğu kullanıcı kurulum parçasını içeren ayrı bir kart üzerine yerleştirilir. Bu, analog ve dijital devreler arasında daha iyi ayrım sağlar. Analog kısım olmadan, anakart aslında diğer birçok uygulamada kullanılabilen genel amaçlı bir kontrol panosudur. Anakart tam olarak takılmıştır (birkaç sabit bileşen hariç) ve paketlemeden önce fabrikada test edilmiştir.
+3. DSO Kabuğu tam muhafaza ile birlikte gelir. Ön panel ve üst / alt braketler, kolay kullanıcı değişikliği için esnektir.
+4. Döner kodlayıcı eklendi. Parametre ayarını çok daha hızlı ve kolay hale getirir.
+5. DSO Kabuğunun hassasiyeti her iki yönde de genişletilmiştir ve DSO138'den daha yüksek ve daha geniştir. DSO138 sadece 10mV / div --- 5V / div iken, 5mV / div --- 20V / div'e ulaşır.
+6. DSO Shell, 9V (10V'dan yüksek güç voltajı kullanmayın!) Güç kaynağı ile çalışır. Kitlere dahil olmadığından, kullanıcıların kendi güç kaynaklarını hazırlamaları gerekir. Anakart üzerindeki güç jakı, standart 5.5mm / 2.1mm DC fişi kabul eder. Farklı güç kaynaklarına bağlantı kolaylığı sağlamak için alternatif 2 pimli konektör (0,1 "aralık) da sağlanmıştır.
+
+Göstergelerin özellikleri:
+
+Kanal sayısı: 1
+Analog bant genişliği: 0 - 200KHz
+Hassasiyet: 5mV / Div - 20V / Div
+Hassasiyet hatası: <% 5
+Çözünürlük: 12 bit
+Giriş Empedansı: 1M ohm
+Maksimum giriş voltajı: 50Vpk
+Kaplin: DC, AC, GND
+Maksimum gerçek zamanlı örnekleme hızı: 1Msps
+Zaman tabanı: 10us / Div - 500s / Div
+Kayıt uzunluğu: 1024
+Tetikleme modları: Otomatik, Normal, Tek
+Tetik türleri: Yükselen / düşen kenar
+Tetik konumu: Numara tamponun 1 / 2'si sabit
+320 x 240 çözünürlüklü 2,4 inç renkli TFT LCD
+Güç kaynağı: 9V DC (lütfen güç kaynağının 9V olduğundan emin olun, 9V'den düşük veya yüksek olması sorunlara neden olur.)
+Besleme akımı: 120mA @ 9V
+Boyut: 115mm x 75mm x 22mm
+Ağırlık: 100 gram (kablolar ve güç kaynağı dahil değil)
+
+Güncelleme bilgileri: Bileşen aksesuarları ve PCB kartı bir dizi değişiklik yaptı (Şimdi, 109-15001-00E)
+Firmwares: Click to open
+Users Manual: Click to open
+Mainboard Schematic: Click to open
+Analog board Schematic: Click to open
+How to Use the DSO150 Library: Click to open
+Source codes: Click to open
+FAQ, Tips, and Troubleshooting: Click to open
+
+Paket şunları içerir:
+
+1 x Birleştirilmiş DSO150 Dijital Osiloskop
+1 x EN Talimatı
+
+
+
+
+
+

@@ -1,0 +1,143 @@
+https://pt.banggood.com/Ultra-thin-50KHz-200MHz-Malahit-SDR-Receiver-Malachite-DSP-Software-Defined-Radio-3_5-inch-Display-Battery-Inside-Nice-Sound-Black-400MHz~2GHz-p-1789700.html?cur_warehouse=CN&ID=6303140&rmmds=CategoryToolsPop
+Ultra-thin 50KHz-200MHz Malahit SDR Receiver Malachite DSP Software Defined Radio 3.5" Display Battery Inside Nice Sound - Black 400MHz~2GHz
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Por favor, observe antes da compra:1. A versão do software deste produto é 1.10a ；2. Vendemos apenas o hardware, este produto não inclui serviço de atualização de software de acompanhamento (não é possível atualizar para 1.10b).Vantagens:1. Tela capacitiva de 3,5 polegadas2. Ultrafino e leve3. Adote uma unidade de som, 2 câmaras vibratórias, o alto-falante vem com uma câmara de som, a qualidade do som dos graves é muito grandeRecursos:- Receptor DSP SDR para Malahit- Capacitivo tela sensível ao toque- Flash via cabo USB- Faixa de frequência padrão: 50 KHz-200 MHz, 400 MHz ~ 2 GHz (opcional)- Modo de demodulação: AM, SSB, NFM, WFMEspecificação:1) O rádio é construído com base no princípio do SDR - a função é determinada pelo software carregado;2) Faixa de freqüência: de 50 kHz a 200 MHz (versão padrão), os usuários podem entrar em contato com o site oficial para atualizar de 50 kHz para 250 MHz, 400 MHz para 2 GHz;3) Todos os tipos de modulação analógica: AM, SSB, NFM, WFM;4) Funções poderosas: largura de filtro variável, supressor de ruído adaptativo, supressor de limite de ruído, para Noise Blanker, AGC, equalizador;5) Use o chip msi001 barato, mas totalmente funcional;6) O poderoso stm32h743 com uma freqüência de clock de 480 MHz é aplicado;7) Tela sensível ao toque IPS de 3,5 polegadas;8) Há um UHF embutido;9) Controles: 2pcs; codificadores com botões e tela sensível ao toque;10) É alimentado por bateria embutida e USB, e possui gerenciamento de carregamento de bateria de lítio linear, que pode ser carregada por meio do TYPE-C. A capacidade da bateria embutida não é inferior a 2000mA / h.11) Consumo: 300mA ao ouvir fones de ouvido;12) A recepção no telescópio embutido ou antena externa é para melhorar a recepção de HF na antena telescópica, e uma placa adicional com seguidor de fonte foi desenvolvida. A placa será construída em um projeto de receptor padrão.13) Conecte ao computador via USB, que pode transferir CAT, IQ e áudio.14) span de 160 kHz, com escalabilidade;15) Sensibilidade: Na condição de até 250MHz, s / w é 0,3μV = 10dB; devido à falta de equipamento de medição, portanto, as medições acima não foram realizadas;16) Devido às características do chip msi001 usado, a faixa de bloqueio dinâmico é de cerca de 85dB.17) Com controle de luz de fundo;18) tomada de antena SMA fêmea;19) Tamanho da placa-mãe: 100 x 70mm (sem os tamanhos dos conectores).Incluído no Pacote:1 x receptor SDR1 x AntenaDetalhes da imagem:
+
+
+
+

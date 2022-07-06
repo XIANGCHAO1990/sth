@@ -1,0 +1,445 @@
+1326817
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/E9/BB/eb378a9a-9e6b-4405-97d6-c0fd165b4fa6.jpg
+Geekcreit® DIY Mini Tesla Coil Module Unassembled 15W DC 15-24V 2A Plasma Speaker Kit eletrônico
+https://pt.banggood.com/Geekcreit-DIY-Mini-Tesla-Coil-Module-Unassembled-15W-DC-15-24V-2A-Plasma-Speaker-Electronic-Kit-p-1326817.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: Este é um kit DIY, você precisa montá-lo.
+
+>>> Manual: Clique aqui para abrir <<<Característica:
+
+
+
+A bobina Tesla pode produzir plasma de alta temperatura e alta pressão, que pode cantar, acender, transmitir sem fio e acender uma lâmpada fluorescente. Tem um arco maravilhoso. É uma pequena produção de experimentos científicos muito interessante. Este é um kit de bobina DIY Tesla, que precisa ser soldado e montado por você mesmo.
+
+
+
+Parâmetros:
+
+
+
+1. Tamanho do PCB: 4,0 mm * 8,0 mm
+
+2. Potência: 15W
+
+3. Entrada de alimentação: DC 15-24V. A corrente é 2A. Interface / pino DC5.5
+
+4. Entrada de áudio: 3,5 soquete, pode ser conectado ao telefone celular, MP3, áudio do computador
+
+
+
+Introdução do princípio:
+
+
+
+Bobina de Tesla é um transformador que opera no princípio de ressonância. Foi inventado por Nicola Tesla, um cientista sérvio-americano em 1891. É usado principalmente para produzir voltagem ultra-alta, mas corrente alternada de baixa corrente e alta frequência. A bobina de Tesla é composta por dois grupos de circuitos ressonantes (às vezes três grupos) acoplados. A bobina de Tesla é difícil de definir e Nicola Tesla tentou um grande número de configurações de várias bobinas. A Tesla usa essas bobinas para realizar experimentos inovadores, como iluminação elétrica, espectro de fluorescência, raio X, fenômeno de corrente alternada de alta frequência, eletroterapia e transmissão de energia de rádio, transmitindo e recebendo sinais de rádio.
+
+
+
+Função Tesla:
+
+
+
+1. Função de arco elétrico: a travessia da extremidade traseira produzirá um arco. O arco também pode acender.
+
+2. Função de luz do septo: depois que a bobina de Tesla é elétrica, a lâmpada fluorescente pode ser iluminada separadamente.
+
+3. Função de reprodução de música: um novo conceito de alto-falante para um arco elétrico para estimular o ar para fazer a vibração do ar produzida pelo plasma. Você pode tocar música no celular / computador, mas o som é baixo.
+
+
+
+Etapas de instalação:
+
+
+
+Pontas:
+
+
+
+1. Instale os componentes pequenos primeiro;
+
+2. Instale componentes complexos preferencialmente;
+
+3. Preste atenção à direção de instalação dos componentes.
+
+4. Certifique-se de que o ferro de solda não toque nos componentes por muito tempo. Caso contrário, é fácil danificar os componentes.
+
+
+
+Observação:
+
+
+
+1. Este produto é seguro, a potência não é alta, não será ferido por choque elétrico, mas não é recomendado tocar na parte superior do arco da bobina, haverá uma sensação de queimadura.
+
+2. Não toque no dissipador de calor após um longo tempo de fornecimento de energia, a temperatura é muito alta, especialmente o uso de calor de alta tensão 24v enorme, se necessário, adicione seu próprio ventilador de refrigeração de refrigeração, ou as horas de trabalho levam a muito quente, por favor desligue por um período de tempo. Uso elétrico.
+
+3. A bobina Tesla é recomendada para funcionar quando o corpo ou outros objetos próximos à bobina, a bobina próxima a meio metro em branco não pode ser outros objetos, pois outros objetos como um bom condutor farão com que a bobina forme um bom laço, absorvendo a energia da bobina, fazendo os testadores puxarem a bobina neste momento, o efeito de demonstração ou deterioração não pode ser demonstrado!
+
+4. Não coloque telefones celulares, mp3 e outros equipamentos eletrônicos perto da bobina, ou a bobina irá produzir interferência de campo magnético de alta frequência, fazendo com que telefones celulares, mp3 e outros equipamentos falhem ou danifiquem!
+
+
+
+Observação:
+
+
+
+1. A cor real do item pode ser ligeiramente diferente das fotos mostradas no site causada por muitos fatores, como o brilho do monitor e o brilho da luz.
+
+2. Por favor, permita um ligeiro desvio para os dados de medição.
+
+3. Por favor, permita um erro de 1cm-2cm devido à medida das mãos.
+
+
+O pacote inclui:
+
+1 x kit de módulo de bobina tesla DIY
+
+
+
+
+
+NÃO.
+
+Nome do componente
+
+Marcador PCB
+
+Parâmetro
+
+QTY.
+
+
+
+1
+
+Resistor de filme de metal
+
+R1, R4
+
+10K
+
+2
+
+
+
+2
+
+Resistor de filme de metal
+
+R3, R5
+
+2K
+
+2
+
+
+
+3
+
+TIP41
+
+Q2
+
+/
+
+1
+
+
+
+4
+
+CONDUZIU
+
+CONDUZIU1, CONDUZIU2
+
+3mm
+
+2
+
+
+
+5
+
+Tomada de áudio
+
+J2
+
+/
+
+1
+
+
+
+6
+
+Capacitor eletrolítico
+
+1uf
+
+C1
+
+1
+
+
+
+7
+
+IRF530
+
+T1
+
+/
+
+1
+
+
+
+8
+
+Tomada de força
+
+J1
+
+5.0*2.1mm
+
+1
+
+
+
+9
+
+Bobina primária
+
+L1
+
+2-3T
+
+1
+
+
+
+10
+
+Bobina secundária
+
+L2
+
+350T
+
+1
+
+
+
+11
+
+Pilar de cobre
+
+/
+
+M3 * 10
+
+4
+
+
+
+12
+
+Parafuso
+
+/
+
+M3 * 6
+
+4
+
+
+
+13
+
+Dissipador de calor
+
+/
+
+/
+
+1
+
+
+
+14
+
+PCB
+
+/
+
+40*76mm
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,143 @@
+https://it.banggood.com/DLB-600W-200V-40A-18650-Lithium-Lead-acid-Battery-Capacity-Monitor-Electronic-Load-Power-Tester-Discharge-Meter-Car-Check-Tools-p-1937028.html?cur_warehouse=CN&ID=528374&rmmds=CategoryElectronicsPop
+DLB-600W 200V 40A 18650 Litio piombo-acido Batteria Monitor di capacità Tester di carica elettronico Misuratore di scarica Controllo auto Strumenti
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manuale utente e download APPModalità di download dei file e 150 W ~ 600 W (200 V e 3 mA ~ 25 A/30A/35 A/40 A)1, Manuale utente, istruzioni per l'installazione del software per PC e software per PC e collegamento per il download dell'APP Android: https://www.mediafire.com/folder/wnfpdnqfxscj2/DLB600W2, APP IOS: cerca E_test su 1 telefono APP st0re da scaricare3. APP Android: https://www.mediafire.com/file/0jiio43c0vuu1wx/U_Meter-Phone_mobile.apk/file4, 150 W/300 W/450 W/600 W (V*A --Parametro prodotto--Parametri elettriciTensione di prova: 2~200VCorrente di lavoro: 0,2 ~ 25 A a 30 A a 35 A a 40 ADL24-M Potenza di scarica: tensione * corrente < 150 W(La corrente di funzionamento effettiva è limitata dalla potenza massima, si prega di regolare la corrente secondo la legge del risparmio energetico)Le funzioni di protezione di sicurezza da sovracorrente, sovratemperatura e sovratensione integrate, se l'interfaccia di protezione viene visualizzata, prestare attenzione alla regolazione dei parametri, si adatterà alla potenza massima e quindi si scarica, è possibile prima lentamente e regolare uniformemente il valore preimpostato in avvio e scarico, al fine di regolare fino alla potenza massima per lo scaricoNota: la corrente di scarica è limitata dalla potenza massima, inferiore a 3A sopra 200 V e inferiore a 40A a 15 V.(1):1.1 Batteria test di capacitàIl tester è progettato per la scarica di varie batterie, batteria 18650, batteria per auto tra cui NiMH, NiCd, LiPo, LiFe e Pb, nonché per test di capacità.1.2 Test di potenza mobileQuesto tester supporta la scarica dell'alimentazione mobile e il test di capacità.1.3 Prova delle prestazioni di potenzaIl tester supporta le prestazioni e i test di invecchiamento di vari alimentatori CC.(2):2.1 Alimentazione: CC 12V/1A2.2 Intervallo di tensione: 0-200,00 V, passo 0,01 V2.3 Intervallo di corrente: 0.010-25.00/30.00/35.00/40.00A, step 0.01A (la corrente viene regolata automaticamente in base al limite di potenza)2.4 Metodo di scarico:CC: scarica di corrente costante della batteria, che supporta il test della capacità della batteria o della corrente di alimentazione.CP: scaricare la batteria con potenza costante per l'uso o testare la potenza come apparecchiature a potenza costante.2.5 Potenza di scarica: 150/300 W/450 W/600 W2.6 Quattro fili: i canali di tensione e corrente sono separati, con un'elevata precisione di prova2.7 IPS display: tensione, corrente, tempo, capacità, potenza, energia elettrica, ecc.2.8 Connessione al PC: il tester può essere collegato al computer tramite Bluetooth per ottenere più funzioni, come grafica, calibrazione, aggiornamenti del firmware e cicli di test.1) APP mobile di Apple:Cerca E_test nell'app store per scaricare e installare, quindi fare clic sull'icona APP Bluetooth per aprire il software, quindi fare clic sull'icona Bluetooth sopra il software per inserire la selezione DL24-BLE per connettersi, è possibile ottenere il telecomando del telefono cellulare telecomando senza fili impostazioni e funzione di misurazione, lo stato della scarica può essere visualizzato in qualsiasi momento sul telefono cellulare, sono visibili vari tipi di pulizia dei dati, la curva di tensione e corrente della scarica, ecc.2) APP del telefono Android:Scansiona il codice QR sul retro dell'host per scaricare il software APP corrispondente o l'APP Android: cerca E-test su Google play per scaricare . Al termine dell'installazione, aprire il software e fare clic sull'icona Bluetooth per accedere alla selezione diretta di DL24-BLE per utilizzarlo correttamente online. (Non c'è bisogno dell'associazione Bluetooth, l'icona del software Bluetooth seleziona direttamente DL24. can)3) APP online wireless per computer Bluetooth:Aggiungere prima il dispositivo Bluetooth al dispositivo della porta seriale di DL24-SPP sul computer, quindi eseguire la scansione del codice QR sul retro dell'host per scaricare il software APP corrispondente e memorizzarlo. Aprire il software senza installare e selezionare il modello di porta seriale Bluetooth appena aggiunto. Puoi usare con successo onlineAttraverso il test di vari adattatori di alimentazione CCRiproduci e misura la corrente, la tensione, la potenza e altri parametri di vari adattatori di alimentazione CCUtilizzare l'alimentatore CC per collegare la porta di alimentazione indipendente CC del misuratore di carico, quindi utilizzare il pulsante "Impostazioni" per connettersi come mostrato nella figura seguente.Regolare con precisione la corrente per testare la tensione e la corrente nominale dell'alimentatoreL'alimentatore CC può anche essere invecchiato a lungo, con funzioni potenti, funzionamento semplice, test convenienti e rapidiRilevamento automatico completo a un tasto intelligente dell'alimentazione CCModalità PT delle prestazioni di alimentazione della corrente del caricabatterieTenere premuto il pulsante M nel menu finché la barra della modalità non lampeggia, attendere qualche istante dopo aver premuto i dieci tasti modalità PTEntra automaticamente nella modalità di rilevamento automatico dell'alimentatore CC/caricabatterie, quindi collega l'alimentatore testato eCaricabatterie, quindi premere brevemente il pulsante di avvio, inizierà automaticamente a funzionare per un periodo di tempo e poi riporteràVisualizza 4 tipi di risultati numerici importanti, rendendo i test complicati immediatamente semplificati, accurati e facili da usareDLB-150WElenco prodottiTester batteria 1.150 W 1 pz2. Alimentazione DC12V 2A 1 pzCavo a coccodrillo rosso e nero da 3,10 A 1 set4. Sonda di temperatura 1 pz5. Scheda adattatore 1 pz6.Adattatore da USA a UE 1 pzDLB-300WElenco prodottiTester batteria 1.300 W 1 pz2. Alimentazione DC12V 2A 1 pzCavo a coccodrillo rosso e nero da 3,10 A 1 set4. Sonda di temperatura 1 pz5. Scheda adattatore 1 pz6.Adattatore da USA a UE 1 pzDLB-450WElenco prodottiTester batteria 1.450 W 1 pz2. Alimentazione DC12V 2A 1 pzCavo a coccodrillo rosso e nero da 3,10 A 1 set4. Sonda di temperatura 1 pz5. Scheda adattatore 1 pz6.Adattatore da USA a UE 1 pzDLB-600WElenco prodottiTester batteria da 1.600 W 1 pz2. Alimentazione DC12V 2A 1 pzCavo a coccodrillo rosso e nero da 3,10 A 1 set4. Sonda di temperatura 1 pz5. Scheda adattatore 1 pz6.Adattatore da USA a UE 1 pz
+
+
+
+

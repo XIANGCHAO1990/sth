@@ -1,0 +1,224 @@
+https://pt.banggood.com/DC-14_8V-or-16_8V-20A-4S-Lithium-Battery-Protection-Board-BMS-PCM-Module-For-18650-Lithium-LicoO2-or-Limn2O4-Short-Circuit-Protection-p-1321338.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+DC 14.8V / 16.8V 20A 4S Lithium Battery Protection Board BMS PCM Module For 18650 Lithium LicoO2 / Limn2O4 Short Circuit Protection
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:
+
+
+
+B + bateria conectada positiva;
+
+B1 o ponto de conexão entre a bateria 1 e a bateria 2;
+
+B2 conecta o ponto entre a bateria 2 e a bateria 3;
+
+B3 Conecte o ponto entre a bateria 3 e a bateria 4;
+
+B- conectar ao terminal negativo da bateria;
+
+P- + conexão carga / descarga positiva;
+
+P- conexão carga / descarga negativa;
+
+4S Li-ion18650, LiCoO2, LiMn2O4, Li (NiCoMn) O2 baterias recarregáveis;
+
+4S baterias recarregáveis Lipo;
+
+Circuito de detecção de tensão de alta precisão;
+
+Terminal do carregador usando dispositivo de alta tensão;
+
+Circuito de detecção de sobrecorrente de três estágios integrado (sobrecorrente 1, sobrecorrente 2 ou curto-circuito de carga);
+
+O transistor MOS pode controlar a carga e descarga da bateria;
+
+Baixo consumo de corrente em espera.
+
+
+
+Parâmetro:
+
+
+
+Tensão de sobrecarga: DC 4,25-4,35V ± 0,05V
+
+Sobretensão de descarga: DC 2,3-3,0V ± 0,05V
+
+Corrente máxima de trabalho: 10A
+
+Corrente máxima de pico: 20A
+
+Temperatura de trabalho: -40 ℃ - + 50 ℃
+
+Temperatura de armazenamento: -40 ℃ - + 80 ℃
+
+Corrente pequena: 6uA
+
+Ciclo de vida: 50000 horas
+
+Resistência: 45mΩ
+
+Proteção contra atalhos: protegível, mudança para reparo
+
+Tamanho: 35 * 35 * 3,0 mm
+
+
+
+Incluído no Pacote:
+
+
+
+1 placa de proteção de bateria de lítio 4S
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,235 @@
+1519478
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/79/7D/c2ae1640-a09f-46d1-979f-e70e05cfbf08.jpg
+0.56 "DC 100 V 50A Rosso + Rosso Doppio LED Display Mini Voltmetro Digitale Amperometro Pannello Amp Volt Tensione Corrente Tester Tester
+https://it.banggood.com/0_56-inch-DC-100V-50A-Red+Red-Dual-LED-Display-Mini-Digital-Voltmeter-Ammeter-Panel-Amp-Volt-Voltage-Current-Meter-Tester-p-1519478.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+
+
+
+Tensione di funzionamento: DC 4 ~ 30 V.
+
+Misurare la tensione: DC 0 ~ 100 V.
+
+Risoluzione minima (V): 0,1 V.
+
+Misura corrente: 50 A (richiede shunt esterno)
+
+Risoluzione minima (A): 0,1 A.
+
+Corrente di funzionamento: <20mA
+
+Display: tre tubi digitali LED da 0,28 "
+
+Colore display: rosso e rosso
+
+Frequenza di aggiornamento: circa 300 mS / volte
+
+Precisione della misurazione: 1% (± 1 cifra)
+
+Temperatura di esercizio: da -10 a 65 ° c
+
+Umidità operativa: dal 10 all'80% (senza condensa)
+
+Pressione di esercizio: da 80 a 106 kPa
+
+Applicazioni: adatto per il monitoraggio della batteria di automobili / auto elettriche / motocicli o per la misurazione della corrente di tensione di altri prodotti
+
+
+
+Cablaggio:
+
+
+
+Linea nera (sottile): circuito vuoto o negativo (modulo)
+
+Linea rossa (sottile): alimentazione +
+
+Linea nera (spessa): COM, misura comune
+
+Linea rossa (spessa): PW +, ingresso tensione terminale di misurazione positivo
+
+Linea gialla (spessa): IN +, ingresso corrente +
+
+
+
+Avviso:
+
+
+
+La tensione tra le linee sottili rosse e nere sottili deve essere compresa tra 4 e 30 V CC
+
+L'amperometro può essere collegato solo al negativo del dispositivo in prova
+
+Supera i 5 A, a pieno carico a lungo termine funzionante in modo continuo, si consiglia di saldare direttamente il lato di misurazione dei cavi alla presa
+
+Quando la linea sottile nera è vuota, è meglio usare nastro isolante attorno alla parte esposta del filo, per evitare cortocircuiti
+
+Se utilizzato solo come voltmetro, si consiglia di collegare tra loro la linea gialla e la linea nera, per evitare che l'amperometro digitale lampeggi
+
+Non è idoneo utilizzare questo misuratore per testare correnti inferiori a 10A.
+
+
+
+Il pacchetto include
+
+
+
+1 x Voltmetro digitale amperometro
+
+1 x corrente shunt
+
+1 x cavo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,145 @@
+1896928
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/83/16/210e877c-74fb-4419-b499-7b3d77b34dcb.jpg
+Placa de desenvolvimento 3pcs ESP-32S ESP32 Wireless WiFi + Bluetooth 2 em 1 CPU Dual Core Placa de controle de baixa potência ESP-32S
+https://pt.banggood.com/3Pcs-ESP-32S-ESP32-Development-Board-Wireless-WiFi+Bluetooth-2-in-1-Dual-Core-CPU-Low-Power-Control-Board-ESP-32S-p-1896928.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recurso:ESP32 integra interruptores de antena, balun RF, amplificadores de potência, amplificadores de baixo ruído, filtros e módulos de gerenciamento de energia, e toda a solução ocupa a menor área da placa de circuito impresso. 2,4 GHz Wi-Fi e chip de modo duplo BluetoothUsando a tecnologia de 40nm de baixa potência da TSMC, o desempenho de energia e o desempenho de RF são os melhores, seguros e confiáveis e fáceis de estender a várias aplicações.Use document download: https://github.com/Nicholas3388/LuaNode Especificação:Custo-beneficioVolume pequeno. Fácil de incorporar em qualquer produtoPoderoso, suporte ao protocolo LWIP, freertosSuporta três modos: AP, STA, modo de coexistência AP + STAA programação Lua torna seu desenvolvimento mais fácilO pacote inclui:3 x ESP32 Placa de Desenvolvimento
+
+
+
+

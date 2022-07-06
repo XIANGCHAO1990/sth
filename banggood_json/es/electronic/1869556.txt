@@ -1,0 +1,145 @@
+1869556
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/5F/C3/8e330239-f511-4b0a-833b-8786f257cb7e.jpg
+LILYGO® TTGO T-Display ESP32 CH9102F Módulo Bluetooth WiFi 1,14 Inch LCD Placa de desarrollo
+https://es.banggood.com/LILYGO-TTGO-T-Display-ESP32-CH9102F-WiFi-bluetooth-Module-1_14-Inch-LCD-Development-Board-p-1869556.html?cur_warehouse=CN&ID=6309998&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Característica:Demostración: https://github.com/Xinyuan-LilyGO/TTGO-T-Monitor Especificaciones de hardwareDescripciónChipsetMicroprocesador ESPRESSIF-ESP32 240MHz Xtensa® dual-core 32-bit LX6DESTELLOFlash QSPI de 4 MB / 16 MB (Opcional)SRAM520 kB SRAMBotónReiniciarUSB a TTLCH9102FInterfazUART, SPI, SDIO, I2C, LED PWM, TV PWM, I2S, IRGPIO, ADC, sensor táctil de condensador, preamplificador DACLNAMonitorIPS ST7789V 1,14 Inch Resolución 135 * 240Tensión de trabajo2.7V-4.2VCorriente de trabajoAproximadamente 60MACorriente de sueñoAproximadamente 120uARango de temperatura de trabajo-40 ° C ~ + 85 ° CTamaño y peso51,52 x 25,04 x 8,54 mm (7,81 g)Fuente de alimentaciónDescripciónFuente de alimentaciónUSB 5V / 1ACorriente de carga500mABateríaBatería de litio de 3,7 VJST Conector2Pin 1.25mmUSBTipo-CWifiDescripciónEstándarFCC / CE-RED / IC / TELEC / KCC / SRRC / NCCProtocolo802.11 b / g / n (802.11n, velocidad de hasta 150 Mbps) Polimerización A-MPDU y A-MSDU, admite intervalo de protección 0.4usRango de frecuencia2.4GH2 ~ 2.5GHz (2400M-2483.5M)Transmitir energía22dBmDistancia de comunicación300mBluetoothDescripciónProtocoloAdmite bluetooth V4.2BR / EDR y estándar BLEFrecuencia de radioCon receptor NZIF de sensibilidad de -97dBm Clase 1, emisor CL ass-2 y Clase 3 AFHFrecuencia de audioFrecuencia de audio CVSD y SBCSoftwareDescripciónModo WifiEstación / SoftAP / SoftAP + Station / P2PMecanismo de seguridadWPA / WPA2 / WPA2-Enterprise / WPSCifrado TipoAES / RSA / ECC / SHAActualización de firmwareDescarga UART / OTA (a través de la red / host para descargar y escribir firmware)Desarrollo de softwareAdmite el desarrollo de servidores en la nube / SDK para el desarrollo de firmware del usuarioProtocoloo de redIPv4, IPv6, SSL, TCP / UDP / HTTP / FTP / MQTTConfiguración de usuarioAT + conjunto de instrucciones, servidor en la nube, android / iSOappSOFreeRTSOEl paquete incluye:1 x placa de desarrollo con pines1 x cable BateríaDiagrama de pines:
+
+
+
+

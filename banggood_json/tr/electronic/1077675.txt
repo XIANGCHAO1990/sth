@@ -1,0 +1,175 @@
+1077675
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/B1/D4/219647ea-f2aa-4cad-8c51-cd21341f4f48.JPG
+Geekcreit® Pro Micro 5V 16M Mini Leonardo Mikrodenetleyici Geliştirme Kartı Geekcreit for Arduino - resmi Arduino anakartlarla çalışan ürünler
+https://tr.banggood.com/Geekcreit-Pro-Micro-5V-16M-Mini-Leonardo-Microcontroller-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1077675.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Açıklama:
+
+Bu mikrodenetleyici geliştirme kartında 4 kanal 10 bit ADC, 5 PWM pin, 12 DIO ve aşina olduğunuz Rx ve Tx donanım seri bağlantısı vardır. 16MHz ve 5V'de çalışan bu kart, size sevdiğiniz diğer birçok uyumlu kartı hatırlatacaktır. Kart üzerinde bir voltaj regülatörü vardır, bu nedenle 12V DC'ye kadar kabul edebilir. Dengesiz bir güç kaynağı kartı tedarik ediyorsanız, VCC pinine değil "RAW" a bağladığınızdan emin olun. Ayrıca güç devresine ve RX ve LED TX devrelerini düzeltmek için bir PTC sigortası ve diyot koruması ekledik.
+
+Özellik:
+
+- ATMEGA32U4 5V / 16MHz'de çalışıyor
+- IDE V1.0.1 desteği
+- Kart üzerinde mikro USB arayüz programlama
+- Dört adet 10 bitlik ADC pini
+- 12 dijital G / Ç (5 PWM kapasitesi)
+- Rx ve Tx donanım seri bağlantısı
+
+Paket içeriği:
+
+1 x Modül
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,213 @@
+1577997
+https://imgaz.staticbg.com/thumb/large/oaupload/ser1/banggood/images/2C/47/5ac9d8a0-2c34-4de8-afef-f19a7adaf5b8.JPG
+DC-DC 5-32V a 0.8-30V Fuente de alimentación Módulo reductor Regulador Buck ajustable 5A Controlador constante LED Batería Tablero de voltaje de carga
+https://es.banggood.com/DC-DC-5-32V-to-0_8-30V-Power-Supply-Step-Down-Module-Adjustable-Buck-Regulator-5A-Constant-LED-Driver-Battery-Charging-Voltage-Board-p-1577997.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visión general:
+
+
+
+El módulo utiliza chips de alta calidad, alta eficiencia (hasta 95%), baja generación de calor, corriente máxima de 5A y corriente de salida de control del amplificador operacional de TI, lo que hace que la salida general sea muy estable.
+
+¡Este módulo utiliza un condensador de filtro de baja ESR para reducir el voltaje de ondulación a 50 mV!
+
+
+
+Características:
+
+
+
+Naturaleza del módulo: módulo reductor no aislado
+
+Modo de rectificación: rectificación asíncrona
+
+Puerto de cableado: Modo de entrada: IN + entrada positiva, IN- entrada negativa
+
+Modo de salida: OUT + salida positiva, OUT-salida negativa
+
+Voltaje de entrada: DC 5V-32V
+
+Voltaje de salida: DC 0.8V-30V
+
+Corriente de salida: ajustable, Max 5A
+
+Eficiencia de conversión: 95% (máximo)
+
+Frecuencia de conmutación: 300 KHz
+
+Ondulación de salida: 50 mV (máximo) 20 M de ancho de banda
+
+Tasa de ajuste de carga: +/- 0,5%
+
+Tasa de regulación de voltaje: +/- 2.5%
+
+Temperatura de funcionamiento: -40 ° C a + 85 ° C
+
+Tamaño: 51 x 26,3 x 14 (largo x ancho x alto) (mm)
+
+
+
+El paquete incluye:
+
+
+
+1x DC-DC 5A Módulo de fuente de alimentación del regulador Buck ajustable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

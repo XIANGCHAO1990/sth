@@ -1,0 +1,603 @@
+https://tr.banggood.com/GTMEDIA-GTcombo-2-in-1-Amlogic-S905X3-Smart-TV-Box-DVB-S2X-T2-Satellite-TV-Receiver-2GB-RAM-16GB-ROM-Android-9_0-H_265-HD-4K-2_4G-5G-WIFI-bluetooth-Support-CA-Card-IPTV-Youtube-Netflix-for-Disney-p-1853140.html?cur_warehouse=CN&ID=47184&rmmds=CategoryElectronicsPop
+GTMEDIA GTcombo 2&#39;si 1 Arada Amlogic S905X3 Smart TV Kutu DVB-S2X T2 Uydu TV Alıcı 2 GB Veri deposu 16GB ROM Android 9.0 H.265 HD 4K 2.4G 5G WIFI bluetooth Desteği CA Kartı IPTV Youtube Disney için Netflix
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CA Kart Destek Listesi: [bağlantı]
+
+
+
+ispanya
+19.2E İspanya Movistar için Seca CAID 0100
+
+
+İtalya
+13E İtalya Tivusat için Nagra CAID 183E(altın ve gri)
+
+
+13E İtalya Tivusat için Nagra CAID 183D (eski kart)
+
+
+13E İtalya Mediaset Premium için Nagra CAID 1805
+
+
+Nagra için CAID 1805 Ikayıt DVB-T Mediaset Premium
+
+
+İsviçre
+13E İsviçre SRG/SSR için Viacess CAID 0500
+
+
+Rusya
+85.2E Rusya Telekarta için Conax CAID 0B00
+
+
+Polonya
+13E Polonya TNK için Conax CAID 0B01
+
+
+13E Polonya CYFRA+ için Seca CAID 0100
+
+
+Hırvatistan
+16E Hırvatistan OIV için Viacess CAID 0500
+
+
+Avusturya
+19.2E Avusturya ORF ICE için CryptoWorks CAID 0D98
+
+
+Hollvea
+19.2E/23.5E için Seca CAID 0100 Hollvea Kanalı Dijital
+
+
+Slovakya
+23.5E Slovakya SkyLink ICE için CryptoWorks CAID 0D96
+
+
+Malezya
+91.5E Malezya Astro için NDS CAID 09AC
+
+
+Türkiye
+CKablo Türkiye TV için onax CAID 0B00
+
+
+Bulgaristan
+Kablo Bulgaristan Blizoo BG için Conax CAID 0B00
+
+
+Bilinmeyen
+5W Fransat için Viacess CAID 0500
+
+
+(bilinmeyen) Telekarta TV için Irdeto CAID 0602
+
+Şartname:
+
+
+
+
+
+
+
+Vurgulamak
+1. Android 9.0 TV KUTUSU + DVB-S / S2 / S2X, DVB + T / T2 / Kablo / ATSC-C (J.83B) / ISDBT, AVS +HEVC ana 10 profili (10bit), AUTO BISS, T2MI, GTFeeds, YUV422, Gtshare
+
+
+2.Amlogic S905X3 2GBVeri deposu + 16GBROM
+
+
+3. 4K ultra yüksek çözünürlüklü ekran ve kod çözücü, Çift çekirdekli MIPS75Kf işlemcileri destekleyin
+
+
+4. Unicable, DiSEqC1.0 / 1.1 / 1.2 / USALS Motor'yı tam olarak destekleyin
+
+
+5. Tam PowerVu, DRE & Biss anahtarını destekleyin. OTOMATİK BISS
+
+
+6. Dahili Wifi 2.4G / 5G + BT4.1, 802.1.1b / g / n / ac
+
+
+7. Sistem GT UI, GTStore Addons önceden yüklenmiş Netflix, Youtube, Prime-Video, Disney Plus, Online filmler vb. İçin Destek SAT2 IP, GTshare APP'dir.
+
+
+8. GTPlayer'da IPTV'yi destekleyin
+
+
+9. CCCAM, NEWCAM, MGCAM ve CA kart kod çözme desteği
+
+
+10. Teknik destek web sitesi: www.freesat.cn
+
+
+Donanım
+İşlemci
+Amlogic S905X3, 64-bit dört çekirdekli ARM® Cortex ™ A53 İşlemci, 2.0 GHZ'ya kadar (DVFS)
+
+
+GPU
+Daul çekirdekli Mali-G31 MP2, 850M'ye kadar (DVFS)
+
+
+Veri deposu
+2G DDRIII
+
+
+ROM
+16G EMMC
+
+
+3D Grafikler
+OpenGL ES 1.1/2.0 ve Open VG 1.1 desteği
+
+
+Video Kod Çözme 
+4KP75 10B, H.265, VP9 Profil 2, AVS2 4Kp30 H.264, MPEG-4, DIVD / DIVX, Real8 / 9/10, RM, RMVB, PMP, FLV, MP4, M4V, VOB, WMV, 3GP, MKV 8KH265_Main10 @ L6.2 @ Ana_7680x4320_24fps_30.9Mbps_10bit8KVP9_7680x4320_23.976fps_22.2Mbps_8bit
+
+
+Ses Kod Çözme
+Stereo DAC'ler, 2x I2S giriş, 8x I2S çıkış, 8x DAIC, MPEG1 katman I, MPEG1 katman II, MPEG1 katman III, MPEG2 AAC, MPEG4 HE-AAC, Dolby +
+
+
+Panel ekranı
+4 basamaklı beyaz LED ekran. Çok işlevli göstergelerle
+
+
+LED Göstergesi
+Güç AÇIK: Yeşil. Beklemede: Kırmızı 
+
+
+Buton
+OLUMSUZLUK
+
+
+Wifi
+2.4G / 5.8G WiFi Desteği Dahili IEEE 802.1.1b / g / n / ac
+
+
+Bluetooth
+Bluetooth 4.0
+
+
+kızılötesi
+38KHz için kızılötesi'dan çıkın, Infra Uzakdan Kumvea kontrolü
+
+
+Arka panel
+ANT GİRİŞİ (EC-tipi IEC169-2 Dişi)
+
+
+LNB GİRİŞİ (Frekans Aralığı950MHz - 2150MHz)
+
+
+HD OUT (HDMI2.1, 8Kx4K @ 24 maksimum çözünürlük çıkışı)
+
+
+1 x USB2.0 + 1 x USB3.0 SUNUCU
+
+
+1 x TF KART
+
+
+1 x SPDIF
+
+
+1 x RJ45
+
+
+1 x CA Kartı
+
+
+Güç (DC 12V/1.5A)
+
+
+DVB-S / S2 özellikleri
+sistem stveardı
+ETS 302 307
+
+
+Frekans aralığı
+DVB-S/S2/S2X temel bant demodülatörü için 950~2150MHz
+
+
+LNB Gücü ve Polarizasyon
+DiSEqC1.0 / 1.1 / 1.2 / USALS Motor tam olarak desteklenir. Destek Unicable, 13 / 18V DC @ 400mA MAX, 22KHz ± 0.4KHz (0.6V ± 0.2V) ton, Aşırı Yük Koruması
+
+
+Giriş Seviyesi Aralığı
+ -80dBm ~ -20dBm (ortalama güç)
+
+
+Sembol Oranları
+DVB-S QPSK, DVB-S2 QPSK / 8PSK / 16APSK / 32APSK, DVB-S2X QPSK / 8PSK / 16APSK / 32APSK / 64APSK
+
+
+İleri hata düzeltme oranı 
+1/4, 1/3, 2/5, 3/5, 2/3, 3/4, 4/5, 5/6, 8/9, 9/10
+
+
+Taşıyıcı frekans toplama aralığı
+3 Msps üzerindeki sembol oranları için ±5MHz ve kalan sembol oranları için ±3MHz
+
+
+Sembol Oranları
+Sembol oranı aralığı: QPSK / 8PSK / 16APSK 56M, 32APSK 49.6M, 64APSK 41.3M
+
+
+Devrilme faktörleri
+Darbe şekillendirme için yuvarlanma faktörleri: 0.2, 0.25 ve 0.35
+
+
+Kod Oranları
+DVB-S, 1/4, 1/3, 2/5, 1/2, 3/5, 2/3, 3 / için 1/2, 2/3, 3/4, 5/6, 7/8 DVB-S2, DVB-S2X Normal Çerçeve ve Kısa Çerçeve FEC kodu hızları için 4, 5/6, 8/9, 9/10
+
+
+Özellikler 
+CCM / VCM / ACM'yi desteklemePLHEADER Scrambling (AMC) desteğiLDPC ve BCH kod çözücüleri entegre etme
+
+
+KARINCA. Konektör
+Konektör: IEC TİP F Giriş Empedansı: 75 Ω
+
+
+DVB-T / T2 teknik özellikleri
+sistem stveardı
+ETSIEN 302 755
+
+
+Frekans aralığı
+VHF: 174 ~ 230mhz, UHF: DVB-T / T2 için 470 ~ 862mhz
+
+
+demodülasyon
+COFDM, 16QAM, 64QAM, 256QAM
+
+
+Bant genişliği modeli
+6MHZ, 7MHZ ve 8MHZ
+
+
+Ülke
+İtalya, Polonya, Rusya, İspanyol, İsveç, Birleşik Krallık, Almanya, Yunanistan, Slovenya, Arjantin, Avustralya, Danimarka, Finlveiya, Fransa, İngiltere, Brezilya, Şili, Peru, Kolombiya, Hindistan, Georgia0, Endonezya
+
+
+FEC Kodu Oranı
+1/2, 3/5, 2/3, 3/4, 4/5, 5/6
+
+
+FFT
+2K ve 8K
+
+
+Koruma aralığı
+1/4, 19/256, 1/8, 19/128, 1/16, 1/32, 1/128
+
+
+Giriş Sinyali seviyesi:
+Min -80dbm maks. -20dbm (64QAM, 8K 1/8, 7/8)
+
+
+Anten Gücü
+5V DC @ 150mA MAX
+
+
+KARINCA. Konektör
+IEC 169-2, dişi. Giriş Empedansı: 75 Ω
+
+
+ISDB-T spesifikasyonları
+sistem stveardı
+ISDB-T yayını (1, 3, 13 segment), MPEG-2/MPEG-4 AVC/H.264 HD/SD Video, DiVX 
+
+
+Frekans aralığı
+VHF: 177.143 ~ 213.143 MHz: UHF 473.143 ~ 803.143 MHz
+
+
+Ülke
+Brezilya ve Japonya
+
+
+FFT
+2K/ 8K/32K
+
+
+demodülasyon
+QPSK / 16QAM / 64QAM / QPSK veya DQPSK
+
+
+FEC Kodu Oranı
+1/2, 2/3, 3/4, 5/6, 7/8 Otomatik
+
+
+Koruma aralığı 
+1/4, 1/8, 1/16, 1/32
+
+
+DVB-Kablo özellikleri
+Frekans aralığı
+DVB Kablosu için 50–858 MHz (J.83A / B / C)
+
+
+demodülasyon
+16QAM, 32QAM, 64QAM, 128QAM, 256QAM
+
+
+FEC Kodu Oranı
+1/2, 2/3, 3/4, 5/6, 6/7 veya 7/8
+
+
+Giriş Sinyali seviyesi
+Min -80dbm maks -20dbm 
+
+
+Ülke (ATSC-C)
+USATSC Kablosu STD / USATSC Kablosu ATSC-C için kızılötesiC / USATSC Kablosu HRC
+
+
+Sıralama Özellikleri
+Stveart
+DVB-S / S2 / S2X (C / Ku bant uydudan SCPC ve MCPC alınabilir), DVB-T / T2 / Kablo (J83.A / B / C) / ISDBT, MPEG-2/4 H.265 ile tamamen uyumludur Stveart
+
+
+Kanal Arama
+Yeni eklenen transponderler için Otomatik ağ aramayı destekler ve DVB-T / Kablo için NIT Aramayı destekler
+
+
+Kanal Sayısı
+10000 kanal TV ve Radyo programlanabilir
+
+
+Kanal
+Bir kanalı kaydetme, aynı TP altında başka bir kanalı görüntüleyebilme, Çeşitli kanal düzenleme işlevi (favori, taşı, kilitle, atla, sil, yeniden adlveır, bul, sırala)
+
+
+Favoriler
+8 farklı favori grup seçimi
+
+
+OSD Dili
+OSD Çoklu dil seçenekleri (Arapça, Katalanca, Çekçe, Dansk, Deutsch, Eapanol, İngilizce, Euskar, Farsi, Fransızca, Fince, Galego, Yunanca, Hrvatska, İtalyanca, Magyar, Nederlves, Polska, İspanyolca, Slovakça, Svenska, Portekizce , Rusça, Ukraynaca, Türkçe, Tayca vb.)
+
+
+EPG
+7 günlük Elektronik Program Rehberine (EPG) tam destek
+
+
+OSD Rengi
+Titreşim önleyici 256 renkli / 32 bit OSD
+
+
+Ebeveyn Kontrolü
+Kanallar için ebeveyn kontrolü
+
+
+Kolay Menü
+Kullanımı kolay Menü Sistemi ile Tak ve Çalıştır kurulumu
+
+
+PAL/NTSC
+Otomatik PAL/NTSC dönüştürme
+
+
+Alt yazı
+DVB EN300743 ve EBU'yu destekleyin
+
+
+teletekst
+VBI ve OSD tarafından DVB ETS300472'yi destekleyin
+
+
+Saat ayarı
+GMT otomatik ve manuel olarak ayarlanan saat, Yaz Saati desteği
+
+
+zamanlayıcı
+5 olay zamanlayıcı, kapalı/Bir Kez/Günlük/Haftalık Mod
+
+
+USB 3.0/2.0
+FAT/FAT32/NTFS büyük kapasiteli sabit diski destekler
+
+
+PVR Seçeneği
+PVR için USB, TIMESHIFT, medya dosyaları oynatma
+
+
+Medya Codec Bileşeni
+TS/MPG/MKV/AVI/ASF/FLV/MP4/WMA/WMV/VOB/MOV/DAT/SRT/SUB/BMP/JPG/JPEG/GIF/PNG/M4A dosyaları
+
+
+Ses Codec Bileşeni
+WMA, MP3, AAC (wma, mp3, m4a)
+
+
+Fotoğraf Codec Bileşeni
+JPEG, BMP, PNG, GIF Desteklenir
+
+
+Yazılım Yükseltme
+USB bağlantı noktası, Destek OTA ve HTTP / FTP yükseltmesi aracılığıyla yazılım yükseltmeleri
+
+
+Paketleme
+Ürün Boyutu
+12.4 x 11.9 x 3.6cm
+
+
+Paketlenmiş Boyut
+18.8 x 15.2 x 8.5cm
+
+
+Karton boyutu 
+43,5 x 38,5 x 31,5 cm (20 adet / ctn)
+
+
+Ağırlık birimi
+0.66 Kg ambalajlı
+
+
+Karton Adet ve Ağırlık
+20 adet / Koli, 14.1 kg
+
+
+Aksesuarlar
+ Hediye Kutusu, Adaptör, kızılötesi uzaktan kumvea, HDMI Kablosu, Kullanım Kılavuzu
+
+
+fiziksel
+Güç kaynağı
+AC IN100-250V, DC 12V / 1500mAh
+
+
+Güç tüketimi
+Operasyonda 12W≦1 W Bekleme Güç Modu
+
+
+Hava sıcaklığı
+Operasyon 0～+45℃, Depolama -10 ~ + 60℃
+
+
+Nem
+%20~90, yoğunlaşmamış
+
+Özellik:1. Android 9.0 TV KUTUSU + DVB-S / S2 / S2X, DVB + T / T2 / Kablo / ATSC-C (J.83B) / ISDBT, AVS +HEVC ana 10 profili (10bit), AUTO BISS, T2MI, GTFeeds, YUV422, Gtshare2. Amlogic S905X3 2GBVeri deposu + 16GBROM3. 4K ultra yüksek çözünürlüklü ekran ve kod çözücü, Çift çekirdekli MIPS75Kf işlemcileri destekler4. Unicable, DiSEqC1.0 / 1.1 / 1.2 / USALS Motor'yı tam olarak destekleyin5. Tam PowerVu, DRE & Biss anahtarını destekleyin. OTOMATİK BISS6. Dahili Wifi 2.4G / 5G + BT4.1, 802.1.1b / g / n / ac7. Sistem GT UI, GTStore Eklentileri önceden yüklenmiş Netflix, Youtube, Prime-Video, Disney Plus, Online filmler vb. için. SAT2 IP, GTshare APP desteği8. GTPlayer'da IPTV'yi destekleyin9. NEWCAM'i destekleyin. CCCAM, MGCAM ve CA kart kod çözme10. Güçlü İşlemci ve GPU size ultra hızlı çalışma hızı sağlar: Dört çekirdekli, Cortex-A53, 4 çekirdekli mail-G3111. Özel arka plan: Ekran koruyucu olarak beğendiğiniz bir arka plan ekleyin. APP arka planını beğenmediniz mi? İstediğiniz zaman da geçiş yapabilirsiniz12. ÇOKLU işlevlere sahip 1 makine: Çeşitli ihtiyaçları karşılayın, kullanıcılar Saat çevrimiçi film, kendi tercihlerine veya yerel desteklenen sinyal koşullarına göre kanalları arayabilir13. Google sesli arama: Programları doğrudan aramak için uzaktan kumvea üzerindeki düğmeyi basılı tutun14. Teknik destek web sitesi: www.freesat.cnÜrün boyutu: 124 x 119 x 36 mmBirim ağırlık: 0.66KG ambalajlıGüç kaynağı: AC IN100-250V, DC 12V / 2000mAhSıcaklık: Çalışma 0 ～ + 45 ℃, Depolama -10 ~ + 60 ℃Nem:% 20 ~ 90, yoğunlaşmamışPaket içeriği:1 x GTMEDIA GTcombo Smart TV Kutu (Diğer ürünler dahil değildir)1 x HDMI Kablosu1 x kızılötesi uzaktan kumvea1 x Kullanım Kılavuzu1 x Adaptör
+
+
+
+

@@ -1,0 +1,353 @@
+1855813
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/0E/E5/2bde8b24-ac49-47e5-a9f6-e384d6689cde.jpg
+X96 X6 Smart TV Box RK3566 Rockchip 8GB RAM 128GB ROM Android 11.0 HD 8K 2T2R 2.4G 5G Wifi Bluetooth TV Boxen mit Infrarot Fernbedienung
+https://de.banggood.com/X96-X6-Smart-TV-Box-RK3566-Rockchip-8GB-RAM-128GB-ROM-Android-11_0-HD-8K-2T2R-2_4G-5G-Wifi-Bluetooth-TV-Boxes-with-Infrared-Remote-Control-p-1855813.html?cur_warehouse=CN&ID=47757&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grundparameter
+
+
+Zentralprozessor
+Chipsatz
+RK3566
+
+
+Die Architektur
+Quad-Core-ARM-Cortex A55
+
+
+GPU
+Chipsatz
+Mali-G52 1-Core-2EE
+
+
+Die Architektur
+für OpenGL ES 1.1/2.0/3.2, für OpenCL 2.0, Vulkan 1.1-Unterstützung
+
+
+NPU
+
+Neural Network Acceleration Engine mit Verarbeitungsleistung von bis zu 0,8 TOPS
+
+
+RAM
+Kapazität
+8GB
+
+
+Rom
+Kapazität128GB
+
+
+Externer Speicher
+USB-Speichergeräte
+Unterstützt
+
+
+Micro SD Karte
+Unterstützt
+
+
+Software
+
+
+Betriebssystem
+OS Version
+Android 11
+
+
+Sprache
+Mehrsprachig
+
+
+Multimedia
+Video
+Video-Decoder
+
+
+H.265 HEVC/MVC Main10 Profil yuv420@L5.1 bis zu 4096x2304@60fps
+
+
+H.264 AVC / MVC Main10-Profil yuv400/yuv420/yuv422/@L5.1 bis 4096 x 2304 @ 60 fps
+
+
+VP9 Profile0 / 2 yuv420@L5.1 bis 4096x2304 @ 60fps
+
+
+VP8-Version2, bis zu 1920x1088@60fps
+
+
+VC1 Simple Profile@low, medium, high level, Main Profile@low, medium, high level, Advanced Profile@level0~3, bis zu 1920x1088@60fps
+
+
+MPEG-4 Simple Profile@L0~6, Advanced Simple Profile@L0~5, bis zu 1920x1088@60fps
+
+
+MPEG-2 Main Profile, niedrige, mittlere und hohe Pegel, bis zu 1920x1088@60fps
+
+
+MPEG-1 Hauptprofil, niedrige, mittlere und hohe Pegel, bis zu 1920x1088@60fps
+
+
+H.263 Profile0, Level 10-70, bis zu 720x576@60fps
+
+
+Video-Encoder
+
+
+H.264/AVC BP/MP/HP@level4.2, bis zu 1920x1080@100fps
+
+
+H.265 / HEVC MP@level4.1, bis zu 1920 x 1080 @ 100 fps (4096 x 4096 @ 10 fps mit TILE)
+
+
+Unterstützt YUV / RGB-Videoquelle mit Drehung und Spiegel
+
+
+Audio
+Unterstützt MP3, AAC, WMA, FLAC, Ogg
+
+
+Bild
+HD-JPEG, BMP, GIF, PNG, TIF
+
+
+Netzwerkdienst
+
+
+W-lan
+Art
+Unterstützt WLAN IEEE 802.11 b / g / n / ac
+
+
+Frequenz
+Unterstützt 2.4G und 5G
+
+
+Antenne Typ
+Zwei externe Antennen
+
+
+Bluetooth
+Bluetooth
+Unterstützt BT4.X
+
+
+Schnittstelle
+
+
+Aufladen
+DC-Anschluss
+DC-EINGANG (5V/2A) 
+
+
+Video-Ausgang
+HDMI
+4Kx2K UHD-Ausgang, HDMI 1.4/2.0
+
+
+IR-Empfänger
+3,5-mm-Kopfhörerbuchse
+Remote Receiver Connect
+
+
+Micro-SD
+Externer Speicher
+Unterstützung
+
+
+USB-Anschluss
+USB-Host
+1x USB3.0 2x USB2.0 normaler Typ 
+
+
+Ethernet
+Ethernet
+1000M Ethernet
+
+
+Aussehen
+
+
+Körpermaterial
+Metall
+
+
+Farbe
+grau
+
+
+Größe
+105x105x20 (mm)
+
+
+Gewicht
+/
+
+
+Zertifizierungen (für Einheit)
+
+
+Standard
+CE
+/
+
+
+RoHS
+/
+
+
+Packungsinhalt
+Versandinformation
+
+
+1 x Bedienungsanleitung, 1 x Geschenkbox, 1 x Infrarot rEmote-Steuerung, 1 x externes HDMI-Kabel, 1 x Netzteil
+Dimension der Geschenkbox (mm)
+205x140x50(mm)
+
+Feature:Zentralprozessor: Rockchip RK3566 Quad-Core ARM Cortex A55GPU: Mali-G52 1-Core-2EE, für OpenGL ES 1.1/2.0/3.2, für OpenCL 2.0, Vulkan 1.1-Unterstützung Arbeitsspeicher: 8GBRom: 128 GBExterner Speicher: Unterstützt USB-Speichergeräte, Micro-SD-KarteBetriebssystem: Android 11.0Sprache: MehrsprachigVideodecoder: H.265 HEVC/MVC Main10 Profil yuv420@L5.1 bis zu 4096x2304@60fps; H.264 AVC/MVC Main10 Profil yuv400/yuv420/yuv422/@L5.1 bis zu 4096x2304@60fpsWLAN: Unterstützt WLAN IEEE 802.11 b / g / n / ac; Unterstützt 2.4G und 5G; Zwei externe AntennenBluetooth: Unterstützt BT4.XHDMI: 4Kx2K UHD-Ausgang, HDMI 1.4/2.0 Lieferinhalt:1 x X96 X6 Smart-TV-Box (Andere Produkte sind nicht enthalten)1 x Benutzerhandbuch1 x Infrarot-Fernbedienung1 x externes HDMI-Kabel1 x Netzteil 
+
+
+
+

@@ -1,0 +1,182 @@
+68534
+https://imgaz1.staticbg.com/thumb/large/upload/2014/03/SKU066315 (1).jpg
+ATMEGA328 328P 5V 16MHz Arduino kompatibles Pro Mini -Modul Board
+https://de.banggood.com/Wholesale-ATMEGA328-328p-16MHz-Pro-Mini-PCB-Module-Board-5V-p-68534.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arduino ProMini ATMEGA328 328P 5V 16MHz  Ist ab sofort bei unseren US  Lager 
+
+Freies Verschiffen nach USA in 3-6 Arbeitstage
+Schiff nach Kanada, Brasilien in 7-10Tage
+
+ATMEGA328 328P 5V 16MHz Arduino kompatible Nano Größe Modul Board
+
+Beschreibung:
+
+Neue Version, Pro Mini 328 5V 16MHz, Arduino-kompatibel
+High Quality Komponenten und Lötmaterial
+Bootloader fertig, Stecken und spielen.
+
+Lieferinhalt:
+
+1 x Pro Mini 328 5V 16MHz Arduino-kompatible
+
+Kommentar vom Kunden Mattias Schlenker:
+
+Wenn das Hochladen von Skizzen mit der Arduino IDE fehlschlägt, gehen Sie folgendermaßen vor, um den Bootloader zu aktualisieren:
+
+-Bereiten Sie ein Arduino Uno, Mega oder ähnliches vor, um als ISP zu fungieren, wie unter http://arduino.cc/en/Tutorial/ArduinoISP beschrieben
+-Verdrahten Sie es, wie in Blitz-Bootloader_verbunden.png (Bild Rezensionen von SKU099688)
+-Verwenden Arduino IDE, um den Bootloader des entsprechenden Pro / Pro Mini (5 V, 16 MHz), um SKU099688 oder SKU066315 blinken
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,
+
+

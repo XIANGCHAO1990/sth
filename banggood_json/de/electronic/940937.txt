@@ -1,0 +1,189 @@
+940937
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/EE/8A/ba4e7e35-d74c-45a8-947d-c9d440e6d3ba.JPG
+Geekcreit® ATmega328P Nano V3 Steuerplatine Verbesserte Version Modulentwicklungsplatine
+https://de.banggood.com/Geekcreit-ATmega328P-Nano-V3-Controller-Board-Improved-Version-Module-Development-Board-p-940937.html?cur_warehouse=CN&ID=6300464&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spezifikation:
+
+Mikrocontroller ATmega328
+Betriebsspannung (Logikpegel): 5V
+Eingangsspannung (empfohlen): 7 V ~ 12 V
+Eingangsspannung (Grenzwerte): 6 V ~ 20 V
+Digitale E/A-Pins: 14 (davon 6 mit PWM-Ausgang)
+Analoge Eingangspins: 8
+Gleichstrom pro I/O-Pin: 40 mA
+Flash Speicher: 32 KB (ATmega328) (davon 2 KB vom Bootloader belegt)
+SRAM: 2 KB (ATmega328)
+EEPROM: 1KB (ATmega328)
+Taktfrequenz: 16 MHz
+Chip: CH340C / G Zufällige Lieferung (CH340B ist die Update-Version von CH340G, CH340B wird mit Kristall geliefert, CH340G jedoch nicht)
+
+Notiz:
+
+Verbesserter USB-Chip für Geschwindigkeit und Stabilität mit WIN7/WIN8. Diese Version wird mit ungelöteten Stiftleisten und ohne USB-Kabel geliefert.
+
+Lieferinhalt:
+
+1/2/3/5/10 x Kein Schweißen Kompatibel Nano V3.0 Board (optional)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Note: Joint product & Provided by Banggood and Newchic.
+
+
+

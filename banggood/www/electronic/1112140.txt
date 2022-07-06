@@ -1,0 +1,197 @@
+https://www.banggood.com/Geekcreit-LCR-T4-Mega328-Transistor-Tester-Diode-Triode-Capacitance-ESR-Meter-With-Shell-p-1112140.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® LCR-T4 Mega328 Transistor Tester Diode Triode Capacitance ESR Meter With Shell
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifications:
+
+Resistor: 0.1ω-50Mω
+		Capacitor: 25pF-100000uF
+		Inductance: 0.01mH - 20H
+		Working power: DC-9V
+		Standby current: 0.02uA
+		Operating current: 25mA
+		Material: Metal+Plastic
+		Size: about 11.1cm/4.37"x2.6cm / 1.02"x8.5cm/3.34"
+		[Conversion: 1cm=0.3937 inch, 1inch=2.54 cm]
+
+Description:
+
+1. Add boot voltage detection function
+		2. Automatic detection of NPN and PNP transistors, N -channel and P-channel MOSFET, diodes (including dual diode), thyristors, transistors, resistors and capacitors and other components
+		3. Automatic test out the pin element and displayed on the LCD
+		4. Can be detected to determine the transistor emitter forward bias voltage of the transistor, MOSFET protection diode and the amplification factor of the base
+		5. Measure the gate threshold voltage and gate capacitance of the MOSFET
+		6. 1602 lcd display uses LCD (12864 LCD with backlight)
+		7. High test speed, valid component test: 2 seconds (except in the larger capacitor of large capacitance measurement also takes a long time, the measured time of one minute is normal)
+		8. One button operation, power-on test, get a key
+		9. Power consumption off mode: less than 20 nA of
+		10. Auto power off function to avoid unnecessary waste, saving battery power, improved battery life
+
+Note:
+
+Battery is not included.
+
+Package included:
+
+1 x LCR-T4 Transistor Tester
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,
+
+

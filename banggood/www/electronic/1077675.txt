@@ -1,0 +1,174 @@
+https://www.banggood.com/Geekcreit-Pro-Micro-5V-16M-Mini-Leonardo-Microcontroller-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1077675.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® Pro Micro 5V 16M Mini Leonardo Microcontroller Development Board Geekcreit for Arduino - products that work with official Arduino boards
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+
+This microcontroller development board has 4 channel 10 bit ADC, 5 PWM pins, 12 DIO, and a hardware serial connection Rx and Tx you are familiar with. Running on 16MHz and 5V, this board will remind you a lot of other compatible boards that you like. There is a voltage regulator on board, so it can accept up to 12V DC. If you are supplying an unstable power supply board, be sure to connect to the "RAW" not on the VCC pin. We have also added a PTC fuse and diode protection to the power circuit and to correct the RX and LED TX circuits.
+
+Feature:
+
+- ATMEGA32U4 running in 5V / 16MHz
+- Support IDE V1.0.1
+- Micro USB interface programming on the board
+- Four 10-bit ADC pin
+- 12 digital I / O (5 PWM capability)
+- Rx and Tx hardware serial connection
+
+Package included:
+
+1 x Module
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

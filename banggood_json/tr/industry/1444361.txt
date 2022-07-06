@@ -1,0 +1,401 @@
+1444361
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/5A/7D/d706bf38-c5cb-4f91-9919-ed917636dc04.jpeg
+HANPOSE 17HS8401S-PG Nema 17 Ekstruder Dişli Kademe Motor 42 Motor Oranı Planet Dişli Kademe Motor
+https://tr.banggood.com/HANPOSE-17HS8401S-PG-Nema-17-Extruder-Gear-Stepper-Motor-42-Motor-Ratio-Planetary-Gear-Stepper-Motor-p-1444361.html?cur_warehouse=CN&ID=6120235&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanım:
+HANPOSE 17HS8401S-PG Nema 17 Ekstruder Dişli Kademe Motor 42 Motor Oranı Planet Dişli Kademe Motor
+Sertifika: CE, ROSH, ISO, FCC
+
+Şartname:
+
+
+
+
+				ürün modeli
+
+				17HS8401S-PGXXX
+
+
+
+				Adım Motor Uzunluk
+
+				48mm
+
+
+
+				Mil Boyutu
+
+				"D" Mil 16x8mm
+
+
+
+				motor kurşun
+
+				Fiş
+
+
+
+				Tel dahil
+
+				1M Dupoint Tel
+
+
+
+
+Dişli Redüktör Oranı
+
+
+
+modeli
+
+				3.71-1
+
+				5.18-1
+
+				14-1
+
+				19-1
+
+				27-1
+
+				51-1
+
+
+
+				Kesinti
+
+				3.71
+
+				5.18
+
+				14
+
+				19
+
+				27
+
+				51
+
+
+
+				Kutu Uzunluk
+
+				29
+
+				29
+
+				37
+
+				37
+
+				37
+
+				45
+
+
+
+
+Planet Dişli Redüktör Teknik Parametreleri
+
+
+
+
+				İç Dişli Malzemesi
+
+				45# Çelik
+
+
+
+				Çıkış Rulman Formu
+
+				Bilyalı rulmanlar
+
+
+
+				Radyal Yük
+
+				≤35N
+
+
+
+				Eksenel Yük
+
+				≤25N
+
+
+
+				Radyal Boşluk
+
+				≤0.04mm
+
+
+
+				Eksenel Boşluk
+
+				≤0.03mm
+
+
+
+				Boşluk (Yük Yok)
+
+				≤2°
+
+
+
+
+Not: Planet Dişli Adımper Motor Tutma Torku = 17HS8401-S Adımlayıcı Motor Tutma Torku * Azaltma * 0.8
+	Uyarı: Kutu 16 NM'den Daha Az Tork Sağlayabilir
+
+17HS8401-S Adım Motor Elektriksel Özellikler:
+
+
+
+
+				modeli numarası.
+
+				Adım
+				Açı
+
+				Motor 
+				Uzunluk
+
+				Oy 
+				Akım
+
+				Direnç
+				/Faz
+
+				İndüktans
+				/Faz
+
+				Tutma 
+				tork
+
+				kilit
+				tork
+
+				Atalet
+				Rotor
+
+				  Öncülük etmek 
+
+
+
+				(°)
+
+				(L)aa
+
+				(A)
+
+				(Ω)
+
+				(mH)
+
+				(Ncm) 
+
+				(Ncm) 
+
+				(G. cm²)
+
+				(Numara.)
+
+
+
+				17HS8401-S
+
+				1.8
+
+				48
+
+				1.8
+
+				1.8
+
+				3.2
+
+				52
+
+				2.6
+
+				68
+
+				4
+
+
+
+
+Uygulamalar:
+	Robotlar step motor için kullanılır,
+	Elektronik otomatik ekipman step motor,
+	Tıbbi alet adım motoru,
+	Reklam enstrümanı step motor,
+	Aydınlatma ve ses ekipmanları step motor,
+	Yazıcı step motor, tekstil makineleri step motor,
+	Cnc router step motor.
+	3 boyutlu yazıcı
+Paket içeriği:
+1 x HANPOSE 17HS8401S-PGXXX Ekstruder Dişli Adım Motor 
+
+Daha fazla detay: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

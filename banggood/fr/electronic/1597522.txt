@@ -1,0 +1,255 @@
+https://fr.banggood.com/DIY-SMD-Component-Soldering-Practice-Board-Mini-PCB-Rotating-LED-Flash-Kit-p-1597522.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Carte de pratique de soudure de composant de bricolage SMD Mini PCB tournant LED Flash Kit
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:
+
+Tension de fonctionnement: 3 ~ 12V
+Pour la pratique du soudage de composants SMD.
+
+
+
+
+Type
+
+Quantité
+
+Marque PCB
+
+
+
+Condensateur 0805 SMD 0.1uF
+
+2
+
+C1, C2
+
+
+
+0805 Résistance SMD 10K ohm (103)
+
+5
+
+R1, R14-R17
+
+
+
+0805 Résistance SMD 1M ohm
+
+1
+
+R2
+
+
+
+0805 Résistance SMD 330ohm-1k ohm
+
+15
+
+R3-R13, R18-R21
+
+
+
+0805 SMD rouge LED
+
+15
+
+D1-D11, D16-D19
+
+
+
+SMD 1N4148
+
+4
+
+D12-D15
+
+
+
+SMDS8050 (J3Y)
+
+4
+
+Q1-Q4
+
+
+
+SMD NE555
+
+1
+
+U1
+
+
+
+SMD CD4017
+
+1
+
+U2
+
+
+
+PCB 45 * 50
+
+1
+
+
+
+
+
+
+Emballage inclus:
+
+1 x panneau de pratique de soudage de composants SMD bricolage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

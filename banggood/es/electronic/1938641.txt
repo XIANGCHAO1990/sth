@@ -1,0 +1,143 @@
+https://es.banggood.com/SDR-RSP1-Software-Defined-Radio-Receiver-SDR-Software-Defined-Radio-Receiver-Amateur-Radio-Ham-p-1938641.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+SDR RSP1 Definido por software Radio Receptor SDR Definido por software Radio Receptor Aficionado Radio Ham
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introducción:Esquema msi2500 msi001, simplifica el circuito SDRplay RSP1, la interfaz es USB Type-C (interfaz de teléfono móvil Android), placa de doble capa, adopta el proceso Jialichuang SMT SMT, el tamaño de la placa es de 80 * 47,4 mm y las 5 interfaces de antena corresponden respectivamente a diferentes bandas de frecuencia.El rango de frecuencia efectivo es de 10 KHz a 1 GHz, la resolución ADC es de 12 bits y todo el segmento tiene un ancho de banda visual en tiempo real de 10 M (puede monitorear un rango de señal de 10 M de ancho en tiempo real, como 430-440 MHz)Se puede utilizar para modulación de frecuencia FM, modulación de amplitud AM, banda lateral única SSB, telégrafo de igual amplitud CW, control ATC, modulación regional, aviación, bandas de frecuencia ferroviaria, vigilancia dependiente automática de transmisión, analógico de banda ancha y estrecha, intercomunicador digital, intercomunicador digital DMR , transmisiones digitales DRM, imágenes SSTV, nubes meteorológicas NOAA, monitoreo de radioastronomía, estación espacial internacional ISS y más.Compatible con las cuatro plataformas de Windows, Linux, osMac y Android, y soporta perfectamente SDRuno, SDR Sharp, HDSDR, SDR consol y GNURadi. , SDR Touch y otro software convencional.(Android dispositivos deben ser compatibles con OTG)Preguntas y respuestasP: ¿En qué se diferencia de la versión completa que vende?Respuesta: La versión completa usa 0.5PPM TCX0, que tiene una frecuencia precisa. La versión simple solo usa un oscilador de cristal activo ordinario con una pequeña frecuencia de contrapeso (no afecta la recepción). La versión simple no tiene carcasa y necesita cambiar manualmente la antena. La versión simple es solo por usabilidad. Persigue el rendimiento. La frecuencia máxima de la versión simple solo puede llegar a 1G (usted mismo puede cambiarla a 2G), porque la versión simple tiene una gran simplificación en el circuito y no es tan buena como la versión completa en indicadores importantes como la aceptación. sensibilidad y selectividad, pero las funciones son las mismas. , lo que equivale a dos computadoras de escritorio con sistema Windows instalado, con diferentes configuraciones.P: ¿Qué antena necesito para este SDR?Respuesta: La relación entre la antena y el receptor es como el cuerpo de la cámara y la lente. La combinación de los dos puede producir buenos resultados. Por supuesto, cuanto más grande sea la antena, mejor, y cuanto más cara, mejor. Tamaño de antena de onda corta dipolo horizontal, antena V invertida de cuatro bandas, antena activa de bucle pequeño, la transmisión local solo necesita insertar un trozo de alambre de hierro en el puerto de la antena. Los 5 puertos de antena son un diseño de compromiso de bajo costo. El RSP1 original tiene solo un puerto de antena y el interruptor de RF interno se usa para cambiar automáticamente entre diferentes circuitos de banda. La versión simple omite el interruptor de banda y necesita reemplazar manualmente el conector de antena.P: ¿Esto es original?R: No, esto se produce en base a materiales de código abierto, aquí está la publicación original www.kechuang.org/t/83 757 para su referencia, este producto se basa en las necesidades del cliente, agregando tres bandas de filtros de 60MHz a 1000Mhz, Rediseñe el diseño de PCB, modifique la interfaz a Tipo-C, no coloque cobre en el área de RF y agregue vías de puente para facilitar el lanzamiento posterior.El paquete incluye:1 x SDR RSP1 Software definido Radio Receptor
+
+
+
+

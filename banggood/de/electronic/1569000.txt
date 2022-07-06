@@ -1,0 +1,505 @@
+https://de.banggood.com/ESCAM-PVR008-H_265-Auto-Tracking-PTZ-Pan-or-Tile-Camera-2MP-HD-1080P-Wireless-Night-Vision-IP-Camera-p-1569000.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+ESCAM PVR008 H.265 PTZ-Schwenk- / Kachelkamera mit automatischer Verfolgung 2MP HD 1080P Drahtlose Nachtsicht-IP-Kamera
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Click here to purchase the tuya version<<<Eigenschaften :
+
+
+
+1.1080P Auflösung und Hisilicon-Chip, hochauflösende Bildqualität
+
+2.H.265 Komprimierung, sparte viel Übertragungs- und Speicherkosten
+
+3.Unterstützen Sie die Nachtsicht, die IR-Entfernung beträgt bis zu 10 m 
+
+4. Hochwertiges Zwei-Wege-Audio mit Rauschunterdrückung
+
+5. Unterstützen Sie die WiFi-Verbindung und die AP-Verbindung
+
+6.Unterstützungsbewegungserkennung, Humanoiderkennung und Schallerkennung
+
+7.Unterstützt maximal bis zu 128 GB mirco SD-Karte
+
+8. Unterstützung der Schwenk- und Neigungsüberwachung, Schwenk 355 ° + Neigung 120 °
+
+9.Support Multi-Platform, Support APP, PC-Klient 
+
+10.Unterstützen Sie die APP-Push-Benachrichtigung
+
+11. Unterstützen Sie das Onvif- und Rtsp-Protokoll.
+
+
+
+
+Spezifikation :
+
+
+
+
+
+
+
+
+
+
+
+
+Modell
+
+ESCAM PVR008
+
+
+
+Kamera
+
+
+
+
+
+Sensor
+
+1 / 2,9 ”2 Megapixel Progressive CMOS
+
+
+
+Elektronische Verschlusszeit
+
+Auto / Manuell, 1/50 ~ 1/10000s 
+
+
+
+Minimale Beleuchtung
+
+Farbe: 0.1Lux@F1.2, S / W: 0.01Lux@F1.2
+
+
+
+Focal Länge
+
+3.6mm
+
+
+
+Betrachtungswinkel
+
+75,7 °
+
+
+
+Funktionen
+
+
+
+
+
+P / T-Funktion
+
+Schwenk: 355 °, Neigung: 120 °
+
+
+
+Tag / Nacht-Schalter
+
+10 Stück IR LEDs, IR Abstand 10m
+
+
+
+Weißabgleich
+
+Automatischer Weißabgleich
+
+
+
+BLC
+
+Unterstützt BLC
+
+
+
+Digitale Geräuschreduzierung
+
+Unterstützt 3D-Geräuschreduzierung
+
+
+
+WDR
+
+Unterstützt D-WDR
+
+
+
+Schutzraum
+
+Unterstützt 4 Zonen
+
+
+
+OSD
+
+Unterstützt die OSD-Einstellung
+
+
+
+Video
+
+
+
+
+
+Kompression
+
+H.264 / H.265
+
+
+
+Auflösung
+
+Mainstream: 1080P (1920 * 1080), 720P (1280 * 720)
+
+
+
+Substream:D1 (704 * 576), 360P (640 * 360), CIF (352 * 288)
+
+
+
+Video-Bildrate
+
+25 fps (50 Hz), 25 fps (60 Hz);
+
+
+
+Beißer
+
+135 Kbit / s ~ 2048 Kbit / s CBR / VBR einstellbar
+
+
+
+Videoanpassung
+
+Helligkeit, Sättigungsfähigkeit, Chromazitätseinstellung
+
+
+
+Netzwerk
+
+
+
+
+
+Kabellos
+
+Unterstützt WIFI 802.11b / g / n, 2,4 G-Band, AP-Modus
+
+
+
+IP-Typ
+
+Dynamische IP und statische IP
+
+
+
+Netzwerkvereinbarung
+
+HTTP, TCP / IP, UPNP, RTSP, SMTP, NTP, DHCP, DNS, PPPOE, DDNS, FTP
+
+
+
+Zugriffsprotokoll
+
+Unterstützt ONVIF 2.4
+
+
+
+Maximale Benutzermenge
+
+4
+
+
+
+Klient
+
+iPhones, iPads, Android,Windows PC
+
+
+
+Alarm
+
+
+
+
+
+Alarmerkennung
+
+Humanoide Erkennung und automatische Verfolgung, Bewegungserkennung, Schallerkennung
+
+
+
+Alarmaktion
+
+Alarmaufzeichnung, Alarmerfassung, E-Mail- und FTP-Sendebilder, APP-Push
+
+
+
+Audio
+
+
+
+
+
+Audioeingang
+
+Eingebautes Mikrophon
+
+
+
+Audioausgabe
+
+Eingebauter Lautsprecher
+
+
+
+Schnittstelle
+
+
+
+
+
+TF-Karte
+
+Unterstützt maximal 128 GB TF-Karte (Micro-SD)
+
+
+
+Allgemeines
+
+
+
+
+
+Stromversorgung
+
+DC5V
+
+
+
+Energieverbrauch
+
+<6W
+
+
+
+Arbeitsumfeld
+
+-10 ° C ~ + 50 ° C, 10% ~ 85%
+
+
+
+Abmessungen
+
+90mm * 80mm *105mm 
+
+
+
+Gewicht
+
+0.19kg
+
+
+
+Paketdimension
+
+150mm * 140mm * 100mm 
+
+
+
+Paketgewicht
+
+0.35kg
+
+
+
+Paketliste
+
+IP-Kamera * 1, Netzteil * 1, USB-Kabel * 1, Reset-Pin * 1, Schrauben * 1, Handbuch * 1
+
+
+
+
+
+
+Handbuch: http://myosuploads3.banggood.com/products/20200113/20200113021337PVR008-20190815.pdf
+
+Paket beinhaltet:
+
+
+1 x PVR008 IP-Kamera
+	1 x USB-Netzteil
+	1 x Micro-USB-Ladekabel
+	2 x Kunststoffausdehnung
+	2 x Schrauben
+	1 x Kurzanleitung
+
+
+Details Bilder:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

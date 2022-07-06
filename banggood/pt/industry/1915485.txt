@@ -1,0 +1,143 @@
+https://pt.banggood.com/Portable-uSDX-8-Band-SDR-All-Mode-Transceiver-USB,LSB,CW,AM,FM-HF-SSB-QRP-Transceiver-QCX-SSB-with-Battery-p-1915485.html?cur_warehouse=CN&ID=515244&rmmds=CategoryToolsPop
+Portable uSDX 8 Band SDR All Mode Transceiver USB, LSB, CW, AM, FM HF SSB QRP Transceiver QCX-SSB with Battery
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>Por favor, clique aqui para baixar o manual do usuário em inglês<<Descrição: Este transceptor de ondas curtas QRP SSB / CW tem uma tela 1602, bateria embutida, equipado com um carregador, microfone embutido, alto-falante, pode ser conectado a uma chave automática e também pode ser decodificado em CW.NOTA:Fonte de alimentação de 13,8 V:Frequência abaixo de 10M 3-10W é normalA frequência diminui de cerca de 3-5W entre 10M e 30M. Quanto maior a frequência, maior a diminuição, e a frequência mais alta pode ser menor que 2W.Alimentado por bateria:Potência total reduzida em um terçoAs funções AM e FM são presentes, sem garantia de serem perfeitasRecursos:1. Usando tubo de lançamento da série IRF, durável.2. Pode ser usado para conectar a antena (base do medidor).3. Marcação de escudo de laser de alumínio, todos os botões de alumínio, chaves de silicone translúcido.4. O circuito qcx original é bastante simplificado e os componentes instalados são reduzidos em 50%. Não há necessidade de enrolamentos de transformador complicados e nenhum procedimento de fiação, o mais econômico e fácil de construir.Lista de funções: - Estágio de lançamento SSB da unidade e-levelFonte de energia de -13,8 V sobre saída de 10 w ssb pep - Suporte ao modo completo: usb, lsb, cw, am, fmfiltro -dsp: 4000, 2500, 1700, 500, 200, 100, banda passante de 50 HzFunção -dsp: controle de ganho automático (agc), redução de ruído (nr), gatilho de voz, gatilho de voz xmit, atenuador rx (att), tx noise gate, tx driver control, controle de volume, dbm / s-meter-Banda lateral reversa / transmissão de supressão de portadora SSB: melhor que -45dbc, imd3 (tom duplo) -33dbc, recepção: melhor que -50dbc -Suporte multi-banda, continuamente ajustável na faixa de frequência de 160m-10m (com perda de desempenho de 20kHz) ..99 MHz)- Firmware de fonte aberta, embutido no ide; permite experimentação, pode adicionar novos recursos, pode compartilhar contribuições através do github, complexidade do software: 2.000 linhas de código-O software baseado em V pode ser usado para operações desonestas completas e rápidas (qsk e semi-qsk) ou execução auxiliar no modo digital (sem interface cat ou ptt) para switch rx / tx, com controle de retardo tx / pa Saída ptt externa- Instalação e modificação simples, 8 mudanças de componentes e 8 fios- Transceptor leve e de baixo custo: graças ao transmissor de nível eletrônico eer, possui alta eficiência de energia (sem necessidade de dissipador de calor volumoso) e design simples (sem necessidade de amplificadores de potência lineares balanceados complexos)Fase -Ssb transmissor baseada inteiramente em digital e software: controle a fase do si5351 pll (por meio de uma pequena mudança de frequência i2c excedendo 800kbit / s) e a amplitude do pa (via de pwm a pwm) para testar a entrada do microfone e reconstruir o sinal ssb. Circuito de modelagem de chave pa)-Estágio do receptor sdr totalmente digital e baseado em software (opcional): amostra o sinal i/q (complexo) do mixer digital do testador de amostragem de quadratura e executa uma mudança de fase de 90 graus (transformada de Hilber) no software E remova uma banda lateral adicionando-Três faders analógicos selecionáveis independentes do receptor frontal (0db, -13db, -20db, -33db, -53db, -60db, -73db)- Nível de ruído do receptor de MDs: -135dbm (200hz bw) a 28mhz- Seletividade do receptor frontal: ajuste de frequência íngreme -45db / dez vezes roll-off +/- 2khz -bloqueioFaixa dinâmica: Offse de 20 khzit 123db, 2khz offseit Decodificador 78db-Cw, reto / iâmbico-a / b keying -Vfo a / b + rit e divisão de frequência, e alternar o relé correspondente com filtro através de i2c-Suporte a gatos (subconjunto TS480), pode transmitir áudio, pressionamentos de teclas e exibir texto via catIntrodução à porta:-Carregamento: Integrado na porta de carregamento da bateria de lítio, apenas o carregador incluído pode ser usado! É proibido usar outros carregadores!-Switch: off, Bat: fonte de alimentação da bateria embutida, 13.8: fonte de alimentação externa-DC13.8v / 3a: fonte de alimentação externaInterface -Key: conexão automática do corpo da chave (a, b, chave única)-Pa: amplificador de potência externo, sinal ptt-Mic: microfone externoInterface -Uart: comunicação serial (comando compatível com TS-480)-Spk: alto-falantes externosIncluído no Pacote:1 x grupo transceptor1 x Walkie Talkie （Opcional）NOTA: A versão nova/antiga é enviada aleatoriamente, eles têm a mesma função, apenas a aparência é diferente
+
+
+
+

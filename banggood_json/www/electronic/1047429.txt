@@ -1,0 +1,172 @@
+1047429
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/CA/F9/a3a20464-326a-47ae-8f93-5cd11e61dc89.jpg
+3Pcs ATmega328P Development Board Compatible Nano V3 Module Improved Version No Cable
+https://www.banggood.com/3Pcs-ATmega328P-Development-Board-Compatible-Nano-V3-Module-Improved-Version-No-Cable-p-1047429.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specification:
+
+Microcontroller ATmega328
+Operating Voltage (logic level): 5V
+Input Voltage (recommended): 7V ~ 12V
+Input Voltage (limits): 6V ~ 20 V
+Digital I/O Pins: 14 (of which 6 provide PWM output)
+Analog Input Pins: 8
+DC Current per I/O Pin: 40mA
+Flash Memory: 32KB (ATmega328) (of which 2 KB used by bootloader)
+SRAM: 2KB (ATmega328)
+EEPROM: 1KB (ATmega328)
+Clock Speed: 16MHz
+
+Note:
+
+This version is not included the USB cable.
+Had change the USB chip, improve the download speed and stability of WIN7/WIN8
+
+Package included:
+
+3 x Compatible Improved Version Nano V3.0
+
+ 
+
+
+
+
+,
+
+
+

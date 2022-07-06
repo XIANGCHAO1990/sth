@@ -1,0 +1,174 @@
+https://fr.banggood.com/0_95-Inch-7pin-Full-Color-65K-Color-SSD1331-SPI-OLED-Display-p-1068167.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® 0,95 pouces 7pin polychrome 65K couleur SSD1331 SPI OLED affichage pour Arduino
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Téléchargement du fichier: Cliquez pour ouvrir
+
+Caractéristique:
+
+Taille: 0,95 pouces
+Résolution: 96 * 64
+Lecteur IC: SSD1331
+Couleur: 65536 couleur
+Interface: interface SPI
+PIN NO .: 7Pin
+Tension: 3.3V - 5V
+
+Description de la broche:
+
+GND: masse de puissance
+VCC: alimentation de 2.8-5.5V
+D0: Horloge CLK
+D1: données MOSI
+RST: réinitialiser
+DC: Données / commande
+CS: signal de sélection de puce
+
+Emballage inclut:
+
+1 x 0,95 pouces OLED 7pin
+
+
+
+
+
+
+
+
+,,
+
+

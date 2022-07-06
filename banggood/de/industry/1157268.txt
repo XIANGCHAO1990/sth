@@ -1,0 +1,277 @@
+https://de.banggood.com/FY3224S-(FY3200S-24M)-24MHz-Dual-channel-Arbitrary-Waveform-DDS-Function-Signal-Generator-Sine-Square-Wave-Sweep-Counter-p-1157268.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+DANIU FY3224S Zweikanalige arbiträr Waveform DDS Funktion Signal Generator Sinus Rechteckschwingung Scannen Zähler
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+
+
+
+
+Sinal beliebige Form FY3224S gerador von sinal Sinuswelle DDS qm von 24 MHz varrimento
+
+
+
+
+GlaubenAtures: 
+
+
+
+
+	Frequenz des Ausgangssignals mit hohen Genauigkeit, gute Stabilität.
+Die Amplitude des Signals V 20.
+L'outil peut être mis en oeuvre en fonction des Paramètres du Programm, facile à utiliser.
+Frequenz, die es, die Zählfunktion, die hohen Kosten begleitet.
+O ,, Brusteinrichtung prune liefern triângulo, Rampe, Puls Formel CC Tensão Skala quadrática.
+Die Genauigkeit der Pulspulsdauer kann eingestellt werden.
+
+
+
+
+Funktion:
+
+1. Oder Use-Technologie ermöglicht die direkte digitale DDS Sintese notwendig uma saída, estável, com baixa distorção zu erhöhen.
+2. CH1 und CH2 dois Canais vollständig symmetrisch, wobei jeder Kanal wird PARAMETER Prune independentemente justieren.
+3. Die Wellenformen unterstützt definierten Benutzer, die Tiefe jeder beliebigen Wellenformspeicher Abtastfrequenz von 2048 x 12 Bits / s 250MSa.
+4. Manuell ausgewählten Trigger CH2 Trigger Brennen drei Modi der internen und externen Triggern sehr gesprüht, die die Vorrichtung 1 an jeder Steckdose zulassen 1.048.Pakete 575.
+5. Meßfunktionen: Funktionen Gerät wird mit 100-MHz-Frequenzzähler und Impulszähler Funktionen.
+6. O gerador von sinal der Länge 12 Bits oder sinal Saida empfindliche é mais, distorção gibt Wellenform E reduzida.
+7. Komplette Anzeige numerisch gesteuert, und die Amplitude des Ausgangsphasenstroms digital gewährt, Offset, Frequenz, Tastverhältnis und die beiden Signale.
+8. Nachdem die Kamera an einen Computer anschließen, können Sie den Computer in Bezug auf den Funktionen und Einstellungen des PCs des Steuersignalgenerators verwenden und kann auf dem Computer bearbeitet werden, um das willkürliche Wellenformsignal Instrument zum Download.
+
+9. Comunicação: um Protokoll comunicação padrão vollständig Aberto oder desenvolvimento leicht secundário verwenden.
+10. Hohe Genauigkeit Rate: 06.10 Frequenzgenauigkeit.
+11. Hochauflösende Frequenz: 10 MHz Frequenzauflösungsbereich.
+12. Überwachung: Frequenz, Amplitude, Offset-, Tastgrad, Wellenform und andere Parameter der folgenden Funktionen Anlage gebaut.
+13. Die Scan-Funktion: Die Funktion der linearen Frequenzskala-Funktion und eine logarithmische Sweep definieren, kann der Beginn der Abtastung und Endpunkte festgelegt werden.
+14. Speicherfunktion: 20 Gruppen von Parametern der Parameter speichern kann, durch den Benutzer des Werkzeugs gesetzt ist, kann es notwendig sein auszuführen
+15. Opération: berührt, le LCD1602 d'affichage die cristaux liquides en allemand, le réglage numérique direkt oder bouton de réglage continu.
+16. Protecção gibt Tensão Eingang: AC85V ampla Bereich von Eingangs tensão até 240V.
+17. Protecção, saída von Curto-Schaltung alle saídas als sinal em Prune Funktion bei Überlastung Schaltung ou Curto-60S.
+
+
+
+
+
+
+
+
+
+
+Spezifikationen:
+Eingebettete Schalter Energieversorgung: AC85V-AC260V
+Schnittstelle: USB
+
+Ausgangssignal:
+Eingang Amplitude: ≥≥20Vp-p (no load)
+Ausgang Impedance: 50Ω ± 10%
+DC Polarisation: ± 10V
+Frequenzbereich von 0 Hz - 24 MHz (Orther  0 Hz - 6 MHz)
+
+Zähler:
+Der Referenzbereich: 0-4294967295
+Messbereich von 1 Hz - 100 MHz
+Eingang Amplitude: 1 Vp-p - p-20Vp
+
+Scan:
+Scannen-Modus: lineare Abtastung, eine Analyse in Rekordzeit
+Faixa der Frequenz: Anfangs- und Abschluss Pontos freie Einstellung
+Abtastfrequenz Bereich: vorbestimmte Frequenz M1 - M2
+Scannen Geschwindigkeit: 1 ~ 999 s / Schritt
+
+Andere:
+Speicher- und Übertragungsfunktionen M0 - M9 (M0: default)
+Größe: 200mm (L) × 190mm(W) × 90 (H) mm
+Bell-Funktion: Schließen oder Installation durch das Programm
+Betriebseigenschaften: Alle Tastenbedienung, kontinuierlicher Einstellknopf
+Umweltbedingungen: Temperatur 0 - 40 ℃ Feuchtigkeit <80%
+
+>>>CLICK HERE to download all the files in the CD<<<
+
+
+
+
+Lieferumfang: 
+
+
+
+
+1 X FY3224S Doppel kanäle DDS DDS Funktion Generator 24MHz
+
+
+1 X 1M Power Kabel
+1 X1.25M USB Kabel
+2 X1.Kabel 1M Q9
+
+
+
+
+Details Bilder: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

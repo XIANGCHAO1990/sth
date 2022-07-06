@@ -1,0 +1,143 @@
+https://pt.banggood.com/HANTEK-4-Channels-70MHz-Bandwidth-Digital-Storage-Oscilloscopes-USB-Portable-Automotive-Oscilloscope-6074BC-or-6074BC-or-6074BD-p-1941451.html?cur_warehouse=CN&ID=6318699&rmmds=CategoryToolsPop
+HANTEK 4 Channels 70MHz Bandwidth Digital Storage Oscilloscopes USB Portable Automotive Oscilloscope 6074BC/6074BC/6074BD
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:Padrão equipado com mais de 80 tipos de função de medição automotiva (Ação de ignição/O Sensor/Diagnóstico de barramento/Performer/Startup&Charge); Interface USB 2.0 plug and play, sem necessidade de fonte de alimentação extra; Suporte para tablet PC; Suporte WIN10/WIN8/WIN7 etc. Atualização de software gratuita constantemente, desempenho de custo mais alto; Suporte USBXI, fácil de operar. Osciloscópio de 4 canais isolados, taxa de amostragem em tempo real de 1GSa/s, alta sensibilidade de entrada de 2mV-10V/DIV e grande faixa de entrada, largura de banda alta de 70MHz, tamanho pequeno, fácil de transportar. Rastreamento de cursor dinâmico, gravação de forma de onda e função de repetição.Recursos:Padrão equipado com mais de 80 tipos de função de medição automotiva; Primeiro diagnóstico: Ignição a vácuo do coletor de admissão, Ignição a vácuo da válvula de ajuste de fumaça de gasolina, Ignição de exaustão em marcha lenta, Ignição de exaustão de partida; Ignição: primária e secundária; Sensor: Medidor de fluxo de ar, árvore de cames, virabrequim, distribuidor , sensor Lambda, posição do acelerador; diagnóstico do barramento: exame de dados do barramento CAN, integridade do sinal do barramento CAN, aquisição de longo tempo do barramento CAN LH, barramento LIN; Executor: gasolina/dieselAdequado para computadores portáteis, PC de mesa e adequado para uso móvel selvagem e uso em viagens de negócios. Suporte WIN10/WIN8/WIN7 etc.Interface USB 2.0 plug and play, sem necessidade de fonte de alimentação extra;Ótima função, mais de 20 tipos de função de medição automática, função de verificação de PASS/FAIL. Função de disparo engenhosa, rastreamento dinâmico do cursor, gravação de forma de onda e função de repetição.Bom design mecânico com tamanho pequeno que é fácil de transportar. A caixa externa é feita do mesmo material - alumínio anodizado. Tem grande resistência ao calor e resistência à abrasão com aparência bonita. A dureza da superfície da liga de alumínio é muito melhorada.Osciloscópio de 4 canais isolados, taxa de amostragem em tempo real de 1GSa/s, alta sensibilidade de entrada de 2mV-10V/DIV e grande faixa de entrada, largura de banda alta de 70MHz,Os dados da forma de onda podem ser enviados para EXCEL, BMP, JPG.Média da forma de onda, brilho residual, controle de luminosidade, reversão, adição, subtração, multiplicação, divisão, exibição XY.Analisador de espectro FFTUm computador pode se conectar com vários osciloscópios, expandir o número do canal facilmente.Fornecer DLL de biblioteca de desenvolvimento secundária; Fornecer exemplo de desenvolvimento LabviewVBVCQTA diferença é que o 6074BC não possui uma função de opção de teste de carro e outras funções são as mesmas do 6074BE.Especificação:ModeloHantek 6074BELargura de banda70MHzCanal4 CHTaxa de amostragem em tempo real1GSa/sProfundidade da Memória64KPrecisão da Base de Tempo± 50ppmIntervalo de base de tempo2ns/div-1000s/div (1-2-4 sequências)Impedância de entrada1MΩ 25pFSensibilidade de entrada2mV/div~10V/divResolução Vertical8BitFaixa de deslocamento verticalsonda de 2mV ~ 10V/div @ x1; 20mV ~ 100V/div @ x10 sonda;sonda 200mV ~ 1000V/div @ x100; 2V ~ 10000V/div @ x1000 sondaPrecisão de ganho DC±3%Largura de banda20MHzModo de disparoBorda, Pulso, Vídeo, AlternativaOrigem do gatilhoCH1, CH2, CH3,CH4Processo de sinal de forma de onda+,-,x,÷,FFT, InverterMedição de cursoresCruz, Trace, Horizontal, VerticalMedição automática Vpp, Vamp, Vmax, Vmin, Vtop, Vmid, Vbase, Vavg, Vrms, Vcrms, Preshoot, Overshoot, Frequency, Period, Rise Time, Fall Time, Largura Positiva, Largura Negativa, Ciclo de TrabalhoVolume175mm x 105mm x 25mmO pacote inclui1 x 6074BE1 x HT3071 x HT191 x HT18A1 x HT30A3 x linhas de clipe de jacaré1 x HT251 x USB1 x manualModeloHantek 6074BCLargura de banda70MHzCanal4 CHTaxa de amostragem em tempo real1GSa/sProfundidade da Memória64KPrecisão da Base de Tempo± 50ppmIntervalo de base de tempo2ns/div-1000s/div (1-2-4 sequências)Impedância de entrada1MΩ 25pFSensibilidade de entrada2mV/div~10V/divResolução Vertical8BitFaixa de deslocamento verticalsonda de 2mV ~ 10V/div @ x1; 20mV ~ 100V/div @ x10 sondasonda 200mV ~ 1000V/div @ x100; 2V ~ 10000V/div @ x1000 sondaPrecisão de ganho DC±3%Limite de banda larga20MHzModo de disparoBorda, Pulso, Vídeo, AlternativaOrigem do gatilhoCH1, CH2, CH3,CH4Processo de sinal de forma de onda+,-,x,÷,FFT, InverterMedição de cursoresCruz, Trace, Horizontal, VerticalMedição automáticaVpp, Vamp, Vmax, Vmin, Vtop, Vmid, Vbase, Vavg, Vrms, Vcrms, Preshoot, Overshoot, Frequency, Period, Rise Time, Fall Time, Largura Positiva, Largura Negativa, Ciclo de TrabalhoVolume175mm x 105mm x 25mmPeso0.9KGO pacote inclui1 x 6074bc osciloscópio usb2 x sonda de osciloscópio(Nota: apenas 2 pcs sondas no pacote, se você quiser comprar mais, entre em contato conosco diretamente!!!)2 x BNC - cabo de clipe1 x cabo USB1 x motorista1 x manualModeloHantek 6074BDLargura de banda70MHzCanal4 CHTaxa de amostragem em tempo real1GSa/sProfundidade da Memória64KPrecisão da Base de Tempo± 50ppmIntervalo de base de tempo2ns/div-1000s/div (1-2-4 sequências)Impedância de entrada1MΩ 25pFSensibilidade de entrada2mV/div~10V/div Resolução Vertical8BitFaixa de deslocamento verticalsonda de 2mV ~ 10V/div @ x1; 20mV ~ 100V/div @ x10 sonda;sonda 200mV ~ 1000V/div @ x100; 2V ~ 10000V/div @ x1000 sondaPrecisão de ganho DC±3%Largura de banda20MHzModo de disparoBorda, Pulso, Vídeo, AlternativaOrigem do gatilhoCH1, CH2, CH3,CH4Processo de sinal de forma de onda+,-,x,÷,FFT, InverterMedição de cursoresCruz, Trace, Horizontal, VerticalMedição automáticaVpp, Vamp, Vmax, Vmin, Vtop, Vmid, Vbase, Vavg, Vrms, Vcrms, Preshoot, Overshoot, Frequency, Period, Rise Time, Fall Time, Largura Positiva, Largura Negativa, Ciclo de TrabalhoVolume175mm x 105mm x 25mmPeso0.9KGAcessório2 sondas passivas, 2 linhas de clipe de jacaréIncluído no Pacote:1 x 6074BC/6074BC/6074BD Armazenamento Digital Osciloscópio1 conjunto de acessóriosDetalhes Fotos:
+
+
+
+

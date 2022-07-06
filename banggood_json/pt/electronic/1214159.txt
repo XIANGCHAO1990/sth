@@ -1,0 +1,165 @@
+1214159
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/23/A6/0aa37271-1c1e-475c-b8fa-5b4dda0248c9.jpeg
+Geekcreit® ESP32 Placa de desenvolvimento WiFi + bluetooth Consumo de energia ultrabaixo Pinos de núcleos duplos não soldados
+https://pt.banggood.com/Geekcreit-ESP32-WiFi+bluetooth-Development-Board-Ultra-Low-Power-Consumption-Dual-Cores-Pins-Unsoldered-p-1214159.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:
+ 
+ESP32 já é antena integrada e balun RF, amplificador de potência, amplificadores de baixo ruído, filtros, e módulo de gerenciamento de energia.
+A solução inteira ocupa a menor quantidade de área da placa de circuito impresso.
+Esta placa é usada com chips Wi-Fi e bluetooth de modo duplo de 2,4 GHz pela tecnologia de baixa potência TSMC 40nm,
+as melhores propriedades de potência e RF, o que é seguro, confiável e escalável para uma variedade de aplicações.
+ 
+Recursos:
+
+Relação preço-desempenho alta
+Pequeno volume, facilmente incorporado a outros produtos
+Função forte com suporte ao protocolo LWIP, Freertos
+Suportando três modos: AP, STA e AP+STA
+Suportando o programa Lua, fácil de desenvolver
+Quadro de desenvolvimento: https://github.com/Nicholas3388/LuaNode 
+Nota: Pinos não soldados
+Devido à falta de chips, ESP32-Wroom-32D e ESP32-Wroom-32 podem ser enviados aleatoriamente.
+Incluído no Pacote:
+
+1 x ESP32 Placa de Desenvolvimento (não soldado)
+
+
+
+

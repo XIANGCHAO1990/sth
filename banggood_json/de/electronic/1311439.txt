@@ -1,0 +1,198 @@
+1311439
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/BA/E5/899ae22e-d35c-4819-9935-f2df4d9faf9e.jpeg
+Geekcreit® LCR-T4 12864 LCD ESR SCR-Messgerät für den Widerstand des grafischen Transistortesters
+https://de.banggood.com/Geekcreit-LCR-T4-12864-LCD-Graphical-Transistor-Tester-Resistance-Capacitance-ESR-SCR-Meter-p-1311439.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spezifikationen:
+
+Widerstand: 0,1ω-50Mω
+Kondensator: 25pF-100000uF
+Induktivität: 0,01 mH - 20H
+Arbeitsleistung: DC-9V
+Standby-Strom: 0,02 uA
+Betriebsstrom: 25mA
+Material: Metall + Kunststoff
+Größe: ca. 11,1 cm / 4,37 "x 2,6 cm / 1,02" x 8,5 cm / 3,34 "
+[Umwandlung: 1 cm = 0,3937 Zoll, 1 Zoll = 2,54 cm]
+
+
+Eigenschaften:
+
+
+
+1. Unterstützt die Boot-Spannungserkennungsfunktion
+
+2. Automatische Erkennung von NPN- und PNP-Transistoren, N-Kanal- und P-Kanal-MOSFETs, Dioden (einschließlich Doppeldioden), Thyristoren, Trioden, Widerständen und Kondensatoren. Automatisches Testen der Komponentenleitungen und Anzeigen auf dem LCD
+
+Die Durchlassvorspannung des Emittertransistors kann durch Erfassen des Verstärkungsfaktors und der Basisnummer eines Transistors, einer MOSFET-Schutzdiode und dergleichen bestimmt werden
+
+4. Messen Sie die Gate-Schwellenspannung und die Gate-Kapazität MOSFET
+
+5. Das Display verwendet 12864 lcd LCD (128 * 64 Zeichen).
+
+6. Hohe Testgeschwindigkeit, gültiger Komponententest: In 2 Sekunden (außer bei größeren Kondensatoren dauert die Messung großer Kapazitäten ebenfalls lange, die Messzeit in 1 Minute ist normal)
+
+7. Ein-Knopf-Betrieb, Einschalttest.
+
+8. Abschaltmodus für den Stromverbrauch: Weniger als 20 nA
+
+9. Die automatische Abschaltfunktion kann unnötigen Abfall vermeiden, Batterieenergie sparen und die Batterielebensdauer verbessern.
+
+Paket beinhaltet:
+
+	1 x LCR-T4 12864 LCD Grafischer Transistortester
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

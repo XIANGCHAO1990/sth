@@ -1,0 +1,145 @@
+1921645
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/D6/AB/4b6cfb4a-2d82-4a57-ae99-b59856e10907.jpg
+OV2640 21MM Módulo de câmera de lente grande angular de 66 ° / 120 ° 2MP DVP Interface Módulo ESP32 para placa de desenvolvimento ESP32-CAM
+https://pt.banggood.com/OV2640-21MM-66-or-120-Wide-angle-Lens-Camera-Module-2MP-DVP-Interface-ESP32-Module-for-ESP32-CAM-Development-Board-p-1921645.html?cur_warehouse=CN&ID=6316307&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recursos:1. Produtos 100% novos e de alta qualidade.2. Feito de materiais de alta qualidade, duráveis e práticos.3. Aplicável a uma variedade de placas de desenvolvimento inteligentes.4. Com seu tamanho pequeno e baixa voltagem de trabalho, ele fornece todas as funções de uma câmera UXGA de chip único e processador de imagem. Por meio do controle de barramento SCCB, ele pode produzir dados de amostragem de 10 bits de várias resoluções na forma de quadro inteiro, subamostragem, janelas, etc. A imagem UXGA máxima deste produto é de 15 quadros por segundo. O usuário pode controlar totalmente a qualidade da imagem, o formato dos dados e o método de transmissão. Todas as funções de processamento de imagem, incluindo curva gama, balanço de branco, saturação, croma, etc. podem ser programadas por meio da interface SCCB. O sensor de imagem OmmiVision usa tecnologia de sensor exclusiva para melhorar a qualidade da imagem e obter imagens em cores claras e estáveis, reduzindo ou eliminando defeitos ópticos ou eletrônicos, como ruído de padrão fixo, cauda, flutuação, etc.5. A alta sensibilidade é adequada para aplicações de baixa iluminação e a baixa tensão é adequada para aplicações incorporadas6. Interface SCCB padrão, compatível com a interface I2CLente grande angular de 66 ° / 120 °:Comprimento: 21 mmPixel: 2 milhõesCampo de visão: 66 ° / 120 ° (opcional)Interface: DVPLente: 1/4 "Pixel: 1600 x 1200Abertura: 2,4Incluído no Pacote:1 x módulo de câmera OV2640 66 ° / 120 °
+
+
+
+

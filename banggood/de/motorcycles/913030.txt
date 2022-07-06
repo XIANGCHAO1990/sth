@@ -1,0 +1,227 @@
+https://de.banggood.com/IMars-ELM327-bluetooth-Car-OBD2-Scanner-Diagnostic-Tool-Engine-Code-Reader-p-913030.html?cur_warehouse=CZ&rmmds=CategoryAutomobilesPop
+ELM327 Auto OBD2 KANN Scanner Werkzeuge mit Bluetooth Funktion
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ELM327 Auto OBD2 KANN Scanner Werkzeuge mit Bluetooth Funktion
+
+Beachten:Wenn Sie Ihr Auto ECU mit dem J1850  Protokoll anschließen, dann können Sie Ihr Auto nicht mit dieser Option .
+
+
+
+
+
+Besonderheiten:
+
+	1. Arbeitet mit allen OBD-II gefälligen Träger .
+2. Drahtlos (Bluetooth) 5 ~ 10 Meter .
+3. Software für Palm, PDA, Mobile, Windows PC , Smartphone. Android systerm unterstützen.
+4. Lesen Sie die Diagnosemühecodes , generisch  und manufacturer - speziell und ihre Bedeutung anzeigen
+(Mehr als 3000 allgemeine Codedefinitionen in der Datenbank).
+5. Fehlercodes  löschen und deaktivieren Sie die MIL ( "Check Engine " Licht) .
+6. Anzeige der aktuellen Sensordaten , einschließlich der Motordrehzahl  , Berechneter Lasts Wert , Kühlmitteltemperatur  , Kraftstoffsystemstatus  ,
+Fahrzeuggeschwindigkeit , Kurzfristige Kraftstoff Trim. Langzeit-Treibstoff. Trim , Saugrohrdruck , Timing Advance Ansaugluft, Temperatur, Luftdurchsatz Absolute Drosselklappenstellung, Sauerstoff Sensor Spannungen / associatedshort tige Kraftstoffordnungen,
+Brennstoffsystemstatus Kraftstoffdruck.
+7.OBD-II -Protokolle unterstützen: ISO15765-4 (CAN) , ISO14230-4 ( KWP2000) , ISO9141-2
+
+Spezifikation:
+Die aktuellen Sensordaten zeigen, einschließlich:
+Berechnete Lastwert
+Kühlmitteltemperatur
+Brennstoffsystem Status
+Fahrzeuggeschwindigkeit
+Kurzfristige Kraftstoff Ordnung
+Langfristige Kraftstoff Ordnung
+Einlasskrümmer Druck
+Timing Advance
+Ansauglufttemperatur
+Luftdurchsatz
+Absolute Drosselklappenstellung
+Sauerstoff Sensor Spannungen / verbanden kurzfristige Kraftstoffordnungen
+Brennstoffsystem Status
+Kraftstoffdruck
+
+Multi - Protokoll wie folgt unterstützen: 
+ISO 9141-2 (5 Baud init, 10.4 kBaud)
+ISO 14230-4 KWP (5 Baud init, 10.4 kBaud)
+ISO 14230-4 KWP (schnell init, 10.4 kBaud)
+ISO 15765-4 CAN (11-Bit-ID, 500 kBaud)
+ISO 15765-4 CAN (29-Bit-ID, 500 kBaud)
+ISO 15765-4 CAN (11-Bit-ID, 250 kBaud)
+ISO 15765-4 CAN (29-Bit-ID, 250 kBaud)
+SAE J1850 PWM (41.6 kBaud)
+SAE J1850 VPW (10.4 kBaud)
+
+Die folgende Software unterstützen:
+Drehmoment (Kann aus dem Android Market heruntergeladen werden)
+Scantool_net113win (Vollversion)
+EasyOBDII V2.2 (Vollversion)
+OBD2Spy (Demo Version)
+Scanmaster-ELM (Demo Version)
+WOBDCRAZY (Demo Version)
+
+Kompatibeles Fahrzeug : 
+Alle Fahrzeuge nach 1996 in US
+
+Notizen:
+Kann nicht mit iPhone oder iPad arbeiten.
+
+Lieferumfang:
+1 X Erweiterte Bluetooth OBD-II Auto Diagnose Scanner.
+1 X Treiber CD (Hier herunterladen)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

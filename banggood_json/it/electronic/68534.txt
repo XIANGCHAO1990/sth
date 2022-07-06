@@ -1,0 +1,182 @@
+68534
+https://imgaz.staticbg.com/thumb/large/upload/2014/03/SKU066315 (1).jpg
+ATMEGA328 328p 5V 16MHz Arduino Compatibile Pro Mini Scheda di Modulo
+https://it.banggood.com/Wholesale-ATMEGA328-328p-16MHz-Pro-Mini-PCB-Module-Board-5V-p-68534.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arduino Promini ATmega328 328p 5V 16MHz  è disponibile ora dal nostro magazzino US.
+
+ Spedizione gratuita a US in 3-6 giorni lavorativi.
+Spedizione a Canada e Brasile in 7-10 giorni.
+
+ATMEGA328 328p 5V 16MHz Arduino Compatibile Pro Mini Scheda di Modulo
+
+Descrizione:
+
+Nuova versione, pro mini 328 5V 16MHz, compatibile con arduino.
+Con i componenti e il materiale di saldatura d'alta qualità.
+Il bootloader è pronto, plug and play.
+
+La confezione include:
+
+1 x Pro mini Scheda 328 5V 16MHz Arduino-Compatibile 
+
+Nota da parte del cliente Mattias Schlenker:
+
+Se non si riesce a caircare sketch con il Arduino IDE, si può aggiornare il bootloader con i passi seguenti:
+
+-Preparare un Arduino UNO, Mega o simile per esser usato come un ISP come descritto sulla pagine http://arduino.cc/en/Tutorial/ArduinoISP
+-Fare il cablaggio come mostrato nell'immagine flasbootloader_connected.png (nella recensione del prodotto di ID 91446)
+-Usare Arduino IDE a flash il bootloader del corrispondente pro / pro mini (5V, 16MHz) per prodotto con ID 91446 o ID68534
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,
+
+

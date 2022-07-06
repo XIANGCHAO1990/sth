@@ -1,0 +1,145 @@
+1890124
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/16/7F/e27136f3-9f53-4efd-be36-b5d32a3edcb7.jpg
+10W portátil uSDX 8 Banda SDR All Mode Transceptor USB, LSB, CW, AM, FM HF SSB QRP Transceptor QCX-SSB com Bateria
+https://pt.banggood.com/10W-Portable-uSDX-8-Band-SDR-All-Mode-Transceiver-USB,LSB,CW,AM,FM-HF-SSB-QRP-Transceiver-QCX-SSB-with-Battery-p-1890124.html?cur_warehouse=CN&ID=6286073&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>Por favor, clique aqui para baixar o manual do usuário em inglês<<NOTA：A versão mais recente da atualização da aparência do produto, melhoria de desempenho！！！Descrição:Este é um transceptor QRP SSB/CW de ondas curtas. Possui tela 1602, bateria embutida, equipado com carregador, microfone embutido, alto-falante embutido! Pode ser conectado a uma chave automática e pode ser decodificado por cw.Recursos:- Usando o tubo de lançamento da série IRF, durável- Pode ser usado conectando a antena (assento M)- 8 bandas. Display digital de onda estacionária de energia! Potência máxima externa 13.8v 10w! Bateria interna de 12,6 V- Dimensões: 76 x 46 x 130mm/3 x 1,8 x 5,1"- Fornecer conector opcional ft8 mais tarde- Use TCXO para KDS. Precisão 0,5 PPM (1 PPM por ano)- Marcação a laser de concha de alumínio- Botões de alumínio! Botão de sílica gel translúcido (receber verde, emitir vermelho)Lista de funções:- Transceptor QRP SSB HF simples, interessante e versátil com funções DSP e SDR incorporadas- Estágio de lançamento SSB conduzido pelo nível E EER- A fonte de alimentação de 13,8 V fornece cerca de 10 W de saída PEP SSB- Suporte ao modo completo: USB, LSB, CW, AM, FM- Filtro DSP: banda passante de 4000, 2500, 1700, 500, 200, 100, 50Hz- Função DSP: controle automático de ganho (AGC), redução de ruído (NR), acionador por voz, acionador por voz Xmit (VO1X), atenuador atenuador RX (ATT), porta de ruído TX, controle de driver TX, controle de volume, dBm/S-meter- Transmissão de supressão de banda lateral/portadora reversa SSB: melhor que -45dBc, IMD3 (dois tons) -33dBc, recepção: melhor que -50dBc- Suporte multi-banda, continuamente ajustável na banda de frequência de 160m-10m (e perda de desempenho de 20kHz..99MHz)- Firmware de código aberto, integrado para IDE Arduino; permite experimentação, pode adicionar novas funções, pode compartilhar contribuições através do Github, complexidade do software: 2000 linhas de código- VO baseado em software1X pode ser usado como um método invasivo completo rápido (operação QSK e semi-QSK), ou para auxiliar na execução em modo digital (sem interface CAT ou PTT) para comutação RX/TX, saída PTT externa com atraso de controle TX/PA- Modificação de instalação simples com 8 trocas de componentes e 8 fios- Transceptor leve e de baixo custo: Graças ao EER transmissor E-level, possui alta eficiência de energia (sem necessidade de dissipador de calor volumoso) e design simples (sem necessidade de amplificadores de potência linear balanceados complexos)- Palco SSB transmissor baseado inteiramente em digital e software: Ao controlar a fase do SI5351 PLL (através da pequena mudança de frequência de I2C sobre 800kbit/s) e a amplitude do PA (através do PWM de PWM) para amostrar a entrada do microfone e reconstruir o sinal SSB. circuito de modelagem de chave PA)- Estágio de receptor SDR totalmente digital e baseado em software (opcional): amostra o sinal I/Q (complexo) do mixer digital do testador de amostragem de quadratura e executa uma mudança de fase de 90 graus no software (transformada de Hilber) e elimina um por adicionando bandas laterais- Três atenuadores de receptor front-end analógico selecionáveis independentes (0dB, -13dB, -20dB, -33dB, -53dB, -60dB, -73dB)- Nível de ruído do receptor MDS: -135 dBm (200Hz BW) a 28MHz- Seletividade de front-end do receptor: frequência de ajuste íngreme -45dB / dez vezes roll-off +/- 2kHz- Faixa dinâmica de bloqueio: 20kHz offseIt 123dB, 2kHz offseIt 78dB- Decodificador CW, manipulador direto/Iambic-A/B- VFO A/B + RIT e e Split, e troque o filtro de banda de relé correspondente através de I2C- Suporte CAT (subconjunto TS480), você pode transmitir áudio, pressionar teclas e exibir texto através do CAT- Este é provavelmente o transceptor SDR/SSB autônomo mais econômico e fácil de construir. Grande simplificação Simplifica o circuito QCX original (ou seja, reduz os componentes da instalação em 50%, reduz os componentes da instalação em 50%, não requer enrolamentos complexos do transformador e não requer procedimentos de alinhamento) e é mais versátilIntrodução à porta:- Carregar: Porta de carregamento da bateria de lítio embutida e você só pode usar o carregador fornecido! É proibido usar outros carregadores!- Interruptor: OFF para desligar. BAT: Fonte de alimentação de bateria embutida. 13.8: Fonte de alimentação externa- DC13.8V/3A: Porta de alimentação externa- KEY: conexão automática do corpo da chave (A, B, chave única)- PA: Amplificador de potência externo, sinal PTT- MIC: porta de microfone externo- UART: Porta de comunicação serial (comando compatível com TS-480)- SPK: alto-falante externoIncluído no Pacote:- 1 x conjunto de transceptor
+
+
+
+

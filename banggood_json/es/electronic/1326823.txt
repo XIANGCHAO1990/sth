@@ -1,0 +1,289 @@
+1326823
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/F4/AF/fb1bf50c-fad0-415a-9475-ff0a2080994c.JPG
+433Mhz DC12V 1CH Inalámbrico Control remoto Interruptor de relé Receptor Módulo + 2 transmisores de RF
+https://es.banggood.com/433Mhz-DC12V-1CH-Wireless-Remote-Control-Switch-Relay-Receiver-Module-+-2-RF-Transmitter-p-1326823.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTA: 
+
+
+
+El sistema puede almacenar 15 unidades de controles remotos, si el control remoto obtiene más de 15 unidades, se perderá el control remoto inicial.
+
+
+Característica:
+
+
+Tipo de cableado: terminal fijo
+
+Corriente en espera: <5MA
+
+Potencia de entrada: DC10V-14V
+
+Frecuencia de RF: 433 Mhz
+
+Recibir sensibilidad:> 97dbm
+
+Terminal de salida: NO, NC, COM
+
+Modo de trabajo RF: superheterodino
+
+Modo de decodificación: decodificación de software MCU
+
+Distancia de transmisión:> 100 m (espacio abierto)
+
+Soporte de tipo remoto: código de aprendizaje, código fijo (el código variable se puede diseñar)
+
+Modo de trabajo: Momentáneo, Alternar, Retardo de tiempo de enclavamiento (5 s, 10 s, 15 s)
+
+
+
+Acerca del modo de trabajo:
+
+
+
+- Momentáneo: presione el botón del control remoto, el relé se conecta, suelte el botón del control remoto, el relé se desconecta.
+
+- Alternar: presione una vez el botón remoto, el relé se conecta, presione dos veces el botón remoto, el relé se desconecta.
+
+- Enclavamiento: presione el botón remoto A, el relé se conecta, presione el botón remoto B, el relé se desconecta.
+
+- Modo de retardo de tiempo: presione el botón del control remoto, el relé se conecta, desde que se suelta el botón del control remoto, después de 5 so 10s o 15 s, el relé se desconecta automáticamente.
+
+
+
+Borrar el código:
+
+
+
+Presione el botón de aprendizaje en los receptores 8 veces, los códigos se limpiarán.
+
+Después de borrar el código, todo el control remoto ya no puede funcionar.
+
+
+
+1. Aprendiendo el código: (momentáneo)
+
+Presione la tecla de aprendizaje en el receptor una vez, entra en el modo de configuración momentánea.
+
+Espere un momento, el LED se apagará y entrará en estado de aprendizaje.
+
+Presione el botón del control remoto, el indicador LED en la placa del receptor parpadeará y luego se apagará.
+
+Después de 3 segundos, el indicador LED se encenderá nuevamente, aprendiendo exitosamente.
+
+
+
+2. Aprendiendo el código: (Alternar)
+
+Presione la tecla de aprendizaje en el receptor dos veces, entra en modo de configuración de alternancia
+
+Espere un momento, el LED se apagará y entrará en estado de aprendizaje.
+
+Presione el botón del control remoto, el indicador LED en la placa del receptor parpadeará y luego se apagará.
+
+Después de 3 segundos, el indicador LED se encenderá nuevamente, aprendiendo exitosamente.
+
+
+
+3. Aprendiendo el código: (Latching)
+
+Nota: Cuando elige el modo de bloqueo, para aprender más sobre el control remoto, debe aprender dos botones diferentes, la primera vez que se aprende es para "ENCENDIDO", la segunda vez que se aprende para "APAGADO".
+
+Por ejemplo: botón A = ENCENDIDO, botón B = APAGADO
+
+Presione la tecla de aprendizaje en el receptor tres veces, entra en modo de bloqueo.
+
+Espere un momento, el indicador LED en la placa del receptor parpadeará y luego se apagará.
+
+Presione el botón remoto A.
+
+El LED parpadea 5 veces.
+
+Presione el botón del control remoto B.
+
+El LED parpadea 5 veces.
+
+Después de 3 segundos, el indicador LED se encenderá nuevamente, aprendiendo exitosamente.
+
+A = ENCENDIDO, B = APAGADO.
+
+
+
+Paquete incluido:
+
+
+
+2 x Control remoto transmisores (incluida la batería)
+
+1 x Control remoto Receptor Módulo (incluido Shell)
+
+
+
+Notas:
+
+
+
+1. Medición manual, permita un error de 1 ~ 3 mm, gracias.
+
+2. Debido a la diferencia entre diferentes monitores, es posible que la imagen no refleje el color real del artículo. Garantizamos que el estilo es el mismo que se muestra en la imagen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

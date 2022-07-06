@@ -1,0 +1,353 @@
+1855813
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/0E/E5/2bde8b24-ac49-47e5-a9f6-e384d6689cde.jpg
+X96 X6 Smart TV Box RK3566 Rockchip 8GB RAM 128GB ROM Android 11.0 HD 8K 2T2R 2.4G 5G Wifi Bluetooth TV Box avec télécommande infrarouge
+https://fr.banggood.com/X96-X6-Smart-TV-Box-RK3566-Rockchip-8GB-RAM-128GB-ROM-Android-11_0-HD-8K-2T2R-2_4G-5G-Wifi-Bluetooth-TV-Boxes-with-Infrared-Remote-Control-p-1855813.html?cur_warehouse=CN&ID=47757&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+se
+
+
+
+
+
+
+Paramètres de base
+
+
+CPU
+Jeu de puces
+RK3566
+
+
+Architecture
+Quad Core ARM Cortex A55
+
+
+GPU
+Jeu de puces
+Mali-G52 1-Core-2EE
+
+
+Architecture
+pour OpenGL ES 1.1/2.0/3.2, pour OpenCL 2.0, prise en charge de Vulkan 1.1
+
+
+NPU
+
+Moteur d'accélération de réseau neuronal avec des performances de traitement jusqu'à 0,8 TOPS
+
+
+RAM
+Capacité
+8GB
+
+
+ROM
+Capacité128GB
+
+
+Stockage externe
+Périphériques de stockage USB
+Prise en charge
+
+
+Carte Micro SD
+Prise en charge
+
+
+Logiciel
+
+
+Système opérateur
+Version du système d'exploitation
+Android 11
+
+
+Langue
+Multilingue
+
+
+Multimédia
+Vidéo
+Décodeur vidéo
+
+
+Profil H.265 HEVC/MVC Main10 yuv420@L5.1 jusqu'à 4096x2304@60fps
+
+
+Profil H.264 AVC / MVC Main10 yuv400/yuv420/yuv422/@L5.1 jusqu'à 4096x2304 @ 60fps
+
+
+VP9 Profile0 / 2 yuv420@L5.1 jusqu'à 4096x2304 @ 60fps
+
+
+Version VP82, jusqu'à 1920x1088@60fps
+
+
+VC1 Simple Profile@bas, moyens, hauts niveaux, Main Profile@bas, moyens, hauts niveaux, Advanced Profile@level0~3, jusqu'à 1920x1088@60fps
+
+
+MPEG-4 Simple Profile@L0~6, Advanced Simple Profile@L0~5, jusqu'à 1920x1088@60fps
+
+
+Profil principal MPEG-2, niveaux bas, moyen et élevé, jusqu'à 1920x1088@60fps
+
+
+Profil principal MPEG-1, niveaux bas, moyen et élevé, jusqu'à 1920x1088@60fps
+
+
+H.263 Profile0, niveaux 10-70, jusqu'à 720x576@60fps
+
+
+Encodeur vidéo
+
+
+H.264/AVC BP/MP/HP@level4.2, jusqu'à 1920x1080@100fps
+
+
+H.265 / HEVC MP@level4.1, jusqu'à 1920x1080 @ 100fps (4096x4096 @ 10fps avec TILE)
+
+
+Prise en charge de la source vidéo YUV / RVB avec rotation et miroir
+
+
+l'audio
+Prend en charge MP3, AAC, WMA, FLAC, Ogg
+
+
+Image
+JPEG HD, BMP, GIF, PNG, TIF
+
+
+Service réseau
+
+
+Wifi
+Taper
+Prise en charge du WiFi IEEE 802.11 b/g/n/ac
+
+
+La fréquence
+Prise en charge 2.4G et 5G
+
+
+Taper d'antenne
+Deux antennes externes
+
+
+Bluetooth
+Bluetooth
+Prise en charge de BT4.X
+
+
+Interface
+
+
+Charger
+Connecteur CC
+Entrée CC (5V/2A) 
+
+
+Sortie vidéo
+HDMI
+Sortie UHD 4Kx2K, HDMI 1.4/2.0
+
+
+Récepteur infrarouge
+Prise pour écouteurs 3,5 mm
+Connexion du récepteur à distance
+
+
+Micro SD
+Mémoire externe
+Support
+
+
+port USB
+emplacement USB
+1x USB3.0 2x USB2.0 type normal 
+
+
+Ethernet
+Ethernet
+1000M Ethernet
+
+
+Apparence
+
+
+Matériau du corps
+métal
+
+
+Couleur
+gris
+
+
+Taille
+105x105x20(mm)
+
+
+Poids
+/
+
+
+Certifications (pour l'unité)
+
+
+Standard
+CE
+/
+
+
+RoHS
+/
+
+
+Contenu du colis
+Informations sur la livraison
+
+
+1 x manuel d'utilisation, 1 x coffret cadeau, 1 x Infrarouge rtélécommande, 1 x câble externe HDMI, 1 x adaptateur secteur
+Dimension de la boîte-cadeau (mm)
+205x140x50(mm)
+
+Fonctionnalité:Processeur : Rockchip RK3566 Quad Core ARM Cortex A55GPU : Mali-G52 1-Core-2EE, pour OpenGL ES 1.1/2.0/3.2, pour OpenCL 2.0, prise en charge de Vulkan 1.1 RAM : 8 GoROM : 128 GoStockage externe : prend en charge les périphériques de stockage USB, carte Micro SDSystème d'exploitation : Android 11.0Langue : MultilingueDécodeur vidéo : profil H.265 HEVC/MVC Main10 yuv420@L5.1 jusqu'à 4096x2304@60fps ; H.264 Profil AVC/MVC Main10 yuv400/yuv420/yuv422/@L5.1 jusqu'à 4096x2304@60fpsWifi : prend en charge le Wifi IEEE 802.11 b/g/n/ac; Prise en charge 2.4G et 5G; Deux antennes externesBluetooth : prend en charge BT4.XHDMI : sortie UHD 4Kx2K, HDMI 1.4/2.0 Emballage inclus:1 x X96 X6 Smart TV Box (les autres produits ne sont pas inclus)1 x manuel d'utilisation1 x télécommande infrarouge1 x câble externe HDMI1 x adaptateur secteur 
+
+
+
+

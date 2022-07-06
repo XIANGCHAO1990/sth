@@ -1,0 +1,261 @@
+1925119
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/D6/64/f7cc2dc2-876d-4a34-9a9e-344fb1fea2a0.jpg
+HK1 RBOX X4S Amlogic S905X4 Quad Core 4GB RAM 64GB ROM Android 11.0 HD 8K H.265 2.4G 5G WIFI bluetooth Smart TV Kutu Youtube Netflix
+https://tr.banggood.com/HK1-RBOX-X4S-Amlogic-S905X4-Quad-Core-4GB-RAM-64GB-ROM-Android-11_0-HD-8K-H_265-2_4G-5G-WIFI-bluetooth-Smart-TV-Box-Youtube-Netflix-p-1925119.html?cur_warehouse=CN&ID=47184&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Şartname:
+
+
+
+
+İşlemci
+Amlogic S905X4 64-bit dört çekirdekli ARM® Cortex™ A55 İşlemci
+
+
+GPU
+G31™ MP2 GPU işlemci
+
+
+Hafıza
+DDR3: 4 GB
+
+
+flaş
+eMMC: 64GB
+
+
+Wifi
+IEEE 802.11 b/g/n; 2.4G / 5G            
+
+
+Bluetooth
+BT; Destek Ses Uzakdan Kumanda
+
+
+Moudle
+Plastik; Siyah renk
+
+
+G/Ç
+1xHDMI
+HDMI 2.1 , Destek HDMI CEC, Dinamik HDR ve 8Kx4K@24 maksimum çözünürlük çıkışı
+
+
+1xAV ÇIKIŞ
+480i/576i standart tanımlı çıkış
+
+
+2xUSB
+1 adet USB 3.0; 1 adet USB2.0
+
+
+1xIR Alıcı
+Uzak Alıcı Bağlantısı
+
+
+1xRJ45
+Ethernet Arayüzü; 10 / 100M desteği
+
+
+1xTF KART
+Destek 4GB/8GB/16GB/32GB/64GB
+
+
+Güç
+DC 5V/2A
+
+
+Yazılım
+
+
+işletim sistemi
+Android 11.0
+
+
+Video
+Özel donanım kod çözücüleri ve kodlayıcıları ile Amlogic Video Motor (AVE)4x1080P@60fps'ye kadar çoklu video kod çözücüyü desteklerBirden çok "güvenli" video kod çözme oturumunu ve eşzamanlı kod çözme ve kodlamayı desteklerVideo/Resim Kod Çözme/AV1 MP-10@L5.1 4Kx2K@60fps- VP9 Profil-2, 8Kx4K@24 fps'ye kadar- H.265 HEVC MP-10@L5.1, 8Kx4K@24 fps'ye kadar- 8Kx4K@24 fps'ye kadar AVS2-P2 Profili- H.264 AVC HP@L5.1, 4Kx2K@30fps'ye kadar- 1080P@60fps'ye kadar MPEG-4 ASP@L5 (ISO-14496)- 1080P@60fps'ye kadar WMV/VC-1 SP/MP/AP- 1080P@60fps'ye kadar AVS-P16(AVS+) /AVS-P2 JiZhun Profili- MPEG-2 MP / HL, 1080P @ 60fps'ye kadar (ISO-13818)- 1080P @ 60fps'ye kadar MPEG-1 MP / HL (ISO-11172)- RealVideo 8/9/10 1080P@60fps'ye kadar- Çoklu dil ve çoklu format alt başlık video desteği- MJPEG ve JPEG sınırsız piksel çözünürlüğü kod çözme (ISO/IEC-10918)- JPEG küçük resim, ölçekleme, döndürme ve geçiş efektlerini destekler- * .mkv, * .wmv, * .mpg, * .mpeg, * .dat, * .avi, * .mov, * .iso, * .mp4, * .rm ve * .jpg dosya formatlarını destekler
+
+
+Ses
+MP3, AAC, WMA, RM, FLAC, Ogg'u destekler ve 7.1/5.1 aşağı karıştırma ile programlanabilirDüşük güçlü VADDahili seri dijital ses SPDIF/IEC958 giriş/çıkış ve PCM giriş/çıkış384 kHz x 32 bit x 16 kanal veya 96 kHz x 32 bit x 32 kanala kadar TDM/PCM modu ve 384 kHz x 32 bit x 16 kanala kadar I2S modu ile 3 yerleşik TDM/PCM/I2S bağlantı noktasıProgramlanabilir CIC, LPF ve HPF ile dijital mikrofon PDM girişi, 8 adede kadar DMIC desteğiDahili stereo ses DACAnalog+PCM veya I2S+PCM kombinasyonu ile eşzamanlı çift ses stereo kanal çıkışını destekler
+
+
+resim
+HDJPEG, BMP,GIF,PNG,TIF
+
+
+Dilim
+İngilizce Fransızca Almanca İspanyolca İtalyanca vb çok taraflı diller
+
+
+uygulamalar
+
+
+Çevrimiçi
+Tüm video web sitelerine göz atın, Netflix, Hulu, Flixster, Youtube, vb.'yi destekleyin. 
+
+
+uygulamalar
+Uygulamalar, android market, amazon mağazası vb.
+
+
+Orta
+Yerel Medya oynatma, Destek HDD, U Disk, TF Kartı 
+
+
+çevrimiçi konuş
+SKYPE görüntülü arama, MSN, facebook, twitter, QQ vb.
+
+
+Diğerleri
+Destek E-postası, ofis kıyafeti vb.DLNA işlevini destekleyin 2.4G Kablosuz Mouse/klavye desteği
+
+
+Paketleme
+Ürün boyutu
+105x20mm
+
+
+Birim paketleme (GW)
+0.4KG
+
+Özellik:İşlemci: Amlogic S905X4 64-bit dört çekirdekli ARM® Cortex™ A55 İşlemci GPU: G31™ MP2 GPU işlemci Bellek DDR3: 4GBFlaş: eMMC: 64GBWifi: IEEE 802.11 b/g/n; 2.4G/5G Bluetooth: BT; Destek Sesi Uzakdan Kumanda İşletim Sistemi: Android 11.0Paket içeriği:1 x HK1 RBOX X4S TV Kutu(Diğer ürünler dahil değildir)1 x HDMI Kablosu 1 adet IR Uzakdan Kumanda 1 x Kullanım Kılavuzu  1 x Paket Kutu  1 x Güç Adaptörü   
+
+
+
+

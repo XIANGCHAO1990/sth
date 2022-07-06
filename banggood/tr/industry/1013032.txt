@@ -1,0 +1,804 @@
+https://tr.banggood.com/Hantek-DSO5102P-USB-Digital-Storage-Oscilloscope-2Channels-100MHz-1GSa-or-s-p-1013032.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+Hantek DSO5102P USB Dijital Depolama Osiloskop 2 Kanal 100MHz 1GSa/s
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Açıklama:
+
+
+
+Hantek DSO5102P USB Dijital Depolama Osiloskop 2 Kanal 100MHz 1GSa/s>>İngilizce Kullanım Kılavuzunu İndirmek İçin Lütfen Buraya Tıklayın<<
+
+
+
+Özellikleri: 
+
+
+
+
+		100MHz bant genişliği
+
+		1GSa/s Real Zaman örnekleme hızı
+
+		Geniş (7.0 inç) renkli ekran, WVGA(800x480)
+
+		40K'ya kadar kayıt uzunluğu
+
+		Tetik modu: kenar/darbe genişliği/çizgi seçilebilir video/slop/fazla mesai vb.
+
+		USB ana bilgisayar ve cihaz bağlantısı, standart
+
+		Çoklu otomatik ölçümler
+
+		FFT standardı dahil dört matematik işlevi
+
+		PC gerçek zamanlı analizi için yazılım sağlar 
+
+
+
+
+Şartname:
+
+
+
+
+
+
+
+
+
+modeli
+
+DSO5202P
+
+DSO5102P
+
+DSO5072P
+
+
+
+Kazanma
+
+
+
+Aynı oran 
+
+Gerçek Zamanlı Örnek: 1GS/sn
+					Eşdeğer Örnek: 25GS/s
+
+
+
+Edinme Modları
+
+
+
+
+
+
+
+
+
+Normal
+
+Yalnızca normal veriler
+
+
+
+Pea'k Algılama
+
+Yüksek frekanslı ve rastgele glith yakalama
+
+
+
+Ortalama
+
+Dalga Biçimi Ortalaması, seçilebilir 4,8,16,32,64,128
+
+
+
+girişler
+
+
+
+Giriş Bağlantısı
+
+AC, DC, GND
+
+
+
+Girişler Empedansı
+
+1MΩ±2% II20pF±3pF
+
+
+
+Prob Zayıflaması
+
+1X, 10X
+
+
+
+Desteklenen Probe Zayıflama Faktörü
+
+1X, 10X, 100X, 1000X
+
+
+
+Maksimum Giriş Voltajı
+
+CAT I ve CAT II: 300VRMS (10×), Kurulum Kategorisi;
+					CAT III: 150VRMS (1×);
+					Kurulum Kategorisi II: 100kHz'in üzerinde 20dB/on yılda azalma ile 3MHz* ve üzerinde 13V Pea'k AC'ye düşürme. 
+					Sinüsoidal olmayan dalga formları için Pea'k değeri 450V'den küçük olmalıdır. 
+					300V üzerindeki gezi 100ms'den kısa olmalıdır. 
+					AC kuplaj yoluyla çıkarılan tüm DC bileşenleri dahil olmak üzere RMS sinyal seviyesi 300V ile sınırlandırılmalıdır.
+					 Bu değerler aşılırsa osiloskopta hasar meydana gelebilir.
+
+
+
+Yatay
+
+
+
+Örnek Hız Aralığı
+
+500MS/s--1GS/s
+
+
+
+Dalga Formu İnterpolasyonu
+
+(günah x)/x
+
+
+
+kayıt Uzunluk
+
+40'K
+
+
+
+SEC/DIV Aralığı
+
+4ns/div'den 40s/div'e
+
+4ns/div'den 40s/div'e
+
+
+
+Örnek Oranı ve
+					Gecikme Süresi Doğruluğu
+
+±50ppm(herhangi bir ≥1ms zaman aralığında)
+
+
+
+Konum Aralığı
+
+2ns/div'den 10ns/div'e; 
+					(-4div xs/div) ila 20ms;
+
+20ns/div'den 80us/div'e; (-8div xs/div) ila 40ms;
+					200us/div ila 40s/div; (-8div xs/div) ila 400s
+
+
+
+Artımlı Zaman Ölçümü Doğruluğu 
+					(Tam Bant Genişliği)
+
+Tek çekim, Normal mod:± (1 örnek aralığı +100ppm × okuma + 0.6ns);
+					>16 ortalama:± (1 örnek aralığı + 100ppm × okuma + 0.4ns);
+					Örnek aralığı = s/böl ÷ 200
+
+
+
+Dikey
+
+
+
+Dikey Çözünürlük
+
+8 bit çözünürlük, tüm kanallar aynı anda örneklendi
+
+
+
+Konum Aralığı
+
+2mV/böl - 200mV/böl, ±2V
+					200mV/böl ila 5V/böl, ±50V
+
+
+
+Bant genişliği
+
+100MHz
+
+100MHz
+
+70MHz
+
+
+
+BNC'de Yükselme Süresi (tipik)
+
+3.5ns
+
+ 3.5ns
+
+5ns
+
+
+
+Normal ve Analog Bant Genişliği
+					 BNC'de veya problu, DC Bağlantılı ortalama modlar
+
+2mV/böl ila 20mV/böl, ±400mV; 50mV/böl - 200mV/böl, ±2V
+					500mV/böl - 2V/böl, ±40V; 5V/böl, ±50V
+
+
+
+Matematik
+
++, -, *, /, FFT
+
+
+
+FFT
+
+Pencereler: Hanning, Flatop, Rectamgular, Bartlett, Blackman;
+					1024 örnek noktası
+
+
+
+Bant genişliği sınırı
+
+20MHz
+
+
+
+Düşük Frekans Tepkisi (-3db)
+
+BNC'de ≤10Hz
+
+
+
+DC Kazanç Doğruluğu
+
+Normal veya Ortalama edinme modu için ±%3, 5V/böl ila 10mV/böl;
+					Normal veya Ortalama edinme modu için ±4%, 5mV/div ila 2mV/div
+
+
+
+DC Ölçüm Doğruluğu, 
+					Ortalama Edinme Modu
+
+Dikey yer değiştirme sıfır olduğunda ve N ≥16:± (%3 × okuma + 0.1div + 1mV) yalnızca 10mV/böl veya daha fazlası seçildiğinde; 
+					Dikey yer değiştirme sıfır olmadığında ve N≥16 olduğunda: ± [%3 × (okuma + dikey konum) + dikey konumun %1'i + 0,2böl]; 
+					2mV/div'den 200mV/div'e kadar olan ayarlar için 2mV ekleyin; 200mV/div'den 5V/div'e kadar olan ayarlar için 50mV ekleyin
+
+
+
+Volt Ölçüm Tekrarlanabilirliği, 
+					Ortalama Edinme Modu
+
+D1elta aynı kurulum ve ortam koşulları altında elde edilen ≥16 dalga formunun herhangi iki ortalaması arasındaki volt
+
+
+
+Tetik Sistemi
+
+
+
+Tetik Tipleri
+
+Kenar, Video, Darbe, Eğim, Zamanla, Alternatif
+
+
+
+Tetik Kaynağı
+
+CH1, CH2, EXT, EXT/5, AC Hattı
+
+
+
+Tetik Modları
+
+Otomatik, Normal, Tek
+
+
+
+Kaplin Tip
+
+DC, AC, Gürültü Reddetme, HF Reddetme, LF Reddetme
+
+
+
+Tetik Hassasiyeti
+					(Kenar Tetikleyici Tip)
+
+DC(CH1,CH2):
+					DC'den 10MHz'e 1div; 10MHz'den 100MHz'e 1.5div; 100MHz'den Tam'a 2div;
+					DC(EXT): 
+					DC'den 100MHz'e 200mV; 100MHz'den 200MHz'e 350mV;
+					DC(EXT/5):       
+					DC'den 100MHz'e 1V; 100MHz'den 200MHz'e 1.75V;       
+					AC: 10 Hz'nin altındaki sinyalleri zayıflatır;
+					HF Reddetme: 80kHz üzerindeki sinyalleri zayıflatır; 
+					LF Reddetme: 150 kHz'in üzerindeki frekanslar için DC bağlantılı limitlerle aynı; 150kHz'in altındaki sinyalleri zayıflatır
+
+
+
+Tetik Seviye Aralığı
+
+CH1/CH2: ekranın ortasından ±8 bölüm; 
+					HARİCİ: ±1.2V;
+					EXT/5:±6V
+
+
+
+Tetik Seviyesi Doğruluğu( tipik) Doğruluğu 
+					yükselme ve düşme süreleri ≥20ns olan sinyaller içindir
+
+CH1/CH2: Ekranın merkezinden ±4 bölüm içinde 0,2div × volt/böl;
+					EXT: ± (ayarın %6'sı + 40mV);
+					EXT/5: ± (ayarın %6'sı + 200mV);
+
+
+
+Seviyeyi %50'ye ayarla(tipik)
+
+≥50Hz giriş sinyalleriyle çalışır
+
+
+
+Video Tetikleyici
+
+
+
+
+
+Video Tetikleyici Tip 
+
+CH1, CH2: 2 bölümün Pea'k-to-Pea'k genliği;
+					HARİCİ: 400mV;
+					EXT/5: 2V
+
+
+
+Sinyal Formatları ve Alan Hızları, Video Tetikleyici Tip
+
+Herhangi bir alan veya herhangi bir hat için NTSC, PAL ve SECAM yayın sistemlerini destekler
+
+
+
+Bekleme Aralığı
+
+100ns ~ 10s
+
+
+
+Darbe Genişliği Tetikleyici
+
+
+
+
+
+Darbe Genişliği Tetik Modu
+
+(< , >, = veya ≠); Pozitif nabız veya Negatif nabız
+
+
+
+Darbe Genişliği Tetik Noktası
+
+Eşit: Darbenin arka kenarı tetik seviyesini geçtiğinde osiloskop tetiklenir.
+					Eşit Değil: Darbe belirtilen genişlikten daha darsa tetikleme noktası arka kenardır.
+					Aksi takdirde, bir darbe, Darbe Genişliği olarak belirtilen süreden daha uzun süre devam ettiğinde osiloskop tetiklenir.
+					Küçüktür: Tetik noktası arka kenardır.
+					Büyüktür (fazla mesai tetikleyicisi olarak da adlandırılır): Bir darbe, Darbe Genişliği olarak belirtilen süreden daha uzun süre devam ettiğinde osiloskop tetiklenir.
+
+
+
+Darbe Genişliği Aralığı
+
+20ns ~ 10s
+
+
+
+Eğim Tetikleyici
+
+
+
+
+
+Eğim Tetik Modu
+
+(< , > , = , veya ≠ ); Pozitif eğim veya Negatif eğim
+
+
+
+Eğim Tetik Noktası
+
+Eşit: Osiloskop, dalga biçimi eğimi ayarlanan eğime eşit olduğunda tetiklenir.
+					Eşit Değil: Osiloskop, dalga biçimi eğimi ayarlanan eğime eşit olmadığında tetiklenir.
+					Küçüktür: Osiloskop, dalga biçimi eğimi ayarlanan eğimden küçük olduğunda tetiklenir.
+					Büyüktür: Osiloskop, dalga biçimi eğimi ayarlanan eğimden büyük olduğunda tetiklenir.
+
+
+
+Zaman aralığı
+
+20ns ~ 10s
+
+
+
+fazla mesai tetikleyici
+
+
+
+
+
+Aşırı Zaman Modu
+
+Yükselen kenar veya Düşen kenar
+
+
+
+Zaman aralığı
+
+20ns ~ 10s
+
+
+
+Alternatif Tetikleyici
+
+
+
+
+
+CH1'de tetik
+
+Dahili Tetik: Kenar, Darbe Genişliği, Video, Eğim
+
+
+
+CH2'de tetik
+
+Dahili Tetik: Kenar, Darbe Genişliği, Video, Eğim
+
+
+
+Tetik Frekans Sayacı
+
+
+
+Okuma Çözünürlüğü
+
+6 digits
+
+
+
+Doğruluk (tipik)
+
+±30ppm (tüm frekans referans hataları ve ±1 sayım hataları dahil)
+
+
+
+Frekans aralığı
+
+4Hz Min'den nominal bant genişliğine kadar AC bağlantılı
+
+
+
+Sinyal Kaynağı
+
+Darbe Genişliği veya Kenar Tetikleme modları: mevcut tüm tetik kaynakları
+					Frekans Sayacı, osiloskop alımının duraklatıldığı zamanlar da dahil olmak üzere her zaman tetik kaynağını ölçer 
+					çalıştırma durumundaki değişiklikler nedeniyle veya tamamlanmış bir tek atış olayının alınması.
+					Darbe Genişliği Tetik modu: Osiloskop, tetiklenebilir olaylar olarak nitelendirilen 1s ölçüm penceresi içinde önemli büyüklükteki darbeleri sayar, 
+					< moduna ayarlanmışsa ve genişlik nispeten küçük bir zamana ayarlanmışsa PWM darbe dizisindeki dar darbeler gibi.
+					Kenar Tetikleme modu: Osiloskop, yeterli olan tüm kenarları sayar. genlik ve doğru polarite.
+					Video Tetikleme modu: Frekans Sayacı çalışmıyor.
+
+
+
+Ölçüm
+
+
+
+İmleç Ölçümü
+
+İmleçler arasındaki voltaj farkı: ΔV
+					İmleçler arasındaki zaman farkı: ΔT
+					ΔT'nin Hertz cinsinden karşılığı (1/ΔT)
+
+
+
+Otomatik Ölçüm
+
+Frekans, Periyot, Ortalama, Pk-Pk, Cycli RMS, Min, Maximum, Rise time, Fall Time, +Pulse Width, -Pulse Width, Delay1-2Rise, Delay1-2Fall, +Duty, -Duty, Vbase, Vtop, Vmid , Vamp, Overshoot, Preshoot, Preiod Ortalama, Preiod RMS, FOVShoot, RPREShoot, BWIDTH, FRF, FFR, LRR, LRF, LFR, LFF
+
+
+
+Görüntülemek
+
+
+
+Ekran Tip
+
+7 inç 64K renkli TFT (diyagonal sıvı kristal)
+
+
+
+Ekran çözünürlüğü
+
+800 yatay x 480 dikey piksel
+
+
+
+Ekran Kontrastı
+
+İlerleme çubuğu ile ayarlanabilir (16 vites)
+
+
+
+Prob Kompansatör Çıkışı
+
+
+
+Çıkış Voltajı (tipik)
+
+≥1MΩ yüke yaklaşık 5Vpp
+
+
+
+Frekans (tipik)
+
+1kHz
+
+
+
+Güç kaynağı
+
+
+
+Besleme gerilimi
+
+100-120VACRMS(±%10), 45Hz - 440Hz, CATII
+					120-240VACRMS(±%10), 45Hz - 66Hz, CATII
+
+
+
+Güç tüketimi
+
+<30W
+
+
+
+Sigorta
+
+2A, T derecesi, 250V
+
+
+
+çevre
+
+
+
+Sıcaklık
+
+Çalışma: 32F - 122F (0C - 50C);
+					Çalışmıyorken: -40F - 159,8F (-40C - +71C)
+
+
+
+Soğutma yöntemi
+
+Konveksiyon
+
+
+
+Nem
+
++104F veya altı (+40C veya altı): ≤%90 bağıl nem;
+					106F - 122F (+41C - 50C): ≤60% bağıl nem
+
+
+
+Rakım
+
+Çalışma: 3.000 m'nin (10.000 fit) altında;
+					Çalışmıyor: 15.000 m'nin altında (50.000 fit)
+
+
+
+Mekanik
+
+
+
+Boy
+
+Uzunluk 385 mm, Genişlik 200 mm, Yükseklik 245 mm
+
+
+
+Ağırlık
+
+3.5KG (Paketleme ile); 2.08KG (Ambalajsız)
+
+
+
+
+
+
+Paket şunları içerir: 
+
+
+
+	1 x Dijital Depolama Osiloskop
+	2 x Prob (PP150)
+	1 x Osiloskop Güç Kablosu
+	1 x USB hattı1 x Hantek veri CD'si
+	1 x Üretici Sertifikası
+
+
+Ayrıntılar resimleri: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

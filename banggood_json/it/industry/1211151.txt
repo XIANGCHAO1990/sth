@@ -1,0 +1,192 @@
+1211151
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/69/39/9f6bc43a-4152-4ebf-bdc3-568231e69ff4.jpg
+Originale JYETech Assemblato Modulo Oscilloscopio Digitale DSO-SHELL DSO150 9V
+https://it.banggood.com/Original-JYETech-Assembled-DSO-SHELL-DSO150-Digital-Oscilloscope-Module-9V-p-1211151.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DSO Shell (DSO150) Oscilloscopio:
+
+1. DSO Shell ha una larghezza di banda simile come DSO138, anche se contiene dei notevoli miglioramenti nella struttura, la meccanica e il funzionamento.
+2. Il display e il MCU sono ora montati sulla stessa scheda (scheda madre) per evitare l'utilizzo di connettori pinheader inter scheda. I feedback dagli utenti di DSO138 hanno dimostrato che la saldatura sui connettori pinheader è molto difficile per molti principianti. Il canale analogico è posto su una scheda indipendente che contiene la maggior parte delle parti di installazione per utente. Questo porta una migliore separazione tra circuiti analogici e quelli digitali. Senza la parte analogica, la scheda madre è in realtà una scheda di controllo generale che può essere utilizzata in molte altre applicazioni. La scheda madre è completamente installata (ad eccezione di alcuni componenti passanti) e testata in fabbrica prima dell'imballaggio.
+3. DSO Shell è dotato di una chiusura completa. Il pannello frontale e le staffe superiore / inferiore sono flessibili per una facile modifica dall'utente.
+4. È stato aggiunto un encoder rotativo. Rende molto più veloce e facile l'impostazione dei parametri.
+5. La sensibilità di DSO Shell è stata migliorata in entrambe le direzioni ed è più alta e più ampia di DSO138. Raggiunge 5mV / div --- 20V / div mentre DSO138 è solo 10mV / div --- 5V / div.
+6. DSO Shell funziona con l'alimentazione da 9V (Non utilizzare l'alimentazione con la tensione superiore a 10V!). Gli utenti devono preparare la propria alimentazione elettrica perché non è inclusa nel kit. La presa di alimentazione sul pannello di alimentazione supporta la spina DC di 5,5mm / 2,1mm. Il connettore alternativo a 2 pin (con il passo da 0,1") è anche fornito per facilitare la connessione alle alimentazioni diverse.
+
+Caratteristiche degli indicatori:
+
+Numero di canale: 1
+Larghezza di banda analogica: 0 - 200KHz
+Sensibilità: 5mV / Div - 20V / Div
+Deviazione di sensibilità: <5%
+Risoluzione: 12 bit
+Impedenza di ingresso: 1M ohm
+Tensione di ingresso massima: 50Vpk
+Connessione: DC, AC, GND
+Massima frequenza di campionamento in tempo reale: 1Msps
+Base di tempo: 10us / Div - 500s / Div
+Lunghezza di record: 1024
+Modalità trigger: automatico, normale, singolo
+Tipo di trigger: bordo di salita / discesa (rising/falling)
+Posizione di trigger: 1/2 di dimensione di buffer fissato
+Schermo TFT LCD da 2,4 pollici a colori con la risoluzione da 320 x 240.
+Alimentazione: 9V DC (si prega di assicurarsi che l'alimentazione sia 9V, la tensione inferiore o superiore a 9V causerà problemi.)
+Corrente di alimentazione: 120mA @ 9V
+Dimensioni: 115mm x 75mm x 22mm
+Peso: 100g (non include i cavi e l'alimentatore)
+
+Aggiornamento: ci sono molti aggiornamenti sugli accessori del componente e sulla scheda PCB (ora è la versione più recente di 109-15001-00E)
+Firmwares: clicca qui
+Manuale utente: clicca qui
+Schema di scheda madre: clicca qui
+Schema di scheda analogica: clicca qui
+Come usare il Library DSO150: clicca qui 
+Codice sorgente: clicca qui
+FAQ, suggerimenti, e soluzioni di problemi: clicca qui
+
+La confezione include:
+
+1 x Assemblato Oscilloscopio Digitale DSO150
+1 x Manuale di Istruzioni in Inglese
+
+
+
+
+
+
+
+

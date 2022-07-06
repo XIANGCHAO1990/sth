@@ -1,0 +1,304 @@
+1626160
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/FB/0F/51b5f007-ca51-44ad-ac2e-2777f6aecfef.JPG
+7W Mini DC DC Boost Step Up Converter 2.6-5.5V to 5V 6V 9V 12V Voltage Regulator Module
+https://www.banggood.com/7W-Mini-DC-DC-Boost-Step-Up-Converter-2_6-5_5V-to-5V-6V-9V-12V-Voltage-Regulator-Module-p-1626160.html?cur_warehouse=CN&ID=519957&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:  
+
+	 
+
+- DC DC Boost Converter Module working frequency 1MHZ. 
+
+- Up to 93% Efficiency (usually is 84%-91%) 
+
+- Quiescent current : 190uA.
+
+- Current Limit Program(0.5-2.5A,Default 1.8A)  
+
+- Size : 21 x 11 x 4mm
+
+- Weight : 1.5g
+
+- Protection :  
+
+Over current protection(OCP)
+
+Over voltage protection(OVP)
+
+Short circuit protection(SCP)
+
+Over temperature protection(OTP) 
+
+
+
+
+
+
+Output 5V :
+
+  
+
+
+Input voltage DC 2.6 ~ 4.5V,output DC 5V±3%
+
+Maximum output : 5V/1300MA(See the table below for details)   
+
+  
+
+							 
+
+  
+Output 6V :
+
+							Input voltage DC 2.6 ~ 5.5V,output DC 6V±3%
+							Maximum output : 6V/1200MA(See the table below for details)
+
+
+Output 9V :
+
+							Input voltage DC 2.6 ~ 5.5V,output DC 9V±3%
+							Maximum output : 9V/800MA(See the table below for details)
+
+
+							 
+
+
+
+Output 12V :
+					 
+
+Input voltage DC 2.6 ~ 5.5V,output DC 12V±3%
+					Maximum output : 12V/600MA(See the table below for details)
+
+
+
+
+  
+
+
+	 
+
+Pin Description:
+
+	 
+
+Vi       : Input positive(+)
+
+GND  : Input and Output negative(GND/-)
+
+Vo      : Output positive(+)
+
+	 
+
+Applications:
+
+	 
+
+Battery powered equipment
+
+Instrumentation, multimeter
+
+Breadboard Stm32 Lcd LED
+
+Small power motors
+
+PTZ Camera webcam
+
+IP Camera
+
+Toy car boat
+
+Model aircraft
+
+power bank
+
+LED Motor  
+
+Solar power
+
+WIFI Router 
+
+PLC RS485 devices
+
+Lithium battery power supply equipment
+
+  
+
+Attention :
+
+	 
+
+This is a DC-DC voltage converter module,Must be note when using:
+
+	 
+
+1. Input voltage can not be greater than the maximum input range
+
+2. Output power can not be greater than the maximum load for a long time
+
+3. Input power must be greater than the output power, because the power consumption of the module itself  
+
+	 
+
+Q & A:
+
+     
+
+Q : Why output voltage is less than the nominal voltage
+
+A : Input power supply power is too low.Test the input voltage with a multimeter,a t this time of the input voltage is very low
+
+	 
+
+Package Incldued:
+
+	 
+
+1 x 7W Mini DC DC Boost Step Up Converter 2.6-5.5V to 5V 6V 9V 12V
+
+	 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,169 @@
+https://www.banggood.com/LILYGO-TTGO-T5-WiFi-Wireless-Module-bluetooth-Base-ESP-32-ESP32-2_13-e-Paper-Display-Development-Board-p-1332909.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+LILYGO® TTGO T5 WiFi Wireless Module bluetooth Base ESP-32 ESP32 2.13 e-Paper Display Development Board
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Overview:
+ 
+Due to the advantages like ultra low power consumption, wide viewing angle, clear display without electricity, it is an ideal choice for applications such as shelf label, industrial instrument, and so on.
+ 
+Features:
+ 
+- No backlight, keeps displaying last content for a long time even when power down
+- Ultra low power consumption, basically power is only required for refreshing
+- Comes with development resources and manual (examples for Arduin-esp32)
+ 
+Specifications:
+ 
+-Operating voltage: 3.3V
+-Interface: 3-wire SPI, 4-wire SPI
+-Display color:  black, white
+-Grey level: 2
+-Full refresh time: 8s
+-Refresh power: 26.4mW(typ.)
+-Standby power: <0.017mW
+-Viewing angle: >170°-Update version: Chip CH9102F
+
+Library: Click to open
+Code: Click to open
+
+Package included:
+
+1 x T5 WiFi Wireless Module
+
+
+
+

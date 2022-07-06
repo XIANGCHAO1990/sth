@@ -1,0 +1,184 @@
+74110
+https://imgaz1.staticbg.com/thumb/large/upload/2012/jiangjunchao/SKU075676o.JPG
+Geekcreit® 5V 8 Kanal Relaismodul Platine für Arduino PIC AVR DSP ARM
+https://de.banggood.com/5V-8-Channel-Relay-Module-Board-PIC-AVR-DSP-ARM-p-74110.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+
+Dies ist 5V 8 Kanal Relais Modul Board für Arduino PIC AVR DSP ARM
+Dieses Relais-Modul ist 5V aktiv niedrig.
+Es handelt sich um eine 8-Kanäle Relais Schnittstellenkarte, die direkt von einer Vielzahl von Mikrocontrollern wie Arduino, AVR, PIC, ARM, PLC usw.. gesteuert werden kann.
+Es ist auch in der Lage, verschiedene Geräte und andere Ausrüstungen mit großen Strom zu kontrollieren.
+Relaisausgang maximaler Kontakt ist AC250V 10A und DC30V 10A.
+Standardschnittstelle kann direkt mit Mikrocontrollern verbunden werden.
+Rote Arbeitsstatusanzeige leuchtet für sicheren Gebrauch.
+Weit verbreitet für alle MCU-Steuerung, Industrie-Sektor, SPS-Steuerung, intelligente Haussteuerung.
+
+Funktion:
+
+Alle Single-Chip Mikrocomputer Steuerung unterstützen
+Industriekreis
+SPS-Steuerung
+Haushalt intelligente Steuerung
+
+Technische Daten:
+
+Betriebsspannung: 5V
+Kanal: 8 Kanäle
+Einzelteilgröße: 13.4x5.3x1.7cm / 5.28x2.09x0.67in
+Artikelgewicht: 116g / 4.11oz
+Paketgewicht: 118g / 4.17oz
+
+Lieferinhalt:
+
+1 x 8 Kanal Relais Modul
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,
+
+

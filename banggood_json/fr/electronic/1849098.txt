@@ -1,0 +1,145 @@
+1849098
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/3A/F7/9708310d-5fc5-4df7-ab7b-d2a6ab191458.jpg
+Module de relais à 2 voies EACHEN WiFi Module de commutation à verrouillage automatique / verrouillage fonctionne avec Amazon Alexa Google Home
+https://fr.banggood.com/EACHEN-WiFi-2-way-Relay-Module-Self-Locking-or-Interlock-Switch-Module-Works-with-Amazon-Alexa-Google-Home-p-1849098.html?cur_warehouse=CN&ID=6307553&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:Ce produit est un commutateur sans fil prenant en charge les modes de travail momentané (pas à pas) / autobloquant / verrouillage. Les utilisateurs peuvent ajouter l'appareil à l'APP eWeLink afin de contrôler à distance les appareils ménagers connectés ou les circuits d'alimentation.Remarque: les relais sont des commutateurs sans sortie, l'entrée d'alimentation (AC / DC) uniquement pour le PCBA.Appuyez sur le bouton de réglage du mode de travail manuellement, le produit peut changer le mode de travail. En mode pas à pas, vous pouvez sélectionner deux modes de câblage: -Activer 1s puis arrêt automatique -Éteindre 1s puis allumer automatiquement.En mode autobloquant, vous pouvez allumer / éteindre à distance immédiatement les appareils connectés.En mode de verrouillage (uniquement les supports 2 et 4 groupes), vous pouvez contrôler à distance les moteurs AC / DC.Le produit permet le contrôle à distance des appareils ménagers via l'application mobile eWeLink, disponible sur Android et iOS. Fonctions prises en charge :* Activation / désactivation à distance * Horaires* Partage d'appareils*Gestion de groupe* Compatible avec Amazon Alexa, Amazon Tap* Fonctionne avec Google Home*Fonctionne avec IFTTTCe produit est compatible avec Amazon Alexa. Vous pouvez demander à Alexa de contrôler l'appareil avec les commandes vocales suivantes. Veuillez noter que seules les commandes vocales US / UK anglais et allemand sont désormais prises en charge.Try out these phrases ( {deviceName} should be the name of your device): "Alexa, turn on {deviceName}""Alexa, turn off {deviceName}"«Alexa, schalte Ger? Tename ein»«Alexa, schalte Ger? Tename aus» Vous pouvez également demander à Google Home de contrôler l'appareil avec les commandes vocales suivantes."hey, google, turn on {deviceName}""OK, google, turn off {deviceName}"Comment fonctionne avec IFTTT :Recherchez «eWeLink Smart Home» dans l'application IFTTT.Spécification:Tension de fonctionnement: DC5-32VCourant nominal : 10AFréquence: RF433MHz (option)WIFI: 2.4G 802.11 b / g / nEmballage inclus:1 module relais
+
+
+
+

@@ -1,0 +1,196 @@
+1155139
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/C5/05/dc90dcb4-a2df-4f7f-ba9e-81cdf2a0944b.jpg
+Geekcreit® DIY L298N 2WD Ultrasonik Akıllı İzleme Moteur Robotu Arduino için Araba Kit - resmi Arduino panolarıyla çalışan ürünler
+https://tr.banggood.com/Geekcreit-DIY-L298N-2WD-Ultrasonic-Smart-Tracking-Moteur-Robot-Car-Kit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1155139.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikler:
+
+1. Basit mekanik yapı, kurulum çok kolaydır.
+2. L298N kontrol modülü, dört izleme modülü ve 51 kontrol ünitesi ile.
+3. Pil kutusu, tüm güç sistemi için uygun olan dört pil tutabilir.
+
+Referans Kılavuzu: İndirmek İçin Tıklayın
+
+
+Not:
+
+-Farklı üretim partileri nedeniyle, ürün detayları biraz farklı olabilir. Farkı düşünüyorsanız, lütfen dikkatlice satın alın.
+
+Paket içeriği:
+
+
+
+1 x Araba şasi 
+
+2 adet Araba tekerlek
+
+4 x Bağlantı Elemanları (yüksek yoğunluklu siyah akrilik)
+
+1 x Teker
+
+1 x Batarya kutu (pilsiz)
+
+1 x A kalite Rocker Anahtarı
+
+1 x V5 kalkan
+
+1 x UNOR3
+
+1 x SG90
+
+1 x FPV 
+
+1 x L298N
+
+1 x USB Kablosu
+
+
+
+
+Ultrasonic module circuit diagram
+
+
+L298N_Motor Drive Module
+
+
+
+,,
+
+
+

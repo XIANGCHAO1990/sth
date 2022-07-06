@@ -1,0 +1,186 @@
+1140506
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/8B/FD/19e4b5bf-b35a-476c-af5d-e0c96ff111da.jpg
+0,91 Polegadas 128x32 IIC I2C Azul OLED LCD Exibição DIY Oled Módulo SSD1306 Driver IC DC 3,3V 5V
+https://pt.banggood.com/Geekcreit-0_91-Inch-128x32-IIC-I2C-Blue-OLED-LCD-Display-DIY-Module-SSD1306-Driver-IC-DC-3_3V-5V-p-1140506.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificações:
+
+1. Visor OLED, sem necessidade de luz de fundo, auto iluminação,
+2. O desempenho da tela é melhor do que o display LCD tradicional, além do menor consumo.
+3. Driver IC: SSD1306
+4. Tamanho: 0,91 polegadas OLED
+5. Resolução: 128 x 32
+6. Interface da IIC
+7. Cor da tela: branco
+8. Descrição do pino:
+GND: Campo de potência
+VCC: potência+ (DC 3,3~5v)
+SCL: linha de relógio
+SDA: linha de dados
+
+Incluído no pacote:
+
+1 x IIC I2C Azul OLED Módulo de Exibição LCD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,405 @@
+1527335
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/B8/7D/b4995611-6a41-4a02-aaac-c0391650d356.jpg
+5 unids M18 Bluetooth 4.2 Audio Receptor Módulo sin pérdida Coche Altavoz Auricular Amplificador Junta inalámbrica Refit
+https://es.banggood.com/5pcs-M18-Bluetooth-4_2-Audio-Receiver-Module-Lossless-Car-Speaker-Headphone-Amplifier-Board-Wireless-Refit-p-1527335.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manual de usuario: Haga clic aquí para abrir
+
+	Para las diferentes necesidades de los clientes, ofrecemos 3 versiones para que usted elija:
+
+
+
+
+
+
+
+
+
+Función / Modelo
+
+M18 (este artículo)
+
+M28 (ID del producto: 1486747)
+
+M38 (ID del producto: 1486746)
+
+
+
+Micro fuente de alimentación
+
+×
+
+√
+
+√
+
+
+
+Toma de auriculares de audio
+
+×
+
+√
+
+×
+
+
+
+Amplificador incorporado
+
+×
+
+×
+
+√ (5W + 5W)
+
+
+
+Batería de litio alimentado
+
+√
+
+√
+
+√
+
+
+
+Soporte de tarjeta de sonido USB, disco libre
+
+×
+
+×
+
+√
+
+
+
+Memoria de volumen / ajuste
+
+√
+
+×
+
+×
+
+
+
+Interfaz de silencio MUDO
+
+√
+
+×
+
+×
+
+
+
+Extensión de botón
+
+√
+
+×
+
+×
+
+
+
+Versión bluetooth
+
+bluetooch v4.2
+
+
+
+Soporte Bluetooth protocolo
+
+HFPV1.7, A2DPV1.2, AVRCPV1.5, AVCTPV1.2, AVDTPV1.2
+
+
+
+Soporte de formato
+
+Admite WAV / WMA / FLAC / APE / MP3 descodificación sin pérdida, salida estéreo de dos canales
+
+
+
+Tensión de funcionamiento
+
+5V/3.7V-4.2V
+
+
+
+Estado de transmisión no conectado
+
+5.5MA
+
+
+
+Estado de conexión de trabajo
+
+20MA
+
+
+
+Sueno profundo
+
+3UA
+
+
+
+Distancia de transmisión
+
+20 metros (entorno vacío o de baja interferencia)
+
+
+
+Temperatura de funcionamiento
+
+ -40 ° C a + 85 ° C
+
+
+
+Sensibilidad
+
+ -87dbm
+
+
+
+
+Introducción:
+
+
+
+Este producto MH-M18 es una solución de diseño Bluetooth de bajo consumo, compatible con la última transmisión Bluetooth 4.2, reproducción sin pérdidas estéreo de dos canales, conexión Bluetooth después de que el módulo esté conectado a Bluetooth, muy conveniente. En un entorno abierto, la distancia de conexión Bluetooth puede ser de hasta 20 metros.
+
+Ampliamente utilizado en una variedad de recepción de audio Bluetooth, una variedad de modificación de audio DIY.
+
+
+
+
+
+Alfiler
+
+Función
+
+Descripción
+
+
+
+1
+
+LLAVE
+
+Terminal de control de botón (4 funciones de botón, resistencias adicionales como el diagrama de cableado)
+
+
+
+2
+
+MUDO
+
+Terminal de control de silencio (salida de alto nivel 3.3V al silenciar, nivel de salida bajo durante la reproducción)
+
+
+
+3
+
+VCC
+
+Fuente de alimentación positiva 5V (la fuente de alimentación de 3.7V de la batería de litio requiere diodo de cortocircuito)
+
+
+
+4
+
+GND
+
+Potencia negativa / señal de audio a tierra
+
+
+
+5
+
+L
+
+Salida del canal izquierdo
+
+
+
+6
+
+R
+
+Salida del canal derecho
+
+
+
+
+
+
+Función descriptiva:
+
+
+
+Versión Bluetooth V4.2, compatible con la tecnología de conexión automática de Bluetooth, compatible con WAV / WMA / FLAC / APE / MP3 descodificación sin pérdida, salida estéreo de doble canal.
+
+Después de encender el módulo, el teléfono móvil busca el nombre Bluetooth MH-M18 / MH-M28 / MH-M38 y puede reproducir música después de conectar Bluetooth.
+
+
+
+El paquete incluye:
+
+	5 x M18 Módulo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

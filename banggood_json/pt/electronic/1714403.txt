@@ -1,0 +1,145 @@
+1714403
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/05/6B/38da678a-a732-4c3d-af72-0758edb35539.jpg
+ZK-TB21 TPA3116D2 bluetooth 5.0 Placa de amplificador de subwoofer 50WX2 + 100W 2.1 canais de potência de áudio estéreo baixo AMP
+https://pt.banggood.com/ZK-TB21-TPA3116D2-bluetooth-5_0-Subwoofer-Amplifier-Board-50WX2+100W-2_1-Channel-Power-Audio-Stereo-Bass-AMP-p-1714403.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificações:Modelo: ZK-TB21Material: componentes eletrônicosCor pretaBluetooth Versão: 5.0 (sem blindagem, 10m)Sensibilidade de entrada: 500mVEntrada de áudio: AUX + BluetoothCanal: 2.1Chip: TPA3116D2 (com função anti-interferência AM)Potência: DC12-24V / 5AAlto-falante adaptador: 20-100W, 4-8ΩPotência de saída: Max.50W (canal R e L), Max.100W (subwoofer)Mecanismo de proteção: sobretensão, subtensão, audição, detecção de corrente contínua, proteção contra curto-circuitoTamanho: 118x100x22mm / 4.6x3.9x0.8inchObservação:Transição: 1 cm = 10 mm = 0,39 polegadaPor favor, permita um erro de 0-1 cm devido à medição manual. pls certifique-se de que você não se importa antes de licitar.Devido à diferença entre monitores diferentes, a imagem pode não refletir a cor real do item. Obrigado!Incluído no Pacote:1 x placa amplificadora ZK-TB21Perguntas e respostas:1. Como escolher a fonte de alimentação?A fonte de alimentação com a placa é muito importante, a ondulação da fonte de alimentação selecionada deve ser pequena, a ondulação da fonte de alimentação grande levará ao ruído de fundo do amplificador de potência, haverá um som de corrente. Quanto maior a tensão, maior a corrente e maior a potência. Se você possui apenas 12V 1A, pode ter alto-falantes de 3 a 4 polegadas. Se estiver acima de 19V 5A, não há problema com 8 a 10 polegadas, a potência deve ser altamente valorizada. Se a tensão for muito baixa e o som for amplificado, causará facilmente distorção do som. Se a corrente estiver muito baixa e a buzina não puder ser acionada, a tensão será reduzida, o que levará a uma operação anormal ou a uma qualidade de som ruim.Recomenda-se usar a fonte de alimentação 18V19V24V com corrente acima de 5A. Se você tiver apenas uma fonte de alimentação 9V12V ou 1A 2A, também poderá usá-la, mas com pouca energia. Ao usá-lo, escolha o volume próximo ao máximo, o que pode causar distorção e afetar a qualidade do som.2. Como selecionar alto-falantes?Sobre o tipo de alto-falante: os alto-falantes comumente usados geralmente são de 4 a 8 ohms, e os alto-falantes nos canais esquerdo e direito precisam ser conectados a alto-falantes de frequência total ou médio e alto com potência entre 20W e 100W. para alto-falantes comuns. Os alto-falantes com subwoofer devem estar conectados, com potência entre 20 e 100W. A buzina do subwoofer deve ter uma frequência de mergulho de pelo menos 50Hz.Se a potência do alto-falante for pequena, como também entre 20W-50W, a tensão da fonte de alimentação precisará ser pequena, para evitar que o alto-falante queime depois do alto, como escolha uma potência abaixo de 15V. Se você é um alto-falante de 50W-100W , você não precisa se preocupar em queimar a buzina. Você pode escolher uma fonte de alimentação de 12 a 24V. Quanto maior a tensão que você escolher, mais som ou energia você poderá produzir. A potência do alto-falante não é fácil de exceder 100W, caso contrário, ela afetará a qualidade do som.3. modo de entrada de áudioExistem dois modos de entrada de áudio para este módulo amplificador de áudio: um é a entrada Bluetooth e o outro é a entrada AUX. O modo Bluetooth é preferido. Bluetooth pode ser conectado em qualquer um dos modos. Contanto que a conexão do Bluetooth seja bem-sucedida, é o modo bluetooth e o modo bluetooth suporta backup automático. A inserção AUX é o modo AUX quando Bluetooth é desconectado. Deve-se observar que a conexão bluetooth deste módulo é desconectada ao usar o modo AUX.4. Como ajustar o volume principal?O botão MAIN - VOLUME é usado para ajustar o volume principal. O volume principal direito aumenta e o volume principal esquerdo diminui. O volume principal afeta os canais esquerdo e direito e o volume do subwoofer.5. Como ajustar a altura e o baixo dos canais esquerdo e direito?O botão R&L CHANNEL - BASS é para BASS, aprimoramento BASS destro e atenuação BASS canhoto. Quando o botão está na posição mais à direita, ele não aprimora ou atenua os graves.O botão R&L CHANNEL - TREBLE é usado para controlar o TREBLE, com aprimoramento destro de TREBLE e atenuação de canhoto de TREBLE. Quando o botão está no meio, ele não aprimora nem atenua os agudos.Nota ao ajustar sons altos e baixos: quando os sons TREBLE ou BASS são girados à direita para quase o máximo, se a distorção do som for distorcida, o ganho dos sons TREBLE ou BASS é muito grande. É necessário girar o botão TREBLE ou BASS para a esquerda para diminuir o ganho ou girar o botão MAIN-VOLUME da direita para a esquerda para reduzir o volume total.6. Como ajustar o subwoofer?SUBWOOFER - VOLUME controla o VOLUME do SUBWOOFER. O volume para a direita aumenta e o volume para a esquerda diminui.O botão SUBWOOFER - FREQ controla a frequência de corte do SUBWOOFER. A frequência direita aumenta e a frequência esquerda diminui. A faixa de ajuste de frequência é 20HZ-200Hz.7.Quais fatores estão associados à qualidade do som?A qualidade do som não está relacionada apenas ao módulo do amplificador de potência, mas também à fonte de alimentação, fonte de som e todo o sistema de som. Basicamente, todos os links do sistema de som afetam a qualidade do som, entre os quais o link principal é o áudio. linha de transmissão, fonte de alimentação de áudio, circuito de tom, circuito de amplificador, alto-falantes e ambiente circundante. A qualidade do som é melhor quando a fonte de som, a fonte de alimentação, o módulo do amplificador e o alto-falante são compatíveis. 
+
+
+
+

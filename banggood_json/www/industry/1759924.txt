@@ -1,0 +1,192 @@
+1759924
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/4B/CD/d3435e9a-9660-476f-8ba3-1511aae363e3.jpg
+MUSTOOL UD24 5V~32V DC5.5 USB Tester 2.4 Inch Type-C Digital Voltmeter Ammeter Power Bank Voltage Tester Volt Meter for PD Fast Charge
+https://www.banggood.com/MUSTOOL-UD24-5V~32V-DC5_5-USB-Tester-2_4-Inch-Type-C-Digital-Voltmeter-Ammeter-Power-Bank-Voltage-Tester-Volt-Meter-for-PD-Fast-Charge-p-1759924.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File Download Way:1,  User manual, PC software installation instruction and PC software and Android APP download link : http://www.mediafire.com/folder/9r973dly7uvui/UD242,  IOS APP: search E_test on iphonie APP stor to download 3. Android APP: search E-test at Google play to down load It can be used as a USB tester or as a DC voltmeter. It is a high-end product created by the wisdom of the industry!UD24 2.4"inch USB tester DC5.5 Type-C digital voltmeter ammeter power bank voltage tester volt QC PD electric meter for APPFeatures:Voltage measurement range: 5V~32.0V
+Current measurement range: 0.00~ 5.10A
+Timing time: 999 hours 59 minutes 59 seconds
+Input interface: Type-C/Micro USB/USB
+Output interface: Type-C/USB
+Timing charging reminder setting: countdown 24 hours any set value
+USB D+ voltage range: 0V~2.99V
+USB D- voltage range: 0V~2.99V
+Refresh time:> 500mS/ times> 500mS/ times
+Measurement rate: about 0.5 times/sec
+Alarm mode: siren sound + display prompt double warning
+Display type: large screen with true color digital display with heavy cost 2.4 Chinese and English measurement interface
+Self-consumption current: <0.02A
+Working temperature: -10~+60°C -10~+60°C
+Working humidity: 10~80 (no doubt) 10~80 (no doubt)
+Working pressure: 80~106kPaUD24 Startup screen and function test interface1.6-digit high-precision interface
+2.USB Meter Display
+3.DC Meter Display
+4.DC Percentage DisplayQualcom QC3.0/2.0 Quick charge protocol triggers automatic detection of multiple quick charge protocolsFive-fold intelligent protection, safe charging and double safetyAccording to their actual needs, the user can set the full power-off switch, full power-off parameter conditions, timing charging time, and over-current, over-voltage, low-voltage and other parameters, so that this equipment can be fully automated and unattended according to your needs. The set parameters run automatically, and the real-time monitoring well automatically cuts off the power according to the corresponding settings to protect your charging equipment in all aspects. From then on, your charging becomes more safe, interesting and playable!
+1. FCOP: Full power Cut off (ON/OFF), you can set it yourself when the power is < 1W for 1 minute, it will power cut off
+2. TC: Timed charging (ON/OFF), you can set the time period of 01:00-24:00 to charge regularly, when it reaches the setting, it will automatically power cut off
+3. Overcurrent protection: you can set the range of 0.0A-5.1A by yourself
+4. Over voltage protection: 01V-36V range can be set by yourself
+5. Low voltage protection: 00V-35V range can be set by yourself360° rotating screen on all sides satisfies reading at any angleQualcom QC3.0/2.0 fast charge protocol trigger Automatic detection off multiple fast charging protocolsSupport PD fast chargeUD24 line resistance measurement function Support Android/Type-C cable resistance detectionAccording to the connection method shown below, first measure the current battery no-load voltage, and then add the output load. At this time, you can read the current battery internal resistance
+The internal resistance calculation formula of this table: (no-load voltage-loaded voltage) / current current = battery internal resistanceUSB and Type-C Test Application RangeConnect and test various USB and Type-C interfaces and various battery devices
+Multi-port design-multi-use and multi-playBattery power percentageThe meter can freely set the battery type according to the user in the background, the corresponding full voltage value and discharge voltage
+If there is no low value, the system calculates the percentage according to the threshold set by the user, and then changes the color of the percentage through the battery symbol
+Display (more than 30% green, less than 30% yellow, less than 10% red);
+When the display range is between 1% and 100%, the POWER red light on the panel lights up, and the relay output interface outputs at this time
+The level is used to control the relay to connect the current path. When it exceeds the range of 1%~100%, the red light goes out at the same time
+The plug electric appliance outputs a low level to disconnect the current path to ensure the safety protection of the battery for charging and discharging.
+People avoid the risk of damaging the battery due to overcharge and overdischarge, and it can also be used for other purposes of overvoltage and low voltage disconnect protection.Battery internal resistance detection functionAccording to the connection method shown below, first measure the current battery no-load voltage, and then add the output load. At this time, you can read the current battery internal resistance
+The internal resistance calculation formula of this table: (no-load voltage-loaded voltage) / current current = battery internal resistanceDC Power Supply Test Application RangeConnect and test various DC power supplies and equipmentMulti-portion design, one thing, multi-use, multiple play1) Apple Mobile APP:   Please search for E_test in the application store to download and install, then click the Bluetooth APP icon to open the software, and then click the Bluetooth icon above the software to enter the selection DL24-BLE to connect, you can achieve mobile phone remote wireless remote control settings and Measurement function, the discharge status can be viewed at any time on the mobile phone, various data cleaning is visible, the voltage and current power curve of the discharge, etc.2) Android phone APP: Scan the QR code on the back of the host to download the corresponding APP software or Android APP: search E-test at Google play to down load . After the installation is complete, open the software and click the Bluetooth icon to enter the direct selection of DL24-BLE to successfully use it online. (No need for Bluetooth pairing, the software Bluetooth icon directly selects DL24. can)3) Computer Bluetooth wireless online APP:First add the Bluetooth device to the serial port device of DL24-SPP on the computer, then scan the QR code on the back of the host to download the corresponding APP software and store it. Open the software without installing and select the Bluetooth serial port model just added. You can successfully use onlineVoltage accuracy evaluationPrecision testing of large professional instrumentsCurrent accuracy evaluationPrecision testing of large professional instrumentsProduct background parameter settingUD 24 Menu V5.7
+01:Chinese English
+02:Clear cumulative data
+03: Voltage calbration :005.110V
+04: Current calibration : 000.000A
+05: Display Brightness :9
+06: Standby Brightness :9
+07: Enter Standby Time :60S
+08: Temp Correction ([n) 026.9 
+09: Temp Correction ou) :035.6C 
+10: BAT Vol percentage (Low): 08.00V
+11: BAT Yol percentage (Ful): 16.60V
+12: Over-Power : 100W
+13: Default Seltings
+14: ExitProducts ApplicationsProducts List1 X UD24 2.4"inch USB tester DC5.5 Type-C digital voltmeter Details Pictures:
+
+
+
+
+

@@ -1,0 +1,289 @@
+1326823
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/F4/AF/fb1bf50c-fad0-415a-9475-ff0a2080994c.JPG
+433 Mhz DC12V 1CH Wireless remoto Relè interruttore di controllo ricevitore Modulo + 2 trasmettitori RF
+https://it.banggood.com/433Mhz-DC12V-1CH-Wireless-Remote-Control-Switch-Relay-Receiver-Module-+-2-RF-Transmitter-p-1326823.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOTA: 
+
+
+
+Il sistema può memorizzare per 15 pezzi di telecomandi, se il telecomando ottiene più di 15 pezzi, il telecomando iniziale andrà perso.
+
+
+Caratteristica:
+
+
+Tipo di cablaggio: terminale fisso
+
+Corrente di standby: <5MA
+
+Potenza in ingresso: DC10V-14V
+
+Frequenza RF: 433 Mhz
+
+Sensibilità di ricezione: >97dbm
+
+Terminale di uscita: NO, NC, COM
+
+Modalità di lavoro RF: Supereterodina
+
+Modalità di decodifica: decodifica software MCU
+
+Distanza di trasmissione: >100 m (spazio aperto)
+
+Supporta il tipo remoto: codice di apprendimento, codice fisso (il codice a rotazione può essere progettato)
+
+Modalità di lavoro: Momentaneo, Toggle, Latching Tempo di ritardo (5s, 10s, 15s)
+
+
+
+Informazioni sulla modalità di lavoro:
+
+
+
+- Momentaneo: premere il pulsante del telecomando, il relè si collega, rilasciare il pulsante del telecomando, il relè si disconnette.
+
+- Toggle: premere una volta il pulsante remoto, il relè si connette, premere due volte il pulsante remoto, il relè si disconnette.
+
+- Blocco: premere il pulsante remoto A, il relè si collega, premere il pulsante remoto B, il relè si disconnette.
+
+- Modalità ritardo: premere il pulsante del telecomando, il relè si collega, dal rilascio del pulsante del telecomando, dopo 5 secondi o 10s o 15 secondi, il relè si disconnette automaticamente.
+
+
+
+Cancellazione del codice:
+
+
+
+Premi il pulsante di apprendimento sui ricevitori per 8 volte, i codici verranno puliti.
+
+Dopo aver cancellato il codice, tutto il telecomando non può più funzionare.
+
+
+
+1. Apprendimento del codice: (Momentaneo)
+
+Premere una volta il tasto di apprendimento sul ricevitore, entra nella modalità di impostazione momentanea.
+
+Aspetta un attimo, il LED si spegne, entra in stato di apprendimento.
+
+Premere il pulsante del telecomando, l'indicatore LED sulla scheda del ricevitore lampeggerà e poi si spegnerà.
+
+Dopo 3 secondi, l'indicatore LED sarà di nuovo acceso, imparando con successo.
+
+
+
+2. Apprendimento del codice: ( Toggle )
+
+Premi due volte il tasto di apprendimento sul ricevitore, entra in modalità di impostazione alternata
+
+Aspetta un attimo, il LED si spegne, entra in stato di apprendimento.
+
+Premere il pulsante del telecomando, l'indicatore LED sulla scheda del ricevitore lampeggerà e poi si spegnerà.
+
+Dopo 3 secondi, l'indicatore LED sarà di nuovo acceso, imparando con successo.
+
+
+
+3. Apprendimento del codice: (Latching)
+
+Nota: quando si sceglie la modalità di blocco, per apprendere più telecomando, è necessario apprendere due diversi pulsanti, la prima volta appresa è per "ON", la seconda volta appresa per "OFF".
+
+Ad esempio: pulsante A = ON , pulsante B = OFF
+
+Premere tre volte il tasto di apprendimento sul ricevitore, entra in modalità di blocco.
+
+Attendere un attimo, l'indicatore LED sulla scheda del ricevitore lampeggerà e poi si spegnerà.
+
+Premere il pulsante del telecomando A.
+
+Il LED lampeggia per 5 volte.
+
+Premere il pulsante del telecomando B.
+
+Il LED lampeggia per 5 volte.
+
+Dopo 3 secondi, l'indicatore LED si riaccenderà, apprendendo con successo.
+
+A = ACCESO, B = SPENTO.
+
+
+
+Il pacchetto include:
+
+
+
+2 x remoto trasmettitori di controllo (batteria inclusa)
+
+1 x remoto ricevitore Modulo (incluso guscio)
+
+
+
+Appunti:
+
+
+
+1. Misurazione manuale, si prega di consentire un errore di 1 ~ 3 mm, grazie.
+
+2. A causa della differenza tra diversi monitor, l'immagine potrebbe non riflettere il colore effettivo dell'articolo. Garantiamo che lo stile è lo stesso mostrato nell'immagine.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

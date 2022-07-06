@@ -1,0 +1,145 @@
+1922977
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/B3/9E/0b33f9a3-6287-47d7-af93-871b0da516c2.jpg
+SDR versão simplificada RSP1 receptor de rádio definido por software receptor não RTL de aviação
+https://pt.banggood.com/SDR-Simplified-Version-RSP1-Software-Defined-Radio-Receiver-Non-RTL-Aviation-Receiver-p-1922977.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Característica:Receptor de rádio definido por software SDR RSP1 Receptor de rádio definido por software SDR Esquema Ham msi2500 msi001, circuito SDRplay RSP1 simplificado, a interface é interface USB Type-C (interface de telefone móvel Android), placa de camada dupla, usando tecnologia SMT patch, 5 As interfaces de antena correspondem a diferentes bandas de frequência e são testados previamente.Peso do produto: 20 gramasTamanho do produto: 88 * 48 MM1. Faixa de frequência efetiva de 10 KHz a 1 GHz, resolução ADC de 12 bits, largura de banda visual em tempo real total de 10 M (pode monitorar uma ampla faixa de sinal de 10 M em tempo real, como 430-440 MHz)2. Modulação de frequência FM, modulação de amplitude AM, banda lateral única SSB, telégrafo CW de amplitude igual, controle ATC, modulação de zona, bandas de frequência de aviação e ferroviária, transmissão ADS-B de monitoramento automático relacionado, banda larga e intercomunicação digital analógica de banda estreita, DMR digital intercomunicador, transmissão digital DRM, imagens SSTV, imagens de nuvem meteorológica NOAA, monitoramento de radioastronomia, Estação Espacial Internacional ISS e assim por diante.3. Compatível com as quatro plataformas de Windows, Linux, OSMac e Android, ele suporta perfeitamente software convencional, como SDRuno, SDR Sharp, HDSDR, SDR consol, GNURadio e SDR Touch. (Dispositivos Android precisam ser compatíveis com OTG)O pacote inclui:1 x receptor de aviação
+
+
+
+

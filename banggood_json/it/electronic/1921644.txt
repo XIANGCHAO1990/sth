@@ -1,0 +1,145 @@
+1921644
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/79/E4/1b81ef6c-a656-4819-bb16-633c6fd63ecf.jpg
+WT32-SC01 ESP32 Scheda di sviluppo con 3,5 "320X480 capacitivo Multi-Toccare LCD Schermo WIFI bluetooth integrato
+https://it.banggood.com/WT32-SC01-ESP32-Development-Board-with-3_5-inch-320X480-Capacitive-Multi-Touch-LCD-Screen-Built-In-bluetooth-WIFI-p-1921644.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manuale: clicca qui per aprire<<<Descrizione:WT32-SC01 è una scheda di sviluppo per touch screen visivo. La scheda è dotata di firmware della piattaforma GUI sviluppato autonomamente e supporta la programmazione grafica drag-drop per aiutare gli utenti a completare lo sviluppo della piattaforma di controllo personalizzata.La scheda di sviluppo WT32-SC01 adotta il modulo ESP32-WROVER-B, che è un modulo MCU Wi-Fi+BT+BLE universale, dotato di SPI Flash da 4 MB e PSRAM da 8 MB. La scheda di sviluppo WT32-SC01 può anche passare attraverso l'interfaccia di espansione su entrambi i lati del pulsante, voce, fotocamera e altre funzioni di sviluppo e debug, riducendo notevolmente il ciclo di sviluppo dell'utente.Specifica:Display: schermo LCD da 3,5 polliciRisoluzione: 320*480Touch screen: capacitàMulti-touch: supporto 2 touchCPU: MCU dual-core XtensaRO 32-bit LX6WIFI: protocollo Wi-Fi 802.11b /g/n a 2,4 GHzBluetooth: conforme agli standard Bluetooth V4.2 BR/EDR e BLEAlimentazione: DC5V/2ATemperatura di lavoro: -20 ～85Il pacchetto include:1 x scheda di sviluppo WT32-SC01 ESP32
+
+
+
+

@@ -1,0 +1,155 @@
+1789000
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/98/76/c7485987-f35f-46e6-8d0d-76513506197b.jpg
+Ender-3 V4.2.7 Sessiz Süper Sessiz Anakart + Dokunmatik Otomatik Tesviye Sensör Kit, Ender-3 / Ender-3 pro 3D Prinetr için
+https://tr.banggood.com/Ender-3-V4_2_7-Mute-Super-Quiet-Motherboard-+-Touch-Auto-Leveling-Sensor-Kit-for-Ender-3-or-Ender-3-pro-3D-Prinetr-p-1789000.html?cur_warehouse=CN&ID=6287830&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anakartın Tanıtımı:Süper sessiz. Creality Ender 3, Ender 3 Pro, Ender 5 3D yazıcı ile uyumludur. LÜTFEN DİKKAT: Yalnızca Ender-3 & Ender 3 Pro için tak ve çalıştır. Ender-5'e yüklemek istiyorsanız, lütfen Ender-5 aygıt yazılımını yanıp sönün. Firmware'i buradan indirebilirsiniz. 
+https://www.creality.com/downloadSürücü - V1.1.5 kartı için TMC2208 sürücüsü ve Marlin 1.1.8 TMC2225 sürücüsü ve V4.2.7 kartı için Marlin 2.0.1. Bootloader her iki sürüm kartına önceden yüklenmiştir.Bellenimi Güncelle - Aldığınız kart V1.1.5 ise lütfen ISP kablosuyla aygıt yazılımını güncelleyin. Aldığınız kart V4.2.7 ise, lütfen bellenim dosyasını içinde başka dosya bulunmayan biçimlendirilmiş bir SD karta kopyalayın. Yazıcıyı kapatın ve güç kablosunu çıkarın. SD kartı ve güç kablosunu takın ve yazıcıyı açın. Donanım yazılımı güncelleme işlemini tamamlamak için 10s bekleyin.Termal kaçak koruması etkinleştirilmiştir. Kart Devre ile Optimize Edilmiştir, Isıtma Problemini etkin bir şekilde çözer.BLtouch'a Giriş:BLTouch bir tür yarı iletken salon sensörüdür ve 3D Yazıcılar için elektronik bir bileşendir.BL Touch yatak yüzeyinin eğimini hassas bir şekilde ölçebilen, 3D Yazıcılar için otomatik tesviye sensörüdür. Camlar, ahşaplar, metaller vb. Gibi her türlü yatak malzemesi ile çalışabilir.BLTouch
+ aşamalı olarak tasarlanmış solenoid ve salon sensörleri kullanılarak basit yapı ve yüksek hassasiyetle yerine getirilir. Kendi kendine test, alarm, alarm serbest bırakma ve Dokunmatik Anahtar modu, servo sinyal gösterimi için Mavi LED ve Z-prob (Zmin) Testi gibi birçok akıllı işlevi ekleyerek kullanıcı rahatlığı ve keyifli baskı sağlamayı amaçlamaktadır. Özellikleri:BLTouch'ın ana işlevleri ve kontrolleri, bir RC servo ve mikro şalterden oluşan normal otomatik yatak tesviye sensörü ile aynıdır. Böylelikle BLTouch hemen hemen her tahtaya uygulanabilir.Otomatik test ： İtme pimi, güç açıkken bir testte iki kez çalışır.Alarm ： LED ışığı, kendi kendine test sırasında veya çalışma sırasında bir sorun bulunursa yanıp sönerKablolama hatası göstergesi ： Kablo arızalarını göstermek için Mavi ve Kırmızı LED.Kullanımı Kolay: Bu otomatik yatak tesviye sensörü, yatak yüzeyinin eğimini hassas bir şekilde ölçebilen yatak yuvasını dengelemeyi kolaylaştırır. Yatak tesviye artık sorun değil.Akıllı otomatik kontrol ve alarm: Otomatik tesviye işlevi, kullanımını kolaylaştırmak ve şekillendirmenin başarı oranını artırmak için benimsenmiştir.Not:Bazı 3D yazıcı anakartlarında 5V güç kaynağı yetersizdir ve harici bir 5V güç kaynağı gerektirebilir, bu da probun çıkarılmasının zor olduğunu veya çalışma sırasında mantık devresi koruma ana kontrolünün yeniden başladığını gösterir. Karşılaşılırsa, genellikle bir DC-DC düşürme modülü kullanılması önerilir ana güç kaynağından güç almak için. 
+
+  1. + 5V ve GND uzun süre ters bağlanmamalıdır, yanabilir
+
+  2. Lütfen güçlü mıknatıslardan, motorlardan, fanlardan ve diğer manyetik bileşenlerden uzak tutmaya çalışın
+  3. Probun plastik çubuğuna yanlışlıkla vurmak, algılama doğruluğuna zarar verebilir veya etkileyebilir
+  4. Prob ayar vidasını ayarlamak veya yeniden monte etmek için diş tutkalı gerekir
+
+  5. Probu takarken lütfen kabuğun deformasyonundan kaçının 6. Alüminyum çubuğu sert bir şekilde çekmek algılama doğruluğuna zarar verecek veya etkileyecektir.Paket içeriği:1 x Anakart1 x BLtouch kablo ile
+
+
+
+

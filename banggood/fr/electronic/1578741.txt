@@ -1,0 +1,179 @@
+https://fr.banggood.com/FT232RL-FTDI-3_3V-5_5V-USB-to-TTL-Serial-Adapter-Module-Converter-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1578741.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+FT232RL FTDI 3.3V 5.5V USB to TTL Serial Adapter Module Converter Geekcreit pour Arduino - produits compatibles avec les cartes officielles Arduino
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Fonctionnalité:
+
+
+Prise en charge de 3,3 V, 5V
+
+jeu de puces FT232RL
+
+L'alimentation USB a une protection contre les surintensités, en utilisant un fusible à restauration automatique 500MA
+
+Indicateur de communication de l'émetteur-récepteur RXD / TXD
+
+Définition des broches: DTR, RXD, TXD, VCC, CTS, GND
+
+Pas: 2,54 mm
+
+Taille du module: 36 x 17,5 mm
+
+Le forfait comprend:
+
+	1 x adaptateur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

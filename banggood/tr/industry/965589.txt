@@ -1,0 +1,205 @@
+https://tr.banggood.com/Excellway-REX-C100-110-240V-1300-Degree-Digital-PID-Temperature-Controller-Kit-with-400-Degree-Probe-p-965589.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+Excellway® REX-C100 110-240V 1300 Derece Dijital PID Sıcaklık Kontrol Cihazı Kit 400 Derece ile Probe
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikler :
+
+REX-C100 Sıcaklık Kontrol Cihazı
+
+	Ölçüm doğruluğu : ±0.5%FS
+	Soğuk uç kompanzasyon toleransı: ±2℃ yazılım tarafından 0~50℃ aralığında değiştirilebilir
+	Çözünürlük : 14 bit
+	Örnekleme döngüsü : 0,5 Sn
+	Güç : AC 110-240V 50/60HZ
+	Proses değeri (PV), Ayar değeri (SV)
+	Çıkış, alarm ve self-tuning şu şekilde gösterilebilir: LED
+	PIN kontrolü (AÇMA/KAPAMA, adım tipi PID ve sürekli PID dahil)
+	Kendinden ayarlı kontrol
+	Röle çıkışı : kontak kapasitesi 250V AC 3A (dirençli yük)
+	Alarm fonksiyon çıkışı : 2 yollu
+	Oransal bant (P) : 0~tam aralık (0'a ayarlveığında AÇIK/KAPALI kontrolü
+	Dedektif sıcaklık aralığı: 0 ila 1300℃
+	İzolasyon direnci : >50M ohm(500V DC)
+	İzolasyon direnci : 1500V AC/dak
+	İzolasyon direnci : Güç Tüketimi < 10 VA
+	Servis ortamı : 0~50℃
+	Aşındırıcı gaz içermeyen ortam %30~85 RH
+
+K Termokupl Probe Kablo
+
+	Uzunluk : 1M
+	Sensör çapı : 4.5mm
+	Sıcaklık çaldı: 0 ila 400 ℃
+	İç Yalıtım : Fiberglas
+	Dış Ekranlama : Yalıtımlı Ekranlama
+
+	Maks.40A SSR
+
+	Çıkış Voltaj Aralığı : Stveart Tip
+	Çıkış Akımı : 40A
+	Giriş Voltajı : DC 3-32V
+	Çıkış Voltajı : 24-380V AC
+
+Paket içeriği : 
+
+	1 x REX-C100 PID Sıcaklık Kontrol Cihazı
+	1 x K Tip Probe Sensör
+	1 x Maks.40A SSR
+
+	Daha fazla ürün :
+	Şimdi bir oluşturduk SKU108327 yani 220V, 0 ~ 400℃.
+	ve  SKU188430 Tahta 110-240V, 0 ~ 400℃.
+
+Ayrıntılar resimleri:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

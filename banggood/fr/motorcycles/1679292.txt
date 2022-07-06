@@ -1,0 +1,143 @@
+https://fr.banggood.com/36V-350W-12A-XT30-Motor-Controller-For-Scooter-Electric-Bicycle-E-bike-p-1679292.html?cur_warehouse=CZ&rmmds=CategoryAutomobilesPop
+Contrôleur de moteur 36V 350W 12A XT30 pour vélo électrique de scooter
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AvertissementCe contrôleur est le remplacement pièces pour ID : 1647907 et ID: 1679291 , si vous n'avez pas l'ID : 1647907 ou l'ID: 1679291, vous ne devriez pas l'acheterOU vous pouvez acheter une pièce d'identité:1740476Spécification:TensionDC 36VPuissance nominale350WSous-tension30VLimitation de courantUn scooter 12A （15A pourrait être utilisé, mais la vitesse serait lente）Instruction:1. Démarrage: appuyez longuement sur le démarrage (environ 1 s). En même temps, la sonnerie retentit deux fois.2. Arrêt: appuyez et maintenez 3 secondes pour arrêter. En même temps, la sonnerie retentit deux fois.3. Lumière: À l'état sous tension, appuyez brièvement une fois (dans la seconde), allumez les feux avant et arrière,les phares sont toujours allumés et les feux arrière clignotent.4. Frein: Frein électronique + freins à disque. Le feu arrière est long sur les freins.5. Changement de vitesse: l'état de mise sous tension, la valeur par défaut est le fichier à basse vitesse;appuyez deux fois sur le bouton (appuyez deux fois en une seconde) pour changer la position des rapports; Le vert est à faible vitesse; le rouge est à la vitesse supérieure6. Affichage Batterie: 33v-36v La première lumière est longue36v-37v un ou deux feux longtemps lumineux37v-38.5v une ou deux lumières longues brillantes38,5 V ou plus, un, deux, trois, quatre feuxAlarme de basse tension: le premier voyant clignote lorsque la batterie est inférieure à 33 V et la sonnerie retentit 6 fois.7. Mode de vitesse d'alarme basse tension: La limite de vitesse est d'environ 15 km / h. Lorsque la puissance revient à 37V,l'accélérateur doit revenir à sa position initiale pour libérer la basse tension et revenir au fonctionnement normal.8. Croisière à vitesse constante: La vitesse est stable pendant environ 6 secondes pour démarrer automatiquement le régulateur de vitesse;une fois la croisière fixée, l'accélérateur peut être relâché; appuyez sur le freinou appuyez à nouveau sur l'accélérateur pour libérer le régulateur de vitesse et passer en mode manuel.9. Vitesse: La vitesse basse est de 15 ± 2 km / h; la vitesse élevée est de 25 ± 2 km / h.10.Arrêt automatique: arrêt automatique 10 minutes après aucune opération.Affichage de puissance :1) Tension 38.2V-42V Le premier deuxième troisième quatrième cinquième feux sont toujours allumés2) Tension 36,6 V-38,2 V La première deuxième troisième quatrième lumière est toujours allumée 3) Tension 34,5 V-36,6 V Les premier deuxième troisième feux sont toujours allumés 4) Tension 32.8V-34.5V Le premier deuxième voyant est toujours allumé5) Tension 31,5 V-32,8 V La première lumière est toujours allumée 6) Tension 30-31.5V La dernière grille clignote7) Arrêt du moteur avec une tension inférieure à 31 VCode d'erreur:1) Panne du hall moteur "E1"2) "E2" MOSDéfaut MOS ou défaut de court-circuit de ligne de phase moteur3) Panne de frein "E3"4) Panne du guidon "E4"5) Protection contre les sous-tensions "E5"6) Échec de communication instrument / commete "E6"7) Protection contre les surtensions "E7"8) Panne de l'amplificateur opérationnel du contrôleur «E8»9) Protection anti-décrochage "E9"Schéma des ports de câblage:Cordon d'alimentation: grete ligne rouge noireFil moteur: fil bleu / fil vert / fil jauneFil de hall: fil rouge / fil jaune / fil bleu / fil vert / fil noirFil de feu arrière: petit fil rouge et fil noirLogiciel Burning line: ligne verte / ligne rouge / ligne noireLigne de communication: ligne verte / ligne bleue / ligne noire / ligne rouge / ligne jaune Emballage inclus:1 XManette
+
+
+
+

@@ -1,0 +1,233 @@
+https://www.banggood.com/0_56-inch-DC-100V-50A-Red+Red-Dual-LED-Display-Mini-Digital-Voltmeter-Ammeter-Panel-Amp-Volt-Voltage-Current-Meter-Tester-p-1519478.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+0.56" DC 100V 50A Red+Red Dual LED Display Mini Digital Voltmeter Ammeter Panel Amp Volt Voltage Current Meter Tester
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+
+	 
+
+Operating voltage:DC 4 ~ 30V
+
+Measure voltage: DC 0 ~ 100V
+
+Minimum resolution(V): 0.1V
+
+Measure current :50A (require external shunt)
+
+Minimum resolution(A): 0.1A
+
+Operating current: <20mA
+
+Display: three 0.28" LED digital tube
+
+Display color: Red and Red
+
+Refresh rate: about 300mS / times
+
+Measure accuracy: 1% (± 1 digit)
+
+Operating temperature: -10 to 65° c
+
+Operating Humidity: 10 to 80% (non-condensing)
+
+Working pressure: 80 to 106 kPa
+
+Applications:Suitable for automotive/electric cars/motorcycles battery monitoring or other products voltage current measurement
+
+	 
+
+Wiring:
+
+	 
+
+Black line (thin): vacant or buck circuit (module) negative
+
+Red line (thin): power supply+
+
+Black line (thick): COM, common measuring
+
+Red line (thick): PW+, measuring terminal voltage input positive
+
+Yellow line (thick): IN+, current input+
+
+	 
+
+Notice:
+
+	 
+
+The voltage between the thin red and thin black lines must be within DC 4-30V
+
+The ammeter can only be connected to the negative of the device under test
+
+Exceeds 5A, long-term full load working continuously, it is recommended that the measurement side of the leads are directly soldered to the socket
+
+When the black thin line vacant, it is better to use insulating tape around the exposed part of the wire, to prevent short circuits
+
+If just be used as a voltmeter, it is recommended that the yellow line and the black line were connected together, to prevent the ammeter digital flashing
+
+It is unsuitable to use this meter to test current less than 10A .
+
+	 
+
+Package included
+
+	 
+
+1 x Digital Voltmeter Ammeter Meter
+
+1 x Current Shunt
+
+1 x Cable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,191 @@
+1206339
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/B4/D0/9412add8-f1c0-447b-bb01-4b2cf5c25bf9.jpg
+Geekcreit® XR2206 Function Signal Generator DIY Kit Sine Triangle Square Output 1HZ-1MHZ
+https://www.banggood.com/Geekcreit-XR2206-Function-Signal-Generator-DIY-Kit-Sine-Triangle-Square-Output-1HZ-1MHZ-p-1206339.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifications:
+
+Voltage supply: 9-12V DC Input
+Waveforms: Square, Sine & Triangle
+Impedance: 600 Ohm + 10%
+Frequency: 1Hz - 1MHz
+
+SINE wave:
+
+Amplitude: 0 - 3V at 9V DC input
+Distortion: Less than 1% (at 1kHz)
+Flatness: +0.05dB 1Hz - 100kHz
+
+SQUARE wave:
+
+Amplitude: 8V (no load) at 9V DC input
+Rise Time: Less than 50ns (at 1kHz)
+Fall Time: Less than 30ns (at 1kHz)
+Symmetry: Less than 5% (at 1kHz)
+
+TRIANGLE wave:
+
+Amplitude: 0 - 3V at 9V DC input
+Linearity: Less than 1% (up to 100kHz) 10mA
+
+Instruction: Click to open
+
+Package included:
+
+1 x XR2206 Function Signal Generator DIY Kit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

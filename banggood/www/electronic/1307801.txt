@@ -1,0 +1,247 @@
+https://www.banggood.com/MPPT-5A-Solar-Panel-Regulator-Controller-Battery-Charging-9V-12V-24V-Automatic-Switch-p-1307801.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+MPPT 5A Solar Panel Regulator Controller Battery Charging 9V 12V 24V Automatic Switch
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manual: Click here to open<<<
+
+	Features:
+
+	 
+
+1W-100W 9V-28V is suitable 9V 12V 18V 24V solar panels to the batteries,nickel-cadmium,lithium batteries (battery) charging,wind turbines solar street lamps.
+
+Input and output terminals are made of high-end switching power supply for high-frequency low-impedance electrolytic capacitors (LOW ESR), ensure that the output ripple. Can effectively filter out the switching power supply glitches.
+
+	 
+
+Parameters:
+
+	 
+
+The modular nature: a real MPPT solar maximum power poin tracking, automatic intelligent charge management, low power consumption
+
+Input voltage: DC 8-28V input DC voltage. (prohibition AC input)
+
+Output voltage: DC 5-26V stepless transmission.
+
+6V battery can be charged either 12 or 8.4V/12.6V/16.8V lithium battery,7.2V/10.8V/14.4V lithium iron phosphate battery,2-4 string lithium batteries, lithium iron phosphate charge management board.
+
+Output current: 2A/5A maximum charging current in two: A version 5A B version of A 2A 5A default shipping version
+
+Charge indicator: yes. Fast charging red light long bright red and blue lights flash alternately charged. Full automatic stop.
+
+MPPT function: a MPPT maximum power poin automatic tracking, to maximize the full use of solar charging
+
+Low pressure: 1V (as is the step-down voltage regulator, the input voltage is at least higher than the output 1V)
+
+Low power consumption: yes! Ultra-low pressure designed to achieve low power consumption and high efficiency, professional adaptation of solar panels
+
+Operating temperature: industrial grade (-40 to +85 degree)
+
+Load regulation: ± 1%
+
+Voltage regulation: ± 0.5%
+
+Conversion efficiency: Max 93% peak 95% for different lighting conditions vary.
+
+Charging: automatic intelligent three-stage charging mode. Self-tracking solar power charge current automatically adjust the size
+
+No-load current: 3MA even weak morning sunlight can easily start automatically, eliminating manual switch.
+
+Input reverse polarity protection: yes. Exclusively designed ultra-low dropout prevention MOS transistor reverse polarity protection, input reverse is not working.
+
+Output reflux protection: yes. Effectively prevent nocturnal reflux battery electric charge sheet!
+
+Connection: there terminals
+
+	 
+
+Debugging method:
+
+	 
+
+Step 1: connect the solar cell, do not take the bottle to be charged, if the output voltage in step 2. If there is no transfer of small output counterclockwise slowly until the output voltage MPPT.
+
+Step 2: counterclockwise transfer of small output voltage until the red and blue lights flashing, then coarse output voltage to a full cut-off voltage
+
+Step 3: access dead battery, and at the output string ammeter to monitor the charging current, MPPT trimming potentiometer until the charging current maximum.
+
+Step 4: access is just full of batteries, if the blue light is clockwise turn up the output voltage until the red light. Then transfer a small output voltage slowly counterclockwise until just blue lights, and then use a multimeter to measure to determine the cut-off voltage is correct to avoid overcharge!
+
+	 
+
+Transfer methods instead of using the power supply of solar energy:
+
+	 
+
+Step 1: the power supply was adjusted Solar MPPT voltage (such as 18V)
+
+Step 2: the power supply connected to the input terminal, do not take the battery to be charged, if the output voltage is adjusted clockwise until no large MPPT voltage output. Then slowly counterclockwise until the transfer of small MPPT just have the output voltage.
+
+Step 3: anti-clockwise turn down the output voltage until the red and blue lights flashing, then coarse output voltage to a full cut-off voltage
+
+Step 4: access is just full of batteries, if the blue light is clockwise turn up the output voltage until the red light. Then transfer a small output voltage slowly counterclockwise until just blue lights, and then use a multimeter to measure to determine the cut-off voltage is correct to avoid overcharge!
+
+	 
+
+Note:
+
+	 
+
+The first charge in advance regulate the output voltage and please closely monitor the battery voltage to prevent overcharging! Do not unprotected lithium batteries!
+
+	 
+
+Package included:
+
+	 
+
+1 X MPPT solar panel regulator controller
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,248 @@
+1844899
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/71/12/d560121d-a349-4f35-a2fb-83e9fe2611b3.jpg
+FLSUN® Super Racer (SR) 3D Yazıcı 260mmX330mm Baskı Boyutu Hızlı Baskı / 3,5 inç DANGLY Dokunmatik Ekranlı Üç Eksenli Bağlantı / Çıkarılabilir Kristal Kafes Cam Yatak / Çift Sürücülü Ekstruder
+https://tr.banggood.com/FLSUN-Super-Racer(SR)-3D-Printer-260mmX330mm-Print-Size-Fast-Print-or-Three-axis-Linkage-with-3_5inch-DANGLY-Touch-Screen-or-Removable-Crystal-Lattice-Glass-Hotbed-or-Dual-Drive-Extruder-p-1844899.html?cur_warehouse=CN&ID=47184&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▶ Ürünler artık SD kartlar ve USB ve TF kartları ile gönderilmeyecek.▶ Özellikler:Baskı boyutu: 260mmX330mm. 3B Yazıcı'nin Numara'si, çok çeşitli izleyici gruplarının ihtiyaçlarını karşılamak için bölgenin Numara'sine meraklı geniş bir izleyici grubu yelpazesinde.Tam renkli kapasitif Dokunmatik Ekrangeri çekilebilir kablo ve hareketli Dokunmatik Ekran sehpa ile donatılmış olan deneyim, daha insancıl, daha rahat ve kullanımı rahat.Üç eksenli bağlantı, baskı hızı piyasanın 2-3 katıdır I3 sonuç, aynı model, aynı hassasiyet ve yüzey kalitesinde yarı zamanda azaltılabilir, yani makinenin ana satış noktası.Kırık malzeme tespiti, elektrik kesintisi yenileme fonksiyonu ile.32 bit anakart işlemci, daha kararlı, daha verimli, motor zemin sürücü modülünü kontrol edin TMC2209 sessiz sürücüsessiz etki, masaüstü düzeydeki yazıcıların en üst düzeyine aittir.Efektör modül kurulumu: çift turbo fan + 4010 sıradan fan olmak üzere toplam 3 fan, ısı dağılımı üfleme etkisi çok iyidir.Hareket kılavuzu, daha doğru ve istikrarlı baskı sağlamak için endüstriyel sınıf tel ölçüsüdür.Otomatik tesviye sistemi, bir anahtar tesviye, kalıcı hafıza.Kristal kafes cam sıcak yatak, baskı sırasında sıcak yatağın ısıtılması, model platforma daha iyi yapışabilir, baskı bittikten ve sıcak yatak soğuduktan sonra modeli çıkarmak daha kolaydır.Çift dişli ekstruder(Çift dişli tahrikli ekstrüzyon mekanizması), daha fazla tork, daha güçlü ekstrüzyon, daha kararlı ve daha dayanıklı.3K yüksek mukavemetli Karbon Fiber paralel kol, hareketin doğruluğunu sağlamak için daha etkili, stabilite.Modüler montaj, müşterilerin montaj deneyimini tamamlamak için yalnızca 10-15 dakikaya ihtiyacı vardır.Makine parça kutusu ile donatılmıştır, yaygın olarak kullanılan parçalar parça kutusunda saklanabilir, daha insancıl, daha konforlu hizmet.Yüksek mukavemetli özelleştirilmiş alüminyum yan plaka, sabit bir gövdeyi korumak için makinenin yüksek hızlı baskı sürecinde olmasını sağlayabilir.Kayış, müşterinin uzun süreli kullanımda 3B Yazıcı yüksek hızlı hareket durumunda olmasını sağlamak için 10 mm'lik yüksek aşınmaya dirençli kayıştır.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikler
+
+
+Teknoloji: Sigortalı biriktirme modellemesi (FDM)
+Yıl: 2021
+
+Montaj: Kısmen monte edilmiş
+
+Mekanik düzenleme: Deltaprinter
+
+Üretici: Flsun
+
+3B Yazıcı Özellikleri
+
+Yapı hacmi: Ø260 x 330 mm
+
+Baskı hızı: 100-200 mm / sn
+
+Besleme sistemi: Bowden
+
+Baskı kafası: Tek nozul
+
+Meme boyutu: 0,4 mm
+
+Maks. Alan sayısı sıcak uç sıcaklığı: 260 ℃
+
+Maks. Alan sayısı ısıtılmış yatak sıcaklığı: 100 ℃
+
+Yatak malzemesi yazdır: Cam
+
+Çerçeve: Yok
+
+Yatak seviyelendirme: Otomatik
+
+Bağlantı: USB, SD Kart
+
+Baskı kurtarma: Evet
+
+Filament sensörü: Evet
+
+Kamera: Hayır
+
+Malzemeler
+
+Filament çapı: 1,75 mm
+
+Üçüncü taraf filament: Evet
+
+Filament malzemeleri: Tüketici malzemeleri (PLA, ABS, PETG)
+
+Yazılım
+
+Önerilen dilimleyici: Cura, Repetier-Host
+
+İşletim sistemi: Windows, OSX, Linux
+
+Dosya türleri: STL, OBJ, AMF
+
+Boyutlar ve Ağırlık
+
+Çerçeve boyutları: 440 x 390 x 960 mm
+
+Ağırlık: 13,6 kg
+
+
+
+
+
+

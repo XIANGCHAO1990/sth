@@ -1,0 +1,145 @@
+1803740
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/8A/6E/d79ef493-534d-4417-bd7b-ed88bec4be29.jpg
+Fan'ensheng Aggiornato 3018 Pro Incisore CNC FAI DA TE 3 Assi GRBL Lavorazione Del Legno Macchina Per Incidere di Legno Router Cutter
+https://it.banggood.com/Fanensheng-Upgraded-3018-Pro-CNC-Engraver-DIY-3Axis-GRBL-Woodworking-Engraving-Machine-Wood-Router-Cutter-p-1803740.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristica:1. Progettato per CNC: un ottimo strumento per l'ingresso CNC. In grado di scolpire facilmente il testo su materiali quotidiani. Ottimo per coloro che sono interessati al CNC, aiutandoti a incidere il modello in modo efficiente.2. Controllo GRBL: Ultimo sistema di controllo diverso da altri vecchi sistemi di controllo che non erano più aggiornati. Non c'è bisogno di accessori extra. Basta trasformare il tuo computer in una macchina CNC.3. Compatibile con diversi moduli laser da 2500 mW, 5500 mW, 7000 mW, 10000 mW (laser non inclusi), più di una semplice macchina per incidere ma anche laser engraver.(Ora consigliamo il modulo laser (modulo blu Laser da 2500 mW) prodotto dal produttore originale: ID: 1386316）4. Ampia applicazione: Con manuali e software adatti per intagliare legno, plastica, acrilico, PCB CCL, metallo morbido come rame e alluminio e altri materiali, un ottimo strumento per gli amanti della CNC.5. Sistema operativo supportato: Windows XP, Windows 7 32/64 bit, Windows 8, Windows 106. Punte da trapano: punta 0,2 mm, 20 gradi, diametro 3,175 mmCaratteristica:1. Supporta il firmware GRBL e benbox. Supporta la macchina incisione laser a 3 assi CNC.2. La lunghezza della corsa non è limitata a 30x18 e 24x18, ma può impostare un'altra lunghezza. Si prega di impostare il tratto nel comando.Per esempio3018, impostare la corsa nel comando, lunghezza 30 cm e larghezza 18 cm;2418, impostare la corsa XY nel comando, lunghezza 24 cm, larghezza 18 cm.Specifiche della macchina:Stile3018 PRO MDimensioni del prodotto10,9 x 16,7 x 10,9 cmArea di incisione efficace300 x 180 x 45 mm (11,8 x 7,1 x 1,8")Peso dell'oggetto6 kgMaterialeMetalloMotore passo-passo1,3 A, 12V, 0.25 Nm di coppia (2,2 in-lb)Potenza nominale60WMassima potenza120WSoftwearSistemi di controllo GRBL/Sistemi di controllo LasergrblSpecifiche del controller:Cavo USB Lunghezza20cmFirmware    GRBL 08, 09, 1.1 e così via Tensione di ingressoDC 7V- 36VRouter CNC applicabile  Router CNC a 3 assi 1610; 2418; 3018                     Istruzioni:Scheda di controllo GRBL a 3 assiSegnale di uscita:1: Ventola: utilizzata per il raffreddamento del motore dell'albero2: Albero: collegare l'albero del motore, mantenere lo stesso con la tensione di alimentazione, l'elettricità 5A, se la potenza del motore del mandrino è elevata, è possibile collegare relè esterni come l'interruttore. Codice G M3 aperto, M5 chiuso, con la versione 0.9 del firmware può regolare PWM, raggiungere la velocità dell'asse che governa e sintonizzare il laser3: Uscita segnale motore asse X, A4988 corrente elettrica max 1,5 A4: Uscita segnale motore asse Y, A4988 corrente elettrica max 1,5 A5: Uscita segnale motore asse Z, A4988 corrente elettrica max 1,5 ASegnale di input:1: limite minimo asse X X-2: Limite minimo asse Y Y-3: Limite minimo asse Z Z-4: Pulsante di ripristino: premere il pulsante, il sistema si riavvierà, può essere utilizzato per l'arresto urgente della macchinaPacchetto incluso:1 x set completo di macchine per incidere del legno (consegna smontata)1 scheda di controllo a 3 assi GRBL1 cavo USB1 x cavo per collegamento mandrino(Il motore mandrino, la scheda di controllo, il set ZA xis, i motori passo-passo e altre parti di assemblaggio sono tutti inclusi.)Istruzioni e software: istruzioni di montaggio, software di controllo e ulteriori informazioni per favore CLICCA QUI 
+
+
+
+

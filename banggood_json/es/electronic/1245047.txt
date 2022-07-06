@@ -1,0 +1,351 @@
+1245047
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/8B/CF/35442189-ce30-459f-827e-3eb98074c67f.JPG
+DC-DC CC CV Buck Tablero de Convertidor Step Down Módulo de la Fuente de Alimentación 7-32V a 0.8-28V 12A
+https://es.banggood.com/DC-DC-CC-CV-Buck-Converter-Board-Step-Down-Power-Supply-Module-7-32V-to-0_8-28V-12A-p-1245047.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características:
+
+
+
+
+- La corriente de la luz de giro fija es 0,1 veces el valor actual (se usa para identificar si la batería está completamente cargada cuando se está cargando).
+
+
+- Hecho de un CI de referencia dedicado y una resistencia de detección de corriente de alta precisión, lo que demuestra una corriente constante más estable (cuando la corriente constante es de 20 ° C a 100 ° C, la deriva de temperatura es inferior al 1%). Particularmente adecuado para LED.
+
+
+- Alta corriente de salida, la corriente máxima de salida puede alcanzar 8A.
+
+
+- Cuatro capacitancia de alta frecuencia, puede reducir la ondulación de salida, mejorar la estabilización del trabajo.
+
+
+- Diseño de doble disipador de calor. MOS Disipador de calor independiente del diodo schottky, cuya disipación de calor es buena y no se afectarán entre sí.
+
+
+- El uso de núcleo de Sendust de gran tamaño y doble cableado de cobre puro, mejora la eficiencia de trabajo, reduce la fiebre.
+
+
+- Potenciómetro multivuelta 3296, voltaje de alta precisión y regulación de corriente, buena estabilidad.
+
+
+- Lámpara de doble color, las condiciones de trabajo sean claras de un vistazo
+
+
+- El voltaje y la corriente son ajustables, cuyo efecto es bueno.
+
+
+
+
+Parámetros:
+
+
+
+
+- Propiedades del módulo: Módulo de carga de corriente constante descendente no aislada, módulo de voltaje constante (CC CV)
+
+
+- Voltaje de entrada: DC 7-32V
+
+
+- Voltaje de salida: (1) DC 1.2-28V continuamente ajustable. (2) Salida fija: elija entre 0.8v-28v
+
+
+- Corriente de salida: 8A (cuando la temperatura del tubo de potencia excede los 65 grados, agregue ventilador de refrigeración)
+
+
+- Rango de corriente constante: 0.2-8A (ajustable)
+
+
+- Activar Lámpara Corriente: valor actual constante * (0.1), girar la corriente de la lámpara y el enlace de valor constante, como el valor de corriente constante es 3A, girar la corriente de la lámpara se establece en una corriente constante es 0.1 veces (0.1 * 3A = 0.3A )
+
+
+- Presión más baja: 1V
+
+
+- Potencia de salida: la potencia máxima es de aproximadamente 200W
+
+
+- Eficiencia de conversión: hasta aproximadamente 95%
+
+
+- Frecuencia de funcionamiento: 300KHZ
+
+
+- Ondulación de salida: ancho de banda 20M
+
+
+- Salida de entrada 24V 12V 5A ondulación alrededor de 50mV (sin ruido)
+
+
+- Protección de cortocircuito de salida: Sí, corriente constante
+
+
+- Protección de polaridad inversa de entrada: ninguna
+
+
+- Salida previene contraflujo: ninguna
+
+
+- Cableado: Terminal
+
+
+- Corriente sin carga: 20mA típico (interruptor de 24V 12V)
+
+
+- Regulación de carga: ± 1% (constante)
+
+
+- Regulación de voltaje: ± 1%
+
+
+- Dynamic ResponseSpeed: 5% 200uS
+
+
+- Dirección de ajuste del potenciómetro: hacia la derecha (aumentar), hacia la izquierda (disminuir), el potenciómetro (CV) cerrado al voltaje de entrada se usa para regular la tensión, el potenciómetro (CC) cerrado al voltaje de salida se usa para regular la corriente (CC)
+
+
+- Temperatura de funcionamiento: grado industrial (-40 ° C a +85 ° C) (tenga en cuenta el uso real de la temperatura del tubo de potencia, el calor a alta temperatura reforzado)
+
+
+- Indicador: indicador de color dual, luz indicadora de carga roja, luz verde significa completamente cargada (la carga no es verde)
+
+
+- Tamaño: Aprox. 65 x 47 x 23.5 mm / 2.56 x 1.85 x 0.93 ''
+
+
+- Precisión de la corriente y la temperatura constantes: en la prueba real, la temperatura del módulo de 25 grados a 60 grados, el cambio del valor de la corriente constante es menos del 5% (valor actual constante 5A)
+
+
+- Protección de cortocircuito de salida: Sí, corriente constante (el valor actual constante de ajuste actual)
+
+
+- Protección de conexión inversa de entrada: NO
+
+
+- Salida Prevenir Revertir Fow: NO
+
+
+- Método de cableado: conector Amphenol
+
+
+
+
+Aplicaciones:
+
+
+
+
+Controlador LED de alta potencia
+
+
+Carga de batería de litio (o acumulador de plomo)
+
+
+Fuente de alimentación montada en el vehículo
+
+
+Fuente de alimentación del sistema de bajo voltaje
+
+
+Carga de la batería de 6 V, 12 V, 14 V, 24 V
+
+
+Fuente de alimentación de la computadora portátil a bordo
+
+
+Fuente de alimentación regulada
+
+
+Sistema de suministro de energía de bajo voltaje
+
+
+
+
+Paquete:
+
+
+
+
+1 x Módulo de fuente de alimentación ajustable DC-DC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

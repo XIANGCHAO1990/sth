@@ -1,0 +1,175 @@
+https://de.banggood.com/DYP-A02YY-PWM-or-UART-DC5V-Ultrasonic-Ranging-Sensors-Ultrasonic-Waterproof-Distance-Sensor-Waterproof-Probe-Ultrasonic-module-p-1616182.html?cur_warehouse=CN&ID=6285054&rmmds=CategoryElectronicsPop
+DYP-A02YY PWM / UART DC5V Ultraschall-Entfernungssensoren Wasserdichter Ultraschall-Distanzsensor Wasserdichtes Ultraschallmodul Sonde
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spezifikationen:
+
+
+
+Betriebsspannung: 5V
+
+Durchschnittlicher Arbeitsstrom: <15mA
+
+Spitzenstrom: 60mA
+
+Wasserdicht: IP67
+
+Blindbereichsabstand: 0-3cm 
+
+Ebene Objektbereich: 3-420cm
+
+Arbeitszyklus: kontrolliert /100ms
+
+Ausgabemodus: PWM-Pulsbreite oder serieller UART-Port
+
+Messgenauigkeit: +-(1+S*0,5%)/+-(1+S*0,3%) CM(S ist Messabstand)
+
+
+
+Lieferinhalt:
+
+
+
+1 x PWM / UART DC5V Ultraschall-Entfernungssensoren Ultraschall wasserdicht
+
+
+
+
+
+
+

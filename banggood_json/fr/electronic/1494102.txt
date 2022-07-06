@@ -1,0 +1,167 @@
+1494102
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/11/40/a54a9ed4-69b3-4125-88a7-491c8ea7d571.JPG
+Carte contrôleur ATmega328P Nano V3 pour module de développement de version améliorée Geekcreit pour Arduino - produits compatibles avec les cartes officielles Arduino
+https://fr.banggood.com/ATmega328P-Nano-V3-Controller-Board-For-Improved-Version-Development-Module-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1494102.html?cur_warehouse=CN&ID=6300464&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spécification:
+
+Microcontrôleur ATmega328
+Tension de fonctionnement (niveau logique) : 5V
+Tension d'entrée (recommandée) : 7 V ~ 12 V
+Tension d'entrée (limites) : 6 V ~ 20 V
+Broches d'E/S numériques : 14 (dont 6 fournissent une sortie PWM)
+Broches d'entrée analogique : 8
+Courant CC par broche d'E/S : 40 mA
+Flash Mémoire : 32 Ko (ATmega328) (dont 2 Ko utilisés par le bootloader)
+SRAM : 2 Ko (ATmega328)
+EEPROM : 1 Ko (ATmega328)
+Vitesse d'horloge : 16 MHz
+Puce : CH340G (CH340B est la version de mise à jour de CH340G, CH340B est livré avec du cristal, mais pas CH340G, et nous envoyons par défaut la version CH340G)
+
+Noter:
+
+Puce USB améliorée pour la vitesse et la stabilité avec WIN7/WIN8. 
+Cette version est livrée avec des en-têtes à 15 broches non soudés, 6 broches en-têtes soudé et non inclus le câble USB.
+
+Emballage inclus:
+
+1/3/5 x Nano V3.0 Carte avec broches (en option)
+
+
+
+

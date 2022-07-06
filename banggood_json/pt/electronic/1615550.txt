@@ -1,0 +1,225 @@
+1615550
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/47/8F/c32e4bec-2427-4529-8f6a-8fe475e9975c.jpg
+PM1.0 PM2,5 PM10 Módulo de Medição Qualidade do Ar Poeira Sensor Tester Suporte Exportação Monitoramento de Dados Home Office Car Tools
+https://pt.banggood.com/PM1_0-PM2_5-PM10-Meaturing-Module-Air-Quality-Dust-Sensor-Tester-Support-Export-Data-Monitoring-Home-Office-Car-Tools-p-1615550.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: Esta versão pode transferir dados para o PC pelo software do computador host
+
+Não a função de transmissão de dados clique aqui:EU IRIA: 1588436
+
+
+Click to download: o software do computador host
+ Instruções de operação:Clique para abrir
+
+Especificações:
+
+
+
+Material: Acrílico Caso + Componentes Eletrônicos
+
+Tamanho: Aprox. 8,5x6,5x3,7cm/3,35x2,56x1,46"
+
+Processador: Para chips ARM de 32 bits
+
+Cor da fonte: várias cores
+
+Tela: 2,8" TFT (2 telas diferentes)
+
+Proporção de resolução: 320x240
+
+Fonte de alimentação: DC 5V
+
+Corrente de Operação: 1-2A
+
+Faixa de medição de temperatura: -20 a 60 ℃
+
+Precisão: ±0,1 ℃
+
+Versão do idioma: Inglês
+
+
+
+Princípio de trabalho:
+
+
+
+Multi-ângulo Laser Detecção de espalhamento, irradiação a laser no material particulado suspenso no ar e gerar espalhamento. A luz dispersa será coletada em um ângulo especificado ao mesmo tempo. De acordo com a intensidade de espalhamento, curvas variantes no tempo podem ser obtidas através do sensor. Sendo processado pelo processador do microcomputador, podem ser obtidos diâmetros de partículas equivalentes e o número de material particulado em suspensão com tamanhos diferentes por unidade de volume.
+
+
+
+Recursos:
+
+
+
+- A transmissão de dados pode ser concluída através do software do computador host
+
+- Invólucro em acrílico transparente, alta transmitância a ser observada
+
+- Construído para processador ARM de 32 bits, detecção precisa e fluência do sistema
+
+- Tela de 2,8" TFT, display de colorização, visão grande angular de até 180°
+
+- Sensor de alta sensibilidade garante a alta precisão nas coletas de dados
+
+- O design de semi-fechamento tem excelente desempenho em radiação de calor, uso de longa vida útil
+
+- Multiuso na detecção da qualidade do ar em PM1.0, PM2,5, PM10.0, AQI, temperatura e umidade, partículas suspensas
+
+- Os resultados da detecção em tempo real serão mostrados na tela em cores correspondentes relacionadas aos dados coletados
+
+- Leve, fácil de usar e imediato na interpretação de dados
+
+- Fonte de alimentação em DC 5V universal, soquete usb, carregador de carro, banco de potência, etc
+
+- Adequado para casa/escritório e carro ou escopo parcial na detecção da qualidade do ar  O que são PM10, PM2,5 e PM1.0?Além da poluição gasosa, o ar circundante também pode ser poluído por partículas. Essas partículas (suspensão, líquida ou sólida) com diferentes composições e tamanhos são às vezes chamadas de "aerossóis". Eles são geralmente classificados como "matéria suspensa" e são frequentemente chamados de PM (abreviação de "Particulate Matter" em inglês).O tecido flutuante é geralmente classificado de acordo com o "diâmetro aerodinâmico". O diâmetro aerodinâmico de uma partícula de poeira é o diâmetro de uma partícula esférica, e o diâmetro da partícula esférica mostra o mesmo comportamento que a partícula de poeira no ar ambiente (não necessariamente tendo uma forma esférica). No contexto das questões de qualidade do ar, o material particulado é particularmente importante.Partículas finas como PM10, PM2,5 e PM1 são definidas como peças com diâmetros aerodinâmicos inferiores a 10, 2,5 e 1 µm (informações: 1 µm = partes por milhão) metros ou milésimos de milímetro ). Para comparação, o diâmetro médio do cabelo humano é de 50-70 µm.Qual é a diferença entre PM10, PM2,5 e PM1.0?PM1: PM1 é muito mais fino que PM2,5. A principal fonte de PM1 é principalmente a geração diária de energia, produção industrial, poluição ambiental interna, etc., o que é difícil de julgar a olho nu. O PM1 vem principalmente da queima de combustíveis fósseis, como carvão e VOCs.PM2,5: PM2,5 tem um tamanho de partícula pequeno, grande área e forte atividade. É fácil de anexar substâncias tóxicas e perigosas (por exemplo, metais pesados, microorganismos, etc.), e tem um longo tempo de residência na atmosfera e uma longa distância de transporte. A saúde humana e a qualidade ambiental atmosférica têm um impacto maior. PM2,5 é principalmente smog e poeira das estradas na vida diária.PM10: PM10, também conhecido como material particulado respirável, refere-se a material particulado com diâmetro aerodinâmico equivalente ≤10 mícrons. Geralmente vem de veículos automotores que circulam em estradas de asfalto e cimento não pavimentados, esmagamento e trituração de materiais e poeira levantada pelo vento.
+
+
+
+Incluído no Pacote:
+
+
+
+1 x PM2,5 Módulo de Medição da Qualidade do Ar
+
+1 x cabo USB
+
+
+
+
+

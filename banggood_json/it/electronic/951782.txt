@@ -1,0 +1,174 @@
+951782
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/86/AF/8f2ea68f-3da3-404b-b247-21882d4bb318.jpg
+5 pezzi ATmega328P Nano V3 versione migliorata del modulo con scheda di sviluppo cavo USB
+https://it.banggood.com/5Pcs-ATmega328P-Nano-V3-Module-Improved-Version-With-USB-Cable-Development-Board-p-951782.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifica:
+
+Ho cambiato il chip USB, migliorare la velocità di download e la stabilità di WIN7 / WIN8
+Nota: è necessario installare il driver CH341SER, ecco il link: http://wch.cn/download/CH341SER_ZIP.html
+
+Microcontrollore ATmega328
+Tensione di funzionamento (livello logico): 5V
+Tensione di ingresso (consigliata): 7V ~ 12V
+Tensione d'ingresso (limiti): 6V ~ 20V
+Perni di I / O digitali: 14 (di cui 6 forniscono PWM output)
+Perni di ingresso analogico: 8
+Corrente continua per pin per I / O: 40mA
+Memoria flash: 32KB (ATmega328) (di cui 2 KB utilizzati dal bootloader)
+SRAM: 2KB (ATmega328)
+EEPROM: 1KB (ATmega328)
+Velocità dell'orologio: 16MHz
+
+Il pacchetto include:
+
+5 x Versione migliorata Nano V3.0
+
+
+
+
+
+
+
+
+
+
+
+
+

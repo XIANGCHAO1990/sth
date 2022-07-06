@@ -1,0 +1,183 @@
+928634
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/29/DF/f5a1657a-d7a4-4cd4-9d5e-45e07c89b7ad.jpg
+Semiconduttore BTS7960B 43A H Bridge Ponte H Modulo Driver di Motore per Arduino
+https://it.banggood.com/Semiconductor-BTS7960B-5V-43A-H-bridge-Motor-Driver-Module-p-928634.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Semiconduttore BTS7960B 43A H Bridge Ponte H Modulo Driver di Motore per Arduino
+
+Caratteristiche:
+
+Azionamento di ponte H a doppio BTS7960 ed enorme corrente elettrica (43A).
+5V isolato dal SCM in modo che possa proteggere il SCM efficacemente.
+Questo modulo può azionare il motore in avanti e inverso, la frequenza massima di questi due modalità di azionamento è sempre 25KHz.
+Con l'uscita di due segnali di errore di surriscaldamento.
+L'alimentazione del chip isolato è 5V, quindi può essere usato con il SCM in 5V.
+La tensione è da 5,5V - 27V.
+
+Specificazione:
+
+Peso: 66g
+Dimensioni: 4,8 x 4,8 x 3,9cm
+
+La confezione include:
+
+1 x BTS7960B Driver di Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

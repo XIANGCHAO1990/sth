@@ -1,0 +1,214 @@
+1462594
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/F7/7F/9e09cb30-e231-4d53-9c2f-97b3c45abd62.jpg
+Modulo Raspberry Pi USB fotografica con campo di messa a fuoco regolabile per Raspberry Pi 3/2/B/B+
+https://it.banggood.com/Raspberry-Pi-USB-Camera-Module-with-Adjustable-Focusing-Range-for-Raspberry-Pi-3-or-2-or-B-or-B+-p-1462594.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+
+USB Interface Telecamera, supporta tutte le revisioni del Pi
+	Intervallo di messa a fuoco: 20 mm (MAX)
+	Risoluzione video: 640*480
+	Dimensioni: 3,8 cm * 1,5 cm * 3 cm, linea scalabile, il più lungo è 65 cm
+
+
+Come utilizzare questa fotocamera:
+
+
+1. Regola la messa a fuoco
+
+
+Testare questa fotocamera USB con il computer e regolare la messa a fuoco in modo che corrisponda alla migliore risoluzione del display.
+
+2. Gira video
+
+sudo apt-get update
+
+sudo apt-get install ffmpeg
+
+avconv -f video4linux2 -r 7 -s 640x480 -i /dev/video0 video0.avi
+
+3. Riproduci video
+
+omxplayer -o hdmi video0.avi
+
+4.  Fare foto
+
+Installa il software:
+
+sudo apt-get install fswebcam
+
+Cattura immagini:
+
+fswebcam -r 640x480 image.jpg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

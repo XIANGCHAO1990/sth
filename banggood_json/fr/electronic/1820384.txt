@@ -1,0 +1,145 @@
+1820384
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/D5/48/c96f6ba9-43c8-43c6-8a23-9d0af8bed13f.jpg
+12S 36V Lithium Batterie 3.2V carte de Protection de l'alimentation 15A-180A avec fonction d'égalisation de Protection de la température Protection contre les surintensités BMS PCB
+https://fr.banggood.com/12S-36V-Lithium-Battery-3_2V-Power-Protection-Board-15A-180A-with-Temperature-Protection-Equalization-Function-Overcurrent-Protection-BMS-PCB-p-1820384.html?cur_warehouse=CN&ID=515283&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BMS est destiné à l'utilisation de la batterie, différentes chaînes ne sont pas compatibles.Par exemple: 13S BMS, ne peut pas être utilisé pour une batterie 10S, ne peut être utilisé que sur une batterie 13S.Description:Gamme: la tension nominale est une batterie au lithium de 3,2 V (y compris 18650, 26650, batterie polymère).Fonction: fonction de protection contre les surcharges, fonction de protection contre les décharges, fonction de protection contre les surintensités, fonction de protection contre les courts-circuits, fonction de gestion de l'équilibre de la batterie, fonction de protection de la température.Produits: 7S ou plus adopte le circuit de schéma intégré Zhongying et 7S ou moins adopte un circuit de schéma en cascade à section unique.    Protection de la températureSolution de circuit intégré ZhongyingPeinture à trois épreuvesLe 8-24S est équipé d'un contrôle de température NTC pour réaliser des fonctions telles que protection de la température de charge et protection de la température de décharge, améliorant efficacement la sécurité de l'utilisation de la batterie et résolvant les risques de sécurité potentiels causés par l'emballement thermique des batteries.La carte de protection répond avec précision et sensibilité, ce qui présente plus d'avantages que la solution traditionnelle, économise de l'espace sur le circuit et les paramètres peuvent être ajustés en fonction de la personnalisation du client pour réaliser la fonction de protection contre la déconnexion.Tous les circuits sont recouverts de trois anti-peintures, qui peuvent efficacement empêcher les dommages électrostatiques, empêcher les courts-circuits causés par des environnements humides, empêcher l'oxydation de l'air et prolonger la durée de vie.         Nouvelle classe A MOSForte dissipation thermiqueEnvoyer le câble correspondantL'utilisation d'AVIC MOS peut garantir la qualité du produit, une faible résistance interne pendant la décharge et une faible élévation de température pendant une décharge à long terme, sans affecter la sortie de la batterie, ce qui rend le contrôle plus sûr.Le dissipateur thermique est anodisé et le gel de silice conducteur de la chaleur est amorti pour améliorer l'efficacité de dissipation thermique. La structure est transparente et a un meilleur environnement de température que le type scellé. Une décharge à long terme n'affecte pas les performances.Les couleurs blanches et rouges sont envoyées au hasard avec the même effet.Mise en chargeCourant de charge ： Identique au courant continuTension de charge: 44,4 VProtection contre les surchargesTension de détection de surcharge: 3,7 V ± 0,05 VTension de libération de surcharge: 3,6 V ± 0,05 VDélai de protection contre les surcharges ： 600uSProtection contre les déchargesTension de protection contre les décharges: 2,2 V ± 0,1 VSurtension de décharge de décharge ： 2,5 V ± 0,1 VDélai de détection de décharge excessive ： 600uSÉquilibreTension de détection d'équilibre: 3,55 VTension de déclenchement équilibrée ： 3,55 VCourant d'équilibre ： 35mA ± 5mA Protection contre les déchargesCourant instantané: courant continu * 2,5Retard de détection de surintensité ： 600uSAu-dessus de la tension de détection de décharge ： 100mVCondition de déclenchement de la protection contre les surintensités ： Déconnecter la chargeProtection de court circuitCondition de protection contre les courts-circuits ： Court-circuit de charge externeRetard de détection de court-circuit ： 600uSCondition de déclenchement de la protection contre les courts-circuits ： Déconnecter la chargeProtection contre la températureTempérature de charge: -20 ~ 55 ℃Température de décharge: -20 ~ 70 ℃Retirer la protection de contrôle de température: dans la température de travailRésistance intérieureRésistance au circuit principal ： ≤10mΩAuto-consommation d'électricitéCourant de travail ： ≤100uACourant de veille (lorsque la batterie est trop déchargée) ： ≤20uATemp de travailplage de température ： -20 ℃ / + 80 ℃Emballage inclus:1 x 12S 36V Lithium Batterie Carte de protection d'alimentation 3.2V 15A-180AUtilisez la file d'attente des opérations:1. Le câble commence à partir du fil mince noir reliant B-, le deuxième fil (le mince fil rouge) est connecté au pôle positif du premier atterie, et le pôle positif de chaque batterie est connecté à son tour jusqu'au dernier fil rouge est connecté à B +;2. Après avoir connecté le câble, n'insérez pas la fiche directement dans le BMS. Mesurez la tension entre les deux bornes métalliques adjacentes à l'arrière de la fiche. Si la tension de la batterie terpolymère doit être comprise entre 2,8 V et 4,2 V, la batterie fer-lithium doit être comprise entre 2,5 V et 3,65 V.3. Après avoir corrigé la file d'attente de câblage et la confirmation de tension, insérez la prise BMS.4. La ligne B du panneau de protection (ligne épaisse bleue) est connectée au pôle négatif de la batterie.5. Une fois le câblage terminé, mesurez si la tension totale de la batterie et la tension totale traversant le BMS sont égales. S'ils sont différents, vérifiez à nouveau selon la file d'attente de câblage ci-dessus.Des astuces: La carte de protection de la batterie, qui est un produit semi-fini de produits électroniques, est une pièce d'usure en cas d'utilisation incorrecte. Si vous ne comprenez pas comment l'utiliser, veuillez lire attentivement le manuel ou demandez au service client. Toute mauvaise utilisation brûlera la résistance d'échantillonnage frontale. Nous n'accepterons pas de tels litiges concernant les dommages du client. Veuillez ne pas acheter si cela vous dérange. 
+
+
+
+

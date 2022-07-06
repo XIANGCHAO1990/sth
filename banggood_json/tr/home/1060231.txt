@@ -1,0 +1,229 @@
+1060231
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/22/C2/037f2d96-4676-42af-aa23-c26bb2985e0d.jpg
+SL-LC 04 Süper Mini LED WIFI APP Kontrolörü + Uzakdan Kumanda RGB LED Şerit DC 9-12V için
+https://tr.banggood.com/SL-LC-04-Super-Mini-LED-WIFI-APP-Controller-+-Remote-Control-For-RGB-LED-Strip-DC-9-12V-p-1060231.html?cur_warehouse=CN&rmmds=CategoryHomeGardenPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parametre:
+Model No: SL-LC04
+Çalışma Gerilimi: DC9-12V
+Çıkış Kanalı: 4 kanal kullanılabilir
+Çıkış Akımı:RGB,4A*4
+Maks. Güç: 4AX4X12V = 192W
+Bağlantı yöntemi: Ortak anot
+Boyut: L46*W19*H8mm hakkında
+Mesafe: açık havada 50m
+Bağlantı yolu: LED Light için R, G, B, Güç kaynağı için V+, V- ve WIFI sinyal alımı için
+Uygulamalar: LED şerit, LED panel ışığı, LED tavan aydınlatması ve diğer LED aydınlatma için kullanılabilir
+Paket İçeriği: 1 X LED Mini WiFi Denetleyicisi, 1 X 24 tuşlu Uzakdan Kumanda Kontrol, 1 X İngilizce Kılavuzu
+
+Fonksiyonlar:
+* 16 Milyon Renk
+* Akıllı Telefon Kontrolü
+Grup Eşitleme Kontrolü
+*Özel mod
+* Zamanlayıcı Modu
+* Partinizi patlatın
+* Müzikli Hafif Dans
+* Favori Renkleri Kaydet
+Intenet tarafından uzaktan kumanda
+
+Talimatlar:
+1.Arama uygulaması adı: IOS mağazasından "MagicHome WiFi" veya Android Google play store ve ücretsiz uygulamayı yükleyin.
+2.Sınav uygulamasını yüklemek için QR kodunu bulun.
+
+WIFI Bağlantı Ayarı:
+1. Telefonunuzun WiFi ağında WiFi denetleyicisi "LEDnet ******" öğesini arayın ve bağlayın.
+2. "Magichome WiFi" uygulamasını açın ve telefonunuz bu WiFi denetleyicisini tararken bekleyin.
+3.WiFi denetleyicinizi kontrol etmek için üç yolunuz var:
+Tek bir mod:
+"Atla, sonraki seferinde ayarla" yı tıklayın, ardından doğrudan kontrol etmeye gidin.
+Tek modda, bir denetleyiciyi yalnızca bir kez kontrol edebilirsiniz.
+Ayrıca, telefonunuzun WiFi denetleyicisi, bu arada WiFi denetleyicisi "LEDnet ******" ile bağlantıyı sürdürmelidir.
+B.Ağ modu:
+"Ayarlar" ı tıklayın, ardından kontrol cihazlarınızı tek tek WiFi yönlendiricisine ayarlayın.
+Denetleyiciler WiFi yönlendiriciye bağlandıktan sonra, telefonunuzu bu WiFi yönlendiricisine bağlayın. Ardından, "Magichome WiFi" uygulamasını açın,
+Ve telefonunuz bu WiFi yönlendiricisine bağlı olan WiFi denetleyicileri tararken bekleyin.
+Şimdi, uygulama tüm denetleyicileri "Aygıt Listesi" içinde gösterecektir. "Cihaz Listesi" nde, kontrol etmek istediğiniz denetleyiciyi seçebilirsiniz.
+Kaç tane denetleyicinin kontrolü, kablosuz denetleyicinizin kaç cihazla destekleyebileceğini kontrol edebilir.
+Ağ modunda, WiFi yönlendiricinizin çevrimiçi olmasına bakılmaksızın WiFi yönlendiricisine bağlı olan tüm denetleyicileri kontrol edebilirsiniz.
+C.Internet ile kontrolü uzaklaştırın:
+WiFi denetleyicilerinizi bu dünyadaki herhangi bir yerden kontrol etmek.
+Ağ modunda, yalnızca WiFi yönlendiricinizi çevrimiçi tutmanız gerekir. Ayar sayfasını girmek için sol üst köşedeki dişli çark simgesini tıklayın.
+WiFi denetleyicinizi seçin ve açılan menüden "Uzaktan Ayarlar" ı seçin. "Açılmadı" dan değiştirmek için uzaktan durum seçeneklerini kontrol edin.
+WiFi denetleyicisi yeniden başlatıldığında, bunu "Cihaz Listesi" sayfasındaki "Uzak" sekmesinde bulabilirsiniz.
+
+SSS:
+(A) Telefonum, tek modda WiFi denetleyicisine bağlanamıyor.
+   1) WiFi denetleyicisini doğru bir şekilde bağlayın, güç kaynağı → WiFi denetleyicisi → LED aydınlatma
+   2) Telefonun WiFi ağının normal şekilde çalıştığından emin olun.
+   Daha sonra telefonunuzun WiFi ağını WiFi denetleyicisi LEDnet ******'ya bağlayın.
+(B) Ağ modunda WiFi cihazına bağlanamadım.
+    Yönelticiye doğru şifreyi girdiğinizden emin olun. Kumandayı ve yönlendiriciyi kapatın.
+    Önce yönlendiricinizi açın ve sonra denetleyiciyi 30 saniye sonra açın. Magichome WiFi'yi çalıştırmadan önce yaklaşık 2 dakika bekleyin.
+    Sorun hala devam ederse, telefonun WiFi ağı ayarına gidin ve WiFi denetleyicisi "LEDnet ******" yı yeniden ayarlayın. Ardından, denetleyicinizi tek modda WiFi yönlendiricisine önce bağlayın.
+(C) Telefonumda WiFi cihazı çalıştırılamıyor.
+    Bu uygulama bu işletim sistemini destekliyor: Android 2.3 veya üstü, IOS6.0 veya üstü.
+(D) Tek modda veya ağ modunda bir telefonla kaç tane WiFi denetleyicisi kontrol edilebilir?
+    Tek modda, bir telefon 1 adet WiFi kontrolcüsü kontrol edebilir. Ağ modunda, bir telefonun senkronize edebileceği kaç tane WiFi denetleyicisi, bir WiFi yönlendiricisinin kaç tane aygıtla çalışabileceği ile aynıdır.
+
+(E) Bir WiFi denetleyicisini kontrol etmek için birçok telefonu kullanabilir miyim?
+     Evet, bir WiFi kontrol cihazını kontrol etmek için 8 telefon kullanabilirsiniz.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,,,,
+
+

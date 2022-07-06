@@ -1,0 +1,145 @@
+1874190
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/F2/1C/00dd15be-a7f1-4b03-a9ab-1dcdbd355f04.jpg
+LILYGO® TTGO Contrôleur VGA32 V1.4 PS/2 souris et clavier contrôleur bibliothèque graphique moteur de jeu terminal ANSI/VT pour ESP32
+https://fr.banggood.com/LILYGO-TTGO-VGA32-V1_4-Controller-PS-or-2-Mouse-And-Keyboard-Controller-Graphics-Library-Game-Engine-ANSI-or-VT-Terminal-For-ESP32-p-1874190.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristique:Informations de mise à jour : ajoutez une interface de sortie audio de 3,5 mm et une interface de sortie de haut-parleur JST 2.0 PH à 2 brochesMatériel CaractéristiquesJeu de pucesTTGO Micro32ÉCLATFlash QSPI 4 Mo / PSRAM 8 MoSRAM 520 kB SRAMBoutonRéinitialiser, IO36Fonction étendueVGA, PS/2USB vers TTLCH9102FInterface modulaireUART, SPI, SDIO, I2C, DEL PWM, Télé PWM, I2S, IRGPIO, capteur tactile de condensateur, CAN, Préamplificateur DACLNAHorloge de bordOscillateur à cristal 40MHz Tension de travail2.7V-3.6VCourant de travailenviron 30mACourant de sommeil230uAPlage de température de travail-40?? ~ +85??Taille poidssans VGA : 60,99 mm * 32,06 mm * 16,79 mmavec VGA : 66,70 mm*32,06 mm*16,79 mm21.25gSource de courant CaractéristiquesSource de courantUSB 5V/1ACourant de charge500mABatterieBatterie au lithium 3.7VWifiLa descriptionStandardFCC/CE-RED/IC/TELEC/KCC/SRRC/NCCProtocole802.11b/g/n(802.11n, accélérer jusqu'à 150 Mbps) polymérisation A-MPDU et A-MSDU, prend en charge l'intervalle de protection de 0,4 SGamme de fréquences2,4 GHz~2,5 GHz(2400M~2483,5M)Puissance de transmission22dBmDistance de communication300mBluetoothLa descriptionProtocolerépondre aux normes bluetooth v4.2BR/EDR et BLEFréquence radioavec une sensibilité de -97dBm Récepteur NZIF Classe 1, Classe 2 et Classe 3 émetteur AFHFréquence audioFréquence audio CVSD et SBCSpécification du logicielLa descriptionMode WifiStation/SoftAP/SoftAP+Station/P2PMécanisme de sécuritéWPA/WPA2/WPA2-Entreprise/WPSType de chiffrement AES/RSA/ECC/SHAMise à jour du firmwareTéléchargement UART/OTA (Via le réseau/hôte pour télécharger et écrire le firmware)Développement de logicielsPrise en charge du développement du serveur cloud/SDK pour le développement du micrologiciel utilisateurProtocolee de mise en réseauIPv4, IPv6, SSL, TCP/UDP/HTTP/FTP/MQTTConfiguration utilisateurAT + Jeu d'instructions, serveur cloud, android/iSystème d'exploitationappSystème d'exploitationFreeRTSystème d'exploitationLe forfait comprend :1 x contrôleur
+
+
+
+

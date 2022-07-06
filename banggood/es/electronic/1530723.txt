@@ -1,0 +1,337 @@
+https://es.banggood.com/3000W-AC220V-250V-to-DC-48V-62A-ZVS-Heating-Switching-Power-Supply-R48-3000e3-For-Induction-Heater-p-1530723.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+3000W AC220V-250V a DC 48V 62A ZVS Fuente de alimentación conmutada de calefacción R48-3000e3 para inducción Calentador
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Consejos: Este producto es la fuente de alimentación para la estación base de comunicación, que debe tener una conexión de comunicación con el chasis. Si no tiene una conexión de comunicación, la luz amarilla parpadeará, lo cual es un fenómeno normal y no afecta la salida de energía normal.Característica:
+
+
+
+Alta eficiencia, reduce el consumo de energía para reducir los costos operativos
+
+La potencia de salida total (3kW) hasta + 45 ° C permite ahorrar en el sistema climático y los costos operativos
+
+Amplio rango de voltaje de entrada para operar en los entornos más exigentes
+
+Conectable en caliente: facilita futuras expansiones y un fácil mantenimiento
+
+Cumple con los estándares globales: ofrece calidad, rendimiento y confiabilidad sin importar lo que exija la aplicación o la ubicación.
+
+
+
+Descripción:
+
+
+
+El rectificador de alta eficiencia de 3000 W (modelo R48-3000e3) está diseñado para convertir los voltajes de suministro de CA estándar en un voltaje nominal estable de -48 V CC que se puede ajustar a las necesidades de la aplicación. 
+
+El R48-3000e3 es un rectificador de potencia constante diseñado con la última tecnología de modo de conmutación patentada, que utiliza la funcionalidad DSP (Procesador de señalización digital) para un funcionamiento eficiente.
+
+Para una mayor capacidad de carga, los rectificadores se pueden conectar en paralelo y se puede agregar un control inteligente con la ayuda de un controlador separado.
+
+
+
+
+
+
+Entrada AC
+
+
+
+Voltaje de entrada, nominal
+
+200 a 250 VCA
+
+
+
+Voltaje de entrada, variación permitida
+
+85 a 300 VCA
+
+
+
+Frecuencia de línea
+
+45 to 65 Hz
+
+
+
+Corriente de entrada máxima
+
+22 A
+
+
+
+Factor de potencia
+
+> 0,99 para 50% -100% de carga
+
+
+
+THD (distorsión armónica total)
+
+≤5% para 50% -100% de carga, ≤2% sin carga
+
+
+
+Salida DC
+
+
+
+Voltaje de salida, no ajustable
+
+48V DC
+
+
+
+Potencia de salida
+
+3000W máximo
+
+
+
+Potencia de salida, reducida por voltaje de entrada
+
+Ver diagrama
+
+
+
+Corriente de salida
+
+62.5A@-48VDC
+
+
+
+Punto de ajuste del límite de corriente de salida
+
+0 to 62.5A
+
+
+
+Eficiencia máxima
+
+95,5%
+
+
+
+Reducción de temperatura
+
+Potencia de salida completa hasta + 45 ° C en un rango de voltaje de entrada de 176-264 VCA
+
+
+
+Monitoreo de Controland
+
+
+
+Rectificador Alarma y señalización Alarma y estado informado a través del bus CAN al controlador del sistema
+
+
+
+Indicaciones visuales verde LED: normal Operación LED amarillo: alarma (significa que no hay conexión de comunicación)
+					LED rojo: falla
+
+
+
+Ambiental
+
+
+
+Rango de temperatura, funcionamiento
+
+-40 a 70 ° C, -40 a + 158 ° F
+
+
+
+Rango de temperatura, almacenamiento
+
+-40 a + 70 ° C, -40 a + 158 ° F
+
+
+
+Humedad relativa
+
+0 a 95%
+
+
+
+Altitud
+
+2000 m, 6560 pies a máxima potencia
+
+
+
+EMC
+
+ETSI EN300 386: 2005, Clase B.
+
+
+
+ 
+
+EN55022, Clase B
+
+
+
+La seguridad
+
+EN 60950-1; IEC 60950
+
+
+
+Mecánica
+
+
+
+Dimensiones (H x W x D) 41x84.5x330mm / 1.61x3.33x13 pulgadas
+
+
+
+Peso 1,5 kg / 3,41 libras
+
+
+
+
+El paquete incluye:
+
+	1 x Fuente alimentadora de corriente
+
+
+
+
+
+

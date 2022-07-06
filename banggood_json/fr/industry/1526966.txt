@@ -1,0 +1,315 @@
+1526966
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/CF/11/357fe695-967f-4ebb-a19d-1f2a0d4b16a6.jpg
+MDP-XP 30V / 5A 90W 2.4G Connexion sans fil Système d'alimentation numérique programmable avec moniteur d'écran 2,8 pouces TFT Contrôle de correspondance automatique 6 sous-modules
+https://fr.banggood.com/MDP-XP-30V-or-5A-90W-2_4G-Wireless-Connection-Digital-Programmable-Power-System-with-2_8-inch-TFT-Screen-Monitor-Automatic-Matching-Control-6-Sub-modules-p-1526966.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+??Descriptif :
+
+
+
+MDP (Mini Digital Power System) est un système d'alimentation CC linéaire programmable basé sur une conception modulaire, capable de connecter différents modules pour une utilisation selon les besoins.
+
+Modules fonctionnels actuels : Module de contrôle d'affichage,Module d'alimentation numérique
+
+Modules dans Develop:Module Générateur de Signal Numérique,Module de charge électronique,Module de chargeur d'alimentation,Module de batterie
+
+
+
+MDP-XP se compose d'un module de contrôle d'affichage et d'un module d'alimentation numérique. Grâce à la connexion sans fil 2.4G, il réalise une combinaison multicanal gratuite à la puissance de 90W par canal. MDP-XP est une alimentation CC linéaire programmable très rentable, dotée d'indicateurs, de stabilité, de fiabilité et d'une interface utilisateur distincte comparable aux alimentations professionnelles ; il fournit également une sortie programmable, une sortie de synchronisation, un contrôle séquentiel, une compensation automatique et d'autres fonctions puissantes, afin de répondre à des besoins de test diversifiés.
+
+
+
+Module de contrôle d'affichage : équipé d'un écran de 2,8 pouces TFT, il peut afficher la forme d'onde tension-courant en temps réel, prendre en charge les statistiques de données et s'apparier et contrôler automatiquement six sous-modules (modules d'alimentation numériques), avec deux molettes et Conception conviviale à défilement à 90 degrés.
+
+Module d'alimentation numérique : sortie linéaire à haut rendement, onde d'ondulation de 0,25 mV, réponse transitoire à grande vitesse et prise en charge d'un réglage précis.
+>>Veuillez cliquer ici pour trouver le  MDP-P905 Module d'alimentation numérique<<
+
+
+
+??Caractéristiques:
+
+
+- Connexion sans fil 2.4G, prenant en charge un contrôle d'affichage ainsi que six puissances numériques
+
+- Entrée de tension CC large entre 4.2V et 30V, réduite jusqu'à 2.7V après le démarrage
+
+- Réponse transitoire à grande vitesse et protection contre les surintensités, aussi rapide que 4uS
+
+- Régulation de charge extrêmement faible et compensation de perte de ligne intelligente
+
+- Haute efficacité et dissipation thermique naturelle avec une capacité de charge de 90 W
+
+- Prise en charge de la pression positive et négative, de la pressurisation en série, du partage de courant parallèle, de la combinaison libre de la charge collaborative et de l'allocation intelligente de l'énergie
+
+- protections de sécurité : surtension d'entrée, protection contre les sous-tensions, protection anti-retour de connexion, protection anti-refoulement, protection contre les surchauffes et protection contre les surintensités
+
+
+
+??Applications: 
+
+
+Tests généraux et expériences pédagogiques en laboratoire de R&D 
+
+Maintenance des téléphones portables, ordinateurs portables et autres produits numériques 
+
+Test d'alimentation et enregistreur de données de circuits ou modules RF et micro-ondes
+
+Fournit une alimentation purifiée pour les circuits numériques-analogiques de haute précision et les appareils audio Hi-Fi
+
+Vérification des propriétés et diagnostic des défauts des appareils et circuits
+
+Contrôle qualité et contrôle qualité
+
+Alimentation de secours pour modèles réduits d'avions et de véhicules
+
+??Caractéristiques:
+
+
+
+
+
+Mode
+
+MDP-XP
+
+
+
+Saisir
+
+DC4.2V-30V (après le démarrage 2.7V), 100mA-6A, prise en charge QC3.0
+
+
+
+Production
+
+30V/5A, 90W
+
+
+
+Taux d'ajustement
+
+Taux d'ajustement de charge <±0.01^%
+
+
+
+Taux de réglage de la puissance <±0,01^%
+
+
+
+Ondulation et bruit
+
+250uVrms/3mVpp
+
+
+
+Temps de réponse transitoire
+
+4uS
+
+
+
+Compensation de perte de ligne
+
+5mR-100mR
+
+
+
+protection
+
+Surtension d'entrée,sous-tension, anti-retour, sortie anti-retour, surchauffe
+
+
+
+Enregistrement des données
+
+Stockage maximum : 7 Mo, Durée d'enregistrement maximum : 24 heures.
+
+
+
+Les autres
+
+Arrêt automatique et entrée en mode micro-alimentation
+
+
+
+Prise en charge de la mise à niveau du micrologiciel USB
+
+
+
+Soutenir l'étalonnage de l'utilisateur
+
+
+
+
+Le forfait comprend :
+
+1 x système d'alimentation MDP-XP (1 x moniteur numérique intelligent MDP-M01 + 1 x alimentation numérique MDP-P905)
+
+1 x câble (tête audio 2,5 mm vers micro USB)
+
+2 x ligne de sortie (tête banane 4 mm vers crocodile agrafe)
+
+Détails Photos:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

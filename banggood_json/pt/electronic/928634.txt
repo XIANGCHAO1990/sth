@@ -1,0 +1,177 @@
+928634
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/29/DF/f5a1657a-d7a4-4cd4-9d5e-45e07c89b7ad.jpg
+Módulo de driver de motor sem ponte BTS7960B 5V 43A H-bridge
+https://pt.banggood.com/Semiconductor-BTS7960B-5V-43A-H-bridge-Motor-Driver-Module-p-928634.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Recursos:
+
+	Dupla BTS7960 enorme corrente elétrica (43A) H ponte de condução
+	5V isolado para que possa proteger eficazmente
+	Este módulo pode efetuar o avanço e a reversão do motor, sendo a maior frequência de PWM de 25kHz
+	Dois fluxos passando o sinal de erro de superaquecimento serão apagados.
+	A fonte de alimentação do chip de isolamento é 5V, pelo que pode ser utilizada no 5V
+	A pressão da corrente elétrica varia de 5.5V a 27V
+
+Especificação:
+
+	Peso: 66g
+	Tamanho: 4,8 x 4,8 x 3,9 cm
+
+Incluído no Pacote:
+
+	1 x driver do motor BTS7960B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

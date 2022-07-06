@@ -1,0 +1,310 @@
+https://it.banggood.com/RIDEN-RD6018-RD6018W-USB-WiFi-DC-to-DC-Voltage-Step-Down-Power-Supply-Module-Buck-Converter-Voltmeter-Multimeter-60V-18A-1080W-p-1750646.html?cur_warehouse=CN&ID=6296642&rmmds=CategoryElectronicsPop
+RIDEN® RD6018 RD6018W USB WiFi Modulo di alimentazione step-down di tensione da CC a CC Convertitore buck Voltmetro Multimetri 60 V 18 A 1080 W
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota prima dell'acquisto: 1. La serie RD6018 ha due versioni: RD6018 e RD6018-W, RD6018-W hanno scheda WIFI, RD6018 no. RD6018-W può utilizzare la scheda WIFI per collegare l'APP, utilizzare anche il micro cavo USB per collegare il software del PC. RD6018 non ha la scheda WIFI, supporta solo il software per PC collegandosi con un micro cavo USB, nessuna APP di supporto. Per la scheda wifi per collegare il software per PC, ora non supportava. Nota: la connessione WiFi è una funzione di test, a causa della scarsa compatibilità di alcuni computer, se non è possibile connettere il software per PC tramite WiFi, ignorare questa funzione. Per questa funzione non forniamo alcuna garanzia e supporto tecnico e decideremo se mantenere tale funzione in base al feedback dei clienti.2. Per il software per PC, supporta solo Win 7 e versioni successive per ora. Per APP, supporta solo Android 5.0 e versioni successive. Per APP e software per PC, poiché potrebbero esserci problemi di incompatibilità, scaricare prima di acquistare, se è possibile scaricare e installare, è possibile effettuare l'ordine o interrompere l'acquisto. Se non provi il software per PC e la funzione APP prima dell'acquisto e scopri che i prodotti funzionano bene tranne il software per PC o l'APP, ci rifiutiamo di rimborsare.3. Per l'alimentazione dell'interruttore AC-DC in ingresso, l'alimentatore di ingresso che abbiamo è 800 W, è inferiore alla potenza di uscita massima di RD6018 (1080 W), se è necessaria l'uscita completa, cercare una fonte di alimentazione da 65 V 1200 W, ma PSU da 1200 W è grande, non può essere inserito nella custodia S800, quindi devi crearla da solo4. C'è un fusibile BACKUP nella scatola RD6018 / RD6018W, se si brucia il fusibile, è possibile inserire il fusibile nella presa accanto a quello bruciato per un uso temporaneo, ma il fusibile non può supportare un grande flusso di corrente, quindi è meglio rimuovere il fusibile danneggiato e saldare il fusibile buono nella stessa posizione5. Se RD6018W può connettersi all'hotspot condiviso dal telefono cellulare ma non riesce a connettersi al router, è necessario disattivare l'isolamento del client / isolamento AP e la funzione WMM. 6. Please use the matching front-end power supply. (ID prodotto: 1750643) Se lo strumento è danneggiato a causa dell'alimentazione errata, non forniremo garanzia post-vendita.Parametri tecnici:
+
+
+
+
+
+
+
+
+Modello
+RD6006 (1587151)
+RD6006-W(1587151)
+RD6012(1687705)
+RD6012-W(1687705)
+RD6018
+RD6018-W
+
+
+Gamma di tensione in ingresso
+6-70.00V
+
+
+Gamma di tensione di uscita
+0-60.00V
+
+
+Gamma corrente di uscita
+0-6.000A
+0-12.00A
+0-18.00A
+
+
+Gamma di potenza in uscita
+0-360W
+0-720W
+0-1080W
+
+
+Risoluzione della misurazione della tensione di ingresso
+0.01V
+
+
+Risoluzione della misurazione dell'impostazione della tensione di uscita
+0.01V
+
+
+Risoluzione della misurazione dell'impostazione della corrente di uscita
+0.001A
+0.01A
+
+
+Risoluzione della misurazione della tensione della batteria
+0.01V
+
+
+Precisione della misurazione della tensione in ingresso
+±(1%+5 cifre)
+
+
+Precisione della tensione di uscita tra impostazione e misurazione
+±(0,3%+3 cifre)
+
+
+Precisione della corrente di uscita tra impostazione e misurazione
+±(0,5%+5 cifre)
+
+
+Precisione della misurazione della tensione della batteria
+±(0,5%+3 cifre)
+
+
+Valore corrente di interruzione automatica durante la ricarica
+10mA
+100mA
+
+
+Ripple di uscita tipico
+100mV VPP
+250mV VPP@6A
+
+
+Intervallo di temperatura di lavoro
+-10?~40?
+
+
+Sensore esterno Campo di rilevamento della temperatura:
+-10?~100?/0℉~200℉
+
+
+Sensore esterno Precisione di rilevamento della temperatura:
+±3?/±6℉
+
+
+Tempo di risposta in modalità tensione costante
+2 ms (carico 0,1 A-5 A)
+
+
+Regolazione del carico in modalità tensione costante
+±(0,1%+2 cifre)
+
+
+Regolazione del carico in modalità corrente costante
+±(0,1%+3 cifre)
+
+
+Gamma di misurazione della capacità
+0-9999.99Ah
+
+
+Intervallo di misurazione dell'energia
+0-9999.99Wh
+
+
+Errore statistico di capacità ed energia
+±2％
+
+
+Modalità di lavoro Buck
+Caduta di tensione >1V e >10%
+
+
+Condizione di avvio della ventola di raffreddamento
+Tensione di uscita> 40 V o corrente di uscita> 4 A o temperatura del sistema> 45?
+Corrente di uscita> 8A o temperatura del sistema> 45?
+
+
+Condizione di arresto della ventola di raffreddamento durante il lavoro
+Tensione di uscita <40 V e corrente di uscita <3,9 A e temperatura del sistema <45 ?
+Corrente di uscita <7,9 A e temperatura di sistema <45 ?
+
+
+Protezione da sovratemperatura
+Temperatura del sistema > 80
+
+
+Impostazione della luminosità dello schermo
+0-5 (6 livelli in totale)
+
+
+Schermo
+Display HD a colori da 2,4 pollici
+
+
+Peso (con pacchetto)
+Circa 0,58 kg
+Circa 0,61 kg
+Circa 0,68 kg
+
+
+Dimensione del prodotto
+167*81*65mm
+167*81*69mm
+
+
+Supporta la comunicazione USB
+SÌ
+
+
+Supporta la comunicazione WiFi
+No
+SÌ
+No
+SÌ
+No
+SÌ
+
+Documenti:RD6018(W) operation instructon: Click here to openScarica l'APP:Android system: download at file link (Support android 5.0 -android 10.0): Click here to open o Cerca RdPower per scaricare, supportare Android 5.0 e versioni successive del telefono Sistema IOS: cerca RdPower per scaricare, supporta il sistema IOS10.0-IOS13.4Video di istruzioni per il manuale:a. Battery Charging Function Introduction: https://youtu.be/irTbqfqtgU0 b. Output Voltage and Output Current Setting: https://youtu.be/S6Kan66dNsk c. Data Group Quick Storage and Call out: https://youtu.be/eo5saPjOGpo d. Keypad lock and unlock: https://youtu.be/zxpmasJyQ6Y e. System Setting: https://youtu.be/Q9d3rIgIrOc f. Main Page Style Setting: https://youtu.be/f51VDiY2VHE g: Storage Data Setting: https://youtu.be/i1kTeurS13I h: System Information: https://youtu.be/Um4NQObeeJE i: IOS APP Download, Installation and Connection: https://youtu.be/nH2HYwop0TE j: IOS APP Operation: https://youtu.be/lXSw1CM9IY8 k: Android APP Download, Installation and Connection: https://youtu.be/QwyBEUCnp9c l: Anroid APP Operation: https://youtu.be/hqrF4keTfbE m: PC Software Download and basic operation: https://youtu.be/mjt1RMaah1Y o: Firmware Upgrade: https://youtu.be/NOoLfDw0DiY p: Calibration: https://youtu.be/c9sn1wY2mjE q: Logo Update: https://youtu.be/vuVhBsohWts Il pacchetto include: (opzionale)Versione RD6018:1 x alimentatore RD6018 senza modulo WiFiVersione RD6018W:1 x alimentatore RD6018W con modulo WiFi
+
+
+
+

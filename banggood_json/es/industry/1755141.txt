@@ -1,0 +1,145 @@
+1755141
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/51/0E/7e0678d1-ff0f-4090-8165-638f7db8f15b.jpg
+Nuevo PortaPack H2 y HackRF One SDR definido por software Radio 1MHz-6GHz ensamblado con antenas incorporadas recargables Batería
+https://es.banggood.com/New-PortaPack-H2-And-HackRF-One-SDR-Software-Defined-Radio-1MHz-6GHz-Assembled-with-Antennas-Built-in-Rechargeable-Battery-p-1755141.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prenda>>Haga clic aquí para descargar el software<<>>Haga clic para descargar el manual del producto<<Configuración de hardware:-3.2 pulgadas TFT 240 * 320 pantalla-Interruptor de navegación-Salida de audio-Entrada de micrófono-Interfaz DC 2.1Placa de oro de -4 capas-Proceso ROSH Agregue un PortaPack a su radio definida por software HackRF y deje su computadora portátil. El PortaPack se conecta a su HackRF y agrega una pantalla táctil LCD, controles de navegación, conector para auriculares, reloj en tiempo real, ranura para tarjeta micro SD.Simplemente agregue una batería USB y estará listo para explorar el espectro de radio dondequiera que esté. El firmware de PortaPack funciona con los procesadores ARM rápidos en su HackRF. No se necesita una computadora (excepto para la reprogramación del firmware).Funciones:-3,2 pulgadas, 240 x 320 RGB LCD con panel táctil resistivo.-Botones de flecha de cuatro direcciones, rueda giratoria y botón de selección.-Batería de monedas para conservar la configuración y la fecha / hora.-Ranura para tarjeta micro SD para datos y código almacenamiento-SSB, AM, FM de banda estrecha, recepción de audio FM de banda ancha, con espectro en cascada.-Análisis de espectro y cascada de banda ancha (18MHz).-Monitoreo de embarcación (AIS), automóvil (TPMS), transpondedor contador de utilidad E (ITRON ERT).-El modo HackRF ejecuta el firmware HackRF para su uso con el software de la computadora host SDR.-Calibración PPM para un ajuste más preciso.-El modo de suspensión ahorra energía al apagar solo la pantalla.Características:-Su HackRF seguirá funcionando con el software SDR basado en computadora cuando ponga el PortaPack en "modo HackRF".-PortaPack solo es compatible con HackRF Unio No es compatible con el primer diseño HackRF Jawbreake. Si tiene un protector de RF instalado en su HackRF, el PortaPack debería estar bien. -PortaPack y HackRF of Un no reemplazarán su receptor de radioaficionado de mano. La sensibilidad de recepción varía de una banda a otra, pero no funcionará tan bien como una radioafición real.-Batería de litio recargable incorporadaEl paquete incluye:-1 x SRD Radio (PortaPack H2 + HackRF)-1 x cable de datos-5 x antenasNota:-El producto está montado.-La batería está incluida.
+
+
+
+

@@ -1,0 +1,144 @@
+1054211
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/74/23/cd1c4f13-14dc-472b-b7d4-80663975f51f.jpg
+10 pièces Geekcreit L298N Carte de pilote de moteur pas à pas à double pont en H
+https://fr.banggood.com/10-Pcs-Geekcreit-L298N-Dual-H-Bridge-Stepper-Motor-Driver-Board-p-1054211.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ La description:   Entraînement à double pont en H  Puce : L298N (ST NOUVEAU)  Tension logique : 5V  Tension d'entraînement : 5 V-35 V  Courant logique : 0mA-36mA  Courant d'entraînement : 2A (MAX pont unique)  Température de stockage : -20 à +135  Puissance maximale : 25W  Poids : 30g  Taille: 43x43x27mm    Noter:   Ce module a une alimentation 5v intégrée, lorsque la tension de conduite est de 7v-35v, cette alimentation convient à l'alimentation, NE PAS entrer de tension sur l'interface d'alimentation +5v, cependant une sortie 5v pour usage externe est disponible.  Lorsque ENA active IN1 IN2 contrôle OUT1 OUT2  Lorsque ENB active IN3 IN$ contrôle OUT3 OUT4    Remarque : le paquet n'est pas inclus les vis.    Emballage inclus:   Carte de commande de moteur pas à pas à double pont en H 10 x L298N pour             
+
+
+

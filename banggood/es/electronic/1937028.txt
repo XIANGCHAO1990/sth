@@ -1,0 +1,143 @@
+https://es.banggood.com/DLB-600W-200V-40A-18650-Lithium-Lead-acid-Battery-Capacity-Monitor-Electronic-Load-Power-Tester-Discharge-Meter-Car-Check-Tools-p-1937028.html?cur_warehouse=CN&ID=528374&rmmds=CategoryElectronicsPop
+DLB-600W 200V 40A 18650 Litio plomo-ácido Batería Capacidad Monitor Probador de potencia de carga electrónica Medidor de descarga Coche Comprobación herramientas
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manual de usuario y descarga de la aplicaciónModo de descarga de archivos y 150W~600W (200V y 3mA~25A/30A/35A/40A)1, manual de usuario, instrucciones de instalación de software de PC y software de PC y enlace de descarga de la aplicación Android: https://www.mediafire.com/folder/wnfpdnqfxscj2/DLB600W2, APLICACIÓN IOS: busque E_test en la tienda de aplicaciones de 1 teléfono para descargar3. APLICACIÓN Android: https://www.mediafire.com/file/0jiio43c0vuu1wx/U_Meter-Phone_mobile.apk/file4, 150W/300W/450W/600W(V*A --Parámetro del producto--Parámetros eléctricosVoltaje de prueba: 2 ~ 200 VCorriente de trabajo: 0,2~25A@30A@35A@40ADL24-M Potencia de descarga: tensión * corriente < 150 W(La corriente de funcionamiento real está limitada por la potencia máxima, ajuste la corriente de acuerdo con la ley de conservación de energía)Las funciones de protección de seguridad de sobrecorriente, sobrecalentamiento y sobrecarga incorporadas, si se abre la interfaz de protección, preste atención al ajuste de parámetros, se ajustará a la potencia máxima y luego se descargará, primero puede hacerlo lentamente y ajuste suavemente el valor preestablecido en el inicio y la descarga, para ajustar hasta la potencia máxima para la descargaNota: La corriente de descarga está limitada por la potencia máxima, menos de 3A por encima de 200 V y menos de 40A a 15 V.(1):1.1 Batería prueba de capacidadEl probador está diseñado para la descarga de varias baterías, batería 18650, batería de automóvil, incluidas NiMH, NiCd, LiPo, LiFe y Pb, así como para pruebas de capacidad.1.2 Prueba de potencia móvilEste probador admite la descarga de la fuente de alimentación móvil y la prueba de capacidad.1.3 Prueba de rendimiento de potenciaEl probador admite pruebas de rendimiento y envejecimiento de varias fuentes de alimentación de CC.(2):2.1 Fuente de alimentación: CC 12V/1A2.2 Rango de voltaje: 0-200.00V, paso 0.01V2.3 Rango de corriente: 0.010-25.00/30.00/35.00/40.00A, paso 0.01A (la corriente se ajusta automáticamente según el límite de potencia)2.4 Método de descarga:CC: descarga de corriente constante de la batería, que admite la prueba de la capacidad de la batería o la corriente de la fuente de alimentación.CP: descarga la batería con potencia constante para uso o prueba de potencia como equipo de potencia constante.2.5 Potencia de descarga: 150/300W/450W/600W2,6 cuatro cables: los canales de voltaje y corriente están separados, con alta precisión de prueba2.7 IPS display: tensión, corriente, tiempo, capacidad, potencia, energía eléctrica, etc.2.8 Conexión de PC: el probador se puede conectar a la computadora a través de Bluetooth para lograr más funciones, como gráficos, calibración, actualizaciones de firmware y ciclos de prueba.1) Aplicación móvil de Apple:Busque E_test en la tienda de aplicaciones para descargar e instalar, luego haga clic en el ícono de la APLICACIÓN Bluetooth para abrir el software, y luego haga clic en el ícono Bluetooth sobre el software para ingresar la selección DL24-BLE para conectarse, puede lograr el control remoto del teléfono móvil remoto control inalámbrico Configuración y función de medición, el estado de descarga se puede ver en cualquier momento en el teléfono móvil, se pueden ver varias limpiezas de datos, el voltaje y la curva de potencia actual de la descarga, etc.2) Android aplicación de teléfono:Escanee el código QR en la parte posterior del host para descargar el software de aplicación correspondiente o la aplicación Android: busque E-test en Google Play para descargar. Una vez completada la instalación, abra el software y haga clic en el icono Bluetooth para ingresar a la selección directa de DL24-BLE para usarlo con éxito en línea. (No es necesario emparejar Bluetooth, el ícono del software Bluetooth selecciona directamente DL24. can)3) Computadora Bluetooth aplicación inalámbrica en línea:Primero agregue el dispositivo Bluetooth al dispositivo de puerto serial de DL24-SPP en la computadora, luego escanee el código QR en la parte posterior del host para descargar el software de aplicación correspondiente y almacenarlo. Abra el software sin instalar y seleccione el modelo de puerto serie Bluetooth recién agregado. Puede usar con éxito en líneaA través de la prueba de varios adaptadores de corriente CCReproduzca y mida la corriente, el voltaje, la potencia y otros parámetros de varios adaptadores de corriente CCUtilice la fuente de alimentación de CC para conectar el puerto de fuente de alimentación independiente de CC del medidor de carga, y luego use el botón "Configuración" para conectar como se muestra en la siguiente figura.Ajuste con precisión la corriente para probar el voltaje y la corriente nominal de la fuente de alimentaciónLa fuente de alimentación de CC también se puede envejecer durante mucho tiempo, con funciones sólidas, operación simple, pruebas convenientes y rápidasDetección automática completa inteligente de una tecla de la fuente de alimentación de CCModo PT del rendimiento energético actual del cargadorMantenga presionado el botón M en el menú hasta que la barra de modo parpadee, espere un momento después de presionar el modo PT de diez teclasIngrese automáticamente al modo de detección automática de fuente de alimentación/cargador de CC, luego conecte su fuente de alimentación probada yCargador, luego presione brevemente el botón de inicio, automáticamente comenzará a funcionar durante un período de tiempo y luego informaráMuestra 4 tipos de resultados numéricos importantes, lo que hace que las pruebas complicadas sean instantáneamente simplificadas, precisas y fáciles de usarDLB-150WLista de productosProbador de batería de 1.150W 1 Uds2. Fuente de alimentación DC12V 2A 1 Uds.3.10A cable de pinza de cocodrilo rojo y negro 1set4. Sonda de temperatura 1 Uds.5. Placa adaptadora 1 Uds.6.Adaptador de EE. UU. a la UE 1 Uds.DLB-300WLista de productosProbador de batería 1.300W 1pcs2. Fuente de alimentación DC12V 2A 1 Uds.3.10A cable de pinza de cocodrilo rojo y negro 1set4. Sonda de temperatura 1 Uds.5. Placa adaptadora 1 Uds.6.Adaptador de EE. UU. a la UE 1 Uds.DLB-450WLista de productosProbador de batería de 1.450 W 1 Uds.2. Fuente de alimentación DC12V 2A 1 Uds.3.10A cable de pinza de cocodrilo rojo y negro 1set4. Sonda de temperatura 1 Uds.5. Placa adaptadora 1 Uds.6.Adaptador de EE. UU. a la UE 1 Uds.DLB-600WLista de productosProbador de batería 1.600W 1pcs2. Fuente de alimentación DC12V 2A 1 Uds.3.10A cable de pinza de cocodrilo rojo y negro 1set4. Sonda de temperatura 1 Uds.5. Placa adaptadora 1 Uds.6.Adaptador de EE. UU. a la UE 1 Uds.
+
+
+
+

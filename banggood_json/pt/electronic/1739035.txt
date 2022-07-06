@@ -1,0 +1,145 @@
+1739035
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/5A/A2/15182bed-0ddc-4eb4-823d-a4a34596b3cd.jpg
+Placa de transferência de energia de lítio Bateria 2 cordas - Conversor de indutância de 17 cordas 1.2A Modo de equilíbrio de alta corrente
+https://pt.banggood.com/Lithium-Battery-Energy-Transfer-Board-2-Strings-17-String-Inductance-Converter-1_2A-High-Current-Balance-Mode-p-1739035.html?cur_warehouse=CN&ID=6294208&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:Instruções de equilíbrio:1. Quando a luz de equalização está acesa, o trabalho de equalização está ligado,2. A luz de equalização apaga-se e o circuito de equalização dorme,3. A luz de equalização pisca, a string caiu ou o circuito está com defeito.Princípio de equilíbrio:Este módulo é adjacente à equalização de diferença de pressão, a diferença de tensão da bateria adjacente atinge mais de 0,1 V e o chip interno dispara o trabalho de equalização até que a diferença de tensão da bateria adjacente esteja dentro de 0,03 V e haja diferença de pressão adjacente quando usado no bateria. Acionando o trabalho de equalização, o erro de tensão da bateria também será puxado para um valor mais ideal, reduzindo os custos de manutenção da bateria.Especificação:A tensão de trabalho é 2,0 V-4,5 V, a bateria ternária de lítio de ferro é universal, a bateria de titanato de lítio LTO não é aplicável.Saldo atual:A diferença de tensão adjacente está acima de 0,1 V (a corrente é cerca de 0,5-0,7 A);A diferença de tensão adjacente é superior a 0,2 V (alcance a corrente máxima de equalização de 1,2 A);Quanto menor a diferença de pressão, menor é a corrente de equalização.Definição de fiação:B-, o pólo negativo total da bateria (o pólo negativo da primeira bateria)B1, o terminal positivo da primeira bateriaB2, o pólo positivo da segunda bateriaB3 ... e assim por diante.Incluído no Pacote:1 x placa1 x 30 cm cobre puro fio terminal 22awg
+
+
+
+

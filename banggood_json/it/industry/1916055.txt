@@ -1,0 +1,145 @@
+1916055
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/1C/68/9a9b075d-1f00-411e-b900-e0363ebee51e.jpg
+Tester per curve VI a doppio canale, che visualizza 2 forme d'onda contemporaneamente per un facile confronto
+https://it.banggood.com/Dual-channel-VI-Curve-Tester,Displaying-2-Waveforms-at-the-Same-Time-for-Easy-Comparison-p-1916055.html?cur_warehouse=CN&ID=6315607&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>Si prega di fare clic qui per scaricare il manuale utente in inglese<<Tester per curve VI a due vie, che può visualizzare contemporaneamente forme d'onda a due vie, il che è conveniente per il confronto.4 livelli di resistenza interna regolabili, 4 frequenze di test, utilizzabili quando collegato ad un oscilloscopio, possono essere utilizzati sia oscilloscopi analogici che oscilloscopi digitaliImpostazione dei parametri dell'oscilloscopio:*. Regola l'oscilloscopio in modalità XY (oscilloscopi diversi hanno metodi di regolazione diversi, per favore esplora da solo)* Regolare i parametri verticali dei 2 canali di XY su 1V/div e solo uno degli oscilloscopi a traccia singola deve essere regolato. ,* L'oscilloscopio analogico non ha bisogno di regolare la base dei tempi, la base dei tempi oscilloscopio digitale è regolata tra 1-5 ms*Dopo che la connessione è corretta, l'oscilloscopio visualizzerà una linea orizzontale. Se viene visualizzata una linea verticale, la presa xY sarà invertita.*Regolare i parametri verticale e orizzontale, le linee orizzontali e verticali si trovano nella casella di visualizzazione.Metodo di collegamento dell'oscilloscopio analogico:La connessione dell'oscilloscopio analogico è relativamente semplice e i diversi oscilloscopi sono leggermente diversi.Regolare l'oscilloscopio in modalità xY. Alcuni oscilloscopi possono essere selezionati premendo i pulsanti, mentre altri sono selezionati dalla manopola in modalità xY. Per favore, studia da solo.Collegare il cavo BNC all'oscilloscopio e accendere. Normalmente, verrà visualizzata una linea orizzontale. Regolare i parametri del canale verticale xY, circa 1V/div, quindi regolare l'attenuazione xY in modo che la linea orizzontale si trovi nella cornice del display. Può anche superare la versione di prova VI. Il potenziometro di attenuazione x sul lato superiore può aiutare a regolare la lunghezza della linea orizzontale. Se la penna di prova iè in cortocircuito, in circostanze normali verrà visualizzata una linea verticale. Se la linea verticale è troppo lunga o troppo corta, è necessario regolare i parametri del canale Y per creare la linea verticale nella cornice del display. Mezza griglia o 1 griglia sul bordo è meglio. Se le linee orizzontali e verticali sono normali, è possibile inserire la misurazione normale.Come collegare un oscilloscopio digitale：Per gli oscilloscopi digitali, accedere alla modalità xY tramite il menu oi tasti. I due canali di xY sono regolati su 1V/div e l'oscilloscopio a traccia singola deve solo regolare il canale Y. Regola la base dei tempi su 1-5 millisecondi. Il canale xY seleziona l'accoppiamento DC e ill'attenuazione è 1x.Quando l'oscilloscopio non è collegato, lo schermo dovrebbe essere un punto luminoso. Regolare l'orizzontale e il verticale per centrare il punto luminoso. Collegare il tester VI. Normalmente, dovrebbe essere una linea orizzontale. Regolare il potenziometro 103 nella parte superiore della scheda VI per creare la linea orizzontale nella cornice del display. , Mezza griglia o 1 griglia sul bordo èmeglio. Cortocircuitare i puntali e il display dovrebbe essere una linea verticale in questo momento. Regolare i parametri del canale Y in modo che la linea verticale si trovi nella cornice del display. Finora, il debug è praticamente finito.Quando si esegue il test del circuito in linea, non caricare il circuito. Se c'è un grande condensatore sulla scheda del circuito, scaricare prima il condensatore, altrimenti è facile bruciare la scheda di test VI.
+
+
+
+

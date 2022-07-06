@@ -1,0 +1,229 @@
+1347173
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/D5/E7/4d84fe98-70f6-4fdb-83aa-b77e72c90ba5.jpg
+Cable de interfaz de diagnóstico OBD2 Diagbox V7.83 para Citroen Peugeot PP2000 Lexia 3
+https://es.banggood.com/Diagnostic-Interface-Cable-OBD2-Diagbox-V7_83-For-Citroen-Peugeot-PP2000-Lexia-3-p-1347173.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: chip no completoCaracterística:
+	1. Leer la identificación
+
+Muestra la identificación completa de la unidad de control, por ejemplo, número de pieza, versión de software / hardware, fabricante, etc.
+
+2. Leer los códigos de falla
+
+Muestra todos los códigos de falla almacenados y pendientes con una descripción completa (por ejemplo, "Presión del carril: presión demasiado baja").
+
+El programa admite la impresión de informes o copia en el portapapeles.
+
+3. Borrar los códigos de falla
+
+Esta función borra todos los códigos de falla almacenados y otra información de diagnóstico.
+
+4. Escaneo automático (escaneo / prueba completa del automóvil)
+
+Detecta todas las ECU (unidades de control electrónico) instaladas en el automóvil y lee todos los códigos de diagnóstico de fallas.
+
+5. Valores medidos
+
+El programa muestra datos en vivo como Motor Velocidad, voltaje Batería, Sensor de Oxígeno, Temperatura del Refrigerante, etc. Los valores se pueden mostrar en forma de gráfico, 9 valores a la vez, o listado completo (todos los valores medidos). También se admite el inicio de sesión en el archivo, lo que permite el análisis fuera de línea.
+
+6. Prueba del actuador
+
+La prueba del actuador activa un actuador particular (por ejemplo, encender la bomba de combustible, bloquear / desbloquear la rueda, bloquear / desbloquear puertas, cortar el combustible, etc.)
+
+
+
+Especificación:
+
+Número de modelo: 961868
+
+Nombre del producto: Diagnóstico herramienta
+
+Estado: Nuevo
+
+De color negro
+
+Idioma: inglés, alemán, francés, japonés, ruso, español, portugués, sueco, turco, holandés, polaco, italiano, húngaro, griego
+
+Sistema informático: WIN XP, WIN 7 32bit 
+
+
+Mueble: 
+
+Para automóviles Citreon, incluidos C1, C2, C3, C4, C6, C8, C-CROSSER, NEMO, BERLINGO, JUMPY, JUMPER, AX, SAXO, BX, etc. Pero preste atención, de acuerdo con la experiencia de nuestros clientes, esto el artículo no puede funcionar bien en C5 nuevos modelos. 
+
+Para los autos Peugeot desde 1995, pero no puede funcionar bien con Peugeot 307 después de 2004 años.
+
+
+
+El paquete incluye:
+
+1 X Unidad principal con cable de extensión OBD2
+
+1 X Long 9pin a cable USB
+
+1 X corto de 9 pines para cable USB
+
+1 cable OBD2.
+
+1 X16pin para Clip Cable
+
+1 X DVD de activación para PP2000 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

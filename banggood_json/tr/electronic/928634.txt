@@ -1,0 +1,177 @@
+928634
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/29/DF/f5a1657a-d7a4-4cd4-9d5e-45e07c89b7ad.jpg
+Yarıiletken BTS7960B 5V 43A H-köprü Motor Sürücü Modülü
+https://tr.banggood.com/Semiconductor-BTS7960B-5V-43A-H-bridge-Motor-Driver-Module-p-928634.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikleri:
+
+	Çift BTS7960 dev elektrik akımı (43A) H köprü sürüşü
+	5V izole böylece etkili bir şekilde koruyabilirsiniz
+	Bu modül motor ileri ve geriye dönüş yapabilir, her iki PWM en yüksek frekans 25kHz'dir
+	Aşırı ısınma hata sinyalinden geçen iki akarsu açılacaktır.
+	Yalıtım çipinin güç kaynağı 5V'dur, bu nedenle 5V'da kullanılabilir
+	Elektrik akımı basıncı 5.5V - 27V arasında değişir
+
+Şartname:
+
+	Ağırlık: 66g
+	Boyut: 4.8 x 4.8 x 3.9cm
+
+Paket içeriği:
+
+	1 x BTS7960B motor sürücüsü
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

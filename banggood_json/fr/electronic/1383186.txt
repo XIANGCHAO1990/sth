@@ -1,0 +1,220 @@
+1383186
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/02/6C/11cf490a-4f96-4ec1-8ccc-01927e76f046.jpg
+XH-W1209 DC 12V Thermostat interrupteur de contrôle de température contrôleur de thermomètre avec affichage numérique LED
+https://fr.banggood.com/XH-W1209-DC-12V-Thermostat-Temperature-Control-Switch-Thermometer-Controller-With-Digital-LED-Displa-p-1383186.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:
+
+
+
+1.100% puce de machine complète, soudure à la vague, performances stables, bonne cohérence
+
+2. Puce de processeur central intégrée (MCU), plus intelligente, consommation d'énergie réduite
+
+3. Paramètres de mise hors tension automatiquement en mémoire (unité de stockage EEPROM intégrée au MCU)
+
+4. La précision de contrôle de 0,1 degrés Celsius
+
+5. Hystérésis 0,1 à partir de l'ensemble, vous pouvez contrôler la décimale (0,1-15,0)
+
+
+
+Paramètres techniques:
+
+
+
+Plage de contrôle de température : -50 ~ 110 °
+
+Résolution: -9,9 ~ 99,9 lorsque l'autre température de 0,1 ° 1 °
+
+Précision de mesure de température : 0,1°
+
+Précision de contrôle : 0,1°
+
+Précision hystérésis : 0,1°
+
+Taux de rafraîchissement : 0,5 s
+
+Puissance d'entrée: DC 5V, DC 12V, DC 24V
+
+Entrée de mesure : NTC (10K 0.5%) Capteur étanche
+
+Sortie : 1 sortie relais, capacité = 20A 125VAC, 20A 14VDC
+
+Exigences environnementales : -10 ~ 60 ° Humidité 20% -85%
+
+Spécifications Taille: 48,5 * 40mm
+
+Consommation électrique totale : Courant de repos : ≤ 10MA Courant d'appel : ≤ 65MA
+
+
+
+Usage:
+
+
+
+- Appuyez sur le bouton + pour régler la température souhaitée (appuyez et maintenez + - pour monter et descendre rapidement) Réglez la température de l'affichage. 
+
+- Appuyez sur SET pour confirmer l'achèvement du retour, puis le contrôleur automatiquement en désactivant le relais ! La sortie du thermostat pour le relais 20A pour répondre à une variété de charges haute puissance, connectez le circuit de commande, vous pouvez alimenter le thermostat, cet affichage indique la température ambiante
+
+- Indicateur : Le clignotement indique la temporisation du démarrage du refroidissement ou du chauffage. Si le voyant est allumé, cela indique que le relais est fermé
+
+- Commande numérique : l'affichage du capteur LL est ouvert, veuillez suivre les instructions pour connecter le capteur ; l'affichage HH est en dehors de la plage de mesure forcera le relais à déconnecter le thermostat ; afficher l'alarme de température élevée.
+
+
+
+Emballage inclus:
+
+
+
+1 x contrôleur de température XH-W1209
+
+
+
+
+
+
+
+
+
+
+
+
+
+

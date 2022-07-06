@@ -1,0 +1,287 @@
+https://de.banggood.com/433Mhz-DC12V-1CH-Wireless-Remote-Control-Switch-Relay-Receiver-Module-+-2-RF-Transmitter-p-1326823.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+433Mhz DC12V 1CH Wireless Remote Control Switch Relais Empfängermodul + 2 HF-Sender
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HINWEIS: 
+
+
+
+Das System kann 15 Stück Fernbedienungen speichern. Wenn die Fernbedienung mehr als 15 Stück erhält, geht die ursprüngliche Fernbedienung verloren.
+
+
+Besonderheit:
+
+
+Verdrahtungstyp: feste Klemme
+
+Standby-Strom: <5MA
+
+Eingangsleistung: DC10V-14V
+
+HF-Frequenz: 433Mhz
+
+Empfangsempfindlichkeit: >97dbm
+
+Ausgangsklemme: NO, NC, COM
+
+HF-Arbeitsmodus: Superheterodyn
+
+Dekodierungsmodus: MCU-Software-Dekodierung
+
+Übertragungsentfernung: >100m (freier Raum)
+
+Unterstützt Remote-Typ: Lerncode, Fester Code (Rolling-Code kann Design sein)
+
+Arbeitsmodus: Momentan, Toggle, Latching Zeitverzögerung (5s, 10s, 15s)
+
+
+
+Über den Arbeitsmodus:
+
+
+
+- Momentan: Drücken Sie die Fernbedienungstaste, das Relais verbindet sich, lassen Sie die Fernbedienungstaste los, das Relais trennt sich.
+
+- Umschalten: Drücken Sie einmal die Fernbedienungstaste, das Relais verbindet sich, drücken Sie zweimal die Fernbedienungstaste, das Relais trennt sich.
+
+- Verriegelung: Drücken Sie die Fernbedienungstaste A, das Relais verbindet sich, drücken Sie die Fernbedienungstaste B, das Relais trennt sich.
+
+- Zeitverzögerungsmodus: Drücken Sie die Fernbedienungstaste, das Relais schaltet, wenn die Fernbedienungstaste losgelassen wird, nach 5s oder 10s oder 15s trennt sich das Relais automatisch.
+
+
+
+Code löschen:
+
+
+
+Drücken Sie die Lerntaste an den Empfängern 8 Mal, die Codes werden gereinigt.
+
+Nach dem Löschen des Codes funktioniert die gesamte Fernbedienung nicht mehr.
+
+
+
+1. Den Code lernen: (kurzzeitig)
+
+Drücken Sie einmal die Lerntaste am Empfänger, es kommt in den momentanen Einstellmodus.
+
+Warten Sie einen Moment, der LED wird ausgeschaltet, er kommt in den Lernzustand.
+
+Drücken Sie die Fernbedienungstaste, die Anzeige LED auf der Empfängerplatine blinkt und erlischt dann.
+
+Nach 3 Sekunden leuchtet die Anzeige LED wieder auf und lernt erfolgreich.
+
+
+
+2. Code lernen: (Toggle)
+
+Drücken Sie die Lerntaste am Empfänger zweimal, um in den Umschaltmodus zu gelangen
+
+Warten Sie einen Moment, der LED wird ausgeschaltet, er kommt in den Lernzustand.
+
+Drücken Sie die Fernbedienungstaste, die Anzeige LED auf der Empfängerplatine blinkt und erlischt dann.
+
+Nach 3 Sekunden leuchtet die Anzeige LED wieder auf und lernt erfolgreich.
+
+
+
+3. Code lernen: (Latching)
+
+Hinweis: Wenn Sie sich für den Verriegelungsmodus entscheiden, müssen Sie, um mehr Fernbedienungen zu lernen, zwei verschiedene Tasten lernen, das erste Mal für "ON", das zweite Mal für "OFF".
+
+Zum Beispiel: Taste A = ON , Taste B = OFF
+
+Drücken Sie die Lerntaste am Empfänger dreimal, es kommt in den Verriegelungsmodus.
+
+Warten Sie einen Moment, die Anzeige LED auf der Empfängerplatine blinkt und erlischt dann.
+
+Drücken Sie die Fernbedienungstaste A.
+
+LED-Blitz für 5 Mal.
+
+Drücken Sie die Fernbedienungstaste B.
+
+LED-Blitz für 5 Mal.
+
+Nach 3 Sekunden leuchtet die Anzeige LED wieder auf und lernt erfolgreich.
+
+A = EIN, B = AUS.
+
+
+
+Lieferinhalt:
+
+
+
+2 x Fernbedienungssender (einschließlich Batterie)
+
+1 x Remote-Empfängermodul (einschließlich Shell)
+
+
+
+Anmerkungen:
+
+
+
+1. Manuelle Messung, bitte erlauben Sie 1 ~ 3mm Fehler, danke.
+
+2. Aufgrund des Unterschieds zwischen verschiedenen Monitoren spiegelt das Bild möglicherweise nicht die tatsächliche Farbe des Artikels wider. Wir garantieren, dass der Stil der gleiche ist wie auf dem Bild.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

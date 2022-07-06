@@ -1,0 +1,193 @@
+963697
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/FF/0C/f0997157-6ccd-46de-ae8f-ab02045bffcd.jpg
+Arduino için UNO R3 ATmega328P Geliştirme Kurulu Geekcreit - resmi Arduino panolarıyla çalışan ürünler
+https://tr.banggood.com/UNO-R3-ATmega328P-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-963697.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not: Bu sürüm, işletim sistemi sistemiyle uyumlu değildir
+
+
+Özellikleri:
+
+	Orijinal şematik tasarımın açılması, ücretsiz geliştirme yazılım arayüzü indirmesi, ihtiyaçlarınızın değiştirilmesi, programı indirmesi kolay ve rahat olmasını sağlar.
+	Sadece sensörleri kullanabilir, her türlü elektronik bileşen bağlantısı (LED ışıklar, sesli uyarı, düğmeler ve ışığa duyarlı direnç, vb.) Her türlü ilginç işi yapar.
+	Yüksek hızlı mikroişlemci denetleyicisi (ATMEGA328) kullanarak, geliştirme arayüzü ve ortamın tümü çok basittir, anlaşılması kolaydır ve yeni başlayanlar için öğrenmesi çok uygundur.
+
+Açıklama:
+
+	Dijital G / Ç: 0 - 13
+	Analog G / Ç: 0-5
+	ISS indirme işlevini destekleyin
+	Giriş voltajı: DC 5V ~ 9V (Bilgisayara bağlandığında harici güç kaynağı yok)
+	Çıkış voltajı: DC 5V / 3.3V
+	Atmega328 mikroişlemci denetleyicisini kullanma
+
+Nasıl kullanılır:
+
+	1. IDE'yi indirin
+	   Bağlantı: http: http: //.cc/en/Main/Software (Açmak için kopyalayın)
+	2. USB yonga sürücüsünü indirin
+	   Bağlantı: http://www.5v.ru/zip/ch341ser.zip (Açmak için kopyalayın)
+	3. UNO geliştirme kartını takın, sürücü otomatik olarak yüklenecektir
+	4. Opsiyondan UNO'i seçin
+	5. COM bağlantı noktasını seçin
+	6. Önce en iyi seçenek, rutin prosedürlerle gelir, onu yakıp kül edin.
+
+Paket içeriği:
+
+	1 x UNO R3 Geliştirme Kartı
+	1 x USB kablosu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

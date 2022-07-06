@@ -1,0 +1,143 @@
+https://fr.banggood.com/ESCAM-WNK718-3MP-8CH-Wireless-PTZ-IP-Camera-Wireless-CCTV-Security-System-NVR-Kit-Motion-Sensor-Detection-Dual-Light-Two-way-Voice-Control-p-1896826.html?cur_warehouse=CN&ID=47184&rmmds=CategoryElectronicsPop
+ESCAM WNK718 3MP 8CH Caméra IP PTZ sans fil Système de sécurité CCTV sans fil Kit NVR Détection de capteur de mouvement Double lumière Commande vocale bidirectionnelle
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:1. Prise en charge du format de compression vidéo H.2652. Caméra dôme haute définition NVR sans fil 8ch + 8ch 3MP3. Double source de lumière et trois types de vision nocturne intelligente en couleur3. Prise en charge de la voix bidirectionnelle4. Stockage en nuage en libre circulation pendant 7 jours5. Prise en charge maximale d'un disque dur de 1 baie de 6 To6. Enregistreur vidéo à disque dur réseau sans fil 3.0MP;7. Module WIFI sans fil dédié à la sécurité intégrée, signal stable et forte capacité anti-interférences;8. Pas besoin d'appairage WIFI, l'image s'affichera lorsque la box sera allumée ;9. Utilisation mixte filaire et sans fil, adaptez-vous à divers scénarios;10. P2P EseeCloud (APP : EseeCloud), connexion à distance en quelques secondes, image fluide et stable ;11. Prend en charge plusieurs déclencheurs d'alarme (perte vidéo/détection de capteur de mouvement, etc.) et sortie d'alarme (voix/e-mail/FTP, etc.) ;12. Prend en charge l'accès et le contrôle à distance (LAN et Internet) du téléphone mobile (ou de la tablette) Android/Apple.Spécification:NVR sans filSystème opérateurSystème d'exploitation temps réel Linux embarquéEntrée vidéo et audioEntrée vidéo réseau8 canauxSortie vidéo et audioSortie HDMI1 canal, résolution : 1024x768, 1280x1024, 1366x768, 1440x900, 1920x1080p, prise en charge de la sortie audioSortie VGA1 canal, résolution : 1024x768, 1280x1024, 1366x768,1440x900, 1920x1080pParamètres de code vidéo et audioRésolution vidéoD1/960H/720P/960P/1080P/3MPLecture synchrone4 canauxVidéoMode vidéo/captureEnregistrement manuel, enregistrement de synchronisation, enregistrement de détection de capteur de mouvement, enregistrement d'alarmeMode de lectureLecture instantanée, lecture régulière, lecture d'événementMode de sauvegardeSauvegarde régulièreStockageStockage en ligne7 jours de stockage récurrent gratuitType d'interface de disque dur1 interface SATACapacité maximale du disque durDisque dur jusqu'à 6 ToInterface externeInterface réseau1, RJ45 port Ethernet adaptatif 10M/100Minterface USB1 USBPrise audioUn port casque 3,5 mmRéseauProtocole réseauUPnP (plug and play), SMTP (service de messagerie), PPPoE (accès commuté à Internet), DHCP (obtention automatique d'une adresse IP), etc.AutreSource de courantCC 12V 2AConsommation électrique (sans disque dur)≤5WTempérature de fonctionnement-dix℃-＋55℃Humidité de travail10%-90%Poids (sans disque dur)≤1KgTaille255 x 220 x 42mmCIP sans filPixel3MPCapteur d'imageCapteur CMOS 1/2,7", couleur : 0,1 Lux, noir/blanc : 0,01 LuxLentille4mmTraitement vidéoEncodage vidéo H.264/H.265, prise en charge du double fluxSortie d'imageFlux principal : 2304*1296@15fps ; Sous-flux : 640 x 360 à 15 ipsObturateurObturateur automatiqueRéduction de bruitPrise en charge de la réduction du bruit 2D/3DLarge dynamiqueSoutenir la dynamique large numériqueMode jour et nuitLe type de filtre infrarouge IR-CUT prend en charge les modes infrarouge/couleur/intelligent 3Retournement d'imagePrise en charge du retournement horizontal et verticalTraitement audioNorme de code G.711, prise en charge de la synchronisation audio et vidéoPrise audio1 entrée, niveau 2Vp-p, impédance 1kΩ, prend en charge l'entrée MIC/pickup; 1 sortie, impédance 8Ω, puissance de sortie 1 W, prise en charge des haut-parleurs directsRéseau filaire1 RJ45 Interface Ethernet, adaptative 10/100M ; prend en charge RTSP/FTP/PPPOE/DHCP/DDNS/NTP/UPnP et d'autres protocoles réseauRéseau sans fil802.11b/g/nInterface de signal IR1 interface de photorésistance, 1 interface de lecteur IR-CUT, prise en charge du contrôle du panneau de lampe à double source lumineuse (double contrôle IO, pas de panneau de lampe MCU)Yuntaï350° gauche et droite, 90° haut et basInterface du bouton de réinitialisationEtre prêtFente pour carte SDPrise en charge maximale 128GCaractéristiquesdétection de capteur de mouvement ; pousser les informations d'alarme ; prend en charge la surveillance à distance des téléphones mobiles et des clientsVision nocturne4 IR lumière + 4 lumière blancheSource de courantCC 12V 1APoids0.65kgTaille156 x 91 x 130mmInformations sur le paquetPoids3.25kgTaille320 x 332 x 170mmEmballage inclus:1 x NVR Wi-Fi 8 canaux8 caméras Wi-Fi1 x adaptateur secteur NVR8 adaptateurs d'alimentation pour appareil photo1 x manuel en anglais1 souris8 x paquet de vis1 x câble réseau
+
+
+
+

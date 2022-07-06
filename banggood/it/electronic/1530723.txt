@@ -1,0 +1,337 @@
+https://it.banggood.com/3000W-AC220V-250V-to-DC-48V-62A-ZVS-Heating-Switching-Power-Supply-R48-3000e3-For-Induction-Heater-p-1530723.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+3000W AC220V-250V a DC 48V 62A ZVS Alimentatore per riscaldamento R48-3000e3 per riscaldatore a induzione
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suggerimenti: Questo prodotto è l'alimentatore per la stazione base di comunicazione, che dovrebbe avere una connessione di comunicazione con lo chassis. Se non si dispone di una connessione di comunicazione, la luce gialla lampeggerà, il che è un fenomeno normale e non influisce sulla normale potenza in uscita.Caratteristica:
+
+
+
+Alta efficienza, riduce il consumo energetico per minori costi operativi
+
+La piena potenza in uscita (3kW) fino a + 45 ° C consente risparmi sul sistema di climatizzazione e sui costi di esercizio
+
+Ampia gamma di tensioni di ingresso per operare negli ambienti più esigenti
+
+Inseribile a caldo: facilita espansioni future e facilità di manutenzione
+
+Conforme agli standard globali: offre qualità, prestazioni e affidabilità indipendentemente dalle esigenze dell'applicazione o della posizione
+
+
+
+Descrizione:
+
+
+
+Il raddrizzatore ad alta efficienza da 3000 W (modello R48-3000e3) è progettato per convertire le tensioni di alimentazione CA standard in una tensione nominale stabile di -48 V CC regolabile in base alle esigenze dell'applicazione. 
+
+L'R48-3000e3 è un raddrizzatore a potenza costante progettato con la più recente tecnologia di commutazione brevettata, utilizzando la funzionalità DSP (Digital Signaling Processor) per un funzionamento efficiente.
+
+Per una maggiore capacità di carico, i raddrizzatori possono essere collegati in parallelo e il controllo intelligente può essere aggiunto con l'aiuto di un controller separato.
+
+
+
+
+
+
+Ingresso AC
+
+
+
+Tensione di ingresso, nominale
+
+Da 200 a 250 VCA
+
+
+
+Tensione di ingresso, variazione consentita
+
+Da 85 a 300 V CA.
+
+
+
+Frequenza di linea
+
+45 to 65 Hz
+
+
+
+Corrente di ingresso massima
+
+22 A
+
+
+
+Fattore di potenza
+
+> 0,99 per carico 50% -100%
+
+
+
+THD (Total Harmonic Distortion)
+
+≤5% per 50% -100% di carico, ≤2% senza carico
+
+
+
+Uscita DC
+
+
+
+Tensione di uscita, non regolabile
+
+48V DC
+
+
+
+Potenza di uscita
+
+3000 W massimo
+
+
+
+Potenza di uscita, declassata per tensione di ingresso
+
+Vedi diagramma
+
+
+
+Corrente di uscita
+
+62.5A@-48VDC
+
+
+
+Setpoint limite corrente di uscita
+
+0 to 62.5A
+
+
+
+Massima efficienza
+
+95,5%
+
+
+
+Declassamento della temperatura
+
+Massima potenza di uscita fino a + 45 ° C con un intervallo di tensione in ingresso di 176-264 V CA.
+
+
+
+Controllo e monitoraggio
+
+
+
+Allarme e segnalazione raddrizzatore Allarme e stato segnalato tramite bus CAN al controller di sistema
+
+
+
+Indicazioni visive Verde LED: normale Funzionamento LED giallo: allarme (significa nessuna connessione di comunicazione)
+					LED rosso: guasto
+
+
+
+Ambientale
+
+
+
+Intervallo di temperatura, operativo
+
+Da -40 a 70 ° C, da -40 a + 158 ° F
+
+
+
+Intervallo di temperatura, conservazione
+
+Da -40 a + 70 ° C, da -40 a + 158 ° F
+
+
+
+Umidità relativa
+
+Dallo 0 al 95%
+
+
+
+Altitudine
+
+2000 m, 6560 ft a piena potenza
+
+
+
+EMC
+
+ETSI EN300 386: 2005, Classe B.
+
+
+
+ 
+
+EN55022, Classe B
+
+
+
+Sicurezza
+
+EN 60950-1; IEC 60950
+
+
+
+Meccanica
+
+
+
+Dimensioni (H x L x P) 41 x 84,5 x 330 mm / 1,61 x 3,33 x 13 pollici
+
+
+
+Peso 1,5 kg / 3,41 libbre
+
+
+
+
+La confezione include:
+
+	1 x alimentatore
+
+
+
+
+
+

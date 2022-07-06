@@ -1,0 +1,146 @@
+https://it.banggood.com/T_SK105A_03-Universal-LCD-LED-TV-Controller-Driver-Board-TV-or-PC-or-VGA-or-HDMI-or-USB+7-Key-Button+2ch-6bit-30pins-LVDS-Cable+1-Lamp-Inverter-p-1401873.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+T.SK105A.03 Universale LCD LED Scheda driver controller TV TV/PC/VGA/HDMI/USB+7 Tasto chiave + 2 canali 6 bit 30 pin LVDS Cavo + 1 lampada Inverter
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Firmware T.RD8503.03: Click here to openT.V53.03 Manuale: Click here to openFirmware T.V53.03: Click here to openT.SK106A.03 Manuale: Click here to openFirmware T.SK106A.03: Click here to openNew Version T.SK105A.03 Manuale: Click here to openNew Version T.SK105A.03 Firmware: Click here to openNota: poiché il modello della scheda driver viene aggiornato frequentemente, l'aspetto e il chip saranno diversi, fare riferimento all'effettivo ricevuto. Se ti dispiace, per favore acquista con attenzione.Si prega di notare prima di acquistare:1. Questo prodotto è compatibile con la maggior parte dei modelli. I clienti devono solo confermare che lo schermo LCD è compatibile con le seguenti risoluzioni, senza ripetere il modello di richiesta. (Il firmware masterizza la risoluzione corrispondente)2. Questo prodotto deve masterizzare il firmware da solo prima di poter essere utilizzato. Se non sai come masterizzare il firmware, purtroppo, è sconsigliato acquistarlo. Grazie per la vostra comprensione.3. Questo kit viene fornito con un cavo schermo 2ch 6bit 30pin per impostazione predefinita. Se non è compatibile con il tuo schermo, acquista separatamente un cavo per schermo corrispondente.4. Assicurarsi di utilizzare l'alimentatore corretto. Se la corrente è troppo bassa/troppo alta, non si avvierà o addirittura brucerà il chip e danneggerà la scheda madre.5. Prestare attenzione alla scelta della tensione dello schermo 3,3 V/5V/12 V e modificare la posizione del ponticello berretto in base alle diverse tensioni.Supporta solo la risoluzione di:1920x12001920x10801680x10501680x9451600X12001600x9001400X10501440x9001366x7681280x10241280x8541280x8001280x7681280x7201024x7681024x600800x600Metodo di masterizzazione: per registrare il programma dello schermo nel disco flash USB, disco flash USB inserito nella scheda, collegare la tastiera, elettricità; Circa dopo alcuni secondi, premere le luci della tastiera che iniziano ad alternare il flash rosso e verde, le luci del flash iniziano a scrivere programmi (si prega di non alimentare), si accendono prima nel flash lento, dopo un flash lento, accelererà il flash veloce, molto tempo dopo l'ultimo fino a quando le luci smettono di lampeggiare la luce è il programma scritto, l'elettricità brucia con il disco flash USB per completare il programma.Non solo l'interfaccia USB può essere utilizzata per aggiornare i programmi, ma può anche essere utilizzata per riprodurre video, in pratica sono supportati i formati. Puoi anche impostare un display di avvio immagini o LOGODopo che il firmware è stato masterizzato con successo, è possibile utilizzare il telecomando per debug: ingresso menu 1147 per accedere alla modalità di fabbrica per il debug debugDescrizione: Modello: T.V53.03 (Aggiornamento dal 25 dicembre 2019)Modello: T.SK106A.03 (Aggiornamento dal 1 settembre 2020) (magazzino CN)Aggiornare Modello: T.SK105A.03 (Aggiornamento da novembre 2020) (magazzino CN) Il modello specifico si basa principalmente sul modello ricevuto, prestare attenzione alla masterizzazione del firmware del modello corrispondente.Formato TV: segnale analogicoLingua di supporto: russo, inglese, hindi, cinese semplificato, khmer, vietnamita, birmano, francese, tedesco, italiano, spagnolo.Interfaccia di ingresso: riproduzione multimediale PC/HDMI/TV/AV/USB (Nota: i segnali TV possono ricevere solo segnali analogici, non segnali digitali.)Interfaccia schermo: LVDS Doppio 6Adattatore di alimentazione: CC 12V 3-5A, 5,5 * 2,1 mmTensione dello schermo: 3,3 V / 5V / 12 V (salto berretto)Non solo l'interfaccia USB può essere utilizzata per aggiornare i programmi, ma può anche essere utilizzata per riprodurre video/musica/foto, in pratica i formati sono supportati. È inoltre possibile impostare un'immagine di visualizzazione di avvio o LOGO e Mirror Enable.Come conoscere il tipo di cavo lvds?Passaggio 1: trova la risoluzione del tuo modello LCD (puoi controllare la risoluzione da questo link: http://www.panelook.com/index.php)Passo 2: Clicca qui >>>https://www.banggood.com/search/lvds-cable.html?from=nav<<< per trovare il modello corrispondente.Passaggio 3: Trova e scrivi nel firmware corrispondente.Programmazione: 1. Mettere il firmware nel disco flash USB formattato (FAT32), quindi inserire il disco USB e il pulsante 7KEY sulla scheda2. Dopo aver acceso l'alimentazione, la luce del pulsante 7key diventa rossa, quindi lampeggia in rosso più velocemente.CONTINUA a lampeggiare e NON SI FERMA MAI. è normale, aspetta solo 1 minuto, significa che l'aggiornamento è terminato. quindi spegnere ed estrarre l'u-disk. (Nota che i programmi di scrittura non interrompono l'alimentazione, il crash non sarà in grado di essere utilizzato)Domande e risposte:Q1: chip T.SK105A.03, risoluzione 1280*800, dopo aver installato il firmware, lo schermo sfarfallaA1: Scarica questo software ed esegui nuovamente l'aggiornamento. Se il tuo chip 105 non può essere aggiornato, puoi cambiare il nome dell'aggiornamento in "UTS6710_sos" per forzare l'aggiornamento. >>>http://myosuploads3.banggood.com/products/20210202/20210202043110UTS6710.rar<<<Q2: Il connettore eDP funziona con questo articolo?A2: L'interfaccia eDP non è direttamente compatibile. Ci sono due soluzioni:1): Use this product and purchase an eDP conversion board separately.>>>Click here to buy<<<2): Acquista direttamente la scheda driver EDP. >>>Click here to buy<<<Q3: Il telecomando non può funzionare?A3: Devi prima masterizzare il software per usare il telecomando.Il pacchetto include: 1 x scheda controller 1 x controllo inglese remoto1 x IR1 x 7 tasti chiave1 x cavo lvds a 2 canali 6 bit 30 pin lunghezza 250 mm (È possibile sostituire la linea dello schermo secondo necessità.)1 x inverter CCFL da 1 pz con passo pin da 3,5 mm
+
+
+
+
+

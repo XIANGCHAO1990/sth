@@ -1,0 +1,143 @@
+https://es.banggood.com/SONOFF-ZB-Dongle-P-Zigbee3_0-USB-Dongle-Plus-Universal-ZB-Gateway-Support-via-ZHA-or-Zigbee2MQTT-Sonoff-ZB-Series-p-1924364.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+SONOFF ZB Dongle-P Zigbee3.0 USB Dongle Plus Soporte de puerta de enlace universal ZB a través de ZHA o Zigbee2MQTT Sonoff ZB Series
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características:- Pre-flasheado con firmware de coordinador Z-Stack 3.x.0- Puede usar ZHA en Home Assistant o usar Zigbee2MQTT- Base en TI CC2652P + CP2102N- Ganancia de salida de + 20dBm- Antena externa de interfaz SMA- La carcasa de aluminio reduce eficazmente las interferencias de señal de los periféricosEspecificación:Marca: SONOFFModelo: ZBDongle-PTemperatura de trabajo: -10 ℃ -40 ℃Aporte: DC 5V (100 mA máx.)Inalámbrico: Zigbee3.0Material de la cáscara: Aleación de aluminioEl paquete incluye:1 x Dongle USB Zigbee3.0 Plus1 x Antena1 x manual de usuario
+
+
+
+

@@ -1,0 +1,188 @@
+https://www.banggood.com/Original-JYETech-Assembled-DSO-SHELL-DSO150-Digital-Oscilloscope-Module-9V-p-1211151.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+Original JYETech Assembled DSO-SHELL DSO150 Digital Oscilloscope Module 9V
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DSO Shell (DSO150) Oscilloscope:
+
+1. DSO Shell has similar bandwitch as DSO138 though it contains significant improvements in structure, mechanical, and operation.
+2. Display and MCU are now mounted on the same board (mainboard) to avoid using inter-board pin-headers. Feedback from DSO138 usres have shown that soldering on the pin-headers are often problematic for many beginners. Analog channel is placed on a separated board which contains most user install parts. This brings in better separation between analog and digital circuits. Without the analog portion the mainboard is actually a general_purpose control board that can be used in many other applications. The mainboard is fully installed (except a few through-hold components) and factory tested before packing.
+3. DSO Shell comes with full enclosure. The front panel and top/bottom brackets are flexiable for easy user modification.
+4. Rotary encoder has been added. It makes parameter adjustment much quicker and easier.
+5. The sensitivity of DSO Shell has been extended in both directions and is higher and wider than DSO138. It reaches 5mV/div --- 20V/div while DSO138 is only 10mV/div --- 5V/div.
+6. DSO Shell runs on 9V (do not use power voltage higher than 10V!) power supply. Users need to prepare their own power supply since it is not included in the kits. The power jack on the mainboard accepts standare 5.5mm/2.1mm DC plug. Alternative 2-pin connector (0.1" pitch) is also provided for convenience to connect to different power sources.
+
+Characteristics of indicators:
+
+Number of channel: 1
+Analog bandwidth: 0 - 200KHz
+Sensitivity: 5mV/Div - 20V/Div
+Sensitivity error: < 5%
+Resolution: 12-bit
+Input Impedance: 1M ohm
+Maximum input voltage: 50Vpk
+Coupling: DC, AC, GND
+Max real-time sampling rate: 1Msps
+Timebase: 10us/Div - 500s/Div
+Record length: 1024
+Trigger modes: Auto, Normal, Single
+Trigger types: Rising/falling edge
+Trigger position: 1/2 of buffer size fixed
+2.4-inch color TFT LCD with 320 x 240 resolution
+Power supply: 9V DC (please make sure the power supply is 9V, lower or higher than 9V will cause problems.)
+Supply current: 120mA @ 9V
+Dimension: 115mm x 75mm x 22mm
+Weight: 100 gram (not including cables and power supply)
+
+Update informations: Component accessories and PCB board made a number of changes (Now is the latest version of 109-15001-00E)
+Firmwares: Click to open
+Users Manual: Click to open
+Mainboard Schematic: Click to open
+Analog board Schematic: Click to open
+How to Use the DSO150 Library: Click to open
+Source codes: Click to open
+FAQ, Tips, and Troubleshooting: Click to open
+
+Package includes:
+
+1 x Assembled DSO150 Digital Oscilloscope
+1 x EN Instruction
+
+
+
+
+
+

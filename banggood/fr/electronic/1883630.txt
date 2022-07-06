@@ -1,0 +1,143 @@
+https://fr.banggood.com/ESP-32S-ESP32-Development-Board-Wireless-WiFi+Bluetooth-2-in-1-Dual-Core-CPU-Low-Power-Control-Board-ESP-32S-p-1883630.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Carte de développement ESP-32S ESP32 sans fil WiFi + Bluetooth 2 en 1 carte de contrôle basse puissance CPU double cœur ESP-32S
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Noter: En raison de lots différents, les puces réelles seront différentes. ESP-WROOM-32 et ESP-WROOM-32D seront expédiés au hasard.Caractéristique:ESP32 intègre des commutateurs d'antenne, un balun RF, des amplificateurs de puissance, des amplificateurs à faible bruit, des filtres et des modules de gestion de l'alimentation, et l'ensemble de la solution occupe la plus petite surface de carte de circuit imprimé. Puce double mode Wi-Fi et Bluetooth 2,4 GHzGrâce à la technologie TSMC basse consommation 40 nm, les performances de puissance et les performances RF sont les meilleures, sûres et fiables, et faciles à étendre à diverses applications.Use document download: https://github.com/Nicholas3388/LuaNode Spécification:RentablePetit volume. Facile à intégrer dans n'importe quel produitPuissant, prend en charge le protocole LWIP, freertosPrend en charge trois modes : mode de coexistence AP, STA, AP + STALa programmation Lua facilite votre développementMise à jour de la puce CH9102X.Le forfait comprend :1 carte de développement ESP32
+
+
+
+

@@ -1,0 +1,215 @@
+1091209
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/5F/69/992d551e-0391-48e6-ba90-4ee9e7e0ed5e.jpg
+3D Light Cube Kit 8x8x8 Azul LED MP3 Music Spectrum DIY Kit eletrônico
+https://pt.banggood.com/3D-Light-Cube-Kit-8x8x8-Blue-LED-MP3-Music-Spectrum-DIY-Electronic-Kit-p-1091209.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: Este produto não inclui alojamento !! se precisar da caixa, compre separadamente (ID do produto: 1101043)
+Este é um kit DIY, você precisa ter algum conhecimento de eletrônica e habilidade.
+Precisa de muita solda, você deve ter paciência suficiente.
+Baixe recomendado e verifique as instruções para garantir que você pode usar.8x8x8 Versão LED azul enevoada.Assembled manual: Clique aqui.
+
+Característica:
+
+1. Amplificador embutido de 3W + alto-falante 3W de alta qualidade
+2. Pode ser inserido um cartão de memória TF para reproduzir música
+3. Pode ser inserido o disco U para reproduzir música
+4. Através da linha de áudio de entrada e saída de música
+5. Música MP3 integrada, o volume pode ser ajustado
+6. A música integrada pode ser controlada por um botão na próxima música
+7. 42 tipos de animação deslumbrante off-line integrados (ligar a eletricidade pode executar a animação)
+8. 14 tipos integrados de animação de áudio dinâmica offline (dance com música)
+9. 3D8 no modo máquina (animação de controle)
+10. 3D8 no modo de música da máquina
+11. Função de controle remoto infravermelho
+12. Noite, modo de controle diurno
+13. PWM modo de luz respiratória
+14. Ligue o modo de detecção automática da placa principal
+15. Função de escurecimento automático do fotorresistor (precisa expandir você mesmo)
+16. Tamanho da carcaça: 233 * 161 * 161 mm
+17. Placa PCB: 150 * 150mm
+18. Tensão de entrada: carregador 5V/5V
+19. Corrente: 1A-2A (2A melhor)
+
+Quatro funções principais:
+
+Tecla K1: Entre na seleção de modo, controle de modo diurno e noturno
+Tecla K2: Entre no modo 3D8 PC (pressione a tecla K1 para ter efeito após ligar)
+Tecla K3: Insira 42 tipos de modo de animação offline (pressione a tecla K1 para ter efeito após ligar)
+Tecla K4: Insira 14 tipos de modo de áudio off-line (pressione a tecla K1 para ter efeito após ligar)
+
+Três recursos principais de música:
+
+Tecla S1: entra no controle de reprodução / parada de música
+Tecla S2: Insira a música anterior / controle de diminuição de volume
+Tecla S3: Insira a próxima música / controle de aumento de volume
+
+Projeto do circuito:
+
+STC12C5A60S2 + 74HC245 + 74HC138 + 74HC595N
+1. Microcontrolador 1T de alta velocidade STC12C5A60S2 integrado
+2. Driver de buffer 74HC245 (conexão em cascata)
+3. Chip driver de tubo de MOS de alta corrente 5A (para resolver o brilho desigual)
+4. Chip de digitalização de alta velocidade e chip de cascata de controle serial
+5. Use chip de música MP3 profissional
+6. Use chip de amplificador de potência profissional 8002B
+
+Existem duas maneiras de modificar o padrão:
+
+1. Modifique o programa (difícil, você precisa entender de programação)
+2. Manipulação direta do software de computador PC da cúbica de luz
+
+O pacote inclui:
+
+1 x Kit de luz 3D Cube
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

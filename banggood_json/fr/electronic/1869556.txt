@@ -1,0 +1,145 @@
+1869556
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/5F/C3/8e330239-f511-4b0a-833b-8786f257cb7e.jpg
+LILYGO® TTGO T-Display ESP32 CH9102F Module WiFi Bluetooth 1,14 pouces LCD Carte de développement
+https://fr.banggood.com/LILYGO-TTGO-T-Display-ESP32-CH9102F-WiFi-bluetooth-Module-1_14-Inch-LCD-Development-Board-p-1869556.html?cur_warehouse=CN&ID=6309998&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristique:Démo : https://github.com/Xinyuan-LilyGO/TTGO-T-Affichage Spécifications matériellesLa descriptionJeu de pucesESPRESSIF-ESP32 240MHz Xtensa® microprocesseur dual-core 32 bits LX6ÉCLATFlash QSPI 4 Mo /16 Mo (optionnel)SRAM520 kB SRAMBoutonRéinitialiserUSB vers TTLCH9102FInterfaceUART, SPI, SDIO, I2C, LED PWM, TV PWM, I2S, IRGPIO, ADC, capteur tactile à condensateur, préamplificateur DACLNAAffichageIPS ST7789V 1,14 pouces Résolution 135 * 240Tension de travail2.7V-4.2VCourant de travailEnviron 60MACourant de sommeilEnviron 120uAPlage de température de travail-40C~+85°CTaille poids51,52 x 25,04 x 8,54 mm (7,81 g)Source de courantLa descriptionSource de courantUSB 5V/1ACourant de charge500mABatterieBatterie au lithium 3.7VConnecteur JST2Pin 1.25mmUSBType-CWifiLa descriptionStandardFCC/CE-RED/IC/TELEC/KCC/SRRC/NCCProtocole802.11 b/g/n (802.11n, vitesse jusqu'à 150 Mbps) Polymérisation A-MPDU et A-MSDU, prend en charge 0.4us Intervalle de protectionGamme de fréquences2.4GH2~2.5GHz(2400M-2483.5M)Puissance de transmission22dBmDistance de communication300mBluetoothLa descriptionProtocolePrise en charge de la norme Bluetooth V4.2BR/EDR et BLEFréquence radioAvec une sensibilité de -97dBm Récepteur NZIF Classe 1, Classe 2 et Classe 3 émetteur AFHFréquence audioFréquence audio CVSD et SBCLogicielLa descriptionMode WifiStation/SoftAP/SoftAP+Station/P2PMécanisme de sécuritéWPA/WPA2/WPA2-Entreprise/WPSType de chiffrementAES/RSA/ECC/SHAMise à jour du firmwareTéléchargement UART/OTA (via le réseau/hôte pour télécharger et écrire le firmware)Développement de logicielsPrise en charge du développement du serveur cloud/SDK pour le développement du micrologiciel utilisateurProtocolee de mise en réseauIPv4, IPv6, SSL, TCP/UDP/HTTP/FTP/MQTTConfiguration utilisateurAT + Jeu d'instructions, serveur cloud, android/iSystème d'exploitationappSystème d'exploitationFreeRTSystème d'exploitationLe forfait comprend :1 x carte de développement avec broches1 câble BatterieSchéma des broches :
+
+
+
+

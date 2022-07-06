@@ -1,0 +1,405 @@
+1534929
+https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/EB/33/c366866e-b894-4aa6-95e8-4d38e44e5e96.jpg
+9 Inch 2 DIN Car MP5 Player Quad Core 1+16G Stereo Radio IPS Touch Screen bluetooth FM DAB DVR
+https://www.banggood.com/9-Inch-2-DIN-Car-MP5-Player-Quad-Core-1+16G-Stereo-Radio-IPS-Touch-Screen-bluetooth-FM-DAB-DVR-p-1534929.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Installation video: https://drive.google.com/open?id=1KrvmvRVmTvkmVVt2VoixYzvDsP76b2hg
+
+	 
+
+Specification:
+
+Power Supply: DC 12V
+
+Max. Current: 10A
+
+Screen Size: 9 inch
+Unit Size: 2 DIN
+	Size: 251*146mm
+
+	 
+
+System:
+
+Operation System: C200S(not Android system)
+
+CPU: Quad Core CPU Processor 1.3GHz
+
+ROM: 16GB
+
+RAM: 1GB
+
+USB port, support 32GB USB Stick
+
+	 
+
+System Parameter:
+
+Video Decoding: All Format
+
+Operate System: C200S
+
+Start-up Time: Basic is about 5S, Most is about 25S
+
+Working Temperature: -20°C-----+70°C
+
+Storage Temperature: -30°C-----+80°C
+
+Standby Current: <10MA
+
+Working Voltage: 10.8~14.8V
+
+Screen Type: Digital Capacitive Touchscreen
+
+	 
+
+Display:
+
+IPS Touch Screen: Yes
+
+Capacitive or Resistance Screen: Capacitive
+
+Built-in Clock and Calendar: Yes, show real time and can use network-provided time
+
+Main Menu Status Bar display: Can be changed to Music/Radio/BT-Stereo Player and Clock/Date/Week
+
+Change Apps-Icon Position: Yes
+
+	 
+
+Audio:
+
+Format: MP3/WMA/MP2/OGG/AAC/MA4/FLAC/APE/WAV etc. Could play via song list
+
+Record: MP3, WMA
+
+Other: LRC synchronized display; ID3 search; Search by files; Album Picture; User-defined audio effect
+
+Audio IC: Top Global Cirrus IC, independent audio decoding
+
+SNR: Noise rations:=90dB
+
+	 
+
+Video:
+
+Format: Support AVI (H.264, XVID), RM, RMVB, MKV (H.264, XVID). WMA, MOV, MP4 (H.264, MPEG, XVID).
+	DAT (VCD format). VOB (DVD format). PMP, MPEG, MPG. FLV (H.263, H.264). ASF, TS, TP, 3GP, MPG etc. =30 formats, Playing
+	internet video directly (while downloading)
+
+Play: Up to 1920*1080 Pixels, 30Mb. Fluent play without light spot
+
+	 
+
+bluetooth:
+
+Hands Free: Yes
+
+A2DP (bluetooth Stereo Music): Yes, can play stereo music through Bluetooth
+
+bluetooth Music Control: Yes, play/pause/previous/next
+
+PB-Download: Yes, can download phonebook from mobile to this unit
+
+PB-Search: Yes, can use the first letter to search contact member in PB-Listings
+
+Calling Records: Yes, Dialed Call, Received Call, Missed Call
+
+Setup: Auto Answer, Auto connect, Device name
+
+Built-in Microphone: Yes, on the front panel
+
+	 
+
+Radio:
+
+FM: 87.5-108MHz
+
+FM Increment: 0.05MHz(EU)/0.1MHz(US)
+
+FM Area: Europe/USA1/USA2/Japan/Russia
+
+Preset Stations: 30(FM 3*6, AM 2*6)
+
+	 
+
+USB:
+
+Position: 2 USB Port, can be connected with Media/Camera/DAB+ Box/Smartphone
+
+Play MP5 Videos: Yes, can play RMVB Videos up to 1080P
+
+Touch Music Title to play directly: Yes
+
+	 
+
+DVR:
+
+Built-in Car Recorder App: Yes, just connect a USB Camera to use this function
+
+Support HD CCD Camera: Yes
+
+Play recorded Video directly: Yes
+
+Storing Position: Nand Flash/USB Storage can be changed
+
+	 
+
+DAB(+)-IN:
+
+Support(DAB+ BOX NEED TO BUY SEPARATELY)
+
+	 
+
+DTV-IN:
+
+Built-in Digital TV Tuner: No
+
+External Port for TV Box: Yes, Support DVB-T/DVB-T2/ATSC/ISDB Box
+
+Power Supply to TV Box directly: Yes, you can connect our TV Box to achieve this function
+
+Touch Control the TV Box on unit: Yes, you can connect our TV Box to achieve this function
+
+	 
+
+Additional:
+
+Textbook: Could change font, font color, background color, bookmark, reading E-book while listening music
+
+Photo Viewer: Support JPS, BMP, PNG, GIF etc. format. play by revolve, PPT, Support 4096*4096 Pixels
+
+Wallpapers: 5 live wallpapers, 17 standard wallpapers, support DIY wallpaper from Gallery
+
+ APK Installer: Support Android Package installer
+
+Support Torque Pro(OBD2 &Car): Yes, you can connect a bluetooth OBD2 Scanner Tool to use this function
+
+Support Mirror Link function: Yes, support screen mirroring from iPhone and android smartphone
+
+Support TPMS: YES (Not Included, you can us to buy it together)
+
+	 
+
+Input:
+
+AUX Video In
+
+Rear-View Camera Video In
+
+AUX Audio In: R/L
+
+DTV Box In
+
+DAB+ Box In
+
+Car DVR In
+
+	 
+
+Output:
+
+Video Out
+
+Audio Out: LF, LR, RR, RF
+
+Surround Stereo Out: 4*50W
+
+Subwoofer Out
+
+	 
+
+Features:
+
+1. bluetooth function (answer/ call, bluetooth music player)
+
+2. Support driving recorder(DVR)
+
+3.Touch screen
+
+4. FM radio
+
+
+
+Note:
+
+1.Note: This product does not contain shell.Shell need to be purchased by yourself.
+
+2.Before buying, you need to measure the size and check if it matches the product size. If it does not match, you need to 
+		purchase the bracket separately.
+		 
+
+
+
+Package included:
+
+1 x Car MP5 Player
+
+2 x USB Cable   
+
+1 x Power Cable
+
+1 x RCA Cable
+
+1 x Camera Input Cable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

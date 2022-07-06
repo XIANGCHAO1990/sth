@@ -1,0 +1,260 @@
+https://tr.banggood.com/KP184-DC-Electronic-Load-Battery-Capacity-Tester-RS485-or-232-400W-150V-40A-AC220V-Professional-Battery-Tester-p-1566483.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+KP184 DC Elektronik Yük Batarya Kapasite Test Cihazı RS485/232 400W 150V 40A AC220V Profesyonel Batarya Test Cihazı
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Tanım:
+
+
+
+KP184 serisi elektronik yük, LED aydınlatma, güç kaynağı, şarj cihazı ve akümülatörde ürün testi ve yaşlanmaya yaygın olarak uygulanabilir. Akım modu, aküyü boşaltmak ve güç kaynağını yüklemek için rezistif yük simüle etmek için kullanılabilir; voltaj modu, kapasitif yükü simüle etmek ve yükü yüklemek, ayrıca LED sabit voltajını simüle etmek ve güç kaynağını yüklemek için kullanılabilir. Basitçe kullanılır, rahatça ayarlanır ve mükemmel koruma fonksiyonuna sahiptir. Performans ve fonksiyon geleneksel kayar tel direnci ile eşsizdir. İlgili endüstriler için kullanılırsa üretkenliği artırabilir ve maliyeti düşürebilir.>>Sofware: Click here.<<
+>>Manual: Click here <<
+
+Özellikler:
+
+
+
+1.CC, CV, CW ve CR gibi dört temel yük moduna sahiptir.
+
+2. Pozitif ve negatif aktarım korumasını girin ve alarm verin
+
+3. Optimize edilmiş ısı radyasyon yapısı, yüksek güç yoğunluğunu gerçekleştirir;
+
+4.Dijital kontrol modu, yüksek hassasiyet ve iyi stabilite
+
+5. Aşırı gerilim, aşırı akım, aşırı güç ve aşırı sıcaklık koruması vardır;
+
+6.Voltage uzak uç ölçüm fonksiyonu (uzaktan algılama)
+
+7.Otomatik test fonksiyonu, harici I/0 tetik sinyali, BAŞARILI, BAŞARISIZ gösterge sinyali;
+
+8.10KHz dinamik test fonksiyonu;
+
+9. Pil kapasitesi test fonksiyonu;
+
+10. Pilin iç direncinin test edilmesi
+
+11.Aşırı akım koruma noktası/koruma süresi test fonksiyonu
+
+12.Fan PWM sıcaklık kontrolü;
+
+13.Güç kaynağı 110VAC/220VAC vardiyalı kullanım
+
+14.RS485 ve 232 haberleşme arayüzü
+
+15.Çevrimiçi çoklu yüklü cihazların senkronize çalışma fonksiyonu
+
+16.Güçlü işlev ve kullanıcı dostu arayüz ile üst bilgisayar yazılımı desteği
+
+
+
+Şartname:
+
+
+
+Güç tüketimi: < 20 W
+
+Yük gerilimi: DC 1 -150 V
+
+Yük akımı: 0-40A
+
+Yük gücü: 0-400W
+
+Ölçüm hassasiyeti Akım: ±0.05%+5mA
+
+Ölçüm Hassasiyeti Gerilimi: ±0.05%+5mV
+
+Kontrol hassasiyeti Akım: ±0.05%+5mA
+
+Kontrol hassasiyeti Voltaj: ±0.05%+5mV
+
+İletişim Modu: RS232/RS485
+
+Aşırı voltaj: Voltaj 152V'den fazla olduğunda, yük kapatılır.
+
+Aşırı sıcaklık: 85 ℃
+
+Aşırı Güç: Tek kanal: 410W
+
+Güç kaynağı giriş sigortası: 0,5
+
+Boyut: 300*90*180mm/11.8*3.5*7.1in
+
+Ağırlık: Yaklaşık 4000g/141.1oz
+
+
+
+Paket İçeriği:
+
+
+1 x KP184 DC Elektronik Yük
+
+1 x Fiş (AB)
+
+1 x Uzakdan Kumanda kompanzasyon terminali
+
+2 x Pozitif ve negatif test terminali
+
+1 x 232 iletişim kablosu
+
+2 x Test kablosu
+
+1 x kullanım kılavuzu
+
+
+
+Not:
+
+Size ülkenize göre bir fiş adaptörü göndereceğiz.
+
+
+Not:
+
+Bu DC Yük ikincil yazılım programlamayı destekler, umarız yazılımı kendiniz alırsınız;
+
+Elinizde yoksa, size ücretsiz bir hediye olarak gönderebiliriz, Yazılım yalnızca bir hediyedir, mal değil, bu nedenle yazılım kullanımında profesyonel olduğunuzu umuyoruz; ücretsiz ve geliştirme yazılımıdır; sadece Win7 veya IE sistemi içindir
+
+Detaylar Resimler:
+
+
+
+
+
+
+
+

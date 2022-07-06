@@ -1,0 +1,301 @@
+https://www.banggood.com/MDP-XP-30V-or-5A-90W-2_4G-Wireless-Connection-Digital-Programmable-Power-System-with-2_8-inch-TFT-Screen-Monitor-Automatic-Matching-Control-6-Sub-modules-p-1526966.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+MDP-XP 30V/5A 90W 2.4G Wireless Connection Digital Programmable Power System with 2.8-inch TFT Screen Monitor Automatic Matching Control 6 Sub-modules
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+※Descriptions:
+
+	 
+
+MDP (Mini Digital Power System) is a system of programmable linear DC power supply based on modular design, capable of connecting different modules for use as needed.
+
+Current Functional Modules:Display Control Module,Digital Power Module
+
+Modules in Develop:Digital Signal Genetator Module,Electronic Load Module,Power Charger Module,Battery Pack Module
+
+	 
+
+MDP-XP consists of a display control module and a digital power module. Through 2.4G wireless connection, it achieves multichannel free combination at the power of 90W per channel. MDP-XP is a high cost-effective programmable linear DC power supply, featuring indicators, stability, reliability and distinct user interface comparable with professional power supplies; it also provides programmable output, timing output, sequential control, automatic compensation and other powerful functions, so as to meet diversified testing needs.
+
+	 
+
+Display Control Module: equipped with a 2.8-inch TFT screen, it can display the voltage-current waveform in real time, support data statistics, and automatically pair with and control six sub-modules (digital power modules), with dual thumb wheels and 90-degree scrolling user-friendly design.
+
+Digital Power Module: high efficiency linear output, 0.25mV ripple wave, high-speed transient response, and supporting precise fine-tuning.
+>>Please click Here to find the  MDP-P905 Digital Power Module<<
+
+	 
+
+※Features:
+	 
+
+- 2.4G wireless connection, supporting a Display Control as well as six Digital Powers
+
+- DC wide voltage input between 4.2V and 30V, reduced up to 2.7V after startup
+
+- High-speed transient response and over current protection, as fast as 4uS
+
+- Extremely low load regulation and intelligent line loss compensation
+
+- High efficiency and natural heat dissipation with 90W of capacity load
+
+- Support positive & negative pressure, series pressurization, parallel current sharing, free combination of collaborative load, and intelligent power allocation
+
+- Security Protections: input overvoltage, under-voltage protection, anti-reverse connection protection, anti-backflow protection, overtemperature protection, and over current protection
+
+	 
+
+※Applications: 
+	 
+
+General tests and teaching experiments in R&D laboratory 
+
+Maintenance of cellphones, laptops and other digital products 
+
+Power supply testing and data logger of RF and microwave circuits or modules
+
+Supply purified power for high-accuracy digital-analog circuits and Hi-Fi audio devices
+
+Property verification and fault diagnosis of devices and circuits
+
+Quality control and quality inspection
+
+Emergency power supply for model airplanes and vehicles
+
+※Specifications:
+
+
+
+
+
+Mode
+
+MDP-XP
+
+
+
+Input
+
+DC4.2V-30V(After startup 2.7V),100mA-6A,Support QC3.0
+
+
+
+Output
+
+30V/5A,90W
+
+
+
+Adjustment rate
+
+Load adjustment rate <±0.01^%
+
+
+
+Power adjustment rate <±0.01^%
+
+
+
+Ripple and noise
+
+250uVrms/3mVpp
+
+
+
+Transient response time
+
+≤4uS
+
+
+
+Line loss compensation
+
+5mR-100mR
+
+
+
+Protection
+
+Input over-voltage,under-voltage, anti-reverse, output anti-backflow, over temperature
+
+
+
+Data recording
+
+Max storage: 7MB, Max recording time: 24 hours.
+
+
+
+Others
+
+Automatically shut down and enter micro-power mode
+
+
+
+Support USB firmware upgrade
+
+
+
+Support user calibration
+
+
+
+
+Package Includes:
+
+1 x MDP-XP Power System(1 x MDP-M01 Smart Digital Monitor + 1 x MDP-P905 Digital Power Supply)
+
+1 x Cable (2.5mm audio head to Micro USB)
+
+2 x Output Line (4mm banana head to crocodile clip)
+
+Details Pictures:
+	 
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,194 @@
+https://www.banggood.com/Geekcreit-DIY-L298N-2WD-Ultrasonic-Smart-Tracking-Moteur-Robot-Car-Kit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1155139.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® DIY L298N 2WD Ultrasonic Smart Tracking Moteur Robot Car Kit for Arduino - products that work with official Arduino boards
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Features:
+
+1. Simple mechanical structure, installation is very easy.
+2. With L298N control module, four monitoring modules and 51 control units.
+3. The battery box can hold four batteries, convenient for the entire power system.
+
+Reference Manual: click to download
+
+
+Note:
+
+-Due to different producing batches, product details might be a little different. If you minding the difference, please buy it carefully.
+
+Package included:
+
+	 
+
+1 x Car chassis 
+
+2 x Car wheels
+
+4 x Fasteners (high intensity black acrylic)
+
+1 x Caster
+
+1 x Battery box(without battery)
+
+1 x A quality Rocker Switch
+
+1 x V5 shield
+
+1 x UNOR3
+
+1 x SG90
+
+1 x FPV 
+
+1 x L298N
+
+1 x USB Cable
+
+
+
+
+Ultrasonic module circuit diagram
+
+
+L298N_Motor Drive Module
+
+
+
+,,
+
+
+

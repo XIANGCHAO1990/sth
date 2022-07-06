@@ -1,0 +1,183 @@
+68534
+https://imgaz2.staticbg.com/thumb/large/upload/2014/03/SKU066315 (1).jpg
+ATMEGA328 328p 5V 16MHz Arduino Compatibilidade Pro Mini Placa de Módulo
+https://pt.banggood.com/Wholesale-ATMEGA328-328p-16MHz-Pro-Mini-PCB-Module-Board-5V-p-68534.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arduino ATmega328 ProMini 328p 5v 16MHz já está disponível a partir de nossa Armazém dos EUA
+
+ Envio grátis para os EUA em 3-6 dias úteis
+Envio para Canadá, Brasil em 7-10 dias
+
+ATMEGA328 328p 5V 16MHz Arduino Compatibilidade Pro Mini Placa de Módulo
+
+Descrição:
+
+Nova versão, Pro Mini 328 5V 16MHz, compatível com arduino
+Componentes de alta qualidade e material de solda
+Bootloader Pronto, plug and play.
+
+Incluído no pacote:
+
+1 x Pro Mini-328 5V 16MHz arduino compatível
+
+Aviso do cliente Mattias Schlenker:
+
+Se o upload de esboços usando o IDE do Arduino falhar, siga estas etapas para atualizar o carregador de inicialização:
+
+-Prepare um Arduino Uno, Mega ou similar para atuar como ISP como descrito em http://arduino.cc/en/Tutorial/ArduinoISP
+-Ligue-o como mostrado em flasbootloader_connected.png (Picture Reveiw of SKU099688)
+-Use o Arduino IDE para fazer o flash do bootloader do Pro / Pro Mini correspondente (5V, 16MHz) para SKU099688 ou SKU066315
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,
+
+

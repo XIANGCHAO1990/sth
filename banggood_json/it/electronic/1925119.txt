@@ -1,0 +1,261 @@
+1925119
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/D6/64/f7cc2dc2-876d-4a34-9a9e-344fb1fea2a0.jpg
+HK1 RBOX X4S Amlogic S905X4 Quad Core 4GB RAM 64GB ROM Android 11.0 HD 8K H.265 2.4G 5G WIFI bluetooth Smart TV Scatola Youtube Netflix
+https://it.banggood.com/HK1-RBOX-X4S-Amlogic-S905X4-Quad-Core-4GB-RAM-64GB-ROM-Android-11_0-HD-8K-H_265-2_4G-5G-WIFI-bluetooth-Smart-TV-Box-Youtube-Netflix-p-1925119.html?cur_warehouse=CN&ID=47184&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifica:
+
+
+
+
+processore
+Amlogic S905X4 processore quad core ARM® Cortex™ A55 a 64 bit
+
+
+GPU
+Processore GPU G31™ MP2
+
+
+Memoria
+DDR3: 4 GB
+
+
+Veloce
+eMMC: 64GB
+
+
+Wi-Fi
+IEEE 802.11 b/g/n; 2.4G / 5G            
+
+
+Bluetooth
+BT; Supporto Voce remoto
+
+
+Muffola
+Plastica; Colore nero
+
+
+I/O
+1xHDMI
+HDMI 2.1, supporta HDMI CEC, Dynamic HDR e uscita con risoluzione massima 8Kx4K@24
+
+
+1xUSCITA AV
+Uscita a definizione standard 480i/576i
+
+
+2xUSB
+1x USB 3.0; 1 USB 2.0
+
+
+1xRicevitore IR
+Connessione ricevitore remoto
+
+
+1xRJ45
+Interfaccia Ethernet; Supporta 10 / 100M
+
+
+1x CARTA TF
+Supporta 4 GB/8 GB/16GB/32GB/64GB
+
+
+Potenza
+DC 5V/2A
+
+
+Software
+
+
+Sistema operativo
+Android 11.0
+
+
+video
+Amlogic video Engine (AVE) con decoder e codificatori hardware dedicatiSupporta il decoder multi-video fino a 4x1080P a 60fpsSupporta più sessioni di decodifica video "protette" e decodifica e codifica simultaneeDecodifica video/immagini/AV1 MP-10@L5.1 4Kx2K@60fps- VP9 Profilo-2 fino a 8Kx4K@24 fps- H.265 HEVC MP-10@L5.1 fino a 8Kx4K@24 fps- Profilo AVS2-P2 fino a 8Kx4K@24 fps- H.264 AVC HP@L5.1 fino a 4Kx2K@30fps- MPEG-4 ASP@L5 fino a 1080P@60fps (ISO-14496)- WMV/VC-1 SP/MP/AP fino a 1080P@60fps- Profilo JiZhun AVS-P16(AVS+) /AVS-P2 fino a 1080P@60fps- MPEG-2 MP / HL fino a 1080P @ 60fps (ISO-13818)- MPEG-1 MP / HL fino a 1080P @ 60fps (ISO-11172)- Realvideo 8/9/10 fino a 1080P@60fps- Supporto video per sottotitoli in più lingue e formati multipli- Decodifica a risoluzione pixel illimitata MJPEG e JPEG (ISO/IEC-10918)- Supporta la miniatura JPEG, il ridimensionamento, la rotazione e gli effetti di transizione- Supporta i formati di file * .mkv, * .wmv, * .mpg, * .mpeg, * .dat, * .avi, * .mov, * .iso, * .mp4, * .rm e * .jpg
+
+
+Audio
+Supporta MP3, AAC, WMA, RM, FLAC, Ogg e programmabile con down-mixing 7.1/5.1VAD a bassa potenzaIngresso/uscita SPDIF/IEC958 audio digitale seriale integrato e ingresso/uscita PCM3 porte TDM/PCM/I2S integrate con modalità TDM/PCM fino a 384 kHz x 32 bit x 16 canali o 96 kHz x 32 bit x 32 canali e modalità I2S fino a 384 kHz x 32 bit x 16 canaliIngresso PDM per microfono digitale con CIC, LPF e HPF programmabili, supporta fino a 8 DMICDAC audio stereo integratoSupporta l'uscita simultanea del doppio canale audio stereo con la combinazione di analogico+PCM o I2S+PCM
+
+
+Immagine
+JPEG HD, BMP,GIF,PNG,TIF
+
+
+Lingua
+Inglese Francese Tedesco Spagnolo Italiano etc lingue multilaterali
+
+
+Applicazioni
+
+
+in linea
+Sfoglia tutti i siti Web di video, supporta Netflix, Hulu, Flixster, Youtube, ecc. 
+
+
+App
+Le app vengono scaricate gratuitamente da Android Market, Amazon Store ecc.
+
+
+medio
+Riproduzione multimediale locale, supporto HDD, disco U, scheda TF 
+
+
+Parla in linea
+Supporta videochiamate SKYPE, MSN, Facebook, Twitter, QQ ecc.
+
+
+Altri
+Supporto e-mail, tuta da ufficio, ecc.Supporta la funzione DLNA Supporto 2.4G mouse senza fili/tastiera
+
+
+Imballaggio
+Dimensione del prodotto
+105x20mm
+
+
+Imballaggio unitario (GW)
+0.4KG
+
+Caratteristica:processore: Amlogic S905X4 processore quad core ARM® Cortex™ A55 a 64 bit GPU: Processore GPU G31™ MP2 Memoria DDR3: 4GBVeloce: eMMC: 64GBWi-Fi: IEEE 802.11 b/g/n; 2.4G/5G Bluetooth: BT; Supporta la voce remoto Sistema operativo: Android 11.0Il pacchetto include:1 x HK1 RBOX X4S TV Scatola (altri prodotti non sono inclusi)1 cavo HDMI 1 x IR remoto 1 manuale utente  1 confezione Scatola  1 adattatore di alimentazione   
+
+
+
+

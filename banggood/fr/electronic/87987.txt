@@ -1,0 +1,174 @@
+https://fr.banggood.com/Geekcreit-5V-4-Channel-Relay-Module-For-PIC-ARM-DSP-AVR-MSP430-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-87987.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® 5V Module de Relais 4 Chaînes pour Arduino PIC ARM DSP AVR MSP430 Bleu
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+
+Être capable de contrôler les différents appareils, et d'autres équipements avec un courant important
+Il peut être contrôlé directement par Micro-contrôleur (Arduino, 8051, AVR, PIC, DSP, ARM, ARM, MSP430, logique TTL)
+5V 4-Chaînes Relais carte d'interface, et chacun a besoin de 50-60mA Disque du Courant
+Equipé de relais à courant élevé, AC250V 10A, DC30V 10A
+LED d'indication pour l'état de la sortie Relais
+
+Usage:
+
+Soutenir tous les contrôles MCU
+Le domaine industriel
+
+
+Contrôle PLC
+Contrôle à domicile intelligent
+
+Emballage inclut:
+
+1 x module de relais 5V à 4 chaînes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

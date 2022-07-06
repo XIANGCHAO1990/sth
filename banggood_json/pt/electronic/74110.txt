@@ -1,0 +1,184 @@
+74110
+https://imgaz.staticbg.com/thumb/large/upload/2012/jiangjunchao/SKU075676o.JPG
+Geekcreit® 5V 8 Canais Placa Módulo Relé para Arduino PIC AVR DSP ARM
+https://pt.banggood.com/5V-8-Channel-Relay-Module-Board-PIC-AVR-DSP-ARM-p-74110.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:
+
+Esta é uma placa de módulo de relé de 5V 8 canais para Arduino PIC AVR DSP ARM
+Este módulo de relé é 5V ativo baixo.
+É uma placa de interface de relé de 8 canais, que pode ser controlada diretamente por uma ampla gama de microcontroladores, como Arduino, AVR, PIC, ARM, PLC, etc.
+Também é capaz de controlar vários aparelhos e outros equipamentos com grande corrente.
+O contato máximo de saída do relé é AC250V 10A e DC30V 10A.
+A interface padrão pode ser conectada diretamente com microcontroladores.
+As luzes indicadoras de status de funcionamento vermelho são propícias ao uso seguro.
+Amplamente utilizado para todos os controles MCU, setor industrial, controle PLC, controle doméstico inteligente.
+
+Função:
+
+Suporta todo o controle de microcomputador de chip único
+Círculo industrial
+Controlador PLC
+Controle inteligente das famílias
+
+Especificações:
+
+Tensão de trabalho: 5V
+Canal: 8 canais
+Tamanho do item: 13.4x5.3x1.7cm / 5.28x2.09x0.67 polegadas
+Peso do artigo: 116g / 4.11oz
+Peso da embalagem: 118g / 4.17oz
+
+Incluído no pacote:
+
+1 x Módulo de relé de 8 canais
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,
+
+

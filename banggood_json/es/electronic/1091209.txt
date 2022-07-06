@@ -1,0 +1,215 @@
+1091209
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/5F/69/992d551e-0391-48e6-ba90-4ee9e7e0ed5e.jpg
+3D Light Cube Kit 8x8x8 Azul LED MP3 Music Spectrum DIY Kit electrónico
+https://es.banggood.com/3D-Light-Cube-Kit-8x8x8-Blue-LED-MP3-Music-Spectrum-DIY-Electronic-Kit-p-1091209.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: Este producto no incluye vivienda !! Si necesita la carcasa, cómprela por separado (ID de producto: 1101043).
+Este es un kit DIY, necesita tener algunos conocimientos de electrónica y habilidad.
+Necesita mucha soldadura, debe tener suficiente paciencia.
+Descarga recomendada y consulta las instrucciones para asegurarte de que puedes usar.Versión 8x8x8 Blue misty LED.Assembled manual: Haga clic aquí.
+
+Característica:
+
+1. Amplificador incorporado de 3 W + altavoz de alta calidad de 3 W
+2. Se puede insertar una tarjeta de memoria TF para reproducir música.
+3. Se puede insertar un disco en U para reproducir música
+4. A través de la línea de audio de entrada y salida de música.
+5. Música MP3 incorporada, el volumen se puede ajustar
+6. La música incorporada se puede controlar con un botón en la siguiente canción
+7. 42 tipos de animación impresionante fuera de línea incorporados (enchufar la electricidad puede ejecutar la animación)
+8. 14 tipos integrados de animación de audio dinámica sin conexión (baile con música)
+9. 3D8 en el modo máquina (animación de control)
+10. 3D8 en el modo de música de la máquina
+11. Función de control remoto por infrarrojos
+12. Modo de control nocturno y diurno
+13. PWM modo de luz de respiración
+14. Encienda el modo de detección automática de la placa base
+15.Función de atenuación automática de fotoresistor (necesita expandirlo usted mismo)
+16. Tamaño de la carcasa: 233 * 161 * 161 mm
+17. Placa PCB: 150 * 150 mm
+18. Voltaje de entrada: cargador 5V/5V
+19. Corriente: 1A-2A (2A mejor)
+
+Cuatro funciones clave:
+
+Tecla K1: ingrese la selección de modo, día, control de modo nocturno
+Tecla K2: Ingrese al modo PC 3D8 (presione la tecla K1 para que sea efectivo después del encendido)
+Tecla K3: ingrese 42 tipos de modo de animación fuera de línea (presione la tecla K1 para que sea efectivo después del encendido)
+Tecla K4: ingrese 14 tipos de modo de audio fuera de línea (presione la tecla K1 para que sea efectivo después del encendido)
+
+Características de tres teclas musicales:
+
+Tecla S1: Ingrese al control de reproducción / parada de música
+Tecla S2: Ingrese la canción anterior / control de disminución de volumen
+Tecla S3: Ingrese la siguiente canción / control de aumento de volumen
+
+Diseño de circuito:
+
+STC12C5A60S2 + 74HC245 + 74HC138 + 74HC595N
+1. Microcontrolador 1T de alta velocidad STC12C5A60S2 integrado
+2. Controlador de búfer 74HC245 (conexión en cascada)
+3. 5A chip controlador de tubo de alta corriente MOS (para resolver el brillo desigual)
+4. Chip de escaneo de alta velocidad y chip de cascada de control en serie
+5. Utilice un chip de música MP3 profesional
+6. Utilice el chip amplificador de potencia profesional 8002B
+
+Hay dos formas de modificar el patrón:
+
+1. Modifique el programa (difícil, necesita entender la programación)
+2. Software de computadora para PC Manipulación directa de la luz cúbica
+
+El paquete incluye:
+
+1 x Kit de luz 3D Cube
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

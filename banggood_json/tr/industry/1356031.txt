@@ -1,0 +1,315 @@
+1356031
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/82/96/7ec6d381-6375-4a2c-bcfb-326924a34787.jpg
+PZEM-022 Aç ve Kapat CT 100A AC Dijital Ekran Güç Monitör Metre Voltmetre Ampermetre Frekans
+https://tr.banggood.com/PZEM-022-Open-and-Close-CT-100A-AC-Digital-Display-Power-Monitor-Meter-Voltmeter-Ammeter-Frequency-p-1356031.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikleri:
+
+
+1. Elektriksel parametre ölçüm fonksiyonu (gerilim, akım, aktif güç, enerji, frekans, güç faktörü)
+
+2. Aşırı yük alarmı işlevi (güç alarm eşiğinin üzerinde, arka ışık ve alarm için yanıp sönen güç)
+
+3. Güç alarmı eşiği ön ayar işlevi (güç alarmı eşiğini ayarlayabilir)
+
+4. Enerji sıfırlanabilir, anahtarı kullanın
+
+5. Güç kapalıyken verileri saklayın
+
+6. Geniş ekran LCD 
+
+7. Arka ışık işlevi
+
+8. Tuş İşlevi
+
+
+♦Arka ışık kontrolü
+
+Arka ışığı açmak veya kapatmak için tuşa kısa basın, arka ışığın hafıza işlevi vardır, güç kapatıldığında açık veya kapalı durumunu saklayabilir.
+
+
+♦Enerjiyi sıfırla
+
+Adım 1: Uzun basın enerji değeri yanıp sönene kadar 5 saniye boyunca tuşuna basın, ardından tuşu bırakın.
+
+Adım 2: Tuşa tekrar kısa basın, ardından enerji değeri silinir ve sıfırlama yanıp sönme durumundan çıkın.
+
+Adım 3: 5 saniye içerisinde tuşa herhangi bir işlem yapılmazsa, enerji değerinin silinmediği ve sıfırlama durumundan çıkacağı anlamına gelir.
+
+
+♦Güç alarmı eşiğini ayarla 
+
+Adım 1: LCD ekranında "SET CLr" görüntülenene kadar tuşa uzun basın, ardından ayar durumuna girmek için tuşu bırakın
+
+Adım 2: Güç penceresi mevcut güç alarm değerini gösterir ve son basamak yanıp sönmeye başlar, ardından 3 saniyeden fazla çalışma olmadığında artı 1'e kısa basabilirsiniz, basamak konumunu otomatik olarak değiştirir, ayar yöntemi aynıdır yukarıdaki gibi.
+
+Adım 3: Ayarı bitirdikten sonra, tuşa 5 saniyeden uzun süre basıldığında otomatik olarak depolanır ve çıkar, aktif güç eşiği aralığı 0.0~2.5kW'dir. aynı anda altı parametre görüntüleyebilir.
+
+
+
+Özellikler:
+
+
+1. Çalışma voltajı: 80 ~ 260VAC
+
+2. Test voltajı: 80 ~ 260VAC
+
+3. Nominal güç: 100A/22000W
+
+4. Çalışma frekansı: 45-65Hz
+
+5. Ölçüm doğruluğu: 1.0 derece
+
+Oynatma formatı:
+
+
+1.Güç
+	Test aralığı: 0~22000W
+	Başlangıç ölçü gücü: 0.2W
+
+<10W görüntü formatı: 1.00~9.99W
+
+<100W görüntü formatı: 10.0~99.9W
+
+<1000W görüntü formatı: 100~999W
+
+<10000W görüntüleme formatı: 1.00~9.90kW
+
+≥10000W görüntü formatı: 10.0~22,0kW
+
+
+2.Enerji
+	Test aralığı: 0~999kWh
+
+<1kWh görüntüleme formatı: 0~999Wh
+
+<10kWh görüntüleme formatı: 1.00~9.99kWh
+
+≥10kWh ekran formatı: 10~999kWh
+
+
+3. Voltaj
+	Test aralığı: 80~260V
+
+Ekran formatı: 80~260V
+
+
+4. Akım
+	Test aralığı: 0~100A
+	Başlangıç ölçüm akımı: 0.001A
+
+<10A görüntü formatı: 0.000~9.000A
+
+≥10A ekran formatı:10.00~99.99A
+
+
+5. Frekans
+	Test aralığı: 45~65Hz
+
+Ekran formatı: 45~65Hz
+
+
+6.Güç faktörü
+	Test aralığı: 0~1PF
+
+Ekran formatı: 0.00~1.00PF
+
+
+
+Önlemler:
+
+
+1. Bu modül iç mekan için uygundur, lütfen dış mekanda kullanmayınız.
+
+2. Uygulanan yük, nominal gücü aşmamalıdır.
+
+3. Kablolama sırası yanlış olamaz.
+
+Paket içeriği:
+
+		1 x CT Gücünü Aç ve Kapat Monitör
+
+Detay Resimleri:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

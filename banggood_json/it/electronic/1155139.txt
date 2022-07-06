@@ -1,0 +1,203 @@
+1155139
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/C5/05/dc90dcb4-a2df-4f7f-ba9e-81cdf2a0944b.jpg
+Fai Da Te L298N 2WD Robot Auto Motore di Inseguimento Intelligente Ultrasuonico per Arduino
+https://it.banggood.com/Geekcreit-DIY-L298N-2WD-Ultrasonic-Smart-Tracking-Moteur-Robot-Car-Kit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1155139.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristiche:
+
+1. Struttura meccanica semplice, l'installazione molto facile.
+2. Con il modulo di controllo L298N, quattro moduli di monitoraggio e 51 unità di controllo.
+3. Fornito con un interruttore, facile avviamento-spegnimento, l'intero sistema è altamente integrato.
+4. Quattro batterie in un vano, comodo per l'intero sistema di alimentazione.
+
+
+
+Nota:
+
+		A causa della differenza tra i lotti di produzione, i dettagli dell'articolo potrebbero essere diversi. Se ti dispiace la differenza, considera bene prima dell'acquisto.
+
+
+
+
+La confezione include:
+
+1 x Kit di Robot d'Auto per Inseguimento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ultrasonic module circuit diagram
+
+
+L298N_Motor Drive Module
+
+
+
+,,
+
+
+

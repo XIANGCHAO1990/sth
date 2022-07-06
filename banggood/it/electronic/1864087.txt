@@ -1,0 +1,143 @@
+https://it.banggood.com/M5Stack-M5Paper-ESP32-Wifi-+-bluetooth-Development-Core-Board-V1_1-with-Touch-EInk-Display-4_7inch-960X540-180-Viewing-Angle-p-1864087.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+M5Stack® M5Paper ESP32 Wifi + bluetooth Development Core Board V1.1 con Touch EInk Display 4,7 pollici 960X540 Angolo di visione 180°
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:M5Paper v1.1 è l'ultimo dispositivo core di M5Stacks con un display E-ink abilitato al tocco. Alimentato dall'ESP32-D0WDQ6-V3, questo è il nostro primo dispositivo a integrare un display E-ink da 540 * 960 @ 4,7 "di dimensioni super, che supporta 16 livelli di scala di grigi. Il display è un touchscreen capacitivo GT911 che supporta due punti di tocco e una varietà di controlli gestuali.Rispetto a un normale display LCD，E-ink sono più facili per gli occhi, il che li rende un'ottima scelta per la lettura o la visualizzazione per periodi più lunghi.Altri vantaggi sono il basso consumo energetico e la capacità di conservare l'immagine anche se l'alimentazione al display è terminata.Integrati nel CoreInk sono un pulsante multifunzione per il funzionamento, SHT30 sensore di temperatura e umidità, pulsanti fisici e una porta per schede TF (microSD) per l'archiviazione dei dati.Inoltre, il chip eeprom interno FM24C02 fornito 2K-bit (256x8)-EEPROM può essere utilizzato per memorizzare dati vitali anche quando il dispositivo è spento. Una batteria lipo da 1150 mAh mantiene il dispositivo in funzione per lunghi periodi e la durata della batteria può essere ulteriormente preservata utilizzando l'RTC (BM8563) per impostare il dispositivo in modalità di sospensione profonda e riattivarlo quando necessario, sono incluse tre porte di espansione HY2.0-4P che consentono di realizzare progetti complessi utilizzando i sensori esistenti nell'ecosistema M5Stack.Avvertimento: Non esporre a lungo ai raggi ultravioletti, altrimenti potrebbe causare danni irreversibili allo schermo E-ink. La soluzione di gestione dell'alimentazione a basso consumo adottata da M5Paper è diversa da quella dei dispositivi CORE e StickC. Quando è in uso, il pulsante PWR viene utilizzato come pulsante di accensione (premere a lungo per 2 secondi). Se è necessario spegnere il dispositivo, è necessario utilizzare l'API del software o premere il pulsante di ripristino sul retro, quando si utilizza l'alimentatore USB, non può essere spento.Caratteristiche:ESP32 Funzioni wireless standard WiFi 、 Bluetooth16M interno FlashBassa potenza DisplayMulti-Point touch screenAngolo di visione di 180 gradiMagnete incorporato1150 mAh interna BatteriaEspandibile - HY2.0-4P 3 x porte di espansione esterneApplicazioni:Terminale IoTE-BookPannello di controllo industrialePannello Smart HomeIl pacchetto include:1x M5Paper v1.1Documento:Caricatore facileMappa PinM5Paper-HY2.0 4P PortPin mappabili ADC / DAC ESP32Collegamento correlatoEsempioSchematicovideo
+
+
+
+

@@ -1,0 +1,187 @@
+1203369
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/BE/58/a15c7396-6ce2-4fe3-9bb6-22f7d93f781a.jpg
+Geekcreit® DC 6-40V To 1.2-36V 300W 20A Constant Current Adjustable Buck Converter Step Down Module Board
+https://www.banggood.com/Geekcreit-DC-6-40V-To-1_2-36V-300W-20A-Constant-Current-Adjustable-Buck-Converter-Step-Down-Module-Board-p-1203369.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifications:
+
+	Color: Silver
+	Material: Metal
+	Size: Approx. 60 x 52 x 27mm / 2.36 x 2.05 x 1.06''
+	Input Voltage: DC 6-40V (10V to 40V is suggested)
+	Output Voltage: DC 1.2-36V
+	Output Current: 20A(max.), 15A (suggested)
+	Efficiency: 97% (24V to 12V, 20A)
+	Output Ripple: ≤50mV
+	Wiring Method: Terminal
+	Short Circuit Protection: Self-recovery (cannot short circuit for a long time)
+	VO+: Output positive
+	VO-: Output negative
+	+IN: Input positive
+	-IN: Input negative
+	CV: Output voltage adjustment
+	CC: Output current adjustment
+	EN: Enable, low voltage level shut off output; suspension, high voltage level is effective
+	When input and output is common grounded, no-load CV output constant voltage, CC output constant current
+	Working Tempreture: -10°C-75°C
+
+Features:
+
+	With a wide input voltage range from 6V to 40V, the step-down converter can accurately adjust output voltage and current
+	The efficiency can be up to 96%, measured at 20A, converting 24V to 12V
+	Designed with 75V/80A large current dual MOS tube
+	The buck module has 2 heat sink that could enhance heat dissipation
+	Wiring is convenient with these large current 30A screw terminals
+	Input and output use high frequency low resistance electrolytic capacitor, low ripple, stable output
+	Stable and reliable
+	Fine workmanship and durable
+
+Package included:
+
+	1 x 300W 20A adjustable step-down converter module
+
+
+
+	 
+
+
+,,,
+
+
+

@@ -1,0 +1,224 @@
+https://it.banggood.com/NanoVNA-H4-4-inch-LCD-50KHz~1_5GHz-VNA-HF-VHF-UHF-UV-Vector-Network-Analyzer-p-1641897.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+NanoVNA-H4 4" LCD 50KHz~1.5GHz VNA HF VHF UHF UV Analizzatore di rete vettoriale
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristiche:
+
+
+- Con il metodo di oscuramento DC, lo schermo LCD a piena vista da 4 "può essere visto più chiaramente per gli usi esterni e più comodo per gli usi interni.
+
+- Ponte elettrico ottimizzato: sfruttando appieno le armoniche di Si5351, può utilizzare l'armonica 5th per misurare fino a 1,5 GHz.
+
+- Quando viene utilizzata l'onda fondamentale, il livello di uscita di CH0 viene aumentato a 0dBm, rendendo la misurazione della riflessione più accurata.
+
+- Risolto l'anomalia di NanoVNA-H quando operava a circa 6MHz prima.
+
+- Il circuito di gestione dell'alimentazione riprogettato riduce il rumore di alimentazione, le interferenze di alimentazione USB e la corrente di carica.
+
+- Layout PCB migliorato.
+
+- Interfaccia UART riservata per espansione fai da te.
+
+- Il guscio leggero ABS mantiene il dispositivo ben protetto.
+
+-Il software del computer supporta il controllo e la visualizzazione in tempo reale. E supporta l'esportazione di file snp per vari software di progettazione e simulazione radio.
+
+- Come dispositivo di misurazione, la precisione è di grande importanza. Le parti di calibrazione semplici sono incluse nella confezione. Abbiamo calibrato le doppie porte del prodotto prima della consegna. Quando le condizioni di misurazione cambiano (ad esempio, passando da una larghezza di banda di calibrazione più stretta a una larghezza di banda di misurazione più ampia con una misurazione con cavo di prolunga), è necessario ricalibrare. Dopo la calibrazione, viene salvato come impostazione 0, che può essere utilizzata direttamente all'avvio successivo, oppure può essere salvata sugli altri 4 elementi salvati tramite richiamo quando necessario.
+
+
+
+Parametri:
+
+
+1. ABS Guscio: 75 mm x 133 mm x 18 mm (escluse le sporgenze)
+
+2. Frequenza di misurazione: 50 KHz ~ 1,5 GHz
+
+3. Uscita RF: 0dbm (±2dB, onda fondamentale)
+
+4. Precisione di frequenza: <2 ppm
+
+5. Stabilità di frequenza: <0,5 ppm
+
+6. Intervallo di misurazione: 70 dB (50 kHz-300 MHz), (60 dB (300 M-900 MHz), 40 dB (0,9 G-1,5 GHz) consentono l'espansione del firmware)
+
+(Nota: prestare attenzione all'errore causato da trasformazioni non lineariisull'onda fondamentale quando si utilizza la misurazione armonica.)
+
+7. Porta SWR: <1.1
+
+8. Display: 4" TFT (320 x 480)
+
+9. Interfaccia USB: USB di tipo C; Modalità di comunicazione: CDC (seriale)
+
+10. Alimentazione: USB 5V 200 mA. Corrente di carica massima 1A
+
+11. Numero di punti di calibrazione: 101 (fisso)
+
+12. Numero di punti di scansione: 101 (fisso)
+
+13. Display Tracciamento: 4, Marcatura: 4, Salva impostazione: 5
+
+14. Misura dei parametri S, rapporto delle onde stazionarie di tensione, fase, ritardo, diagramma di Smith, analisi nel dominio del tempo, ecc.
+
+
+
+Pacchetto lIncluso:
+
+
+1 x NanoVNA-H4  
+
+2 x 15 cm SMA Cavi RF maschio-maschio RG316
+
+1 x SMA da femmina a femmina Connettore
+
+1 x SMA Kit di calibrazione semplice CORTO
+
+1 x SMA Kit di calibrazione semplice APERTO
+
+1 x SMA Kit di calibrazione semplice LOAD
+
+1 x cavo dati USB Type-C
+
+1 x Type-C a Type-C (per connessione cellulare Android)
+
+Dettagli Immagini:
+
+
+
+
+

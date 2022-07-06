@@ -1,0 +1,213 @@
+68537
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/C5/DD/a1fe08c1-ace6-4c15-b13f-32847eced7bf.JPG
+Geekcreit™ Arduino-Compatible R3 UNO ATmega16U2 AVR USB Scheda
+https://it.banggood.com/Wholesale-Geekcreit-UNO-R3-ATmega16U2-AVR-USB-Development-Main-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-68537.html?cur_warehouse=HK&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geekcreit™ Arduino-Compatible R3 UNO ATmega16U2 AVR USB Scheda
+
+                                         Output Voltage: DC5V / 3.3V / USB
+                                                         Atmega328P
+                                                         ATmega16U2
+                                                 Versione con cavo USB
+Descrizione:
+
+UNO R3 scheda è 100% compatibile con Arduino originale, adesso perfetta qualità e prestazioni.
+Arduino è una piattaforma open-source basata su una semplice scheda I / O e un ambiente di sviluppo che implementa il linguaggio di lavorazione/cablaggio.. Arduino può essere usato per sviluppare oggetti interattivi autonomi o può essere collegato al software sul computer (ad esempio Flash, Processing, MaxMSP). L'open-source può essere scaricato gratuitamente (per Mac OS X, Windows e Linux).
+Questo è il nuovo Tosduino Uno R3. Oltre a tutte le caratteristiche della precedente scheda, l'Uno R3 ora utilizza un ATmega16U2 al posto del chip ATmega8U2. Questo permette una velocità di trasferimento maggiore, senza necessità di driver per Linux o Mac (è necessario il file inf per Windows), e la possibilità di avere la Uno presentarsi come una tastiera, mouse, joystick, ecc
+
+Note:.
+
+Il TOSduino ONU R3 richiede I drivere di Arduino 1.0 per poter installare correttamente su alcuni computer. Abbiamo testato e confermato che la R3 può essere programmato in versioni precedenti del IDE. Tuttavia, la prima volta con l'R3 su un nuovo computer, sarà necessario avere Arduino 1.0 installato sul computer.
+Il piccolo chip è ATmega16U2, DIP chip con presa a 28 pin è ATmega328-pu.
+
+Descrizione Prestazione::
+
+Digital I /O digital input / output terminal: da 0 a 13.
+Analogico I / O Analogico inputs / outputs: da 0 a 5.
+Funzione Downlod Supporto ISP.
+Input voltaggio: Nessuna alimentazione esterna quando è collegato via USB al computer, alimentatore esterno tensione di ingress 5V – 8 v DC
+Output voltaggio: 5V / 3.3V DC.
+Utilizza controllore microprocessore Atmel Atmega328.
+
+
+
+
+Interazione:
+
+2013-08-08
+Domanda di Cathal Keady:
+l’articolo SKU066313 può essere alimentato utilizzando direttamente la porta USB o bisogna acquistare un alimentare?
+Risposta:
+Questo articolo non è dotato di batteria. Quindi non può essere caricato. Con un cavo USB può connettersi al computer ed è possibile utilizzarlo. Non c’è bisogno di un alimentatore
+
+
+
+La confezione include:
+
+1 x UNO R3
+1 x Cavo USB
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

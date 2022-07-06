@@ -1,0 +1,231 @@
+1422512
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/B3/AB/f11bc5c1-4bc2-467e-892b-75149851ca4a.jpeg
+Controlador de carga de generador de viento de 12 V/24 V 300 W/600 W Impermeable controlador híbrido de viento y luz 
+https://es.banggood.com/12V-or-24V-Wind-Generator-Charge-Controller-300W-or-600W-Waterproof-Wind-And-Light-Hybrid-Controller--p-1422512.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificación:
+
+
+Nombre: 12V/24V 300W/600W Impermeable Controlador de carga de generador de viento
+
+Modelo:B26386 
+
+Material: aleación de aluminio
+
+Aplicación: controlador fotovoltaico de energía eólica
+
+De color negro
+
+Modelo del producto: SF-12-24-A
+
+Voltaje nominal de la batería: DC12/24V
+
+Potencia nominal de la turbina eólica: 300W/600W
+
+Voltaje de bloqueo de la turbina eólica: 15V/30V
+
+Voltaje de recuperación de deslizamiento (valor establecido de fábrica): 13,5 V/27 V
+
+Rango de temperatura y humedad de trabajo: -35~+75℃ 
+
+La corriente estática: ≤20 mA                                                                                                                                       
+
+Tamaño: aprox. 76 mm × 102 mm × 23 mm
+
+Nivel de Protección: IP67
+
+
+Nota:
+
+
+ 1. El voltaje de salida del generador eólico y el voltaje nominal de la batería son los mismos.
+
+ 2. De acuerdo con el siguiente procedimiento de conexión, primero conecte la batería dos polares, Yin y Yang, segundo, la conexión de las turbinas eólicas de voltaje trifásico.
+
+ 3. Por favor, en estricta conformidad con los requisitos, las baterías y las turbinas eólicas estarán conectadas correctamente en el controlador, conecte la polaridad inversa o el comportamiento incorrecto hará que el funcionamiento del sistema no sea normal, incluso que el controlador esté completamente dañado.
+
+
+
+
+Características: 
+
+
+- El controlador de carga de batería automático puede controlar el generador de viento. La batería está llena, a través del circuito de control automático interno, el frenado, cuando el voltaje de la batería cae al voltaje de recuperación, la turbina eólica funciona, para proteger el ventilador y la batería.
+
+- Protección impermeable integral. Este tipo de controlador adopta un diseño de sello completo completamente impermeable, el grado de protección alcanza el IP67 anterior, incluso en el agua puede usarse normalmente durante mucho tiempo, mejorar la confiabilidad.
+
+
+
+Rendimiento: 
+
+
+- Confiabilidad: Diseño modular inteligente, estructura simple, funciones potentes; Componentes de alta calidad de grado industrial y técnicas de fabricación estrictas, lo que es adecuado para entornos de trabajo relativamente duros, como baja temperatura. También tiene un rendimiento fiable y una larga vida útil.
+
+
+
+Método de conexión:
+
+
+1. Baterías tiene Yin y Yang, el controlador también tiene Yin y Yang, los dos componentes eléctricos con cables conectados entre sí, el rojo es el ánodo, el negro es el cátodo
+
+2. El voltaje de CA trifásico de salida de la turbina eólica, el terminal de entrada trifásico del controlador (línea verde), se pueden conectar juntos.
+
+
+
+El paquete incluye:
+
+
+Controlador híbrido de viento y luz 1X 
+
+ 1 manual de instrucciones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

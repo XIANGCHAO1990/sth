@@ -1,0 +1,186 @@
+1140506
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/8B/FD/19e4b5bf-b35a-476c-af5d-e0c96ff111da.jpg
+0.91 Pollici 128x32 IIC I2C Blu OLED Display LCD Fai da Te Oled Modulo SSD1306 Driver IC DC 3.3V 5V
+https://it.banggood.com/Geekcreit-0_91-Inch-128x32-IIC-I2C-Blue-OLED-LCD-Display-DIY-Module-SSD1306-Driver-IC-DC-3_3V-5V-p-1140506.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifiche:
+
+1.Display OLED, non c'è bisogno di retroilluminazione, auto-illuminazione,
+2.La Prestazioni di visualizzazione è migliore rispetto al display LCD tradizionale, consumi minori.
+3.Driver IC: SSD1306
+4.Dimensione: 0.91 pollici OLED
+5.Resoluzione: 128 x 32
+6.IIC interfaccia
+7.Colore del display: bianco
+8.Descrizione Pin:
+GND: Terra potenza
+VCC: Alimentazione + (DC 3.3 ~ 5v)
+SCL: Orologio Linea
+SDA: Data Linea
+
+La confezione include:
+
+1 x IIC I2C OLED blu modulo display LCD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

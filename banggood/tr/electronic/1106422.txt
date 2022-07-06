@@ -1,0 +1,165 @@
+https://tr.banggood.com/ESP8266-ESP-01S-Remote-Serial-Port-WIFI-Transceiver-Wireless-Module-p-1106422.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+ESP8266 ESP-01S Uzakdan Kumanda Seri Bağlantı Noktası WIFI Telsiz Alıcısı Kablosuz Modülü
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Açıklama:
+
+1MB (8Mbit) Flash boyutu.
+AP, STA, AP + STA modları mevcuttur.
+Çok basit AT komutları, kullanımı kolay.
+Düşük güç tüketimi ve küçük
+Dahili LWIP arayüzü.
+Sadece dört pimli arayüz, VCC-3V3, GND, TXD ve RXD.
+AT bellenimi komuta eder. Yeni IC ESP8266ex
+Bu modülün ESP-01 PCB kartında küçük bir yükseltme olması
+
+Paket içeriği:
+
+1 x ESP-01S Kablosuz Modül
+
+
+
+
+
+
+
+
+
+
+
+
+

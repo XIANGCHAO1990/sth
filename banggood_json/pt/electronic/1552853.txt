@@ -1,0 +1,321 @@
+1552853
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/63/97/f85b7df3-54e7-4aee-b0fb-3203e8ad7fd0.jpg
+HackRF One 1 MHz-6 GHz Placa de desenvolvimento de plataforma de rádio definido por software RTL SDR Demoboard Kit receptor dongle rádio amador
+https://pt.banggood.com/HackRF-One-1MHz-6GHz-Radio-Platform-Development-Board-Software-Defined-RTL-SDR-Demoboard-Kit-Dongle-Receiver-Ham-Radio-p-1552853.html?cur_warehouse=CN&ID=6270001&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problema comum:
+
+
+
+Q. O computador não consegue encontrar a máquina. / USB não é reconhecido.
+
+R: Requer instalação de firmware. Se o firmware ainda não funcionar depois de instalar o firmware, você pode atualizar o firmware.
+
+Firmware: http://myosuploads3.banggood.com/products/20200116/20200116013405PortapackFirmwareTool.rar
+
+Outros arquivos: 
+
+https://greatscottgadgets.com/sdr/ 
+https://github.com/mossmann/hackrf/wiki
+
+Recurso:
+
+
+
+
+HackRF One é um periférico de rádio definido por software capaz de transmitir ou receber sinais de rádio de 1 MHz a 6 GHz. Projetado para permitir o teste e o desenvolvimento de tecnologias de rádio modernas e de próxima geração, o HackRF One é uma plataforma de hardware de código aberto que pode ser usada como um periférico USB ou programada para operação autônoma.
+
+
+
+Especificações:
+
+
+
+- Frequência de operação de 1 MHz a 6 GHz
+
+- Transceptor half-duplex
+
+- Até 20 milhões de amostras por segundo
+
+- Amostras de quadratura de 8 bits (8 bits I e 8 bits Q)
+
+- Compatível com GNU Radio, SDR # e mais
+
+- Ganho RX e TX configurável por software e filtro de banda base
+
+- Alimentação da porta da antena controlada por software (50 mA a 3,3 V)
+
+- SMA conector de antena fêmea
+
+- SMA entrada e saída de relógio fêmea para sincronização
+
+- Botões convenientes para programação
+
+- Cabeçalhos de pinos internos para expansão
+
+- USB 2.0 de alta velocidade
+
+- alimentado por USB
+
+- Hardware de código aberto
+
+
+Parâmetros:
+
+
+
+- Banda de frequência: 1MHz-6Ghz
+
+- Largura de banda de dados: 20 MHz
+
+- Precisão de amostragem (ADC / DAC): 8BIT
+
+- Velocidade de amostragem (ADC / DAC): 20 Mbps
+
+- Interface: USB 2.0
+
+- Código aberto
+
+- Potência máxima de transmissão: 10dbm
+
+- 64QAM transmitindo EVM: 1,5%
+
+- Largura de banda de amostragem complexa: 20Mhz
+
+
+
+Hardware:
+
+
+
+- Mixer RFFC5072: 80MHz-4200MHz
+
+- Transceptor de RF de largura de banda sem fio MAX2837: 2,3 Ghz-2,7 Ghz
+
+- Processador LPC4330: Frequência principal 204 MHz
+
+- Amplificador MGA-81563: 0,1-6 Ghz, 3 V, 14 dbm
+
+
+O pacote inclui: (opcional)
+
+
+
+XR-028: 
+
+
+1 x placa de desenvolvimento HackRF
+
+1 x cabo USB
+
+1 x UHF Antena (40 MHz-6 GHz)
+
+
+
+XR-029: 
+
+
+1 x placa HackRF One com Shell de Acrílico
+
+1 x UHF Antena (40 MHz-6 GHz)
+					1 x UHF / VHF Antena
+
+1 x cabo USB
+
+1 x relógio TCXO 0.1PPM
+
+
+
+
+XR-030: 
+
+
+1 x placa HackRF One com casca de alumínio
+
+1 x UHF Antena (40 MHz-6 GHz)
+					1 x UHF / VHF Antena
+
+1 x cabo USB
+
+1 x relógio TCXO 0.1PPM
+
+
+
+XR-031: 
+
+
+
+
+
+1 x placa HackRF One com casca de alumínio
+
+1 x cabo USB
+
+1 x relógio TCXO 0.1PPM
+
+
+1 x UHF Antena (40 MHz-6 GHz)
+	1 x UHF / VHF Antena
+
+1 x GSM / 3G / 4G 35DBI Antena 
+	1 x GSM / 2G / 3G / 4G / WIFI 700-960MHz e 1710-2700MHz 5DBI Antena 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,179 @@
+1105999
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/E0/89/6bd02b11-ab9d-4e76-9560-332555ce71d3.jpg
+3pcs CJMCU-1080 HDC1080 Temperatura e umidade de alta precisão Sensor Módulo CJMCU para Arduino - produtos que funcionam com placas Arduino oficiais
+https://pt.banggood.com/3pcs-CJMCU-1080-HDC1080-High-Precision-Temperature-And-Humidity-Sensor-Module-CJMCU-for-Arduino-products-that-work-with-official-Arduino-boards-p-1105999.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Descrição:
+O HDC1080 é um sensor de umidade digital com sensor de temperatura integrado que fornece excelente precisão de medição em potência muito baixa. O HDC1080 opera em uma ampla gama de suprimentos e é uma alternativa de baixo custo e baixo consumo de energia para uma solução competitiva em uma ampla gama de aplicações comuns. A umidade e o sensor de temperaturas são calibrados de fábrica.
+
+Recurso:
+Precisão de umidade relativa ± 2% (típico)
+Precisão de temperatura ± 0,2 ° C (típico)
+Excelente estabilidade em alta umidade
+Resolução de medição de 14 bits
+Corrente do modo de hibernação 100 nA
+Corrente de abastecimento média:
+                                          710 nA @ 1sps, Medição de RH de 11 bits
+                                          1,3 µA a 1 sps, UR de 11 bits e medição de temperatura
+Tensão de alimentação 2,7 V a 5,5 V
+Pegada pequena do dispositivo de 3 mm × 3 mm
+I2Interface C
+
+Formulários:
+
+HVAC
+Termostatos inteligentes e monitores de ambiente
+Linha Branca
+Impressoras
+Medidores portáteis
+Dispositivos médicos
+Wireless Sensor (TIDA: 00374, 00484, 00524)
+
+Incluído no Pacote:
+
+3 x Módulo de Temperatura e Umidade Sensor
+Diagrama
+ 
+
+
+
+
+
+
+

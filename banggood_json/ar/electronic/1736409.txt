@@ -1,0 +1,384 @@
+1736409
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/0C/45/ffa62d0d-c2cd-4bde-9ffb-962b1afa92b3.jpg
+M5Stack® Core2 ESP32 مع لمس شاشة Development Board Kit WiFi bluetooth Graphical Programming WiFi BLE IoT M5Stack for Arduino - المنتجات التي تعمل مع لوحات Arduino الرسمية
+https://ar.banggood.com/M5Stack-Core2-ESP32-with-Touch-Screen-Development-Board-Kit-WiFi-bluetooth-Graphical-Programming-WiFi-BLE-IoT-M5Stack-for-Arduino-products-that-work-with-official-Arduino-boards-p-1736409.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+التوافق
+للتأكد من أن هذا الجزء يناسب سيارتك ، يرجى إدخال تفاصيل سيارتك أدناه.
+
+
+
+
+
+عام:
+
+
+اختار
+
+
+
+
+
+
+
+
+إنتاج:
+
+
+اختار
+
+
+
+
+
+
+
+
+موديل:
+
+
+اختار
+
+
+
+
+
+
+
+
+موديل فرعي:
+
+
+اختار
+
+
+
+
+
+
+
+
+تقليم:
+
+
+اختار
+
+
+
+
+
+
+
+
+محرك:
+
+
+اختار
+
+
+
+
+
+
+
+
+مسح الكل
+
+
+
+
+هذا الجزء متوافق مع 0 مركبة.
+عرض جميع السيارات المتوافقة
+
+
+
+
+  هذا الجزء متوافق مع 1 مركبة مطابقة 
+ هذا الجزء غير متوافق مع
+
+
+
+عمليات البحث الأخيرة
+
+
+
+
+
+
+
+
+
+
+
+عام
+إنتاج
+موديل
+موديل فرعي
+تقليم
+محرك
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+وصف:M5Core2 هو الجيل الثاني من الأجهزة الأساسية في سلسلة أدوات التطوير M5Stack ، والتي تعزز وظائف الجيل الأصلي من النوى.MCU هو طراز ESP32 D0WDQ6-V3 ويحتوي على معالجات ثنائي الأساسية Xtensa® 32 بت 240 ميجا هرتز LX6 والتي يمكن التحكم فيها بشكل منفصل. يتم دعم WiFi و بلوتوث كـ معيار ويتضمن على اللوحة 16 ميجا بايت فلاش و 8 ميجا بايت PSRAM ، واجهة USB TYPE-C للشحن ، تنزيل البرامج والاتصال التسلسلي ، شاشة لمس سعوية متكاملة 2.0 بوصة ، ومحرك اهتزاز مدمج .يتميز M5Core2 أيضًا بوحدة RTC مدمجة يمكنها توفير توقيت دقيق. تتم إدارة مصدر الطاقة بواسطة شريحة AXP192 power إدارة ، والتي يمكنها التحكم بفعالية في الطاقة استهلاك للقاعدة ويساعد مؤشر الطاقة الأخضر المدمج قاد على إعلام المستخدم بمستوى البطارية. تمت ترقية سعة البطارية إلى 390 مللي أمبير في الساعة ، والتي يمكنها تشغيل النواة لفترة أطول بكثير من الطراز السابق.يحتفظ M5Core2 ببطاقة SD فتحة ومكبرات الصوت. ومع ذلك ، من أجل ضمان إخراج صوت عالي الجودة ، يتم استخدام شريحة مكبر طاقة واجهة الصوت الرقمية I2S لمنع تشويه الإشارة بشكل فعال. توجد أزرار طاقة وإعادة تعيين مستقلة على الجانب الأيسر وأسفل القاعدة.The 3 icons on the front of the screen are capacitive buttons which are programmable. There is a small expansion board on the back of the base with a 6 محاور IMU sensor and microphone. The development platform and programming language supported by M5Stack Core2: اردوينو, UIFlow (باستخدام لغة Blockly و ميكروبايثون) بغض النظر عن مستوى مهاراتك في التطوير والبرمجة ، سيساعدك M5Stack على تحويل أفكارك تدريجيًا إلى واقع.السلطة / قبالة:التشغيل: انقر فوق الطاقة زرإيقاف التشغيل: مضغط القوة زر لـ 6sإعادة التشغيل: انقر فوق RST زر في الأسفلسمات:واي فاي مدمج قائم على ESP3216 ميجا فلاش 8 ميجا PSRAMمكبر صوت مدمج ، مؤشر طاقة ، محرك اهتزاز ، RTC ، مضخم I2S ، شاشة تعمل باللمس بالسعة ، زر الطاقة ، زر إعادة الضبطTF بطاقة فتحة (حجم أقصى 16 جرام)بطارية ليثيوم مدمجة ، مزودة بشريحة طاقة إدارةلوحة صغيرة مستقلة مدمجة ذات 6 محاور IMU ، ميكروفون PDMمقبس ودبابيس M-BusProgram Platform: UIFlow, ميكروبايثون, اردوينوالحزمة تشمل:1x M5Stack كور 21 × Type-C USB (20 سم)التطبيقاتمحطة إنترنت الأشياء مراقبمنتج تعليم الجذعيةإنشاء DIYمعدات المنزل الذكيتخصيص:
+
+
+
+مواردمعامل
+
+
+ESP32-D0WD-V3240 ميجا هرتز ثنائي كور ، 600 DMIPS ، 520 كيلو بايت SRAM ، واي فاي ، ثنائي الوضع بلوتوث
+
+
+فلاش16MB
+
+
+PSRAM8MB
+
+
+مساهمة الجهد5V @ 500mA
+
+
+واجهه المستخدمTypeC x 1، GROVE (I2C + I / 0 + UART) x 1
+
+
+IPS LCD شاشة2.0 "@ 320 * 240 ILI9342C
+
+
+المس شاشةFT6336U
+
+
+مكبر الصوت1W-0928
+
+
+قادضوء مؤشر الطاقة الخضراء
+
+
+زرزر الطاقة ، زر RST ، زر الشاشة الافتراضية * 3
+
+
+تذكير بالاهتزازمحرك الاهتزاز
+
+
+ميكروفونSPM1423
+
+
+مكبر للصوت I2S القوةNS4168
+
+
+6 محاور IMUMPU6886
+
+
+RTCBM8563
+
+
+جامعة الأمير محمد بن فهدAXP192
+
+
+رقاقة USBCP2104
+
+
+تعزيز العاصمة-العاصمةSY7088
+
+
+بطاقة TF فتحة16 جرام ماكس.
+
+
+الليثيوم البطارية390 مللي أمبير @ 3.7 فولت
+
+
+هوائي2.4G هوائي 3D
+
+
+درجة حرارة التشغيل32 درجة فهرنهايت إلى 104 درجة فهرنهايت (0 درجة مئوية إلى 40 درجة مئوية)
+
+
+الصافي وزن52g
+
+
+الإجمالي وزن70g
+
+
+حجم المنتج54 x 54 x 16mm
+
+
+حجم العبوة75 x 60 x 20mm
+
+
+القضية موادبلاستيك (الكمبيوتر)
+
+EasyLoader:EasyLoader is a concise and fast program writer, which has a built-if program related to the product. It can be burned to the main control by simple steps to perform a series of function verification. Please install the corresponding driver according to the device type. M5Core host الرجاء النقر هنا لعرض البرنامج التعليمي لتثبيت برنامج تشغيل CP210X، يمكن استخدام سلسلة M5StickC / V / T / ATOM بدون سائق)خريطة PinMap:بطاقة TF و LCDLCD ： 320 × 240 بطاقة TF الحجم الأقصى 16GB
+
+
+
+
+
+
+
+
+
+
+رقاقة ESP32GPIO38GPIO23GPIO18GPIO5GPIO15
+
+
+رقاقة AXP192AXP_IO4AXP_العاصمة3AXP_LDO2
+
+
+ILI9342Cميسوموس 1SCKCSالعاصمةRSTBLPWR
+
+
+
+
+
+
+
+
+رقاقة ESP32GPIO38GPIO23GPIO18GPIO4
+
+
+TF بطاقةميسوموس 1SCKCS
+
+كاب تاتش:
+
+
+
+
+
+
+شريحة ESP32GPIO21GPIO22GPIO39
+
+
+AXP192AXP_IO4
+
+
+FT6336USDASCLذكاءRST
+
+ميكروفون و NS4168:
+
+
+
+
+
+
+
+رقاقة ESP32GPIO12GPIO0GPIO2AXP_IO2GPIO34
+
+
+NS4168BCLKLRCKبياناتSPK_EN
+
+
+ميكروفونCLKبيانات
+
+ضوء AXP القوة مؤشر:
+
+
+
+
+AXP192AXP_IO1AXP_LDO3
+
+
+أخضر قادVcc
+
+
+محرك الاهتزازVcc
+
+RTC:
+
+
+
+
+
+رقاقة ESP32GPIO21GPIO22
+
+
+AXP192AXP_PWR
+
+
+BM8563SDASCLذكاء
+
+IMU (جيروسكوب ثلاثي المحاور ومقياس تسارع ثلاثي المحاور):
+
+
+
+
+رقاقة ESP32GPIO21GPIO22
+
+
+MPU6886SDASCL
+
+USB إلى شريحة تسلسلية:
+
+
+
+
+رقاقة ESP32GPIO1GPIO3
+
+
+CP2104RXDTXD
+
+اتصال داخلي I2C:
+
+
+
+
+رقاقة ESP32GPIO21GPIO22
+
+
+MPU6886SDASCL
+
+
+AXP192SDASCL
+
+
+BM8563SDASCL
+
+
+FT6336USDASCL
+
+شرح M5ميناء:
+
+
+
+
+ميناءدبوسملحوظة:
+
+
+ميناء-A (أحمر)G32 / 33I2C
+
+ESP32 Aالعاصمة / DAC:
+
+
+
+
+
+Aالعاصمة1Aالعاصمة2DAC1DAC2
+
+
+8 قنوات10 قنوات2 قنوات2 قنوات
+
+
+G32-39G0 / 2/4 / 12-15 / 25-27G25G26
+
+For more information about Pin assignment and Pin Remapping, Please refer to ورقة بيانات ESP32ارتباط ذو صلةESP32FT6336UNS4168MPU6886ILI9342CSPM1423BM8563SY7088AXP192تخطيطي: انقر هنا للفتحمثال على Arduin IDEانقر هنا للحصول على كود اردوين
+
+
+
+

@@ -1,0 +1,319 @@
+https://tr.banggood.com/HackRF-One-1MHz-6GHz-Radio-Platform-Development-Board-Software-Defined-RTL-SDR-Demoboard-Kit-Dongle-Receiver-Ham-Radio-p-1552853.html?cur_warehouse=CN&ID=6270001&rmmds=CategoryElectronicsPop
+HackRF One 1MHz-6GHz Radyo Platform Geliştirme Kartı Yazılım Tanımlı RTL SDR Demoboard Kit Dongle Alıcı Ham Radyo
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ortak sorun:
+
+
+
+S. Bilgisayar makineyi bulamıyor. / USB tanınmadı.
+
+C: Ürün yazılımı kurulumu gerektirir. Bellenimi yükledikten sonra bellenim hala çalışmıyorsa, bellenimi yeniden yükleyebilirsiniz.
+
+Bellenim: http://myosuploads3.banggood.com/products/20200116/20200116013405PortapackFirmwareTool.rar
+
+Diğer dosyalar: 
+
+https://greatscottgadgets.com/sdr/ 
+https://github.com/mossmann/hackrf/wiki
+
+Özellik:
+
+
+
+
+HackRF One, 1 MHz'den 6 GHz'e kadar radyo sinyallerini iletebilen veya alabilen bir Yazılım Tanımlı Radyo çevre birimidir. Modern ve yeni nesil radyo teknolojilerinin test edilmesini ve geliştirilmesini sağlamak için tasarlanan HackRF One, USB çevre birimi olarak kullanılabilen veya bağımsız çalışma için programlanabilen açık kaynaklı bir donanım platformudur.
+
+
+
+Özellikler:
+
+
+
+- 1MHz ila 6 GHz çalışma frekansı
+
+- Yarım çift yönlü alıcı-verici
+
+- Saniyede 20 milyon örneğe kadar
+
+- 8 bit kareleme örnekleri (8 bit I ve 8 bit Q)
+
+- GNU Radyo, SDR# ve daha fazlasıyla uyumlu
+
+- Yazılımla yapılandırılabilen RX ve TX kazancı ve temel bant filtresi
+
+- Yazılım kontrollü anten bağlantı noktası gücü (3,3 V'ta 50 mA)
+
+- SMA dişi anten konektörü
+
+- SMA dişi saat girişi ve senkronizasyon için çıkış
+
+- Programlama için uygun düğmeler
+
+- Genişletme için dahili pin başlıkları
+
+- Yüksek Hızlı USB 2.0
+
+- USB ile çalışır
+
+- Açık kaynaklı donanım
+
+
+parametreler:
+
+
+
+- Frekans bandı: 1MHz-6Ghz
+
+- Veri bant genişliği: 20MHz
+
+- Örnekleme doğruluğu (ADC/DAC): 8BIT
+
+- Örnekleme hızı (ADC/DAC): 20Mbps
+
+- Arayüz: USB2.0
+
+- Açık kaynak
+
+- Maksimum iletim gücü: 10dbm
+
+- 64QAM ileten EVM: %1,5
+
+- Karmaşık örnekleme bant genişliği: 20Mhz
+
+
+
+Donanım:
+
+
+
+- Mikser RFFC5072: 80MHz-4200MHz
+
+- Kablosuz bant genişliği RF alıcı-verici MAX2837: 2.3Ghz-2.7Ghz
+
+- İşlemci LPC4330: Ana frekans 204MHz
+
+- Amplifikatör MGA-81563: 0.1-6Ghz, 3V, 14dbm
+
+
+Paket içeriği: (Opsiyonel)
+
+
+
+XR-028: 
+
+
+1 x HackRF Geliştirme Kurulu
+
+1 x USB Kablosu
+
+1 x UHF Anten (40Mhz-6GHz)
+
+
+
+XR-029: 
+
+
+Akrilik Kabuklu 1 x HackRF One kurulu
+
+1 x UHF Anten (40Mhz-6GHz)
+					1 x UHF/VHF Anten
+
+1 x USB Kablosu
+
+1 x TCXO saat 0.1PPM
+
+
+
+
+XR-030: 
+
+
+Alüminyum Kabuk ile 1 x HackRF One kurulu
+
+1 x UHF Anten (40Mhz-6GHz)
+					1 x UHF/VHF Anten
+
+1 x USB Kablosu
+
+1 x TCXO saat 0.1PPM
+
+
+
+XR-031: 
+
+
+
+
+
+Alüminyum Kabuk ile 1 x HackRF One kurulu
+
+1 x USB Kablosu
+
+1 x TCXO saat 0.1PPM
+
+
+1 x UHF Anten (40Mhz-6GHz)
+	1 x UHF/VHF Anten
+
+1 x GSM/3G/4G 35DBI Anten 
+	1 x GSM/2G/3G/4G/WIFI 700-960MHz&1710-2700MHz 5DBI Anten 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

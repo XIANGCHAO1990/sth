@@ -1,0 +1,143 @@
+https://pt.banggood.com/ESP32-CAM-MB-WiFi-MICRO-USB-ESP32-Serial-to-WiFi-ESP32-CAM-Development-Board-CH340G-5V-Bluetooth+OV2640-Camera+2_4G-Antenna-IPX-p-1847153.html?cur_warehouse=CN&ID=6309622&rmmds=CategoryElectronicsPop
+ESP32-CAM-MB-WiFi MICRO USB ESP32 Serial to WiFi ESP32 CAM Development Board CH340G 5V Bluetooth+OV2640 Camera+2.4G Antenna IPX
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manual: Clique aqui para abrir<<<Observação: Este produto tem antena embutida, se você precisar usar antena externa, você deve resoldar a resistência com ferro de solda por conta própria.Etapa 1: para soldar essas duas peças na caixa azulEtapa 2: para fundir as duas posições selecionadas pelas caixas verdes na imagemEtapa 3: soldar um resistorOs resultados são os seguintesAntena WIFI 2.4G:Conector SMA 2.4GHz 2dBi Wireless WLAN Antena AntenaGanho: 2dbiConector: Conector RP SMA Macho (pino fêmea)Cor pretaComprimento da antena: 11cmIntrodução ao ESP32-CAM-MB:O módulo HK-ESP32-CAM-MB é um pequeno módulo de câmera com um tamanho de 39,8 * 27. Este módulo pode funcionar independentemente como o menor sistema. Uma nova placa de desenvolvimento de modo duplo WiFi + Bluetooth baseada no design ESP32, usando antena PCB on-board, com 2 LX6CPU de 32 bits de alto desempenho, usando arquitetura de pipeline de 7 níveis, faixa de ajuste de frequência principal de 80 MHz a 240 MHz. Consumo de energia ultrabaixo, a corrente de sono profundo é tão baixa quanto 6mA. É um módulo ultrapequeno 802.11b / g / n Wi-Fi + BT / BLE SoC.HK-ESP32-CAM-MB adota interface Micro USB, método de conexão conveniente e confiável, conveniente para aplicar em várias ocasiões de terminal de hardware IoT.Parâmetro:Use CPU dual-core de 32 bits de baixo consumo de energia, que pode ser usada como processador de aplicativo.A frequência principal é de até 240 MHz e o poder de computação é de até 600 DMIPSSRAM de 520 KB integrado, PSRAM externo de 8 MBSuporte UART / SPI / I2C/PWM / ADC / DAC e outras interfacesSuporta câmeras OV2640 e OV7670, flash embutidoSuporte para upload de imagem por WiFISuporte para cartão TFSuporta vários modos de suspensão.Lwip e FreeRTOS incorporadosSuporta modo de trabalho STA/AP/STA+APSuporta configuração de rede com um clique Smart Config / AirKissApoiar o desenvolvimento secundárioCenário de aplicação:Transmissão de imagem de dispositivo inteligente domésticoMonitoramento sem fioAgricultura inteligenteReconhecimento sem fio QRSinal do sistema de posicionamento sem fioE outros aplicativos IoTEspecificações:Tensão de trabalho 4,75-5,25VSPIFlash padrão de 32 MbitsRAM interna de 520 KB + PSRAM externa de 8 MBWi-Fi 802.11b / g / n / e / iBluetooth Bluetooth 4.2BR / EDR e padrão BLEInterface de suporte (2 Mbps) UART, SPI, I2C, PWMSuporte cartão TF, suporte máximo 4GPorta IO 9Taxa de porta serial padrão 115200bpsFaixa de espectro 2400 ~ 2483,5 MHzAntena forma da antena PCB integrada, ganho 2dBiFormato de saída da imagem: JPEG (apenas com suporte para OV2640), BMP, GRAYSCALEMétodo de embalagem DIP-16Potência de transmissão 802.11b: 17 ± 2dBm (@ 11Mbps)802.11g: 14 ± 2dBm (@ 54Mbps)802.11n: 13 ± 2dBm (@ MCS7)Sensibilidade de recepção CCK, 1Mbps: -90dBmCCK, 11Mbps: -85dBm6 Mbps (1 / 2BPSK): -88dBm54Mbps (3/464-QAM): -70dBmMCS7 (65Mbps, 72,2Mbps): -67dBmConsumo de energia Desligue o flash: 180mA @ 5VLigue o flash e ajuste o brilho para o máximo: 310mA @ 5VSono profundo: O menor consumo de energia pode atingir 6mA @ 5VSono moderado: o mais baixo pode atingir 20mA @ 5VSono leve: o mais baixo pode atingir 6,7mA@5VSegurança WPA / WPA2 / WPA2-Enterprise / WPSTemperatura de trabalho -20 ℃ ~ 70 ℃Ambiente de armazenamento -40 ℃ ~ 125 ℃, <90% RHPeso 10gO pacote inclui:(opcional)Tipo 1:1 x ESP32-CAM-MB WIFI1 x placa de desenvolvimento ESP32-CAMTipo 2:1 x ESP32-CAM-MB WIFI1 x placa de desenvolvimento ESP32-CAM1 x 2.4G Antena IPX
+
+
+
+

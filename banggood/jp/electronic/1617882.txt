@@ -1,0 +1,386 @@
+https://jp.banggood.com/H96-Max-X3-Amlogic-S905X3-4GB-RAM-32GB-ROM-5G-WIFI-bluetooth-4_0-1000M-LAN-Android-Android-9_0-4K-8K-VP9-H_265-TV-Box-p-1617882.html?cur_warehouse=CN&ID=533601&rmmds=CategoryElectronicsPop
+H96 Max X3 Amlogic S905X3 4GB RAM 32GB ROM 5G WIFI bluetooth 4.0 1000M LAN Android Android 9.0 4K 8K VP9H.265TVボックス
+
+
+
+
+
+
+
+互換性
+このパーツがあなたの車両に合っていることを確認し、車両の詳細を下に記入してください。
+
+
+
+
+
+年:
+
+
+選択
+
+
+
+
+
+
+
+
+メイク:
+
+
+選択
+
+
+
+
+
+
+
+
+モデル:
+
+
+選択
+
+
+
+
+
+
+
+
+サブモデル:
+
+
+選択
+
+
+
+
+
+
+
+
+トリム:
+
+
+選択
+
+
+
+
+
+
+
+
+エンジン:
+
+
+選択
+
+
+
+
+
+
+
+
+全てをクリア
+
+
+
+
+に適用します。 0 車両.
+すべての互換車両を表示する
+
+
+
+
+  に適用します。 1 車両 マッチング 
+ この部分は互換性がありません
+
+
+
+最近の検索
+
+
+
+
+
+
+
+
+
+
+
+年
+メイク
+モデル
+サブモデル
+トリム
+エンジン
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+仕様：
+
+
+
+
+
+
+
+
+
+ハードウェア
+
+
+
+CPU
+
+AmlogicS905X364ビットクアッドコアARM®Cortex™A55CPU
+
+
+
+GPU
+
+G31™MP2GPUプロセッサ
+
+
+
+メモリー
+
+DDR3 4GB
+
+
+
+閃光
+
+eMMC 32GB
+
+
+
+Wi-Fi
+
+IEEE 802.11 a / b / g / n; 2.4G / 5G            
+
+
+
+ブルートゥース
+
+ BT; （音声リモコンをサポート）
+
+
+
+ムードル
+
+プラスチック;黒色
+
+
+
+I / O
+
+1 x HD HD 2.1、サポートHD CEC、ダイナミックHDR、および8Kx4K@24最大解像度出力
+
+
+
+1 x AV OUT 480i/576i標準画質出力
+
+
+
+1 x USB 3.0
+				1 x USB 2.0
+
+
+
+1 x IR Reciver Remote Reciver Connect
+
+
+
+1 x SPDIF
+
+
+
+1xRJ45イーサネットインターフェイス;10/ 100M/1000Mをサポート
+
+
+
+1 xTFCARDサポート4GB/8GB / 16GB/32GB/64GB
+
+
+
+力
+
+DC 5V / 2A
+
+
+
+ソフトウェア
+
+
+
+OS
+
+Android 9.0
+
+
+
+ビデオ
+
+専用のハードウェアデコーダーとエンコーダーを備えたAmlogicビデオEngine（AVE）
+				最大4x1080P@60fpsのマルチビデオデコーダーをサポート
+				複数の「安全な」ビデオデコードセッションと同時のデコードとエンコードをサポートします
+				ビデオ/画像のデコード
+				VP9プロファイル-2最大8Kx4K@24 fps
+				H.265 HEVC MP-10@L5.1最大8Kx4K@24 fps
+				最大8Kx4K@24fpsのAVS2-P2プロファイル
+				H.264 AVC HP@L5.1最大4Kx2K@30fps
+				MPEG-4 ASP@L5最大1080P@60fps（ISO-14496）
+				WMV / VC-1 SP / MP/AP最大1080P@60fps
+				AVS-P16（AVS +）/AVS-P2JiZhunプロファイル最大1080P@60fps
+				MPEG-2 MP/HL最大1080P@60fps（ISO-13818）
+				MPEG-1 MP/HL最大1080P@60fps（ISO-11172）
+				Realビデオ8/9/10最大1080P@60fps
+				複数の言語と複数の形式のサブタイトルビデオのサポート
+				MJPEGおよびJPEG無制限のピクセル解像度のデコード（ISO / IEC-10918）
+				JPEGサムネイル、スケーリング、回転、遷移効果をサポートします
+				* .mkv、*。wmv、*。mpg、*。mpeg、*。dat、*。avi、*。mov、*。iso、*。mp4、*。rm、*。jpgファイル形式をサポート
+
+
+
+オーディオ
+
+MP3、AAC、WMA、RM、FLAC、Oggをサポートし、7.1/5.1ダウンミキシングでプログラム可能
+				低電力VAD
+				内蔵シリアルデジタルオーディオSPDIF/IEC958入力/出力およびPCM入力/出力
+				最大384kHzx32ビットx16chまたは96kHzx32ビットx32chのTDM/PCMモードと最大384kHzx32ビットx16chのI2Sモードを備えた3つの内蔵TDM/PCM /I2Sポート
+				プログラム可能なCIC、LPF、HPFを備えたデジタルマイクPDM入力は、最大8つのDMICをサポートします
+				内蔵ステレオオーディオDAC
+				アナログ+PCMまたはI2S+PCMの組み合わせによる同時デュアルオーディオステレオチャネル出力をサポート
+
+
+
+画像
+
+HD JPEG、BMP、GIF、PNG、TIF
+
+
+
+言語
+
+英語フランス語ドイツ語スペイン語イタリア語など多国間言語
+
+
+
+アプリケーション
+
+
+
+オンライン
+
+すべてのビデオWebサイトを閲覧し、Netflix、Hulu、Flixster、Youtubeなどをサポートします。 
+
+
+
+アプリ
+
+アプリはAndroidマーケット、アマゾンから自由にダウンロードできます 応用 店など
+
+
+
+中くらい
+
+ローカルメディアの再生、HDDのサポート、Uディスク、TFカード。
+
+
+
+オンラインで話す
+
+SKYPEビデオ通話、MSN、Facebook、Twitter、QQなどをサポート
+
+
+
+その他
+
+メール、オフィススーツなどをサポートします。
+				DLNA機能をサポート
+				2.4Gワイヤレスマウス/キーボードをサポート
+
+
+
+梱包
+
+
+
+製品の寸法
+
+114 x 21mm
+
+
+
+ユニットパッキング（GW）
+
+0.4KG
+
+
+
+
+パッケージは以下を含みます：
+
+1xH96最大X3S905X34G /32GTVボックス
+1xHDケーブル
+1 x IRリモコン（音声コントローラーではありません）
+1x電源アダプター
+1xユーザーマニュアル特徴：
+
+
+CPU AmlogicS905X364ビットクアッドコアARM®Cortex™A55CPU
+
+GPU G31™MP2GPUプロセッサ
+
+RAM：DDR3 4GB
+
+ROM： eMMC 32GB
+	OS：Android 9.0
+	イーサネット：10 / 100M/1000Mをサポート
+
+Wi-Fi： IEEE 802.11 a / b / g / n; 2.4G / 5G            
+
+ブルートゥース: BT; （音声リモコンをサポート）
+	ビデオデコード：VP9プロファイル-2最大8Kx4K @ 24 fps、H.265 HEVCMP-10@L5.1最大8Kx4K@24 fps
+Googleアシスタントをサポートする（この機能には音声コントロールを購入する必要があります）
+
+
+別のオプション：
+
+H96 Max X3 S905X3 4G / 32G TV 箱： [リンク]
+H96 Max X3 S905X3 4G / 64G TV 箱： [リンク]
+H96 Max X3 S905X3 4G / 128G TVボックス：[リンク]
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,231 @@
+1422512
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/B3/AB/f11bc5c1-4bc2-467e-892b-75149851ca4a.jpeg
+Regolatore di carica per generatore eolico 12V/24V Regolatore ibrido per vento e luce impermeabile 300W/600W 
+https://it.banggood.com/12V-or-24V-Wind-Generator-Charge-Controller-300W-or-600W-Waterproof-Wind-And-Light-Hybrid-Controller--p-1422512.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifica:
+
+
+Nome: regolatore di carica impermeabile 12V / 24V 300W / 600W del generatore eolico
+
+Modello: B26386 
+
+Materiale: lega di alluminio
+
+Applicazione: regolatore fotovoltaico eolico
+
+Colore nero
+
+Modello del prodotto: SF-12-24-A
+
+Tensione nominale della batteria: DC12/24V
+
+Potenza nominale della turbina eolica: 300 W/600 W
+
+Tensione di blocco della turbina eolica: 15 V/30 V
+
+Tensione di recupero skid (valore impostato in fabbrica): 13,5 V/27 V
+
+Intervallo di temperatura e umidità di lavoro: -35 ~ + 75 ℃ 
+
+La corrente statica: ≤20 mA                                                                                                                                       
+
+Dimensioni: ca. 76mm×102mm×23mm
+
+Livello di protezione: IP67
+
+
+Nota:
+
+
+ 1. La tensione di uscita del generatore eolico e la tensione nominale della batteria sono le stesse.
+
+ 2. Secondo la seguente procedura di collegamento, collegare prima la batteria due polari, Yin e Yang, in secondo luogo, il collegamento di turbine eoliche a tensione trifase.
+
+ 3. Per favore, in stretta conformità con i requisiti, batterie e turbine eoliche, correttamente collegate al controller, collegare l'inversione di polarità o un comportamento errato porteranno a un funzionamento del sistema non normale, persino a un controller completamente danneggiato.
+
+
+
+
+Caratteristiche: 
+
+
+- Il controller di ricarica automatico della batteria può controllare il generatore eolico. La batteria è carica, tramite il circuito di controllo automatico interno, la frenata, quando la tensione della batteria scende alla tensione di ripristino, l'aerogeneratore per funzionare, in modo da proteggere il ventilatore e la batteria.
+
+- Protezione impermeabile completa. Questo tipo di controller adotta un design completamente impermeabile, il grado di protezione raggiunge il IP67 sopra, anche in acqua può essere utilizzato normalmente per molto tempo, migliorare l'affidabilità.
+
+
+
+Prestazione: 
+
+
+- Affidabilità: design intelligente e modulare, struttura semplice, funzioni potenti; Componenti di alta qualità di livello industriale e tecniche di produzione rigorose, adatti ad ambienti di lavoro relativamente difficili come le basse temperature. Ha anche prestazioni affidabili e una lunga durata.
+
+
+
+Metodo di connessione:
+
+
+1. Batterie hanno Yin e Yang, il controller ha anche Yin e Yang, i due componenti elettrici con fili collegati tra loro, il rosso è l'anodo, il nero è il catodo
+
+2. La tensione CA trifase in uscita dalla turbina eolica, il terminale di ingresso trifase del controller (linea verde), può essere cablato insieme.
+
+
+
+Il pacchetto include:
+
+
+1X Controller ibrido per vento e luce 
+
+ Manuale 1X
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

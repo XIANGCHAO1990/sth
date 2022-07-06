@@ -1,0 +1,181 @@
+https://de.banggood.com/Geekcreit-8A-DC5-30V-to-DC1_25-30V-150KHz-Automatic-Step-Up-Step-Down-Adjustable-Power-Module-Voltage-Regulation-With-Short-Circuit-or-Overtemperature-Protection-p-969195.html?cur_warehouse=HK&rmmds=CategoryElectronicsPop
+Geekcreit® DC-DC 8A DC5-30V 150KHz Automatisches Step Up Step Down Einstellbares Leistungsmodul
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Modulparameter:
+
+Eingangsspannung: DC5-30V
+Eingangsstrom: 8A (MAX) Spitze 10A (6A lange Arbeitszeit)
+Ruhestrom: 4mA (Betriebsspannung ist nicht das gleiche, es gibt Fehler)
+Ausgangsspannung: 1.25-30V stufenlos einstellbar
+Ausgangsstrom: 10A (MAX) (5A lange natürliche Wärme innen)
+Ausgangsstrombereich: 0.2-10A
+Arbeitstemperatur: -40 bis + 85 Grad
+Betriebsfrequenz: 150KHz
+Umwandlungseffizienz: Typisch 91% (12V Umdrehung 12V5A) maximal 93%
+ÜBerstromschutz: dort
+Kurzschlussschutz: (Begrenzungsschutz)
+ÜBertemperaturschutz: (automatische Reduzierung der Ausgangsspannung nach Übertemperatur)
+Eingang verpolungssicher: keine, (falls erforderlich, bitte den String in die Diode eingeben)
+Output Anti-Anti-Bewässerung: Ja, keine Notwendigkeit für die Aufladung plus Sperrdiode.
+Anschluss: Klemmenausgang, (IN ist der Eingang, Ausgang OUT)
+
+
+Ausgangsstrom-Einstellverfahren:
+
+
+
+
+1. CV-Potentiometer-Einstellung, abhängig von Ihren Lastanforderungen, wird die Ausgangsspannung auf den gewünschten Spannungswert eingestellt.
+
+
+2, CC-Potentiometer gegen den Uhrzeigersinn ungefähr 30 Runden, (dh der Ausgangsstrom ist auf ein Minimum eingestellt), angeschlossen an die LED, Potentiometer CC tune auf den gewünschten Strom. Nach dem Aufladen für Batterie, die Batterie vollständig entladen und dann zum Ausgang, justieren zu Ihrem gewünschten Strom CC, (Achten Sie darauf, dass Sie die Akkus vor dem Übertragen vollständig entladen lassen, da die Akkuleistung in den meisten Fällen länger ist, da der Ladestrom kleiner ist.) Bitte verwenden Sie nicht den Kurzschlussstrom Übertragungsweg, die Schaltung Struktur des Moduls kann die Art der Übertragung nicht kurzschließen
+
+Lieferinhalt:
+
+1 x-Automatisches Step Up Step Down justierbares Power Modul
+
+
+
+
+
+
+
+
+
+
+

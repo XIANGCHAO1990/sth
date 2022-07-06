@@ -1,0 +1,231 @@
+1422512
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/B3/AB/f11bc5c1-4bc2-467e-892b-75149851ca4a.jpeg
+12V/24V Rüzgar Jeneratörü Şarj Kontrol Cihazı 300W/600W Su Geçirmez Rüzgar Ve Hafif Hibrit Kontrol Cihazı 
+https://tr.banggood.com/12V-or-24V-Wind-Generator-Charge-Controller-300W-or-600W-Waterproof-Wind-And-Light-Hybrid-Controller--p-1422512.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Şartname:
+
+
+Adı:12V / 24V 300W / 600W Su Geçirmez Rüzgar Jeneratörü Şarj Kontrol Cihazı
+
+Modeli: B26386 
+
+Malzeme: Alüminyum Alaşım
+
+Uygulama: Rüzgar Enerjisi Fotovoltaik Kontrol Cihazı
+
+Siyah renk
+
+Ürün Modeli: SF-12-24-A
+
+Akü Nominal Voltajı: DC12/24V
+
+Rüzgar Türbini Nominal Gücü: 300W/600W
+
+Rüzgar Türbini Kilit Voltajı: 15V/30V
+
+Skid Recovery Voltajı (Fabrika Ayar Değeri)::13,5V/27V
+
+Çalışma Sıcaklığı ve Nem Aralığı: -35~+75℃ 
+
+Statik Akım: ≤20 mA                                                                                                                                       
+
+Boyut: yaklaşık. 76mm×102mm×23mm
+
+Koruma Seviyesi: IP67
+
+
+Not:
+
+
+ 1. Rüzgar jeneratörü çıkış voltajı ve pilin anma voltajı aynıdır.
+
+ 2. Aşağıdaki prosedür bağlantısına göre, önce iki kutuplu, Yin ve Yang'ı, ikincisi, üç fazlı voltajlı rüzgar türbinlerinin bağlantısını bağlayın.
+
+ 3. Piller ve rüzgar türbinleri, kontrolöre düzgün bir şekilde bağlı olacak, ters polariteyi bağlayacak veya yanlış davranış, sistem çalışmasının normal olmamasına, hatta kontrolörün tamamen hasar görmesine yol açacaktır.
+
+
+
+
+Özellikler: 
+
+
+- Otomatik akü şarj kontrolörü rüzgar jeneratörünü kontrol edebilir. Batarya dolu, dahili otomatik kontrol devresi sayesinde, frenleme, batarya voltajı kurtarma voltajına düştüğünde, fanı ve bataryayı korumak için rüzgar türbini çalışır.
+
+- Kapsamlı su geçirmez koruma. Bu tür bir kontrolör, tam sızdırmaz tamamen su geçirmez tasarımı benimser, koruma derecesi IP67'e ulaşır, suda bile uzun süre normal kullanımda olabilir, güvenilirliği artırır.
+
+
+
+Verim: 
+
+
+- Güvenilirlik: Akıllı, modüler tasarım, basit yapı, güçlü işlevler; Düşük sıcaklık gibi nispeten zorlu çalışma ortamları için uygun olan endüstriyel sınıf yüksek kaliteli bileşenler ve sıkı üretim teknikleri. Ayrıca güvenilir performansa ve uzun hizmet ömrüne sahiptir.
+
+
+
+Bağlantı Yöntemi:
+
+
+1. Bataryalar Yin ve Yang'a sahiptir, kontrolör ayrıca Yin ve Yang'a sahiptir, birbirine bağlı telli iki elektrik bileşeni vardır, kırmızı anottur, siyah katottur
+
+2. Rüzgar türbini çıkışı üç fazlı ac voltajı, kontrolör üç fazlı giriş terminali (yeşil hat), birbirine bağlanabilir.
+
+
+
+Paket içeriği:
+
+
+1X Rüzgar ve Hafif Hibrit Kontrolör 
+
+ 1X Manuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,225 @@
+1615550
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/47/8F/c32e4bec-2427-4529-8f6a-8fe475e9975c.jpg
+PM1.0 PM2.5 PM10 Ölçüm Modülü Hava Kalitesi Toz Sensör Test Cihazı Desteği İhracat Veri İzleme Ev Ofisi Araba Aletler
+https://tr.banggood.com/PM1_0-PM2_5-PM10-Meaturing-Module-Air-Quality-Dust-Sensor-Tester-Support-Export-Data-Monitoring-Home-Office-Car-Tools-p-1615550.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Not: Bu sürüm, ana bilgisayar yazılımı tarafından PC'ye veri aktarabilir
+
+Veri aktarımı işlevi yok buraya tıklayın:İD: 1588436
+
+
+Click to download: ana bilgisayar yazılımı
+ Kullanma talimatı:Açmak için tıklayın
+
+Özellikler:
+
+
+
+Malzeme: Akrilik Kılıf + Elektronik Bileşenler
+
+Boyut: Yaklaşık. 8.5x6.5x3.7cm/3.35x2.56x1.46"
+
+İşlemci: ARM 32 Bit Chips için
+
+Yazı tipi rengi: Çoklu Renkler
+
+Ekran: 2.8" TFT (2 farklı ekran)
+
+Çözünürlük Oranı: 320x240
+
+Güç Kaynağı: DC 5V
+
+Çalışma Akımı: 1-2A
+
+Sıcaklık Ölçüm Aralığı: -20 ila 60 ℃
+
+Doğruluk: ±0.1 ℃
+
+Dil Sürümü: İngilizce
+
+
+
+Çalışma prensibi:
+
+
+
+Çok açılı Lazer Saçılma Algılama, havada asılı kalan partikül maddede lazer ışınımı ve saçılma oluşturur. Dağınık ışık aynı anda belirli bir açıda toplanacaktır. Saçılma yoğunluğuna göre sensör aracılığıyla zamanla değişen eğriler elde edilebilir. Mikrobilgisayar işlemcisi tarafından işlenerek birim hacimdeki eşdeğer partikül çapları ve farklı boyutlarda asılı partikül madde sayısı elde edilebilir.
+
+
+
+Özellikler:
+
+
+
+- Veri aktarımı, ana bilgisayar yazılımı aracılığıyla tamamlanabilir
+
+- Akrilik şeffaf kasa kabuğu, bakılacak yüksek geçirgenlik
+
+- ARM 32 bit işlemci, doğru algılama ve sistem akıcılığı için yerleşik
+
+- 2.8" TFT ekran, renklendirme ekranı, 180°'ye kadar geniş açılı görüş
+
+- Yüksek hassasiyetli sensör, veri toplamada yüksek doğruluk sağlar
+
+- Yarı kapalı tasarım, ısı yayılımında mükemmel performans, uzun ömürlü kullanım
+
+- PM1.0, PM2.5, PM10.0, AQI, sıcaklık ve nem, asılı partikül maddede hava kalitesi algılamasında çok amaçlı
+
+- Gerçek zamanlı algılama sonuçları, toplanan verilerle ilgili olarak ilgili renklerde ekranda gösterilecektir.
+
+- Hafif, kullanımı kolay ve veri yorumlamada doğrudan olun
+
+- Güç Kaynağı DC 5V evrensel, usb soketi, araç şarj cihazı, güç bankası vb.
+
+- Hava kalitesi tespitinde ev/ofis ve araba veya parça kapsamı için uygundur  PM10, PM2.5 ve PM1.0 nedir?Gaz kirliliğine ek olarak, çevredeki hava da partiküller tarafından kirlenebilir. Farklı bileşimlere ve boyutlara sahip bu parçacıklara (süspansiyon, sıvı veya katı) bazen "aerosoller" denir. Genellikle "askıya alınmış madde" olarak sınıflandırılırlar ve genellikle PM (İngilizce'de "Partikül Madde"nin kısaltması) olarak adlandırılırlar.Yüzen kumaş genellikle "aerodinamik çapa" göre sınıflandırılır. Bir toz parçacığının aerodinamik çapı, küresel bir parçacığın çapıdır ve küresel parçacığın çapı, ortam havasındaki toz parçacığıyla aynı davranışı gösterir (mutlaka küresel bir şekle sahip olması gerekmez). Hava kalitesi sorunları bağlamında, partikül madde özellikle önemlidir.PM10, PM2.5 ve PM1 gibi ince parçacıklar, aerodinamik çapları 10, 2,5 ve 1 µm'den (bilgi: 1 µm = milyonda parça) metre veya milimetrenin binde biri kadar olan parçalar olarak tanımlanır. Karşılaştırma için, insan saçının ortalama çapı 50-70 µm'dir.PM10, PM2.5 ve PM1.0 arasındaki fark nedir?PM1: PM1, PM2.5'ten çok daha incedir. PM1'in ana kaynağı çoğunlukla günlük elektrik üretimi, endüstriyel üretim, iç mekan çevre kirliliği vb. olup çıplak gözle yargılaması zordur. PM1 esas olarak kömür ve VOC'ler gibi fosil yakıtların yakılmasından gelir.PM2.5: PM2.5 küçük parçacık boyutuna, geniş alana ve güçlü aktiviteye sahiptir. Toksik ve tehlikeli maddelerin (örneğin ağır metaller, mikroorganizmalar vb.) bağlanması kolaydır ve atmosferde uzun süre kalma süresi ve uzun bir taşıma mesafesine sahiptir. İnsan sağlığı ve atmosferik çevre kalitesi daha büyük bir etkiye sahiptir. PM2.5 günlük hayatta yollardan gelen sis ve tozdur.PM10: Solunabilir partikül madde olarak da bilinen PM10, aerodinamik eşdeğer çapı ≤10 mikron olan partikül maddeyi ifade eder. Genellikle asfaltsız asfalt ve çimentolu yollarda sürülen motorlu taşıtlardan, malzemelerin ezilmesinden ve öğütülmesinden ve rüzgarın kaldırdığı tozlardan kaynaklanır.
+
+
+
+Paket içeriği:
+
+
+
+1 x PM2.5 Hava Kalitesi Ölçüm Modülü
+
+1 x USB Kablosu
+
+
+
+
+

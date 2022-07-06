@@ -1,0 +1,330 @@
+1593815
+https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/89/A6/c88f1e74-60f4-4ea8-9caa-409818ca36cf.png
+YIHAOGD YH LCD 2/3-Achsen-Gitter CNC-Fräsen Digitalanzeige DRO / KA300 5 μm TTL 70-970 mm Elektronische Linearskalen-Encoder Drehwerkzeug
+https://de.banggood.com/YIHAOGD-YH-LCD-2-or-3-Axis-Grating-CNC-Milling-Digital-Readout-Display-DRO-or-KA300-5m-TTL-70-970mm-Electronic-Linear-Scale-Encoders-Lathe-Tool-p-1593815.html?cur_warehouse=CN&ID=6281034&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Beschreibung:
+YIHAOGD YH LCD 2/3-Achsen-Gitter CNC-Fräsen Digitalanzeige DRO / KA300 TTL 70-970 mm Elektronische Linearskalen-Encoder Drehwerkzeug
+	Die Digitalanzeige YIHAOGD YH LCD kann mit allen Arten von linearen YIHAOGD-Skalen übereinstimmen, sowohl vom Typ KA300 als auch vom Typ YE.
+	Großer LCD-Bildschirm, bessere Anzeige als digitale Röhre, bequem und praktisch.
+
+
+Spezifikation:
+
+	Großes LCD Dro-Digitalanzeige-Anzeigesystem Parameter:
+
+
+		Modell: 2 Achsen/3 Achsen
+		Spannungsbereich: AC 100V~240V/50HZ~60HZ
+
+		Digitalanzeige Akzeptables Signal: TTL
+
+		Stecker: DB9
+
+		Akzeptable Auflösung: 10 μm, 5 μm, 2 μm, 1 μm, 0,5 μm.
+
+Größe:Die optionale Länge misst die effektive LängeGesamtlänge = effektive Messlänge+106mm
+
+
+
+			Funktionen des Dro Digitalanzeige Systems:
+
+
+				1:Null löschen
+
+				2:Zurücksetzen
+
+				3: mm/Zoll-Modus
+
+				4: ABS/INC-Koordinatenumwandlung
+
+				5:200 setzt Subdatum
+
+				6: Speicher ausschalten;
+
+				7: Mitte von 1/2
+
+				8: Liner-Fehlerkompensation
+
+				9: Schlafmodus
+
+				10: Löschen Sie 200 Sätze Sdm-Datum;
+
+				11: ABS/INC-Modus
+
+				12:Rechner
+
+				13:Bohren des Umfangs
+
+				14: Bohren der schrägen Linie
+
+				15: Bearbeitung einer schiefen Ebene
+
+				16: Kreisbogenbearbeitung
+
+				17: Drehfunktion (Match)
+
+				18: Schrittweise Verarbeitung des rechteckigen Lumens
+
+				19: Digitale Filterung
+
+				20: Vibrationsfilterung
+
+				21: Drehfunktion
+
+				KA300 5U TTL Linear Skalen/Linear Encoder/Linear Sensor/Linear Lineal Parameter
+
+
+
+		1. Reiselänge (Messlänge): 0-970 mm
+
+		2. Gesamtlänge (Gesamtlänge): Verfahrweg + 106 mm (0-1076 mm)
+
+		3. Stecker: DB9
+
+		4. Auflösung: 0,005 mm (5 μ)
+
+		5. Eingangsspannung: 5V
+
+		6. Gitterabstand: 0,02 mm (50 LP/min)
+		7. Kabellänge: 3 Meter
+		8. Schutzklasse: IP54
+		9. Signal: TTL
+
+		Das Signal von 5 μ linearem optischem Lineal / linearen Glaswaagen / linearem Encoder / linearem Sensor
+		Stift 2 Schwarz 0 V
+		Stift 6 Grün A
+		Stift 7 Rot 5V
+		Stift 8 Weiß B
+		Stift 9 Orange Z
+Merkmale:
+Warum digitale Auslesesysteme YH LCD kaufen?
+	Großes Display LCD
+
+		1.Systeme steigern die Produktivität, sparen Zeit und sorgen für höhere Präzision, indem sie die von Längenmessgeräten, Längenmessgeräten, Drehgebern oder Winkelmessgeräten gemessenen Werte in ein leicht lesbares Format übersetzen.
+
+		2. Sie können in neue Geräte eingebaut oder an bereits in Betrieb befindlichen Maschinen nachgerüstet werden.
+
+		3.Systeme funktionieren mit jeder Maschine, bei der Achsschlitten manuell verfahren werden.
+
+		4.Datenschnittstelle ermöglicht die Weiterverarbeitung oder den Ausdruck der Messwerte (bei den meisten Modellen).
+
+
+
+		Warum 5u KA300 Linearcodierer kaufen? (Staubdicht, IP54 wasserdichtes Design Hochwertiges Lager, zuverlässig und langlebig)
+
+		1. Beseitigen Sie Positionsfehler der Werkzeugmaschine, die durch Wärmeausdehnung, Verformung der Antriebsmechanik, Steigungsprobleme und mehr verursacht werden.
+
+		2. Hohe langfristige Geschwindigkeitsstabilität.
+
+		3.Robuste Konstruktion und hohe Vibrationsfestigkeit.
+
+		4. Feinere Signalperioden bieten höchste Interpolationsgenauigkeit.
+
+		5.Kompakt, leicht und einfach zu installieren.
+
+		6. Langlebig und zuverlässig – funktioniert auch nach vielen Betriebsjahren einwandfrei.
+		7. Versiegelte oder geschlossene lineare Ausführungen erhältlich.
+
+
+
+
+
+
+Paket enthalten: (optional)
+
+
+				LCD 3-Achsen-Digitalanzeige Lieferumfang:
+
+				1 Stück x 3-Achsen-Digitalanzeige
+				1 Stück x Netzkabel (Wir senden Ihnen je nach Land einen zusätzlichen Steckeradapter)
+				1 Set x Halterung und Zubehör
+				1 Stück x Handbuch
+
+
+
+				LCD 2-Achsen-Digitalanzeige Lieferumfang:
+
+				1 Stück x 2-Achsen-Digitalanzeige
+				1 Stück x Netzkabel(Je nach Land senden wir Ihnen einen zusätzlichen Steckeradapter zu)
+				1 Set x Halterung und Zubehör
+				1 Stück x Handbuch
+
+
+
+				Lineare Skala im Lieferumfang enthalten: (optionale Länge)
+
+				1 Stück x linearer Sacle
+				1 x L-Platte
+				1 Stück x Halterung
+				1 Stück x Beutel mit Schrauben
+
+Notiz:Bitte beachten Sie, dass die Digitalanzeige und die Linearskala optional sind. Das Paket enthielt nur einen Typ.Sie können hier klicken, um das Handbuch zu überprüfen.
+
+
+Mehr Details:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

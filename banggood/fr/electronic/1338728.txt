@@ -1,0 +1,211 @@
+https://fr.banggood.com/DIY-Automatic-Irrigation-Module-Kit-Soil-Moisture-Detection-Automatic-Watering-Pumping-p-1338728.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Kit de module d&#39;irrigation automatique de bricolage détection d&#39;humidité du sol pompage d&#39;arrosage automatique
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:
+
+
+
+Il ne nécessite pas de programmation ni de microcontrôleur, veuillez donc ne pas fournir le code.
+
+Il ne fournit pas d'alimentation, vous pouvez utiliser le trésor de chargement (5V DC) comme alimentation, ou utiliser un boîtier de piles AA 4 pièces et charger 4 piles.
+
+
+
+À propos de chaque partie du test:
+
+
+1. Testez le module de relais: connectez le module de relais VCC à 5V, GND à la terre, IN à GND, le relais saute, et lorsque IN est suspendu, le relais se rétablit, afin que vous puissiez entendre le relais «Kaka» à plusieurs reprises;
+
+2. Testez le module de capteur d'humidité du sol: connectez la sonde à fourche et le module émetteur avec deux fils DuPont, le module émetteur VCC est connecté à 5V, GND est mis à la terre, juste après la mise sous tension, le voyant d'alimentation rouge est toujours allumé, vert ( bleu) indication de couleur La lampe clignote faiblement une fois; la sonde à fourche est directement insérée dans l'eau et le voyant vert (bleu) est allumé;
+
+3. Connectez la ligne rouge de la pompe à 5V, la ligne noire est mise à la terre, la pompe fonctionne, faites attention au test pendant 1 seconde et il n'est pas autorisé à travailler dans l'air pendant une longue période;
+
+4. Assemblez-le selon le diagramme schématique.
+
+
+
+Remarque:
+
+
+
+1, le bébé peut être exempt de soudure, mais vous devez peler le fil, tordre le fil de cuivre ensemble, avec un ruban noir pour protéger;
+
+2. La pompe ne peut pas fonctionner dans l'air pendant une longue période;
+
+3, le système est connecté, mise sous tension, la pompe a fonctionné, a raison, car dans l'air, la sonde ne peut pas détecter l'humidité, donc la pompe a fonctionné, l'installation correcte dans le pot sans aucun problème
+
+
+
+Emballage inclus:
+
+
+
+1 x module de relais
+
+1 x sonde d'humidité du sol + module de comparaison
+
+1 x petite pompe à eau
+
+1 x boîtier de batterie
+
+1 x cordon d'alimentation USB
+
+1 x tuyau en silicone
+
+10 x ligne DuPont
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

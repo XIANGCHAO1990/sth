@@ -1,0 +1,260 @@
+https://it.banggood.com/KP184-DC-Electronic-Load-Battery-Capacity-Tester-RS485-or-232-400W-150V-40A-AC220V-Professional-Battery-Tester-p-1566483.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+KP184 Tester di capacità Batteria di carico elettronico CC RS485/232 400W 150V 40A Tester professionale AC220V Batteria
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Descrizione:
+
+
+
+Il carico elettronico serie KP184 può essere ampiamente applicato ai test e all'invecchiamento dei prodotti in illuminazione, fonte di alimentazione, caricatore e accumulatore LED. La modalità corrente può essere citata in giudizio per simulare il carico resistivo per scaricare la batteria e caricare la fonte di alimentazione; la modalità di tensione può essere utilizzata per simulare il carico capacitivo e caricare la carica, nonché per simulare la tensione costante di LED e caricare la fonte di alimentazione. È usato semplicemente, regolato comodamente e ha una funzione di protezione perfetta. Le prestazioni e la funzione non hanno eguali dal tradizionale resistore a filo scorrevole. Se utilizzato per settori correlati, potrebbe migliorare la produttività e ridurre i costi.>>Sofware: Click here.<<
+>>Manual: Click here <<
+
+Caratteristiche:
+
+
+
+1.Ha quattro modalità di caricamento di base come CC, CV, CW e CR.
+
+2.Inserire la protezione di trasposizione positiva e negativa e dare l'allarme
+
+3. La struttura ottimizzata della radiazione termica realizza un'elevata densità di potenza;
+
+4. Modalità di controllo digitale, alta precisione e buona stabilità
+
+5. Dispone di protezione da sovratensione, sovracorrente, sovratensione e sovratemperatura;
+
+6. Funzione di misurazione della tensione (rilevamento remoto)
+
+7. Funzione di test automatico, segnale di trigger I/0 esterno, segnale di indicazione PASS, FAIL;
+
+8.10 KHz funzione di test dinamico;
+
+9. Funzione di test della capacità della batteria;
+
+10.Test della resistenza interna della batteria
+
+11.Funzione di test del punto di protezione da sovracorrente/tempo di protezione
+
+12. Controllo della temperatura della ventola PWM;
+
+13.Alimentazione a turni 110VAC/220VAC
+
+14.Interfaccia di comunicazione RS485 e 232
+
+15.Funzione di funzionamento sincrono di più dispositivi caricati online
+
+16.Supporto software per computer superiore con potente funzione e interfaccia amichevole
+
+
+
+Specifica:
+
+
+
+Consumo energetico: < 20 W
+
+Tensione di carico: DC 1 -150 V
+
+Corrente di carico: 0-40 A
+
+Potenza di carico: 0-400 W
+
+Precisione di misurazione Corrente: ±0,05%+5mA
+
+Misurazione della tensione di precisione: ± 0,05% + 5 mV
+
+Precisione di controllo Corrente: ±0,05%+5mA
+
+Precisione di controllo Tensione: ±0,05%+5mV
+
+Modalità di comunicazione: RS232/RS485
+
+Sovratensione: quando la tensione è superiore a 152 V, il carico viene disattivato
+
+Sovratemperatura: 85 ℃
+
+Overpower: canale singolo: 410 W
+
+Fusibile ingresso alimentazione: 0,5
+
+Dimensioni: 300 * 90 * 180 mm / 11,8 * 3,5 * 7,1 pollici
+
+Peso: circa 4000 g/141,1 once
+
+
+
+La confezione include:
+
+
+1 carico elettronico CC KP184
+
+1 x Spina (UE)
+
+1 x remoto terminale di compensazione
+
+2 terminali di test positivi e negativi
+
+1 cavo di comunicazione 232
+
+2 cavi di prova
+
+1 manuale utente
+
+
+
+Nota:
+
+Ti invieremo un adattatore per spina in base al tuo paese.
+
+
+Nota:
+
+Questo carico CC supporta la programmazione del software secondario, speriamo che tu abbia il software da solo;
+
+Se non lo hai, possiamo inviartelo come regalo gratuito, il software è solo un regalo, non la merce, quindi speriamo che tu sia professionale per l'utilizzo del software; è un Software gratuito e di sviluppo; è solo per il sistema Win7 o IE
+
+Immagini dei dettagli:
+
+
+
+
+
+
+
+

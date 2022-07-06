@@ -1,0 +1,200 @@
+1457358
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/3F/A3/8056cc48-59a4-4593-a87a-67a16776fc08.JPG
+DHT22 Temperatura e Umidade Digital de Barramento Único Sensor Módulo de Blocos de Construção Eletrônicos AM2302 3,3V-5V DC
+https://pt.banggood.com/DHT22-Single-bus-Digital-Temperature-and-Humidity-Sensor-Module-Electronic-Building-Blocks-AM2302-3_3V-5V-DC-p-1457358.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificações:
+
+
+
+Tensão de trabalho: 3 V - 5,5 V
+
+Forma de saída de sinal: sinal digital
+
+Faixa de medição de temperatura: - 40 ° C a 80 ° C
+
+Precisão de medição: 0,5 ° c
+
+A faixa de medição de umidade: 0-100% RH
+
+Precisão de medição: 2% UR
+
+Resolução: 16
+
+Com orifícios de parafuso fixos, instalação e fixação convenientes. Diâmetro de 2,6 mm
+
+Tamanho: 28,2 x 13,1x10 mm 
+
+
+
+Alfinete:
+
+
+
+"+": positivo
+
+"-": o poder do ânodo
+
+"Out": a porta IO do microcontrolador
+
+
+
+Incluído no Pacote:
+
+
+
+1 x DHT22 Módulo de Temperatura e Umidade
+
+1 x cabo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

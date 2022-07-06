@@ -1,0 +1,403 @@
+https://www.banggood.com/10pcs-M18-Bluetooth-4_2-Audio-Receiver-Module-Lossless-Car-Speaker-Headphone-Amplifier-Board-Wireless-Refit-p-1527332.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+10pcs M18 Bluetooth 4.2 Audio Receiver Module Lossless Car Speaker Headphone Amplifier Board Wireless Refit
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+User Manual: Click here to open
+
+	For different needs of customers, we offer 3 versions for you to choose from:
+
+
+
+
+
+
+
+
+
+Function / Model
+
+M18 (this item)
+
+M28 (Product ID: 1486747)
+
+M38 (Product ID: 1486746)
+
+
+
+Micro power supply
+
+×
+
+√
+
+√
+
+
+
+Audio headphone jack
+
+×
+
+√
+
+×
+
+
+
+Built-in amplifier
+
+×
+
+×
+
+√(5W+5W)
+
+
+
+Lithium battery powered
+
+√
+
+√
+
+√
+
+
+
+Support USB sound card, free drive
+
+×
+
+×
+
+√
+
+
+
+Volume memory/adjustment
+
+√
+
+×
+
+×
+
+
+
+MUTE mute interface
+
+√
+
+×
+
+×
+
+
+
+Button extension
+
+√
+
+×
+
+×
+
+
+
+Bluetooth version
+
+bluetooch V4.2
+
+
+
+Support Bluetooth protocol
+
+HFPV1.7, A2DPV1.2, AVRCPV1.5, AVCTPV1.2, AVDTPV1.2
+
+
+
+Format support
+
+Support WAV/WMA/FLAC/APE/MP3 lossless decoding, stereo two-channel output
+
+
+
+Operating Voltage
+
+5V/3.7V-4.2V
+
+
+
+Broadcast status not connected
+
+5.5MA
+
+
+
+Connection working status
+
+20MA
+
+
+
+Deep sleeping
+
+3UA
+
+
+
+Transmission distance
+
+20 meters (empty or low interference environment)
+
+
+
+Operating temperature
+
+ -40°C to +85°C
+
+
+
+Sensitivity
+
+ -87dbm
+
+
+
+
+Introduction:
+
+	 
+
+This product MH-M18 is a low-power Bluetooth design solution, supporting the latest Bluetooth 4.2 transmission, two-channel stereo lossless playback, Bluetooth connection after the module is connected to Bluetooth, very convenient. In an open environment, the Bluetooth connection distance can be up to 20 meters.
+
+Widely used in a variety of Bluetooth audio reception, a variety of audio DIY modification.
+
+
+
+
+
+Pin
+
+Function
+
+Description
+
+
+
+1
+
+KEY
+
+Button control terminal (4 button functions, additional resistors such as wiring diagram)
+
+
+
+2
+
+MUTE
+
+Mute control terminal (output high level 3.3V when muting, output low level during playback)
+
+
+
+3
+
+VCC
+
+Positive power supply 5V (lithium battery 3.7V power supply requires short circuit diode)
+
+
+
+4
+
+GND
+
+Power negative / audio signal ground
+
+
+
+5
+
+L
+
+Left channel output
+
+
+
+6
+
+R
+
+Right channel output
+
+
+
+
+
+
+Function Description:
+
+	 
+
+Bluetooth V4.2 version, supports Bluetooth automatic connection technology, supports WAV/WMA/FLAC/APE/MP3 lossless decoding, stereo dual channel output.
+
+After the module is powered on, the mobile phone searches for the Bluetooth name MH-M18/MH-M28/MH-M38, and can play music after connecting Bluetooth.
+
+	 
+
+Package includes:
+
+	10 x M18 Module
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

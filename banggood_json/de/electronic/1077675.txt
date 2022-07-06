@@ -1,0 +1,180 @@
+1077675
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/B1/D4/219647ea-f2aa-4cad-8c51-cd21341f4f48.JPG
+Pro Micro 5V 16M Mini Leonardo Micro Regler Development Board für Arduino
+https://de.banggood.com/Geekcreit-Pro-Micro-5V-16M-Mini-Leonardo-Microcontroller-Development-Board-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1077675.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pro Micro 5V 16M Mini Leonardo Micro Regler Development Board für Arduino
+
+Beschreibung:
+
+Dieser Mikrocontroller Entwicklungs Board verfügt über 4 Kanäle 10 Bit ADC, PWM 5 polig, 12 DIO, und eine Hardware serielle Verbindung Rx und Tx mit dem Sie vertraut sind. Mit 16 MHz und 5 V erinnert diese Platine an viele andere Arduino-kompatible Boards, die Sie mögen. Es gibt einen Spannungsregler an Board, so kann es zu 12V DC akzeptiert werden.Wenn Sie eine instabile Stromversorgung Bord liefern, sollten Sie die "RAW" nicht auf dem VCC Anschluss zu verbinden. Wir haben auch eine PTC-Sicherung und einen Diodenschutz für den Stromkreis hinzugefügt und die RX- und LED TX-Stromkreise korrigiert.
+
+Feature:
+
+- ATMEGA32U4 läuft in 5V / 16MHz
+- Arduino IDE V1.0.1 unterstützen
+- Micro USB Schnittstellen Programmierung auf dem Board
+- Vier 10-Bit ADC Stift
+- 12 digitale I / O (5-PWM-Funktion)
+- Rx und Tx Hardware serielle Verbindung
+
+Lieferinhalt:
+
+1 x Modul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

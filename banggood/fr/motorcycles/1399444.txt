@@ -1,0 +1,280 @@
+https://fr.banggood.com/24V36V48V60V-250W350W-LCD-Brushless-Motor-Controller-Battery-Speed-For-MTB-E-Bike-Scooter-p-1399444.html?cur_warehouse=HK&ID=517271520454&rmmds=CategoryAutomobilesPop
+Vitesse de contrôleur Batterie de moteur sans brosse de 24V / 36V48V / 60V 250W / 350W LCD pour le scooter de VTT d&#39;E-Bike
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:
+		Contrôleur bimode 6 mosfet pour batterie au lithium
+
+		Tension de travail nominale: 24v / 36v / 48v / 60v
+
+		Puissance disponible: 250W / 350W
+
+		Courant maximal disponible: 10A-20A (réglage par défaut 13a)
+
+		Batterie point de protection contre les sous-tensions de tension: 19v / 30v / 41v / 52v
+
+		Fit pour angle de phase du moteur: 60degree / 120 degrés (apprentissage automatique)
+
+
+
+Caractéristique du contrôleur:
+
+		1. Identifiez automatiquement la phase et l'angle du moteur. 
+		Vous pouvez apprendre avec le fil de débogage. méthode de fonctionnement: connecter le câble d'alimentation, le fil de l'interrupteur principal, le fil du moteur,
+		fil de hall, fil de guidon, fil d’apprentissage, mise sous tension et verrouillage du vélo, le moteur commencera à fonctionner. 
+		Si le sens de rotation est correct, veuillez couper le fil d’apprentissage. L'apprentissage est terminé.
+		Si la direction est opposée, veuillez couper le fil d’apprentissage, le moteur changera automatiquement de direction.
+		travaillez 2-3 secondes, coupez le fil d’apprentissage, l’apprentissage est terminé (attention, coupez le fil d’apprentissage après l’apprentissage)
+
+
+		2. mode double (lorsque la salle des machines fonctionne normalement, le contrôleur fonctionne avec le mode salle. 
+		Lorsque la salle des machines est endommagée, le contrôleur peut la tester intelligemment, passer en mode sans salle et continuer à travailler.
+		(autre contrôleur sinon mode double, ne peut pas fonctionner si la salle des machines est endommagée)
+
+
+		3. peut contrôler et faire correspondre avec d'autres pièces électriques
+
+		tel que pouvant correspondre au capteur de test de vitesse externe, de sorte que l'affichage puisse indiquer la vitesse 
+		même quand le vélo glisse. peut correspondre au capteur de frein, peut correspondre au travail du levier de vitesses gauche comme frein ebs et ainsi de suite.
+
+
+		4. Lorsque la tension de la batterie ne suffit pas, le contrôleur baissera automatiquement le courant, ce qui protégera votre batterie pour une durée de vie plus longue.
+
+	Fonction du contrôleur:
+
+	1. 1: 1 puissance PAS
+
+	2. frein et couper l'alimentation
+
+	3. connecter avec lcd display
+
+	4. connecter l'accélérateur
+
+	5. port d'alimentation de la lumière et du klaxon
+
+	6. auto-apprentissage
+
+	7. frein linéaire ebs hall
+
+	8. croisière
+
+	9. 6 km / h de rappel
+
+
+
+	LCD Affichage
+
+	1. il indique le niveau de la batterie, la grille 6 est pleine, si elle est faible, elle brillera   
+
+	2. indiquer la vitesse, l'unité de réglage par défaut est km / h
+
+	3. indiquer les engrenages
+
+	4. indiquez un seul voyage, l'icône DIS, située en bas à gauche, appuyez sur le bouton d'alimentation pour passer à cette interface,
+	cela signifie toute la distance parcourue par le vélo de machine ouverte à machine éteinte,
+
+	5. Le bouton d'alimentation ODO-press peut basculer sur cette interface
+
+	6. code d'erreur - appuyez sur le bouton d'alimentation peut basculer sur cette interface
+
+	002 - erreur de freinage 
+
+	Erreur de capteur 003-pas
+
+	Mode de croisière boosté par 004 à 6 km / h
+
+	Mode de croisière 005
+
+	006-niveau de batterie faible
+
+	Erreur de moteur 007
+
+	Erreur 008-papillon
+
+	Erreur de contrôleur 009
+
+	010-erreur de réception de communication
+
+	011- erreur lors de l'envoi de la communication
+
+	Erreur de communication 012-DMS
+	Erreur 013-frontlight
+
+	7. Engrenage ajuster - appuyez brièvement sur le bouton haut et bas pour ajuster les engrenages, ajouter ou réduire un,
+	appuyez longuement sur le bouton haut et bas en même temps peut aller dans l'interface de réglage, 
+	appuyer brièvement sur le bouton d'alimentation peut changer d'élément de données, appuyez brièvement sur le bouton haut et bas pour régler les données, 
+	appuyez longuement sur le bouton haut et bas pour stocker et quitter l'interface de données
+
+
+Ajustement:
+
+		1.  Fit for different battery: lead-acid, Li-Fe battery, LNCMO battery  {Li(NiCoMn)O2}, and so on. 
+		Pour différents matériaux, il existe différents points de protection sous tension
+
+		2. Fit pour le moteur à engrenages sans balai CC inférieur à 350w, et le moteur sans engrenage, et le moteur à grande vitesse, etc.
+
+
+
+Emballage inclus:
+
+	1 X contrôleur de moteur
+	1 instrument d'affichage LCD
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,965 @@
+https://it.banggood.com/Hantek-DSO4102C-Handheld-Digital-Multimeter-Oscilloscope-USB-100MHz-2-Channels-LCD-Display-+-Arbitrary-or-Function-Waveform-Generator-p-1139440.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+Hantek DSO4102C Digitale portatile Multimetri oscilloscopio USB 100 MHz 2 canali LCD Display + Generatore di forme d&#39;onda arbitrarie / funzionali
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:
+
+
+Serie DSO4000C:
+
+2 canali digitali oscilloscopio + generatore di forme d'onda arbitrarie / funzionali + segnale di sincronizzazione + trigger esterno.
+
+I tasti per l'oscilloscopio e il generatore di forme d'onda sono separati per un comodo utilizzo simultaneo.
+
+Schermo ampio e chiaro (display LCD a colori da 7 pollici 64K, risoluzione 800x480), forma d'onda più chiara e realistica.
+
+ Oscilloscopio: frequenza di campionamento 1GSa / s, larghezza di banda 200/100 / 70MHz, oltre 20 tipi di funzioni di misurazione automatica.
+
+Potente funzione trigger: Edge, Video, Pulse, Slope, Over time, Alternative.
+
+Generatore di forme d'onda arbitrarie / funzionali: 25 MHz, risoluzione a 12 bit, DDS a 200 MHz, onda arbitraria / onda quadra / onda sinusoidale / onda triangolare / onda trapezoidale / onda di impulso / DC è facile da simulare il trasduttore.
+
+Supporta la scheda SD, la funzione VGA (opzionale).
+
+Host USB integrato, supporto di archiviazione su disco USB, aggiornamento del sistema interfaccia USB / scheda SD.
+
+Caratteristiche :
+
+
+
+Larghezza di banda 100 MHz; Frequenza di campionamento 1GSa / s.
+
+Oscilloscopio a 2 canali; 40 Kilo Byte (KB) Lunghezza record.
+
+Schermo LCD a colori da 7 pollici 64K, risoluzione 800x480.
+
+32 tipi di misurazione automobilistica, con funzione FFT.
+
+Uscita forma d'onda arbitraria a 25 MHz (onda sinusoidale fino a 75 MHz).
+
+Potente funzione di trigger: video, bordo, larghezza di pluse, pendenza, straordinario, trigger alternativo.
+
+
+
+
+
+Specifica:
+
+
+
+
+
+
+ Oscilloscopio
+
+DSO4102C
+
+
+
+Frequenza di campionamento
+
+Intervallo di frequenza di campionamento: 1GSa / s
+
+
+
+Frequenza di campionamento equivalente: 25GSa / s
+
+
+
+Modalità di acquisizione
+
+
+
+Normale
+
+Solo dati normali
+
+
+
+Peak Detect
+
+Acquisizione di glith ad alta frequenza e randon
+
+
+
+Media
+
+Wavefom Media, selezionabile 4,8,16,32,64,128
+
+
+
+Ingressi
+
+
+
+Accoppiamento degli ingressi
+
+CA, CC, GND
+
+
+
+Inpits Impendance
+
+1M2% 20pF3pF
+
+
+
+Attenuazione della sonda
+
+1X, 10X
+
+
+
+Fattore di attenuazione della sonda supportato
+
+1X, 10X, 100X, 1000X
+
+
+
+Tensione di ingresso massima
+
+CAT I e CAT II: 300VRMS (10 ×)
+
+
+
+CAT III: 150 V RMS (1 ×);
+
+
+
+Categoria di installazione II: declassare a 20 dB / decade sopra 100 kHz a 13 V CA di picco a 3MHz * e oltre. Per le forme d'onda non sinusoidali, il valore di picco deve essere inferiore a 450 V. L'escursione al di sopra di 300 V dovrebbe avere una durata inferiore a 100 ms. Il livello del segnale RMS, inclusi tutti i componenti CC rimossi tramite l'accoppiamento CA, deve essere limitato a 300 V. Se questi valori vengono superati, potrebbero verificarsi danni all'oscilloscopio.
+
+
+
+Orizzontale
+
+
+
+Intervallo di frequenza di campionamento
+
+1GS/s
+
+
+
+Interpolazione della forma d'onda
+
+(peccato x) / x
+
+
+
+Registrare Lunghezza
+40 Kilo Byte (KB)
+
+
+
+Gamma SEC / DIV
+
+Da 4ns / div a 40s / div
+
+
+
+Frequenza di campionamento e
+
+50 ppm in un intervallo di tempo di 1 ms)
+
+
+
+Precisione del tempo di ritardo
+
+
+
+Intervallo di posizione
+
+Da 20ns / div a 80us / div; (-8div xs / div) a 40 ms;
+
+
+
+Da 200us / div a 40s / div; (-8div xs / div) a 400s
+
+
+Δ Precisione della misurazione del tempo(Larghezza di banda completa)
+
+Modalità normale, scatto singolo: (1 intervallo di campionamento + 100 ppm × lettura + 0,6 ns);
+					> 16 medie: (1 intervallo di campionamento + 100 ppm × lettura + 0,4 ns);
+					Intervallo di campionamento = s / div ÷ 200
+
+
+
+
+
+Verticale
+
+
+
+Risoluzione verticale
+
+Risoluzione a 8 bit, tutti i canali campionati simultaneamente
+
+
+
+Intervallo di posizione
+
+Da 2mV / div a 10V / div
+
+
+
+Larghezza di banda
+
+100MHz
+
+
+
+Rise Time at BNC (tipico)
+
+3.5ns
+
+
+
+Larghezza di banda analogica in modalità Normalee e Media su BNC o con sonda, accoppiata in CC
+
+Da 500 mV / div a 2 V / div, 40 V; 5V / div, 50V
+
+
+
+Matematica
+
++, -, *, /, FFT
+
+
+
+FFT
+
+Finestre: Hanning, Flatop, Rectamgular, Bartlett, Blackman;
+
+
+
+1024 punti di campionamento
+
+
+
+Limite di banda
+
+20MHz
+
+
+
+Risposta a bassa frequenza (-3db)
+
+10Hz a BNC
+
+
+
+Precisione guadagno CC
+
+4% per la modalità di acquisizione Normalee o Media, da 5mV / div a 2mV / div
+
+
+
+Precisione della misurazione CC,
+					Modalità di acquisizione media
+
+Quando lo spostamento verticale è zero e N 16: (3% × lettura + 0.1div + 1mV) è selezionato solo 10mV / div o maggiore;
+					Quando lo spostamento verticale è diverso da zero e N16: [3% × (lettura + posizione verticale) + 1% della posizione verticale + 0.2div]; Aggiungere 2 mV per impostazioni da 2 mV / div a 200 mV / div; aggiungere 50 mV per impostazioni da 200 mV / div a 5V / div
+
+
+
+Ripetibilità della misurazione dei volt, modalità di acquisizione media
+Δ volt tra due medie qualsiasi di 16 forme d'onda acquisite nella stessa configurazione e condizioni ambientali
+
+
+
+Sistema di trigger
+
+
+
+Tipi di trigger
+
+Edge, Video, Pulse, Slope, Nel tempo, Alternativa
+
+
+
+Trigger Source
+
+CH1, CH2, EXT, EXT / 5, AC Line
+
+
+
+Accoppiamento Tipo
+
+CC, CA, Reiezione rumore, Reiezione HF, Reiezione LF
+
+
+
+Sensibilità trigger
+					(Edge Trigger Tipo)
+
+DC (CH1, CH2):
+
+
+
+1div da DC a 10MHz; 1.5div da 10MHz a 100MHz; 2div da 100MHz a Full;
+
+
+
+DCEXT):
+
+
+
+200 mV da CC a 100 MHz; 350 mV da 100 MHz a 200 MHz;
+
+
+
+DCEXT / 5):
+
+
+
+1 V da CC a 100 MHz; 1,75 V da 100 MHz a 200 MHz;
+
+
+
+AC: Attenua i segnali al di sotto di 10Hz;
+
+
+
+Rifiuto HF: attenua i segnali superiori a 80kHz;
+
+
+
+Rifiuto LF: uguale ai limiti accoppiati in CC per frequenze superiori a 150 kHz; attenua i segnali inferiori a 150 kHz
+
+
+
+Trigger Level Range
+
+CH1 / CH2: 8 divisioni dal centro dello schermo;
+
+
+
+EST: 1,2 V;
+
+
+
+EXT / 5: 6V
+
+
+
+Precisione del livello di trigger (tipica) La precisione è per segnali con tempi di salita e discesa di 20 ns
+
+CH1 / CH2: 0.2div × volt / div entro 4 divisioni dal centro dello schermo;
+
+
+
+EXT: (6% dell'impostazione + 40mV);
+
+
+
+EXT / 5: (6% dell'impostazione + 200mV);
+
+
+
+Imposta il livello al 50% (tipico)
+
+Funziona con segnali di ingresso 50Hz
+
+
+
+Trigger video
+
+
+
+Trigger video Tipo
+
+CH1, CH2: ampiezza picco-picco di 2 divisioni;
+
+
+
+EST: 400 mV;
+
+
+
+EXT / 5: 2V
+
+
+
+Formati del segnale e velocità di campo, trigger video Tipo
+
+Supporta i sistemi di trasmissione NTSC, PAL e SECAM per qualsiasi campo o qualsiasi linea
+
+
+
+Holdoff Range
+
+100ns ~ 10s
+
+
+
+Trigger della durata dell'impulso
+
+
+
+Modalità trigger a larghezza di impulso
+
+Trigger quando (<,>, = o); Impulso positivo o impulso negativo
+
+
+
+Punto di trigger della durata dell'impulso
+
+Uguale: l'oscilloscopio si attiva quando il fronte di discesa dell'impulso attraversa il livello di trigger.
+					Non uguale: se l'impulso è più stretto della larghezza specificata, il punto di trigger è il fronte di discesa. Altrimenti, l'oscilloscopio si attiva quando un impulso continua più a lungo del tempo specificato come Larghezza dell'impulso.
+					Minore di: il punto di trigger è il bordo di uscita.
+					Maggiore di (chiamato anche trigger straordinario): l'oscilloscopio si attiva quando un impulso continua più a lungo del tempo specificato come Durata dell'impulso
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gamma di ampiezza dell'impulso
+
+20ns ~ 10s
+
+
+
+Trigger di pendenza
+
+
+
+Modalità Slope Trigger
+
+Trigger quando (<,>, = o); Pendenza positiva o Pendenza negativa
+
+
+
+Punto trigger pendenza
+
+Uguale: l'oscilloscopio si attiva quando la pendenza della forma d'onda è uguale alla pendenza impostata.
+
+
+
+Non uguale: l'oscilloscopio si attiva quando la pendenza della forma d'onda non è uguale alla pendenza impostata.
+
+
+
+Minore di: l'oscilloscopio si attiva quando la pendenza della forma d'onda è inferiore alla pendenza impostata.
+
+
+
+Maggiore di: l'oscilloscopio si attiva quando la pendenza della forma d'onda è maggiore della pendenza impostata.
+
+
+
+Intervallo di tempo
+
+20ns ~ 10s
+
+
+
+Trigger straordinario
+
+
+
+Modalità nel tempo
+
+Bordo ascendente o Bordo discendente
+
+
+
+Intervallo di tempo
+
+20ns ~ 10s
+
+
+
+Trigger alternativo
+
+
+
+Trigger su CH1
+
+Trigger interno: bordo, larghezza dell'impulso, video, pendenza
+
+
+
+Trigger su CH2
+
+Trigger interno: bordo, larghezza dell'impulso, video, pendenza
+
+
+
+Trigger Frequency Counter
+
+
+
+Risoluzione di lettura
+
+6 digits
+
+
+
+Precisione (tipica)
+
+30 ppm (inclusi tutti gli errori di riferimento di frequenza e 1 errore di conteggio)
+
+
+
+Intervallo di frequenze
+
+Accoppiato AC, da un minimo di 4Hz alla larghezza di banda nominale
+
+
+
+Sorgente del segnale
+
+Modalità Pulse Width o Edge Trigger: tutte le sorgenti di trigger disponibili
+
+
+
+Il contatore di frequenza misura la sorgente di trigger in ogni momento, anche quando l'acquisizione dell'oscilloscopio si interrompe a causa di cambiamenti nello stato di esecuzione o l'acquisizione di un singolo evento di scatto è stata completata.
+
+
+
+Modalità trigger a larghezza di impulso: l'oscilloscopio conta impulsi di ampiezza significativa all'interno della finestra di misurazione 1s che si qualificano come eventi innescabili, come gli impulsi stretti in un treno di impulsi PWM se impostato sulla modalità <e la larghezza è impostata su un tempo relativamente piccolo.
+
+
+
+Modalità Edge Trigger: l'oscilloscopio conta tutti i bordi di ampiezza sufficiente e polarità corretta.
+
+
+
+Modalità trigger video: il contatore di frequenza non funziona.
+
+
+
+Misurare
+
+
+
+Misurazione del cursore
+
+Differenza di tensione tra i cursori: V
+
+
+
+Differenza di tempo tra i cursori: T
+
+
+
+Reciproco di T in Hertz (1 / T)
+
+
+
+Misurazione automatica
+
+Frequenza, periodo, media, picco-picco, Cycli RMS, minimo, massimo, tempo di salita, tempo di caduta,
+
+
+
++ Durata dell'impulso, -Larghezza dell'impulso, Delay1-2Rise, Delay1-2Fall, + Duty, -Duty, Vbase, Vtop, Vmid,
+
+
+
+Vamp, Overshoot, Preshoot, Preiod Mean, Preiod RMS, FOVShoot, RPREShoot, BWIDTH,
+
+
+
+FRF, FFR, LRR, LRF, LFR, LFF
+
+
+
+Modalità sorgente del segnale
+
+
+
+Impedenza della forma d'onda
+
+DC-25MHz
+
+
+
+Frequenza di campionamento
+
+200MHzDDS
+
+
+
+Forma d'onda di output
+
+Onda arbitraria / onda quadra / onda sinusoidale / onda triangolare / onda trapezoidale / onda pulsata / CC
+
+
+
+Risoluzione in frequenza
+
+0,1%
+
+
+
+Profondità della forma d'onda
+
+4KSa
+
+
+
+Risoluzione verticale
+
+12bit
+
+
+
+Stabilità in frequenza
+
+<30 ppm
+
+
+
+Gamma di forme d'onda
+
+3.5V Max
+
+
+
+Impedenza di uscita
+
+50
+
+
+
+Corrente di uscita
+
+50mA Ipeak = 100mA
+
+
+
+Sistema BW
+
+25M
+
+
+
+Distorsione armonica
+
+-50dBc 1 KHz -40dBc 10 KHz
+
+
+
+Caratteristiche generali
+
+
+
+Schermo
+
+
+
+Visualizza Tipo
+
+7 pollici 64K a colori TFT (cristalli liquidi diagonali)
+
+
+
+Risoluzione dello schermo
+
+800 pixel orizzontali per 480 verticali
+
+
+
+Contrasto del display
+
+Regolabile (16 marce) con la barra di avanzamento
+
+
+
+Uscita del compensatore della sonda
+
+
+
+Tensione di uscita (tipica)
+
+Circa 5 Vpp nel carico 1M
+
+
+
+Frequenza (tipica)
+
+1kHz
+
+
+
+Alimentazione elettrica
+
+
+
+Tensione di alimentazione
+
+100-120 V CA RMS (10%), da 45 Hz a 440 Hz, CAt II
+
+
+
+120-240 V CA RMS (10%), da 45 Hz a 66 Hz, CATII
+
+
+
+Consumo di energia
+
+<30 W.
+
+
+
+Fusibile
+
+2A, valutazione T, 250V
+
+
+
+Ambientale
+
+
+
+Temperatura
+
+In funzione: da 32 a 122 (da 0 a 50);
+
+
+
+Non in funzione: da -40 a 159,8 (da -40 a +71)
+
+
+
+Metodo di raffreddamento
+
+Convezione
+
+
+
+Umidità
+
++104 o inferiore (+40 o inferiore): 90% di umidità relativa;
+
+
+
+Da 106 a 122 (da +41 a 50): 60% di umidità relativa
+
+
+
+Altitudine
+
+In funzione: inferiore a 3.000 m (10.000 piedi);
+
+
+
+Non in funzione: sotto i 15.000 m (50.000 piedi)
+
+
+
+Meccanico
+
+
+
+Taglia
+
+Lunghezza 385 mm, larghezza 200 mm, altezza 245 mm
+
+
+
+Peso
+
+3.5 KG (con imballaggio); 2.08 kg (senza imballaggio
+
+
+
+
+
+
+Pacchetto include:
+
+
+1 x Hantek DSO4102C Palmare digitale Multimetri oscilloscopio
+	2 x sonda passiva
+	1 x cavo con clip a coccodrillo
+	1 x cavo USB
+	1 x CD
+	1 x manuale utente
+
+
+Immagini dei dettagli:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

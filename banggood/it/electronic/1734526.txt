@@ -1,0 +1,143 @@
+https://it.banggood.com/10Pcs-Geekcreit-ATmega328P-Nano-V3-Controller-Board-Improved-Version-Module-Development-Board-p-1734526.html?cur_warehouse=USA&rmmds=CategoryElectronicsPop
+10Pcs Geekcreit® ATmega328P Nano V3 Scheda controller Scheda di sviluppo del modulo versione migliorata
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifica:Microcontrollore ATmega328Tensione di esercizio (livello logico): 5VTensione di ingresso (consigliata): 7 V ~ 12VTensione di ingresso (limiti): 6 V ~ 20 V.Pin I / O digitali: 14 (di cui 6 forniscono l'uscita PWM)Pin di ingresso analogico: 8Corrente CC per pin I / O: 40 mAFlash Memoria: 32 KB (ATmega328) (di cui 2 KB utilizzati dal bootloader)SRAM: 2 KB (ATmega328)EEPROM: 1 KB (ATmega328)Velocità di clock: 16 MHzChip: CH340C / G Consegna casuale (CH340B è la versione aggiornata di CH340G, CH340B viene fornito con il cristallo, ma CH340G no)Nota:Chip USB migliorato per velocità e stabilità utilizzando WIN7 / WIN8. Questa versione viene fornita con i connettori dei pin dissaldati e non è incluso il cavo USB.Il pacchetto include:10 x Nessuna saldatura Scheda compatibile Nano V3.0
+
+
+
+

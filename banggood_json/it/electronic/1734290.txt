@@ -1,0 +1,146 @@
+1734290
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/94/5E/5b2fd5c7-d69f-42a9-aa18-b01d21536786.jpg
+Ricetrasmettitore SDR e interruttore ricevitore Antenna Interruttore Sharer TR Scatola con protezione contro le scariche di gas 160 MHz
+https://it.banggood.com/SDR-Transceiver-and-Receiver-Switch-Antenna-Sharer-TR-Switch-Box-with-Gas-Discharge-Protection-160MHz-p-1734290.html?cur_warehouse=USA&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifica:Impedenza: 50ΩGamma di frequenza: DC -160 MHzPotenza TX massima: 100 W.Soglia di rilevamento RF: <10 mW (testato da 1,8 MHz a 30 MHz)Tempo di accensione: <20 ms / Tempo di rilascio: <190 msPerdita di inserzione: <0,3 dB a 144 MHz (0,2 dB tipico)Isolamento RX:> 38dB @ 144MHz (40dB tipico)Protezione contro le scariche di gasAlimentazione: 13,8 V CC 200 mAPeso: 430 gDimensioni: 126 * 119 * 52 mmCome utilizzare un'antenna contemporaneamente per radio e SDR:1. Questo condivisore è un'antenna condivisa tra la radio e l'SDR. Dopo aver ricevuto la merce, aprire la scatola, rimuovere il "ponticello" al centro e cambiarlo in uno stato di controllo automatico, ovvero: quando la radio sta trasmettendo, il canale di ricezione SDR si chiude automaticamente e la radio Quando non trasmette , la radio riceve il segnale insieme all'SDR.2. Non è necessario cablare i jack davanti al pannello e non è necessario collegare la linea PTT distribuita.3. I jack posteriori corrispondono rispettivamente all'interfaccia di alimentazione (VDC), all'interfaccia radio (RADIO), all'interfaccia SDR e all'interfaccia dell'antenna (ANTENNA) e si collegano all'alimentatore in base a ciascuna interfaccia.4. Si consiglia di utilizzare l'alimentatore con buone prestazioni di schermatura e di coprirlo con un anello magnetico.5. Si consiglia di collegare a terra il condivisore e la shell radio, poiché la radio potrebbe interferire con l'SDR durante la trasmissione.6. Dopo aver rimosso il jumper presente nella scatola, è normale che la spia TRX sul pannello sia sempre accesa di colore rosso; quando la radio non sta trasmettendo, l'SDR sul pannello è verde ed è in normale stato di funzionamento; quando la radio sta trasmettendo, la spia SDR sul pannello sarà spenta e l'SSB seguirà l'idea di comunicazione. È normale che il suono cambi, la spia lampeggia e il relè emette un suono.Il pacchetto include:1 x Host1 cavo di alimentazione1 x 3,60 cm da SMA a SMA linea di collegamento1 x linea di controllo PTT
+
+
+
+

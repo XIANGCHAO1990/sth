@@ -1,0 +1,143 @@
+https://fr.banggood.com/Hantek-DSO2D15-Dual-Channel-+-AFG-Digital-Storage-Oscilloscope-150MHz-1GSa-or-s-Signal-Generator-Oscilloscope-2-In-1-p-1766504.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+Oscilloscope de stockage numérique Hantek DSO2D15 double canal + AFG 150MHz 1GSa / s oscilloscope générateur de Signal 2 en 1
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristique:1) 2 canaux, les deux sont respectivement contrôlés par des boutons indépendants;2) Bande passante de canal analogique 150MHZ;3) fréquence d'échantillonnage en temps réel de 1 GSa / s;4) profondeur de mémoire 8M;5) plage verticale 2 mV / div ~ 10 V / div;6) Générateur de forme d'onde 1 CH 5 MHz intégré;7) résolution verticale: 8 bits;8) Déclenchement: bord, largeur d'impulsion, vidéo, pente, heures supplémentaires, fenêtre, modèle, intervalle, délai, UART, LIN, POUVEZ, SPI, IIC;9) Décodage CAN et analyse du protocole: RS232 / UART 、 I2C 、 SPI 、 CAN 、 LIN10) peut enregistrer sous plusieurs formats de données, tels que le réglage, la forme d'onde, la forme d'onde de référence, CSV, l'image;11) voltmètre neuhérique 5 bits et fonction d'indicateur de fréquence matérielle 6 bits;12) 32 types de mesures automatiques avec statistiques, statistiques en temps réel de maxmeuh, le minimeuh, écart standard, etc.13) 2 ensembles de voltmètre neuhérique;14) Prise en charge des tests de seuil, mesures gratuites dans l'écran;15) Contrôle de commande à distance SCPI abondant;16) De nombreuses interfaces externes: hôte / périphérique USB.modèle du produit(REMARQUE: Cliquez sur le modèle pour accéder au lien d'achat du modèle correspondant)??Modèle CanauxBande passanteTaux d'échantillonnageProfondeur de stockageSource de signal (AWG)>> DSO2C10 <<2CH100MHz1GSa/S8M/>> DSO2C15 <<2CH150MHz1GSa/S8M/>> DSO2D10 <<2CH + 1CH100MHz1GSa/S8M1CH>> DSO2D15 <<2CH + 1CH150MHz1GSa/S8M1CH>>Veuillez cliquer ici pour télécharger le manuel d'utilisation en anglais<<>> Cliquez pour télécharger le logiciel DSO2000 <<Caractéristiques:Modèle: DSO2D15Canal: 2 CH + 1CHBande passante: 150 MHzTaux d'échantillonnage: 1GSa / SProfondeur de mémoire: 8MAFG: 1 CHParamètres ModèleDSO2D15DSO2D10DSO2C15DSO2C10Bande passante150MHz100MHz150MHz100MHzCanaux de l'oscilloscope2CH2CH2CH2CHGénérateur de forme d'onde1CH1CH - -OscilloscopeTaux d'échantillonnage1GSa / s (canal unique) 500MSa / s (deux canaux)AcquisitionÉchantillonnageExemple de donnéesValeur crête à crêteAfficher les bavures haute fréquence et aléatoiresMoyenneForme d'onde moyenne, temps: 4, 8, 16, 32, 64, 128Haute résolutionJusqu'à 12 bitsSaisirCouplage d'entréeCC, CA, GNDImpédance d'entrée1 MΩ ± 2% ‖20pF ± 3pFFacteur d'atténuation de la sonde1X, 10X, 100X, 1000XClasses de tension300V CAT IITension d'entrée maximeale300VRMS (10X)HorizontalInterpolation de forme d'onde(péché x)/xLongueur d'enregistrement maximealeMaximeuh d'un seul canal 8MDeux canaux maximeeuh 4MPlage d'échelle horizontale2ns / div ~ 100s / div 1, 2, 5 pas à pasMode base de tempsYT, XY, rouleau Décalage zéro± 0,5 div ×vitesse minimale de base de tempsTaux d'échantillonnage et Précision du temps de retard± 25 ppmHorloge à la dérive≤ ± 5 ppm / anMesure du temps d'incrément Précisionunique, mode '' acquisition ''(Bande passante complète)± （1 intervalle d'échantillonnage + 100 ppm × lecture + 0,6 ns??＞ 16 fois les moyennes± （1 intervalle d'échantillonnage + 100 ppm × lecture + 0,4 ns??Intervalle d'échantillonnage = sec / div ÷ 200Taux d'échantillonnage et Précision du temps de retard± 50 ppm （at tout intervalle supérieur à 1 ms??VerticaleModèleDSO2D15DSO2D10DSO2C15DSO2C10Bande passante150MHz100MHz150MHz100MHzTemps de montée en position BNC (typique)2.3ns3.5ns2.3ns3.5nsRésolution verticaleRésolution 8 bits, echaque canal échantillonne simultanémentSensibilité verticale2mV/div à 10V/divPlage de décalage2mV / div à 20mV / div, ± 100mV; 50mV / div à 200mV / div, ± 1V;500 mV / div à 2 V / div, ± 10 V; 5V / div à 10V / div, ± 50VOpération mathématique+, -, ×, ÷, FFTFFTFenêtre: rectangulaire, Hanning, Hamming, Brackman, Bartlett, fenêtre supérieure plateLimite de bande passante20MHzRéponse des basses（-3db??En position BNC ≤ 10HzPrécision du gain verticalEn mode d'acquisition «normal» ou «moyen», la précision de 10 V / div à 10 mV / div est de ± 3%;En mode d'acquisition `` normal '' ou `` moyen '', la précision de 5 mV / div à 2 mV / div est de ± 4%Précision du décalage CC± 0,1 div ± 2 mV ± 1% valeur de décalageRépétabilité de la mesure de tension, moyenne mode d'acquisitionSous le même réglage et environnement, ≥16 formes d'onde sont échantillonnées, △ V de deux moyennes quelconques: ± （3% × valeur + 0,05 div??Remarque: bande passante réduite à 6 MHz lors de l'utilisation d'une sonde 1XGâchetteType de déclencheurBord, Largeur d'impulsion, Vidéo, Pente, Heures supplémentaires, La fenêtre, Modèle, Intervalle, Retard, UART, LIN, POUVEZ, SPI, IICPlage de niveau de déclenchement ± 5 divisions à partir du centre de l'écranMode de déclenchementAuto, général, CélibataireNiveauCH1 ~ CH2± 4 divisions à partir du centre de l'écranEXT0~3.3VPlage de retenue8ns ~ 10sPrécision du niveau de déclenchementCH1 ~ CH20.2 div×volts / div à ± 4 divisions du centre de l'écranEXT± （Valeur de consigne× 6% + 40 mV??Déclencheur de bordPenteFront montant, front descendant, front montant ou descendantSource de signauxCH1, CH2, EXTDéclencheur de largeur d'impulsionPolaritéPolarité positive, polarité négativeÉtat(Quand)<,>,! =, =Source de signauxCH1 ~ CH2,Plage de largeur d'impulsion8ns ~ 10sPrécision8nsDéclencheur vidéoNorme de signalNTSC, PALSource de signauxCH1 ~ CH2SynchronisationLigne de balayage, neuhéro de ligne, champ impair, champ pair, tous les champsDéclencheur de pentePentemonter, tomberÉtat (quand)<,>,! =, =Source de signauxCH1 ~ CH2Intervalle de temps8ns ~ 10sPrécision8nsDéclencheur d'heures supplémentairesSource de signauxCH1 ~ CH2 ，PolaritéPolarité positive, polarité négativeIntervalle de temps8ns ~ 10sPrécision8nsDéclencheur de fenêtreSource de signauxCH1 ~ CH2 Déclenchement de modèleSchéma0: niveau bas; 1: haut niveau; X: ignorerNiveau （source de signal??CH1 ~ CH2Déclenchement d'intervallePentemonter, tomberÉtat (quand)<,>,! =, =Source de signauxCH1 ~ CH2Intervalle de temps8ns ~ 10sPrécision8nsDéclenchement de retardPolaritéPolarité positive, polarité négativeÉtat (quand)<,>,! =, =Source de signauxCH1 ~ CH2Intervalle de temps8ns ~ 10sPrécision8nsDéclencheur UARTÉtat (quand)démarrage, arrêt, données, contrôle pair-impair, erreur de réceptionSource de signaux(RX / TX)CH1 ~ CH2 Format des donnéesHex (hexadécimal)Longueur des données1 byteLargeur de bits de données5 bits, 6 bits, 7 bits, 8 bitsContrôle pair-impairaucun, impair, pairNiveau gratuithaut, basVitesse de transmission (en option)110/300/600/1200/2400/4800/9600/14400/19200/38400/57600/115200/230400/380400/460400 bit / sVitesse de transmission (définie par l'utilisateur)300 bits / s à 334000 bits / sDéclencheur LINÉtat (quand)Champ d'intervalle, champ de synchronisation, champ d'ID, erreur de synchronisation, identificateur, ID et donnéesSource de signauxCH1 ~ CH2Format des donnéesHex (hexadécimal)Vitesse de transmission (en option)110/300/600/1200/2400/4800/9600/14400/19200/38400/57600/115200/230400/380400/460400 bit / sVitesse de transmission (définie par l'utilisateur)300 bits / s à 334000 bits / sPeut déclancherÉtat (quand)Bit de départ, ID de trame distante, ID de trame de données, ID de trame, données de trame distante, données de trame de données, trame incorrecte, toutes les erreurs, erreur de réponse, trame de surchargeSource de signauxCH1 ~ CH2Format des donnéesHex (hexadécimal)Vitesse de transmission (en option)10000, 20000, 33300, 500000, 62500, 83300, 100000, 125000, 250000, 500000, 800000, 1000000Vitesse de transmission (définie par l'utilisateur)5 kbit / s ~ 1 Mbit / s  Déclencheur SPISource de signauxCH1 ~ CH2Format des donnéesHex (hexadécimal)Largeur de bits de données4, 8, 16, 24, 32Déclenchement IICSource de signaux (SDA / SCL)CH1 ~ CH2Format des donnéesHex (hexadécimal) Indice des données0 ~ 7Opportunité (condition)Bit de démarrage, bit d'arrêt, pas de réponse, adresse, données, redémarrageLa mesureLe curseurDifférence de tension entre les curseurs △ VDécalage horaire entre les curseurs △ TRéciproque de △ T, à Hertz (1 / △ T)Mesure automatiquefréquence, période, moyenne, crête à crête, RMS, le minimeuh, mixmeuh, temps de montée, temps de descente, + largeur, - largeur, base, haut, milieu, amplitude, dépassement, pré-dépassement, différence de phase de front montant, phase de front descendant différence, + duty, - duty, période moyenne, PRMS, FOVshoot, ROVshoot, BWIDTH, FRF, FFR, LRR, LRF, LFR, LFFDVMLa source de donnéesCH1, CH2Type de mesureValeur efficace CCValeur efficace ACCCFréquencemètrefréquencemètre matériel 6 bitsGénérateur de formes d'onde arbitrairesCanaliser1Taux d'échantillonnage200MSa/sRésolution verticale12 bits Fréquence maximeale25 MHz Formes d'onde standardsin 、 carré, impulsion, triangulaire, onde d'échantillonnage, indice, bruitForme d'onde arbitraireArb1, Arb2, Arb3, Arb4PéchéGamme de fréquences0,1 Hz à 25 MHzCarré / impulsionGamme de fréquences0,1 Hz à 10 MHzOnde triangulaireGamme de fréquences0,1 Hz à 1 MHzOnde d'échantillonnageGamme de fréquences0,1 Hz à 1 MHzIndiceGamme de fréquences0,1 Hz à 5 MHzBruit  Arb1Gamme de fréquences0,1 Hz à 10 MHz Arb2Gamme de fréquences0,1 Hz à 10 MHz Arb3Gamme de fréquences0,1 Hz à 10 MHz Arb4Gamme de fréquences0,1 Hz à 10 MHz Longueur de la forme d'onde8KSaLa fréquencePrécision100 ppm (<10 kHz) 50 ppm (> 10 kHz)Résolution0,1 Hz ou 4 bits ， prend le plus grandAmplitudePlage de sortie10mV ~ 7Vp-p (haute impédance)5 mV à 3,5 Vp-p (50)décalage CCVarier± 3,5 V, haute impédance± 1,75 V, 50 ΩRésolution100 μV ou 3 bits, prends le plus grandPrécision2% (1 kHz)Impédance de sortie50Spécifications généralesAffichageType d'affichage7'' diagonale TFT liquide CrystalRésolution d'affichage800 (horizontal) * 480 (vertical) pixelsCouleur d'affichage16 millions de couleurs (couleur vraie 24 bits)Temps de persistancele minimeuh, 1 s, 5 s, 10 s, 30 s, infiniType d'affichagepoint, vecteurLeuhinosité de l'écranAjustableType de grilleAjustableLeuhinosité de la grilleAjustableInterfaceInterface standardHôte USB ， Périphérique USBSpécifications généralesSortie du compensateur de sondeTension de sortie, typiqueenviron 2Vpp entrée ≥1MΩ chargeFréquence, typique1kHzSource de courant100-120VACRMS(± 10%), 45Hz à 440Hz, CATⅡ120-240VACRMS(± 10%), 45Hz à 66Hz, CATⅡConsommation d'énergie<30WFusibleT, 3,15 A, 250 V, 5 x 20 mmTempérature de fonctionnement0~50 °C (32~122 °F)Température de stockage-40~+71 °C (-40~159,8 °F)Heuhidité≤ + 104 ℉ (≤ + 40 ° C): ≤90% heuhidité relative106 ℉ ~ 122 ℉ (+ 41 ° C ~ 50 ° C): ≤60% heuhidité relativeAltitudeFonctionnement et non-fonctionnement3 000m (10 000 pieds)Choc mécaniqueVibrations aléatoires0.31 g RMS de 50Hz à 500Hz,10 minute sur chaque axeNon opérationnel2.46g RMS de 5Hz à 500Hz,10 minute sur chaque axeen fonctionnement50 g, 11 ms, onde demi-sinusoïdaleMécaniqueTaille318 x 140 x 150 mm (longueur x largeur x hauteur)Poids2900gLe forfait comprend :Photos de détails : 
+
+
+
+

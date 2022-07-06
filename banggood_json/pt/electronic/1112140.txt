@@ -1,0 +1,202 @@
+1112140
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/64/14/c81e0c94-d03e-41df-a8da-f30a43d89032.jpg
+Geekcreit® LCR-T4 Mega328 Testador de Transistor Medidor ESR de Capacitância Triode de Diodo com Casca
+https://pt.banggood.com/Geekcreit-LCR-T4-Mega328-Transistor-Tester-Diode-Triode-Capacitance-ESR-Meter-With-Shell-p-1112140.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificações:
+
+Resistor: 0.1ω-50Mω
+Condensador: 25pF-100000uF
+Indução: 0,01mH - 20H
+Potência de trabalho: DC-9V
+Corrente de espera: 0.02uA
+Corrente de operação: 25mA
+Material: metal + plástico
+Tamanho: cerca de 11,1cm / 4.37 "x2.6cm / 1.02" x8.5cm / 3.34 "
+[Conversão: 1cm = 0.3937 polegadas, 1 polegada = 2.54 cm]
+
+Descrição:
+
+1. Adicionar função de detecção de voltagem de inicialização
+2. Detecção automática de transistores NPN e PNP, MOSFET de canal N e canal P, diodos (incluindo diodos duplos), tiristores, transistores, resistências e capacitores e outros componentes
+3. Teste automático do elemento do pino e exibido no LCD
+4. Pode ser detectado para determinar a tensão de polarização do transmissor transistor do transistor, o diodo de proteção MOSFET e o fator de amplificação da base
+5. Medir a tensão do limite do portão e a capacitância do portão do MOSFET
+6. O visor 1602 lcd usa o LCD (12864 LCD com luz de fundo)
+7. Alta velocidade de teste, teste de componente válido: 2 segundos (exceto no capacitor maior de medição de capacitância grande também leva muito tempo, o tempo medido de um minuto é normal)
+8. Operação com um botão, teste de inicialização, obtenha uma chave
+9. Modo de desligamento de consumo de energia: menos de 20 nA de
+10. Função de desligamento automático para evitar desperdícios desnecessários, economizando energia da bateria, vida útil melhorada da bateria
+
+Nota:
+
+Bateria não está incluída.
+
+Incluído no pacote:
+
+1 x LCR-T4 Testador de transistor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,164 @@
+1545070
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/C4/E3/ca14c58b-28bd-4060-a599-fee4aa6f11d8.jpg
+LILYGO TTGO T-Beam ESP32 433/868/915 / 923Mhz V1.1 Módulo Bluetooth sem fio WiFi GPS NEO-6M SMA LORA32 18650 Bateria Suporte com OLED
+https://pt.banggood.com/LILYGO-TTGO-T-Beam-ESP32-433-or-868-or-915-or-923Mhz-V1_1-WiFi-Wireless-bluetooth-Module-GPS-NEO-6M-SMA-LORA32-18650-Battery-Holder-With-OLED-p-1545070.html?cur_warehouse=CN&ID=513922&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nota: OLED não é soldado ao T-BEAMSe você precisar de OLED adicional, pode comprá-lo em: ID do produto: 958196/produtos ID: 969144   Conteúdo de atualização do produto:   1. O pino GPIO34 é substituído por GPIO35  2. Substitua o IC de carregamento (TP5400) pelo gerenciamento de energia AXP192  3. GPS TX, substituição do pino RX  4. Ligue e remova, substitua com o botão para abrir  5. Corrente de sono reduzida  6. GPS substituição da bateria7. TODOS os armazéns: mudança de chip para CH9102 (atualização de 30/03/2022)    Descrição OLED:   1. Tamanho: 0,96 polegadas  2. Alta resolução: 128 * 64  3. Cor: branco  4. Ângulo de visão: > 160°  5. Driver IC: SSD1306  6. Temperatura de trabalho: -30 celcius ~ 80 celcius  7. Volume do módulo (generoso): 27,0MM * 27,0MM * 4,1MM  8. Suporta muitos chips de controle: Totalmente compatível com, série 51, série MSP430, STM32 / 2, etc. (muitas rotinas para referência)  9. Amplo suporte de tensão: sem qualquer modificação, suporta diretamente 3.3V ~ 5V DC  10. Consumo de energia ultra-baixo: operação normal é 0,04 W  11. A porta IO ocupa o mínimo de exibição: A comunicação IIC, desde que as duas portas IO   Características do ESP32:   Última versão ESP32: REV1  WI-FI  Bluetooth   4MB PSRAM  4MB Flash  3D Antena   Características LORA:   Tensão de trabalho: 1,8 ~ 3,7 v  Corrente aceitável: 10~14mA  Corrente de transmissão: 120mA@+20dBm, 90mA@+17dBm, 29mA@+13dBm  Frequência de operação: 433/470MHz (versão 433HMz) /868M/915M (versão 868MHz)  Potência de transmissão: +20dBm  Sensibilidade de recebimento:   -139dBm@LoRa &62.5Khz&SF=12&146bps  -136dBm@LoRa &125Khz&SF=12&293bps  -118dBm@LoRa &125Khz&SF=6&9380bps  -123dBm@FSK&5Khz&1,2Kbps  Erro de frequência: +/-15KHz  Espaço FIFO: 64Byte  Taxa de dados: 1,2K~300Kbps@FSK, 0,018K~37,5Kbps@LoRa          Modo de Modulação: FSK,GFSK,MSK,GMSK,LoRa TM, OK  Forma de interface: SPI  Corrente de sono: 0,2uA@SLEEP, 1,5uA@IDLE  Temperatura de operação: -40℃- +85℃  Função RSSI digital  Correção automática de frequência  Controle automático de ganho   Detecção de baixa tensão   Despertar rápido e salto de frequência  Manipulador de pacotes de dados altamente configurável   GPS:   Módulos GPS NEO-6M, fonte de alimentação 3V-5V Universal  Módulo destinado com antena cerâmica, sinal super  Salve os dados do parâmetro de configuração EEPROM Down  Com bateria de backup de dados  Há LED indicador de sinal  Taxa de transmissão padrão: 9600   Poder:   TP5400  1A Bateria Gestão  Indicador LED: Existem 4 LEDs que mostram o status da bateria em tempo real.  USB: CP2104-GMR (EUA/Reino Unido armazém)  Firmware pré-flash: -SoftRF V4.0 O pacote inclui:   1 x TTGO T-Beam ESP32  1 x Antena  1 x 0,96 polegadas 128X64 OLED  2 x  Pin   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

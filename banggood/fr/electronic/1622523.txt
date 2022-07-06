@@ -1,0 +1,225 @@
+https://fr.banggood.com/ALTERA-Cyclone-IV-EP4CE6-FPGA-Development-Board-Kit-Altera-EP4CE-NIOSII-FPGA-Board-and-USB-Downloader-Infrared-Controller-p-1622523.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+ALTERA Cyclone IV EP4CE6 Kit de carte de développement FPGA Altera EP4CE NIOSII carte FPGA et contrôleur infrarouge de téléchargement USB
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manuel : Cliquez ici pour ouvrir>>>Manuel 1 <<<>>>Manuel 2 <<<>>>Manuel 3 <<<>>>Manuel 4 <<<>>>Manuel 5 <<<Caractéristiques:
+
+
+
+1. la puce principale du nouveau FPGA Cyclone IV série EP4CE6E22C8N de ALTERA
+
+2. Puce de configuration série EPCS16N haute capacité intégrée, prend en charge le mode de téléchargement JTAG/AS deux
+
+3. SDRAM 64 Mbit embarquée, prise en charge SOPC, développement NIOSII
+
+4. Cristal actif 50 MHz intégré, la stabilité du système d'horloge maître
+
+5. Utilisation d'une puce de régulateur de tension 1117-3.3V, pour fournir une sortie de tension de 3.3V
+
+6. Utilisation d'une puce de régulateur de tension 1117-1.2V pour fournir une tension de base FPGA
+
+7. Utilisation d'une puce de régulateur de tension 1117-2.5V, pour fournir une sortie de tension PLL
+
+8. Utilisation d'un grand nombre de condensateurs de découplage, conception de découplage
+
+9. Prise d'alimentation cc 5V et prise d'alimentation d'interface USB, deux types de mode d'alimentation
+
+10. 1 bouton de réinitialisation, peut également être utilisé comme bouton d'entrée utilisateur
+
+11. 1 interrupteur d'alimentation à bouton autobloquant
+
+12. 1 LED voyant d'alimentation
+
+13. De toutes les interfaces IO, l'espacement universel de 2,54 mm peut être facilement étendu
+
+14. L'interface de téléchargement JTAG pour télécharger le fichier est .SOF, la vitesse est rapide, l'utilisation habituelle de cette interface est recommandée
+
+15. AS interface de téléchargement pour télécharger le fichier est .POF, la vitesse est lente, besoin d'utiliser cette interface lors du processus de durcissement
+
+
+
+Interface périphérique :
+
+
+
+1. 4 clés indépendantes
+
+2. 4 diodes LED,
+
+3. 4 tubes numériques
+
+4. Commutateur à 4 cadrans
+
+5. 1 sonnerie
+
+6. Interface PS2
+
+7. Port série RS232
+
+8. Prise 1*20 broches LCD, prise en charge LCD1602, LCD12864, TFT LCD
+
+9. Puce de capteur de température LM754A, pour l'expérience du thermomètre
+
+10. Résistance réglable avec précision, rétroéclairage LCD réglable
+
+11. Interface VGA, pour l'expérience d'affichage
+
+12. I2C série EEPROMAT24C08, pour l'expérience de bus IIC
+
+13. Module de réception infrarouge
+
+
+
+Emballage inclus:
+
+
+
+1 x carte mère
+
+1 x téléchargeur USB
+
+1 télécommande
+
+1 câble USB.
+
+
+
+
+
+
+

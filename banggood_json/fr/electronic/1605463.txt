@@ -1,0 +1,435 @@
+1605463
+https://imgaz3.staticbg.com/thumb/large/oaupload/ser1/banggood/images/DA/9F/f305f55d-fe2b-4ca0-a8d0-2f838a0b596c.jpg
+ESP32-CAM WiFi + carte de développement bluetooth ESP32 avec FT232RL convertisseur série USB FTDI vers TTL 40 broches Jumper
+https://fr.banggood.com/ESP32-CAM-WiFi-+-bluetooth-Development-Board-ESP32-with-FT232RL-FTDI-USB-to-TTL-Serial-Converter-40-Pin-Jumper-p-1605463.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Module sans fil ESP32-CAM]
+
+		La description:
+
+
+
+
+			1. ESP32-CAM est une carte de développement double mode Bluetooth WIFI + qui utilise des antennes et des noyaux PCB embarqués basés sur des puces ESP32. Il peut fonctionner indépendamment comme système minimum.
+
+			2. ESP intègre le WiFi, le Bluetooth traditionnel et la balise BLE, avec 2 processeurs LX6 32 bits hautes performances, une architecture de pipeline à 7 étages, une plage de réglage de fréquence principale de 80 MHz à 240 MHz, un capteur sur puce, un capteur Hall, un capteur de température, etc.
+
+			3. Entièrement conforme aux normes WiFi 802.11b/g/n/e/i et Bluetooth 4.2, il peut être utilisé comme mode maître pour créer un contrôleur de réseau indépendant, ou comme esclave d'autres MCU hôtes pour ajouter des capacités de mise en réseau aux existants. dispositifs.
+
+			4. ESP32-CAM peut être largement utilisé dans diverses applications IoT. Il convient aux appareils intelligents domestiques, au contrôle sans fil industriel, à la surveillance sans fil, à l'identification sans fil QR, aux signaux du système de positionnement sans fil et à d'autres applications IoT. C'est une solution idéale pour les applications IoT. 
+
+
+Caractéristiques:
+
+
+
+- Module SoC 802.11b/g/n ultra-compact Wifi + BT/BLE
+
+- Processeur double cœur 32 bits à faible consommation pour les processeurs d'application
+
+- Jusqu'à 240MHz, jusqu'à 600 DMIPS
+
+- SRAM 520 Ko intégrée, PSRAM 4M externe
+
+- Prend en charge les interfaces telles que UART/SPI/I2C/PWM/ADC/DAC
+
+- Prise en charge des appareils photo OV2640 et OV7670 avec flash intégré
+
+- Prise en charge du téléchargement d'images WiFI
+
+-Prise en charge de la carte TF
+
+- Prise en charge de plusieurs modes de veille
+
+- Lwip et FreeRTOS intégrés
+
+- Prise en charge du mode de fonctionnement STA/AP/STA+AP
+
+- Prise en charge du réseau de distribution en un clic Smart Config/AirKiss
+
+- Prise en charge de la mise à niveau locale en série et de la mise à niveau du micrologiciel à distance (FOTA)
+	- Soutenir le développement secondaire
+
+
+
+Noter:
+
+
+
+Ce produit contient le module caméra OV2640. Si vous devez utiliser la caméra OV7670, veuillez l'acheter séparément.
+
+
+Spécifications du produit:
+
+
+
+
+					Modèle de module
+
+					ESP32-CAM
+
+
+
+					Paquet
+
+					DIP-16
+
+
+
+					Taille
+
+					27*40,5*4,5(±0,2) mm
+
+
+
+					SPI Flash
+
+					32Mbit par défaut
+
+
+
+					RAM
+
+					interne 520 Ko + externe 4M PSRAM
+
+
+
+					Bluetooth
+
+					Normes Bluetooth4.2BR/EDR et BLE
+
+
+
+					Wifi
+
+					802.11b/g/n/e/i
+
+
+
+					Interface d'assistance
+
+					UART, SPI, I2C, PWM
+
+
+
+					Prise en charge de la carte TF
+
+					Prise en charge maximale de la 4G
+
+
+
+					port E/S
+
+					9
+
+
+
+					Taux de port série
+
+					par défaut 115200 bps
+
+
+
+					Format de sortie d'image
+
+					JPEG (uniquement pris en charge par OV2640), BMP, ÉCHELLE DE GRIS
+
+
+
+					Gamme de spectre
+
+					2412 ~ 2484MHz
+
+
+
+					Forme d'antenne
+
+					antenne PCB embarquée, gain 2dBi
+
+
+
+					Puissance de transmission
+
+					802.11b : 17±2 dBm (@11Mbps)
+					802.11g : 14±2 dBm (@54Mbps)
+					802.11n : 13±2 dBm (@MCS7)
+
+
+
+					Sensibilité de réception
+
+					CCK, 1 Mbps : -90dBm
+					CCK, 11 Mbits/s : -85 dBm
+					6 Mbps (1/2 BPSK) : -88dBm
+					54 Mbps (3/4 64-QAM) : -70 dBm
+					MCS7 (65 Mbits/s, 72,2 Mbits/s) : -67 dBm
+
+
+
+					Consommation d'énergie
+
+					Éteignez le flash : 180 mA à 5 V
+					Allumez le flash et réglez la luminosité au maximum : 310mA@5V
+					Sommeil profond : la consommation d'énergie la plus faible peut atteindre 6 mA à 5 V
+					Modem-sommeil : jusqu'à 20mA@5V
+					Veille légère : jusqu'à 6,7 mA à 5 V
+
+
+
+					Sécurité
+
+					WPA/WPA2/WPA2-Entreprise/WPS
+
+
+
+					Plage d'alimentation
+
+					5V
+
+
+
+					Température de fonctionnement
+
+					-20 °C ~ 85 °C
+
+
+
+					Environnement de stockage
+
+					-40 °C ~ 90 °C, < 90 % HR
+
+
+
+
+Taux de format de sortie d'image ESP32-CAM :
+
+
+
+
+
+
+					QQVGA
+
+					QVGA
+
+					VGA
+
+					SVGA
+
+
+
+					JPEG
+
+					6
+
+					7
+
+					7
+
+					8
+
+
+
+					BMP
+
+					9
+
+					9
+
+					-
+
+					-
+
+
+
+					ÉCHELLE DE GRIS
+
+					9
+
+					8
+
+					-
+
+					-
+
+
+
+	Environnement de test : modèle de caméra : OV2640 XCLK : 20MHz, le module transmet les images au navigateur de l'ordinateur par WiFi.
+
+For more déposers, please click here: déposer
+
+
+[Module FT232RL]
+
+
+
+		L'adaptateur série USB FTDI est livré avec la puce FT232RL et utilise à la fois une tension de fonctionnement de 3,3 V et 5V. Le niveau logique de l'adaptateur peut être défini via des cavaliers sur la carte, ce qui facilite la connexion à votre contrôleur. L'alimentation USB a une protection contre les surintensités, en utilisant un fusible à restauration automatique 500MA. Vous pouvez utiliser les modules de ce kit pour graver le programme directement sans achat supplémentaire.
+
+
+
+[Fils femelles à femelles Dupont Jumper]
+
+
+
+		Les fils Jumper sont fabriqués en fil de cuivre de haute qualité pour une utilisation sûre et durable. Cet ensemble contient des fils de 20 cm à 40 broches mâles à mâles Jumper, avec lesquels vous pouvez plus facilement terminer le projet.
+
+
+
+Emballage inclus:
+
+
+
+1 module ESP32-CAM
+
+1 x module caméra OV2640 2MP
+		1 x Module FT232RL
+1 x Fils femelle à femelle Dupont Jumper 
+
+
+
+
+
+
+
+
+
+
+
+

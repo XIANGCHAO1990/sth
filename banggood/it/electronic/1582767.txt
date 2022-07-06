@@ -1,0 +1,365 @@
+https://it.banggood.com/Creality-3D-Ender-5-Plus-3D-Printer-Kit-350+350+400mm-Large-Print-Size-Dual-Z-Axis-or-Auto-Bed-Leveling-Pre-Installed-p-1582767.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Crealità 3D® Ender-5 Plus Kit stampante 3D 350*350*400 mm Grande formato di stampa Doppio asse Z/livellamento piano automatico preinstallato
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▶ Suggerimenti caldi: non è più inclusa la scheda SD e il disco USB. ▶ Download file: 
+
+1. Ender 5 Plus Firmware lampeggiante (correzione BLTouch) Vider: Clicca qui2. Ender-5 Plus tutorial per la stampa del livellamento automatico3. Cosa devo fare se Ender-5Plus non stampa e la gola è bloccata?4. File della scheda SD▶ Panoramica: Grande Formato 350x350x400mm | Doppio asse Z | Auto livellamento del letto preinstallato▶ Caratteristiche:
+
+
+
+● Stampante 3D con cornice a cubo: Struttura a cubo molto solida. Scatola Design con cavalletto sopraelevato. Crealità Ender-5 Plus 3D Printer è la versione più grande della stampante Crealità Ender 5 Series 3d, con lo stesso telaio cubico solido e cubico.   Formato di stampa ultra grande: 350X350X400mm. Soddisfa più requisiti di stampa. La tua idea non dovrebbe essere confinata. Ottieni risultati di stampa migliori e un modello di stampa più grande alla volta.
+
+
+●Auto livellamento del letto preinstallato: Con BL Touch come configurato. Basta collegarli e iniziare a stampare! Può misurare con precisione l'inclinazione della superficie del letto, offre una compensazione automatica per l'asse Z per le irregolarità della piastra della piattaforma, è facile risolvere il problema di stampa causato dall'irregolarità della piattaforma e fornire un funzionamento affidabile con tutte le superfici di costruzione.
+
+● Spegnimento standard riprende la stampa e la funzione di rilevamento dell'esaurimento del filamento per evitare guasti di stampa causati da interruzione di corrente, taglio del materiale.
+
+
+
+● Doppio asse Z: azionamento a vite di precisione dell'asse Z senza intoppi. Il movimento della piastra di costruzione sarà più stabile. 
+
+
+
+
+
+
+
+
+
+
+
+
+Specifiche
+
+
+
+Marca
+
+Crealità
+
+
+
+Modello
+
+Ender-5 Plus
+
+
+
+Metodo di stampa
+
+FDM
+
+
+
+Precisione di stampa
+
+±0,1 mm
+
+
+
+Spessore dello strato
+
+0.1-0.4mm
+
+
+
+Diametro ugello
+
+0.4mm
+
+
+
+Precisione di posizionamento dell'asse XY
+
+0.012mm
+
+
+
+Precisione di posizionamento dell'asse Z
+
+0.001mm
+
+
+
+Temperatura dell'ugello
+
+≤260 ℃
+
+
+
+Temperatura del letto caldo
+
+≤110 ℃
+
+
+
+Modalità operativa
+
+le carte online o TF vengono stampate offline
+
+
+
+formato del file
+
+STL,OBJ,amf
+
+
+
+Software per affettare
+
+Crealità Slicer/Cura/Repetier-Host/Simplify3D
+
+
+
+Parametro di potenza
+
+Ingresso: 100-240 V CA; Uscita: CC 24 V 21 A; Max25 A
+
+
+
+Alimentazione elettrica
+
+350W INTANTO
+
+
+
+Potenza della macchina
+
+550W Max
+
+
+
+Materiale di stampa
+
+PLA/ABS/Soft Colla/Legno/ Rame Contenente/filamento sfumato, ecc.
+
+
+
+Diametro consumabile
+
+1.75mm
+
+
+
+Tensione nominale
+
+115V/230V 50/60Hz
+
+
+
+Tensione di uscita di potenza
+
+24V
+
+
+
+Potenza letto caldo
+
+460W
+
+
+
+Tipo di pannello di controllo
+
+2560
+
+
+
+Parametri del motore
+
+Motore passo-passo 42-40, motore passo-passo 42-34, angolo passo 1,8°
+
+
+
+motorizzato
+
+A4988 16 suddivisione
+
+
+
+Schermo
+
+4,3 pollici LCD touch screen
+
+
+
+Sistema operativo del computer
+
+Windows XP / Vista / 7/10 MACLinux
+Firmware FlashUSB
+
+
+Dimensioni della macchina
+
+Lunghezza 632 larghezza 666 altezza 619
+
+
+
+Dimensioni della confezione
+
+Dimensioni esterne L730*W740*H310
+
+
+
+Peso lordo della macchina
+
+23.8KG
+
+
+
+Peso netto della macchina
+
+18.2KG
+
+
+
+Alimentazione elettrica
+
+Spina standard UE (predefinito)
+
+
+
+
+Il pacchetto include:
+
+1 x Ender-5 Plus Kit stampante 3D
+
+
+
+
+

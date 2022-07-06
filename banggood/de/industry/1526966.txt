@@ -1,0 +1,313 @@
+https://de.banggood.com/MDP-XP-30V-or-5A-90W-2_4G-Wireless-Connection-Digital-Programmable-Power-System-with-2_8-inch-TFT-Screen-Monitor-Automatic-Matching-Control-6-Sub-modules-p-1526966.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+MDP-XP 30V / 5A 90W 2.4G Drahtlose Verbindung Digitales programmierbares Stromversorgungssystem mit 2,8-Zoll-Bildschirmmonitor TFT Automatische Matching-Steuerung 6 Submodule
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IchBeschreibungen:
+
+
+
+MDP (Mini Digital Power System) ist ein modular aufgebautes, programmierbares lineares DC-Netzteil, das je nach Bedarf verschiedene Module anschließen kann.
+
+Aktuelle Funktionsmodule:Display-Steuermodul,Digitales Leistungsmodul
+
+Module in Develop:Digital Signal Generator Module,Elektronisches Lastmodul,Leistungslademodul,Akkumodul
+
+
+
+MDP-XP besteht aus einem Display-Steuermodul und einem digitalen Leistungsmodul. Durch die drahtlose 2,4-G-Verbindung erreicht es eine Mehrkanal-freie Kombination mit einer Leistung von 90 W pro Kanal. MDP-XP ist ein sehr kostengünstiges programmierbares lineares DC-Netzteil mit Indikatoren, Stabilität, Zuverlässigkeit und einer eindeutigen Benutzeroberfläche, die mit professionellen Netzteilen vergleichbar ist; es bietet auch programmierbare Ausgabe, Timing-Ausgabe, sequentielle Steuerung, automatische Kompensation und andere leistungsstarke Funktionen, um vielfältige Testanforderungen zu erfüllen.
+
+
+
+Anzeigesteuermodul: Ausgestattet mit einem 2,8-Zoll-TFT-Bildschirm kann es die Spannungs-Strom-Wellenform in Echtzeit anzeigen, Datenstatistiken unterstützen und automatisch sechs Submodule (digitale Leistungsmodule) mit zwei Daumenrädern koppeln und steuern Benutzerfreundliches Design mit 90-Grad-Scrolling.
+
+Digitales Leistungsmodul: hocheffizienter linearer Ausgang, 0,25 mV Welligkeit, schnelles Einschwingverhalten und Unterstützung einer präzisen Feinabstimmung.
+>>Bitte klicken Sie hier, um die zu finden  MDP-P905 Digitales Leistungsmodul<<
+
+
+
+IchMerkmale:
+
+
+- 2,4-G-Funkverbindung, die eine Display-Steuerung sowie sechs Digital Powers unterstützt
+
+- DC-Weitspannungseingang zwischen 4,2 V und 30 V, nach dem Start auf 2,7 V reduziert
+
+- Schnelles Einschwingverhalten und Überstromschutz, so schnell wie 4uS
+
+- Extrem niedrige Lastregelung und intelligente Leitungsverlustkompensation
+
+- Hohe Effizienz und natürliche Wärmeableitung mit 90W Kapazitätslast
+
+- Unterstützen Sie positiven und negativen Druck, serielle Druckbeaufschlagung, parallele Stromteilung, freie Kombination von kollaborativer Last und intelligente Leistungszuweisung
+
+- Sicherheitsschutz: Eingangsüberspannung, Unterspannungsschutz, Verpolungsschutz, Rückflussschutz, Übertemperaturschutz und Überstromschutz
+
+
+
+IchAnwendungen: 
+
+
+Allgemeine Tests und Lehrversuche im F&E-Labor 
+
+Wartung von Mobiltelefonen, Laptops und anderen digitalen Produkten 
+
+Stromversorgungsprüfung und Datenlogger von HF- und Mikrowellenschaltungen oder -modulen
+
+Liefern Sie gereinigten Strom für hochgenaue Digital-Analog-Schaltungen und Hi-Fi-Audiogeräte
+
+Eigenschaftsüberprüfung und Fehlerdiagnose von Geräten und Schaltungen
+
+Qualitätskontrolle und Qualitätsprüfung
+
+Notstromversorgung für Modusllflugzeuge und Fahrzeuge
+
+IchSpezifikationen:
+
+
+
+
+
+Modus
+
+MDP-XP
+
+
+
+Eingang
+
+DC4,2V-30V (nach dem Start 2,7V), 100mA-6A, Unterstützung QC3.0
+
+
+
+Ausgabe
+
+30V/5A,90W
+
+
+
+Anpassungsrate
+
+Lastanpassungsrate <±0,01^%
+
+
+
+Leistungsanpassungsrate <±0,01^%
+
+
+
+Welligkeit und Rauschen
+
+250uVrms/3mVpp
+
+
+
+Transiente Reaktionszeit
+
+4uS
+
+
+
+Leitungsverlustkompensation
+
+5mR-100mR
+
+
+
+Schutz
+
+Eingangsüberspannung,Unterspannung, Anti-Reverse, Ausgang Anti-Rückfluss, Übertemperatur
+
+
+
+Datenaufzeichnung
+
+Max. Speicher: 7 MB, Max. Aufnahmezeit: 24 Stunden.
+
+
+
+Andere
+
+Automatisch herunterfahren und in den Micro-Power-Modus wechseln
+
+
+
+Unterstützt USB-Firmware-Upgrade
+
+
+
+Unterstützen Sie die Benutzerkalibrierung
+
+
+
+
+Paket beinhaltet:
+
+1 x MDP-XP Power System (1 x MDP-M01 Smart Digital Monitor + 1 x MDP-P905 Digital Power Supply)
+
+1 x Kabel (2,5 mm Audiokopf zu Micro USB)
+
+2 x Ausgangsleitung (4mm Bananenkopf zu Krokodil Clip)
+
+Details Bilder:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

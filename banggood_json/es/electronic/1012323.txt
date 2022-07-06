@@ -1,0 +1,215 @@
+1012323
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/58/FC/80eba97c-e8c5-4b3a-82eb-f4b0cf97ac29.jpg
+Geekcreit® 12V 4CH Canal 433Mhz Inalámbrico Interruptor del Control Remoto con 2 Transmisores
+https://es.banggood.com/Geekcreit-12V-4CH-Channel-433Mhz-Wireless-Remote-Control-Switch-With-2-Transmitter-p-1012323.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: Si necesita más transmisor , por favor, busque 1018573
+Este producto no suministra ninguna instrucción, por favor haga referencia a la descripción.
+Esta versión no apoya la función de copiar el código, observe esto por favor antes de pedirlo.
+
+Características:
+
+Es un código de aprendizaje de control remoto inalámbrico (receptor), la forma de salida /forma de trabajo se puede cambiar como quiera, es fácil emparejar el transmisor. Tiene 4 relés que pueden hacer el equipo girando o invirtiendo, encendido / apagado y así sucesivamente en realidad. El volumen es pequeño y el rendimiento es estable y confiable, reciben alta sensibilidad.
+
+1. Cubre la aplicación que se extiende del control remoto doméstico simple al control autónomo, como la puerta de vehículo, ventana, equipo de elevación, acceso de entrada, controlador arriba y abajo, control industrial del sistema de alarma y seguridad etc.
+2. Estos controles remotos están diseñados para controlar una amplia variedad de dispositivos electrónicos con una señal inalámbrica.
+3. Extremadamente fácil de instalar y usar.
+4. Compatible con 2262/2260/1527/2240 etc viruta y diverso control remoto inalámbrico del código. Así que puede satisfacer la necesidad de alguien de elegir el control remoto inalámbrico, ya que les gusta trabajar con él.
+
+Instrucciones:
+
+1. Presione el código de aprendizaje, el indicador parpadea, afloje su dedo, presione cualquier botón del control remoto, el indicador parpadea 2 veces y apaga, significa que usted lo domina con éxito.
+2. Puede aprender más de 12 PCS 2262 o 1527 viruta con el diverso control remoto del código.
+3. Quitar / limpiar: Presione el botón de aprendizaje unos 8 segundos, el indicador se enciende a apagado, significa que la información que guarda usted se han eliminado con éxito.
+
+Modo de trabajo de salida:
+
+1. Auto-bloqueo: Conecte el JP1 con la tapa de corte.
+2. Empujoncito: La tapa de corte no tiene ocupación, JP1 y JP2 tampoco conectan.
+3. Entrelazar: Conecte el Jp2 con la tapa de corte,
+Empujoncito: Presione un botón está encendido, afloje su dedo en el mismo botón está apagado (necesita un interruptor de canal y un botón de control remoto).
+Auto-bloqueo:Presione un botón para una vez encendido, presione el mismo botón de nuevo desactivado (necesita un interruptor de canal y un botón de control remoto).
+Entrelazar: Presione un botón encendido, presione otro botón apagado (necesita un interruptor de canal y 2 botones de control remoto).
+
+Receptor:
+
+1. Voltaje de funcionamiento: DC12V
+2. Condiciones de reposo: Menos de 6mA
+3. Temperatura de trabajo: -40°c + 80°c
+4. Sensibilidad del receptor: Más que -105dBm
+5. Frecuencia de trabajo: 433mhz
+6. Voltaje de salida: DC y AC es opcional
+7. Corriente de salida: Menos de 3A
+8. Corriente máxima de la carga: 10A
+9. Dimensiones: 72 x 52 x 26mm
+
+Transmisor de control remoto:
+
+1. Distancia alejada: 200M
+2. Voltaje de funcionamiento: DC 12V
+3. Frecuencia: 433mhz
+4. Corriente de funcionamiento: 13 mAh
+5. Tipo de código: Código fijo / código de aprendizaje
+6. Dimensiones: 58 x 39 x 14mm
+
+Paquete incluído:
+
+2 x Transimisor
+1 x Receptor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

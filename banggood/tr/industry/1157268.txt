@@ -1,0 +1,263 @@
+https://tr.banggood.com/FY3224S-(FY3200S-24M)-24MHz-Dual-channel-Arbitrary-Waveform-DDS-Function-Signal-Generator-Sine-Square-Wave-Sweep-Counter-p-1157268.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+FY3224S (FY3200S-24M) 24MHz Çift Kanallı Keyfi Dalga Formu DDS Fonksiyon Sinyal Üreteci Sinüs Kare Dalga Tarama Sayacı
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Açıklama:
+
+
+
+FY3224S 24MHz Çift Kanallı Keyfi Dalga Formu DDS Fonksiyon Sinyal Üreteci Sinüs Kare Dalga Tarama Sayacı
+
+
+
+Features: 
+
+
+
+	Çıkış sinyali frekansı yüksek doğruluk, iyi kararlılık.
+	20Vpp'ye kadar sinyal genliği.
+	Enstrüman, kullanımı kolay fonksiyon parametrelerinin ayar programını gerçekleştirebilir.
+	Eşlik eden frekans ölçer, sayaç işlevi, yüksek maliyet.
+	Cihaz, sinüs, kare, üçgen, rampa, darbe, merdiven, DC voltaj dalga formu çıkışı yapabilir.
+	Darbe dalgası darbe genişliği hassasiyeti ayarlanabilir.
+
+
+
+İşlev:
+
+	1. Using DDS direct digital synthesis technology to generate precise, stable, low distortion output signal.
+	2. CH1 ve CH2 tamamen simetrik iki kanal, her kanal bağımsız olarak parametreleri ayarlayabilir.
+	3. Supports user-defined waveforms, each arbitrary waveform memory depth 2048 x 12bits, 250MSa / s sampling rate.
+	4. Patlama çıkışı, seçilebilir manuel tetikleme, dahili ve harici tetikleme CH2, ünitenin herhangi bir çıkış 1 - 1048575 patlamasına izin veren üç tetikleme moduna sahiptir.
+	5. Measurement functions: instrument comes with 100MHz frequency counter functions and pulse counter functions.
+	6. Dalga biçimi üreteci 12 bit genişliğe kadar, çıkış dalga biçimi daha hassastır, dalga biçimi bozulması büyüklüğü azaltılmıştır.
+	7. With full CNC functions, display and digital adjustment phase current amplitude of the output signal, offset, frequency, duty cycle, and the two signals.
+	8. Enstrümanı bilgisayara bağladıktan sonra, bilgisayarı PC kontrol sinyali üreteci fonksiyonları ve parametreleri aracılığıyla kullanabilir ve enstrümana rastgele dalga formu çıkış dalga formunu indirmek için bir bilgisayarda düzenlenebilir.
+
+	9. İletişim: seri iletişim, protokol tamamen açık, kullanıcı dostu ikincil geliştirme.
+	10. High frequency accuracy: frequency accuracy up to 10-6 magnitude.
+	11. Yüksek frekans çözünürlüğü: 10 mHz frekans çözünürlüğünün tam aralığı.
+	12. Tracking function: built-in frequency, amplitude, offset, duty cycle, waveform and other parameters follow function, easy to use.
+	13. Tarama özellikleri: bir frekans doğrusal tarama ve logaritmik tarama işlevi, tarama başlangıç ve bitiş noktaları ayarlanabilir.
+	14. Storage feature: You can store 20 groups instrument state parameters set by the user, can be called up to Reproduce
+	15. Çalışma: tuş işlemi, İngilizce olarak LCD1602 LCD ekran, doğrudan dijital ayar parametreleri veya sürekli ayar düğmesi.
+	16. Input voltage protection: extended power input range AC85V to AC240V wide voltage.
+	17. Çıkış kısa devre koruması: Tüm sinyal çıkışları, 60S aşırı yük kısa devresinde çalışabilir.
+
+
+
+
+
+
+
+
+
+
+Teknik parametreler:
+	Dahili anahtarlama güç kaynağı: AC85V-AC260V
+	Interface: USB
+
+Sinyal çıkışı:
+	Çıkış genliği: ≥≥20Vp-p (yüksüz)
+	Output Impedance: 50Ω ± 10%
+	DC polarizasyonu: ± 10V
+	Frequency range: 0Hz - 24MHz (orther  0Hz - 6MHz)
+
+Sayaç:
+	Sayım aralığı: 0-4294967295             
+	Measurement frequency range: 1Hz - 100MHz
+	Giriş genliği: 1Vp-p - 20Vp-p
+
+Tarama işlevi:
+	Tarama modu: Doğrusal tarama, logaritma taraması
+	Frequency Range: Start and end points set arbitrary
+	Frekans tarama aralığı: M1 - M2 önceden belirlenmiş frekans
+	Scan rate: 1s ~ 999s / step
+
+Diğer:
+	Depolama ve aktarılan işlevler: M0 - M9 (M0: varsayılan)
+	Size: 200mm (L) × 190mm(W) × 90mm(H)
+	Sesli uyarı işlevi: program tarafından açık veya kapalı olarak ayarlamak için
+	Operating characteristics: All key operation, continuous adjustment knob
+	Çevre koşulları: Sıcaklık 0-40 ℃ nem <% 80
+
+>>> CD'deki tüm dosyaları indirmek için TIKLAYINIZ <<<
+	>>>CLICK here to download the user manual<<<
+
+
+
+Paket şunları içerir: 
+
+
+
+1 x FY3224S 24MHz Çift Kanallı DDS Fonksiyon Sinyal Üreteci
+
+1 x 1M güç kablosu
+1 x 1.25M USB kablosu
+2 x 1.1M Q9 kabloları
+Not: US fiş tipi country ülkenize göre bir fiş adaptörü gönderecektir.
+
+Detaylar resimler: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,146 @@
+1828030
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/74/E2/edd1bc35-1b01-4738-ad43-0558ed608da5.jpg
+Boîte de bandes HF QRM Eliminator X-Phase (1-30 MHz)
+https://fr.banggood.com/QRM-Eliminator-X-Phase-(1-30-MHz)-HF-Bands-Box-p-1828030.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manuel : Cliquez ici pour ouvrir<<<Principe:L'annuleur QRM est inséré dans le chargeur de l'antenne du thetrx sans aucune autre modification de la radio. La boîte a une commande PTT intégrée pour garder l'annuleur connecté pendant la transmission. Cependant, une antenne de réception auxiliaire supplémentaire est nécessaire, comme une antenne de 2 m ou seulement quelques mètres de fils dans un hangar. Les deux antennes reçoivent des signaux indésirables, ce qui entraîne des phases différentes. L'annuleur QRM permet désormais d'ajuster l'angle de phase et l'amplification pour annuler les signaux indésirables avant qu'ils n'atteignent l'extrémité avant du récepteur! Il est basé sur un concept totalement innovant et ne peut être comparé aux performances normales du "silencieux".PCB :1. carte PCB : 73 * 85 * 1.6mm2. poids: 55gLe forfait comprend :(optional: Bare board/avec coque)1 x annuleur QRM 
+
+
+
+

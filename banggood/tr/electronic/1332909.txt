@@ -1,0 +1,169 @@
+https://tr.banggood.com/LILYGO-TTGO-T5-WiFi-Wireless-Module-bluetooth-Base-ESP-32-ESP32-2_13-e-Paper-Display-Development-Board-p-1332909.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+LILYGO® TTGO T5 V2.0 WiFi Kablosuz Modülü bluetooth Tabanı ESP-32 ESP32 2.13 e-Kağıt Ekran Geliştirme Kartı
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+genel bakış:
+
+Ultra düşük güç tüketimi, geniş görüş açısı, elektriksiz net ekran gibi avantajları nedeniyle raf etiketi, endüstriyel enstrüman vb. uygulamalar için ideal bir seçimdir.
+
+Özellikler:
+
+- Arka ışık yok, güç kapalıyken bile son içeriği uzun süre görüntülemeye devam ediyor
+- Ultra düşük güç tüketimi, temelde güç yalnızca yenileme için gereklidir
+- Geliştirme kaynakları ve el kitabıyla birlikte gelir (Arduin-esp32 için örnekler)
+
+Özellikler:
+
+-Çalışma voltajı: 3.3V
+-Arayüz: 3 telli SPI, 4 telli SPI
+-Ekran rengi: siyah, beyaz
+-Gri seviye: 2
+-Tam yenileme süresi: 8s
+-Yenileme gücü: 26.4mW(tip.)
+-Bekleme gücü: <0.017mW
+-Görüş açısı: > 170°-Güncelleme sürümü: Yonga CH9102F (CN deposu), Yonga CP2104 (ÇZ depo)
+
+Kütüphane: Açmak için tıklayın
+Kod: Açmak için tıklayın
+
+Paket içeriği:
+
+1 x T5 V2.0 TTGO WiFi Kablosuz Modülü
+
+
+
+

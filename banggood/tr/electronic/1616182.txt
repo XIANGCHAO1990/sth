@@ -1,0 +1,175 @@
+https://tr.banggood.com/DYP-A02YY-PWM-or-UART-DC5V-Ultrasonic-Ranging-Sensors-Ultrasonic-Waterproof-Distance-Sensor-Waterproof-Probe-Ultrasonic-module-p-1616182.html?cur_warehouse=CN&ID=6285054&rmmds=CategoryElectronicsPop
+DYP-A02YY PWM / UART DC5V Ultrasonik Değişen Sensörler Ultrasonik Su Geçirmez Mesafe Sensörü Su Geçirmez Probe Ultrasonik modül
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikler:
+
+
+
+Çalışma Gerilimi: 5V
+
+Ortalama çalışma akımı: <15mA
+
+Tepe akımı: 60mA
+
+Su geçirmez: IP67
+
+Kör alan mesafesi: 0-3cm 
+
+Düzlem nesne aralığı: 3-420cm
+
+Çalışma döngüsü: kontrollü /100ms
+
+Çıkış modu: PWM darbe genişliği veya UART seri bağlantı noktası
+
+Ölçüm doğruluğu: +-(1+S*0.5%)/+-(1+S*0.3%) CM(S ölçüm mesafesidir)
+
+
+
+Paket içeriği:
+
+
+
+1 x PWM / UART DC5V Ultrasonik Değişken Sensörler Ultrasonik Su Geçirmez
+
+
+
+
+
+
+

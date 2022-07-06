@@ -1,0 +1,246 @@
+https://fr.banggood.com/FLSUN-Super-Racer(SR)-3D-Printer-260mmX330mm-Print-Size-Fast-Print-or-Three-axis-Linkage-with-3_5inch-DANGLY-Touch-Screen-or-Removable-Crystal-Lattice-Glass-Hotbed-or-Dual-Drive-Extruder-p-1844899.html?cur_warehouse=CZ&ID=47184&rmmds=CategoryElectronicsPop
+Imprimante 3D FLSUN® Super Racer (SR) 260 mm x 330 mm Taille d&#39;impression Impression rapide / Liaison à trois axes avec écran tactile DANGLY 3,5 pouces / Extrudeuse en verre à treillis en cristal amovible / Extrudeuse à double entraînement
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▶ Les produits ne seront plus envoyés avec des cartes SD et des cartes USB et TF.▶ Caractéristiques:Taille d'impression: 260 mm X 330 mm. La taille de l'imprimante 3D dans un large éventail de groupes d'audience soucieux de la taille de la région, pour répondre aux besoins d'un large éventail de groupes d'audience.Écran tactile capacitif couleur, équipé d'un câble rétractable et d'un support d'écran tactile mobile, l'expérience est plus humaine, plus pratique et plus confortable à utiliser.Liaison à trois axes, la vitesse d'impression est de 2 à 3 fois supérieure aux résultats du marché I3, le même modèle, avec la même précision et la même qualité de surface, peut être réduit de moitié, ce qui est le principal argument de vente de la machine.Avec détection de matériel cassé, fonction de renouvellement de panne de courant.carte mère 32 bits processeur, plus stable, plus efficace, contrôle le module d'entraînement au sol du moteur pour Entraînement silencieux TMC2209, l'effet silencieux appartient au niveau supérieur des imprimantes de bureau.Installation du module effecteur: double ventilateur turbo + ventilateur ordinaire 4010 un total de 3 ventilateurs, l'effet de soufflage de dissipation thermique est très bon.Le guide de mouvement est un calibre de fil de qualité industrielle pour assurer une impression plus précise et plus stable.Système de nivellement automatique, une clé de nivellement, mémoire permanente.Lit chauffant en verre à treillis de cristal, chauffant le lit chaud pendant l'impression, le modèle peut mieux coller à la plate-forme, une fois l'impression terminée et le lit chaud refroidit, il est plus facile de retirer le modèle.Extrudeuse à double engrenage(Mécanisme d'extrusion à double engrenage), plus de couple, une extrusion plus forte, plus stable et plus durable.Bras parallèle en fibre de carbone haute résistance 3K, plus efficace pour assurer la précision du mouvement, la stabilité.Assemblage modulaire, les clients n'ont besoin que de 10 à 15 minutes pour compléter l'expérience d'assemblage.La machine est équipée d'une boîte à pièces, les pièces couramment utilisées peuvent être stockées dans la boîte à pièces, un service plus humain et plus confortable.La plaque latérale en aluminium personnalisée à haute résistance peut garantir que la machine est en cours d'impression à grande vitesse pour maintenir un corps stable.La ceinture est une ceinture de résistance à l'abrasion élevée de 10 mm, pour assurer au client dans l'état de mouvement à grande vitesse de l'imprimante 3D une utilisation à long terme.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques
+
+
+Technologie: modélisation des dépôts fondus (FDM)
+Année: 2021
+
+Assemblage: partiellement assemblé
+
+Disposition mécanique: Deltaprinter
+
+Fabricant: Flsun
+
+Propriétés de l'imprimante 3D
+
+Volume de construction: Ø260 x 330 mm
+
+Vitesse d'impression: 100-200 mm / s
+
+Système d'alimentation: Bowden
+
+Tête d'impression: buse unique
+
+Taille de buse : 0,4 mm
+
+Max. température de fin chaude: 260
+
+Max. température du lit chauffé: 100 ℃
+
+Matériau du lit d'impression: verre
+
+Cadre: N / A
+
+Mise à niveau du lit: automatique
+
+Connectivité: USB, carte SD
+
+Récupération d'impression: Oui
+
+Capteur de filament: Oui
+
+Caméra : Non
+
+Matériaux
+
+Diamètre du filament: 1,75 mm
+
+Filament tiers: Oui
+
+Matériaux de filament: Matériaux de consommation (PLA, ABS, PETG)
+
+Logiciel
+
+Trancheur recommandé: Cura, Repetier-Host
+
+Système d'exploitation: Windows, OSX, Linux
+
+Types de fichiers: STL, OBJ, AMF
+
+Dimensions et poids
+
+Dimensions du cadre: 440 x 390 x 960 mm
+
+Poids: 13,6 kg
+
+
+
+
+
+

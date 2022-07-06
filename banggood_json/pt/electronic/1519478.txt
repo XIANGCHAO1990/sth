@@ -1,0 +1,235 @@
+1519478
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/79/7D/c2ae1640-a09f-46d1-979f-e70e05cfbf08.jpg
+0,56 "DC 100V 50A Vermelho + Vermelho Dual LED Display Mini Voltímetro Digital Amperímetro Painel Amp Voltagem Corrente Medidor de Tensão
+https://pt.banggood.com/0_56-inch-DC-100V-50A-Red+Red-Dual-LED-Display-Mini-Digital-Voltmeter-Ammeter-Panel-Amp-Volt-Voltage-Current-Meter-Tester-p-1519478.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:
+
+
+
+Tensão de operação: DC 4 ~ 30V
+
+Meça a tensão: DC 0 ~ 100V
+
+Resolução mínima (V): 0,1V
+
+Corrente de medição: 50A (requer shunt externo)
+
+Resolução mínima (A): 0,1A
+
+Corrente operacional: <20mA
+
+Visor: três tubos digitais de 0,28 "LED
+
+Cor de exibição: vermelho e vermelho
+
+Taxa de atualização: cerca de 300 ms / vezes
+
+Precisão da medida: 1% (± 1 dígito)
+
+Temperatura de operação: -10 a 65 ° c
+
+Umidade operacional: 10 a 80% (sem condensação)
+
+Pressão de trabalho: 80 a 106 kPa
+
+Aplicações: Adequado para monitoramento de baterias automotivas / carros elétricos / motocicletas ou outros produtos de medição de corrente de tensão
+
+
+
+Fiação:
+
+
+
+Linha preta (fina): circuito vazio ou negativo (módulo)
+
+Linha vermelha (fina): fonte de alimentação +
+
+Linha preta (grossa): COM, medição comum
+
+Linha vermelha (grossa): PW +, medição de entrada de tensão terminal positiva
+
+Linha amarela (grossa): IN +, entrada de corrente +
+
+
+
+Aviso prévio:
+
+
+
+A tensão entre as linhas finas vermelha e preta deve estar dentro de DC 4-30V
+
+O amperímetro só pode ser conectado ao negativo do dispositivo em teste
+
+Excede 5A, carga total de longo prazo trabalhando continuamente, é recomendado que o lado de medição dos cabos seja soldado diretamente ao soquete
+
+Quando a linha fina preta está vazia, é melhor usar fita isolante ao redor da parte exposta do fio, para evitar curto-circuitos
+
+Se for usado apenas como um voltímetro, é recomendado que a linha amarela e a linha preta sejam conectadas juntas, para evitar que o amperímetro digital pisque
+
+Não é adequado usar este medidor para testar corrente inferior a 10A.
+
+
+
+Incluído no Pacote
+
+
+
+1 x medidor de amperímetro voltímetro digital
+
+1 x Shunt atual
+
+1 x cabo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

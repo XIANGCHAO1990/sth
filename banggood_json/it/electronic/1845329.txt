@@ -1,0 +1,193 @@
+1845329
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/FC/81/f4047171-5eb4-495b-8b84-1c234cf4c2ee.png
+Sensore Trianglelab® / Dforce®3D BL TOUCH 2021 V3 Sensore di livellamento automatico del letto BL Sensore di tocco automatico per stampante 3D
+https://it.banggood.com/Trianglelab-or-Dforce3D-BL-TOUCH-Sensor-2021-V3-Auto-Bed-Leveling-Sensor-BL-Auto-Touch-Sensor-for-3D-Printer-p-1845329.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In caso di domande sull'utilizzo del metodo, fare riferimento al collegamento.
+
+
+https://drive.google.com/file/d/0B_lX6Bwizwk0RzFhTTF2dHhSems/view?usp=sharing
+
+
+Test di livellamento automatico del sensore di livellamento automatico della stampante 3D 1
+
+
+https://youtu.be/9Kt7MLMhS4c
+
+
+​
+
+
+	​Video sulla manutenzione del tocco della stampante 3D:
+
+
+https://youtu.be/BRodJEOhK4A
+		Avviso di aggiornamento: 
+	
+
+		Il SENSORE TOUCH 3D BL verrà aggiornato all'ultima versione il 1 ° gennaio 2020. 
+	
+
+		Il circuito stampato è stato ridisegnato e l'ago del sensore è stato cambiato in un colore trasparente. Le nuove versioni dei sensori potrebbero differire leggermente dalle foto.
+3D Printer TOUCH è un sensore di livellamento automatico per stampanti 3D in grado di misurare con precisione l'inclinazione della superficie di stampa e può migliorare notevolmente la precisione di stampa della stampante 3D.
+
+
+Caratteristiche semplici, intelligenti e precise.Potrebbe funzionare con quasi tutti i tipi di materiali da letto, come bicchieri, legno, metalli e così via.
+
+
+
+
+Le principali funzioni e controlli del tocco della stampante 3D sono gli stessi della maggior parte dei sensori di livellamento automatico del letto, che consiste in un servo RC e un microinterruttore, quindi, il tocco della stampante 3D può essere utilizzato su quasi tutte le schede di controllo della stampante 3D.
+
+
+Utilizzando un solenoide e un sensore di hall progressivamente progettati, è possibile integrare un'elevata precisione in una struttura così semplice.Per renderlo più user-friendly e per offrirti un'esperienza di stampa più piacevole, aggiungiamo molte funzioni intelligenti come autotest, falso allarme, allarme modalità di rilascio e test per M119.
+
+
+
+
+Tirare / spingere con forza sul push-pin può danneggiare il sensore touch e renderlo meno preciso.
+
+
+Fissare il push-pin con vernice di bloccaggio dopo il riassemblaggio o la regolazione del nucleo.
+
+
+Non rimuovere o deformare il materiale elastico attaccato al push-pin.Il pacchetto include:1 * Kit BL Touch V3
+
+
+
+

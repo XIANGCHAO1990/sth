@@ -1,0 +1,211 @@
+https://www.banggood.com/MoesHouse-Automatic-ATS-Dual-Power-Transfer-Switch-Solar-Charge-Controller-for-Solar-Wind-System-DC-12V-24V-48V-AC-110V-220V-on-or-off-Grid-p-1543480.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+MoesHouse Automatic ATS Dual Power Transfer Switch Solar Charge Controller for Solar Wind System DC 12V 24V 48V AC 110V 220V on/off Grid
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Feature:
+
+	 
+
+- New item release: The controller allows for trouble-free operation of inverters and AC mains in the same circuit. The controller switches automatically between inverter and AC mains while protecting the inverter against external voltage.
+
+- Works like an UPS, But in opposite direction: The controller will switch to grid when batteried are low to cut off point, once the batteries are back to recovery point, it will switch back to battery power.
+
+- Great for solar and wind: Automatically switches over to grid power on those cloudy or windless days and your batteries get low, Take charge over your battery bank.
+
+- Auto distinguish for DC 12/24/48V, AC 110/220V
+
+- LCD display
+
+- Transfer Time: Less than 10ms
+
+- Adjustable battery cut off low voltage and recovery voltage.
+	- Wiring diagram: Click here!
+- User manual: Click here!
+
+Parameter:
+
+		 
+
+Rated power: 11kw/5.5kw
+
+Input voltage: Auto distinguish: AC 100-120V or AC 220-240V
+
+Output voltage: Auto distinguish: AC 100-120V or AC 220-240V
+
+Transfer time: Inverter transfer to public power less than 10ms, Public power transfer to inverter less than 16ms
+
+LCD display: Woking status of Public power, inverter and battery
+
+System voltage: Auto Distinguish: 12V or 24V or 48V
+
+BAT. Low Cut-down: Default 11V/22V/44V, adjustable
+
+BAT. Low Recovery: Default 13.5V/27V/54V, Adjustable
+
+Application: Off-grid solar or wind system
+
+Product size: 19*17*7.25cm(7.4in*6.7in*2.8in)
+
+N.W/PC: 1.26KG
+
+G.W/PC: 1.63KG
+
+Package included:
+
+		1 x Solar Charge Controller
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,184 @@
+https://www.banggood.com/ELEGOO-SATURN-MSLA-4K-8_9-inch-MONOCHROME-LCD-Resin-3D-Printer-UV-Photocuring-LCD-Resin-3D-Printer-with-4K-Monochrome-LCD-or-Matrix-UV-LED-Light-Source-or-Off-Line-or-WLAN-Print-or-Print-Size-192x120x200mm-p-1825672.html?cur_warehouse=USA&ID=47757&rmmds=CategoryElectronicsPop
+ELEGOO® SATURN MSLA 4K 8.9" MONOCHROME LCD Resin 3D Printer UV Photocuring LCD Resin 3D Printer with 4K Monochrome LCD/Matrix UV LED Light Source/Off-Line/WLAN Print/ Print Size 192x120x200mm
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Products will no longer be sent with SD cards and USB and TF cards.Please download the SD card file hereFeatures:  Faster printing speed
+ - Saturn 3D printer comes with an 8.9inch 4K Monochrome LCD with an HD 
+resolution of 3840 x 2400, reducing the layer printing time to 1.5s-2s, 
+which is 60% faster than Mars Pro yet still delivers outstanding 
+printing results.Larger build volume - Saturn has a 
+large printing volume of 192*120*200 mm/7.55in*4.72in*7.87in, and you 
+can print multiple full-sized models at the same time, which can 
+dramatically improve your productivity.
+
+ Higher precision and easier printing - Z-axis utilizes a
+ double linear guide way structure, which can achieve steadier motion 
+and greatly enhanced moving accuracy. With the Ethernet port on the back
+ and 4 GB built-in data disk, Saturn now supports file transfer through 
+your local area network, which is very handy for fast printing.
+
+Quality Prints and Consistent Success - Matrix light 
+source consists of 54 UV LED lights with uniform light emission, 
+ensuring superior print results and a more accurate printing size. The 
+set screws on the build plate assure long-lasting leveling, no need for 
+frequent calibration, and the sandblasted surface provides a much 
+stronger adherence, especially when printing large 3D models.We
+ provide a 1-year warranty on the whole printer (4K LCD, FEP film, and 
+tool kit excluded). Some File for you to download:* Firmware1.Latest Firmware: Click to download: V4.3.192.Firmware You Need to Update after Replacing The LCD: Click to downloadHow to replace the LCD: https://youtu.be/NJhucYuSjjk3.Machine Parameters: Click to Download*Caution: 
+ Please make sure whether this firmware matches your printer, wrong 
+update across different printers may turn it unusable. If you run into 
+any problems with the firmware please contact our support team at 3dp@elegoo.com with the batch number labeled at the bottom of the printer, we will try our best to help.*How to update:Step 1 - Copy the file to the root directory of the USB flash driveStep 2 - Insert the USB flash drive into the printerStep 3 - Print the file on the printer to update.* Video TutorialsHow to replace the Mono LCD screen2. How to replace the FEP3. How to replace the motherboard* USB Driver File: Click to Download USB DRIVE FILES (MANUAL & SLICING SOFTWARE INCLUDED)* Resin Setting 1. Offcial suggestions for ELEGOO resin on ELEGOO Printers:  ELEGOO Printers Resin Setting Sheet2. Unofficial suggestions for most brands resin on ELEGOO Saturn Seires Printers (Contributed by our community members):Resin Settings for ELEGOO Saturn Series Printers*Manual Book:  Click to Download
+Specifications:System: EL3D-3.0.1 Operation: 3.5-Inch Touch ScreenSlicer Software: Chitu DLP SlicerConnectivity: USBTechnology: LCD UV PhotocuringLight source: UV Integrated LED lights (wavelength 405 nm)
+
+XY Resolution: 0.05 mm(3840*2400)
+
+Z Axis Accuracy: 0.00125 mm
+
+Layer Thickness: 0.01-0.15 mm
+
+Printing Speed: 30-40 mm/h
+
+Power Requirements: 110-240V 50/60Hz 24V4A 96WPrinter Dimensions: 11.02in (L) * 9.44in (W) * 17.55in (H)/28 cm(L)*24 cm (W) * 44.6 cm (H)
+
+Build Volume: 7.55in (L) * 4.72in (W) * 7.87in (H) /192 mm (L) * 120 mm (W) * 200 mm (H)
+
+Weight: 22 Lbs (10 Kg)
+
+
+
+

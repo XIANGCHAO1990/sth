@@ -1,0 +1,185 @@
+68534
+https://imgaz.staticbg.com/thumb/large/upload/2014/03/SKU066315 (1).jpg
+Tablero de Módulo Mini Pro ATMEGA328 328p 5V 16MHz Arduino Compatible
+https://es.banggood.com/Wholesale-ATMEGA328-328p-16MHz-Pro-Mini-PCB-Module-Board-5V-p-68534.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Arduino Promini ATMEGA328 328p 5V 16MHz está disponible ahora en nuestro almacén de EE. UU.
+
+ Envío gratis a nosotros en Envío gratis a EE. UU. En 3-6 días hábiles
+envíe a Canadá, Brasil en 7-10 días
+
+Tablero de Módulo de Talla Nano ATMEGA328 328p 5V 16MHz Arduino-Compatible 
+
+Descripción:
+
+Nueva versión, Pro Mini 328 5V 16MHz, compatible con Arduino
+Componentes de alta calidad y material de soldadura
+Bootloader Ready, plug and play.
+
+Paquete incluida:
+
+1 x Pro Mini 328  5V  16MHz arduino-compatible
+
+Aviso del cliente Mattias Schlenker:
+
+Si la carga de bocetos con Arduino IDE falla, siga estos pasos para actualizar el gestor de arranque:
+
+-Preparar un Arduino Uno, Mega o similar para actuar como ISP como se describe en http://arduino.cc/en/Tutorial/ArduinoISP
+-Encender como se muestra en flasbootloader_connected.png (Imagen Reveiw de SKU099688)
+-Utilizar Arduino IDE para actualizar el gestor de arranque del Pro / Pro Mini correspondiente (5V, 16MHz) a SKU099688 o SKU066315
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,
+
+

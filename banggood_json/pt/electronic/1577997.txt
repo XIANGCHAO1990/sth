@@ -1,0 +1,213 @@
+1577997
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/2C/47/5ac9d8a0-2c34-4de8-afef-f19a7adaf5b8.JPG
+DC-DC 5-32 V a 0,8-30 V Módulo Abaixador da Fonte de Alimentação Regulador de Buck ajustável 5A Driver Constante LED Bateria Placa de Tensão de Carregamento
+https://pt.banggood.com/DC-DC-5-32V-to-0_8-30V-Power-Supply-Step-Down-Module-Adjustable-Buck-Regulator-5A-Constant-LED-Driver-Battery-Charging-Voltage-Board-p-1577997.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visão geral:
+
+
+
+O módulo usa chips de alta qualidade, alta eficiência (até 95%), baixa geração de calor, corrente máxima de 5A e corrente de saída de controle do amplificador operacional da TI, tornando a saída geral muito estável.
+
+Este módulo usa um capacitor de filtro de baixo ESR para reduzir a tensão ondulada para 50mV!
+
+
+
+Características:
+
+
+
+Natureza do módulo: módulo de buck não isolado
+
+Modo de retificação: retificação assíncrona
+
+Porta de fiação: Modo de entrada: IN + entrada positiva, IN- entrada negativa
+
+Modo de saída: OUT + saída positiva, saída OUT negativa
+
+Tensão de entrada: DC 5V-32V
+
+Tensão de saída: DC 0,8V-30V
+
+Corrente de saída: ajustável, máx. 5A
+
+Eficiência de conversão: 95% (máximo)
+
+Frequência de comutação: 300 KHz
+
+Ondulação de saída: 50mV (máximo) de largura de banda de 20M
+
+Taxa de ajuste de carga: +/- 0,5%
+
+Taxa de regulação de tensão: +/- 2,5%
+
+Temperatura de operação: -40 ° C a + 85 ° C
+
+Tamanho: 51 x 26,3 x 14 (comprimento x largura x altura) (mm)
+
+
+
+Incluído no Pacote:
+
+
+
+1x DC-DC 5A Módulo de Fonte de Alimentação Regulador Buck Ajustável
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,191 @@
+https://fr.banggood.com/M5Stack-M5Stamp-C3-ESP32-Development-Board-WiFi+Bluetooth-Ultra-Low-Power-ESP32-C3-RISC-V-MCU-p-1906576.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+M5Stack® M5Stamp C3 ESP32 Carte de développement WiFi+Bluetooth ultra basse consommation ESP32-C3 MCU RISC-V
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:M5Stack vient d'ajouter une nouvelle famille à sa populaire série de modules avec le Stamp-C3. le nouveau Stamp-C3 avec MCU ESPRESSIF ESP32-C3 RISC-V avec connectivité Wifi et Bluetooth 5 (LE) pour les appareils de périphérie IoT tels que les appareils ménagers et l'automatisation industrielle. En combinant le démarrage sécurisé basé sur RSA-3072 et le cryptage flash basé sur AES-128-XTS, M5Stack offre un moyen plus sécurisé de répondre aux problèmes de sécurité Bluetooth, tout en le rendant optimal pour les équipements IoT industriels collectant des données de capteurs dans une usine ou un bâtiment.Le Stamp-C3 est basé sur un microcontrôleur RISC-V 32 bits et fonctionne à une fréquence d'horloge maximale de 160 MHz. Avec 400 Ko de Flash RAM et 4 MB internes, il peut faciliter de nombreux cas d'utilisation différents impliquant des appareils connectés. appareils avec une grande couverture et une facilité d'utilisation améliorée. De plus, le boîtier en plastique résistant à la chaleur exceptionnelle est maintenu à une température de fonctionnement plus élevée.Caractéristiques:- STYLE MULTIPLE : Trois types d'options de soudure sont disponibles (SMT, DIP, flyw1re), avec un boîtier en plastique résistant aux hautes températures, température de pointe = 230HAUTE INTÉGRATION : Stamp-C3 contient une conception 5V->3,3V DC/DC, GPIOx13, RVB programmable LED x1, bouton de réinitialisation x1, bouton x1, antenne 3D, offrant une communication sans fil stable et fiable.DÉVELOPPEMENT LOW-CODE :Stamp-C3 entièrement compatible avec Arduin0, ESP32-IDF et d'autres plates-formes de développement grand public pour créer rapidement diverses applications. (Support UIFlow à venir)PinMap :Emballage inclus:1 x M5Tampon C31 x autocollant résistant à la chaleur2 broches 2,54-9P2 broches 2,54-6PConnecteur Grove 2 x 90°1 clé hexagonale M2Application:- Prototypage DIY- Appareils ménagers- L'automatisation industrielleCaractéristiques:
+
+
+
+CaractéristiquesParamètres
+
+
+ESP32-C3Processeur monocœur RISC-V 32 bits, cadencé à 160 MHz
+
+
+Espace de rangementROM 384 Ko, SRAM 400 Ko, SRAM RTC 8 Ko, FLASH 4 Mo
+
+
+WifiLa bande 2,4 GHz prend en charge une bande passante de 20 MHz et 40 MHz, le protocole IEEE 802.11 b/g/n, un débit de données jusqu'à 150 Mbps
+
+
+BluetoothBluetooth 5, maillage Bluetooth, prise en charge du débit 125 Kbps, 500 Kbps, 1 Mbps, 2 Mbps
+
+
+Tension d'entrée5V @ 500mA
+
+
+IHMBouton physique programmable x 1, bouton de débogage de réinitialisation x 1, RVB programmable LED (SK6812) x 1
+
+
+interface USBType C x1
+
+
+Type d'antenneAntenne 3D 2.4G
+
+
+Ressources d'interface périphérique du moduleADC, GPIO, SPI, UART, I2C, I2S, PWM, RMT, DMA, port série USB, TWAI
+
+
+Interface E/S x13G21, G20, G9, G18, G19, G1, G0, Gl0, G8, G7, G6, G5, G4
+
+
+Espacement des interfaces d'E/S2.54mm
+
+
+Poids net3.8g
+
+
+Taille du produit34 * 20 * 4.5mm
+
+
+Taille d'emballageSac d'étanchéité 85*55mm (translucide)
+
+Schématique: Cliquez ici pour ouvrirLe shell prend en charge le profil de refusion :Liens connexes:Fiche technique ESP32-C3
+
+
+
+

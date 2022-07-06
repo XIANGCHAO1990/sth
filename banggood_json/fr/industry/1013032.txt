@@ -1,0 +1,1138 @@
+1013032
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/91/F4/a56bf2b2-3857-4b8d-a4df-0267b897e3ce.jpg
+Hantek DSO5102P USB Stockage Numérique 2Voies Oscilloscope 100MHz 1GSa/s
+https://fr.banggood.com/Hantek-DSO5102P-USB-Digital-Storage-Oscilloscope-2Channels-100MHz-1GSa-or-s-p-1013032.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Description:
+
+
+
+
+Hantek DSO5102P USB Stockage Numérique 2Voies Oscilloscope 100MHz 1GSa/s
+
+
+
+
+Caractéristiques:
+
+
+
+
+
+		Largeurs de bande de 100 MHz
+	
+
+		Temps réel échantillon le taux du 1GSa /
+	
+
+		Grand écran (7.0 pouces) de couleur, WVGA (800x480)
+	
+
+		Longueur de la fiche jusqu'à 40k
+	
+
+		Mode de déclenchement: bord / largeur d'impulsion / ligne sélectionnable vidéo / décantation / heures supplémentaires, etc.
+	
+
+		Hôte USB et la connectivité de l'appareil, la norme
+	
+
+		Plusieurs Mesures automatiques
+	
+
+		Quatre fonctions mathématiques, y compris la norme de FFT
+	
+
+		Fournissant des logiciels pour PC analyse en temps réel
+	
+
+
+
+
+Spécification:
+
+
+
+
+
+
+					Modèle
+				
+
+					DSO5202
+				
+
+
+
+
+
+
+
+					Acquisition
+				
+
+
+
+					Taux d'échantillonnage
+				
+
+					En temps réel: 1GS échantillons / s
+Echantillon Equivalent
+				
+
+
+
+					Modes d'Acquisition
+				
+
+
+
+
+
+
+
+
+
+					Normal
+				
+
+					Données Normales seulement
+				
+
+
+
+					Détection de Sommet
+				
+
+					Haute fréquence et la capture de glith Randon
+				
+
+
+
+					Moyen
+				
+
+					Moyenne wavefom, à sélectionner 4.8.16.32.64.128
+				
+
+
+
+					Entrées
+				
+
+
+
+					Couplage des Entrées
+				
+
+					AC, DC, GND
+				
+
+
+
+					Impédance d'Entrée
+				
+
+					1MΩ ± 2% ± II20pF 3pF
+				
+
+
+
+					Atténuation de la Sonde
+				
+
+					1X, 10X
+				
+
+
+
+					Sonde Facteur d'Atténuation Soutenu
+				
+
+					1X, 10X, 100X, 1000X
+				
+
+
+
+					Tension d'Entrée Maximum
+				
+
+
+						CAT I et CAT II: 300VRMS (10 ×), Catégorie d'Installation;
+					
+
+						CAT III: 150WRMS (1×);
+					
+
+						Catégorie d'Installation II: déclassement à 20dB / décade au-dessus de 100kHz à 13V AC pic à 3 MHz * et au-dessus. Pour les signaux non sinusoïdaux, valeur de crête doit être inférieure à 450V. Excursion au-dessus de 300V doit être inférieur à 100ms durée. Niveau de signal efficace, y compris tous les composants CC supprimées via couplage AC doit être limitée à 300V. si ces valeurs sont dépassées, des dommages à l'oscilloscope peut se produire.
+					
+
+
+
+
+					Horizontal
+				
+
+
+
+					Gamme de Fréquence d'Echantillonnage
+				
+
+					500 MS / s - 1GS / s
+				
+
+
+
+					Forme d'Onde Interpolation
+				
+
+					(sin x) / x
+				
+
+
+
+					Longueur d'Enregistrement
+				
+
+					40K
+				
+
+
+
+					Plage SEC/DIV
+				
+
+4ns / div à 40s / div
+
+
+					4Ns / div / div à 40s
+				
+
+
+
+
+						la fréquence d'échantillonnage et
+					
+
+						Précision du Retard du Temps
+					
+
+
+					50ppm ± (à plus de tout Intervalle de temps ≥1ms)
+				
+
+
+
+					Plage de Position
+				
+
+
+						2ns / div à 10ns / div;
+					
+
+						(XS -4div / div) de 20 ms;
+					
+
+
+
+						20ns / div à 80US / div;(xs -8div / div) à 40ms;
+					
+
+						200US / div à 40s / div;(Xs -8div / div) à 400s
+					
+
+
+
+
+
+						Précision de Delta de la Mesure du Temps
+					
+
+						(Bande passante complète)
+					
+
+
+
+						Single shot, mode Normal: ± (1 intervalle échantillon + 100 ppm × lecture + 0.6ns);
+					
+
+						> 16 Moyennes: ± (1 intervalle échantillon + 100 ppm × lecture + 0.4ns);
+					
+
+						Intervalle d'échantillon = s / div ÷ 200
+					
+
+
+
+
+					Verticale
+				
+
+
+
+					Résolution Verticale
+				
+
+					8 Bits de résolution, tous les chaînes simultanément échantillonnée
+				
+
+
+
+					Plage de position
+				
+
+
+						2mV / div à 200 mV / div, ± 2v
+					
+
+						200mV / div à 5V / div, ± 50V
+					
+
+
+
+
+					Bande Passante
+				
+
+100MHz
+
+
+					100MHz
+				
+
+					70MHz
+				
+
+
+
+					Temps de montée au BNC (typique)
+				
+
+ 3.5Ns
+
+
+					3.5Ns
+				
+
+					5Ns
+				
+
+
+
+					Bande passante analogique en mode Normal et en Moyenne à BNC ou avec la sonde, couplées en courant continu
+				
+
+
+						2mV / div à 20mV / div, ± 400mV;50mV / div à 200 mV / div, ± 2v
+					
+
+						500mV / div à 2V / div, ± 40V;5V / div, ± 50V
+					
+
+
+
+
+					Maths
+				
+
+					+, -, *, /, FFT
+				
+
+
+
+					FFT
+				
+
+
+						Fenêtres: Hanning, flatop, rectamgular, Bartlett, Blackman;
+					
+
+						1024 point d'échantillonnage
+					
+
+
+
+
+					Limite de Bande passante
+				
+
+					20MHz
+				
+
+
+
+					Réponse basse fréquence (-3 dB)
+				
+
+					≤10hz au BNC
+				
+
+
+
+					Précision du Gain DC
+				
+
+
+						± 3% pour le mode d'Acquisition Normale ou Moyenne, 5V / div à 10mV / div;
+					
+
+						± 4% pour le mode d'Acquisition Normale ou Moyenne, 5 mV / div à 2mv / div
+					
+
+
+
+
+
+						Précision de Mesure Continue,
+					
+
+						Mode d'Acquisition Moyenne
+					
+
+
+
+						Lorsque le déplacement vertical est égal à zéro, et N ≥16: ± (3% × lecture + 0.1div + 1 mV) seulement 10mV / div ou plus est sélectionné;
+					
+
+						Lorsque le déplacement vertical est non nul, et n≥16: ± [3% × (lecture + position Verticale) + 1% de la position Verticale + 0.2div];ajouter 2mv pour les paramètres de 2mv / div à 200 mV / div;ajouter 50mv pour les paramètres de 200mV / div à 5 V / div
+					
+
+
+
+
+
+						Répétabilité de la Mesure de Tension,
+					
+
+						Mode d'Acquisition Moyenne
+					
+
+
+					Delta volts entre deux Moyennes de ≥16 signaux acquis en vertu de la même installation et les conditions ambiantes
+				
+
+
+
+					Système de Déclenchement
+				
+
+
+
+					Types de Déclenchement
+				
+
+					Bord, la vidéo, le pouls, la pente, au fil du temps, alternative
+				
+
+
+
+					Source de Déclenchement
+				
+
+					CH1. CH2. poste, poste / 5. ligne de courant alternatif
+				
+
+
+
+					Modes de Déclenchement
+				
+
+					Auto, Normal, Seule
+				
+
+
+
+					Type d'Accouplement
+				
+
+					DC, AC, le bruit rejet, rejet HF, LF rejettent
+				
+
+
+
+
+						Sensibilité de Déclenchement
+					
+
+						(Bord le type de déclenchement)
+					
+
+
+
+						DC (CH1. CH2):
+					
+
+						1Div de DC à 10MHz;1.5div de 10MHz à 100MHz;2div de 100MHz à plein;
+					
+
+						DC (ext):
+					
+
+						200MV de DC à 100 MHz;350mV de 100MHz à 200MHz;
+					
+
+						DC (ext / 5):
+					
+
+						1V de DC à 100MHz; 1.75V de 100MHz à 200MHz;
+					
+
+						AC: atténue les signaux ci-dessous 10Hz;
+					
+
+						HF Reject: atténue les signaux au-dessus de 80 kHz;
+					
+
+						Rejet BF: même que les limites de couplées CC pour les fréquences supérieures à 150 kHz;atténue les signaux inférieurs à 150kHz
+					
+
+
+
+
+					Plage de Niveau de Déclenchement
+				
+
+
+						CH1 / CH2: ± 8 divisions du centre de l'écran;
+					
+
+						Ext: ± 1.2V;
+					
+
+						Ext / 5: ± 6V
+					
+
+
+
+
+					Précision de niveau de déclenchement (typique) précision est pour les signaux ayant montée et de descente ≥20ns
+				
+
+
+						CH1 / CH2: 0.2div × volts / div ± 4 divisions du centre de l'écran;
+					
+
+						Ext: ± (6% du réglage + 40mV);
+					
+
+						Ext / 5: ± (6% du réglage + 200mV);
+					
+
+
+
+
+					Ensemble niveau à 50% (typique)
+				
+
+					Fonctionne avec des signaux d'entrée ≥50hz
+				
+
+
+
+					Déclenchement vidéo
+				
+
+
+
+
+
+					Vidéo type de déclenchement
+				
+
+
+						CH1. CH2: amplitude de 2 divisions crête-à-crête;
+					
+
+						Ext: 400mV;
+					
+
+						Ext / 5: 2V
+					
+
+
+
+
+					Formats de signaux et les tarifs sur le terrain, le type de Déclenchement vidéo
+				
+
+					Supporte les systèmes NTSC, PAL et SECAM diffusion pour un champ ou une ligne
+				
+
+
+
+					Gamme holdoff
+				
+
+					100ns ~10s
+				
+
+
+
+					Largeur d'impulsion de déclenchement
+				
+
+
+
+
+
+					Impulsions en mode largeur de déclenchement
+				
+
+					déclencher lorsque (<,>, = ou ≠);impulsion positive ou impulsion négative
+				
+
+
+
+					Largeur d'impulsion point de déclenchement
+				
+
+
+
+
+
+						Pas égal: si l'impulsion est plus étroite que la largeur spécifiée, le point de déclenchement est le bord de fuite.sinon, l'oscilloscope se déclenche lorsqu'une impulsion dure plus longtemps que le temps spécifié en tant que la largeur d'impulsion.
+					
+
+						Moins: le point de déclenchement est le bord de fuite.
+					
+
+						Supérieur (appelé aussi les heures supplémentaires déclenchement): l'oscilloscope se déclenche lorsqu'une impulsion dure plus longtemps que le temps indiqué que la largeur d'impulsion
+					
+
+
+
+
+					Impulsions plage de largeur
+				
+
+					20ns ~ 10s
+				
+
+
+
+					Déclenchement de la pente
+				
+
+
+
+
+
+					Mode de Déclenchement de la pente
+				
+
+					déclencher lorsque (<,>, = ou ≠);pente positive ou pente négative
+				
+
+
+
+					Point de Déclenchement de la pente
+				
+
+
+
+
+
+						Pas égaux: l'oscilloscope se déclenche lorsque la pente de la forme d'onde est pas égal à l'ensemble pente.
+					
+
+						Moins: l'oscilloscope se déclenche lorsque la pente de la forme d'onde est inférieure à la pente définie.
+					
+
+						Supérieure: l'oscilloscope se déclenche lorsque la pente de la forme d'onde est supérieure à la pente définie.
+					
+
+
+
+
+					Intervalle de temps
+				
+
+					20ns ~ 10s
+				
+
+
+
+					Les heures supplémentaires déclencheur
+				
+
+
+
+
+
+					Sur le mode de temps
+				
+
+					Front montant ou descendant
+				
+
+
+
+					Intervalle de temps
+				
+
+					20ns ~ 10s
+				
+
+
+
+					Déclencheur de remplacement
+				
+
+
+
+
+
+					Gâchette sur CH1
+				
+
+					Déclenchement interne: front, la largeur d'impulsion, vidéo, pente
+				
+
+
+
+					Gâchette sur CH2
+				
+
+					Déclenchement interne: front, la largeur d'impulsion, vidéo, pente
+				
+
+
+
+					Fréquence de déclenchement compteur
+				
+
+
+
+					Résolution de lecture
+				
+
+					6 Chiffres
+				
+
+
+
+					Précision (typique)
+				
+
+					30Ppm ± (y compris toutes les erreurs de fréquence de référence et ± 1 erreurs de comptage)
+				
+
+
+
+					Gamme de fréquences
+				
+
+					Couplé en courant alternatif, à partir de 4 Hz minimum de Bande passante nominale
+				
+
+
+
+					Source de signal
+				
+
+
+						Pouls modes largeur ou bord déclenchement: toutes les sources de déclenchement disponibles
+					
+
+						Les mesures de fréquence et de déclencher la source, à tout moment, y compris lorsque l'Acquisition de l'oscilloscope arrête en raison de changements dans l'état de l'exécution, ou l'Acquisition d'un événement de tir simple est terminée.
+					
+
+						Pouls mode de déclenchement largeur: l'oscilloscope compte les impulsions de grandeur significative à l'intérieur de la fenêtre de Mesure 1s admissibles événements comme déclenchables, tels que les impulsions étroites dans un train d'impulsions PWM si réglé sur le mode Mode de déclenchement de bord: l'oscilloscope compte tous les bords de grandeur suffisante et polarité.
+
+
+
+						Mode de Déclenchement vidéo: le compteur de fréquence ne fonctionne pas.
+					
+
+
+
+
+
+					Mesure
+				
+
+
+
+					Mesure de curseur
+				
+
+
+						Différence de tension entre les curseurs:δV
+					
+
+						Différence de temps entre les curseurs:δT
+					
+
+						Réciproque de AT en hertz (1 / At)
+					
+
+
+
+
+					Measuerment auto
+				
+
+					Fréquence, période, Moyenne, crête à crête, Cycli efficace, minimum, maximum, temps de montée, temps de descente, + largeur d'impulsion, la largeur -PULSE, DELAY1-2RISE, DELAY1-2FALL, + DEVOIR, -DUTY, VBASE, VTOP, VMID,VAMP, dépassement, preshoot, preiod signifient, RMS Preiod, fovshoot, rpreshoot, blargeur, FRF, FFR, LRR, LRF, LFR, LFF
+				
+
+
+
+					Affichage
+				
+
+
+
+					Type d'affichage
+				
+
+					7 Pouces couleur TFT 64k (à cristaux liquides de diagonale)
+				
+
+
+
+					Résolution d'affichage
+				
+
+					800 Horizontale par 480 pixels verticaux
+				
+
+
+
+					Contraste de l'affichage
+				
+
+					Réglables (16 vitesses) avec la barre de progression
+				
+
+
+
+					Sortie sonde compensateur
+				
+
+
+
+					La tension de sortie (typique)
+				
+
+					à Propos 5Vpp en charge ≥1mω
+				
+
+
+
+					Fréquence (typique)
+				
+
+					1Khz
+				
+
+
+
+					Alimentation
+				
+
+
+
+					Tension d'Alimentation
+				
+
+
+						100-120VACRMS (± 10%), 45Hz à 440Hz, CATII
+					
+
+						120-240VACRMS (± 10%), 45Hz à 66Hz, CATII
+					
+
+
+
+
+					Consommation d'énergie
+				
+
+					< 30W
+				
+
+
+
+					Fusible
+				
+
+					2A, T note, 250V
+				
+
+
+
+
+
+
+
+					Température
+				
+
+
+						Exploitation: 32f à 122f (0 ° C à 50 ° C);
+					
+
+						Hors fonctionnement: -40 ° F à 159.8f (-40C à + 71c)
+					
+
+
+
+
+					Procédé de refroidissement
+				
+
+					Convection
+				
+
+
+
+					Humidité
+				
+
+
+						+ 104F ou en dessous (+ 40c ou ci-dessous): ≤90% d'Humidité relative;
+					
+
+						106F à 122f (+ 41c à 50c): Humidité relative ≤60% de
+					
+
+
+
+
+					Altitude
+				
+
+
+						Exploitation: ci-dessous de 3000 m (10.000 pieds);
+					
+
+						Nonoperaring: ci-dessous 15.000 m (50.000 pieds)
+					
+
+
+
+
+					Mécanique
+				
+
+
+
+					Taille
+				
+
+					Longueur 385mm, largeur 200 mm, hauteur 245 mm
+				
+
+
+
+					Poids
+				
+
+					3.5 Kg (avec l'emballage);2.08 kg (sans emballage)
+				
+
+
+
+
+
+
+
+
+
+
+Emballage Inclut:
+
+
+
+
+
+
+
+		1 x Oscilloscope à Mémoire Numérique
+	
+
+		2 x Sondes (pp150)
+	
+
+		1 x Ligne d'Alimentation de l'Oscilloscope
+	
+
+		1 x Hantek CD de Données
+	
+
+		1 x Câble USB 
+	
+
+		1 x Certificat de Constructeur
+	
+
+
+
+
+Photos des Détails: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,249 @@
+1307801
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/CB/72/7284fbfc-18c1-4b04-af4e-8d4e75df192f.jpg
+MPPT 5A Solar Panel Regülatörü Denetleyici Batarya Şarj 9V 12V 24V Otomatik Anahtar
+https://tr.banggood.com/MPPT-5A-Solar-Panel-Regulator-Controller-Battery-Charging-9V-12V-24V-Automatic-Switch-p-1307801.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manuel: Açmak için buraya tıklayın<<<
+
+	Özellikleri:
+
+
+
+1W-100W 9V-28V 9V 12V 18V 24V güneş panelleri, piller, nikel-kadmiyum, lityum piller (pil) şarjı, rüzgar türbinleri güneş sokak lambaları için uygundur.
+
+Giriş ve çıkış terminalleri, yüksek frekanslı düşük empedanslı elektrolitik kapasitörler (LOW ESR) için üst düzey anahtarlamalı güç kaynağından yapılmıştır, çıkış dalgalanmasını sağlar. Anahtarlamalı güç kaynağı hatalarını etkili bir şekilde filtreleyebilir.
+
+
+
+parametreler:
+
+
+
+Modüler yapı: gerçek bir MPPT solar maksimum güç noktası izleme, otomatik akıllı şarj yönetimi, düşük güç tüketimi
+
+Giriş voltajı: DC 8-28V giriş DC voltajı. (yasak AC girişi)
+
+Çıkış voltajı: DC 5-26V kademesiz iletim.
+
+6V pil, 12 veya 8.4V/12.6V/16.8V lityum pil ile şarj edilebilir,7.2V/10.8V/14.4V lityum demir fosfat pil,2-4 dizi lityum pil, lityum demir fosfat şarj yönetim panosu.
+
+Çıkış akımı: 2A/5A maksimum iki şarj akımı: A versiyonu 5A B versiyonu A 2A 5A varsayılan sevkiyat versiyonu
+
+Şarj göstergesi: evet. Hızlı şarj kırmızı ışık uzun parlak kırmızı ve mavi ışıklar dönüşümlü olarak yanıp söner. Tam otomatik durdurma.
+
+MPPT işlevi: solar şarjın tam kullanımını en üst düzeye çıkarmak için bir MPPT maksimum güç noktası otomatik izleme
+
+Düşük basınç: 1V (düşürücü voltaj regülatörü gibi, giriş voltajı en az çıkış 1V'den daha yüksektir)
+
+Düşük güç tüketimi: evet! Düşük güç tüketimi ve yüksek verimlilik elde etmek için tasarlanmış ultra düşük basınç, güneş panellerinin profesyonel adaptasyonu
+
+Çalışma sıcaklığı: endüstriyel sınıf (-40 ila +85 derece)
+
+Yük regülasyonu: ± 1%
+
+Voltaj regülasyonu: ± 0,5%
+
+Dönüşüm verimliliği: Farklı aydınlatma koşulları için maksimum %93 tepe %95 değişiklik gösterir.
+
+Şarj: otomatik akıllı üç aşamalı şarj modu. Kendi kendini takip eden güneş enerjisi şarj akımı Numara'ü otomatik olarak ayarlar
+
+Yüksüz akım: 3MA, zayıf sabah güneş ışığı bile, manuel geçişi ortadan kaldırarak otomatik olarak kolayca başlayabilir.
+
+Giriş ters polarite koruması: evet. Özel olarak tasarlanmış ultra düşük düşme önleme MOS transistör ters polarite koruması, giriş ters çalışmıyor.
+
+Çıkış geri akış koruması: evet. Gece reflü pil elektrik şarj sayfasını etkili bir şekilde önleyin!
+
+Bağlantı: orada terminaller
+
+
+
+Hata ayıklama yöntemi:
+
+
+
+Adım 1: güneş pilini bağlayın, 2. adımda çıkış voltajı varsa, şarj edilecek şişeyi almayın.
+
+Adım 2: kırmızı ve mavi ışıklar yanıp sönene kadar küçük çıkış voltajının saat yönünün tersine aktarımı, ardından kaba çıkış voltajı tam kesme voltajına
+
+Adım 3: şarj akımını izlemek için ölü aküye erişin ve çıkış dizisi ampermetresinde, şarj akımı maksimuma kadar MPPT kırpma potansiyometresi.
+
+Adım 4: erişim pillerle dolu, mavi ışık saat yönünde ise çıkış voltajını kırmızı ışığa kadar artırın. Ardından, yalnızca mavi yanana kadar küçük bir çıkış voltajını saat yönünün tersine yavaşça aktarın ve ardından aşırı şarjı önlemek için kesme voltajının doğru olup olmadığını ölçmek için bir multimetre kullanın!
+
+
+
+Güneş enerjisinin güç kaynağını kullanmak yerine transfer yöntemleri:
+
+
+
+Adım 1: güç kaynağı Solar MPPT voltajına ayarlandı (18V gibi)
+
+Adım 2: giriş terminaline bağlı güç kaynağı, çıkış voltajı büyük bir MPPT voltaj çıkışı olmayana kadar saat yönünde ayarlanırsa, şarj edilecek pili almayın. Ardından, küçük MPPT'nin aktarımı sadece çıkış voltajına sahip olana kadar saat yönünün tersine yavaşça.
+
+Adım 3: kırmızı ve mavi ışıklar yanıp sönene kadar çıkış voltajını saat yönünün tersine çevirin, ardından çıkış voltajını tam kesme voltajına getirin
+
+Adım 4: erişim pillerle dolu, mavi ışık saat yönünde ise çıkış voltajını kırmızı ışığa kadar artırın. Ardından, yalnızca mavi yanana kadar küçük bir çıkış voltajını saat yönünün tersine yavaşça aktarın ve ardından aşırı şarjı önlemek için kesme voltajının doğru olup olmadığını ölçmek için bir multimetre kullanın!
+
+
+
+Not:
+
+
+
+İlk şarj önceden çıkış voltajını düzenler ve aşırı şarjı önlemek için lütfen pil voltajını yakından izleyin! Korumasız lityum piller kullanmayın!
+
+
+
+Paket içeriği:
+
+
+
+1 X MPPT snolar paneli regülatör denetleyicisi
+
+
+
+
+
+
+
+
+
+
+
+
+

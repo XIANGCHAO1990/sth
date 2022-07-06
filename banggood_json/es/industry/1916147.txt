@@ -1,0 +1,145 @@
+1916147
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/D7/57/418ad46b-4929-46f3-8a60-09c3ed3429c5.jpg
+OWON HDS200 Series 2CH Handheld Osciloscopio 100MHz Banda ancha 20000 Counts Multiumeter OSC + DMM + Generador de forma de onda 3 en 1 Adecuado para mantenimiento de automóviles y detección de energía
+https://es.banggood.com/OWON-HDS200-Series-2CH-Handheld-Oscilloscope-100MHz-Bandwidth-20000-Counts-Multiumeter-OSC-+-DMM-+-Waveform-Generator-3-in-1-Suitable-for-Automobile-Maintenance-and-Power-Detection-p-1916147.html?cur_warehouse=CN&ID=6315618&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: Si la computadora no instala automáticamente el software correctamente, instálelo manualmente de acuerdo con el archivo PDF del manual.>> Manual y software en inglés <<Características:● Osciloscopio + multímetro + generador de formas de onda, multifunción en uno● Pantalla LCD en color de alto contraste y alta resolución de 3,5 pulgadas, adecuada para uso en exteriores● Batería de litio 18650, consumo de energía integral≤3W, puede funcionar de forma continua durante aproximadamente 6 horas● Interfaz USB Type-C, banco de energía de soporte, conexión de software de PC de soporte● función de autocalibración● Compatible con SCPI, facilita el desarrollo secundarioEspecificaciones:OsciloscopiosModeloHDS2102 HDS2102S Banda ancha 100MHz100MHz Canales 2- CH Osciloscopio2-CH Osciloscopio+ Generador 1-CH Frecuencia de muestreo 500MSa/s Modeloo de adquisición Normal, detección de picosRegistro longitud8KMostrar3,5 pulgadas LCDFrecuencia de actualización de forma de onda10,000 wfrms / sAcoplamiento de entrada CC, CA y tierra Impedancia de entrada 1 MΩ + 2%, en paralelo con 1 6pF + 10pF Factores de atenuación de la sonda 1X, 10X, 100X, 1000X, 10000Xmáx. voltaje de entrada400 V (CC + CA, PK PK, impedancia de entrada de 1 MΩ)(atenuación de sonda 10:1)Límite de ancho de banda (típico) 20MHz / Ancho de banda completohorizontales Escala 2ns / div - 1000s / div, paso por 1-2-5 Sensibilidad Vertical 10 mV / div - 10 V / div Resolución vertical 8 bits Gatillo Tipo Borde Modos de disparo Automático, normal, único Medición AutomáticaFrecuencia, período, amplitud, máximo, mínimo, medio, PK-PK Medición de cursores△ V, △ T, △ T y △ V entre cursores Interface de comunicaciónUSB Type-C multímetro (Estándar)máx. Resolución  20.000 cuentasModo de prueba Prueba de voltaje, corriente, resistencia, capacitancia, diodo y continuidad Impedancia de entrada 10MΩ Voltaje de entrada máx.CA 750 V, CC 1000 V Corriente de entrada máxima CC: 10A CA: 10A Diodo  0- 2VGenerador de forma de onda (Solo para HDS2102S )Salida de frecuenciaSeno 0.1Hz - 25MHz Cuadrado0.1Hz - 5MHz Rampa0.1Hz - 1MHz Legumbres 0.1Hz - 5MHz Arbitrario 0.1Hz - 5MHz Tasa de muestreo125MSa/s Canal1-CH Rango de amplitud20mVpp-5Vpp Forma de onda longitud 8K Resolución vertical14bits Impedancia de salida 50Ω El paquete incluye:1xOsciloscopio1 x Bag1 sonda.1 x enchufe de alimentación (tipo UE)1 x ajuste de sonda1 cable USB.2 x Multímetro conductores1 manual de instrucciones.1 x BNC a pinza de cocodriloNota:Le enviaremos un adaptador de enchufe según su país.Imagen de detalles:
+
+
+
+

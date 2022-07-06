@@ -1,0 +1,171 @@
+1047429
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/CA/F9/a3a20464-326a-47ae-8f93-5cd11e61dc89.jpg
+3Pz Geekcreit® ATmega328P Arduino Compatibile Nano V3 Versione Migliorata Senza Cavo
+https://it.banggood.com/3Pcs-ATmega328P-Development-Board-Compatible-Nano-V3-Module-Improved-Version-No-Cable-p-1047429.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specificazione:
+
+Microcontrollore Atmel ATmega328
+Tensione di funzionamento (logica negativa): 5V
+Tensione in ingresso (consigliata): 7V ~ 12V
+Tensione in ingresso (limite): 6V ~ 20 V
+Piedini di I / O Digitale: 14 (6 di cui è per PWM)
+Piedini di Ingresso Analogici: 8
+Corrente DC per Piedini di I/O: 40mA
+Memoria Flash: 32KB (ATmega328) (2 KB di cui sono utilizzati dal bootloader)
+SRAM: 2 KB (ATmega328)
+EEPROM: 1KB (ATmega328)
+Frequenza di clock: 16 MHz
+
+Nota:
+
+Questa versione non include il cavo USB.
+Il chip USB è cambiato, la velocità di scaricare e la stabilità di funzionamento con WIN7/WIN8 snon migliorate.
+
+La confezione include:
+
+3 x Arduino Compatibile Versione Migliorata V3.0 Nano
+
+
+
+
+
+
+,
+
+

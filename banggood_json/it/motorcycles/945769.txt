@@ -1,0 +1,179 @@
+945769
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/4F/7A/ece2dcfc-1651-408c-82e4-18bbc65bd0c8.jpg
+V139 Interfaccia multi-Langauges per scanner diagnostico per auto per Renault Clip 
+https://it.banggood.com/V139-Car-Diagnostic-Scanner-Tool-Multi-Langauges-Interface-for-Renault-Clip--p-945769.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Funzione:
+Vedi tutte le informazioni relative al veicolo
+Test del computer
+Test automatico di tutti i computer
+Test airbag
+Ccantoolo (test OBD)
+Base Doc (accesso alle note tecniche)
+Misure fisiche
+Anti inquinamento
+Multimetro
+
+Come rompere la Renault può tagliare:
+1). Al termine dell'installazione, NON eseguire CLIP !!!
+     Sostituisci prima il file originale (esegui prima il backup del tuo RSRwin.exe originale) con il file RSRwin.exe in C: CLIP_X91LibApplication
+2). Quindi eseguire RSRwin.exe, selezionare "Registra ora" e nella finestra successiva selezionare "No"!
+3). Usa questa chiave per la registrazione: 333DEF-111DEF-111DEF-222DEF-221DEF-000DEF, funzionerà fino al 31/12/2020 :)
+4). Ripristina RSRWin.exe originale
+5). Esegui aggiornamento 139
+
+Il set di clip CAN CAN include:
+1 x interfaccia CAN Clip
+1 cavo a 16 pin per clip CAN - Collegamento auto
+Cavi 1 x 12 pin per clip CAN - Collegamento auto
+1 x cavo per CAN Clip - Connessione PC
+1 x CD del software 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

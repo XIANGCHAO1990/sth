@@ -1,0 +1,143 @@
+https://pt.banggood.com/Geekcreit-Pro-Micro-Type-C-5V-16M-Mini-Leonardo-Microcontroller-Development-Board-Pin-Soldered-p-1920746.html?cur_warehouse=HK&rmmds=CategoryElectronicsPop
+Geekcreit® Pro Micro Type-C 5V 16M Mini Leonardo Microcontroller Development Board Pin Soldered
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:Esta placa de desenvolvimento de microcontrolador tem 4 canais ADC de 10 bits, 5 PWM pinos, 12 DIO e uma conexão serial de hardware Rx e Tx que você está familiarizado. Rodando em 16 MHz e 5 V, esta placa irá lembrá-lo de muitas outras placas compatíveis de que você gosta. Há um regulador de tensão a bordo, para que possa aceitar até 12 V DC. Se você estiver fornecendo uma placa de fonte de alimentação instável, certifique-se de conectar ao "RAW" e não ao pino VCC. Nós também adicionamos um fusível PTC e proteção de diodo ao circuito e para corrigir os circuitos RX e LED TX.Recurso:- ATMEGA32U4 rodando em 5V / 16MHz- Suporte IDE V1.0.1- Programação da interface Type-C na placa- Quatro pinos ADC de 10 bits- 12 E / S digitais (capacidade de 5 PWM)- Conexão serial de hardware Rx e TxIncluído no Pacote:1 x módulo
+
+
+
+

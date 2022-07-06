@@ -1,0 +1,145 @@
+1729693
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/EC/B3/00bb338b-c076-4071-8d6a-c80ba4d3471a.jpg
+Geekcreit® DIY Radio Piezas del kit electrónico 51 Máquina de sonido digital FM de un solo chip
+https://es.banggood.com/Geekcreit-DIY-Radio-Electronic-Kit-Parts-51-Single-chip-FM-Digital-Sound-Machine-p-1729693.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introducción:El chip de control principal está compuesto por un chip STC89C52 + un dispositivo central TDA5807, que está conectado a través del bus I2C entre los dispositivos maestro y esclavo, y utiliza el método de sincronización del bus de simulación de software para hacer funcionar el chip TDA5807. El programa realiza la función de búsqueda automática de radio, y el rango de recepción de frecuencia es 87-108 MHZ, la información de la banda de frecuencia se muestra en tiempo real en la pantalla LCD1602 LCD. La señal de audio de salida es amplificada por el chip amplificador de potencia LM386 para que el altavoz funcione.La sensibilidad de recepción y la calidad del sonido son muy buenas, y la capacidad de interferencia anti-ruido es fuerte, lo que reduce efectivamente la interferencia de ruido al escuchar la radio. El sonido se vuelve más claro bajo la acción del chip amplificador de potencia.Agregar el indicador de nivel hace que escuchar la radio sea un placer total.Manual de montaje: Haga clic aquí.Características:1. Este módulo adopta un voltaje de trabajo DC 5V, es conveniente para obtener energía y es compatible con la fuente de alimentación USB de la computadora y el tesoro de carga móvil.2. Esta radio utiliza sintonización digital y control de volumen. Es más conveniente buscar estaciones de radio y ajustar el volumen.Especificación:Fuente de alimentación DC 5V, positiva y negativa, no invierta.Rango de modulación de frecuencia: 87 MHZ-108 MHZTamaño de la carcasa: 9,5 cm * 6,4 cm * 5,0 cmVoltaje de funcionamiento: 4,5 V-5,5 V CCEl paquete incluye:1 x DIY Radio Kit electrónico 
+
+
+
+

@@ -1,0 +1,145 @@
+1935841
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/2E/39/05dd38b2-b725-4ada-a392-1b66aef96ddd.jpg
+LILYGO® T-Motor ESP32 TMC2209 Carte de développement de carte d'extension OLED IOT 0,49 pouces
+https://fr.banggood.com/LILYGO-T-Motor-ESP32-TMC2209-0_49-Inch-OLED-IOT-Expansion-Board-Development-Board-p-1935841.html?cur_warehouse=CN&ID=6292756&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spécification:MCU : ESP32Flash : 4 MoInterfaces de bus : UART, SPI, I2C, CAN, I2S, SDIOConnectivité sans fil : Wi-Fi : 802.11 b/g/n/7 BLE V4.2Boutons intégrés : RST+BOOT, B1-IO36, B2-IO34, B3--IO35TMC2209 Pilote de moteur ultra-silencieuxRégulation rapide du courant, faible consommation, avec dissipateur thermiquePlage de tension : 5 ~ 12 V, pic de courant du moteur jusqu'à 2,8 A.MT6816 Puce d'encodeur magnétiqueRéaliser une mesure d'angle absolu de 0 à 360 °Haute vitesse, haute précision, zéro retardForfait inclus : (facultatif)Type 1:1 X carte mère pilote T-Motor1 étui imprimé en 3D1 écran OLED de 0,49 pouces1 X en-tête de broche1 cordon d'alimentation1 dissipateur thermique2 fils de connexion4 vis M3X40Type 2:1 X carte mère pilote T-Motor1 écran OLED de 0,49 pouces1 X en-tête de broche1 cordon d'alimentation1 dissipateur thermique2 fils de connexion4 vis M3X40Type#3 :1 étui imprimé en 3D4 vis M3X40Type#4 :1 X OLED de 0,49 pouces1 X en-tête de broche
+
+
+
+

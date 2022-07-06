@@ -1,0 +1,493 @@
+https://fr.banggood.com/2Pcs-LILYGO-TTGO-LORA-SX1278-ESP32-0_96-OLED-Display-Module-16-Mt-Bytes-128-Mt-bit)-433Mhz-p-1270420.html?cur_warehouse=GWTR&ID=6314336&rmmds=CategoryElectronicsPop
+2 pièces LILYGO TTGO LORA SX1278 ESP32 0.96 Module d&#39;affichage OLED 16 Mt octets 128 Mt bit) 433 Mhz
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mettre à jour les informations:Noter: Une fois le produit mis à jour, la puce Bluetooth a été intégrée ESP32, et l'utilisateur n'a qu'à graver le programme Bluetooth pour utiliser la fonction Bluetooth.Description du produit:
+L'antenne 433MHz doit être utilisée conjointement avec l'interface IPEX (si l'antenne n'est pas connectée, cela peut endommager la puce LoRa)
+Circuit de charge et de décharge de la batterie au lithium, lorsque la batterie est pleine, le bleu LED cesse de fonctionner. Lors de l'utilisation, faites attention au positif et au négatif de la batterie, sinon elle sera endommagée.
+En utilisant l'entrée de signal tactile de l'écran tactile du port IO, vous devez ajouter le condensateur pull-down 100nF à cette broche !
+
+
+Exemple:
+
+Ce produit est une puce SX1278 basée sur ESP32 WIFI augmenté OLED, à savoir modem distant LoRa, fréquence 433 MHz, haute sensibilité d'environ -148 dBm, puissance de sortie + 20 dBm, haute fiabilité, longue distance de transmission.
+	Les 16 Mt octets (128 Mt bit), l'antenne Wi-Fi, l'écran OLED bleu de 0,96 pouce, le circuit de charge de la batterie au lithium, l'interface CP2102 et la puce série USB, le support parfait pour l'environnement de développement, peuvent être utilisés pour la vérification du programme et le développement de produits. est très simple et rapide.
+	Tension de fonctionnement : 3,3 V à 7 V
+	Plage de température de fonctionnement : -40 degrés C à +90 degrés C
+	Prise en charge des modes Sniffer, Station, softAP et Wi-Fi Direct
+	Débits de données : 150 Mbps@11n HT40, 72 Mbps@11n HT20, 54 Mbps@11g, 11 Mbps@11b
+	Puissance d'émission : 19,5 dBm@11b, 16,5 dBm@11g, 15,5 dBm@11n
+	Sensibilité du récepteur jusqu'à -98 dBm
+	Débit soutenu UDP de 135 Mbps
+
+
+
+
+
+
+
+Description de la référence de la broche :
+
+
+Pour plus d'informations sur le produit, cliquez sur https://drive.google.com/file/d/1L8ll-DeAC2SATBZn0-KbSaZsrinbnXkF/view
+
+
+Détails des tests :
+
+
+
+
+Cliquez sur les liens pour plus de détails : https://eyun.baidu.com/s/3hsiTNgg
+
+Remarque : ce produit n'inclut pas la batterie.
+
+Emballage inclus:
+
+2 × ESP32 OLED
+2 x Line
+4 x pin
+Antenne à ressort 2 x 433 m
+
+Par exemple un :
+
+(1) LoRaExpéditeur
+	#inclure
+	#inclure
+	#inclure
+	// GPIO5 -- SCK du SX1278
+	// GPIO19 -- MISO du SX1278
+	// GPIO27 -- M0SI du SX1278
+	// GPIO18 -- CS du SX1278
+	// GPIO14 -- RÉINITIALISATION du SX1278
+	// GPIO26 -- IRQ (demande d'interruption) du SX1278
+
+	#définir SS 18
+	#définir RST 14
+	#définir DI0 26
+	#define BANDE 433E6  
+	compteur entier = 0 ;
+
+	void setup() {
+	  pinMode(25,SORTIE); //Envoyer le succès, LED brillera 1 seconde
+
+	  Serial.begin(115200);
+	  tandis que (!Série); //Si seulement la fonction de base, doit se connecter à un ordinateur
+
+	  SPI.begin(5,19,27,18);
+	  LoRa.setPins(SS,RST,DI0);
+	// Serial.println("Expéditeur LoRa");
+
+	  si (!LoRa.begin(BANDE)) {
+	    Serial.println("Le démarrage de LoRa a échoué !");
+	    tandis que (1);
+	  }
+	  Serial.println("LoRa Initial OK!");
+	}
+
+	boucle vide () {
+	  Serial.print("Envoi du paquet : ");
+	  Serial.println(compteur);
+
+	  // envoie le paquet
+	  LoRa.beginPacket();
+	  LoRa.print("bonjour ");
+	  LoRa.print(compteur);
+	  LoRa.endPacket();
+
+	  compteur++ ;
+	  digitalWrite(25, ÉLEVÉ); // allumez le LED (HIGH est le niveau de tension)
+	  retard(1000); // attend une seconde
+	  digitalWrite(25, BAS); // éteignez le LED en rendant la tension BASSE
+	  retard(1000); // attend une seconde
+
+	  retard (3000);
+	}
+
+	Par exemple Deux
+	(2)Récepteur LoRa
+	#inclure
+	#inclure
+
+
+	// GPIO5 -- SCK du SX1278
+	// GPIO19 -- MISO du SX1278
+	// GPIO27 -- M0SI du SX1278
+	// GPIO18 -- CS du SX1278
+	// GPIO14 -- RÉINITIALISATION du SX1278
+	// GPIO26 -- IRQ (demande d'interruption) du SX1278
+
+	#définir SS 18
+	#définir RST 14
+	#définir DI0 26
+	#define BANDE 433E6
+
+	void setup() {
+	  Serial.begin(115200);
+	  tandis que (!Série); // si c'est juste la fonction de base, doit se connecter à un ordinateur
+	  retard(1000);
+
+	  Serial.println("Récepteur LoRa");
+
+	  SPI.begin(5,19,27,18);
+	  LoRa.setPins(SS,RST,DI0);
+
+	  si (!LoRa.begin(BANDE)) {
+	    Serial.println("Le démarrage de LoRa a échoué !");
+	    tandis que (1);
+	  }
+	}
+
+	boucle vide () {
+	  // essaie d'analyser le paquet
+	  int packetSize = LoRa.parsePacket();
+	  si (taillepaquet) {
+	// a reçu un paquet
+	    Serial.print("Paquet reçu '");
+
+	    // lire le paquet
+	    tandis que (LoRa.available()) {
+	      Serial.print((char)LoRa.read());
+	    }
+
+	    // imprime le RSSI du paquet
+	    Serial.print("' avec RSSI ");
+	    Serial.println(LoRa.packetRssi());
+	  }
+	}
+
+	Par exemple trois
+	(3) Rappel du récepteur LoRa
+	#inclure
+	#inclure
+
+
+
+	// GPIO5 -- SCK du SX1278
+	// GPIO19 -- MISO du SX1278
+	// GPIO27 -- M0SI du SX1278
+	// GPIO18 -- CS du SX1278
+	// GPIO14 -- RÉINITIALISATION du SX1278
+	// GPIO26 -- IRQ (demande d'interruption) du SX1278
+
+	#définir SS 18
+	#définir RST 14
+	#définir DI0 26
+	#define BANDE 433E6
+
+	void setup() {
+	  Serial.begin(115200);
+	  tandis que (!Série); // si c'est juste la fonction de base, doit se connecter à un ordinateur
+
+	  SPI.begin(5,19,27,18);
+	  LoRa.setPins(SS,RST,DI0);
+
+	  Serial.println("Rappel du récepteur LoRa");
+
+	  si (!LoRa.begin(BANDE)) {
+	    Serial.println("Le démarrage de LoRa a échoué !");
+	    tandis que (1);
+	 }
+
+	  // enregistre le rappel de réception
+	  LoRa.onReceive(onReceive);
+
+	  // met la radio en mode réception
+	  LoRa.receive();
+	}
+
+	boucle vide () {
+	  // ne fais rien
+	}
+
+	void onReceive(int packetSize) {
+	  // a reçu un paquet
+	  Serial.print("Paquet reçu '");
+
+	  // lire le paquet
+	  pour (int je = 0; je < paquetTaille; je++) {
+	    Serial.print((char)LoRa.read());
+	  }
+
+	  // imprime le RSSI du paquet
+	  Serial.print("' avec RSSI ");
+	  Serial.println(LoRa.packetRssi());
+	}
+	?
+	Par exemple quatre
+	#inclure // Nécessaire uniquement pour 1.6.5 et versions antérieures
+	#inclure "SSD1306.h" // alias pour `#inclure "SSD1306Wire.h"`
+	#inclure "images.h"
+
+	//OLED broches à ESP32 0.96OLEDGPIOs via cette connexion :
+	//OLED_SDA -- GPIO4
+	//OLED_SCL -- GPIO15
+	//OLED_RST -- GPIO16
+
+	Affichage SSD1306 (0x3c, 4, 15);
+
+	#define DEMO_DURATION 3000
+	typedef void (*Demo)(void);
+	int demoMode = 0 ;
+	compteur entier = 1 ;
+
+	void setup() {
+	  pinMode(16,SORTIE);
+	  digitalWrite(16, BAS); // définir GPIO16 bas pour réinitialiser OLED
+	  retard(50);
+	  digitalWrite(16, ÉLEVÉ); // pendant que OLED est en cours d'exécution, doit définir GPIO16 en haut
+
+	  Serial.begin(115200);
+	  Serial.println();
+	  Serial.println();
+
+
+	  // L'initialisation de l'interface utilisateur initiera également l'affichage.
+	  display.init();
+
+	  display.flipScreenVertical();
+	  display.setFont(ArialMT_Plain_10);
+
+	}
+
+	annuler drawFontFaceDemo() {
+	    // Police Demo1
+	    // créer plus de polices sur http://oleddisplay.squix.ch/
+	    display.setTextAlignment(TEXT_ALIGN_LEFT);
+	    display.setFont(ArialMT_Plain_10);
+	    display.drawString(0, 0, "Bonjour le monde");
+	    display.setFont(ArialMT_Plain_16);
+	    display.drawString(0, 10, "Bonjour le monde");
+	    display.setFont(ArialMT_Plain_24);
+	    display.drawString(0, 26, "Bonjour le monde");
+	}
+
+	annuler drawTextFlowDemo() {
+	    display.setFont(ArialMT_Plain_10);
+	    display.setTextAlignment(TEXT_ALIGN_LEFT);
+	    display.drawStringMaxWidth(0, 0, 128,
+	      "Lorem ipsumn dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore." );
+	}
+
+	annuler drawTextAlignmentDemo() {
+	    // Démonstration d'alignement de texte
+	display.setFont(ArialMT_Plain_10);
+
+	  // Les coordonnées définissent le point de départ gauche du texte
+	  display.setTextAlignment(TEXT_ALIGN_LEFT);
+	  display.drawString(0, 10, "Aligné à gauche (0,10)");
+
+	  // Les coordonnées définissent le centre du texte
+	  display.setTextAlignment(TEXT_ALIGN_CENTER);
+	  display.drawString(64, 22, "Centré (64,22)");
+
+	  // Les coordonnées définissent l'extrémité droite du texte
+	  display.setTextAlignment(TEXT_ALIGN_RIGHT);
+	  display.drawString(128, 33, "Aligné à droite (128,33)");
+	}
+
+	annuler drawRectDemo() {
+	      // Dessine un pixel à une position donnée
+	    pour (int i = 0; i < 10; i++) {
+	      display.setPixel(je, je);
+	      display.setPixel(10 - je, je);
+	    }
+	    display. drawRect(12, 12, 20, 20);
+
+	    // Remplir le rectangle
+	    display.fillRect(14, 14, 17, 17);
+
+	    // Dessine une ligne horizontalement
+	    display.drawHorizontalLine(0, 40, 20);
+
+	    // Dessine une ligne horizontalement
+	    display.drawVerticalLine(40, 0, 20);
+	}
+
+	annuler drawCircleDemo() {
+	  pour (int i=1; i < 8; i++) {
+	    display.setColor(BLANC);
+	    display.drawCircle(32, 32, i*3);
+	    si (je % 2 == 0) {
+	      display.setColor(NOIR);
+	    }
+	    display.fillCircle(96, 32, 32 - i* 3);
+	  }
+	}
+	annuler drawProgressBarDemo() {
+	  int progression = (compteur / 5) % 100 ;
+	  // dessine la barre de progression
+	  display.drawProgressBar(0, 32, 120, 10, progression);
+
+	  // dessine le pourcentage sous forme de chaîne
+	  display.setTextAlignment(TEXT_ALIGN_CENTER);
+	  display.drawString(64, 15, String(progression) + "%");
+	}
+
+	annuler drawImageDemo() {
+	    // voir http://blog.squix.org/2015/05/esp8266-nodemcu-how-to-create-xbm.html
+	    // comment créer des fichiers xbm
+	    display.drawXbm(34, 14, WiFi_Logo_width, WiFi_Logo_height, WiFi_Logo_bits);
+	}
+
+	Démo démos [] = {drawFontFaceDemo, drawTextFlowDemo, drawTextAlignmentDemo, drawRectDemo, drawCircleDemo, drawProgressBarDemo, drawImageDemo};
+	int demoLength = (sizeof(demos) / sizeof(Demo));
+	long timeSinceLastModeSwitch = 0 ;
+
+	boucle vide () {
+	  // efface l'affichage
+	  display.clear();
+	  // dessine la méthode de démonstration actuelle
+	  démos[modedémo]();
+
+	  display.setTextAlignment(TEXT_ALIGN_RIGHT);
+	  display.drawString(10, 128, String(millis()));
+	  // écrit le tampon à l'écran
+	  display.display();
+
+	  si (millis() - timeSinceLastModeSwitch > DEMO_DURATION) {
+	    demoMode = (demoMode + 1) % demoLength ;
+	    timeSinceLastModeSwitch = millis();
+	  }
+	  compteur++ ;
+	  retard(10);
+	}
+
+
+
+
+

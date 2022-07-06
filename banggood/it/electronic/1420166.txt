@@ -1,0 +1,195 @@
+https://it.banggood.com/Geekcreit-Wireless-NodeMcu-Lua-CH340G-V3-Based-ESP8266-WIFI-Internet-of-Things-IOT-Development-Module-p-1420166.html?cur_warehouse=CN&ID=522225&rmmds=CategoryElectronicsPop
+Geekcreit® Wireless NodeMcu Lua CH340G V3 Basato su ESP8266 Modulo di sviluppo IOT WIFI Internet of Things
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifiche:
+
+
+
+Dimensioni: ca. 5,7x3x1 cm/ 2,24x1,18x0,39"
+
+
+
+
+Vantaggio:
+
+
+
+1. Open-source
+
+2. Interattivo
+
+3. Programmabile
+
+4. Basso costo
+
+5. Semplice
+
+6. Intelligente
+
+Wi-Fi abilitato
+
+IO hardware simile a quello compatibile
+
+API avanzata per l'IO hardware, che può ridurre drasticamente il lavoro ridondante per la configurazione e la manipolazione dell'hardware.
+
+Codice compatibile, ma in modo interattivo nello script Lua.
+
+API di rete in stile Nodejs
+
+API basata su eventi per applicazioni di rete, che facilita gli sviluppatori a scrivere codice in esecuzione su un MCU di dimensioni 5 mm*5 mm in stile Nodejs.
+
+Velocizza notevolmente il processo di sviluppo delle tue applicazioni IOT.
+
+WI-FI a basso costo
+
+È una piccola scheda, basata su ESP8266, integra GPIO, PWM, IIC, 1-Wire e ADC tutto in un'unica scheda
+
+
+
+
+
+Il pacchetto include:
+(opzionale)
+
+1/2/3/5/10/20/30/40/50 x NodeMcu Lua CH340G ESP8266 Modulo Internet WIFI
+
+
+
+
+

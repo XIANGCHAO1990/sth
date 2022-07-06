@@ -1,0 +1,359 @@
+1236039
+https://imgaz.staticbg.com/thumb/large/oaupload/ser1/banggood/images/95/A5/745de595-4c6c-4b5a-b626-e51d0ca7a0f1.jpg
+EQKIT® Ark Ateşleme Çakmağı DC3-5V 3A DIY Yüksek Basınçlı Elektronik Çakmak Modülü Kit
+https://tr.banggood.com/EQKIT-Arc-Ignition-Lighter-DC3-5V-3A-DIY-High-Pressure-Electronic-Lighter-Module-Kit-p-1236039.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nasıl ışık verir:
+
+
+
+	Özellik:
+
+
+
+İsim: HV-1 yüksek basınçlı ateşleyici (DIY kit, monte etmeniz gerekir)
+
+Giriş voltajı: DC3-5V
+
+Giriş akımı: 3A
+
+Çalışma akımı: 2.5A'dan az değil
+
+Çalışma modu: kendinden heyecanlı salınım artışı
+
+Çalışma frekansı: yaklaşık 20KHz
+
+Sürekli çalışma süresi: 10 saniye
+
+Ark uzunluğu: yaklaşık 5 mm
+
+Boyut: 71 x 18 x 12 mm (U x G x Y)
+
+Kontak anahtarı: evet
+
+Ağırlık: 15 gr
+
+Liste:
+
+
+
+
+
+HAYIR.
+
+Bileşen Adı
+
+PCB İşaretleyici
+
+Parametre
+
+ADET
+
+
+
+					1
+
+					Karbon film dirençleri
+
+					R1
+
+					33R/1W
+
+					1
+
+
+
+					2
+
+					Elektrolitik kondansatör
+
+					C1
+
+					470UF
+
+					1
+
+
+
+					3
+
+					Diyot
+
+					D1
+
+					1N5819
+
+					1
+
+
+
+					4
+
+					Buton
+
+					SW1
+
+					6*6*5mm
+
+					1
+
+
+
+					5
+
+					transistör
+
+					Q1
+
+					D880
+
+					1
+
+
+
+					6
+
+					Batarya terminali
+
+					JK1
+
+					KF301-2P
+
+					1
+
+
+
+					7
+
+					trafo
+
+					T1
+
+					14*15*8
+
+					1
+
+
+
+					8
+
+					PCB
+
+					--
+
+					18*71mm
+
+					1
+
+
+
+					9
+
+					Vida
+
+					Q1
+
+					M3*5
+
+					1
+
+
+
+					10
+
+					Fındık
+
+					Q1
+
+					M3
+
+					1
+
+
+
+					11
+
+					Kravat
+
+					T1
+
+					3*100mm
+
+					1
+
+
+
+
+
+
+
+Paket şunları içerir:
+
+
+
+1 x Ark Ateşleme Çakmağı Kit
+
+
+
+
+Montajdan sonra, sadece referans için
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

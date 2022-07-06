@@ -1,0 +1,145 @@
+1727472
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/D8/56/cee66fb4-b1a1-4a5f-a1df-8426fa3a374b.jpg
+LILYGO® TTGO Meshtastic T-Beam V1.1 ESP32 433/915/923 Mhz WiFi Bluetooth ESP32 GPS NEO-6M SMA 18650 Soporte de batería con OLED
+https://es.banggood.com/LILYGO-TTGO-Meshtastic-T-Beam-V1_1-ESP32-433-or-915-or-923Mhz-WiFi-Bluetooth-ESP32-GPS-NEO-6M-SMA-18650-Battery-Holder-With-OLED-p-1727472.html?cur_warehouse=CN&ID=513922&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Más información:https://github.com/geeksville/Meshtastic-Android/blob/master/README.md https://github.com/meshtastic/Meshtastic-device/releases https://github.com/Xinyuan-LilyGO/LilyGO-T-Beam Característica:Tensión de trabajo1,8 ~ 3,7 VCorriente aceptable10 ~ 14 mATransmitir corriente120 mA a   20 dBm90mA a   17dBm29mA a   13dBmFrecuencia de operación433/915 / 923MHz (opcional). 868MHz >>> Haga clic aquí para abrirTransmitir poder   20dBmRecibir sensibilidad -139dBm @ LoRa y 62.5Khz y SF = 12 y 146bps -136dBm @ LoRa y 125Khz y SF = 12 y 293bps -118dBm @ LoRa y 125Khz y SF = 6 y 9380bps -123dBm@FSK&5Khz&1.2KbpsError de frecuencia  /- 15 KHzEspacio FIFO64ByteVelocidad de datos1.2K~300Kbps@FSK0.018K~37.5Kbps@LoRaModo de modulaciónFSK, GFSK, MSK, GMSK, LoRa TM, OOKForma de interfazSPICorriente de sueño0.2uA@SUEÑO1.5uA@IDLETemperatura de funcionamiento -40 ℃ ~   85 ℃Función RSSI digitalCorrección automática de frecuenciaControl de ganancia automática Detección de bajo voltaje Despertar rápido y salto de frecuenciaManejador de paquetes de datos altamente configurable GPSMódulos GPS NEO-6M, fuente de alimentación 3V-5V UniversalMódulo destinado con antena cerámica, señal superGuardar los datos de los parámetros de configuración EEPROM DownCon batería de respaldo de datosHay indicador de señal LEDTasa de baudios predeterminada: 9600 PoderEntrada de fuente de alimentación USB 5V / 1ACorriente de carga 500mAEntrada de batería 3.7-4.2VCarga IC AXP192Descripción OLED:1. Tamaño: 0,96 pulgadas2. Alta resolución: 128 * 643. Color: blanco4. Ángulo de visión:> 160 °5. IC del controlador: SSD13066. Temperatura de trabajo: -30 grados centígrados ~ 80 grados centígrados7. Volumen del módulo (generoso): 27,0 mm x 27,0 mm x 4,1 mm8. Admite muchos chips de control: totalmente compatible con Arduino, serie 51, serie MSP430, chip STM32 / 2, etc. (muchas rutinas de referencia)9. Amplio soporte de voltaje: sin ninguna modificación, admite directamente 3.3V ~ 5V DC10. Consumo de energía ultrabajo: el funcionamiento normal es de 0,04 W11. El puerto IO ocupa una pantalla mínima: la comunicación IIC, siempre que los dos puertos IOEl paquete incluye:1 X TTGO Viga en T 1 antena de 433/915/923 MHz1 X 0,96 pulgadas 128X64 OLED2 X Pin
+
+
+
+

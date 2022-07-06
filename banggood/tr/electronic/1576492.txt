@@ -1,0 +1,497 @@
+https://tr.banggood.com/PowMr-MPPT-60A-Solar-Charge-and-Discharge-Controller-12V-24V-36V-48V-Auto-for-Max-PV-190VDC-Lead-Acid-Lithium-Battery-p-1576492.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+PowMr MPPT 60A Solar Şarj ve Deşarj Kontrol Cihazı 12V 24V 36V 48V Max PV için Otomatik 190VDC Kurşun Asit Lityum Batarya
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manuel: Açmak için buraya tıklayın<<<Özellikler:
+
+
+
+
+
+Model Adı
+      MPPT-30A
+MPPT-40A 
+MPPT-50A 
+
+				MPPT-60A
+
+
+
+Şarj modu
+
+MPPT Otomatik olarak maksimum güç noktası izleme
+
+
+
+Doluyor
+
+3 kademeli:sabit akım(MPPT), sabit voltaj(Absorpsiyon Voltajı), değişken şarj
+
+
+
+Sistem tipi
+
+DC12V/24V/36V/48V otomatik olarak tanıma
+
+
+
+Sistem voltajı otomatik tanıma
+
+12V sistem (DC9V-DC15V)
+
+
+
+24V sistem (DC18V-DC29V)
+
+
+
+36V sistemi (DC30V-DC39V)
+
+
+
+48V sistem (DC40V~DC60V)
+
+
+
+Yumuşak başlangıç zamanı
+
+≤1S
+
+
+
+Dinamik yanıt ve kurtarma süresi
+
+≥98.1% (Voc, pilin 1.5 veya 2 katıdır, o zaman en iyi verimliliktir)
+
+
+
+PV kullanımı
+
+≥99%
+
+
+
+Giriş özellikleri
+
+
+
+
+PV'den Voc ( PV'nin Voc'sinin gereksinimi doğru olarak karşıladığından emin olun. Voc, aküden 1,5 veya 2 kat daha fazladır, o zaman en iyi verimliliktir.)
+
+
+12V sistem (DC20V~DC80V)
+
+
+
+24V sistem (DC37V~DC105V)
+
+
+
+36V sistem (DC50V~DC160V)
+
+
+
+48V sistem (DC72V~DC160V)
+
+
+
+Maksimum PV giriş voltajı (Voc)
+
+DC190V(Kontrolör, denetleyiciyi bozacak bu uzun süreli voltajda çalışamaz. Lütfen PV'den gelen Giriş voltajına bakın.)
+
+
+
+
+Maksimum PV giriş gücü (PV'nin toplam gücü, denetleyiciyi bozacak bu watt'ın üzerinde olamaz.)
+
+
+12V sistem (360W)
+
+12V sistem (480W)
+
+12V sistem (600W)
+
+12V sistem (720W)
+
+
+
+24V sistem (720W)
+
+
+24V sistem (960W)
+
+
+24V sistem (1200W)
+
+24V sistem (1440W)
+
+
+
+36V sistem (1080W)
+
+36V sistem (1400W)
+
+36V sistem (1800W)
+
+36V sistem (2100W)
+
+
+
+48V sistem (1440W)
+
+48V sistem (1700W)
+
+48V sistem (2200W)
+
+48V sistem (2800W)
+
+
+
+Çıkış özellikleri
+
+
+
+Seçilebilir pil tipi (varsayılan Mühürlüdür)
+
+Havalandırmalı/ Mühürlü / Jel / NiCd / Lityum pil (kullanıcı tarafından diğer pil için tanımlanan voltaj)
+
+
+
+Absorpsiyon Şarj Gerilimi
+
+Bataryalar şarj referansına bakın
+
+
+
+Yüzer Şarj Gerilimi
+
+Bataryalar şarj referansına bakın
+
+
+
+Aşırı şarj koruma voltajı
+
+12V sistem (15V)
+
+
+
+24V sistem (30V)
+
+
+
+36V sistem (45V)
+
+
+
+48V sistem (60V)
+
+
+
+
+Nominal çıkış akımı
+
+
+
+
+
+
+
+
+60A
+
+
+
+Sıcaklık katsayısı
+
+±0.02%/santi-derece
+
+
+
+Otomatik sıcaklık telafisi
+
+14,2V-(Maks sıcaklık-25 santigrat derece)*0,3
+
+
+
+Çıkış voltajı dalgalanma-tepe
+
+100mV
+
+
+
+Çıkış voltajı doğru
+
+≤±1%
+
+
+
+Giriş İzinsiz giriş önleme koruması
+
+Evet
+
+
+
+Sıcaklık Koruması
+
+75 °C
+
+
+
+Sıcaklık artırılmış koruma
+
+
+70 °C'nin üzerine çıktığında çıkış gücü azalacaktır.
+
+55 °C'den düşük olduğunda çıkış gücü normal olacaktır
+
+
+
+
+Fan açık sıcaklık
+
+>40 °C
+
+
+
+Fan kapalı sıcaklığı
+
+<35 °C
+
+
+
+Akustik ses
+
+≤40dB
+
+
+
+soğutma yolu
+
+Cebri hava soğutması
+
+
+
+Bileşenler
+
+İthal malzemeler, AB standartlarına uygun, Endüstriyel sınıf aralığı.
+
+
+
+Çevresel Gereklilikler
+
+2002/95/EC ile tanışın; Kadmiyum, hidrit ve florür içermez
+
+
+
+Güvenlik seviEveti
+
+CE, PSE, FCC, EMC, EN60950'ye göre
+
+
+
+Elektromanyetik uyumluluk
+
+EN61000, EN55022, EN55024'e göre
+
+
+
+muhafaza
+
+IP21
+
+
+
+Net ağırlık / kilogram)
+
+1.1
+
+
+
+Brüt Ağırlık (kg)
+
+1.2
+
+
+
+
+
+
+Özellikleri:
+
+
+
+	- Akıllı Maksimum Güç Noktası İzleme teknolojisi
+
+	- Yüksek performanslı yerleşik DSP denetleyicisi
+
+	- Otomatik akü voltajı algılama 12V/24V/36V/48V
+
+	- Üç aşamalı şarj, pil performansını optimize eder
+
+	- Çok fonksiyonlu LCD ekranlar
+
+	- Güneş panelinin ters polarite koruması
+
+	- Aşırı şarj koruması
+
+	- Kapalı kurşun asit, havalandırmalı Jel ve Lityum pil akü tipleri için uygundur
+
+
+
+Notlar:
+
+
+
+	1. Çıkış terminali sadece lamba içindir (12V sistem daha az 60W, 24V/36V/48V sistem daha az 100W) ve diğer yüklere bağlanırsa yanacaktır. Pil çıkışı polarite ters koruması değildir. 
+
+	2. Paralel olarak iki parça 60A koyabilirsiniz, yani toplam MPPT 120A
+
+
+
+Paket içeriği:
+
+
+
+	1 x MPPT-60A Solar Denetleyiciler
+
+	1 x Kullanım Kılavuzu (İngilizce)
+
+
+
+
+

@@ -1,0 +1,171 @@
+1332909
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/FD/FF/ba018c83-f811-44f4-9dae-0614ea65f9d8.jpg
+LILYGO® TTGO T5 V2.0 Módulo inalámbrico WiFi Base bluetooth ESP-32 ESP32 2,13 e-Paper Pantalla Placa de desarrollo
+https://es.banggood.com/LILYGO-TTGO-T5-WiFi-Wireless-Module-bluetooth-Base-ESP-32-ESP32-2_13-e-Paper-Display-Development-Board-p-1332909.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Visión de conjunto:
+
+Debido a las ventajas como el consumo ultrabajo de energía, el amplio ángulo de visión, la pantalla clara sin electricidad, es una opción ideal para aplicaciones tales como etiquetas de estantes, instrumentos industriales, etc.
+
+Características:
+
+- Sin luz de fondo, sigue mostrando el último contenido durante mucho tiempo incluso cuando se apaga
+- Consumo de energía ultrabajo, básicamente solo se requiere energía para actualizar
+- Viene con recursos de desarrollo y manual (ejemplos para Arduino-esp32)
+
+Especificaciones:
+
+-Voltaje de funcionamiento: 3,3 V
+-Interfaz: SPI de 3 hilos, SPI de 4 hilos
+-Color de la pantalla: negro, blanco
+-Nivel de grises: 2
+-Tiempo de actualización completo: 8s
+-Potencia de actualización: 26,4 mW (típ.)
+-Potencia en espera: <0.017mW
+-Ángulo de visión: >170°-Versión de actualización: Chip CH9102F (almacén CN), Chip CP2104 (CZ depósito)
+
+Biblioteca: Haga clic para abrir
+Código: Click para abrir
+
+El paquete incluye:
+
+1 módulo inalámbrico WiFi T5 V2.0 TTGO
+
+
+
+

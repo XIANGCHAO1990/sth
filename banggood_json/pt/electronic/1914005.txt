@@ -1,0 +1,146 @@
+1914005
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/14/F5/f3967e72-07d9-4087-bb4d-6f7b45e829e7.jpg
+Placa de desenvolvimento ESP32 C3 RISC-V WiFi Bluetooth Placa de desenvolvimento IoT compatível com Python
+https://pt.banggood.com/ESP32-C3-Development-Board-RISC-V-WiFi-Bluetooth-IoT-Development-Board-Compatible-with-Python-p-1914005.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+O que é C3FH4 RGB? O C3FH4 RGB apresenta um design ultracompacto com um processador risc-v de núcleo único de 32 bits a 160 MHz em um PCB, SRAM de 400 KB integrado e 4 MB Flash, integrado com 2,4 GHz Wi Fi e com suporte a Bluetooth 5 de longa distância ( LE), com desempenho de RF líder do setor e baixo consumo de energia. Ao combinar a inicialização segura baseada em RSA-3072 e a criptografia flash baseada em AES-128-XTS, oferece uma maneira mais segura de responder às preocupações de segurança do Bluetooth.Com baixo consumo de energia: é ideal para qualquer dispositivo com restrição de espaço ou alimentado por bateria, como wearables, dispositivos médicos, sensores e outros dispositivos IoT.e totalmente compatível com Arduin, MicroPython, ESP32-IDF e outras plataformas de desenvolvimento convencionais para construir rapidamente vários aplicativos.ALTA INTEGRAÇÃO: C3FH4 RGB Incluindo 2 canais de 5V -> 3,3 V DC / DC, GPIOx11, luz RGB programável x25, botão x2, circuito RF com sintonia fina, fornecendo comunicação sem fio estável e confiável. Recursos:ESP32-C3FH4 (2,4 GHz Wi-Fi e com suporte de longa distância Bluetooth 5 (LE))SRAM de 400 KB integrado e 4 MB FlashUSB Type-C (USB OnThe-Go (OTG))Incluindo 2 canais de 5V -> 3,3 V DC / DC5X5 ws2812b-1515 integrado (GPIO8) e 2 botões (GPIO9 e CHIP_EN)3 V de alimentação LED e status LED (GPIO10)Ceramic AntenaTamanho e peso: Tamanho: 21 x 18 mmPeso: 2,3gDOCUMENTOS:https://github.com/01Space/ESP32-C3FH4-RGB O pacote inclui:1 x placa LED(Nota: a moeda não está incluída)
+
+
+
+

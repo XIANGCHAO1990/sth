@@ -1,0 +1,145 @@
+1833055
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/F2/BC/56b66f8a-7062-46b3-8c5b-5297059ee38d.jpg
+Alimentatore 5V / 7-28V 8 canali ESP8266 Modulo relè WIFI a 8 vie ESP-12F Scheda di sviluppo Scheda di sviluppo secondaria
+https://it.banggood.com/5V-or-7-28V-Power-Supply-8-Channel-ESP8266-WIFI-8-way-Relay-Module-ESP-12F-Development-Board-Secondary-Development-Board-p-1833055.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: Questo prodotto non può essere utilizzato direttamente, è adatto per l'apprendimento dello sviluppo secondario ESP8266, i principianti prestano attenzione!Caratteristica:Modulo WiFi ESP-12F maturo e stabile integrato, grande capacità 4M Byte FlashLa modalità di alimentazione supporta DC7-28V / 5VPulsante di ripristino RST del modulo WIFI integratoESP-12F supporta l'uso di strumenti di sviluppo come Eclipse / Arduino lDEFornire un programma di riferimento nell'ambiente di sviluppo Arduin08 relè 5V integrati, segnali di commutazione di uscita, adatti per il controllo di carichi la cui tensione di lavoro è compresa tra 250 V CA / 30 V CCIndicatore di alimentazione a bordo e indicatore del relèSpecifiche del prodottoDimensioni scheda: 149 * 80 mmPeso: 140 gLa confezione include:1 modulo relè a 8 viePorta di programmazione: GND, RX, TX, 5V di ESP8266 sono rispettivamente collegati al modulo della porta seriale TTL esterna GND, TX, RX, 5V, IO0 devono essere collegati a GND durante il download, quindi scollegare la connessione tra IO0 e GND dopo il download è completo;Uscita relè:NC: normalmente chiuso, il relè è in cortocircuito con COM prima del pull-in e rimane sospeso in aria dopo il pull-in;COM: fine pubblico;NO: estremità normalmente aperta, il relè viene sospeso prima di essere chiuso e cortocircuitato su COM dopo essere stato chiuso.Introduzione alla porta principale GPIO:NumeroNomeFunzione Descrizione1ADCRisultato della conversione A / D. Intervallo di tensione in ingresso 0 ~ 1 V, intervallo di valori: 0 ~ 10242IO2GPIO2; UART1_TXDTXDUART0_TXD; GPIO13RXDUART0_RXD; GPIO34GNDMassa di potenza55VAlimentazione 5V
+
+
+
+

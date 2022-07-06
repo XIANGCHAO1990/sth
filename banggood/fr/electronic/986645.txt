@@ -1,0 +1,172 @@
+https://fr.banggood.com/CJMCU-ADS1115-16Bit-ADC-Development-Board-Module-p-986645.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+CJMCU-ADS1115 16Bit ADC Module de Conseil de Développement
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractérisitque:
+
+Large plage de tension d'alimentation: 2.0V à 5.5V
+
+Faible consommation de courant: Mode continu: Seulement 150 μ
+
+
+ Mode monotouche: s'éteint automatiquement
+Débit de données programmable: 8SPS à 860SPS
+Référence de tension interne à basse dérive
+Oscillateur interne
+PGA interne
+Quatre entrées monophasées ou deux entrées différentielles (ADS1115)
+Comparateur programmable (ADS1114 et ADS1115)
+Température de fonctionnement: -40 ° C à + 140 ° C
+
+Remarque: Le PCB bleu et le PCB pourpre envoient en aléatoire
+
+Description:
+
+ADS1113, ADS1114 et ADS1115 sont un convertisseur analogique / numérique de précision (ADC) paragraphe 16 de résolution, ultra-petit, sans plomb, QFN-10 ou MSOP-10 paquet disponible. La conception ADS1113 / 4/5 de précision, de puissance et facile à retenir mise en œuvre. ADS1113 / 4/5 dispose d'une référence embarquée et d'un oscillateur. Transfert de données via une interface série compatible I 2 C, quatre adresses esclaves I 2 C. Gamme de fonctionnement ADS1113 / 4/5 de 2 V à 5,5 V
+
+Emballage inclut:
+
+1 x CJMCU-ADS1115 16Bit ADC Module de Conseil de Développement
+
+
+
+
+
+
+
+
+

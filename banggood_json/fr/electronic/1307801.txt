@@ -1,0 +1,249 @@
+1307801
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/CB/72/7284fbfc-18c1-4b04-af4e-8d4e75df192f.jpg
+MPPT 5A Contrôleur de régulateur de panneau solaire Batterie Commutateur automatique de charge 9V 12V 24V
+https://fr.banggood.com/MPPT-5A-Solar-Panel-Regulator-Controller-Battery-Charging-9V-12V-24V-Automatic-Switch-p-1307801.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manuel : Cliquez ici pour ouvrir<<<
+
+	Caractéristiques:
+
+
+
+1W-100W 9V-28V convient aux panneaux solaires 9V 12V 18V 24V pour les batteries, le nickel-cadmium, la charge des batteries au lithium (batterie), les lampadaires solaires des éoliennes.
+
+Les bornes d'entrée et de sortie sont constituées d'une alimentation à découpage haut de gamme pour les condensateurs électrolytiques à basse impédance haute fréquence (LOW ESR), garantissant l'ondulation de la sortie. Peut filtrer efficacement les problèmes d'alimentation à découpage.
+
+
+
+Paramètres:
+
+
+
+La nature modulaire: un véritable suivi du point de puissance solaire MPPT maximum, une gestion de charge intelligente automatique, une faible consommation d'énergie
+
+Tension d'entrée: tension continue d'entrée DC 8-28V. (interdiction d'entrée AC)
+
+Tension de sortie : transmission continue DC 5-26 V.
+
+La batterie 6V peut être chargée soit 12 ou 8.4V/12.6V/16.8V batterie au lithium,Batterie lithium fer phosphate 7.2V/10.8V/14.4V,Batteries au lithium 2-4 cordes, carte de gestion de charge au lithium fer phosphate.
+
+Courant de sortie : 2A/5A courant de charge maximum en deux : version A 5A version B de A 2A 5A version d'expédition par défaut
+
+Indicateur de charge : oui. La charge rapide de la lumière rouge longue et lumineuse clignote en alternance. Arrêt entièrement automatique.
+
+Fonction MPPT: un suivi automatique du point de puissance maximale MPPT, pour maximiser l'utilisation complète de la charge solaire
+
+Basse pression : 1 V (tout comme le régulateur de tension abaisseur, la tension d'entrée est au moins supérieure à la sortie 1 V)
+
+Faible consommation d'énergie : oui ! Ultra-basse pression conçue pour atteindre une faible consommation d'énergie et un rendement élevé, adaptation professionnelle des panneaux solaires
+
+Température de fonctionnement : qualité industrielle (-40 à +85 degrés)
+
+Régulation de charge : ± 1%
+
+Régulation de tension : ± 0,5 %
+
+Efficacité de conversion : Max 93 % pic 95 % pour différentes conditions d'éclairage varient.
+
+Charge : mode de charge automatique intelligent en trois étapes. Le courant de charge de l'énergie solaire à suivi automatique ajuste automatiquement la taille
+
+Courant à vide: 3MA même la faible lumière du soleil du matin peut facilement démarrer automatiquement, éliminant ainsi l'interrupteur manuel.
+
+Protection contre l'inversion de polarité d'entrée : oui. Protection contre l'inversion de polarité du transistor MOS de prévention de chute ultra-faible exclusivement conçue, l'inversion d'entrée ne fonctionne pas.
+
+Protection contre le reflux de sortie : oui. Empêchez efficacement la feuille de charge électrique de la batterie de reflux nocturne!
+
+Connexion: il bornes
+
+
+
+Méthode de débogage :
+
+
+
+Étape 1: connectez la cellule solaire, ne prenez pas la bouteille à charger, si la tension de sortie à l'étape 2. S'il n'y a pas de transfert de petite sortie dans le sens antihoraire lentement jusqu'à la tension de sortie MPPT.
+
+Étape 2: transfert dans le sens antihoraire d'une petite tension de sortie jusqu'à ce que les voyants rouges et bleus clignotent, puis tension de sortie grossière à une tension de coupure complète
+
+Étape 3: accédez à la batterie morte et à l'ampèremètre de chaîne de sortie pour surveiller le courant de charge, potentiomètre de réglage MPPT jusqu'au maximum du courant de charge.
+
+Étape 4: l'accès est juste plein de piles, si le voyant bleu est dans le sens des aiguilles d'une montre, augmentez la tension de sortie jusqu'au voyant rouge. Ensuite, transférez lentement une petite tension de sortie dans le sens inverse des aiguilles d'une montre jusqu'à ce que seuls les voyants bleus s'allument, puis utilisez un multimètre pour mesurer afin de déterminer que la tension de coupure est correcte pour éviter une surcharge !
+
+
+
+Méthodes de transfert au lieu d'utiliser l'alimentation en énergie solaire :
+
+
+
+Étape 1: l'alimentation a été ajustée Tension MPPT solaire (telle que 18V)
+
+Étape 2: l'alimentation connectée à la borne d'entrée, ne chargez pas la batterie, si la tension de sortie est ajustée dans le sens des aiguilles d'une montre jusqu'à ce qu'il n'y ait pas de sortie de tension MPPT importante. Puis lentement dans le sens antihoraire jusqu'à ce que le transfert du petit MPPT ait juste la tension de sortie.
+
+Étape 3: dans le sens inverse des aiguilles d'une montre, baissez la tension de sortie jusqu'à ce que les voyants rouges et bleus clignotent, puis la tension de sortie grossière à une tension de coupure complète
+
+Étape 4: l'accès est juste plein de piles, si le voyant bleu est dans le sens des aiguilles d'une montre, augmentez la tension de sortie jusqu'au voyant rouge. Ensuite, transférez lentement une petite tension de sortie dans le sens inverse des aiguilles d'une montre jusqu'à ce que seuls les voyants bleus s'allument, puis utilisez un multimètre pour mesurer afin de déterminer que la tension de coupure est correcte pour éviter une surcharge !
+
+
+
+Noter:
+
+
+
+La première charge régule à l'avance la tension de sortie et surveille de près la tension de la batterie pour éviter toute surcharge ! Ne pas utiliser de piles au lithium non protégées !
+
+
+
+Emballage inclus:
+
+
+
+1 X MPPTcontrôleur de régulateur de panneau olar
+
+
+
+
+
+
+
+
+
+
+
+
+

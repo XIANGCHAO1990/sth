@@ -1,0 +1,388 @@
+1617882
+https://imgaz.staticbg.com/thumb/large/oaupload/ser1/banggood/images/DA/70/2b177caf-5742-470e-8c1f-91d868595fe5.jpg
+H96 Max X3 Amlogic S905X3 4GB RAM 32GB ROM 5G WIFI Bluetooth 4.0 1000M LAN Android Android 9.0 4K 8K VP9 H.265 TV-Box
+https://de.banggood.com/H96-Max-X3-Amlogic-S905X3-4GB-RAM-32GB-ROM-5G-WIFI-bluetooth-4_0-1000M-LAN-Android-Android-9_0-4K-8K-VP9-H_265-TV-Box-p-1617882.html?cur_warehouse=CN&ID=533601&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spezifikationen:
+
+
+
+
+
+
+
+
+
+Hardware
+
+
+
+Zentralprozessor
+
+Amlogic S905X3 64-Bit-Quad-Core-ARM® Cortex™ A55-Zentralprozessor
+
+
+
+Grafikkarte
+
+G31™ MP2 Grafikkarte-Prozessor
+
+
+
+Speicher
+
+DDR3 4GB
+
+
+
+Blinken
+
+eMMC 32GB
+
+
+
+W-lan
+
+IEEE 802.11a/b/g/n; 2,4G / 5G            
+
+
+
+Bluetooth
+
+ BT; (Sprachfernbedienung unterstützen)
+
+
+
+Moodle
+
+Kunststoff; Schwarze Farbe
+
+
+
+E/A
+
+1 x HD HD 2.1, Support HD CEC, Dynamic HDR und 8Kx4K@24 max. Auflösungsausgabe
+
+
+
+1 x AV OUT 480i/576i Standard Definition-Ausgang
+
+
+
+1 x USB 3.0
+				1 x USB 2.0
+
+
+
+1 x IR Empfänger Fernempfänger Connect
+
+
+
+1 SPDIF
+
+
+
+1 x RJ45 Ethernet-Schnittstelle; unterstützt 10/100M/1000M
+
+
+
+1 x TF-KARTE unterstützt 4 GB/8 GB/16GB/32GB/64GB
+
+
+
+Leistung
+
+DC 5V/2A
+
+
+
+Software
+
+
+
+Betriebssystem
+
+Android 9.0
+
+
+
+Video
+
+Amlogic Video Motor (AVE) mit dedizierten Hardware-Decodern und -Encodern
+				Unterstützt Multi-Video-Decoder bis zu 4x1080P@60fps
+				Unterstützt mehrere „gesicherte“ Videodecodierungssitzungen und gleichzeitiges Decodieren und Codieren
+				Video-/Bilddekodierung
+				VP9 Profile-2 bis zu 8Kx4K@24 fps
+				H.265 HEVC MP-10@L5.1 bis zu 8Kx4K@24 fps
+				AVS2-P2-Profil bis zu 8Kx4K@24 fps
+				H.264 AVC HP@L5.1 bis zu 4Kx2K@30fps
+				MPEG-4 ASP@L5 bis zu 1080P@60fps (ISO-14496)
+				WMV/VC-1 SP/MP/AP bis zu 1080P@60fps
+				AVS-P16(AVS+) /AVS-P2 JiZhun-Profil bis zu 1080P@60fps
+				MPEG-2 MP/HL bis zu 1080P@60fps (ISO-13818)
+				MPEG-1 MP/HL bis zu 1080P@60fps (ISO-11172)
+				RealVideo 8/9/10 bis zu 1080P@60fps
+				Unterstützung mehrerer Sprachen und Untertitelvideos in mehreren Formaten
+				MJPEG- und JPEG-Decodierung mit unbegrenzter Pixelauflösung (ISO/IEC-10918)
+				Unterstützt JPEG-Miniaturansichten, Skalierung, Drehung und Übergangseffekte
+				Unterstützt die Dateiformate *.mkv, *.wmv, *.mpg, *.mpeg, *.dat, *.avi, *.mov, *.iso, *.mp4, *.rm und *.jpg
+
+
+
+Audio
+
+Unterstützt MP3, AAC, WMA, RM, FLAC, Ogg und programmierbar mit 7.1/5.1-Downmix
+				VAD mit geringem Stromverbrauch
+				Eingebauter serieller digitaler SPDIF/IEC958-Audioeingang/-ausgang und PCM-Eingang/-ausgang
+				3 integrierte TDM/PCM/I2S-Ports mit TDM/PCM-Modus bis zu 384 kHz x 32 Bit x 16 Kanäle oder 96 kHz x 32 Bit x 32 Kanäle und I2S-Modus bis zu 384 kHz x 32 Bit x 16 Kanäle
+				PDM-Eingang für digitales Mikrofon mit programmierbarem CIC, LPF und HPF, unterstützt bis zu 8 DMICs
+				Eingebauter Stereo-Audio-DAC
+				Unterstützt die gleichzeitige Ausgabe von zwei Audio-Stereokanälen mit einer Kombination aus Analog+PCM oder I2S+PCM
+
+
+
+Bild
+
+HD-JPEG, BMP, GIF, PNG, TIF
+
+
+
+Sprache
+
+Englisch Französisch Deutsch Spanisch Italienisch usw. multilaterale Sprachen
+
+
+
+Anwendungen
+
+
+
+Online
+
+Durchsuchen Sie alle Video-Websites, unterstützen Sie Netflix, Hulu, Flixster, Youtube usw. 
+
+
+
+Anwendungen
+
+Anwendungen können kostenlos aus dem Android Market, Amazon heruntergeladen werden Anwendung speichern usw.
+
+
+
+Mittel
+
+Lokale Medienwiedergabe, unterstützt HDD, U-Disk, TF-Karte.
+
+
+
+Sprechen Sie online
+
+Unterstützt SKYPE-Videoanrufe, MSN, Facebook, Twitter, QQ usw
+
+
+
+Andere
+
+Support-E-Mail, Büroanzug usw.
+				Unterstützt die DLNA-Funktion
+				Unterstützt 2,4 G drahtlose Maus/Tastatur
+
+
+
+Verpackung
+
+
+
+Produktabmessung
+
+114 x 21mm
+
+
+
+Einheitsverpackung (GW)
+
+0.4KG
+
+
+
+
+Lieferinhalt:
+
+1 x H96 Max X3 S905X3 4G/32G TV-Box
+1 x HD Kabel
+1 x IR Fernbedienung (kein Sprachcontroller)
+1 x Netzteil
+1 x BenutzerhandbuchMerkmale:
+
+
+Zentralprozessor Amlogic S905X3 64-Bit-Quad-Core-ARM® Cortex™ A55-Zentralprozessor
+
+Grafikkarte G31™ MP2 Grafikkarte-Prozessor
+
+Arbeitsspeicher: DDR3 4 GB
+
+ROM: eMMC 32GB
+	Betriebssystem: Android 9.0
+	Ethernet: Unterstützt 10/100M/1000M
+
+W-lan: IEEE 802.11a/b/g/n; 2,4G / 5G            
+
+Bluetooth: BT; (Sprachfernbedienung unterstützen)
+	Videodekodierung: VP9 Profile-2 bis zu 8Kx4K@24 fps, H.265 HEVC MP-10@L5.1 bis zu 8Kx4K@24 fps
+Unterstützen Sie Google Assistant (Sie müssen eine Sprachsteuerung für diese Funktion kaufen)
+
+
+Andere Optionen:
+
+H96 Max X3 S905X3 4G/32G-Fernseher KASTEN: [VERKNÜPFUNG]
+H96 Max X3 S905X3 4G/64G-Fernseher KASTEN: [VERKNÜPFUNG]
+H96 Max X3 S905X3 4G/128G TV-BOX: [VERKNÜPFUNG]
+
+
+
+
+
+
+
+
+
+
+
+
+

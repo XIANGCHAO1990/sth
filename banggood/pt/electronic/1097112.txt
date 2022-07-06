@@ -1,0 +1,196 @@
+https://pt.banggood.com/Geekcreit-NodeMcu-Lua-WIFI-Internet-Things-Development-Board-Based-ESP8266-CP2102-Wireless-Module-p-1097112.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Geekcreit® NodeMcu Lua WIFI Internet Things Development Board Based ESP8266 CP2102 Wireless Module
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:
+
+Material: placa experimental + liga mista
+Cor: preto
+Módulo de chip: CP2102
+Temperatura de trabalho: -40 ℃ ~ +125 ℃
+Entrada de alimentação: 4,5V ~ 9V (10V máx.), alimentado por USB
+Tipo de driver: dual driver H-ponte de alta potência
+Corrente: 70ma transmissão contínua ≈70mA (200mA máx.)
+Espera: <200uA
+Tamanho: (L) x (W) 4,8x2,5cm / 1,89''x0,98 '' (aprox.)
+
+Características:
+
+Um excelente conjunto de ferramentas para desenvolver o ESP8266.
+ESP8266 tem Pin de IO.
+ESP8266 Full IO mouth leads download diretamente sem reiniciar.
+Open-source, interativo, programável, de baixo custo, simples, inteligente, WI-FI ativado.
+Acelere rapidamente seu processo de desenvolvimento de aplicativos IOT.
+
+Aviso prévio:
+
+Por favor, permita um erro de 1-5 mm devido à medição manual e certifique-se de que não se preocupe antes de fazer o pedido.
+Por favor, entenda que as cores podem existir aberração cromática como a colocação diferente de imagens.
+
+Incluído no pacote:
+
+1 x Placa de desenvolvimento ESP8266  CP2102
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

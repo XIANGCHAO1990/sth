@@ -1,0 +1,1257 @@
+https://it.banggood.com/Hantek-2D82-AUTO-Digital-Oscilloscope-Multimeter-4-in1-2-Channels-80MHz-Signal-Source-Automotive-Diagnostic-250MSa-or-s-p-1561640.html?cur_warehouse=CN&ID=6281245&rmmds=CategoryToolsPop
+Hantek 2D82 AUTO Digital oscilloscopio Multimetri 4 in1 2 canali 80MHz Sorgente del segnale Diagnostico automobilistico 250MSa/s
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristiche:
+
+
+
+Un nuovissimo oscilloscopio portatile della serie Hantek2000, continua il concetto compatto e leggero ma con una nuova generazione di tester multifunzione 4 in 1: Automotive Diagnostic, oscilloscopio, sorgente di segnale e multimetro; Un piccolo volume della presa senza scopo di lucro da una sola mano; Il supporto sospeso è stato progettato per supportare la regolazione multi-angolo; Interfaccia di ricarica Tipo C a bassissima potenza, ogni 2 ore di carica della batteria consente di lavorare un giorno intero o in standby due mesi; Schermo a colori ad alta definizione LCD chiaro e delicato; Il design minimalista della tastiera semplifica l'operazione, facile da usare.
+
+
+
+Con oltre 80 tipi di test dell'auto e la scansione del codice QR sul retro del dispositivo, puoi aprire i file della guida video per mostrarti come testare i veicoli.
+
+
+
+· Primi progetti di test: grado di vuoto e accensione del collettore di aspirazione, grado di vuoto e accensione della valvola di regolazione nerofumo, accensione di scarico (minimo), accensione di scarico (start).
+
+· Start & Charge: circuito di carica, corrente e tensione.
+
+· Attuatore: Benzina / diesel.
+
+· Rilevamento del bus: osservazione dei dati del bus CAN, integrità del segnale del bus CAN, acquisizione a lungo termine del bus CAN LH, bus LIN.
+
+· Sensori: flussometro aria, albero a camme, albero motore, distributore, sonda lambda, posizione farfalla. . .
+
+· Accensione: Primaria/Secondaria.
+
+· Oscilloscopio: oscilloscopio a 2 canali, larghezza di banda 80MHz, frequenza di campionamento 250M.
+
+· Multimetri funzione: tensione, corrente, resistenza, diodo, condensatore, test on-off;
+
+·Funzione di uscita del generatore di forme d'onda: uscita sinusoidale, quadrata, triangolare, trapezoidale e altre forme d'onda; seno fino a 25MHz;
+
+
+
+
+
+Modalitàllo
+
+Hantek2D82AUTO
+
+
+
+ Modalità di prova del veicolo
+
+
+
+Diagnosi del veicolo
+
+Funzione di diagnostica del veicolo
+
+Accensione
+
+Accensione primaria (tensione)
+
+
+
+Accensione primaria (corrente)
+
+
+
+Accensione primaria (tensione e corrente)
+
+
+
+Accensione primaria (sensore albero motore)
+
+
+
+Accensione primaria e accensione secondaria
+
+
+
+Secondario
+
+Distributoree di accensione secondario Tipo (cavo spina)
+
+
+
+Distributoree di accensione secondario Tipo (King Lead)
+
+
+
+DIS secondario (a fuoco positivo)
+
+
+
+DIS secondario o CPC (attivazione negativa))
+
+
+
+Diagnosi uscita bobina secondaria
+
+
+
+Accensione secondaria e accensione primaria
+
+
+
+Sensori
+
+Misuratore di portata d'aria
+
+Misuratore del flusso d'aria (cavo caldo)
+
+
+
+Misuratore di portata d'aria (aletta d'aria)
+
+
+
+Sensore di flusso d'aria (B'OSCH diesel)
+
+
+
+Sensore pressione aspirazione aria (B'OSCH diesel)
+
+
+
+albero a camme
+
+Albero a camme (induttivo)
+
+
+
+Albero a camme (AC eccitato)
+
+
+
+Albero a camme (effetto Hall)
+
+
+
+Albero a camme (B'OSCH Common Rail diesel)
+
+
+
+Albero motore
+
+Funzionamento induttivo dell'albero a gomiti
+
+
+
+Avviamento induttivo dell'albero a gomiti
+
+
+
+Effetto Hall albero motore
+
+
+
+Sensore albero motore e accensione primaria
+
+
+
+Distributore
+
+Ritiro del distributore (Effetto Hall)
+
+
+
+Avviamento pick-up induttivo del distributore
+
+
+
+Ritiro induttivo del distributore in funzione
+
+
+
+Sonda Lambda
+
+Sonda lambda Titania
+
+
+
+Sonda Lambda Zircone
+
+
+
+Sonda lambda Zirconia Pre e Post cat
+
+
+
+Posizione dell'acceleratore
+
+Potenziometro posizione farfalla
+
+
+
+Interruttore di posizione dell'acceleratore
+
+
+
+Interruttore a pedale dell'acceleratore (B'OSCH diesel)
+
+
+
+Sensore di velocità digitale ABS
+
+
+
+Sensore di velocità analogico ABS
+
+
+
+Temperatura del liquido di raffreddamento (5V)
+
+
+
+Temperatura del liquido di raffreddamento (GM/Vauxhall Simtec
+
+
+
+Sensore d'urto
+
+
+
+MAP analogico
+
+
+
+MAP digitale
+
+
+
+Sensore di velocità su strada ad effetto Hall
+
+
+
+Pedale acceleratore (B'OSCH diesel)
+
+
+
+Diagnosi autobus
+
+CAN Bus
+
+Visualizzazione dati bus CAN
+
+
+
+Integrità del segnale del bus CAN
+
+
+
+CAN Bus LH Cattura lunga
+
+
+
+Autobus LIN
+
+LINBus
+
+
+
+Motore
+
+Benzina
+
+Iniettore a punto singolo (tensione)
+
+
+
+Iniettore a punto singolo (corrente)
+
+
+
+Iniettore multipunto (tensione)
+
+
+
+Iniettore multipunto (corrente)
+
+
+
+Tensione e corrente dell'iniettore
+
+
+
+Corrente dell'iniettore e accensione primaria
+
+
+
+diesel
+
+diesel Common Rail (attuale)
+
+
+
+Iniettore B'OSCH CDi 3 (Attuale)
+
+
+
+Iniettore B'OSCH diesel (minimo)
+
+
+
+Iniettore B'OSCH diesel (Accelerante)
+
+
+
+
+
+Candele diesel
+
+
+
+Pompa carburante elettronica
+
+
+
+Elettrovalvola a cartuccia in carbonio
+
+
+
+Elettrovalvola di ricircolo ERG
+
+
+
+Esempio di motore passo-passo 1
+
+
+
+Esempio di motore passo-passo 2
+
+
+
+Valvola di controllo del minimo (rotativa)
+
+
+
+Valvola di controllo del minimo (elettromagmetica)
+
+
+
+Servomotore dell'acceleratore (minimo)
+
+
+
+Servomotore dell'acceleratore (accelerazione)
+
+
+
+Valvola di controllo della quantità B'OSCH CDi3
+
+
+
+Valvola di regolazione della pressione B'OSCH CDi3
+
+
+
+Ventola di raffreddamento a velocità variabile accesa
+
+
+
+Ventola di raffreddamento a velocità variabile spenta
+
+
+
+Fasatura variabile della valvola dell'albero a camme
+
+
+
+Avvio e ricarica
+
+Circuiti di ricarica
+
+Circuiti di carica Corrente/Tensione
+
+
+
+Circuiti di carica Corrente/Tensione di avviamento 24V
+
+
+
+Circuiti di carica Corrente/Tensione Idle 24V
+
+
+
+Circuiti di carica Alternatore AC Ripple/diagnosi dei diodi
+
+
+
+
+
+Compressione relativa Benzina
+
+
+
+Compressione relativa diesel
+
+
+
+Caduta di tensione iniziale
+
+
+
+Modalità Oscilloscopio
+
+
+
+Larghezza di banda
+
+80MHz
+
+
+
+Canale
+
+2CH+DMM+AWG
+
+
+
+
+
+Orizzontale
+
+
+
+Intervallo di frequenza di campionamento
+
+250MSa/s (singolo canale), 125MSa/s (doppio canale)
+
+
+
+Interpolazione della forma d'onda
+
+(peccato x)/x
+
+
+
+Registrare Lunghezza
+
+Campioni 3K per doppio canale
+
+
+
+Intervallo SEC/DIV
+
+5ns/div~500s/div 1, 2, 5 sequenza
+
+
+
+Verticale
+
+
+
+Convertitore A/D
+
+Risoluzione a 8 bit, ogni canale campionato contemporaneamente
+
+
+
+Gamma VOLT/DIV
+
+Ingresso 10mV/div~10V/divat BNC
+
+
+
+Limite di larghezza di banda, tipico
+
+20MHz
+
+
+
+
+
+Risposta in bassa frequenza (-3db)
+
+10Hz a BNC
+
+
+
+Tempo di salita al BNC, tipico
+
+5ns
+
+
+
+Precisione del guadagno CC
+
+±3% per la modalità di acquisizione Normalee o Media, da 10V/div a 10mV/div
+
+
+
+Nota: larghezza di banda ridotta a 6 MHz quando si utilizza una sonda 1X.
+
+
+
+Acquisizione
+
+
+
+Modalità di acquisizione
+
+Normale
+
+
+
+Grilletto
+
+
+
+Tipo
+
+Bordo
+
+
+
+Modalità
+
+Automatico, Normalee, Singolo
+
+
+
+Livello
+
+±4 divisioni dal centro dello schermo
+
+
+
+Precisione del livello di trigger
+
+0.2div × volt/div entro ±4 divisioni dal centro dello schermo   
+
+
+
+Pendenza
+
+Ascesa, caduta, ascesa e caduta
+
+
+
+Fonte
+
+CH1/CH2
+
+
+
+Ingresso
+
+
+
+accoppiamento
+
+CC, CA o GND
+
+
+
+Impedenza di ingresso, 
+
+25pF±3pF, 1MΩ±2%
+
+
+
+DC accoppiato
+
+
+
+Attenuazione della sonda
+
+1X, 10X
+
+
+
+Fattori di attenuazione della sonda supportati
+
+1X, 10X, 100X, 1000X
+
+
+
+Tensione di ingresso massima
+
+150VRMS
+
+
+
+Misurazione
+
+
+
+Cursore
+
+Differenza di tensione tra i cursori: △V
+
+
+
+Differenza di tempo tra i cursori: △T
+
+
+
+Misurazioni automatiche
+
+Frequenza, ampiezza
+
+
+
+Modalità generatore di forme d'onda arbitrarie
+
+
+
+Frequenza della forma d'onda
+
+Seno: 1Hz~25MHz
+
+
+
+Quadrato: 1Hz~10MHz
+
+
+
+Rampa: 1Hz~1MHz
+
+
+
+ESP: 1Hz~5MHz
+
+
+
+Campionamento
+
+250MSa/s
+
+
+
+Ampiezza
+
+2,5 Vpp (50 )
+
+
+
+5Vpp (alta impedenza)
+
+
+
+Risoluzione di frequenza
+
+0.001
+
+
+
+Canale
+
+Uscita forma d'onda 1CH
+
+
+
+Profondità della forma d'onda
+
+512Sa
+
+
+
+Risoluzione verticale
+
+12 bit
+
+
+
+Stabilità di frequenza
+
+<30 ppm
+
+
+
+Impedenza di uscita
+
+50
+
+
+
+Modalità di test DMM
+
+
+
+Risoluzione massima
+
+4000 Counts
+
+
+
+Modalità di test DMM
+
+Tensione, corrente, resistenza, capacità, diodo e on-off
+
+
+
+Tensione di ingresso massima
+
+CA: 600 V, CC: 800 V
+
+
+
+Corrente di ingresso massima
+
+CA: 10 A, CC: 10 A
+
+
+
+Impedenza di ingresso
+
+10 MΩ
+
+
+
+Termine di misurazione
+
+Gamma
+
+Precisione
+
+Risoluzione
+
+
+
+Tensione CC
+
+400.00mV
+
+± (0,8% + 5)
+
+100uV
+
+
+
+4.000V
+
+1mV
+
+
+
+40.00V
+
+10mV
+
+
+
+400.0V
+
+100mV
+
+
+
+600.0V
+
+± (1% + 2)
+
+1V
+
+
+
+Protezione da sovraccarico: 400 mV: 250 V, altro: 600 Vrms.
+
+
+
+Tensione CA
+
+4.000V
+
+± (1,2% + 5)
+
+1mV
+
+
+
+40.00V
+
+10mV
+
+
+
+400.0V
+
+100mV
+
+
+
+600.0V
+
+±(1,5% + 5)
+
+1V
+
+
+
+Frequenza: 40Hz~400Hz;
+
+
+
+Frequenza di 400V e 600V: 40Hz~100Hz
+
+
+
+Corrente CC
+
+40.00mA
+
+± (1% + 2)
+
+10uA
+
+
+
+200.0mA
+
+± (1,5% + 2)
+
+100uA
+
+
+
+4.000A
+
+± (1,8% + 2)
+
+1mA
+
+
+
+10.00A
+
+± (3% + 2)
+
+10mA
+
+
+
+Protezione da sovraccarico: 
+
+
+
+fusibile autoripristinante: portata 200mA/250V, 4A e 10A senza fusibile.
+
+
+
+Corrente CA
+
+40.00mA
+
+± (1,3% + 2)
+
+10uA
+
+
+
+400.0mA
+
+± (1,8% + 2)
+
+100uA
+
+
+
+4.000A
+
+± (2% + 3)
+
+1mA
+
+
+
+10.00A
+
+± (3% + 5)
+
+10mA
+
+
+
+Frequenza: 40Hz~400Hz;
+
+
+
+fusibile autoripristinante: portata 200mA/250V, 4A e 10A senza fusibile.
+
+
+
+Resistenza
+
+400.0Ω
+
+±(1% + 3)
+
+0.1Ω
+
+
+
+4.000KΩ
+
+±(1,2% + 5)
+
+1Ω
+
+
+
+60,00KΩ
+
+10Ω
+
+
+
+400.0KΩ
+
+100Ω
+
+
+
+4.000 MΩ
+
+1KΩ
+
+
+
+40,00 MΩ
+
+± (1,5%±3)
+
+10KΩ
+
+
+
+Protezione da sovraccarico: 220 Vrms
+
+
+
+Capacità
+
+40.00nF
+
+±(3% + 5)
+
+10pF
+
+
+
+400.0nF
+
+100pF
+
+
+
+4.000uF
+
+1nF
+
+
+
+40.00uF
+
+10nF
+
+
+
+100.0uF
+
+100nF
+
+
+
+Protezione da sovraccarico: 220 Vrms
+
+
+
+Diodo
+
+0V~2.0V
+
+
+
+Acceso spento
+
+<50Ω
+
+
+
+Specifiche generali
+
+
+
+Schermo
+
+
+
+Visualizza Tipo
+
+2,8 pollici 64K a colori TFT
+
+
+
+Risoluzione dello schermo
+
+320 pixel orizzontali per 240 pixel verticali
+
+
+
+Contrasto display
+
+Regolabile
+
+
+
+Alimentazione elettrica
+
+
+
+Tensione di alimentazione
+
+100V-240VAC, 50Hz-60Hz; INGRESSO CC: 5 V CC, 2 A
+
+
+
+Consumo di energia
+
+<2,5 W
+
+
+
+Fusibile
+
+T, 3A
+
+
+
+Batteria
+
+2600mA*2
+
+
+
+Ambientale
+
+
+
+temperatura di esercizio
+
+0~50 °C (32~122 °F)
+
+
+
+Temperatura di conservazione
+
+-40~+71 °C (-40~159,8 °F)
+
+
+
+Umidità
+
+≤+104°(≤+40°C): 90% di umidità relativa
+
+
+
+106°~122° (+41°C ~50°C): 60% di umidità relativa
+
+
+
+Metodo di raffreddamento
+
+Convezione
+
+
+
+Altitudine
+
+Operativo e
+
+3.000 m (10.000 piedi)
+
+
+
+Non operativo
+
+
+
+Shock meccanico
+
+Vibrazione casuale
+
+0,31 gRMS da 50Hz a 500Hz, 10 minuti su ogni asse
+
+
+
+Non operativo
+
+2.46gRMS da 5Hz a 500Hz, 10 minuti su ogni asse
+
+
+
+Operativo
+
+50 g, 11 ms, mezzo seno
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

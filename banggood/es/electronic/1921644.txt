@@ -1,0 +1,143 @@
+https://es.banggood.com/WT32-SC01-ESP32-Development-Board-with-3_5-inch-320X480-Capacitive-Multi-Touch-LCD-Screen-Built-In-bluetooth-WIFI-p-1921644.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+Placa de desarrollo WT32-SC01 ESP32 con pantalla capacitiva de 3,5 "320X480 Multi-Táctil LCD bluetooth WIFI incorporado
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>Manual: Haga clic aquí para abrir<<<Descripción:WT32-SC01 es una placa de desarrollo para pantalla táctil visual. La placa está equipada con un firmware de plataforma GUI de desarrollo propio y es compatible con la programación gráfica de arrastrar y soltar para ayudar a los usuarios a completar el desarrollo de una plataforma de control personalizada.La placa de desarrollo WT32- SC01 adopta el módulo ESP32-WROVER-B, que es un módulo MCU universal Wi-Fi + BT + BLE, equipado con 4 MB SPI Flash y 8 MB PSRAM. La placa de desarrollo WT32-SC01 también puede ser a través de la interfaz de expansión en ambos lados del botón, la voz, la cámara y otras funciones de desarrollo y depuración, acortando en gran medida el ciclo de desarrollo del usuario.Especificación:Pantalla: pantalla LCD de 3,5 pulgadasResolución: 320*480Pantalla táctil: capacitanciaMulti-touch: soporte 2 touchCPU: MCU LX6 XtensaRO de 32 bits de doble núcleoWIFI: protocolo wifi 802.11b / g / n de 2,4 GHzBluetooth: cumple con los estándares Bluetooth V4.2 BR / EDR y BLEFuente de alimentación: DC5V / 2ATemperatura de trabajo: -20 ℃ ～ 85 ℃El paquete incluye:1 x placa de desarrollo WT32-SC01 ESP32
+
+
+
+

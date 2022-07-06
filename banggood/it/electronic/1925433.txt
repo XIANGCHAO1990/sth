@@ -1,0 +1,143 @@
+https://it.banggood.com/480W-Dual-Digital-Display-DC-Switching-Power-Supply-Current-Limit-Adjustable-voltage-0-5V-12V-24V-36V-48V-60V-80V-120V-220V-p-1925433.html?cur_warehouse=CN&ID=6316960&rmmds=CategoryElectronicsPop
+480W Dual Digital Display DC Switching Alimentazione Limite di corrente Tensione regolabile 0-5V 12V 24V 36V 48V 60V 80V 120V 220V
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Potenza nominaleDigitale DisplayManopola regolabileNumero identificativo dell'oggetto480WVoltaggioVoltaggio1908262VoltaggioTensione e corrente1925431Tensione e correnteTensione e corrente19254331000WTensione e correnteVoltaggio1927330Tensione e correnteTensione e corrente1925287Caratteristiche:● Ingresso a piena tensione● Miniaturizzazione●Funzione di protezione Cortocircuito/sovraccarico/sovratensione●Test di invecchiamento a pieno carico al 100%Specifica:Nome: doppio alimentatore switching digitale DisplayPotenza nominale: 480 WTensione di ingresso e gamma di frequenza: 110 V/220 V CA/47 (63 Hz)Uscita: 0-5V0-60A, 0-12V0-40A, 0-24V0-20A, 0-36V0-15A, 0-48V0-10A, 0-60V0-8A, 0-80V0-6A, 0-120V0-4A, 0-220V2.2AAvviare la corrente di picco: 20A@120VAC (avviamento a freddo)Campo di regolazione dell'uscita: ±100% (tensione di uscita nominale)Protezione da sovraccarico: 105%~200% (carico nominale), ripristino automaticoProtezione da sovratensione: 115%~135% (tensione di uscita nominale)Protezione da cortocircuito: autoripristinoTempo di inizio dell'uscita: ≤2S@120VAC ≤1.0S@230VACTempo di mantenimento dell'uscita: ≥10 mS@120VAC, ≥20mS@230VACResistenza di isolamento: Ingresso - Uscita: AC1500V, 1min; Ingresso - custodia: AC1500V, 1min; Uscita - Custodia: DC500V, 1minAmbiente di lavoro: -10 °C ~ 50 °C; 20% ~ 90% UR (senza condensa)Materiale della scocca: cassa in metallo/custodia in alluminioDimensioni: 215 x 115 x 50 mmDescrizione del terminale e metodo di cablaggio: L, N Terminale di ingresso CA FG Segno di terra V+ Terminale positivo di uscita CCTerminale negativo di uscita V-DC Potenziometro regolabile ADJ Regolazione fine della tensione DC in uscitaUso operativo:(Come limitare la corrente) per regolare la corrente?1. Operare in caso di interruzione di corrente, tirare il piccolo interruttore nell'angolo in basso a sinistra sull'ingranaggio di regolazione della corrente2. Estrarre (inserto di regolazione della corrente dedicato) alla 2a e 3a porta della porta di cablaggio, allentare la vite della porta con un cacciavite e serrare con un cacciavite (a questo punto, collegare all'alimentazione indicata), quindi collegare la tensione del misuratore mostra 0,00V e la corrente mostra il parametro corrente corrente. A questo punto, l'alimentatore emetterà una piccola corrente.3. Sul lato destro (regolare la manopola della corrente), è possibile regolare il parametro del limite di corrente desiderato e visualizzare il parametro corrente in modo sincrono con il display digitale. 0-21A/0-16A/0-11A/0-6.5A può essere regolato durante l'intero processo.4. Rimuovere la (presa di corrente di regolazione speciale) e reinserirla nel supporto della scheda di inserimento originale. Dopo aver rimosso il display digitale, la tensione è di circa 0,90 V e la corrente è di 0,00 A.5. Tirare verso destra l'interruttore nell'angolo inferiore sinistro per aprire la posizione "aperto (uso)".6. L'alimentazione attuale è nel valore del parametro del limite di corrente. L'alimentazione è regolata a pochi V (il display digitale mostra la tensione di uscita in tempo reale), la corrente non cambia e la corrente raggiunge il limite di corrente del 95% del parametro di limitazione della corrente. Protezione da sovraccarico7. Il parametro corrente visualizzato dal display digitale in questo momento è il valore corrente del carico del dispositivo e la corrente di carico è monitorata in tempo reale. Quando il dispositivo di carico è collegato, il valore corrente può essere regolato direttamente in tempo reale. Il valore della corrente massima è il valore della corrente massima del dispositivo di carico. Se la manopola di regolazione della corrente in senso orario supera il valore di corrente massimo del dispositivo, il valore di corrente digitale non durerà. Display digitale sincronizzato in tempo reale, che mostra solo il valore di corrente massimo del dispositivo. Se non è necessaria la limitazione di corrente, utilizzare l'attrezzatura generale, senza l'operazione di cui sopra, tirare l'interruttore nell'angolo inferiore sinistro in posizione "aperto (uso)" e ruotare la (manopola di regolazione della corrente) in senso orario verso l'alto . Il limite di corrente massimo in questo momento è 21A/16A/11A/6.5A/4A, in questo momento il parametro di alimentazione è l'uscita 0-24V21A/0-16A/0-48V11A/0-36V15A/0-80V6.5A /0-120V4A, che equivale a un alimentatore switching 0-24V20A /0-36V15A/0-48V10A/0-80V6A/0-120V4A Applicazione: Utilizzato principalmente per la ricarica di varie batterie, apparecchiature CC, regolazione continua della velocità del motore CC, regolazione continua della luminosità LED, regolazione della velocità di elettrodeposizione chimica, test di ricerca scientifica, esperimento per studenti, ecc. E una vasta gamma di usi.Nota: Se si utilizza un carico induttivo come motore o ventola, prestare attenzione al parametro della corrente di avviamento massima del motore. Questo parametro non deve essere superiore alla corrente massima di esercizio dell'alimentatore. In caso contrario, l'alimentatore potrebbe danneggiarsi. È necessario selezionare un'alimentazione a corrente più elevata o ammorbidire il motore. Il circuito di protezione viene attivato per assorbire la corrente di spunto.(Formula di potenza) tensione X corrente = potenzaIl pacchetto include:1 x doppio alimentatore switching digitale Display
+
+
+
+

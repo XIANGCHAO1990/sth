@@ -1,0 +1,198 @@
+1203369
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/BE/58/a15c7396-6ce2-4fe3-9bb6-22f7d93f781a.jpg
+DC 6-40V A 1.2-36V 300W 20A Conversor de Corriente Constante y Ajustable Tablero de Módulo Paso a Paso
+https://es.banggood.com/Geekcreit-DC-6-40V-To-1_2-36V-300W-20A-Constant-Current-Adjustable-Buck-Converter-Step-Down-Module-Board-p-1203369.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificaciones:
+
+Color: Plata
+Material: Metal
+Talla: Aprox. 60 x 52 x 27mm / 2.36 x 2.05 x 1.06''
+Voltaje de entrada: DC 6-40V (Se sugiere 10V a 40V)
+Voltaje de salida: DC 1.2-36V
+Corriente de salida: 20A (Máx.), 15A (Sugerido)
+Eficiencia: 97% (24V a 12V, 20A)
+Ondulación de salida: ≤50mV
+Método de cableado: Terminal
+Protección de cortocircuito: Auto recuperación (No se puede cortocircuitar durante mucho tiempo)
+VO+: Resultado positivo
+VO-: Salida negativa
++ IN: Entrada positiva
+-IN: Entrada negativa
+CV: Ajuste del voltaje de salida
+CC: Ajuste de corriente de salida
+EN: Habilitar, salida de apagado de bajo nivel de voltaje; suspensión, nivel de alto voltaje es eficaz
+Cuando la entrada y la salida son de tierra común, voltaje constante de salida CV sin carga, corriente constante de salida CC
+Tempreture de trabajo: -10°C-75°C
+
+
+Características:
+
+Con un amplio rango de voltaje de entrada de 6 V a 40 V, el convertidor reductor puede ajustar con precisión el voltaje de salida y la corriente.
+La eficiencia puede ser de hasta 96%, medida a 20 A, convirtiendo 24 V a 12 V
+Diseñado con 75V / 80A gran tubo de doble MOS actual
+El módulo buck tiene 2 disipadores de calor que podrían mejorar la disipación de calor
+El cableado es conveniente con estos grandes terminales de tornillo de 30A actuales
+La entrada y la salida usan condensador electrolítico de baja resistencia de alta frecuencia, baja fluctuación, salida estable
+Estable y confiable
+Mano de obra fina y duradera
+
+Paquete incluido:
+
+1 x Módulo de convertidor paso a paso ajustable de 300W 20A
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

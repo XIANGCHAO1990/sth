@@ -1,0 +1,279 @@
+https://www.banggood.com/DC-DC-CC-CV-Buck-Converter-Board-Step-Down-Power-Supply-Module-7-32V-to-0_8-28V-12A-p-1245047.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+DC-DC CC CV Buck Converter Board Step Down Power Supply Module 7-32V to 0.8-28V 12A
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Features:
+
+	 
+
+- Fixed turn lamp current is 0.1 times the current value ( Used to identify whether the battery is fully charged When charging).
+
+- Made from a dedicated benchmark IC and high-precision current sensing resistor, proving a more stable constant current, (when 20°C to 100°C constant current 1A, temperature drift less than 1%). Particularly suitable for LED.
+
+- High output current, the max output current can reach 8A.
+
+- Four high frequency capacitance, can lower output ripple, enhance the work stabilization.
+
+- Double heat sink design. MOS schottky diode independent heat sink,which heat dissipation is good,and won’t affect each other.
+
+- Using large size Sendust Core and double pure copper wiring, improve working efficiency, reduce fever.
+
+- 3296 multiturn potentiometer,high accuracy voltage and current regulation, good stability.
+
+- Double color lamp, working condition be clear at a glance
+
+- Voltage and current are adjustable,wich effect is good.
+
+	 
+
+Parameters:
+
+	 
+
+- Module Properties: Non-isolated step-down constant current, constant voltage module (CC CV) charging module
+
+- Input Voltage: DC 7-32V
+
+- Output Voltage: (1) DC 1.2-28V continuously adjustable. (2) Fixed output:Choose between 0.8v-28v
+
+- Output Current: 8A (when power tube's temperature exceeds 65 degrees, please add cooling fan)
+
+- Constant Current Range: 0.2-8A (Adjustable)
+
+- Turn Lamp Current: Constant current value * (0.1), turn the lamp current and constant value linkage, such as constant current value is 3A, turn the lamp current is set to a constant current is 0.1 times (0.1 * 3A = 0.3A)
+
+- Lowest Pressure: 1V
+
+- Output Power: Maximum power is about 200W
+
+- Conversion Efficiency: Up to about 95%
+
+- Operating Frequency: 300KHZ
+
+- Output Ripple: 20M bandwidth
+
+- Input 24V output 12V 5A ripple around 50mV (Excluding noise)
+
+- Output Short Circuit Protection: Yes, constant current
+
+- Input Reverse Polarity Protection: None
+
+- Output Prevent Backflow: None
+
+- Wiring: Terminal
+
+- No-Load Current: Typical 20mA (24V switch 12V)
+
+- Load Regulation: ± 1% (Constant)
+
+- Voltage Regulation: ± 1%
+
+- Dynamic ResponseSpeed: 5% 200uS
+
+- Potentiometer Adjustment Direction: clockwise (increase) , counterclockwise (decrease), the potentiometer(CV) closed to the input voltage is used to regulate voltage, the potentiometer(CC) closed to output voltage is used to regulate current (CC)
+
+- Operating Temperature: Industrial grade (-40 °C to +85 °C) (please note the actual use of the power tube temperature , high temperature heat strengthened)
+
+- Indicator: dual color indicator, charging indicator light is red, the green light means fully charged (No load is green)
+
+- Size: Approx. 65 x 47 x 23.5mm/2.56 x 1.85 x 0.93''
+
+- Precision of Constant Current and Temperature: On the actual test, the module temperature from 25 degrees to 60 degrees, the constant current value change is less than 5% (5A constant current value)
+
+- Output Short Circuit Protection: Yes,Constant current (the current setting constant current value)
+
+- Input Reverse Connect Protection: NO
+
+- Output Prevent Reverse Fow: NO
+
+- Wiring Method: Amphenol connector
+
+	 
+
+Applications:
+
+	 
+
+High-power LED driver
+
+Lithium battery (or lead accumulator) charge
+
+Vehicle-mounted power supply
+
+Low voltage system power supply
+
+6V, 12V, 14V, 24V battery charge
+
+On-board laptop power supply
+
+Regulated power supply
+
+Low voltage power supply system
+
+	 
+
+Package Includes:
+
+	 
+
+1 x DC-DC Adjustable Power Supply Module
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

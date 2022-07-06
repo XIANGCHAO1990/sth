@@ -1,0 +1,145 @@
+1820384
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/D5/48/c96f6ba9-43c8-43c6-8a23-9d0af8bed13f.jpg
+12S 36V Lithium Batería 3.2V Placa de protección de energía 15A-180A con función de ecualización de protección de temperatura Protección contra sobrecorriente PCB BMS
+https://es.banggood.com/12S-36V-Lithium-Battery-3_2V-Power-Protection-Board-15A-180A-with-Temperature-Protection-Equalization-Function-Overcurrent-Protection-BMS-PCB-p-1820384.html?cur_warehouse=CN&ID=515283&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+BMS es para uso con batería, las diferentes cadenas no son compatibles.Por ejemplo: 13S BMS, no se puede usar para batería 10S, solo se puede usar con batería 13S.Descripción:Rango: el voltaje nominal es una batería de litio de 3,2 V (incluida la batería de polímero 18650, 26650).Función: función de protección contra sobrecarga, función de protección contra sobrecarga, función de protección contra sobrecorriente, función de protección contra cortocircuitos, función de gestión del equilibrio de la batería, función de protección de temperaturaProductos: 7S o más adopta el circuito de esquema integrado Zhongying, y 7S o menos adopta el circuito de esquema en cascada de sección única.    Protección de temperaturaSolución de circuito integrado de ZhongyingPintura de tres pruebasEl 8-24S está equipado con control de temperatura NTC para lograr funciones como protección de la temperatura de carga y protección de la temperatura de descarga, mejorando eficazmente la seguridad del uso de la batería y resolviendo los posibles peligros de seguridad causados por la fuga térmica de las baterías.La placa de protección responde con precisión y sensibilidad, lo que tiene más ventajas que la solución tradicional, ahorra espacio en el circuito y los parámetros se pueden ajustar de acuerdo con la personalización del cliente para lograr la función de protección de desconexión.Todos los circuitos están recubiertos con tres anti-pinturas, que pueden prevenir eficazmente el daño electrostático, prevenir cortocircuitos causados por ambientes húmedos, prevenir la oxidación del aire y extender la vida útil.         Nueva Clase A MOSFuerte disipación de calorEnviar cable coincidenteEl uso de AVIC MOS puede garantizar la calidad del producto, una baja resistencia interna durante la descarga y un bajo aumento de temperatura durante la descarga a largo plazo, sin afectar la salida de la batería, lo que hace que el control sea más seguro.El disipador de calor está anodizado y el gel de sílice conductor de calor está acolchado para mejorar la eficiencia de disipación de calor. La estructura es transparente y tiene un mejor ambiente de temperatura que el tipo sellado. La descarga a largo plazo no afecta el rendimiento.Los colores blanco y rojo se envían aleatoriamente con the igual efecto.CargandoCorriente de carga: igual que la corriente continuaVoltaje de carga: 44,4 VProtección contra sobrecargasVoltaje de detección de sobrecarga: 3,7 V ± 0,05 VVoltaje de liberación de sobrecarga: 3.6V ± 0.05VRetardo de protección de sobrecarga: 600uSSobre la protección de descargaSobre voltaje de protección de descarga: 2,2 V ± 0,1 VVoltaje de liberación de descarga excesiva: 2,5 V ± 0,1 VRetardo de detección de sobredescarga: 600uSEquilibrioVoltaje de detección de equilibrio: 3,55 VVoltaje de liberación equilibrado: 3,55 VCorriente de equilibrio: 35 mA ± 5 mA Protección de descargaCorriente instantánea: corriente continua * 2.5Retardo de detección de sobrecorriente: 600uSVoltaje de detección de sobredescarga: 100 mVCondición de liberación de protección contra sobrecorriente: Desconecte la cargaProtección contra cortocircuitosCondición de protección contra cortocircuitos: cortocircuito de carga externaRetardo de detección de cortocircuito: 600uSCondición de liberación de protección contra cortocircuitos: desconecte la cargaProtección de temperaturaTemperatura de carga: -20 ~ 55 ℃Temperatura de descarga: -20 ~ 70 ℃Retire la protección de control de temperatura: dentro de la temperatura de trabajoResistencia interiorResistencia de encendido del circuito principal: ≤10mΩAuto consumo de electricidadCorriente de trabajo: ≤100uACorriente de reposo (cuando la batería está demasiado descargada): ≤20uATemp de trabajorango de temperatura: -20 ℃ / + 80 ℃El paquete incluye:1 x 12S 36V Lithium Batería 3.2V Placa de protección de energía 15A-180AUtilice la cola de operaciones:1. El cable comienza desde el cable delgado negro que conecta B-, el segundo cable (el cable rojo delgado) se conecta al polo positivo de la primera batería y el polo positivo de cada batería se conecta a su vez hasta el último cable rojo está conectado a B +;2. Después de conectar el cable, no inserte el enchufe directamente en el BMS. Mida el voltaje entre cada dos terminales de metal adyacentes en la parte posterior del enchufe. Si el voltaje de la batería de terpolímero debe estar entre 2.8V y 4.2V, la batería de hierro-litio debe estar entre 2.5V y 3.65V.3. Después de confirmar la cola de cableado y el voltaje correctos, inserte el enchufe BMS.4. La línea B de la placa protectora (línea azul gruesa) está conectada al polo negativo del paquete de baterías.5. Una vez completado el cableado, mida si el voltaje total del paquete de baterías y el voltaje total que pasa a través del BMS son iguales. Si son diferentes, verifique nuevamente de acuerdo con la cola de cableado anterior.Consejos: La placa de protección de la batería, que es un producto semiacabado de productos electrónicos, es una pieza de desgaste en caso de uso incorrecto. Si no entiende cómo usarlo, lea el manual detenidamente o pregunte al servicio de atención al cliente. Cualquier uso incorrecto quemará la resistencia de muestreo frontal. No aceptaremos tales disputas por daños al cliente. Por favor, no compre si le importa. 
+
+
+
+

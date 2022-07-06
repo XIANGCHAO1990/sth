@@ -1,0 +1,143 @@
+https://pt.banggood.com/LILYGO-TTGO-Meshtastic-T-Beam-V1_1-ESP32-433-or-915-or-923Mhz-WiFi-Bluetooth-ESP32-GPS-NEO-6M-SMA-18650-Battery-Holder-With-OLED-p-1727472.html?cur_warehouse=CN&ID=513922&rmmds=CategoryElectronicsPop
+LILYGO® TTGO Meshtastic T-Beam V1.1 ESP32 433/915/923Mhz WiFi Bluetooth ESP32 GPS NEO-6M SMA 18650 Battery Holder With OLED
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mais informações:https://github.com/geeksville/Meshtastic-Android/blob/master/README.md https://github.com/meshtastic/Meshtastic-device/releases https://github.com/Xinyuan-LilyGO/LilyGO-T-Beam Característica:Tensão de trabalho1,8 ~ 3,7 VCorrente aceitável10 ~ 14mATransmitir corrente120mA @   20dBm90mA @   17dBm29mA @   13dBmFrequência de operação433/915/923 MHz (opcional). 868 MHz >>> Clique aqui para abrirPotência de transmissão   20dBmSensibilidade de recepção -139dBm @ LoRa & 62,5Khz e SF = 12 e 146bps -136dBm @ LoRa & 125Khz & SF = 12 e 293bps -118dBm @ LoRa & 125Khz & SF = 6 e 9380bps -123dBm@FSK&5Khz&1.2KbpsErro de freqüência  /- 15KHzEspaço FIFO64ByteTaxa de dados1.2K~300Kbps@FSK0,018K ~ 37,5Kbps@LoRaModo de modulaçãoFSK, GFSK, MSK, GMSK, LoRa TM, OOKFormulário de interfaceSPISono atual0.2uA@SLEEP1.5uA@IDLETemperatura de operação -40 ℃ ~   85 ℃Função RSSI DigitalCorreção automática de frequênciaControle de ganho automático Detecção de baixa tensão Despertar rápido e salto de frequênciaManipulador de pacotes de dados altamente configurável GPSMódulos GPS NEO-6M, fonte de alimentação 3V-5V UniversalMódulo destinado com antena de cerâmica, sinal superSalve os dados do parâmetro de configuração EEPROM DownCom bateria de backup de dadosExistem indicadores de sinal LEDTaxa de transmissão padrão: 9600 PoderEntrada de fonte de alimentação USB 5V / 1ACorrente de carregamento 500mAEntrada da bateria 3,7-4,2VCarregar IC AXP192Descrição OLED:1. Tamanho: 0,96 polegada2. Alta resolução: 128 * 643. Cor: Branco4. Ângulo de visão:> 160 °5. Driver IC: SSD13066. Temperatura de trabalho: -30 graus celcius ~ 80 graus celcius7. Volume do módulo (generoso): 27,0 mm x 27,0 mm x 4,1 mm8. Suporta muitos chips de controle: Totalmente compatível com Arduino, série 51, série MSP430, chip STM32 / 2, etc. (muitas rotinas para referência)9. Amplo suporte de tensão: sem qualquer modificação, suporta diretamente 3,3V ~ 5V DC10. Consumo de energia ultrabaixo: operação normal é de 0,04 W11. A porta IO ocupa um display mínimo: A comunicação IIC, contanto que as duas portas IOO pacote inclui:1 X TTGO T-Beam Antena 1 X 433/915/923 MHz1 x 0,96 polegadas 128X64 OLED2 X Pin
+
+
+
+

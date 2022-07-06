@@ -1,0 +1,214 @@
+1462594
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/F7/7F/9e09cb30-e231-4d53-9c2f-97b3c45abd62.jpg
+Módulo Raspberry Pi USB Cámara con rango de enfoque ajustable para Raspberry Pi 3/2/B/B+
+https://es.banggood.com/Raspberry-Pi-USB-Camera-Module-with-Adjustable-Focusing-Range-for-Raspberry-Pi-3-or-2-or-B-or-B+-p-1462594.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:
+
+Cámara de interfaz USB, compatible con todas las revisiones del Pi
+	Rango de enfoque: 20 MM (MAX)
+	Resolución de vídeo: 640*480
+	Tamaño: 3,8 cm * 1,5 cm * 3 cm, línea escalable, el más largo es de 65 cm
+
+
+Cómo usar esta cámara:
+
+
+1.Ajuste el enfoque
+
+
+Pruebe esta cámara USB con su computadora y ajuste el enfoque para que coincida con la mejor resolución de pantalla.
+
+2. Grabar vídeo
+
+sudo apt-obtener actualización
+
+sudo apt-get install ffmpeg
+
+avconv -f video4linux2 -r 7 -s 640x480 -i /dev/video0 video0.avi
+
+3. Reproducir video
+
+omxplayer -o hdmi video0.avi
+
+4.  Tomar foto
+
+Instale el programa:
+
+sudo apt-get install fswebcam
+
+Capturar imágenes:
+
+fswebcam -r 640x480 imagen.jpg 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

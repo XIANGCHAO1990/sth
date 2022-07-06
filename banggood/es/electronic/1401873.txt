@@ -1,0 +1,146 @@
+https://es.banggood.com/T_SK105A_03-Universal-LCD-LED-TV-Controller-Driver-Board-TV-or-PC-or-VGA-or-HDMI-or-USB+7-Key-Button+2ch-6bit-30pins-LVDS-Cable+1-Lamp-Inverter-p-1401873.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+T.SK105A.03 Universal LCD LED Controlador de TV Placa de controlador TV / PC / VGA / HDMI / USB + Botón de 7 teclas + 2 canales 6 bits 30 pines LVDS Cable + 1 inversor Lámpara
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Firmware T.RD8503.03: Click here to openT.V53.03 Manual: Click here to openFirmware T.V53.03: Click here to openT.SK106A.03 Manual: Click here to openFirmware T.SK106A.03: Click here to openNew Version T.SK105A.03 Manual: Click here to openNew Version T.SK105A.03 Firmware: Click here to openNota: Dado que el modelo de la placa del controlador se actualiza con frecuencia, la apariencia y el chip serán diferentes, consulte la recepción real. Si esto le importa, compre con cuidado.Tenga en cuenta antes de comprar:1. Este producto es compatible con la mayoría de modelos. Los clientes solo necesitan confirmar que la pantalla LCD es compatible con las siguientes resoluciones, sin repetir el modelo de consulta. (El firmware quema la resolución correspondiente)2. Este producto debe grabar el firmware usted mismo antes de poder utilizarlo. Si no sabe cómo grabar el firmware, desafortunadamente, se recomienda no comprarlo. Gracias por su comprensión.3. Este kit viene con un cable de pantalla de 2 canales, 6 bits y 30 pines por defecto. Si no es compatible con su pantalla, compre un cable de pantalla correspondiente por separado.4. Asegúrese de utilizar la fuente de alimentación correcta. Si la corriente es demasiado baja / demasiado alta, no podrá arrancar o incluso quemará el chip y dañará la placa base.5. Preste atención a la elección del voltaje de pantalla 3.3V / 5V / 12V, y cambie la posición del puente tapa de acuerdo con los diferentes voltajes.Solo admite la resolución de:1920x12001920x10801680x10501680x9451600X12001600x9001400X10501440x9001366x7681280x10241280x8541280x8001280x7681280x7201024x7681024x600800x600Método de grabación: para grabar el programa de pantalla en el disco flash USB, disco flash USB insertado en la placa, enchufe el teclado, electricidad; Aproximadamente después de unos segundos, presione las luces del teclado comienzan a alternar el flash rojo y verde, las luces del flash comenzaron a escribir programas (no encienda), la luz en el flash lento primero, después de un flash lento, acelerará el flash rápido, mucho después de la última hasta que las luces dejen de parpadear, la luz está escrita en el programa, la electricidad se quema con un disco flash USB para completar el programa.No solo la interfaz USB se puede usar para actualizar programas, sino que también se puede usar para reproducir videos, básicamente se admiten formatos. También puede configurar imágenes de visualización de arranque o LOGODespués de que el firmware se haya grabado correctamente, puede usar el control remoto para depuración: entrada de menú 1147 para ingresar al modo de fábrica para la depuraciónDescripción: Modelo: T.V53.03 (actualización del 25 de diciembre de 2019)Modelo: T.SK106A.03 (Actualización del 1 de septiembre de 2020) (almacén CN)Actualizar Modelo: T.SK105A.03 (Actualización de noviembre de 2020) (almacén CN) El modelo específico se basa principalmente en el modelo recibido, preste atención a quemar el firmware del modelo correspondiente.Formato de TV: señal analógicaIdioma de soporte: ruso, inglés, hindi, chino simplificado, jemer, vietnamita, Myanmar, francés, alemán, italiano, español.Interfaz de entrada: reproducción multimedia PC / HDMI / TV / AV / USB (Nota: las señales de TV solo pueden recibir señales analógicas, no señales digitales).Interfaz de pantalla: LVDS Double 6Adaptador de corriente: DC 12V 3-5A, 5.5 * 2.1 mmVoltaje de la pantalla: 3.3V / 5V / 12V (Jump tapa)No solo la interfaz USB se puede usar para actualizar programas, sino que también se puede usar para reproducir videos / música / fotos, básicamente, los formatos son compatibles. También puede configurar imágenes de visualización de arranque o LOGO y habilitación de espejo.¿Cómo saber el tipo de cable LVDS?Paso 1: Encuentre la resolución de su modelo LCD (puede verificar la resolución desde este enlace: http://www.panelook.com/index.php)Paso 2: Haga clic aquí >>>https://www.banggood.com/search/lvds-cable.html?from=nav<<< para encontrar el modelo correspondiente.Paso 3: Busque y escriba el firmware correspondiente.Programación: 1. Coloque el firmware en un disco flash USB formateado (FAT32), luego inserte el disco USB y el botón 7KEY en la placa2. Después de encender la unidad, la luz del botón de 7 teclas será roja y luego parpadeará en rojo más rápido.SIGUE parpadeando y NUNCA PARE. es normal, espere aproximadamente 1 minuto, significa que la actualización ha finalizado. luego apague y extraiga el disco en U. (Tenga en cuenta que los programas de escritura no provocan cortes de energía, el bloqueo no se podrá usar)Preguntas y respuestas:Q1: chip T.SK105A.03, resolución 1280 * 800, después de instalar el firmware, la pantalla parpadeaR1: Descargue este software y vuelva a actualizarlo. Si su chip 105 no se puede actualizar, puede cambiar el nombre de la actualización a "UTS6710_sos" para forzar la actualización. >>>http://myosuploads3.banggood.com/products/20210202/20210202043110UTS6710.rar<<<P2: ¿El conector eDP funciona con este artículo?A2: La interfaz eDP no es directamente compatible. Hay dos soluciones:1): Use this product and purchase an eDP conversion board separately.>>>Click here to buy<<<2): Compre la placa de controlador EDP directamente. >>>Click here to buy<<<P3: ¿El control remoto no puede funcionar?A3: Primero debe grabar el software para usar el control remoto.Paquete incluido: 1 x placa controladora 1 x control inglés Control remoto1 x IR1 x botón de 7 teclas1 x cable lvds de 2 canales, 6 bits y 30 pines, 250 mm de longitud (Puede reemplazar la línea de la pantalla según sea necesario.)1 inversor CCFL de 1 pieza con paso de clavija de 3,5 mm
+
+
+
+
+

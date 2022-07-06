@@ -1,0 +1,143 @@
+https://fr.banggood.com/88-108MHz-DIY-Kit-FM-Radio-Transmitter-and-Receiver-Module-Frequency-Modulation-Stereo-Receiving-PCB-Circuit-Board-p-1909475.html?cur_warehouse=CN&ID=6286275&rmmds=CategoryElectronicsPop
+88-108 MHz kit de bricolage émetteur radio FM et module récepteur Modulation de fréquence carte de circuit imprimé de réception stéréo
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Émetteur radio FMLa description:1. Modèle : RF-02FM2. Courant de fonctionnement : 5-15 mA3. Tension de fonctionnement : DC 3-6 V4. Distance de transmission : 5-50 m5. Fréquence de transmission : 88-108 MHz6. Entrée audio : -15 dB (max)7. Taille du circuit imprimé : 53*40 mmRécepteur radio FMLa description:- Le circuit radio de type YFM-2 est très simple.- Le nombre total de composants ne dépasse pas 19.- Bien que le nombre de composants ne soit pas important, il comprend deux types de composants : SMD et DIP qui conviennent aux novices et amis qui souhaitent s'entraîner à souder des composants SMD.Caractéristiques:1>. Circuit de contrôle automatique de gain (AGC) numérique intégré2>. Soutenir la bande de fréquence mondiale 76-108Mhz3>. Soudage manuel bricolage4>. Simple et facile à utiliser5>. Soutenir la fonction de mémoire radioParamètre:1>. Nom de l'article: Kit de bricolage pour module radio stéréo FM2>. Mode d'article : YFM-23>.Tension de travail:DC 3V4>. Courant de travail : 19 mA5>. Fréquence de travail : 76-108 Mhz6>. Impédance de sortie: 32ohm7>. Température de travail : -40  ~ 85 8>. Humidité de travail : 0 % ~ 95 % HR9>. Taille (Installé): 57*32*20mmEn vigueur:1>. Formation des compétences de soudage2>. L'école des étudiants3>.Production de bricolage4>. Conception du projet5>. Concurrence électronique6>. Conception de l'obtention du diplôme7>. Collection d'artisanat8>. Décoration de la maison9>.Collection souvenirConseils d'installation :1>. L'utilisateur doit d'abord préparer l'outil de soudage.2>. Veuillez être patient jusqu'à ce que l'installation soit terminée.3>. Le paquet est un kit de bricolage. Il doit être installé par l'utilisateur.4>. Le fer à souder ne peut pas toucher les composants pendant une longue période (1,0 seconde), sinon il endommagerait les composants.5>.Faites attention au positif et au négatif des composants.6>. Interdire strictement le court-circuit.7>.Installez les composants complexes de préférence.8>. Assurez-vous que tous les composants sont dans la bonne direction et au bon endroit.9>. Il est fortement recommandé de lire le manuel d'installation avant de commencer l'installation !!!Étapes d'installation1>.Étape 1: Installez 1 pièces SOP-16 RDA5807PF à U1.Il y a un point sur un coin du circuit intégré et il y a un tampon rectangulaire sur le PCB où la broche 1 du circuit intégré peut être placée. Ces deux marques correspondent l'une à l'autre et sont utilisés pour spécifier le sens d'installation du CI.2>.Étape 2: Installez 1 résistance de 30K ohms à R1.3> .Étape 3: installez 1 inductance 0,1 uH à L1.4>.Étape 4: Installez 2pcs 1uH Inducteur à L2, L3.5> .Étape 5 : Installez 1 oscillateur à cristal 32,768 KHz à Y1.6> .Étape 6: Installez 1 condensateur céramique 24pF à C1.7>.Étape 7 : Installez 1 condensateur en céramique de 0,01 pF (103) à C2.8>.Étape 8 : Installez 1 condensateur en céramique de 0,022 pF (223) à C3.9> .Étape 9: Installez 5 interrupteurs 6*6*5mm à S1-S5.10>. Étape 10: Installez 1 condensateur électrolytique 100 uF 16 V à C4, C5. Veuillez faire attention aux pôles positif et négatif. La broche la plus courte est le pôle négatif.11>. Étape 11 : Installez 1 prise audio 3,5 mm à J1.12>. Étape 12: Connectez le boîtier de la batterie. Faites attention au positif et au négatif.13>. Étape 13 : Utilisez un serre-câble pour fixer le boîtier de la batterie.14>. Étape 14: Connectez-vous à l'alimentation et profitez de l'effet.
+
+
+
+

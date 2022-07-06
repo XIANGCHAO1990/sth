@@ -1,0 +1,145 @@
+1887826
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/10/46/0a1a6f3d-5946-42ea-b289-ea4ef6d84bad.jpg
+Bitfunx RetroScaler2x adaptateur convertisseur AV vers HDMI doubleur de ligne pour consoles de jeux rétro PS2 N64 NES Dreamcast Saturn
+https://fr.banggood.com/Bitfunx-RetroScaler2x-AV-to-HDMI-Converter-Adapter-Line-doubler-for-Retro-Game-Consoles-PS2-N64-NES-Dreamcast-Saturn-p-1887826.html?cur_warehouse=CN&ID=6287842&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristique:Retroscaler2x peut accepter un convertisseur 240p/480i/288p/576i ntsc/pal vers une sortie compatible HDMI 480p/576p (480p vers ntsc, 576p vers pal). Par exemple, les signaux 240p sont correctement pris en charge, permettant un linedouble entièrement progressif à 480p. Le signal 480i est désentrelacé et doublé également à 480p. Gardez à l'esprit que la résolution de sortie de cet appareil n'est que de 480p/576p au maximumLatence zéro : Retroscaler2x est un appareil sans délai qui a été vérifié par de nombreuses mesures et appareils différents.Zone compatible : les signaux ntsc et pal sont pris en charge, mais ils ne seront pas convertis l'un dans l'autre. Cela signifie que vous pouvez vous connecter à n'importe quel signal compatible avec l'appareil cible, mais ntsc peut ne pas fonctionner sur les appareils compatibles HDMI pal, et vice versaMode filtre : le mode fil est entièrement basé sur les préférences, mais les joueurs rétro en général préfèrent désactiver le mode fil pour les jeux 2d (snes, genesis, etc.) et les jeux 3d (n64, saturne, etc.). De plus, le mode fil peut aider à réduire le scintillement dans certains jeux 480i uniquementCompatibilité : Une autre caractéristique importante de retroscaler2x est qu'il génère un vrai signal 480p60, ce qui le rend compatible avec tous les appareils que j'ai testés ! La compatibilité est un gros problème pour les joueurs rétro, car les écrans modernes ne sont pas utilisés pour la résolution ou le taux de rafraîchissement de ces anciennes consoles de jeux. Cet appareil est une excellente aide pour les ancres qui veulent une meilleure chance de compatibilitéPerformances audio : Les performances audio sur retroscaler2x sont bonnes, même si nous devons arrêter de dire qu'elles sont parfaites. En utilisation générale, il n'y a pas de problème avec la numérisation audio, mais cela ressemble à une explosion sur le soutien-gorge, et la sortie peut sembler plus rugueuse que via ossc. Ce n'est pas quelque chose que vous pourriez remarquer sur les haut-parleurs de votre téléviseur, bien que vous puissiez le remarquer si vous avez un amplificateur externe ou un système de cinéma maison. Dans ce cas, bien sûr, dans tous les cas, il est généralement très facile de localiser l'audio autour du retroscaler2xTransit : En plaçant le retroscaler2x en mode pass-through, les signaux d'entrée composites, s-vidéo ou composantes sont simplement transparents et numérisés pour être compatibles HDMI. Dans le monde compatible HDMI, la prise en charge de 240p est rare, mais en ajoutant un simple convertisseur compatible HDMI vers VGA, vous pouvez reconvertir le signal dans le domaine analogique. Cela fait de l'unité un transcodeur parfait qui peut être utilisé avec des expositions à 15 kHz telles que pvms ou osscCompatible avec les hôtes suivants : Vic20/Atari2600/Msx/NES/N64/NGC/SFC/SNES/SuperFamicom/PIAYSATION2/SEGA Saturn/MD2/MD1/Dreamcast/Commodore64 (C64)Taille de la boîte du produit : 22,5 x 21,5 x 5,5 cmPoids de la boîte du produit: 480gConnecter votre RetroScaler2x :Connectez une source appropriée aux connecteurs composite, composante (YPBPR) ou S-vidéo. (Les entrées ne peuvent être utilisées qu'une à la fois et il est fortement suggéré de ne pas laisser les consoles branchées en même temps, même si elles sont désactivé)Assurez-vous que vous êtes connecté à l'alimentation USB, puis allumez votre RetroScaler2XConnectez-vous à l'écran via une interface compatible HDMI, puis jouez à vos jeuxSélectionnez le mode vidéo approprié via le bouton en fonction de vos besoinsBoutons, connecteurs et commandes externes :Entrée vidéo composante : connectez la vidéo composante (YPBPR) ou RVB avec synchronisation sur les sources vertes à cette entrée. A noter, la puce utilisée dans cet appareil ne prend pas en charge le RVB, donc une entrée Péritel RVB ne sera jamais une optionentrée S-vidéo: Connectez une source S-vidéo (connecteur 4 broches) à cette entrée, les autres sources ne sont pas prises en chargeentrée AV: Connecteur composite standard (RCA). Vous pouvez connecter des sources telles que pour Nintendo Super Famicom, pour Nintendo pour GameCube, N64, etc.Sortie vidéo compatible HDMI: Tous les signaux vidéo et audio reçus seront émis sur les moniteurs/téléviseurs LCD modernes avec interface compatible HDMIEntrée de puissance: N'importe quel chargeur Micro USB de qualité décente peut être utilisé pour alimenter le RetroScaler2x, car c'est un appareil très efficace. Vous êtes même capable d'alimenter le mien via les ports USB de votre téléviseurInterrupteur: Active et désactive l'alimentationSélection d'entrée (INPUT SELECT): Le bouton d'entrée sélectionne entre les entrées composite, S-Video et Component Video, ou une combinaisonSélection de sortie (LISSAGE): Le bouton du mode de lissage vous permet de choisir dans quel mode vidéo il se trouveMode 2x (voyant orange allumé) : Il s'agit du mode standard "LINEDOUBLE" qui produit 480p/576p. C'est le mode par défaut du système lorsqu'il est alluméFIL (voyants bleus allumés) : ce mode ajoute une option de filtrage pour minimiser l'aliasing d'image pour la sortie 480p/576pPass-through (les LED orange et bleue s'éteignent) : ce mode émet simplement quel que soit le signal d'entrée, sans changer la résolutionRetroTINK2X et OSSC :Vous pouvez simplement utiliser les deux appareils en tandem, prendre en charge à la fois la vidéo composite et la s-vidéo et les fonctionnalités avancées d'ossc. Il est très facile de superposer le RetroScaler2x à l'OSSC. Tout ce dont vous avez besoin est un simple adaptateur compatible HDMI vers VGA. Nous proposerons dans notre magasin un modèle éprouvé qui prend entièrement en charge la sortie 240p et ne semble pas écraser les noirs ou sur-saturer les blancs. Avec un adaptateur approprié en main, réglez le RetroScaler2X en mode transcodage, connectez l'adaptateur compatible HDMI vers VGA à votre RetroScaler2X, puis connectez la sortie de l'adaptateur à votre OSSC via le port VGA. Enfin, basculez le port VGA de l'OSSC en mode 480p (Sampling opt->480p in sampler->DTV 480p). Vous pouvez également accéder à des éléments tels que le tweaker de synchronisation avancé, vous permettant de centrer l'image à l'aide des commandes du porche arrière ou d'appliquer un petit faux zoom à l'aide des commandes V.Active.Noter:RetroScaler2X ne prend pas en charge toutes les consoles PAL-MC au BrésilVeuillez observer les précautions de sécurité suivantes lors de l'utilisation de votre Retro Scaler2xUtiliser la bonne alimentation: le Retroscaler2x est alimenté par un port Micro USB ordinaire de 5 volts qui peut être alimenté par une alimentation normale ou par un appareil doté d'un port USB. Veuillez vous assurer que l'alimentation que vous utilisez répond à l'une des exigences ci-dessus. Ne jamais utiliser une alimentation non régulée pour éviter d'endommager l'équipementCoupez l'alimentation avant de connecter/déconnecter l'appareil: pour éviter d'endommager l'appareil pour les circuits intégrés, éteignez toujours l'alimentation avant de connecter le moniteur ou l'appareilNe pas exposer à l'humidité Gouttelettes d'humidité: peut entrer en contact avec le PCB et provoquer un court-circuit. Ne jamais immerger l'appareil dans l'eauTenir à l'écart du feu ou des sources de chaleur élevée: RetroScaler2X n'est pas inflammable mais des températures élevées, telles que celles d'un incendie ou d'un radiateur électrique peuvent faire fondre le boîtier en plastiqueMerci de surveiller les enfants: Retro n'est pas un jouet et n'est pas conçu pour être utilisé par des enfants. Veuillez surveiller les enfants s'ils utilisent le RetroEmballage inclus:1 x convertisseur RetroScaler2x HD (les autres produits ne sont pas inclus)1 x prise britannique1 x prise UE1 x prise AU1 prise US1 x adaptateur multiprise1 manuel d'utilisation
+
+
+
+

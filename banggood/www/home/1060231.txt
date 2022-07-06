@@ -1,0 +1,227 @@
+https://www.banggood.com/SL-LC-04-Super-Mini-LED-WIFI-APP-Controller-+-Remote-Control-For-RGB-LED-Strip-DC-9-12V-p-1060231.html?cur_warehouse=CN&rmmds=CategoryHomeGardenPop
+SL-LC 04 Super Mini LED WIFI APP Controller + Remote Control For RGB LED Strip DC 9-12V
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Parameter:
+Model No:SL-LC04
+Working Voltage:DC9-12V
+Output Channel:Can be used 4 channel
+Output Current:RGB,4A*4
+Max. Power:4AX4X12V=192W
+Connect method:Common anode
+Dimension: about L46*W19*H8mm
+Distance:50m at outdoor
+Connect way:  R, G, B for LED Light, V+, V- for Power supply, and for WIFI signal reception
+Applications: Can use for LED strip, LED panel light, LED ceiling light and other LED lighting
+Package Included:1 X LED Mini WiFi Controller, 1 X 24key  Remote Control, 1 X English Manual
+
+Functions:
+*16 Million Colors
+*Smartphone Control
+*Sync Control by Group
+*Custom mode
+*Timer Mode
+*Kickstart your party
+*Light Dancing with Music
+*Save Favourite Colors
+*Remote control by Intenet
+
+Instructions:
+1.Search app name: "MagicHome WiFi" from IOS store or Android Google play store and install free app.
+2.Scan QR code to install free app.
+
+WIFI Connection Setting:
+1.Search for WiFi controller "LEDnet******" in your phone's WiFi network and connect it.
+2.Open“Magichome WiFi”app and wait while your phone scans for this WiFi controller.
+3.You have three ways to control your WiFi controller:
+a.Single mode:
+Click  "Skip,set it next time" , then go to control it directly.
+In single mode,you only can control one controller once time.
+In addition,your phone's WiFi controller must keep connection with WiFi controller “LEDnet******”in the meantime.
+b.Network mode:
+Click “Setting”, then set your controllers to WiFi router one by one.
+After controllers were connected to WiFi router, connect your phone to this WiFi router. Then, open “Magichome WiFi” app,
+and wait while your phone scans for WiFi controllers which were connected to this WiFi router.
+Now,app will show all controllers in "Device List". In "Device List", you can select controller you want to control.
+How many controllers app can sycn control is same as how many devices your WiFi router can support.
+In network mode, you can control all controllers which were connected to WiFi router no matter your WiFi router is online or not.
+c.Remote control by Internet:
+To control your WiFi controllers anywhere in this world.
+In network mode,you just need to keep your WiFi router online. Click the gear icon on the top-left corner to enter the setting page.
+Choose your WiFi controller and select "Remote Settings" in th pop-up menu. Check the remote state option to change it from "unopen".
+Once WiFi controller restarts, you can find it in the "Remote" tab in the "Device List" page.
+
+FAQ:
+(A)My phone cannot connect to WiFi controller in single mode.
+   1)Connect WiFi controller correctly,power supply→WiFi controller→LED lighting
+   2)Ensure phone’s WiFi  network Works  normally.
+   Then connect your phone’s WiFi network to WiFi controller LEDnet******.
+(B)I have failed to connect to WiFi device in network mode.
+    Ensure that you have entered the correct password to your router.Switch the controller and your router off.
+    Turn on your router first and then the controller after 30 seconds.Wait for about 2 minutes before running  Magichome WiFi.
+    If the problem still persists,then go to phone’s WiFi network setting,and set WiFi controller “LEDnet******” again.Then, connect your controller to WiFi router in single mode first.
+(C)My phone cannot run WiFi device.
+    This app support these OS:Android 2.3 or above;IOS6.0 or above.
+(D)How many WiFi controllers can be controlled by one phone in single mode or network mode?
+    In single mode,one phone can control 1pcs WiFi controller. In network mode,how many WiFi controllers one phone can sync control is same as how many devices one WiFi router can works with.
+
+(E)Can I use many phones to control one WiFi controller?
+     Yes,you can use 8 phones to control one WiFi controller.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,,,,
+
+

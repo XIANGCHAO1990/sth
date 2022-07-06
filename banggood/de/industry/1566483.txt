@@ -1,0 +1,260 @@
+https://de.banggood.com/KP184-DC-Electronic-Load-Battery-Capacity-Tester-RS485-or-232-400W-150V-40A-AC220V-Professional-Battery-Tester-p-1566483.html?cur_warehouse=CZ&rmmds=CategoryToolsPop
+KP184 Elektronische DC-Last Batterie Kapazitätstester RS485/232 400 W 150 V 40A AC 220 V Professioneller Batterie Tester
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Beschreibung:
+
+
+
+Die elektronische Last der KP184-Serie kann in großem Umfang zum Testen und Altern von Produkten in LED-Beleuchtung, Stromquelle, Ladegerät und Akkumulator eingesetzt werden. Der Strommodus kann zur Simulation einer ohmschen Last verwendet werden, um die Batterie zu entladen und die Stromquelle zu laden. Der Spannungsmodus kann zum Simulieren der kapazitiven Last und zum Laden der Ladung sowie zum Simulieren der konstanten Spannung von LED und zum Laden der Stromquelle verwendet werden. Es ist einfach zu bedienen, bequem einzustellen und hat eine perfekte Schutzfunktion. Die Leistung und Funktion sind mit herkömmlichen Gleitdrahtwiderständen unerreicht. Wenn es für verwandte Branchen verwendet wird, kann es die Produktivität steigern und die Kosten senken.>>Sofware: Click here.<<
+>>Manual: Click here <<
+
+Merkmale:
+
+
+
+1. Es hat vier grundlegende Lademodi wie CC, CV, CW und CR.
+
+2. Geben Sie einen positiven und negativen Transpositionsschutz ein und geben Sie Alarm
+
+3. Optimierte Wärmeabstrahlungsstruktur realisiert eine hohe Leistungsdichte;
+
+4.Digitaler Steuermodus, hohe Präzision und gute Stabilität
+
+5.Hat Überspannungs-, Überstrom-, Überleistungs- und Übertemperaturschutz;
+
+6.Voltage Far-End-Messfunktion (Remote Sense)
+
+7.Auto-Testfunktion, externes I/0-Triggersignal, PASS, FAIL-Anzeigesignal;
+
+8,10 KHz dynamische Testfunktion;
+
+9. Funktion zum Testen der Batteriekapazität;
+
+10. Prüfung des Innenwiderstands der Batterie
+
+11. Überstromschutzpunkt/Schutzzeittestfunktion
+
+12.Lüfter PWM Temperaturregelung;
+
+13.Stromquelle 110 VAC/220 VAC im Schichtbetrieb
+
+14.RS485 und 232 Kommunikationsschnittstelle
+
+15. Synchronbetriebsfunktion mehrerer geladener Geräte online
+
+16.Upper Computersoftwareunterstützung mit leistungsstarker Funktion und benutzerfreundlicher Schnittstelle
+
+
+
+Spezifikation:
+
+
+
+Leistungsaufnahme: < 20 W
+
+Lastspannung: DC 1 -150 V
+
+Laststrom: 0-40A
+
+Lastleistung: 0-400W
+
+Messgenauigkeit Strom: ±0,05 % + 5 mA
+
+Messpräzisionsspannung: ± 0,05 % + 5 mV
+
+Steuerpräzision Strom: ±0,05 % + 5 mA
+
+Steuerpräzision Spannung: ± 0,05 % + 5 mV
+
+Kommunikationsmodus: RS232/RS485
+
+Überspannung: Wenn die Spannung mehr als 152 V beträgt, wird die Last ausgeschaltet
+
+Übertemperatur: 85℃
+
+Überleistung: Einzelkanal: 410 W
+
+Eingangssicherung Stromversorgung: 0,5
+
+Größe: 300 * 90 * 180 mm / 11,8 * 3,5 * 7,1 Zoll
+
+Gewicht: ca. 4000 g/141,1 oz
+
+
+
+Paket beinhaltet:
+
+
+1 x KP184 Elektronische Gleichstromlast
+
+1 x Stecker (EU)
+
+1 x Remote-Kompensationsterminal
+
+2 x Positiver und negativer Testanschluss
+
+1 x 232 Kommunikationskabel
+
+2 x Testkabel
+
+1 x Bedienungsanleitung
+
+
+
+Notiz:
+
+Wir senden Ihnen einen Steckeradapter entsprechend Ihrem Land zu.
+
+
+Notiz:
+
+Diese DC-Last unterstützt die sekundäre Softwareprogrammierung, wir hoffen, dass Sie die Software selbst haben;
+
+Wenn Sie es nicht haben, können wir es Ihnen als kostenloses Geschenk zusenden. Software ist nur ein Geschenk, nicht die Ware, also hoffen wir, dass Sie professionell in der Verwendung von Software sind; es ist eine kostenlose Entwicklungssoftware; es ist nur für Win7 oder IE-System
+
+Details Bilder:
+
+
+
+
+
+
+
+

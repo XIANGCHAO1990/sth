@@ -1,0 +1,155 @@
+https://it.banggood.com/TWO-TREES-7628-Stepper-Motor-4Pcs-Set-with-DM542-Driver-MACH3-Control-Board-360W24V-Power-Supply-CNC-DIY-Kit-for-3D-Printer-p-1863973.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+TWO TREES® 7628 Motore passo-passo 4 pezzi Set con driver DM542 Scheda di controllo MACH3 Alimentatore 360W24V Kit fai da te CNC per stampante 3D
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DM542- Il driver integra protezione da sovratensione e sovracorrente.- Isolamento ottico del segnale di ingresso.- Metodo di taglio a corrente costante dipolare.- Alimentazione DC 20-50VDC (si consiglia un lavoro 24-48VDC).- Corrente massima di azionamento 4.2A.- Il selettore della corrente di uscita è regolabile.- Vibrazione zero a bassa velocità e bassa rumorosità.- Alta suddivisione: 2,4,8,16,32,64,128,5,10,20,25,40,50,100,125.- Forte capacità anti-interferenza, posizionamento ad alta precisione può essere raggiunto nel duro ambiente della rete elettrica.- Alta affidabilità: i dispositivi di potenza hanno un margine sufficiente e sono stati rigorosamente testati prima di lasciare la fabbrica.Mach3
+1. Supporto per il collegamento a 4 assi, è possibile collegare quattro azionamenti per motori passo-passo o servoazionamenti;
+2. La frequenza massima dell'impulso passo-passo è 100 KHz, che è adatta per il servo o il motore passo-passo;
+3. Supporta lo strumento sonda automatica
+4. Supporta l'input di emergenza
+5. Supporto per finecorsa
+6. Supporto per il collegamento del volantino elettronico
+7. È necessario utilizzare un alimentatore esterno da 24 V CC per isolare USB e la porta esterna e per rendere il sistema più stabile more
+8. Avere una porta di uscita 0-10V, è possibile utilizzare il software mach3 per controllare la velocità del motore del mandrino.
+9. 4 ingressi generici, è possibile collegare l'interruttore di fine corsa, l'interruttore di arresto, l'interruttore della sonda, il ritorno a zero e altri dispositivi
+10. 4 interfacce di uscita dell'unità relè isolate per uso generico, in grado di pilotare quattro relè per il controllo dell'avviamento del mandrino, della rotazione in avanti e all'indietro, delle pompe e di altri dispositivi
+
+11. 1 LED di stato, indica lo stato della connessione sulla schedaIl pacchetto include:Motore passo-passo 4*7628 4 * driver motore DM54221 * Scheda controller MACH31 * Alimentatore 360W24V
+
+
+
+

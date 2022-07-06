@@ -1,0 +1,210 @@
+1535708
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/F4/7A/3750233a-1b05-4acb-8161-177c4a55fc6b.jpeg
+Geekcreit® 0,96 Zoll OLED I2C IIC-Kommunikationsdisplay 128 * 64 LCD Modul Geekcreit für Arduino - Produkte, die mit offiziellen Arduino-Karten funktionieren
+https://de.banggood.com/Geekcreit-0_96-Inch-OLED-I2C-IIC-Communication-Display-128+64-LCD-Module-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1535708.html?cur_warehouse=CN&ID=229&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>More details: Click here to open<<<
+
+	Pin-Definition:
+
+
+
+VCC: 3,3-5 V.
+
+GND: Boden
+
+SCL: Serielle Uhr
+
+SDA: Serielle Daten
+
+Feature:
+
+
+Größe: 0,96 Zoll
+
+Auflösung: 128 * 64
+
+Farbe: weiß, blau (optional)
+
+Betrachtungswinkel:> 160 °
+
+Support-Plattform: Serie 51, Serie MSP430, Serie STM32/2 usw.
+
+Sehr geringer Stromverbrauch: 0,04 W im Normalbetrieb
+
+Breite Spannungsunterstützung: DC 3,3V-5V
+
+Arbeitstemperatur: -30 ° C ~ 80 ° C.
+
+Treiberchip: SSD1306
+
+Kommunikationsmethode: IIC, nur 2 E / A-Ports
+
+Hintergrundbeleuchtung: OLED-Selbstbeleuchtung, keine Hintergrundbeleuchtung erforderlich
+
+Paket beinhaltet:
+
+		1 x OLED-Modul
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

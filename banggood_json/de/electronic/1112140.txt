@@ -1,0 +1,198 @@
+1112140
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/64/14/c81e0c94-d03e-41df-a8da-f30a43d89032.jpg
+Geekcreit® LCR-T4 Mega328 Transistortester-Diodentrioden-ESR-Messgerät mit Schale
+https://de.banggood.com/Geekcreit-LCR-T4-Mega328-Transistor-Tester-Diode-Triode-Capacitance-ESR-Meter-With-Shell-p-1112140.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spezifikationen:
+
+Widerstand: 0,1ω-50Mω
+		Kondensator: 25pF-100000uF
+		Induktivität: 0,01 mH - 20H
+		Arbeitsleistung: DC-9V
+		Standby-Strom: 0,02 uA
+		Betriebsstrom: 25mA
+		Material: Metall + Kunststoff
+		Größe: ca. 11,1 cm / 4,37 "x 2,6 cm / 1,02" x 8,5 cm / 3,34 "
+		[Umwandlung: 1 cm = 0,3937 Zoll, 1 Zoll = 2,54 cm]
+
+Beschreibung:
+
+1. Fügen Sie die Boot-Spannungserkennungsfunktion hinzu
+		2. Automatische Erkennung von NPN- und PNP-Transistoren, N-Kanal- und P-Kanal-MOSFET, Dioden (einschließlich Doppeldioden), Thyristoren, Transistoren, Widerständen und Kondensatoren sowie anderen Komponenten
+		3. Testen Sie das Stiftelement automatisch und zeigen Sie es auf dem LCD an
+		4. Kann erkannt werden, um die Vorwärtsvorspannung des Transistor-Emitters des Transistors, der MOSFET-Schutzdiode und des Verstärkungsfaktors der Basis zu bestimmen
+		5. Messen Sie die Gate-Schwellenspannung und die Gate-Kapazität des MOSFET
+		6. 1602 LCD-Display verwendet LCD (12864 LCD mit Hintergrundbeleuchtung)
+		7. Hohe Testgeschwindigkeit, gültiger Komponententest: 2 Sekunden (außer im größeren Kondensator dauert die Messung mit großer Kapazität ebenfalls lange, die gemessene Zeit von einer Minute ist normal)
+		8. One Tastenbedienung, Einschalttest, Schlüssel abrufen
+		9. Ausschaltmodus: weniger als 20 nA von
+		10. Automatische Abschaltfunktion, um unnötigen Abfall zu vermeiden, Batteriestrom zu sparen und die Batterielebensdauer zu verbessern
+
+Hinweis:
+
+Batterie ist nicht im Lieferumfang enthalten.
+
+Lieferinhalt:
+
+1 x LCR-T4 Transistortester
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

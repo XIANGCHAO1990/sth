@@ -1,0 +1,1028 @@
+https://fr.banggood.com/FY6900-Dual-Channel-DDS-Function-Arbitrary-Waveform-Signal-Generator-Pulse-Signal-Source-Frequency-Counter-Fully-Numerical-Control-20MHZ-or-60MHZ-p-1495502.html?cur_warehouse=CN&ID=47757530531&rmmds=CategoryToolsPop
+FY6900 double canal DDS fonction générateur de Signal de forme d&#39;onde arbitraire compteur de fréquence de source de Signal d&#39;impulsion contrôle entièrement numérique 20 MHZ / 60 MHZ
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>Please Click Here to Download the English User Manuel<<>>Please click here to download PC software<<Caractéristiques principales:
+
+
+
+♦ Adoptez la technologie Direct Digital Synthesizer (DDS) et fournissez des signaux stables, précis, purs et à faible distorsion. 
+
+♦ 2,4 pouces TFT Couleur LCD avec résolution 320×240, afficher les paramètres et les graphiques des deux canaux en même temps.
+
+♦ L'instrument utilise une puce de convertisseur D/A haute vitesse 14 bits (l'erreur de quantification de sortie 5 Vpp est inférieure à 1 mV), Fréquence d'échantillonnage de 250 MSa/s, résolution verticale de 14 bits.
+
+♦ Peut produire jusqu'à 97 groupes de fonctions/forme d'onde arbitraire, contient 33 groupes de formes d'onde prédéfinies et 64 groupes de formes d'onde définies par l'utilisateur. Formes d'onde préréglées : sinusoïdale, carrée (rapport cyclique réglable), impulsion (la largeur d'impulsion et le temps de cycle peuvent être réglés avec précision), triangle/rampe, CMOS (0 ~ 12 V), quatre canaux Durée de vie, Montée exponentielle, Chute exponentielle, Bruit, ECG, DC etc.
+
+♦ Activer pour stocker 64 fichiers de données de forme d'onde arbitraires, chacun d'une profondeur de stockage de forme d'onde 8192 points * 14 bits ; (Plus la profondeur de stockage de la forme d'onde est longue, plus la forme d'onde est enregistrée en détail et les détails du signal peuvent être restaurés avec une haute précision.)
+
+♦ Différents types de modulation : modulations AM, MF, PM, INTERROGER, FSK et PSK.
+
+♦ Fonction de balayage : il peut balayer 4 propriétés de signaux, y compris la fréquence, l'amplitude, les décalages et le rapport cyclique ; Il a deux types de balayage linéaire et logarithmique ; temps de balayage de 0,01 S à 999,99 S ; Directions de balayage haut, bas et aller-retour.
+
+♦ Fonction VCO (Sortie de contrôle de tension) : peut être obtenu par un signal d'entrée externe : fréquence de contrôle de tension, amplitude de contrôle de tension, décalages de contrôle de tension, cycle de contrôle de tension et modulations PWM.
+
+♦ Fonction de sortie en rafale : il y a un déclencheur manuel, un déclencheur interne CH2 et un déclencheur externe pour vos options. Il peut produire 1 ~ 1048575 trains d'impulsions.
+
+♦ Fonction de fréquencemètre 100M: Il peut mesurer la fréquence, la période, la largeur d'impulsion et le rapport cyclique. Max. la fréquence utilisable est de 100 MHz et Min. la fréquence exploitable est de 0,01 Hz.
+
+♦ Fonction de compteur : il dispose de 2 modes de mesure de couplage, y compris le couplage CC et le couplage CA. Cette conception peut résoudre le problème d'imprécision du couplage AC.
+
+♦ Doubles canaux fonctionnels standard équivalents à deux générateurs indépendants.
+
+♦ Fonction de synchronisation de canal : prend en charge la copie de forme d'onde et la copie d'état entre les canaux.
+
+Prend en charge deux générateurs de signaux ou plus connectés pour obtenir une sortie multicanal, la prise en charge maximale de la sortie synchrone à 16 canaux, la phase entre chaque canal peut être ajustée.
+
+♦ Ajustez précisément les phases des deux canaux, la P'recision peut être de 0,01 °.
+
+♦ La résolution d'amplitude minimale peut aller jusqu'à 1 mV. La plage d'amplitude est de 0 ~ 24 Vpp.
+
+♦ Le cycle de service de chaque canal peut être ajusté indépendamment0.01%-99.99%, la résolution de réglage est de 0,01 %.
+
+♦ -12V ~ + 12V Fonction de décalage CC. Résolution 0.001V.
+
+♦ Fonction d'enregistrement : elle peut enregistrer 20 ensembles de paramètres définis par l'utilisateur et peut être chargée à tout moment.
+
+♦ Fonction de communication : Toutes les fonctions peuvent être contrôlées par le programme PC et le protocole de communication est ouvert pour le développement secondaire.
+
+♦ protection contre les courts-circuits de sortie : tous les canaux peuvent fonctionner plus de 60 secondes lorsque la charge est court-circuitée.
+
+♦ Fournir un puissant logiciel PC d'édition de formes d'onde. Les utilisateurs peuvent télécharger une forme d'onde arbitraire sur cet instrument après modification via le programme PC inclus dans le CD utilisateur.
+
+♦ Adoptez la coque en plastique ABS avec une conception de type table. Utilisez une alimentation à large plage de tension 100-240 V (CA). 
+
+♦ Vous pouvez choisir notre amplificateur de puissance de la série FYA2000S ou de la série FPA1000 pour produire un signal de 20 W ~ 100 W dans une largeur DC-10 MHz sans aucune distorsion.
+
+
+Le FY6900 peut produire des fonctions/formes d'onde arbitraires, notamment :
+
+>Sinus
+	>Carré
+	>Rectangle
+	>Triangle/Rampe
+	> Montée en dents de scie
+	>Dent de scie d'automne
+	>Impulsion de Lorenz
+	>Multicolore
+	> Bruit
+	>Électrocardiogramme (ECG)
+	> Pouls trapézoïdal
+	>Impulsion sinusoïdale
+	> Pouls étroit
+	> Bruit blanc Gauss
+	>Étape Triangulaire
+	>Étape positive
+	> Pas inverse
+	>Exposant positif
+
+	> Exposant inverse
+	>Exposant décroissant positif
+	> Exposant décroissant inverse
+	>Logarithme positif
+	>Logarithme inverse
+	> Logarithme décroissant positif
+	> Logarithme décroissant inverse
+	>MF linéaire
+	>AM
+	>MF
+	> Demi-onde positive
+	> Demi-onde négative
+	> Rectification demi-onde positive
+	> Rectification demi-onde négative
+	> Forme d'onde définie par l'utilisateur
+
+Spécifications techniques:
+
+
+
+
+
+La fréquence
+
+
+
+Modèle
+
+
+FY6900-20M    
+
+FY6900-30M
+
+FY6900-50M
+
+AF6900-60M
+
+
+
+
+
+0~20MHz
+
+0~30MHz
+
+0~50MHz
+
+0~60MHz
+
+
+
+
+
+0~15MHz
+
+0~25MHz
+
+0~25MHz
+
+0~25MHz
+
+
+
+Rampe, Triangle
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+
+
+Impulsion
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+
+
+Durée de vie/CMOS
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+
+
+Forme d'onde arbitraire
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+0~10MHz
+
+
+
+Largeur d'impulsion minimale
+
+20ns (tous les modèles de largeur minimale d'onde d'impulsion peuvent être de 20ns)
+
+
+
+Min. Résolution sur toute la gamme de fréquence
+
+1 μHz (la résolution minimale peut être inférieure à 1 μHz sur toute la plage de fréquences pour assurer la précision du réglage sous haute fréquence. Par exemple, il peut produire un signal de 10,000000000001 MHz).
+
+
+
+Précision
+
+±20ppm
+
+
+
+La stabilité
+
+±1 ppm/3 heures
+
+
+
+Caractéristiques de la forme d'onde
+
+
+
+Formes d'onde
+
+Sinusoïdal, carré, rectangle (rapport cyclique réglable), impulsion (la largeur d'impulsion et le temps de cycle peuvent être réglés avec précision), triangle/rampe, onde en dents de scie, CMOS, quatre canaux Durée de vie, CC, demi-onde, onde complète, pas positif, pas inverse , exposant positif, exposant inverse, impulsion de Lorenz, multitone, bruit, ECG, impulsion trapézoïdale, impulsion sinc, impulsion étroite, bruit blanc gauss, AM, MF et autres 64 ensembles de formes d'onde définies par le client.
+
+
+
+Stockage non volatile
+
+Peut stocker 64 formes d'onde arbitraires définies par l'utilisateur, (8K 14bits) * 64
+
+
+
+Forme d'onde Longueur
+
+8192 points * 14 bits
+
+
+
+Taux d'échantillonnage
+
+250MSa/s
+
+
+
+Résolution verticale
+
+14 bits
+
+
+
+
+
+Suppression des harmoniques
+
+≥50dBc(<1MHz); ≥45dBc(1MHz~20MHz);
+
+
+
+Distorsion harmonique totale
+
+<0,5 % (20Hz~20kHz, 0dBm)
+
+
+
+
+
+Temps de montée/descente
+
+≤7ns (VPP<5V)
+
+
+
+Dépasser
+
+≤5%
+
+
+
+Cycle de service
+
+0,01 % ~ 99,99 % (résolution 0,01 %)
+
+
+
+Vague en dents de scie
+
+Linéarité
+
+>99 % (0,01 Hz à 10 kHz)
+
+
+
+Caractéristiques de sortie
+
+
+
+Amplitude(VPP)
+
+Fréquence≤5MHz : 1mVpp~24Vpp ;
+				5MHz 10MHz Fréquence>20 MHz : 1 mVpp~5 Vpp ;
+
+
+
+Résolution
+
+1mV
+
+
+
+Stabilité d'amplitude
+
+±0.5%/ 5 Heures
+
+
+
+Planéité d'amplitude
+
+±2,5 % (<10 MHz) ; ±5 % (>10 MHz) ;
+
+
+
+Sortie de forme d'onde
+
+
+
+Impédance
+
+50Ω±10%(Typique)
+
+
+
+protection
+
+Tous les canaux peuvent fonctionner plus de 60 secondes lorsque la charge est court-circuitée. 
+
+
+
+Décalages CC
+
+
+
+Plage de décalages
+
+Fréquence≤20MHz : ±12 V ; Fréquence> 20 MHz : ± 2,5 V ;
+
+
+
+Résolution des décalages
+
+1mV
+
+
+
+Caractéristique des phases
+
+ 
+
+
+
+Plage de phases
+
+0~359.99°
+
+
+
+Résolution de phases
+
+0.01°
+
+
+
+Durée de vie Sortir
+
+ 
+
+
+
+Amplitude du niveau Durée de vie
+
+>3Vcc
+
+
+
+Sortance
+
+>8 CHARGE Durée de vie
+
+
+
+Temps de montée/descente
+
+≤10ns
+
+
+
+CMOS Sortir
+
+
+
+Faible niveau électrique
+
+<0.3V
+
+
+
+Haut niveau électrique
+
+1V~12V
+
+
+
+Temps de montée/descente
+
+≤18ns
+
+
+
+Mesure externe
+
+
+
+Une fonction
+
+Fréquence, période, largeur d'impulsion positive/négative, rapport cyclique
+
+
+
+Plage de tension d'entrée
+
+1Vpp~20Vpp
+
+
+
+Fréquencemètre
+
+Résolution
+
+0.01Hz (temps de porte = 100S)
+
+
+
+Varier
+
+0.01Hz~100MHz
+
+
+
+Sensibilité
+
+Gate Time 3 niveaux (1S, 10S, 100S) réglables
+
+
+
+Contrer
+
+Varier
+
+0-4294967295
+
+
+
+Couplage
+
+CC, CA
+
+
+
+Mode de fonctionnement
+
+Manuel
+
+
+
+Point final
+
+Plage de mesure
+
+5ns ~ 20s
+
+Mesure de couplage CC
+
+
+
+Largeur d'impulsion
+
+Plage de mesure
+
+0ns ~ 20s
+
+
+
+Résolution
+
+5ns
+
+
+
+Cycle de service
+
+Plage (Affichage)
+
+0 % ~ 100 %
+
+
+
+Balayer
+
+
+
+Forme d'onde porteuse
+
+Sinus, Carré, Rampe, Arbitraire (sauf DC)
+
+
+
+Taper de balayage
+
+Linéaire ou Logarithme
+
+
+
+Sens de balayage
+
+Directions de balayage vers le haut, vers le bas et aller-retour ;
+
+
+
+Balayer les objets
+
+Fréquence, amplitude, décalages, rapport cyclique
+
+
+
+Temps de balayage
+
+0.01S~999.99S/étape
+
+
+
+Plage de réglage
+
+La position de départ et la position d'arrivée peuvent être définies arbitrairement.
+
+
+
+Plage de balayage
+
+Décidé par le réglage des paramètres.
+
+
+
+VCO (Sortie de contrôle de tension)
+
+
+
+Plage de signal de modulation à l'entrée
+
+0~5V
+
+
+
+Plage de fréquence du signal VCO
+
+0-2000Hz
+
+
+
+Objet de commande VCO
+
+fréquence de contrôle de tension (VCF), amplitude de contrôle de tension, décalages de contrôle de tension, rapport cyclique de contrôle de tension.
+
+
+
+Fonction spéciale VCO
+
+Peut moduler l'amplitude (AM) ou moduler la fréquence (MF) par un signal analogique externe.
+
+
+
+Modulation
+
+
+
+Taper de modulation
+
+
+
+
+
+Forme d'onde porteuse
+
+Forme d'onde sinusoïdale, carrée, triangulaire, rampe, arbitraire (sauf DC)
+
+
+
+AM
+
+
+
+La source
+
+Interne (CH2) / Externe (port VCO IN)
+
+
+
+Forme d'onde de modulation
+
+Forme d'onde sinusoïdale, carrée, triangulaire, rampe, arbitraire
+
+
+
+Profondeur
+
+0% à 120%
+
+
+
+Fréquence de modulation
+
+Interne : 1 μHz~1 MHz ; Externe : 1μHz~2KHz ;
+
+
+
+
+
+
+
+La source
+
+Interne (CH2) / Externe (port VCO IN)
+
+
+
+Forme d'onde de modulation
+
+Forme d'onde sinusoïdale, carrée, triangulaire, rampe, arbitraire
+
+
+
+Fréquence de modulation
+
+Interne : 1 μHz~1 MHz ; Externe : 1μHz~2KHz ;
+
+
+
+PM
+
+
+
+La source
+
+Interne (CH2) / Externe (port VCO IN)
+
+
+
+Forme d'onde de modulation
+
+Forme d'onde sinusoïdale, carrée, triangulaire, rampe, arbitraire
+
+
+
+Déviation de phase
+
+0° à 360°
+
+
+
+Fréquence de modulation
+
+Interne : 1 μHz~1 MHz ; Externe : 1μHz~2KHz ;
+
+
+
+INTERROGER
+
+
+
+La source
+
+Interne (CH2), externe (port INTERROGER IN), manuel
+
+
+
+Forme d'onde de modulation
+
+Carré avec cycle de service de 50 %.
+
+
+
+Fréquence clé
+
+1μHz~10MHz
+
+
+
+FSK
+
+
+
+La source
+
+Interne (CH2), externe (port FSK IN), manuel
+
+
+
+Forme d'onde de modulation
+
+Carré avec cycle de service de 50 %.
+
+
+
+Fréquence clé
+
+1μHz~10MHz
+
+
+
+PSK
+
+
+
+La source
+
+Interne (CH2), externe (port PSK IN), manuel
+
+
+
+Forme d'onde de modulation
+
+Carré avec cycle de service de 50 %.
+
+
+
+Fréquence clé
+
+1μHz~10MHz
+
+
+
+Fonction rafale
+
+
+
+Forme d'onde porteuse
+
+Sinus, Carré, Rampe, Arbitraire (sauf DC)
+
+
+
+Nombre de rafales
+
+1~1048575
+
+
+
+La source de déclenchement
+
+Manuel, Interne, Externe (AC/DC)
+
+
+
+Spécifications générales
+
+
+
+Afficher
+
+Taper
+
+2,4 pouces, écran couleur TFT.
+
+
+
+Sauvegarder charger
+
+Montant
+
+20
+
+
+
+Position
+
+01 à 20 (01 pour la valeur par défaut de démarrage)
+
+
+
+Interface
+
+Taper
+
+Interface USB vers série
+
+
+
+Protocole
+
+Mode ligne C'ommand, fournissant des protocoles de communication.
+
+
+
+Vitesse de communication
+
+9600bps (norme industrielle)
+
+
+
+Pouvoir
+
+Plage de tension
+
+AC100V~240V
+
+
+
+technique
+
+SMD, LSI, fiable et durable
+
+
+
+Avertisseur sonore
+
+Peut être activé/désactivé par réglage.
+
+
+
+Opération
+
+Boutons et molette en continu.
+
+
+
+Environnement
+
+Temp. : 0~40℃, humidité : <80%
+
+
+
+Taille
+
+200mm * 190mm * 90mm (L * W * H)
+
+
+
+Poids
+
+850g
+
+
+
+Taille du paquet
+
+25cm * 21cm * 10cm (L * W * H)
+
+
+
+Poids du paquet
+
+0,98 kg (moteur principal, accessoires et matériaux d'emballage)
+
+
+
+Remarque : FY6900 prend en charge le commutateur de menu anglais et chinois. La langue par défaut est l'anglais. 
+
+Le forfait comprend :
+
+
+1 générateur de signaux FY6900 DDS.
+
+1 câble d'alimentation.
+
+1 x câble de données USB 
+
+2 x câbles à clip BNC
+
+1 câble BNC-BNC
+
+Photos de détails :
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

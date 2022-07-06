@@ -1,0 +1,163 @@
+1422002
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/CA/6F/e0047e59-bfab-4a7e-b157-d99c054cbb1c.jpeg
+WiFi Bluetooth Poignée DIY Télécommande Smart Kit De Module De Voiture Intelligente Pour Moteur Servo Drive Arm Geekcreit pour Arduino - Produits qui fonctionnent avec les cartes officielles Arduino
+https://fr.banggood.com/WiFi-bluetooth-Handle-DIY-Remote-Control-Smart-Car-Module-Kit-For-Motor-Servo-Drive-Arm-p-1422002.html?cur_warehouse=CN&ID=566380&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Sélection du type: (veuillez choisir celui dont vous avez besoin)  Seul tableau de commande Type Type de WiFi   Type de Bluetooth   Type de poignée  Fonctionnalités:    Servo à 16 voies et carte de commande de moteur à quatre voies, utilisant l'entraînement à quatre voies TB6612, PCA9685 pour une servocommande à 16 voies  Broche UNO broches d'E / S  Maximum tension d'entrée de l'alimentation 15V / DC  Réservez la prise du module Bluetooth et WIFI  PS2 réservé socket socket  Entraînement par moteur à courant continu à quatre voies, courant d’entraînement maximal à canal unique 1,2A en moyenne / 3,2A en pointe  Broche de servo variateur à 16 voies, l'alimentation peut être commutée par l'alimentation externe / interne du capuchon du cavalier      Spécification:   Entrée de puissance:    Alimentation moteur (VM): 4,5V ~ 36V, pouvant être fournie séparément  L’alimentation de l’appareil à gouverner (VIN): 5 ~ 18V, pouvant être fournie séparément    Méthode d'utilisation de l'alimentation unique:   VM et VIN (moteur de commande séparé, 6-36V)  Les circuits ouverts VS et VIN commandent l’appareil à gouverner séparément (6-18 V)  Court-circuit VM et VIN, court-circuit VS et 5V en même temps. Commande simultanée du moteur (6-18V) et de l'appareil à gouverner 5V à 16 voies     Emballage inclus:   1 x 2/4 conseil de moteur  1 x UNO carte de développement  1 x câble USB  2 x fil moteur  1 x module Bluetooth (en option)  1 x module WiFi (en option)  1 x kit de poignée (en option)   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

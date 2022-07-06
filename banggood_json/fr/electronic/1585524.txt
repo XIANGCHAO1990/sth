@@ -1,0 +1,263 @@
+1585524
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/5C/1D/b39ce39c-46f9-40eb-907f-f4dd85dbf682.jpg
+ZK-4KX CNC DC DC Buck Boost convertisseur CC CV 0.5-30V 4A Module d'alimentation Alimentation régulée réglable pour charge solaire Batterie
+https://fr.banggood.com/ZK-4KX-CNC-DC-DC-Buck-Boost-Converter-CC-CV-0_5-30V-4A-Power-Module-Adjustable-Regulated-Power-Supply-for-Solar-Battery-Charging-p-1585524.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:
+
+
+
+1. LCD peut afficher la tension d'entrée/sortie, le courant de sortie/la puissance de sortie/la capacité de sortie/le temps de sortie ;
+
+2. L'ajustement CNC, précis et rapide, peut augmenter et abaisser la tension, la tension de sortie peut être ajustée à volonté de 0,5 à 30 V, le courant limite 0-4a peut être ajusté à volonté;
+
+3. Protection de connexion anti-retour de l'extrémité d'entrée, qui ne grillera pas;
+
+4. Irrigation anti-retour à l'extrémité de sortie, aucune diode d'irrigation anti-retour supplémentaire n'est nécessaire pour charger la batterie;
+
+5. Le module peut être configuré pour s'ouvrir/se fermer par défaut ;
+
+6. Plusieurs mécanismes de protection logicielle sont disponibles et le seuil de protection est réglable. Lorsque les paramètres de fonctionnement du module dépassent le seuil de protection, la sortie sera automatiquement fermée.
+
+7. L'ondulation de sortie est petite et le filtre PI est disponible;
+
+8. Épaissir les ailettes du radiateur.
+
+
+
+Caractéristiques:
+
+
+
+Tension d'entrée : 5,0-30 v
+
+Tension de sortie : 0,5-30 v
+
+Courant de sortie: peut fonctionner de manière stable à 3A pendant une longue période et peut atteindre 4A sous une dissipation thermique améliorée
+
+Puissance de sortie: dissipation thermique naturelle 35W, renforcer la dissipation thermique 50W
+
+Résolution d'affichage de la tension : 0,01 V
+
+Résolution d'affichage actuelle : 0,001 A
+
+Efficacité de conversion: environ 88%
+
+Soft démarrage : oui (avec une puissance élevée et le module de charge peut échouer au démarrage)
+
+Mécanisme de protection :
+
+Connexion anti-retour d'entrée;
+
+Irrigation anti-retour de sortie;
+
+Protection contre les sous-tensions d'entrée (4,8-30 V réglable, 4,8 v par défaut)
+
+Protection contre les surtensions de sortie (0,5-31 V réglable, 31 V par défaut)
+
+Protection contre les surintensités de sortie 0-4.1a (réglable, défaut 4.1a)
+
+Protection contre les surpuissances (0-50w réglable, 50W par défaut)
+
+Protection contre la surchauffe (80-110℃ réglable, par défaut 110℃)
+
+Protection timeout (0-100h réglable, désactivé par défaut)
+
+Protection de super capacité (0-60ah réglable, désactivé par défaut)
+
+Fréquence de fonctionnement : 180 KHZ 
+
+Dimensions : 79 mm x 43 mm x 26 mm
+
+
+
+Méthode d'utilisation :
+
+
+
+1. Changez les paramètres d'affichage -- dans l'interface normale, appuyez sur SW pour basculer l'affichage sous l'écran d'affichage et basculez le contenu de l'affichage entre la puissance actuelle A puissance W capacité Ah temps h.Appuyez longuement sur le bouton SW pour basculer l'affichage de la liaison montante sur l'affichage l'écran et basculez le contenu de l'affichage entre la tension d'entrée IN et la tension de sortie OUT.
+
+2. Réglez la tension de sortie -- appuyez sur le bouton U/I dans l'interface normale pour entrer dans l'interface de réglage du courant constant de tension. On peut voir qu'un certain chiffre de la valeur de la tension de sortie clignote. Faites pivoter l'encodeur vers la gauche et vers la droite pour régler le majeur et le mineur.Appuyez brièvement sur l'encodeur rotatif pour choisir le bit de tension de sortie à régler.Après le réglage, appuyez 2 fois sur le bouton U/I pour revenir à l'interface normale.Ou revenez automatiquement à la interface normale après l'arrêt du fonctionnement pendant 10 s.
+
+3. Réglez la valeur de courant constant (c'est-à-dire la valeur de courant maximale autorisée à sortir par le module) -- appuyez sur le bouton U/I dans l'interface normale pour entrer dans l'interface de courant constant de tension de réglage. Appuyez ensuite sur le bouton U/I et passez à réglage de la valeur de courant constante. Vous pouvez voir un peu de la valeur actuelle constante de réglage clignoter. Faites pivoter l'encodeur rotatif à gauche et à droite pour régler le majeur et le mineur.Appuyez brièvement sur l'encodeur rotatif pour choisir le bit pour définir la valeur de courant constant.Après le réglage, appuyez sur U/I pour quitter l'interface de courant constant de tension de réglage et revenir à la normale interface.Ou revenez automatiquement à l'interface normale après l'arrêt de l'opération pendant 10s.
+
+4. Définissez l'état marche/arrêt par défaut de la mise sous tension du module -- appuyez longuement sur U/I dans l'interface normale pour entrer dans l'interface de réglage des paramètres. Vous pouvez voir qu'il affiche "OUVERT OFF" ou "OUVERT ON". "OPEN OFF" signifie que la sortie est éteinte par défaut lorsque l'alimentation est allumée, et "OPEN ON" signifie que la sortie est allumée par défaut lorsque l'alimentation est allumée. Appuyez longuement sur l'encodeur rotatif pour basculer entre deux états. Après le réglage, appuyez longuement sur U /I pour revenir à l'interface normale.
+
+5. Réglage des paramètres de protection sur l'état et le seuil -- appuyez longuement sur U/I pour entrer dans l'interface de réglage des paramètres dans l'interface normale. Appuyez sur SW jusqu'à ce que la protection souhaitée apparaisse. LUP -- seuil de protection contre les sous-tensions ; OUP -- seuil de protection contre les surtensions ;OCP -- seuil de protection contre les surintensités ; OPP -- seuil de protection contre les surintensités ; OAP -- seuil de protection contre les ultra-capacités ; seuil de protection de temporisation OHP ; OTP -- seuil de protection contre les surchauffes. Appuyez brièvement sur l'encodeur pour sélectionner le bit que vous souhaitez définir paramètre de protection.Appuyez longuement sur l'encodeur rotatif pour activer ou désactiver les paramètres de protection (seules la protection de délai d'attente et la protection de supercapacité peuvent être activées/désactivées, et d'autres paramètres de protection sont activés par défaut.).Tournez l'encodeur vers la gauche et la droite pour rendre les paramètres plus grands et plus petits. Après le réglage, appuyez longuement sur U/I pour revenir à l'interface normale.
+
+6. Tension et courant d'étalonnage -- appuyez sur le bouton U/I pour entrer dans l'interface de réglage des paramètres sous l'interface normale. Appuyez sur SW jusqu'à ce qu'une interface de paramètre avec CAL apparaisse. L'interface de tension d'entrée d'étalonnage avec le symbole CAL + IN + V; La sortie d'étalonnage interface de tension avec le symbole CAL + OUT + V; L'interface de courant de sortie d'étalonnage avec le symbole CAL + OUT + A. Faites pivoter l'encodeur vers la gauche et la droite pour ajuster la taille des paramètres. Une fois l'ajustement terminé, appuyez longuement sur l'encodeur rotatif pour confirmez que le réglage est terminé et que la valeur du paramètre ne clignote plus. Appuyez longuement sur U/I pour revenir à l'interface normale. 
+
+Remarque : afin d'assurer la précision de l'étalonnage, la tension d'étalonnage - supérieure à 12 V ne peut être démarrée ; courant d'étalonnage - ne démarrez l'étalonnage que lorsque le courant est supérieur à 1 A.
+
+
+
+Des astuces:
+
+
+
+1. Une connexion courte entre l'entrée IN et la sortie OUT du module est interdite, sinon la fonction de courant constant échouera.
+
+2. Veuillez vous assurer que le moment de puissance de l'alimentation dépasse la puissance requise de la charge de sortie !
+
+3. Si le module veut sortir à pleine charge, la tension d'entrée doit être supérieure à 8V. Lorsque la tension d'entrée est de 5 V, la puissance de sortie est d'environ 15 W. La valeur maximale du courant du module est de 4 A, sous réserve de la puissance de sortie maximale, telle que 17 V, le courant ne doit pas être supérieur à 2 A.
+
+4. Lorsque ce module est utilisé sur 3A et 35W, veuillez renforcer la dissipation thermique !!!
+
+5. Le module a une fonction de protection contre les sous-tensions d'entrée, qui est d'environ 4,8 v par défaut (elle peut être définie), et la sortie sera automatiquement déconnectée une fois que la valeur est inférieure à cette valeur (notez que la tension au port du module est inférieure que le seuil de protection contre les sous-tensions, et lorsque le courant d'entrée est relativement important, n'ignorez pas la tension partielle sur le fil d'entrée).
+
+
+
+Emballage inclus:
+
+
+
+1 x ZK-4KX CNC DC DC Buck Boost Convertisseur CC CV 0.5-30V 4A Module d'alimentation
+
+
+
+
+
+
+
+
+
+
+
+
+

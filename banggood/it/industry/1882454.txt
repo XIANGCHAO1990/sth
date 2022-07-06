@@ -1,0 +1,144 @@
+https://it.banggood.com/NEJE-A40640-Laser-Engraver-Cutter-Module-Kits-Double-Laser-Beam-15w-Output-Laser-For-DIY-Laser-Engraving-Machine-Wood-Cutter-Cutting-Tool-p-1882454.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+NEJE A40640 Laser Kit modulo taglierina per incisore Doppio Laser Uscita fascio 15w Laser Per fai da te Laser Utensile da taglio per taglierina per legno macchina per incidere
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrizione:Questo modulo ha una potenza diversa da A40640, A40630 è un singolo LD e A40640 è un doppio raggio LD, le altre capacità sono le stesse; un punto quadrato può tagliare fino a 20 mm di spessore;A40640 Laser Caratteristica del modulo:- Progettato per Laser incisore, stampante 3D, mulino CNC, progetto Arduinos.- Uscita di potenza ottica 15 W, compensato da 4 mm da 1 passaggio (velocità 200), pannello acrilico nero da 3 mm da 1 passaggio, in grado di incidere l'acciaio inossidabile, ma necessita di una buona regolazione della messa a fuoco.- Più sicurezza, vetro protettivo integrato per proteggere gli occhi! Anche senza indossare occhiali protettivi, l'operazione è più confortevole.- L'unità più silenziosa e intelligente regola la velocità della ventola di raffreddamento in base alla temperatura del laser.- Scheda del ciclo di lavoro a frequenza regolabile del generatore di segnali a impulsi digitali PWM di facile utilizzo per modulo laser NEJE.- Il dispositivo di montaggio scorrevole è fornito per una facile regolazione della messa a fuoco.Specifica:MarcaNEJEModalitàlloN40640Materiale del dissipatore di caloreAlluminio aeronautico + guscio in ottoneColore luminosoBluDimensionee della sezione40mm x 40mmModalità di raffreddamentoControllo intelligente del sensore di temperatura + ventola di raffreddamento da 40 mm da 10000 rpmDimensione60 * 40 * 40mmSpina adattatore5.5 2.1 portaPuò incidereMDF/balsa/carta/legno/tessuto/plastica/pelle/compensato/carta della gomma piuma/alluminio anodizzatoImpossibile incidereMetallo/Vetro/Pietra/Ceramica/PCB/Acciaio inossidabile/Materiale riflettente/Materiale trasparenteIngresso modulo30-40WUscita di potenza ottica15W (15000mW)Lunghezza d'onda445-450nmForma del fascioPunto (focalizzabile)Tensione di lavoroCC 12VModulazione TTL e PWMSÌ, compatibile sia con la modulazione TTL che PWMTensione di ingressoDC12V 3AIngresso PWM / TTLDC3.3V-12VInterfaccia di ingressoPH2.0-4Pin (+, -, PWM / TTL, Temperatura), 3Pin (+, -, PWM / TTL), 2Pin + 2Pin (+, -) + (PWM / TTL, -)NOTAL'interfaccia della temperatura può essere disconnessa，NEJE fornisce istruzioni testuali per l'acquisizione della temperatura su wiki.Modalità di guidaACC esternoIntervallo di temperatura sicuro<60 ℃Peso del modulo202 g (più leggero è il peso, minore è l'inerzia del movimento, migliori sono le prestazioni)Tutta la vita10000-20.000 oreDigital PWM Wave Pulse Signal Generator Frequenza regolabile Duty Cycle per NEJE Laser Specifiche scheda tester moduloIngresso alimentazioneCC 12V ProduzionePH2.0 4 pin (12v, GND, PWM / TTL, temperatura)Modalità3 modalità (off, manual pwm, pwm / ttl in) visualizzazione della temperaturaSÌPwm DisplaySÌControllo manuale PWMSÌNota (si prega di prestare attenzione):1. Indossare occhiali laser durante l'uso ed evitare di toccare il laser direttamente con gli occhi e la pelle!2. Non incidere oggetti a specchio ， Prestare attenzione al fuoco ， Prestare attenzione agli animali domestici durante il lavoro！3. Il fumo verrà generato quando viene bruciato, prestare attenzione allo scarico del fumo all'interno.4. Il periodo di garanzia del modulo laser è di un anno. In caso di problemi di qualità (tranne situazioni individuali come l'utilizzo del modulo laser per più di 30 minuti alla volta e causare danni), non esitate a chiedere aiuto al nostro servizio clienti.5. Se il tuo modulo laser ha qualche problema, NON smontarlo senza la nostra autorizzazione. Distruggerà il modulo laser.6. In caso di problemi di qualità con la macchina, non esitate a contattarci. Molti problemi operativi possono essere risolti in base al video e alla descrizione del problema. Grazie in anticipo.7. Questo modulo laser è compatibile con le nostre macchine NEJE Master 2 Plus e Master 2 Max.8. Può anche essere compatibile con altre apparecchiature CNC, come stampanti 3d, fresatura CNC, ecc., ma è necessario padroneggiare una certa conoscenza del controllo della forma d'onda PWM.Il pacchetto include:1 xModulo laser1 xDispositivo di scorrimento del modulo laser1xCavo a 4 pin (1000 mm)1 xNEJE Digital PWM Wave Pulse Signal Generator Scheda regolabile1 x2,5 mm a forma di L strappo1 x5mm a forma di L strappo1 xCavo a 4 pin1 xCavo a 3 pin1 xCavo a 2 pin
+
+
+
+

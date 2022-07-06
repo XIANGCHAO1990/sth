@@ -1,0 +1,319 @@
+https://it.banggood.com/HackRF-One-1MHz-6GHz-Radio-Platform-Development-Board-Software-Defined-RTL-SDR-Demoboard-Kit-Dongle-Receiver-Ham-Radio-p-1552853.html?cur_warehouse=CN&ID=6270001&rmmds=CategoryElectronicsPop
+HackRF One 1MHz-6GHz Radio Scheda di sviluppo della piattaforma Kit scheda demo RTL SDR definita dal software Dongle ricevitore Ham Radio
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Problema comune:
+
+
+
+D. Il computer non riesce a trovare la macchina. / L'USB non viene riconosciuto.
+
+R: Richiede l'installazione del firmware. Se il firmware continua a non funzionare dopo averlo installato, puoi eseguire il reflash del firmware.
+
+Firmware: http://myosuploads3.banggood.com/products/20200116/20200116013405PortapackFirmwareTool.rar
+
+Altri file: 
+
+https://greatscottgadgets.com/sdr/ 
+https://github.com/mossmann/hackrf/wiki
+
+Caratteristica:
+
+
+
+
+HackRF One è una periferica Software Defined Radio in grado di trasmettere o ricevere segnali radio da 1 MHz a 6 GHz. Progettato per consentire il test e lo sviluppo di tecnologie radio moderne e di nuova generazione, HackRF One è una piattaforma hardware open source che può essere utilizzata come periferica USB o programmata per il funzionamento autonomo.
+
+
+
+Specifiche:
+
+
+
+- Frequenza operativa da 1 MHz a 6 GHz
+
+- Ricetrasmettitore half-duplex
+
+- Fino a 20 milioni di campioni al secondo
+
+- Campioni in quadratura a 8 bit (8 bit I e 8 bit Q)
+
+- Compatibile con GNU Radio, SDR# e altro
+
+- Guadagno RX e TX e filtro in banda base configurabili via software
+
+- Alimentazione della porta dell'antenna controllata da software (50 mA a 3,3 V)
+
+- SMA connettore antenna femmina
+
+- SMA ingresso e uscita orologio femmina per sincronizzazione
+
+- Comodi pulsanti per la programmazione
+
+- Intestazioni pin interne per l'espansione
+
+- USB 2.0 ad alta velocità
+
+- Alimentato tramite USB
+
+- Hardware open-source
+
+
+Parametri:
+
+
+
+- Banda di frequenza: 1MHz-6Ghz
+
+- Larghezza di banda dati: 20 MHz
+
+- Precisione di campionamento (ADC/DAC): 8BIT
+
+- Velocità di campionamento (ADC/DAC): 20Mbps
+
+- Interfaccia: USB 2.0
+
+- Open-source
+
+- Massima potenza di trasmissione: 10dbm
+
+- 64QAM trasmittente EVM: 1,5%
+
+- Larghezza di banda di campionamento complessa: 20 Mhz
+
+
+
+Hardware:
+
+
+
+- Mixer RFFC5072: 80MHz-4200MHz
+
+- Ricetrasmettitore RF a larghezza di banda wireless MAX2837: 2,3 Ghz-2,7 Ghz
+
+- Processore LPC4330: Frequenza principale 204MHz
+
+- Amplificatore MGA-81563: 0,1-6Ghz, 3V, 14dbm
+
+
+Il pacchetto include: (opzionale)
+
+
+
+XR-028: 
+
+
+1 x scheda di sviluppo HackRF
+
+1 x cavo USB
+
+1 x UHF Antenna (40 Mhz-6 GHz)
+
+
+
+XR-029: 
+
+
+1 x HackRF One tavola con guscio in acrilico
+
+1 x UHF Antenna (40 Mhz-6 GHz)
+					1 x UHF/VHF Antenna
+
+1 x cavo USB
+
+1 x orologio TCXO 0.1PPM
+
+
+
+
+XR-030: 
+
+
+1 x scheda HackRF One con guscio in alluminio
+
+1 x UHF Antenna (40 Mhz-6 GHz)
+					1 x UHF/VHF Antenna
+
+1 x cavo USB
+
+1 x orologio TCXO 0.1PPM
+
+
+
+XR-031: 
+
+
+
+
+
+1 x scheda HackRF One con guscio in alluminio
+
+1 x cavo USB
+
+1 x orologio TCXO 0.1PPM
+
+
+1 x UHF Antenna (40 Mhz-6 GHz)
+	1 x UHF/VHF Antenna
+
+1xGSM/3G/4G 35DBI Antenna 
+	1xGSM/2G/3G/4G/WIFI 700-960MHz e 1710-2700MHz 5DBI Antenna 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

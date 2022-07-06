@@ -1,0 +1,207 @@
+https://pt.banggood.com/Geekcreit-UNOR3-ATmega328P-Development-Board-No-Cable-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-964163.html?cur_warehouse=CN&ID=6300464&rmmds=CategoryElectronicsPop
+Geekcreit® UNOR3 ATmega328P Development Board No Cable Geekcreit for Arduino - products that work with official Arduino boards
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Voltagem de saída: DC 5V / 3.3V
+ATmega328P
+Nenhuma versão de cabo USB
+Esta versão não pode ser compatível com o sistema OS
+
+
+Características:
+
+Abra o desenho esquemático original, o download gratuito da interface do software de desenvolvimento, também permite que suas necessidades sejam modificadas, fáceis e convenientes para baixar o programa.
+Pode simplesmente usar sensores, todos os tipos de conexão de componentes eletrônicos (como luzes LED, campainhas, botões e resistência fotossensível, etc.), fazem todos os tipos de trabalho interessante.
+O uso do controlador de microprocessador de alta velocidade (ATMEGA328), interface de desenvolvimento e ambiente são muito simples, fáceis de entender, muito adequados para que os iniciantes aprendam.
+
+
+Descrição:
+
+Digital de E / S : 0 - 13
+Analógica E / S: 0 - 5
+Suporta função de baixar ISP
+Tensão de entrada: DC 5V ~ 9V (sem alimentação externa quando conectado ao computador)
+Tensão de saída: DC 5V / 3,3V
+Usando Atmel Atmega328 controlador de microprocessador
+
+Como usar:
+
+1. Baixe o arduino IDE
+Link: http: http://arduino.cc/en/Main/Software (Copie para abrir)
+2. Baixe o driver chip USB
+Ligação: http://www.5v.ru/zip/ch341ser.zip (Copiar para abrir)
+3. Conecte o painel de desenvolvimento UNO, o driver será instalado automaticamente
+4. Selecione o UNO do dado
+5. Selecione a porta COM
+6. A melhor escolha, o arduino vem com procedimentos de rotina, queime nele.
+
+Incluído no pacote:
+
+1 x UNO R3 placa de desenvolvimento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

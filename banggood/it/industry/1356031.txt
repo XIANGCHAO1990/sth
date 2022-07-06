@@ -1,0 +1,313 @@
+https://it.banggood.com/PZEM-022-Open-and-Close-CT-100A-AC-Digital-Display-Power-Monitor-Meter-Voltmeter-Ammeter-Frequency-p-1356031.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+PZEM-022 Apri e chiudi CT 100A AC Digital Display Misuratore di potenza Voltmetro Amperometro Frequenza
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristiche:
+
+
+1. Funzione di misurazione dei parametri elettrici (tensione, corrente, potenza attiva, energia, frequenza, fattore di potenza)
+
+2. Funzione di allarme di sovraccarico (soglia di allarme di potenza superiore, retroilluminazione e alimentazione lampeggianti per l'allarme)
+
+3. Funzione di preimpostazione della soglia di allarme di potenza (può impostare la soglia di allarme di potenza)
+
+4. L'energia può essere ripristinata usando la chiave
+
+5. Memorizza i dati quando si spegne
+
+6. Grande schermo LCD 
+
+7. Funzione di retroilluminazione
+
+8. Funzione chiave
+
+
+♦Controllo della retroilluminazione
+
+Premere brevemente il tasto per accendere o spegnere la retroilluminazione, la retroilluminazione ha una funzione di memoria, può memorizzare lo stato di accensione o spegnimento allo spegnimento.
+
+
+♦Ripristina energia
+
+Passaggio 1: premere a lungo il tasto per 5 secondi fino a quando il valore di energia lampeggia, quindi rilasciare il tasto.
+
+Passaggio 2: premere di nuovo brevemente il tasto, quindi il valore dell'energia viene cancellato e si esce dallo stato lampeggiante di ripristino.
+
+Passaggio 3: se non viene eseguita alcuna operazione sulla chiave entro 5 secondi, significa che il valore dell'energia non viene cancellato e uscirà dallo stato di ripristino.
+
+
+♦Imposta soglia di allarme potenza 
+
+Passaggio 1: premere a lungo il tasto fino a quando lo schermo LCD visualizza "SET CLr", quindi rilasciare il tasto per accedere allo stato di impostazione
+
+Passaggio 2: la finestra di alimentazione visualizza il valore dell'allarme di alimentazione corrente e l'ultima cifra inizia a lampeggiare, quindi è possibile premere brevemente su più 1, quando non si opera per 3 secondi, cambierà automaticamente la posizione della cifra, il metodo di impostazione è lo stesso come sopra.
+
+Passaggio 3: dopo aver terminato l'impostazione, premere a lungo il tasto per più di 5 secondi per memorizzare automaticamente e uscire, l'intervallo della soglia di potenza attiva è 0,0 ~ 2,5 kW. può visualizzare sei parametri contemporaneamente.
+
+
+
+Specifiche:
+
+
+1. Tensione di lavoro: 80 ~ 260VAC
+
+2. Tensione di prova: 80 ~ 260 V CA
+
+3. Potenza nominale: 100A/22000W
+
+4. Frequenza operativa: 45-65Hz
+
+5. Precisione di misurazione: 1,0 grado
+
+Formato di visualizzazione:
+
+
+1.Potenza
+	Gamma di prova: 0~22000W
+	Potenza di misura iniziale: 0.2W
+
+Formato di visualizzazione <10 W: 1,00~9,99 W
+
+Formato di visualizzazione <100 W: 10,0~99,9 W
+
+Formato di visualizzazione <1000W: 100~999W
+
+Formato di visualizzazione <10000 W: 1,00~9,90 kW
+
+Formato di visualizzazione ≥10000 W: 10,0~22,0 kW
+
+
+2.Energia
+	Gamma di prova: 0~999kWh
+
+Formato di visualizzazione <1kWh: 0~999Wh
+
+Formato di visualizzazione <10kWh: 1,00~9,99kWh
+
+Formato di visualizzazione ≥10kWh: 10~999kWh
+
+
+3.Voltaggio
+	Gamma di prova: 80~260V
+
+Formato di visualizzazione: 80~260V
+
+
+4. Corrente
+	Gamma di prova: 0~100A
+	Corrente di misura iniziale: 0.001A
+
+<10A formato di visualizzazione: 0.000~9.000A
+
+Formato di visualizzazione ≥10A: 10.00~99,99A
+
+
+5.Frequenza
+	Gamma di prova: 45~65Hz
+
+Formato di visualizzazione: 45~65Hz
+
+
+6. Fattore di potenza
+	Gamma di prova: 0~1PF
+
+Formato di visualizzazione: 0.00~1.00PF
+
+
+
+Precauzioni:
+
+
+1. Questo modulo è adatto per interni, si prega di non utilizzare all'aperto.
+
+2. Il carico applicato non deve superare la potenza nominale.
+
+3. L'ordine di cablaggio non può essere sbagliato.
+
+Il pacchetto include:
+
+		1 x monitor di potenza CT aperto e chiuso
+
+Immagini di dettaglio:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

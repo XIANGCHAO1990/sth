@@ -1,0 +1,146 @@
+1713874
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/50/A0/2974a131-260b-4aeb-8181-4aeca1357676.png
+Ulefone Armor 9 Imaging termico fotografica IP68 IP69K Impermeabile 6,3 pollici 8 GB 128 GB 64 MP fotografica NFC 6600 mAh Helio P90 Octa Core 4G Robusto Smartphone
+https://it.banggood.com/Ulefone-Armor-9-Thermal-Imaging-Camera-IP68-IP69K-Waterproof-6_3-inch-8GB-128GB-64MP-Camera-NFC-6600mAh-Helio-P90-Octa-Core-4G-Rugged-Smartphone-p-1713874.html?cur_warehouse=HK&ID=2246295403&rmmds=CategoryPhonesPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Nota: Ci sono due versioni. Versione UE e versione per altre aree. Se vieni dall'Unione Europea, scegli la versione UE. Altrimenti, puoi scegliere la versione dell'altra area.  Specifica:Modello Ulefone Armor 9Rete 2G: GSM B2/3/5/8 (1900/1800/850/900)        CDMA 1X BC0/BC1 (800/1900) 3G: WCDMA B1/B2/B4/B5/B8                                TD-WCDMA B34/B39        CDMA EVDO BC0/BC1 4G: FDD-LTE B1/2/3/4/5/7/8/12/13/17/18/19/20/25/26 / 28A / 28B / 66        TDD-LTE B34/B38/B39/B40/B41 Slot per schede SIM: doppia scheda SIM Dual Standby (Nano SIM), slot per schede 2 supporta Nano-scheda SIM/scheda TFClicca quiI per la frequenza di rete del tuo paese. Si prega di verificare con il proprio operatore/fornitore prima di acquistare questo articolo.Hardware Sistema operativo: Android 10 CPU: Helio P90 (MT6779) Processore Octa-core a 64 bit a 2,2 GHz GPU: IMG PowerVR GM9446 a 970 MHz RAM: 8 GB ROM: 128 GB Estensione scheda: supporta una scheda TF esterna fino a 2 TB (VFAT)Schermo Dimensioni del display: 6,3 pollici Tipo: Touch Screen capacitivo FHD+ Risoluzione: 2340*1080 pixelPosteriore fotografica Fotocamera principale: 64MP + 5MP (fotocamera secondaria per la funzione di imaging termico FLIR) + 2MP Super Pixel 4 in 1 * Quattro flash posteriori, Tocca Messa a fuoco Risoluzione registrazione video: 1080P / 4K Immagini termiche fotografica  Modulo di imaging termico: FLIR Lepton 2.5, 80X60, 50 ° HFOV, radiometrico Tecnologia sensore: VOxmicrobolometer non raffreddato Frame rate effettivo: 8,6 Hz (applicazione commerciale esportabile) Clock di ingresso: 25 MHz nominali, livelli di tensione IO CMOS Formato di output: RGB a 14 bit, 8 bit (AGC applicato) o 24 bit (AGC e colorizzazione) selezionabili dall'utente Dimensione pixel: 17 µm Gamma dinamica di scena: -10-140 ° C (alto guadagno); tipico fino a 400 ° C (basso guadagno) Gamma spettrale: infrarossi a onde lunghe, da 8 µm a 14 µm Compensazione della temperatura: automatica. Immagine in uscita indipendente dalla temperatura della videocamera. Sensibilità termica: <50 mK (0,050 ° C) Interfaccia dati video: video su SPI Intervallo di temperature non operative: da -40 ° C a +80 ° C Intervallo di temperatura ottimale: da -10 ° C a + 80 ° C Shock: 1500 G @ 0,4 ms Formato array: 80 × 60, scansione progressiva FOV - Diagonale: 63,5 ° FOV - Orizzontale: 50 ° (nominale) Ottimizzazione dell'immagine: configurata in fabbrica e completamente automatizzata Correzione della non uniformità (NUC): automatica con otturatore Protezione solare: integrale Tensione di alimentazione in ingresso: 2,8 V, 1,2 V, da 2,5 V a 3,1 V IO Dissipazione di potenza: 150 mW (in funzione), 650 mW (durante l'evento dell'otturatore), 4 mW (standby)  Applicazione MyFLIR  Caratteristiche  Spot Meter: 3 mobili ROI: immagine intera e rettangolo (ridimensionabile)Min, Max, Media MSX: Sì Solo visibile: Sì Strumento di allineamento: Sì Salva immagine: foto, video, time-lapse, YouTube Live Jpeg radiometrico: Sì Compatibile con FLIR Tools®: Sì Segnalazione: Sì Richiama immagine e video: Sì Span e regolazione del livello: Sì Span e Level Lock: Sì Tavolozze colori: Sì, 9 Scala di temperatura: Sì, fissa e personalizzabile Menu Guida: Sì, tieni premuta l'icona per la descrizione o usa il menu guidato * La fotocamera da 64 MP indica che il sensore di immagine principale ha 64 milioni di pixel fisici. Poiché il sensore di immagine GW1 adotta la tecnologia Bayer (Tetracell) Quad, alcuni test di benchmark possono rilevare solo questa modalità tecnologica e mostrare il sensore della fotocamera come 16MP. La modalità 64MP è immediatamente in grado di supportare 64MP.Anteriore fotografica Fotocamera secondaria: fotocamera frontale da 8,0 MPLingua indonesiano, malese, catalano, ceco, danese, tedesco, estone, inglese, spagnolo, filippino, francese, croato, italiano, lettone, lituano, ungherese, olandese, norvegese, polacco, portoghese, rumeno, slovacco, finlandese, svedese, vietnamita, greco, turco, bulgaro, russo, serbo, ucraino, armeno, ebraico, urdu, arabo, persiano, hindi, bengalese, tailandese, coreano, birmano, giapponese, cinese semplificato, cinese tradizionaleBatteria in carica Batteria: 6600 mAh (tipo), Costruito Ricarica rapida: carica rapida 9 V 2 A, 18 W. Interfaccia di ricarica: USB Type-C Tipo di caricatore: tipo UEAltre caratteristiche WIFI: 802.11 a/b/g/n/ac, 2.4G/5G VoLTE: la possibilità di utilizzare VoLTE dipende dai gestori locali, perché non tutti i gestori locali possono supportare questa funzione.  Bluetooth: BT5.0 Posizionamento: GPS/AGPS/GLONASS/BEIDOU/Galileo Materiale: TPU + 10% GF + PC Sensore: Sensore di accelerazione, sensore G, sensore P, sensore L, bussola elettronica, giroscopio, NFC, coulombmetro, OTG, impronta digitale laterale, riconoscimento facciale Radio FM: Sì Impermeabile: IP68/IP69K impermeabile Chipset audio: FS1860U Jack audio: CTIA da 3,5 mm Spia di notifica: Sì Indicatore di stato della batteria: SìDimensioni e peso Dimensioni del prodotto: 168,2 * 82 * 15 mm Peso del prodotto: 324gLista imballaggio 1 x Ulefone Armor 9 Smartphone 1 cavo dati (100 cm) 1 adattatore da Type-C a micro-USB 1 x proteggi schermo in vetro temperato 1 x imbracatura 1 x ago SIM 1 cavo OTG 1 caricatore UE
+
+
+
+

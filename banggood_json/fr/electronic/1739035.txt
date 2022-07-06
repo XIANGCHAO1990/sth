@@ -1,0 +1,145 @@
+1739035
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/5A/A2/15182bed-0ddc-4eb4-823d-a4a34596b3cd.jpg
+Lithium Batterie carte de transfert d'énergie 2 cordes-17 chaîne convertisseur d'inductance 1.2A Mode d'équilibre à courant élevé
+https://fr.banggood.com/Lithium-Battery-Energy-Transfer-Board-2-Strings-17-String-Inductance-Converter-1_2A-High-Current-Balance-Mode-p-1739035.html?cur_warehouse=CN&ID=6294208&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:Instructions d'équilibre:1. Lorsque le voyant d'égalisation est allumé, le travail d'égalisation est activé,2. Le voyant d'égalisation s'éteint et le circuit d'égalisation dort,3. Le voyant d'égalisation clignote, la chaîne est lâchée ou le circuit est défectueux.Principe d'équilibre:Ce module est adjacent à l'égalisation de la différence de pression, la différence de tension de la batterie adjacente atteint plus de 0,1 V et la puce interne déclenche le travail d'égalisation jusqu'à ce que la différence de tension de la batterie adjacente soit à moins de 0,03 V, et il y a une différence de pression adjacente lorsqu'elle est utilisée sur le batterie. En déclenchant le travail d'égalisation, l'erreur de tension de la batterie sera également ramenée à une valeur plus idéale, réduisant ainsi les coûts de maintenance de la batterie.Spécification:La tension de fonctionnement est de 2,0 V-4,5 V, la batterie au lithium de fer ternaire est universelle, la batterie au titanate de lithium LTO n'est pas applicable.Équilibre courant:La différence de tension adjacente est supérieure à 0,1 V (le courant est d'environ 0,5 à 0,7 A);La différence de tension adjacente est supérieure à 0,2 V (atteindre le courant d'égalisation maximal 1,2 A);Plus la différence de pression est petite, plus le courant d'égalisation est petit.Définition du câblage:B-, le pôle négatif total de la batterie (le pôle négatif de la première batterie)B1, la borne positive de la première batterieB2, le pôle positif de la deuxième batterieB3 ... et ainsi de suite.Emballage inclus:1 x planche1 fil de borne 22awg en cuivre pur de 30 cm
+
+
+
+

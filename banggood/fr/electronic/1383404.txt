@@ -1,0 +1,301 @@
+https://fr.banggood.com/1_3-Inch-IPS-TFT-LCD-Display-240+240-Color-HD-LCD-Screen-3_3V-ST7789-Driver-Module-p-1383404.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+1,3 pouces IPS TFT LCD Écran 240*240 Couleur HD LCD Écran 3.3V ST7789 Module de pilote
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristique:
+
+
+
+
+
+Taille d'affichage 
+
+1.3 inch
+
+
+
+Matériel 
+
+Écran couleur HD IPS, la couleur est plus vive que l'ordinaire TFT LCD
+
+
+
+Résolution 
+
+Affichage 240*240, la direction peut être ajustée, horizontale et verticale
+
+
+
+Puce de contrôle
+
+ST7789
+
+
+
+Zone d'affichage
+
+23.4x23.4mm
+
+
+
+grandeur physique
+
+27.78x39.22mm
+
+
+
+Type d'interface 
+
+Interface SPI à 4 fils
+
+
+
+Nombre de broches
+
+7PIN
+
+
+
+Sens de vision
+
+
+Vue complète
+
+
+
+
+Température de fonctionnement
+
+-20°C~70°C
+
+
+
+
+
+Définition de l'interface :
+
+
+
+
+
+
+1
+
+GND
+
+Masse d'alimentation
+
+
+
+2
+
+VCC
+
+Puissance 3.3+
+
+
+
+3
+
+SCL
+
+Ligne d'horloge SPI
+
+
+
+4
+
+SDA
+
+Ligne de données SPI
+
+
+
+5
+
+RES
+
+Réinitialiser
+
+
+
+6
+
+CC
+
+Pied de sélection des données/commandes
+
+
+
+7
+
+NOIR
+
+Contrôle du rétroéclairage, la valeur par défaut peut être laissée flottante, niveau bas pour désactiver le rétroéclairage.
+
+
+
+
+
+Plus d'informations et Routine : Cliquez ici pour ouvrir
+
+Le forfait comprend :
+
+1 module d'affichage TFT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

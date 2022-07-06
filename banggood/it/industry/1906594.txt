@@ -1,0 +1,144 @@
+https://it.banggood.com/ORTUR-Laser-Master-2-Pro-S2-LU2-4-LF-SF-Laser-Engraving-Cutting-Machine-400-x-430mm-Large-Engraving-Area-Fast-Speed-10,000mm-or-Min-High-Precision-Laser-Engraver-p-1906594.html?cur_warehouse=CN&ID=6315360&rmmds=CategoryToolsPop
+ORTUR Laser Master 2 Pro S2 LU2-4 LF SF Laser Macchina da taglio per incisione Taglierina 400 x 430 mm Ampia area di incisione Alta velocità 10.000 mm/min Alta precisione Laser Incisore
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LU2-4 SFOrtur Laser Master=Ortur Laser Master 2ProS2-SF laser engraver ha il rilevamento della fiamma, l'arresto di emergenza, ecc., È dotato dell'ultima scheda madre OLM-MAXUP-V10 e una maggiore affidabilità del sistema, incisione fluida, velocità di incisione più rapida, maggiore precisione e altro ancora raffinati prodotti per incisione. LU2-4-SF Laser Il punto focale del modulo è 0,12x0,15 mm. È ad alta potenza e ha uno spot laser compresso, quindi è bravo a tagliare e meglio a incidere materiali più duri.LU2-4 LFOrtur Laser Master=Ortur Laser Master 2ProS2-LF laser engraver ha rilevamento della fiamma, arresto di emergenza, ecc., È dotato dell'ultima scheda madre OLM-MAXUP-V10 e maggiore affidabilità del sistema, incisione uniforme, velocità di incisione più rapida, maggiore precisione. LU2-4-LF Laser Modould è una testa laser a spot focale compresso a fuoco lungo di seconda generazione con Air Assist, migliore per il taglio, in particolare di materiali più spessi. Il punto focale è 0,17x0,25 mm e può tagliare in modo pulito tavole di pino da 6 mm in una passata.Descrizione- Firmware avanzato=Ortur Laser 1.8 firmware, più intelligente, più veloce, più preciso e più facile da usare. Scheda madre specializzata con MCU a 32 bit. Potrebbe preelaborare 32 istruzioni, supportare una velocità di trasmissione fino a 921600, più potente! Qualificato per MCU ESP32, ottimizza l'algoritmo di movimento e aumenta la velocità massima dei motori passo-passo da da 4000 mm/min a 10000 mm/min.- Ampia compatibilità= Ortur laser master 2ProS2 laser engraver può essere compatibile con vari software di incisione maturi, come LaserGRBL, LightBurn, supporta Win XP / Win 7 / Win 8 / Win 10 e supporta anche il sistema MAC e Linux (LightBurn, è necessario pagare), file di incisione il formato supporta JPG, PNG, BMP, JPEG, SVG, ETC, ecc.- 5 Protezione di sicurezza=1. Quando la macchina per incidere viene spostata o inclinata, arresterà automaticamente il laser per evitare danni al target da parte del laser. 2. Quando la macchina per incidere o il computer si arresta in modo anomalo, il laser smetterà di funzionare immediatamente per prevenire un incendio continuo. 3. La macchina per incidere è accesa, ma non c'è movimento per molto tempo, sarà protetta e il laser si spegnerà automaticamente. 4. Rilevatore di fiamma + cicalino 5. Pulsante di arresto di emergenza.SpecificaMarca: Ortur Numero di modello: Laser Master 2 pro S2Tipo di laser: LU2-4 SF (migliore per l'incisione), LU2-4 LF (migliore per il taglio/con ugello ad aria compressa)Materiale: alluminio + acciaio verniciato a polverePotenza laser: modulo laser a spot focale compresso LU2-4 20w (potenza elettrica: 20 W, potenza luminosa: 5000-5500 mw) Raggio di raggio laser: 445 ± 5 nm Alimentazione da: adattatore di alimentazione 24V 2APeso confezione: 4,6 000 kgDimensioni del prodotto (L x P x A): 600x570x189 mmDimensioni della confezione (L x P x A): 660x250x110 mmCaratteristiche1.  ●Scheda madre specializzata con MCU a 32 bit- Potrebbe preelaborare 32 istruzioni, supportare una velocità di trasmissione fino a 921600, più potente!2. Il firmware per incisore più avanzato a 32 bit Laser- Firmware master laser Ortur, più intelligente, più veloce, più preciso e più facile da usare.3. L'intervallo di potenza Laser potrebbe essere S0 - S1000, rispetto agli incisori laser desktop a 8 bit, che hanno solo S0 - S255, Ortur Laser Master potrebbe controllare il raggio laser in modo più accurato, potrebbe persino utilizzare l'unità laser ad alta potenza per "disegnare" un'immagine su carta, che gli incisori laser ad alta potenza a 8 bit non potevano fare.4. La velocità di incisione potrebbe raggiungere i 3000 MM/Min. (Se non si considera il risultato dell'intaglio laser, le velocità di movimento potrebbero raggiungere i 1000 MM/S)5. Protezione attiva della posizione- C'è un sensore G sulla scheda madre, se la macchina rileva un movimento non autorizzato, il raggio laser si fermerà.6. Protezione di sicurezza del raggio laser- Se il tuo computer si è fermato o il cavo USB è stato scollegato, il laser engraver smette di muoversi, il raggio laser si fermerà, per prevenire il fuoco.7. Rilevamento e limitazione della durata dell'esposizione- Se laser engraver è sotto controllo, ma gli utenti dimenticano di azionare e mantenere il raggio laser in funzione, la sicurezza aggiuntiva verrà interrotta nel caso in cui il motore si fermi, per prevenire incendi.8. LaserGRBL (software gratuito) supporta Windows XP, 7, 8, 10. LaserGRBL è il software di intaglio più popolare al mondo, può importare immagini in diversi formati, è possibile modificare in PhotoShop, Inkscape, CAD, ecc. e quindi connettersi a l'incisore tramite laser LaserGRBL per l'incisione e il taglio.9. LightBurn (software a pagamento, lightburnsoftware.com) supporta Windows, Mac OS e Linux. È il software di intaglio a pagamento più popolare al mondo, molto facile da usare.10. Questo laser engraver supporta la modalità PWM.11. Parti preassemblate, bastano 10 - 20 minuti per installare la macchina.12. Ampia area di incisione 400 x 430 mm.13. Telaio in profilo di alluminio + cablaggio strutturato, struttura solida, funzionamento regolare, aspetto attraente.14. Sincronizzazione della struttura meccanica dell'albero, evitare la sincronizzazione su due binari Y, durante l'incisione a piena velocità.Domande e risposteQ: Quanto tempo ci vuole per assemblare?A: 10-15 minuti (dipende dalla tua preparazione).D: Quale software di incisione è supportato?R: LaserGrbl (gratuito) (Windows XP, Windows 7, Windows 8, Windows 10): Pagina di downloadLightBurn (prova gratuita di 30 giorni a pagamento) (Mac OS, Linux, Windows XP, Windows 7, Windows 8, Windows 10): Pagina di download D: Posso incidere metallo e acciaio inossidabile?R: È possibile contrassegnare il metallo dopo la placcatura o la spruzzatura (agendo sul rivestimento o sullo strato di ossido), acciaio inossidabile (l'effetto è migliore dopo che l'acciaio inossidabile è verniciato di nero. Nota: non è incisione, ma scolorimento).D: Qual è lo spessore massimo di taglio della tavola?A: Con il modulo laser LU2-4, può tagliare compensato da 4 mm (compensato di legno) o tavola di pino da 6 mm con un taglio.D: Per quante ore Laser Master 2 Pro può funzionare ininterrottamente?A: 24 ore (in un ambiente ben ventilato).D: È possibile sostituire il modulo laser?R: Sì, ma la tensione di ingresso del modulo Laser deve supportare 24V.Q: Quanto dura il periodo di garanzia?A: One anni di garanzia (ti invieremo gratuitamente le parti corrispondenti non danneggiate artificialmente).D: È possibile incidere superfici cilindriche?A: È necessario acquistare il rullo rotante della serie Ortur YRR come accessorio per scolpire la superficie cilindrica.D: Come impostare la lunghezza focale corretta?R: Tutti i moduli laser Ortur hanno una lunghezza focale fissa (la distanza dal modulo laser alla superficie dell'oggetto è fissa).Nota● Indossare occhiali protettivi quando si utilizza l'incisore laser. Indossare occhiali di sicurezza per evitare la cecità.● Non toccare l'emettitore laser con la mano, altrimenti potrebbe bruciarsi la mano.● Si prega di evitare forti impatti sulla macchina.● I bambini sotto i 14 anni non sono autorizzati a utilizzare questo prodotto e i bambini sopra i 14 anni necessitano della supervisione di un adulto.● La macchina per incisione leggera non può essere applicata direttamente a qualsiasi oggetto riflettente lo specchio, che potrebbe causare lesioni all'operatore o bruciare il laser.● Questo prodotto non è consigliato per il taglio industriale a causa della sua elevata velocità di incisione.ManualeClicca quiIl pacchetto include1 x Laser Macchina per incidereAccessoriPiù dettagli:
+
+
+
+

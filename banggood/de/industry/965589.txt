@@ -1,0 +1,205 @@
+https://de.banggood.com/Excellway-REX-C100-110-240V-1300-Degree-Digital-PID-Temperature-Controller-Kit-with-400-Degree-Probe-p-965589.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+Excellway® REX-C100 110–240 V 1300 Grad digitaler PID-Temperaturregler Satz mit 400 Grad Sonde
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Merkmale :
+
+REX-C100 Temperaturregler
+
+	Messgenauigkeit: ±0,5 % FS
+	Kompensationstoleranz des kalten Endes: ±2℃ kann per Software in 0~50℃ geändert werden
+	Auflösung: 14 Bit
+	Abtastzyklus: 0,5 Sek
+	Leistung: Wechselstrom 110–240 V, 50/60 Hz
+	Prozesswert (PV), Einstellwert (SV)
+	Ausgang, Alarm und Selbstoptimierung können angezeigt werden mit: LED
+	PIN-Steuerung (einschließlich EIN/AUS, Stufen-PID und kontinuierliche PID)
+	Selbsteinstellende Steuerung
+	Relaisausgang: Kontaktkapazität 250 V AC 3A (ohmsche Last)
+	Alarmfunktionsausgang: 2 Wege
+	Proportionalbund (P): 0~Vollbereich (EIN/AUS-Steuerung bei Einstellung auf 0)
+	Temperaturbereich des Detektivs: 0 bis 1300℃
+	Isolationswiderstund: >50 M Ohm (500 V DC)
+	Isolationswiderstund: 1500 V AC/min
+	Isolationswiderstund: Leistungsaufnahme < 10 VA
+	Betriebsumgebung: 0~50℃
+	Umgebung ohne korrosive Gase 30~85 % RH
+
+K Thermoelement Sonde Kabel
+
+	Länge: 1M
+	Sensordurchmesser: 4,5 mm
+	Temperaturbereich: 0 bis 400℃
+	Interne Isolierung: Fiberglas
+	Externe Abschirmung: Isolierte Abschirmung
+
+	Max.40A SSR
+
+	Ausgangsspannungsbereich: Stundard Typ
+	Ausgangsstrom: 40A
+	Eingangsspannung: DC 3-32V
+	Ausgangsspannung: 24-380 V AC
+
+Lieferinhalt : 
+
+	1 x REX-C100 PID-Temperaturregler
+	1 x K Typ Sonde Fühler
+	1 x Max. 40 A SSR
+
+	Mehr Produkte :
+	Jetzt haben wir eine erstellt SKU108327 das ist 220 V, 0 ~ 400 ℃.
+	und  SKU188430 Das ist 110-240 V, 0 ~ 400 ℃.
+
+Detailbilder:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

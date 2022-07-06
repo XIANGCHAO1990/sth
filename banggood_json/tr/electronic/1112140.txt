@@ -1,0 +1,198 @@
+1112140
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/64/14/c81e0c94-d03e-41df-a8da-f30a43d89032.jpg
+Geekcreit® LCR-T4 Mega328 Transistör Test Cihazı Diyot Triod Kapasitans Kabuklu ESR Ölçer
+https://tr.banggood.com/Geekcreit-LCR-T4-Mega328-Transistor-Tester-Diode-Triode-Capacitance-ESR-Meter-With-Shell-p-1112140.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikler:
+
+Direnç: 0.1ω-50Mω
+		Kondansatör: 25pF-100000uF
+		Endüktans: 0.01mH - 20H
+		Çalışma gücü: DC-9V
+		Bekleme akımı: 0.02uA
+		Çalışma akımı: 25mA
+		Malzeme: Metal + Plastik
+		Boyut: yaklaşık 11,1 cm / 4,37 "x2,6 cm / 1,02" x8,5 cm / 3,34 "
+		[Dönüşüm: 1 cm = 0,3937 inç, 1 inç = 2,54 cm]
+
+Açıklama:
+
+1. Önyükleme voltajı algılama işlevi ekleyin
+		2. NPN ve PNP transistörlerinin, N kanallı ve P kanallı MOSFET'in, diyotların (çift diyot dahil), tristörlerin, transistörlerin, dirençlerin ve kapasitörlerin ve diğer bileşenlerin otomatik tespiti
+		3. Otomatik olarak pim elemanını test edin ve LCD'da görüntülenir
+		4. Transistörün transistör yayıcı ön ön gerilimini, MOSFET koruma diyotunu ve tabanın amplifikasyon faktörünü belirlemek için tespit edilebilir
+		5. MOSFET'in kapı eşik voltajını ve kapı kapasitansını ölçün
+		6. 1602 LCD Ekran, LCD kullanır (arka aydınlatmalı 12864 LCD)
+		7. Yüksek test hızı, geçerli bileşen testi: 2 saniye (büyük kapasitans ölçümünün daha büyük kapasitörleri dışında da uzun zaman alır, bir dakikalık ölçülen süre normaldir)
+		8. One düğme işlemi, açılış testi, anahtar alın
+		9. Güç tüketimi kapalı modu: 20 nA'dan az
+		10. Gereksiz israfı önlemek, pil gücünden tasarruf etmek, pil ömrünü uzatmak için otomatik kapanma işlevi
+
+Not:
+
+Pil dahil değildir.
+
+Paket içeriği:
+
+1 x LCR-T4 Transistör Test Cihazı
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

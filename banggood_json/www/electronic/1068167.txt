@@ -1,0 +1,177 @@
+1068167
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/3D/C3/15b33a69-e38a-4834-8bfb-2af915689146.jpg
+0.95 Inch 7pin Full Color 65K Color SSD1331 SPI OLED Display
+https://www.banggood.com/0_95-Inch-7pin-Full-Color-65K-Color-SSD1331-SPI-OLED-Display-p-1068167.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibility
+To confirm that this part fits your vehicle, please enter your vehicle's details below.
+
+
+
+
+
+Year:
+
+
+Select
+
+
+
+
+
+
+
+
+Make:
+
+
+Select
+
+
+
+
+
+
+
+
+Model:
+
+
+Select
+
+
+
+
+
+
+
+
+Submodel:
+
+
+Select
+
+
+
+
+
+
+
+
+Trim:
+
+
+Select
+
+
+
+
+
+
+
+
+Engine:
+
+
+Select
+
+
+
+
+
+
+
+
+Clear All
+
+
+
+
+This part is compatible with 0 vehicle(s).
+Show all compatible vehicles
+
+
+
+
+  This part is compatible with 1 vehicle(s) matching 
+ This part is not compatible with
+
+
+
+Recent searches
+
+
+
+
+
+
+
+
+
+
+
+Year
+Make
+Model
+Submodel
+Trim
+Engine
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+File download: Click to open
+
+Feature:
+
+Size: 0.95 inch
+Resolution: 96*64
+Drive IC: SSD1331
+Color: 65536 color
+Interface: SPI interface
+PIN NO.: 7Pin
+Voltage: 3.3V - 5V
+
+Pin description:
+
+GND: Power ground
+VCC: 2.8-5.5V power supply
+D0: CLK clock
+D1: MOSI data
+RST: Reset
+DC: Data / command
+CS: Chip-select signal
+
+Package includes:
+
+1 x 0.95 Inch 7pin OLED
+
+
+
+
+
+
+
+
+,,
+
+
+

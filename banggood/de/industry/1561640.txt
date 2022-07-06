@@ -1,0 +1,1257 @@
+https://de.banggood.com/Hantek-2D82-AUTO-Digital-Oscilloscope-Multimeter-4-in1-2-Channels-80MHz-Signal-Source-Automotive-Diagnostic-250MSa-or-s-p-1561640.html?cur_warehouse=CN&ID=6281245&rmmds=CategoryToolsPop
+Hantek 2D82 AUTO Digitales Oszilloskop Multimeter 4 in1 2 Kanäle 80MHz Signalquelle Automotive Diagnostic 250MSa/s
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Merkmale:
+
+
+
+Als brandneues Handheld-Oszilloskop der Hantek2000-Serie setzt es das kompakte und leichte Konzept fort, jedoch mit einer neuen Generation von 4-in-1-Multifunktionstestern: Automotive Diagnostic, Oszilloskop, Signalquelle und Multimeter; Ein kleines Volumen des Non-Profit-Griffs von einer einzigen Hand; Der Aufhängungsständer wurde entwickelt, um Multi-Winkel-Verstellung zu unterstützen; Typ C Ultra-Low-Power-Ladeschnittstelle, jeweils 2 Stunden Akkuladung ermöglichen das Arbeiten einen ganzen Tag oder zwei Monate im Standby-Modus; High-Definition-Farbdisplay LCD klar und zart; Minimalistisches Tastaturdesign vereinfacht die Bedienung, einfach zu bedienen.
+
+
+
+Mit mehr als 80 Arten von Autotests und dem Scannen des QR-Codes auf der Rückseite des Geräts können Video-Hilfedateien geöffnet werden, die Ihnen zeigen, wie Sie Fahrzeuge testen.
+
+
+
+· Erste Testprojekte: Saugrohr-Unterdruckgrad & Zündung, Lampenruß-Einstellventil Vakuumgrad & Zündung, Abgaszündung (Leerlauf), Abgaszündung (Start).
+
+· Start & Charge: Ladeschaltung, Strom und Spannung.
+
+· Antrieb: Benzin / Diesel.
+
+· Buserkennung: CAN-Bus-Datenbeobachtung, CAN-Bus-Signalintegrität, CAN-Bus-LH-Langzeiterfassung, LIN-Bus.
+
+· Sensoren: Luftmengenmesser, Nockenwelle, Kurbelwelle, Verteiler, Lambdasonde, Drosselklappenstellung. . .
+
+· Zündung: Primär/Sekundär.
+
+· Oszilloskop: 2 Kanäle Oszilloskop, 80MHz Bandbreite, 250M Abtastrate.
+
+· Multimeterfunktion: Spannung, Strom, Widerstand, Diode, Kondensator, Ein-Aus-Test;
+
+·Ausgangsfunktion des Wellenformgenerators: Sinus-, Rechteck-, Dreieck-, Trapez- und andere Wellenformen ausgeben; Sinus bis 25MHz;
+
+
+
+
+
+Modusll
+
+Hantek2D82AUTO
+
+
+
+ Fahrzeugtestmodus
+
+
+
+Fahrzeugdiagnose
+
+Fahrzeugdiagnosefunktion
+
+Zündung
+
+Primärzündung (Spannung)
+
+
+
+Primärzündung (Strom)
+
+
+
+Primärzündung (Spannung & Strom)
+
+
+
+Primärzündung (Kurbelwellensensor)
+
+
+
+Primärzündung & Sekundärzündung
+
+
+
+Sekundär
+
+Sekundärzündverteiler Typ (Steckerkabel)
+
+
+
+Sekundärzündverteiler Typ (Königsleitung)
+
+
+
+Sekundäre DIS (Positiv gefeuert)
+
+
+
+Sekundäre DIS oder CPC (Negativ ausgelöst))
+
+
+
+Diagnose des Sekundärspulenausgangs
+
+
+
+Sekundärzündung & Primärzündung
+
+
+
+Sensoren
+
+Luftmassenmesser
+
+Luftmengenmesser (Hot-Wire)
+
+
+
+Luftmengenmesser (Luftfahne)
+
+
+
+Luftmengenmesser (B'OSCH Diesel)
+
+
+
+Lufteinlassdrucksensor (B'OSCH Diesel)
+
+
+
+Nockenwelle
+
+Nockenwelle (induktiv)
+
+
+
+Nockenwelle (wechselstromerregt)
+
+
+
+Nockenwelle (Hall-Effekt)
+
+
+
+Nockenwelle (B'OSCH Common Rail Diesel)
+
+
+
+Kurbelwelle
+
+Induktiver Lauf der Kurbelwelle
+
+
+
+Induktives Kurbeln der Kurbelwelle
+
+
+
+Kurbelwellen-Hall-Effekt
+
+
+
+Kurbelwellensensor & Primärzündung
+
+
+
+Verteiler
+
+Verteilerabholung (Hall-Effekt)
+
+
+
+Verteiler Induktive Pick-up-Kurbelung
+
+
+
+Verteiler Induktiver Pick-up-Betrieb
+
+
+
+Lambdasonden
+
+Lambdasonde Titania
+
+
+
+Lambdasonde Zirkonia
+
+
+
+Lambdasonde Zirkonia Pre & Post Kat
+
+
+
+Drosselklappenstellung
+
+Drosselklappenpotentiometer
+
+
+
+Drosselklappenschalter
+
+
+
+Gaspedalschalter (B'OSCH Diesel)
+
+
+
+ABS digitaler Geschwindigkeitssensor
+
+
+
+ABS analoger Geschwindigkeitssensor
+
+
+
+Kühlmitteltemperatur (5V)
+
+
+
+Kühlmitteltemperatur (GM/Vauxhall Simtec
+
+
+
+Crash-Sensor
+
+
+
+KARTE Analog
+
+
+
+KARTE Digital
+
+
+
+Hall-Effekt-Geschwindigkeitssensor
+
+
+
+Gaspedal (B'OSCH Diesel)
+
+
+
+Busdiagnose
+
+CAN-Bus
+
+CAN-Bus-Datenansicht
+
+
+
+Integrität des CAN-Bus-Signals
+
+
+
+CAN-Bus LH Long Capture
+
+
+
+LIN-Bus
+
+LINBus
+
+
+
+Motor
+
+Benzin
+
+Single-Point-Injektor (Spannung)
+
+
+
+Einpunkt-Injektor (Strom)
+
+
+
+Mehrpunkt-Injektor (Spannung)
+
+
+
+Mehrpunkt-Injektor (Strom)
+
+
+
+Injektorspannung und -strom
+
+
+
+Injektorstrom & Primärzündung
+
+
+
+Diesel
+
+Common-Rail-Diesel (aktuell)
+
+
+
+Injektor B'OSCH CDi 3 (Aktuell)
+
+
+
+Einspritzdüse B'OSCH Diesel (Leerlauf)
+
+
+
+Einspritzdüse B'OSCH Diesel (Beschleunigung)
+
+
+
+
+
+Diesel-Glühkerzen
+
+
+
+Elektronischer Kraftstoff Pumpe
+
+
+
+Aktivkohlebehälter-Magnetventil
+
+
+
+ERG Rezirkulations-Magnetventil
+
+
+
+Schrittmotor-Beispiel 1
+
+
+
+Schrittmotor-Beispiel 2
+
+
+
+Leerlaufregelventil (rotierend)
+
+
+
+Leerlaufregelventil (elektromagmetisch)
+
+
+
+Drosselklappen-Servomotor (Leerlauf)
+
+
+
+Gas-Servomotor (Beschleunigung)
+
+
+
+B'OSCH CDi3 Mengenregelventil
+
+
+
+B'OSCH CDi3 Druckregelventil
+
+
+
+Lüfter mit variabler Geschwindigkeit an
+
+
+
+Lüfter mit variabler Geschwindigkeit aus
+
+
+
+Variable Nockenwellen-Ventilsteuerung
+
+
+
+Starten & Laden
+
+Ladeschaltungen
+
+Ladestromkreise Strom/Spannung
+
+
+
+Ladestromkreise Strom/Spannung ab 24V
+
+
+
+Ladestromkreise Strom/Spannung Leerlauf 24V
+
+
+
+Ladestromkreise Lichtmaschine AC Welligkeit/Diodendiagnose
+
+
+
+
+
+Benzin mit relativer Kompression
+
+
+
+Diesel mit relativer Kompression
+
+
+
+Anlaufspannungsabfall
+
+
+
+Oszilloskop-Modus
+
+
+
+Bandbreite
+
+80MHz
+
+
+
+Kanal
+
+2CH+DMM+AWG
+
+
+
+
+
+Horizontal
+
+
+
+Abtastratenbereich
+
+250MSa/s (Einkanal), 125MSa/s (Zweikanal)
+
+
+
+Wellenforminterpolation
+
+(Sünde x)/x
+
+
+
+Rekord Länge
+
+3K-Samples pro Dual-Kanal
+
+
+
+SEC/DIV-Bereich
+
+5ns/div~500s/div 1, 2, 5 Sequenz
+
+
+
+Vertikal
+
+
+
+A/D-Wandler
+
+8-Bit-Auflösung, jeder Kanal wird gleichzeitig abgetastet
+
+
+
+VOLTS/DIV-Bereich
+
+10mV/Div~10V/Divat-Eingang BNC
+
+
+
+Bandbreitenbegrenzung, typisch
+
+20MHz
+
+
+
+
+
+Niederfrequenzgang (-3db)
+
+≤10Hz bei BNC
+
+
+
+Anstiegszeit bei BNC, typisch
+
+5ns
+
+
+
+Genauigkeit der DC-Verstärkung
+
+±3 % für den Erfassungsmodus „Normal“ oder „Durchschnitt“, 10 V/div bis 10 mV/div
+
+
+
+Hinweis: Bandbreite bei Verwendung einer 1X-Sonde auf 6 MHz reduziert.
+
+
+
+Erwerb
+
+
+
+Erfassungsmodi
+
+Normal
+
+
+
+Abzug
+
+
+
+Typ
+
+Kante
+
+
+
+Modus
+
+Auto, Normal, Einzel
+
+
+
+Niveau
+
+±4 Unterteilungen von der Bildschirmmitte
+
+
+
+Genauigkeit des Abzugpegels
+
+0,2div × Volt/div innerhalb von ±4 Divisionen von der Mitte des Bildschirms   
+
+
+
+Neigung
+
+Steigen, Fallen, Steigen und Fallen
+
+
+
+Quelle
+
+CH1/CH2
+
+
+
+Eingang
+
+
+
+Kupplung
+
+DC, AC oder GND
+
+
+
+Eingangsimpedanz, 
+
+25pF±3pF, 1MΩ±2%
+
+
+
+DC gekoppelt
+
+
+
+Sondendämpfung
+
+1X, 10X
+
+
+
+Unterstützte Sonde Dämpfungsfaktoren
+
+1X, 10X, 100X, 1000X
+
+
+
+Maximale Eingangsspannung
+
+150VRMS
+
+
+
+Messung
+
+
+
+Mauszeiger
+
+Spannungsdifferenz zwischen Mauszeiger: △V
+
+
+
+Zeitunterschied zwischen den Mauszeigern: △T
+
+
+
+Automatische Messungen
+
+Frequenz, Amplitude
+
+
+
+Arbiträrer Wellenformgenerator-Modus
+
+
+
+Wellenformfrequenz
+
+Sinus: 1Hz~25MHz
+
+
+
+Quadrat: 1Hz~10MHz
+
+
+
+Rampe: 1Hz~1MHz
+
+
+
+EXP: 1Hz~5MHz
+
+
+
+Probenahme
+
+250MSa/s
+
+
+
+Amplitude
+
+2.5Vpp (50Ω)
+
+
+
+5Vpp (hohe Impedanz)
+
+
+
+Frequenzauflösung
+
+0.001
+
+
+
+Kanal
+
+1CH Wellenformausgang
+
+
+
+Wellenformtiefe
+
+512Sa
+
+
+
+Vertikale Auflösung
+
+12 bit
+
+
+
+Frequenzstabilität
+
+<30 ppm
+
+
+
+Ausgangsimpedanz
+
+50
+
+
+
+DMM-Testmodi
+
+
+
+Maximale Auflösung
+
+4000 Counts
+
+
+
+DMM-Testmodi
+
+Spannung, Strom, Widerstand, Kapazität, Diode & Ein-Aus
+
+
+
+Maximale Eingangsspannung
+
+Wechselstrom: 600 V, Gleichstrom: 800 V
+
+
+
+Maximaler Eingangsstrom
+
+Wechselstrom: 10A, Gleichstrom: 10A
+
+
+
+Eingangsimpedanz
+
+10M
+
+
+
+Messbegriff
+
+Bereich
+
+Genauigkeit
+
+Auflösung
+
+
+
+Gleichspannung
+
+400.00mV
+
+± (0,8% + 5)
+
+100uV
+
+
+
+4.000V
+
+1mV
+
+
+
+40.00V
+
+10mV
+
+
+
+400.0V
+
+100mV
+
+
+
+600.0V
+
+± (1% + 2)
+
+1V
+
+
+
+Überlastschutz: 400mV: 250V, andere: 600Vrms.
+
+
+
+Wechselstrom Spannung
+
+4.000V
+
+± (1,2% + 5)
+
+1mV
+
+
+
+40.00V
+
+10mV
+
+
+
+400.0V
+
+100mV
+
+
+
+600.0V
+
+±(1,5 % + 5)
+
+1V
+
+
+
+Frequenz: 40Hz~400Hz;
+
+
+
+Frequenz von 400V und 600V: 40Hz~100Hz
+
+
+
+Gleichstrom
+
+40.00mA
+
+± (1% + 2)
+
+10uA
+
+
+
+200.0mA
+
+± (1,5% + 2)
+
+100uA
+
+
+
+4.000A
+
+± (1,8% + 2)
+
+1mA
+
+
+
+10.00A
+
+± (3% + 2)
+
+10mA
+
+
+
+Überspannungschutz: 
+
+
+
+selbstwiederherstellende Sicherung: 200mA/250V, 4A und 10A Bereich keine Sicherung.
+
+
+
+Wechselstrom
+
+40.00mA
+
+± (1,3% + 2)
+
+10uA
+
+
+
+400.0mA
+
+± (1,8% + 2)
+
+100uA
+
+
+
+4.000A
+
+± (2% + 3)
+
+1mA
+
+
+
+10.00A
+
+± (3% + 5)
+
+10mA
+
+
+
+Frequenz: 40Hz~400Hz;
+
+
+
+selbstwiederherstellende Sicherung: 200mA/250V, 4A und 10A Bereich keine Sicherung.
+
+
+
+Widerstand
+
+400.0Ω
+
+±(1% + 3)
+
+0.1Ω
+
+
+
+4.000KΩ
+
+±(1,2 % + 5)
+
+1Ω
+
+
+
+60.00KΩ
+
+10Ω
+
+
+
+400.0KΩ
+
+100Ω
+
+
+
+4.000M
+
+1KΩ
+
+
+
+40.00M
+
+± (1,5 % ± 3)
+
+10KΩ
+
+
+
+Überlastschutz: 220Vrms
+
+
+
+Kapazität
+
+40.00nF
+
+±(3% + 5)
+
+10pF
+
+
+
+400.0nF
+
+100pF
+
+
+
+4.000uF
+
+1nF
+
+
+
+40.00uF
+
+10nF
+
+
+
+100.0uF
+
+100nF
+
+
+
+Überlastschutz: 220Vrms
+
+
+
+Diode
+
+0V~2,0V
+
+
+
+An aus
+
+<50Ω
+
+
+
+Allgemeine Spezifikation
+
+
+
+Anzeige
+
+
+
+Anzeige Typ
+
+2,8 Zoll 64K Farbe TFT
+
+
+
+Bildschirmauflösung
+
+320 horizontale mal 240 vertikale Pixel
+
+
+
+Anzeige-Kontrast
+
+Einstellbar
+
+
+
+Energieversorgung
+
+
+
+Versorgungsspannung
+
+100V-240VAC, 50Hz-60Hz; DC-EINGANG: 5VDC, 2A
+
+
+
+Energieverbrauch
+
+<2,5W
+
+
+
+Sicherung
+
+T, 3A
+
+
+
+Batterie
+
+2600mA*2
+
+
+
+Umwelt
+
+
+
+Betriebstemperatur
+
+0~50 °C (32~122 °F)
+
+
+
+Lagertemperatur
+
+-40~+71 °C (-40~159,8 °F)
+
+
+
+Feuchtigkeit
+
+≤+104(≤+40C): ≤90% relative Luftfeuchtigkeit
+
+
+
+106°~122° (+41°C ~50°C): ≤60% relative Luftfeuchtigkeit
+
+
+
+Kühlungsmethode
+
+Konvektion
+
+
+
+Höhe
+
+Betriebs- und
+
+3.000 m (10.000 Fuß)
+
+
+
+Nicht in Betrieb
+
+
+
+Mechanischer Schock
+
+Zufällige Vibration
+
+0,31 gRMS von 50 Hz bis 500 Hz, 10 Minuten auf jeder Achse
+
+
+
+Nicht in Betrieb
+
+2,46 gRMS von 5 Hz bis 500 Hz, 10 Minuten auf jeder Achse
+
+
+
+Betriebs
+
+50g, 11ms, Halbsinus
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

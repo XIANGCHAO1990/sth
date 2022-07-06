@@ -1,0 +1,145 @@
+1228045
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/EA/44/f15bfadb-d9b8-4dfb-a64b-33d9681bb4ae.jpeg
+Mega 2560 R3 ATmega2560-16AU Carte de développement sans câble USB Geekcreit pour Arduino - produits compatibles avec les cartes Arduino officielles
+https://fr.banggood.com/Mega-2560-R3-ATmega2560-16AU-Development-Board-Without-USB-Cable-Geekcreit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1228045.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:   This is  compatible R3 Mega2560 ATmega2560-16AU control board without USB cable and unsolder Pin header.   Mega est un ATmega2560 car la carte de développement de microcontrôleur de base possède elle-même 54 groupes de bornes d'entrée / sortie numériques d'E / S  (14 groups do PWM outputs), 16 sets of simulation than the input side, group 4 UARTs (hardware serial ports),  en utilisant l'oscillateur à cristal de 16 MHz. Avec le bootloader, téléchargez le programme directement via USB sans avoir à  go through other external writer. Supply part of the optional USB power, or as an external power using the AC-to-DC adapter and battery.  Croissance rapide due à l'ouverture du code d'origine, ainsi qu'au concept d'utilisation du langage C Java (multiplateforme)  development environment for  peripheral module. The main reason attracted Artist  can quickly  utiliser le langage avec le Flash ou le logiciel de communication Traitement ..., pour créer des œuvres interactives multimédia.   development IDE interface is based on open-source principles, allows you to free download for use in project work,  enseignement scolaire, contrôle moteur, travaux interactifs.  Power supply design  Il existe deux options pour le système d'alimentation de l'alimentation directe USB Mega ou de l'alimentation externe.  The choice of power supply will be switched automatically. External supply AC-to-DC adapter or the battery can be selected  sur ce panneau de contrôle. Limitez la plage de tension de 6V ~~ 12V, mais si la tension fournie est inférieure à 6V, le port d'E / S peut ne pas être  supplied to a voltage of 5V, and therefore instability; If the voltage is greater than 12V, the regulator device may possibly  protection contre la surchauffe, sont plus susceptibles d'endommager le MEGA. Par conséquent, alimentation de fonctionnement recommandée 6,5 ~ 12V,  the recommended power supply to 7.5V or 9V.  La carte de développement a été rigoureusement testée chaque produit en usine avant de graver un petit programme Blink,  please get the goods energized inspection under the L lamp will be lit for 3 seconds and then off for 1 second,  cycle non-stop pour la détection de la carte est bonne ou mauvaise.  Its chip is  original.  Spécification:   Microcontroller: ATmega2560  Tension de fonctionnement: 5V  Input voltage (recommended): 7-12V  Tension d'entrée (limites): 6-20 V  Digital I / O pins: 54 (of which 14 provide PWM output)  Broches d'entrée analogique: 16  DC current per I / O pin: 40 mA  Courant CC pour broche 3,3 V: 50 mA  Flash Memory: 256 KB of which 4 KB used by bootloader  SRAM: 8 Ko  EEPROM: 4 KB  Vitesse d'horloge: 16 MHz  Emballage inclus:   1 x Mega 2560 R3 ATmega2560-16AU Carte de développement   
+
+
+
+

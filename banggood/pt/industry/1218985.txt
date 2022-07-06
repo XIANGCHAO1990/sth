@@ -1,0 +1,296 @@
+https://pt.banggood.com/BSIDE-ESR02PRO-Digital-Transistor-SMD-Components-Tester-Diode-Triode-Capacitance-Inductance-Meter-p-1218985.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+BSIDE ESR02PRO Digital Transistor SMD Components Tester Diode Triode Capacitance Inductance Meter
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descrição:
+
+
+O instrumento é um pequeno entusiastas eletrônicos, desenvolvedores, manutenção eletrônica e produção de plantas de pesquisa e desenvolvimento de pequenos instrumentos. Pode ser medido dispositivos em linha, mas também dispositivos de chips de teste, pode ser medido uma variedade de diodos, transistores, tubo MOS; pode determinar o tipo de dispositivo, a polaridade do pino, a saída HFE, a tensão da válvula, a capacitância de junção do FET, capacitância mensurável e resistência.
+
+
+
+
+Características:
+
+
+1. Dois operação chave, desligamento automático.
+2. Uma operação chave, teste de inicialização, uma chave para obter.
+3. Teste automaticamente os elementos dos pinos e exiba-os no LCD.
+4. Tela LCD 1602 com LCD (retroiluminação LCD 12864).
+5. Teste de velocidade, teste de ingrediente ativo: 2 segundos (além da medição de capacitância do capacitor maior também leva muito tempo, o tempo de medição é de um minuto é normal).
+6. Apenas 20na fora de corrente.
+
+
+
+
+
+
+7. Detecção automática de NPN, transistores bipolares PNP, transistores de efeito de campo MOS de canal N e canal P, tipo de junção FET, diodos, diodos, tiristores, tiristores de baixa potência unidirecional e bidirecional.
+8. Arranjo automático dos pinos do elemento de identificação.
+9. Fator de amplificação da corrente do transistor bipolar e medição da tensão do limiar base-emissor.
+10. Identifique o transistor Darlington pela tensão limite do emissor de base e o fator de amplificação de corrente alta.
+11. Transistores bipolares detectáveis e diodos de proteção de transistor MOS.
+12. Tensão limite do MOS FET do gate e medição da capacitância do gate.
+13. Dois resistores e símbolos resistores podem ser medidos simultaneamente. A direita mostra um valor decimal de 4. Os dois lados do símbolo do resistor mostram o número de pinos. Então você pode medir o potenciômetro. Se o limpador do potenciômetro não se mover para posições extremas, podemos distinguir entre o meio e as extremidades da agulha.
+14. Resolução de medição resistiva de 0,1Ω, pode medir 50MΩ.
+15. Pode medir capacitor de 325pf-100mf, resolução de 1pf.
+16. 2uf Mais capacitores podem medir a resistência série equivalente ao mesmo tempo. Dois podem ser exibidos em valores decimais com uma resolução de 0,01Ω.
+17. Dois diodos podem ser exibidos na ordem correta e o símbolo do diodo, e a tensão direta do diodo é dada.
+18. O LED é detectado como um diodo com uma tensão de avanço mais alta. A combinação de LEDs é identificada como dois diodos.
+19. A tensão de ruptura inversa inferior a 4,5 v do diodo zener pode ser identificada.
+20. Pode medir uma capacitância reversa de diodo único. Se o transistor bipolar estiver conectado ao coletor e ao emissor da base e do pino, a capacitância reversa da junção do coletor ou do emissor pode ser medida.
+21. Pode ser conectado com uma ponte retificadora de medição única.
+
+
+
+
+
+
+
+
+Especificação:
+
+
+Resistência: 0Ω-50MΩ 
+Resolução: 0,01Ω
+
+
+Capacitância: 25Pf-100mf 
+Resolução: 1pf
+
+
+Indutância: 0.01mH-20H 
+Resolução: 0,01mH
+
+
+Resolução ESR de capacidade de medição: 0,01Ω
+
+
+Bateria: bateria de 9V (não incluída)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Instruções:
+
+
+1. Pressione o "boot / test" pode ser alcançado boot e uma função de teste, vários testes podem ser repetidos por esta chave; medido após 20 segundos, nenhuma operação será desligada automaticamente.
+2. O instrumento fornece patch, plug-in e tabela externa três métodos de medição, cada maneira 1,2,3 pés são a mesma correspondência.
+3. O dispositivo não precisa distinguir entre a ordem da disciplina, a medição será concluída após a conclusão de cada pino correspondente à função do dispositivo.
+4. O instrumento impresso na parte de trás do capacitor eletrolítico correspondente à tabela de referência típica ESR, a tabela é apenas para referência, consulte os dados publicados pelos fabricantes.
+5. Calibração
+Curto para 1, 2, 3 pontos de teste, pressione o botão "boot / test", a tela pede para entrar ou não na calibração, em 2 segundos pelo botão "power on / test" para confirmar, entre na calibração.
+Após a tela solicitar a desconexão de 1, 2, 3 pontos de teste, continue após o intervalo até o final da calibração do prompt.
+
+
+
+
+
+Precauções:
+
+
+Certifique-se de descarregar o instrumento antes de testar o capacitor, caso contrário, ele poderá danificar o instrumento.
+Ao usar o adaptador, use um adaptador com uma faixa de tensão DC 9V-12V (incluindo 9V, 12V).
+O instrumento não carregará a bateria, quando a energia da bateria é inferior a 6V, por favor, substitua a bateria.
+Quando o capacitor é descarregado, ele pode ser descarregado sem energia.
+
+
+
+
+
+
+
+
+
+Incluído no pacote:
+
+
+1 x BSIDE ESR02PRO Transistor Testador Digital (bateria não está incluída)
+1 par x sonda de agulha
+1 x Manual do usuário em inglês
+
+
+
+
+Imagens de detalhes:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

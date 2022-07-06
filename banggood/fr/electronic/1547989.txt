@@ -1,0 +1,150 @@
+https://fr.banggood.com/DS3231-AT24C32-IIC-Precision-RTC-Real-Time-Clock-Memory-Module-p-1547989.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+DS3231 AT24C32 Module de mémoire d&#39;horodateur IIC Precision RTC Real
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Caractéristiques:    1. DS3231 est une horloge en temps réel (RTC) I2C à faible coût et extrêmement précise, avec un oscillateur à cristal à compensation de température (TCXO) et un cristal intégrés. L'appareil intègre une entrée de batterie, déconnecte l'alimentation principale et maintient un chronométrage précis. L'oscillateur intégré améliore la précision à long terme de l'appareil et réduit le nombre de composants de la ligne de production. Le DS3231 est disponible dans des plages de températures commerciales et industrielles, en utilisant un boîtier SO à 16 broches de 300 mil.  2. RTC conserve les informations sur les secondes, les minutes, les heures, le jour, la date, le mois et l'année. A moins de 31 jours du mois, la date de fin sera automatiquement ajustée, y compris les corrections pour les années bissextiles. L'horloge fonctionne soit au format 24 heures, soit à l'indication bande / AM / PM du format 12 heures. Fournit deux réveils configurables et un calendrier peut être réglé sur une sortie tissée carrée. L'adresse et les données sont transférées en série via un bus bidirectionnel I2C.  3. Un circuit de référence de tension et de comparaison de précision à compensation de température surveille l'état du VCC pour détecter les pannes de courant, fournir une sortie de réinitialisation et, si nécessaire, basculer automatiquement sur l'alimentation de secours. De plus, la broche / RST est surveillée comme générant une réinitialisation manuelle de μP.  4. Gain de temps et ajout de haute précision, DS3231 possède également d'autres fonctionnalités qui étendent l'hôte système de fonctionnalités supplémentaires et d'une gamme d'options. L'appareil intègre un capteur de température numérique très précis, via l'interface I2C* pour y accéder (comme en même temps). La précision de ce capteur de température est de ± 3 ° C. Le circuit de commande d'alimentation sur puce peut détecter et gérer automatiquement l'alimentation principale et de secours (c'est-à-dire la batterie basse tension) pour basculer entre l'alimentation. En cas de panne de courant, l'appareil peut continuer à fournir une synchronisation et une température précises, les performances ne sont pas affectées. Lorsque la valeur de remise sous tension ou de tension de l'alimentation principale revient dans la plage autorisée, la fonction de réinitialisation sur puce peut être utilisée pour redémarrer le microprocesseur du système.    Spécifications :    1. Taille: 38mm (longueur) * 22mm (W) * 14mm (hauteur)  2. Poids : 8 g  3. Tension de fonctionnement : 3,3 - 5,5 V  4. Puce d'horloge: puce d'horloge de haute précision DS3231  5. Précision de l'horloge : plage de 0 à 40, la précision de 2 ppm, l'erreur était d'environ 1 minute  6. Calendrier réveil avec deux  7. Sortie en tissage carré programmable  8. Real générateur d'horloge secondes, minutes, heures, jour, date, mois et année et fournir une compensation valable jusqu'à l'année 2100 pour les années bissextiles  9. Le capteur de température de la puce est livré avec une précision de ± 3  10. Puces mémoire : AT24C32 (capacité de stockage 32K)  11. Interface de bus IIC, la vitesse de transmission maximale de 400 KHz (tension de travail de 5V)  12. Peut être mis en cascade avec d'autres appareils IIC, les adresses 24C32 peuvent être court-circuitées A0/A1/A2 modifier l'adresse par défaut est 0x57  13. Avec la batterie rechargeable CR2032, pour assurer le système après une panne de courant, l'horloge bouge tout naturellement normal  14. Emballage : emballage antistatique simple    Instructions de câblage : (pour un0 r3 par exemple) :    SCL → A5  SDA → A4  VCC → 5V  GND → GND    Emballage inclus:    1 x DS3231 AT24C32 IIC Precision RTC Real Module de mémoire d'horloge (ne pas inclure la batterie) 
+
+
+
+
+
+
+
+
+
+
+

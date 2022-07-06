@@ -1,0 +1,145 @@
+1756023
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/CF/BF/114a4fc8-91cb-4ca2-b7c3-92285c8b666f.jpg
+Keyes ESP32 Scheda di espansione per lo sviluppo della scheda principale dotata di modulo WROOM-32
+https://it.banggood.com/Keyes-ESP32-Core-Board-Development-Expansion-Board-Equipped-with-WROOM-32-Module-p-1756023.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduzione:Consiste di una scheda di espansione ESP32-IO keyes e di una scheda ESP32 Core keyesLa composizione della scheda di sviluppo, quando si utilizza, deve solo immettere la tensione CC 7-12 V sulla testa CC nera, quindiPuò fornire alimentazione alla scheda centrale keyes ESP32. Inoltre, la scheda di espansione viene fornita con 1 prefissoInterruttore, utilizzato per controllare l'interruttore di alimentazione. Gli sviluppatori possono collegare le periferiche in base alle loro esigenze. RendereQuando si utilizza la scheda di sviluppo per lo sviluppo e il debug, le intestazioni standard su entrambi i lati possono semplificare l'operazionePulito e conveniente.Il modulo ESP-WROOM-32 è la soluzione WiH + Bluetooth integrata leader del settore,Meno di 10 componenti esterni, integra commutatore d'antenna, balun a radiofrequenza, amplificatore di potenzaConvertitori, amplificatori a basso rumore, filtri e moduli di gestione dell'alimentazione. Allo stesso tempo, si integra ancheTecnologia TSMC a bassa potenza da 40 nm, prestazioni di potenza e prestazioni in radiofrequenza, sicure e affidabili, facili da espandereEspandere a varie applicazioni.Caratteristica:Microcontrollore: modulo ESP-WROOM-32Chip da USB a porta seriale: CP2102-GMRTensione di alimentazione: DC 7-12 V.Corrente di lavoro: 60mAPotenza massima: 0,3 W.Temperatura di lavoro: da -25 ° C a + 65 ° CModalità WiFi: Station / SoftAP / SoftAP + Station / P2PProtocollo WiFi: 802.11 b / g / n / e / i (802.11n, velocità fino a 150 MbpsGamma di frequenza WiFi: 2,4 GHz ~ 2,5 GHzProtocollo Bluetooth: conforme agli standard Bluetooth V4.2BR / EDR e BLEDimensioni: 67 * 50 * 19 mmPeso: 32,8 gLa confezione include:1 x scheda di espansione
+
+
+
+

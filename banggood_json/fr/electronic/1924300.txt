@@ -1,0 +1,145 @@
+1924300
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/AB/1C/c2b109e9-b0f2-4931-94a9-3ede8b3ba2bf.jpg
+Carte de développement ESP32 CAM avec récepteur de module de caméra OV2640 WIFI + Kit de module Bluetooth numérique
+https://fr.banggood.com/ESP32-CAM-Development-Board-with-OV2640-Camera-Module-Receiver-WIFI+Digital-Bluetooth-Module-Kit-p-1924300.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caractéristiques:Utilisez un processeur 32 bits bicœur à faible consommation, qui peut être utilisé comme processeur d'application.La fréquence principale est jusqu'à 240 MHz et la puissance de calcul jusqu'à 600 DMIPSSRAM 520 Ko intégrée, PSRAM externe 8 MoPrise en charge UART / SPI / I2C/PWM / ADC / DAC et d'autres interfacesPrise en charge des caméras OV2640 et OV7670, flash intégréImage de soutien Téléchargement WiFIPrise en charge de la carte TFPrend en charge plusieurs modes de sommeil.Lwip et FreeRTOS intégrésPrise en charge du mode de fonctionnement STA/AP/STA+APPrise en charge de la configuration réseau en un clic Smart Config / AirKissSoutenir le développement secondaireCaractéristiques:Tension de fonctionnement 4,75-5,25 VSPIFlash par défaut 32MbitRAM interne 520 Ko + PSRAM externe 8 MoWi-Fi 802.11b / g / n / e / iBluetooth Bluetooth 4.2BR / EDR et norme BLEInterface de support (2 Mbps) UART, SPI, I2C, PWMPrise en charge de la carte TF, prise en charge maximale 4GPort IO 9Débit du port série par défaut 115200 bpsGamme de spectre 2400 ~ 2483,5 MHzAntenne antenne PCB embarquée, gain 2dBiFormat de sortie d'image: JPEG (uniquement compatible OV2640), BMP, GRAYSCALEMéthode d'emballage DIP-16Puissance d'émission 802.11b: 17 ± 2dBm (@ 11Mbps)802.11g: 14 ± 2 dBm (à 54 Mbps)802.11n: 13 ± 2 dBm (à MCS7)Réception de la sensibilité CCK, 1 Mbps: -90dBmCCK, 11Mbps : -85dBm6 Mbps (1 / 2BPSK): -88dBm54 Mbps (3/464-QAM): -70 dBmMCS7 (65 Mbps, 72,2 Mbps): -67 dBmConsommation électrique Éteignez le flash : 180 mA à 5 VAllumez le flash et réglez la luminosité au maximum : 310mA@5VSommeil profond : la consommation d'énergie la plus faible peut atteindre 6 mA à 5 VModerm-sleep : le plus bas peut atteindre 20mA@5VSommeil léger : le plus bas peut atteindre 6.7mA@5VSécurité WPA / WPA2 / WPA2-Enterprise / WPSTempérature de fonctionnement -20 ℃ ~ 70 ℃Environnement de stockage -40 ℃ ~ 125 ℃, <90% HRTaille de la planche : 2,72 x 3,980 CMPoids: 13 grammesApplication:Transmission d'image des appareils intelligents à domicileSurveillance sans filAgriculture intelligenteReconnaissance sans fil QRSignal du système de positionnement sans filEt d'autres applications IoTEmballage inclus:1 x SP32-CAM avec module de téléchargement Bluetooth1 module caméra OV2640
+
+
+
+

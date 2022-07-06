@@ -1,0 +1,187 @@
+1336979
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/04/2B/26e8f7bb-c90c-42d0-8c4f-9a6e6d67571d.JPG
+ELM327フォードMS-CAN HS-CANマツダフォルスカン用USB修正OBD2車診断スキャナ
+https://jp.banggood.com/ELM327-USB-Modified-OBD2-Car-Diagnostic-Scanner-For-Ford-MS-CAN-HS-CAN-Mazda-Forscan-p-1336979.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+互換性
+このパーツがあなたの車両に合っていることを確認し、車両の詳細を下に記入してください。
+
+
+
+
+
+年:
+
+
+選択
+
+
+
+
+
+
+
+
+メイク:
+
+
+選択
+
+
+
+
+
+
+
+
+モデル:
+
+
+選択
+
+
+
+
+
+
+
+
+サブモデル:
+
+
+選択
+
+
+
+
+
+
+
+
+トリム:
+
+
+選択
+
+
+
+
+
+
+
+
+エンジン:
+
+
+選択
+
+
+
+
+
+
+
+
+全てをクリア
+
+
+
+
+に適用します。 0 車両.
+すべての互換車両を表示する
+
+
+
+
+  に適用します。 1 車両 マッチング 
+ この部分は互換性がありません
+
+
+
+最近の検索
+
+
+
+
+
+
+
+
+
+
+
+年
+メイク
+モデル
+サブモデル
+トリム
+エンジン
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+説明:
+1.コーディング。
+2.ライブデータ。
+3.適応。
+4.アクチュエータの試験。
+プログラミング。
+インジェクタコーディング。
+7.ソフトウェアの更新。
+8.サービス手順。
+DPF再生を強制する。
+10.車の構成を読んでください。
+11. HS-CANおよびMS-CANモードの両方でモジュールにアクセスします。
+12. OBD2 / EOBDを含むすべてのモジュールからフォルトコードを読み取り/消去します。
+
+特徴：
+カラー：ブラック
+サイズ：8.8x2.5x4.6cm
+
+サポートされているモジュール:
+GEM IPC DDM PDM RDDM RPDM AHCM PAM ACU SRM KVM IPMA SODL SODR
+BCM TCM PCM ABS HEC EHPAS CCM P HCM RCM SASM FACM
+ACM SRM SDDJ
+
+サポートされているWindows OS：
+Win7、XP、VistaおよびWindows 2000（32ビットおよび64ビットの両方のOS）
+サポートされているプロトコルは次のとおりです。
+  ISO15765-4（CAN）
+  ISO14230-4
+  ISO9141-2
+  J1850 VPW（GM車）
+
+サポートされるソフトウェア：
+ELMconfig
+FoCCCus
+フォースキャン
+ほとんどのタイプのOBD2 / EOBDソフトウェア
+
+CDファイルリンク：
+http://myosuploads3.banggood.com/products/20200106/20200106234232AppleMACInstallGudie.pdf
+
+パッケージは以下を含みます：
+1 X USB Modified ELM327スキャナツール
+
+
+
+
+

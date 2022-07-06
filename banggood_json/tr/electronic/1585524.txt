@@ -1,0 +1,263 @@
+1585524
+https://imgaz.staticbg.com/thumb/large/oaupload/ser1/banggood/images/5C/1D/b39ce39c-46f9-40eb-907f-f4dd85dbf682.jpg
+ZK-4KX CNC DC DC Buck Boost Dönüştürücü CC CV 0.5-30V 4A Güç Modülü Solar Batarya Şarj için Ayarlanabilir Düzenlenmiş Güç Kaynağı
+https://tr.banggood.com/ZK-4KX-CNC-DC-DC-Buck-Boost-Converter-CC-CV-0_5-30V-4A-Power-Module-Adjustable-Regulated-Power-Supply-for-Solar-Battery-Charging-p-1585524.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Özellikleri:
+
+
+
+1. LCD giriş/çıkış voltajını, çıkış akımını/çıkış gücünü/çıkış kapasitesini/çıkış süresini görüntüleyebilir;
+
+2. CNC ayarı, doğru ve hızlı, voltajı artırabilir ve azaltabilir, çıkış voltajı 0,5-30v arasında ayarlanabilir, limit akımı 0-4a isteğe göre ayarlanabilir;
+
+3. Yanmayacak olan giriş ucunun anti-ters bağlantı koruması;
+
+4. Çıkış ucunda anti-ters sulama, aküyü şarj etmek için ek bir anti-ters sulama diyotuna gerek yoktur;
+
+5. Modül, varsayılan olarak açık/kapalı olarak ayarlanabilir;
+
+6. Çoklu yazılım koruma mekanizmaları mevcuttur ve koruma eşiği ayarlanabilir. Modülün çalışma parametreleri koruma eşiğini aştığında, çıkış otomatik olarak kapatılacaktır.
+
+7. Çıkış dalgalanması küçüktür ve PI filtresi mevcuttur;
+
+8. Radyatör kanatçıklarını kalınlaştırın.
+
+
+
+Özellikler:
+
+
+
+Giriş voltajı: 5.0-30v
+
+Çıkış voltajı: 0.5-30v
+
+Çıkış akımı: 3A'de uzun süre kararlı bir şekilde çalışabilir ve gelişmiş ısı dağılımı altında 4A'ya ulaşabilir
+
+Çıkış gücü: doğal ısı dağılımı 35W, ısı dağılımını güçlendirin 50W
+
+Voltaj ekran çözünürlüğü: 0.01V
+
+Mevcut ekran çözünürlüğü: 0.001A
+
+Dönüşüm verimliliği: yaklaşık %88
+
+Soft başlangıç: evet (yüksek güç ve yük modülü ile başlatırken arızalanabilir)
+
+Koruma mekanizması:
+
+Giriş anti-ters bağlantı;
+
+Çıkış anti-ters sulama;
+
+Giriş düşük voltaj koruması (4.8-30V ayarlanabilir, varsayılan 4.8v)
+
+Çıkış aşırı gerilim koruması (0,5-31V ayarlanabilir, varsayılan 31V)
+
+Çıkış aşırı akım koruması 0-4.1a (ayarlanabilir, varsayılan 4.1a)
+
+Aşırı güç koruması (0-50w ayarlanabilir, varsayılan 50W)
+
+Aşırı sıcaklık koruması (80-110℃ ayarlanabilir, varsayılan 110℃)
+
+Zaman aşımı koruması (0-100h ayarlanabilir, varsayılan olarak kapalı)
+
+Süper kapasite koruması (0-60ah ayarlanabilir, varsayılan olarak kapalı)
+
+Çalışma frekansı: 180KHZ 
+
+Boyutlar: 79mmx43mmx26mm
+
+
+
+Kullanım metodu:
+
+
+
+1. Ekran parametrelerini değiştirin -- normal arayüzde, ekranın altındaki ekranı değiştirmek için SW'ye basın ve ekran içeriğini mevcut A gücü W kapasitesi Ah zaman h arasında değiştirin. Ekrandaki uplink ekranını değiştirmek için SW düğmesine uzun basın ekranı ve ekran içeriğini giriş voltajı IN çıkış voltajı OUT arasında değiştirin.
+
+2. Çıkış voltajını ayarlayın - voltaj sabit akımı ayarlama arayüzüne girmek için normal arayüzde U/I düğmesine basın. Çıkış voltajı değerinin belirli bir basamağının yanıp söndüğü görülebilir. Ana ve küçük değerleri ayarlamak için kodlayıcıyı sola ve sağa çevirin. Hangi bit çıkış voltajının ayarlanacağını seçmek için döner kodlayıcıya kısa basın. Ayardan sonra, normal arayüze dönmek için U/I düğmesine 2 kez basın. Veya otomatik olarak 10s için çalışmayı durdurduktan sonra normal arayüz.
+
+3. Sabit akım değerini ayarlayın (yani, modül tarafından çıkışına izin verilen maksimum akım değeri) -- ayar voltajı sabit akım arayüzüne girmek için normal arayüzde U/I düğmesine basın. Ardından U/I düğmesine basın ve sabit akım değerini ayarlama. Sabit akım değerinin bir kısmının yanıp söndüğünü görebilirsiniz. Ana ve küçük değerleri ayarlamak için döner kodlayıcıyı sola ve sağa çevirin. Sabit akım değerini ayarlamak için hangi biti seçmek için döner kodlayıcıya kısa basın. Ayardan sonra, ayar voltajı sabit akım arayüzünden çıkmak ve normale dönmek için U/I'ye basın veya 10s için işlemi durdurduktan sonra otomatik olarak normal arayüze dönün.
+
+4. Modül açılışının varsayılan açık/kapalı durumunu ayarlayın - parametre ayar arayüzüne girmek için normal arayüzde U/I'ye uzun basın. "AÇIK KAPALI" veya "AÇIK AÇIK" gösterdiğini görebilirsiniz. "AÇIK KAPALI", güç AÇIK olduğunda çıkışın varsayılan olarak KAPALI olduğu anlamına gelir ve "AÇIK AÇIK", güç AÇIK olduğunda çıkışın varsayılan olarak AÇIK olduğu anlamına gelir. İki durumu değiştirmek için kodlayıcıyı uzun basın. Ayarladıktan sonra, U'ya uzun basın /I Normal arayüze dönmek için.
+
+5. Durum ve eşik üzerinde koruma parametrelerinin ayarlanması -- normal arayüzde parametre ayar arayüzüne girmek için U/I'ye uzun basın. İstediğiniz koruma görünene kadar SW'ye basın. LUP -- düşük voltaj koruma eşiği; OUP -- aşırı voltaj koruma eşiği ;OCP -- aşırı akım koruma eşiği; OPP -- aşırı güç koruma eşiği; OAP -- ultra-kapasite koruma eşiği; OHP zaman aşımı koruma eşiği; OTP -- aşırı sıcaklık koruma eşiği. Hangi biti ayarlamak istediğinizi seçmek için kodlayıcıya kısa basın koruma parametresi. Koruma parametrelerini açmak veya kapatmak için döner kodlayıcıya uzun basın (yalnızca zaman aşımı koruması ve süper kapasite koruması açılıp/kapanacak şekilde ayarlanabilir ve diğer koruma parametreleri varsayılan olarak açıktır.). Kodlayıcıyı sola ve sağa döndürün parametreleri daha büyük ve daha küçük yapmak için. Ayardan sonra, normal arayüze dönmek için U/I'ye uzun basın.
+
+6. Kalibrasyon voltajı ve akımı -- normal arayüz altında parametre ayar arayüzüne girmek için U/I düğmesine basın. CAL ile bir parametre arayüzü görünene kadar SW'ye basın. CAL+IN+V sembolü ile kalibrasyon giriş voltajı arayüzü; Kalibrasyon çıkışı CAL+OUT+V sembollü voltaj arayüzü; CAL+OUT+A sembollü kalibrasyon çıkış akımı arayüzü. Numara parametreleri ayarlamak için kodlayıcıyı sola ve sağa döndürün. Ayar tamamlandıktan sonra, döner kodlayıcıya uzun basın ayarın tamamlandığını ve parametre değerinin artık yanıp sönmediğini onaylayın. Normal arayüze dönmek için U/I'ye uzun basın. 
+
+Not: Kalibrasyonun doğruluğunu sağlamak için, kalibrasyon voltajı - 12V'un üzerinde yalnızca başlatılabilir; Kalibrasyon akımı - kalibrasyonu yalnızca akım 1A'nın üzerinde olduğunda başlatın.
+
+
+
+İpuçları:
+
+
+
+1. Modülün giriş IN çıkışı OUT arasında kısa bağlantı yasaktır veya sabit akım işlevi başarısız olur.
+
+2. Lütfen güç kaynağının güç momentinin, çıkış yükünün gerekli gücünü aştığından emin olun!
+
+3. Modül tam yükte çıkış yapmak istiyorsa giriş voltajı 8V'un üzerinde olmalıdır. Giriş voltajı 5V olduğunda, çıkış gücü yaklaşık 15W'dir. Maksimum modül akım değeri 4A'dır, 17V gibi maksimum çıkış gücüne bağlı olarak akım 2A'dan büyük olmamalıdır.
+
+4. Bu modül 3A ve 35W üzerinde kullanıldığında, lütfen ısı dağılımını güçlendirin!!!
+
+5. Modül, varsayılan olarak yaklaşık 4.8v olan giriş düşük voltaj koruma fonksiyonuna sahiptir (ayarlanabilir) ve değer bu değerden daha düşük olduktan sonra çıkış otomatik olarak kesilir (modül portundaki voltajın daha düşük olduğunu unutmayın) düşük voltaj koruma eşiğinden daha yüksek ve giriş akımı nispeten büyük olduğunda, giriş kablosundaki kısmi voltajı göz ardı etmeyin).
+
+
+
+Paket içeriği:
+
+
+
+1 x ZK-4KX CNC DC DC Buck Boost Dönüştürücü CC CV 0.5-30V 4A Güç Modülü
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,282 @@
+1399444
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/4B/E6/f5727647-729b-4a3e-a26d-8e4188370a4c.jpg
+24V / 36V48V / 60V 250W / 350W LCD Motor Sin escobillas Controlador Batería Velocidad para MTB E-Bike Scooter
+https://es.banggood.com/24V36V48V60V-250W350W-LCD-Brushless-Motor-Controller-Battery-Speed-For-MTB-E-Bike-Scooter-p-1399444.html?cur_warehouse=HK&ID=517271520454&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Descripción:
+		Controlador de modo dual 6 mosfet para batería de litio
+
+		Voltaje de trabajo nominal: 24v / 36v / 48v / 60v
+
+		Potencia disponible: 250W / 350W
+
+		Corriente máxima disponible: 10A-20A (configuración predeterminada 13a)
+
+		Punto de protección de subtensión de voltaje Batería: 19v / 30v / 41v / 52v
+
+		Ajuste para el ángulo de fase del motor: 60 grados / 120 grados (aprendizaje automático)
+
+
+
+Característica del controlador:
+
+		1. Indentifique automáticamente la fase y el ángulo del motor. 
+		Puedes aprender con el cable de depuración. Método de operación: conectar el cable de alimentación, el cable del interruptor principal, el cable del motor,
+		El motor comenzará a funcionar. Cable de pasillo, cable de manillar, cable de aprendizaje, interruptor de encendido y bloqueo de bicicleta. 
+		Si la dirección de giro es correcta, corte el cable de aprendizaje. El aprendizaje está terminado.
+		Si la dirección es opuesta, corte el cable de aprendizaje, el motor cambiará la dirección automáticamente,
+		trabaje 2-3 segundos, corte el cable de aprendizaje, el aprendizaje ha finalizado (¡atención, por favor! corte el cable de aprendizaje después de aprender)
+
+
+		2. Modo dual (cuando el motor hall funciona normalmente, el controlador funciona con el modo hall). 
+		Cuando el motor está dañado, el controlador puede probarlo de manera inteligente y cambiar al modo sin pasillo y seguir trabajando.
+		(El otro controlador si no es modo doble, no puede funcionar si el motor está dañado)
+
+
+		3. puede controlar y combinar con otras partes eléctricas
+
+		como puede coincidir con el sensor externo de prueba de velocidad, de modo que la pantalla pueda indicar la velocidad 
+		Incluso cuando la bicicleta está en deslizamiento. puede coincidir con el sensor de freno, puede coincidir con el trabajo de la palanca de cambios a la izquierda como ebs brake y así sucesivamente.
+
+
+		4. Cuando el voltaje de la batería no es suficiente, el controlador bajará la corriente automáticamente, lo que protegerá su batería para una vida más larga.
+
+	Función del controlador:
+
+	1. 1: 1 PAS potencia
+
+	2. freno y corte de energía
+
+	3. Conectar con pantalla LCD
+
+	4. conectar el acelerador
+
+	5. puerto de alimentación de luz y bocina
+
+	6. autoaprendizaje
+
+	7. Pasillo de freno lineal ebs.
+
+	8. crucero
+
+	9. 6 km / h de impulso
+
+
+
+	LCD Pantalla
+
+	1. indica el nivel de la batería, 6 rejillas están llenas, si la batería está baja, brillará   
+
+	2. Indique la velocidad, la unidad de configuración predeterminada es km / h
+
+	3. indicar engranajes
+
+	4. Indique un solo viaje, DIS, el icono ubicado en la parte inferior izquierda, presione el botón de encendido para cambiar a esta interfaz,
+	significa toda la distancia que la bicicleta corre desde la máquina abierta hasta la máquina apagada,
+
+	5. ODO-presione el botón de encendido puede cambiar a esta interfaz
+
+	6. Código de error: presione el botón de encendido para cambiar a esta interfaz
+
+	002 - error de freno 
+
+	Error del sensor 003-pas
+
+	004-aumento de 6 km / h modo de crucero
+
+	005-modo de crucero oportuno
+
+	006 nivel de bateria bajo
+
+	007-error de motor
+
+	008 error de aceleración
+
+	009 error de controlador
+
+	010-comunicación recibe error
+
+	011- error de envío de comunicación
+
+	Error de comunicación 012-DMS
+	Error 013-frontlight
+
+	7. Ajuste de engranajes - presione brevemente el botón hacia arriba y hacia abajo para ajustar los engranajes, agregue o reduzca uno,
+	Mantenga presionado el botón arriba y abajo al mismo tiempo para configurar la interfaz, 
+	pulsando brevemente el botón de encendido puede cambiar el elemento de datos, pulse brevemente los botones arriba y abajo para ajustar los datos, 
+	Mantener presionado el botón arriba y abajo puede almacenar y salir de la interfaz de datos
+
+
+Mueble:
+
+		1.  Fit for different battery: lead-acid, Li-Fe battery, LNCMO battery  {Li(NiCoMn)O2}, and so on. 
+		Para diferentes materiales hay diferentes puntos de protección de bajo voltaje.
+
+		2. Ajuste para motor de engranajes sin escobillas de CC inferior a 350 vatios, motor sin engranajes, motor de alta velocidad y así sucesivamente.
+
+
+
+Paquete incluido:
+
+	Controlador 1 X motor
+	1 X LCD Pantalla Instrumento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

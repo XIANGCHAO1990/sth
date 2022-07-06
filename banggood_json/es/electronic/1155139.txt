@@ -1,0 +1,201 @@
+1155139
+https://imgaz.staticbg.com/thumb/large/oaupload/banggood/images/C5/05/dc90dcb4-a2df-4f7f-ba9e-81cdf2a0944b.jpg
+DIY L298N 2WD Robot Moteur Robot Coche de Seguimiento Ultrasónico para Arduino
+https://es.banggood.com/Geekcreit-DIY-L298N-2WD-Ultrasonic-Smart-Tracking-Moteur-Robot-Car-Kit-for-Arduino-products-that-work-with-official-Arduino-boards-p-1155139.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características:
+
+1. La estructura mecánica simple, instalación es muy fácil.
+2. Con módulo de control L298N, cuatro módulos de control y 51 unidades de control.
+3. Suministrado con un interruptor, fácil arranque-parada, sistema entero es altamente integrado.
+4. Cuatro baterías en una caja, conveniente para el sistema de energía entero.
+
+Paquete incluído:
+
+1 x Kit de robot coche de seguimiento 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ultrasonic module circuit diagram
+
+
+L298N_Motor Drive Module
+
+
+
+,,
+
+
+

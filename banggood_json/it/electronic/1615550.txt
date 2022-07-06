@@ -1,0 +1,225 @@
+1615550
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/47/8F/c32e4bec-2427-4529-8f6a-8fe475e9975c.jpg
+PM1.0 PM2.5 PM10 Modulo di Meaturing Tester del sensore di polvere per la qualità dell'aria Supporto per il monitoraggio dei dati di esportazione Home Office Car Strumenti
+https://it.banggood.com/PM1_0-PM2_5-PM10-Meaturing-Module-Air-Quality-Dust-Sensor-Tester-Support-Export-Data-Monitoring-Home-Office-Car-Tools-p-1615550.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nota: questa versione può trasferire dati su PC tramite il software del computer host
+
+No la funzione di trasmissione dati clicca qui:ID: 1588436
+
+
+Click to download: il software del computer host
+ Istruzioni per l'uso:Fare clic per aprire
+
+Specifiche:
+
+
+
+Materiale: custodia in acrilico + componenti elettronici
+
+Dimensioni: ca. 8,5x6,5x3,7 cm/ 3,35x2,56x1,46"
+
+Processore: per chip ARM a 32 bit
+
+Colore del carattere: Multi colori
+
+Schermo: 2,8" TFT (2 display diversi)
+
+Rapporto di risoluzione: 320x240
+
+Alimentazione: DC 5V
+
+Corrente di funzionamento: 1-2A
+
+Intervallo di misurazione della temperatura: da -20 a 60 ℃
+
+Precisione: ±0,1 ℃
+
+Versione in lingua: inglese
+
+
+
+Principio di funzionamento:
+
+
+
+Multi-angolo Laser Scattering Detection, irradiazione laser nel particolato sospeso nell'aria e generazione di scattering. La luce diffusa verrà raccolta contemporaneamente in un'angolazione specificata. A seconda dell'intensità di scattering, attraverso il sensore è possibile ottenere curve variabili nel tempo. Essendo elaborati dal processore del microcomputer, è possibile ottenere diametri di particelle equivalenti e il numero di particolato sospeso con dimensioni diverse per unità di volume.
+
+
+
+Caratteristiche:
+
+
+
+- La trasmissione dei dati può essere completata tramite il software del computer host
+
+- Custodia trasparente in acrilico, alta trasmittanza da guardare
+
+- Costruito per processore ARM a 32 bit, rilevamento accurato e fluidità del sistema
+
+- Schermo TFT da 2,8", display a colori, visione grandangolare fino a 180°
+
+- Il sensore ad alta sensibilità garantisce l'elevata precisione nella raccolta dei dati
+
+- Il design semi-chiudente offre prestazioni eccellenti in termini di radiazione di calore, uso a lunga durata
+
+- Rilevamento multiuso della qualità dell'aria in PM1.0, PM2.5, PM10.0, AQI, temperatura e umidità, particolato sospeso
+
+- I risultati del rilevamento in tempo reale verranno visualizzati sullo schermo nei colori corrispondenti ai dati raccolti
+
+- Leggero, facile da usare e immediato nell'interpretazione dei dati
+
+- alimentatore in DC 5V universale, presa usb, caricabatteria per auto, power bank, ecc
+
+- Adatto per la casa/l'ufficio e l'auto o parte della portata sul rilevamento della qualità dell'aria  Cosa sono PM10, PM2.5 e PM1.0?Oltre all'inquinamento gassoso, l'aria circostante può anche essere inquinata da particelle. Queste particelle (in sospensione, liquide o solide) di diversa composizione e dimensione sono talvolta chiamate "aerosol". Di solito sono classificati come "materia sospesa" e sono spesso indicati come PM (abbreviazione di "Particulate Matter" in inglese).Il tessuto galleggiante è generalmente classificato secondo il "diametro aerodinamico". Il diametro aerodinamico di una particella di polvere è il diametro di una particella sferica e il diametro della particella sferica mostra lo stesso comportamento della particella di polvere nell'aria ambiente (non avendo necessariamente una forma sferica). Nel contesto delle questioni relative alla qualità dell'aria, il particolato è particolarmente importante.Le particelle fini come PM10, PM2,5 e PM1 sono definite come parti con diametri aerodinamici inferiori a 10, 2,5 e 1 µm (informazioni: 1 µm = parti per milione) metri o millesimi di millimetro). Per confronto, il diametro medio dei capelli umani è di 50-70 µm.Qual è la differenza tra PM10, PM2.5 e PM1.0?PM1: PM1 è molto più fine di PM2.5. La principale fonte di PM1 è principalmente la produzione giornaliera di energia, la produzione industriale, l'inquinamento ambientale interno, ecc., Che è difficile da giudicare ad occhio nudo. Il PM1 deriva principalmente dalla combustione di combustibili fossili, come carbone e COV.PM2.5: PM2.5 ha una piccola dimensione delle particelle, un'ampia area e una forte attività. È facile attaccare sostanze tossiche e pericolose (ad esempio metalli pesanti, microrganismi, ecc.) e ha un lungo tempo di permanenza nell'atmosfera e una lunga distanza di trasporto. La salute umana e la qualità dell'ambiente atmosferico hanno un impatto maggiore. PM2.5 è principalmente smog e polvere delle strade nella vita quotidiana.PM10: PM10, noto anche come particolato respirabile, si riferisce al particolato con un diametro aerodinamico equivalente di ≤10 micron. Solitamente proviene da veicoli a motore che percorrono strade sterrate in asfalto e cemento, frantumazione e macinazione di materiali e polvere sollevata dal vento.
+
+
+
+Il pacchetto include:
+
+
+
+1 x PM2.5 Modulo di macerazione della qualità dell'aria
+
+1 cavo USB
+
+
+
+
+

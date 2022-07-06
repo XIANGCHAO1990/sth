@@ -1,0 +1,433 @@
+https://pt.banggood.com/ESP32-CAM-WiFi-+-bluetooth-Development-Board-ESP32-with-FT232RL-FTDI-USB-to-TTL-Serial-Converter-40-Pin-Jumper-p-1605463.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+ESP32-CAM WiFi + bluetooth Development Board ESP32 with FT232RL FTDI USB to TTL Serial Converter 40 Pin Jumper
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Módulo ESP32-CAM sem fio]
+
+		Descrição:
+
+
+
+
+			1. ESP32-CAM é uma placa de desenvolvimento de modo dual WIFI + Bluetooth que usa antenas PCB on-board e núcleos baseados em chips ESP32. Ele pode funcionar de forma independente como um sistema mínimo.
+
+			2. ESP integra WiFi, Bluetooth tradicional e BLE Beacon, com 2 CPUs LX6 de 32 bits de alto desempenho, arquitetura de pipeline de 7 estágios, faixa de ajuste de frequência principal de 80 MHz a 240 MHz, sensor on-chip, sensor Hall, sensor de temperatura, etc.
+
+			3. Totalmente compatível com os padrões WiFi 802.11b / g / n / e / i e Bluetooth 4.2, pode ser usado como um modo mestre para construir um controlador de rede independente ou como um escravo para outros MCUs host para adicionar recursos de rede aos existentes dispositivos.
+
+			4. ESP32-CAM pode ser amplamente utilizado em várias aplicações de IoT. É adequado para dispositivos domésticos inteligentes, controle sem fio industrial, monitoramento sem fio, identificação sem fio QR, sinais de sistema de posicionamento sem fio e outras aplicações IoT. É uma solução ideal para aplicações IoT. 
+
+
+Recursos:
+
+
+
+- Módulo de SoC 802.11b / g / n ultrapequeno + BT / BLE SoC
+
+- CPU dual-core de 32 bits de baixo consumo para processadores de aplicativos
+
+- Até 240 MHz, até 600 DMIPS
+
+- SRAM de 520 KB integrado, PSRAM 4M externo
+
+- Suporta interfaces como UART / SPI / I2C/PWM / ADC / DAC
+
+- Suporta câmeras OV2640 e OV7670 com flash embutido
+
+- Suporte para upload de imagens por WiFI
+
+-Suporte cartão TF
+
+- Suporta vários modos de hibernação
+
+- Lwip e FreeRTOS incorporados
+
+- Suporte ao modo de trabalho STA / AP / STA + AP
+
+- Suporte à rede de distribuição Smart Config / AirKiss One-click
+
+- Suporte para atualização local serial e atualização remota de firmware (FOTA)
+	- Apoiar o desenvolvimento secundário
+
+
+
+Observação:
+
+
+
+Este produto contém o Módulo de Câmera OV2640. Se você precisar usar a câmera OV7670, adquira-a separadamente.
+
+
+Especificações do produto:
+
+
+
+
+					Modelo de módulo
+
+					ESP32-CAM
+
+
+
+					Pacote
+
+					DIP-16
+
+
+
+					Tamanho
+
+					27 * 40,5 * 4,5 (± 0,2) mm
+
+
+
+					SPI Flash
+
+					32Mbit padrão
+
+
+
+					RAM
+
+					interno520 KB + PSRAM 4M externo
+
+
+
+					Bluetooth
+
+					padrões Bluetooth4.2BR / EDR e BLE
+
+
+
+					Wi-fi
+
+					802.11 b / g / n / e / i
+
+
+
+					Interface de suporte
+
+					UART, SPI, I2C, PWM
+
+
+
+					Suporte cartão TF
+
+					Suporte máximo 4G
+
+
+
+					Porta IO
+
+					9
+
+
+
+					Taxa de porta serial
+
+					padrão 115200 bps
+
+
+
+					Formato de saída de imagem
+
+					JPEG (compatível apenas com OV2640), BMP, GRAYSCALE
+
+
+
+					Faixa de espectro
+
+					2412 ~ 2484 MHz
+
+
+
+					Forma de antena
+
+					antena PCB integrada, ganho 2dBi
+
+
+
+					Potência de transmissão
+
+					802.11b: 17 ± 2 dBm (@ 11Mbps)
+					802.11g: 14 ± 2 dBm (@ 54Mbps)
+					802.11n: 13 ± 2 dBm (@ MCS7)
+
+
+
+					Sensibilidade de recepção
+
+					CCK, 1 Mbps: -90dBm
+					CCK, 11 Mbps: -85dBm
+					6 Mbps (1/2 BPSK): -88dBm
+					54 Mbps (3/4 64-QAM): -70dBm
+					MCS7 (65 Mbps, 72,2 Mbps): -67dBm
+
+
+
+					Consumo de energia
+
+					Desligue o flash: 180mA @ 5V
+					Ligue o flash e ajuste o brilho para o máximo: 310mA @ 5V
+					Sono profundo: O menor consumo de energia pode chegar a 6mA @ 5V
+					Sono moderado: até 20mA @ 5V
+					Suspensão leve: até 6,7mA@5V
+
+
+
+					Segurança
+
+					WPA / WPA2 / WPA2-Enterprise / WPS
+
+
+
+					Alcance da fonte de alimentação
+
+					5V
+
+
+
+					Temperatura de operação
+
+					-20 ° C ~ 85 ° C
+
+
+
+					Ambiente de armazenamento
+
+					-40 ° C ~ 90 ° C, <90% UR
+
+
+
+
+Taxa de formato de saída de imagem ESP32-CAM:
+
+
+
+
+
+
+					QQVGA
+
+					QVGA
+
+					VGA
+
+					SVGA
+
+
+
+					JPEG
+
+					6
+
+					7
+
+					7
+
+					8
+
+
+
+					BMP
+
+					9
+
+					9
+
+					-
+
+					-
+
+
+
+					GRAYSCALE
+
+					9
+
+					8
+
+					-
+
+					-
+
+
+
+	Ambiente de teste: modelo da câmera: OV2640 XCLK: 20MHz, o módulo transmite imagens para o navegador do computador por wi-fi.
+
+For more Arquivos, please click here: Arquivo
+
+
+[Módulo FT232RL]
+
+
+
+		O adaptador serial USB FTDI vem com o chip FT232RL e usa voltagem operacional de 3,3 V e 5V. O nível lógico do adaptador pode ser definido por meio de jumpers na placa, o que simplifica a conexão ao controlador. A alimentação USB tem proteção contra sobrecarga de corrente, usando o fusível de auto-restauração 500MA. Você pode usar os módulos neste kit para gravar o programa diretamente, sem compra adicional.
+
+
+
+[Mulher para Mulher Dupont Jumper Fios]
+
+
+
+		Os fios Jumper são feitos de material de fio de cobre de alta qualidade para uso seguro e durável. Este conjunto contém 20cm 40 pinos macho a macho Jumper, com os quais você pode completar o projeto com mais facilidade.
+
+
+
+Incluído no Pacote:
+
+
+
+1 x Módulo ESP32-CAM
+
+1 x módulo de câmera OV2640 2MP
+		1 x Módulo FT232RL
+1 x Mulher para Mulher Dupont Jumper Fios 
+
+
+
+
+
+
+
+
+
+
+
+

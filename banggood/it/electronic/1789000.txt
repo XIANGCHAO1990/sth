@@ -1,0 +1,153 @@
+https://it.banggood.com/Ender-3-V4_2_7-Mute-Super-Quiet-Motherboard-+-Touch-Auto-Leveling-Sensor-Kit-for-Ender-3-or-Ender-3-pro-3D-Prinetr-p-1789000.html?cur_warehouse=CN&ID=6287830&rmmds=CategoryElectronicsPop
+Scheda madre Ender-3 V4.2.7 Mute Super Silenziosa + Kit sensore di livellamento automatico touch per Ender-3 / Ender-3 pro 3D Prinetr
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduzione della scheda madre:Super silenzioso. Compatibile con la stampante 3D Creality Ender 3, Ender 3 Pro, Ender 5. AVVISO: è plug and play solo per Ender-3 e Ender 3 Pro. Se si desidera installarlo su Ender-5, aggiornare il firmware Ender-5. Puoi scaricare il firmware qui. 
+https://www.creality.com/downloadDriver - Driver TMC2208 e Marlin 1.1.8 per scheda V1.1.5 mentre Driver TMC2225 e Marlin 2.0.1 per scheda V4.2.7. Bootloader preinstallato su entrambe le schede di versione.Aggiorna firmware: se la scheda ricevuta è V1.1.5, effettua il flash del firmware con il cavo ISP. Se la scheda ricevuta è V4.2.7, copia il file del firmware su una scheda SD formattata senza altri file al suo interno. Spegnere la stampante e scollegare il cavo di alimentazione. Inserire la scheda SD e il cavo di alimentazione e accendere la stampante. Attendi 10s per completare il processo di aggiornamento del firmware.La protezione termica fuori controllo è abilitata. La scheda è ottimizzata per circuito, risolve efficacemente il problema del riscaldamento.Introduzione di BLtouch:BLTouch è un tipo di sensore hall semiconduttore ed è un componente elettronico per stampanti 3D.BL Touch è un sensore di autolivellamento per stampanti 3D in grado di misurare con precisione l'inclinazione della superficie del letto. Potrebbe funzionare con qualsiasi tipo di materiale del letto, come bicchieri, legno, metalli e così via.BLTouch
+ è realizzato con struttura semplice e alta precisione utilizzando sensori a solenoide e hall progressivamente progettati. Mira alla comodità dell'utente e alla stampa piacevole aggiungendo molte funzioni intelligenti, come autotest, allarme, rilascio allarme e modalità Touch Switch, blu LED per l'indicazione del segnale servo e test Z-probe (Zmin). Caratteristiche:Le principali funzioni e controlli di BLTouch sono gli stessi del normale sensore di livellamento automatico del letto, che consiste in un servo RC e un microinterruttore. Pertanto, BLTouch può essere applicato su quasi tutte le schede.Autotest ： Il pulsante funziona due volte in un test quando l'alimentazione è accesa.Allarme ： La spia LED lampeggia se è stato rilevato un problema durante un autotest o durante il funzionamentoIndicatore di difetti di cablaggio ： Blu e rosso LED per indicare i difetti di cablaggio.Facile da usare: questo sensore di livellamento automatico del letto semplifica il livellamento del focolaio, che può misurare con precisione l'inclinazione della superficie del letto. Il livellamento del letto non è più un problema.Controllo automatico dell'intelligenza e allarme: la funzione di livellamento automatico è adottata per renderlo più facile da usare e per aumentare il tasso di successo della modellatura.Nota:Alcune schede madri per stampanti 3D hanno un'alimentazione 5V insufficiente e potrebbero richiedere un alimentatore 5V esterno, il che mostra che la sonda è difficile da estrarre o che il controllo principale di protezione del circuito logico si riavvia durante il funzionamento. Se incontrato, lo è generalmente si consiglia di utilizzare un modulo step-down DC-DC per prendere l'alimentazione dalla rete elettrica principale. 
+
+  1. + 5V e GND non devono essere collegati in modo inverso per lungo tempo, potrebbero bruciare
+
+  2. Si prega di cercare di stare lontano da magneti potenti, motori, ventole e altri componenti magnetici
+  3. Colpire accidentalmente l'asta di plastica della sonda può danneggiare o influire sulla precisione del rilevamento
+  4. La regolazione o il riassemblaggio della vite di fermo della sonda richiede colla per filetti
+
+  5. Evitare la deformazione del guscio durante l'installazione della sonda. 6. Tirare con forza l'asta di alluminio danneggerà o influirà sulla precisione del rilevamentoIl pacchetto include:1 scheda madre1 x BLtouch con cavo
+
+
+
+

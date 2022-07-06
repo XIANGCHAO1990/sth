@@ -1,0 +1,360 @@
+1862498
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/BD/A4/441df3bd-a65c-4311-afda-2be2e10a23d4.jpg
+ESCAM WNK614 8CH 3MP Wireless Dome fotografica Sistema di sicurezza CCTV Kit NVR Audio bidirezionale Rilevamento sensore di movimento a doppia luce IP fotografica
+https://it.banggood.com/ESCAM-WNK614-8CH-3MP-Wireless-Dome-Camera-CCTV-Security-System-NVR-Kit-Two-Way-Audio-Dual-Light-Motion-Sensor-Detection-IP-Camera-p-1862498.html?cur_warehouse=USA&ID=47757&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristiche:APP: EseeCloud1. Supporto H.265 formato di compressione video2. NVR wireless a 8 canali + telecamera dome ad alta definizione a 4 canali da 3 MP（Se hai bisogno di aggiungere più telecamere, per favore >>>Clicca qui<<<io3. Tre tipi di visione notturna intelligente a colori con doppie sorgenti luminose3. Supporta la voce bidirezionale4. 7 giorni di archiviazione cloud ricorrente gratuita5. Supporto massimo 1 alloggiamento disco rigido da 6 TB6. Supporta il video push dell'allarme di rilevamento del sensore di movimento7. Supporta il monitoraggio remoto dell'APP mobileSpecifica:* videoregistratore con disco rigido di rete wireless 3.0MP;* Modulo WIFI wireless dedicato alla sicurezza integrato, segnale stabile e forte capacità anti-interferenza;* Non è necessario l'abbinamento WIFI, l'immagine verrà visualizzata all'accensione della scatola;* Uso misto cablato e wireless, adattarsi a vari scenari;* P2P EseeCloud (APP: EseeCloud), connessione remota in pochi secondi, immagine fluida e stabile;* Supporta più trigger di allarme (rilevazione di perdita video/movimento, ecc.) e uscita di allarme (voce/e-mail/FTP, ecc.);* Supporta l'accesso e il controllo remoto (LAN e Internet) da telefono cellulare (o tablet) Apple Android / Apple. 
+
+
+
+
+NVR senza fili
+
+
+sistema operativo
+Sistema operativo in tempo reale Linux integrato
+
+
+Ingresso video e audio
+Ingresso video di rete
+8 canali
+
+
+Uscita video e audio
+Uscita HDMI
+1 canale, risoluzione: 1024x768, 1280x1024, 1366x768, 1440x900, 1920x1080p, supporta l'uscita audio
+
+
+Uscita VGA
+1 canale, risoluzione: 1024x768, 1280x1024, 1366x768,1440x900, 1920x1080p
+
+
+Parametri del codec video e audio
+Risoluzione video
+D1/960H/720P/960P/1080P/3MP
+
+
+Riproduzione sincrona
+4 canali
+
+
+video 
+Modalità video/acquisizione
+Registrazione manuale, registrazione dei tempi, registrazione dei rilevamenti di movimento, registrazione degli allarmi
+
+
+Modalità di riproduzione
+Riproduzione istantanea, riproduzione normale, riproduzione di eventi
+
+
+Modalità di backup
+Backup regolare
+
+
+Magazzinaggio 
+Archiviazione cloud
+7 giorni di archiviazione ricorrente gratuita
+
+
+Tipo di interfaccia del disco rigido
+1 interfaccia SATA
+
+
+Capacità massima del disco rigido
+Disco rigido fino a 6 TB
+
+
+Interfaccia esterna
+Interfaccia di rete
+1, RJ45 Porta Ethernet adattiva 10M/100M
+
+
+Interfaccia USB
+1 USB
+
+
+porta audio
+Una porta per cuffie da 3,5 mm
+
+
+Rete
+Protocollo di rete
+UPnP (plug and play), SMTP (servizio di posta), PPPoE (accesso remoto a Internet), DHCP (ottenete automaticamente un indirizzo IP), ecc.
+
+
+
+
+Altro
+Alimentazione elettrica
+CC 12V 2A
+
+
+Consumo energetico (senza disco rigido)
+5W
+
+
+Temperatura di esercizio
+-10?--?55?
+
+
+Umidità di lavoro
+10%--90%
+
+
+Peso (senza disco rigido)
+1Kg
+
+
+dimensione
+255×220×42 mm
+
+
+IPC wireless
+
+
+Pixel
+3MP
+
+
+Sensore d'immagine
+Sensore CMOS 1/2,7", colore: 0,1 Lux, bianco/nero: 0,01 Lux
+
+
+lente
+4mm
+
+
+Elaborazione video
+Codifica video H.264/H.265, supporto dual stream
+
+
+Uscita immagine
+Flusso principale: 2304*1296@15fps; Flusso secondario: 640x360@15fps
+
+
+otturatore
+Otturatore automatico
+
+
+Riduzione del rumore
+Supporta la riduzione del rumore 2D/3D
+
+
+Ampia dinamica
+Supporta la dinamica ampia digitale
+
+
+Modalità giorno e notte
+Il tipo di filtro a infrarossi IR-CUT supporta le modalità infrarossi / full color / smart 3
+
+
+Capovolgi immagine
+Supporta il ribaltamento orizzontale e verticale
+
+
+Elaborazione audio
+Standard codec G.711, supporta la sincronizzazione audio e video
+
+
+porta audio
+1 ingresso, livello 2Vp-p, impedenza 1k?, supporta l'ingresso MIC/pickup; 1 uscita, impedenza 8?, Potenza di uscita 1 W, supporta altoparlanti diretti
+
+
+Rete cablata
+1 RJ45 Interfaccia Ethernet, adattiva 10/100M; supporta RTSP/FTP/PPPOE/DHCP/DDNS/NTP/UPnP e altri protocolli di rete
+
+
+rete senza fili
+802.11b/g/n
+
+
+Interfaccia segnale IR
+1 interfaccia fotoresistenza, 1 interfaccia unità IR-CUT, supporta il controllo del pannello della lampada a doppia sorgente di luce (controllo IO doppio, MCU senza pannello della lampada)
+
+
+Yuntai
+350° sinistra e destra, 90° su e giù
+
+
+Interfaccia del pulsante di ripristino
+pausa
+
+
+Slot per scheda SD
+Supporto massimo 128G
+
+
+Caratteristiche
+Rilevazioni di movimento; informazioni di allarme push; supportare il monitoraggio remoto di telefoni cellulari e client
+
+
+Visione notturna
+4 IR luci + 4 luci bianche
+
+
+Alimentazione elettrica
+CC 12V 1A
+
+
+il peso
+0.65kg
+
+
+dimensione
+156x91x130mm
+
+
+Informazioni sul pacchetto
+Il peso
+3.25kg
+
+
+Taglia
+320x332x170mm
+
+
+Lista imballaggio
+NVR WIFI 8CH*1, telecamera WIFI*4, adattatore di alimentazione NVR*1,adattatore di alimentazione per fotocamera*4, manuale*1, mouse*1, confezione di viti*4, cavo di rete*1
+
+
+
+Il pacchetto include:1 x NVR wireless4 x Wi-Fi IP fotografica1 x mouseAdattatore di alimentazione NVR 5 x 12v 2A1 cavo di rete da 1 m4 x kit di viti1 X Guida rapida
+
+
+
+

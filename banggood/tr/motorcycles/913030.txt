@@ -1,0 +1,203 @@
+https://tr.banggood.com/IMars-ELM327-bluetooth-Car-OBD2-Scanner-Diagnostic-Tool-Engine-Code-Reader-p-913030.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+iMars ELM327 bluetooth Araba OBD2 Tarayıcı Teşhis Parçalar Motor Kod Okuyucu
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+IMars Araba OBD2 CAN BUS Tarayıcı Parçalar bluetooth Fonksiyonu ile
+
+Not: 
+1. iPhone veya iPad için çalışamaz.
+2. Aracınızın ECU'su J1850 protokolüne bağlanırsa, arabanız bu öğeyi kullanamaz.
+
+Açıklama:
+	1.Tümüyle çalışır 1996 to now OBD-II dünyadaki uyumlu araçlar ve Amerika Birleşik Devletleri'nde satılan bazı hafif kamyonlar, Bazı 1994 ve 1995 modelleri de iyidir.
+2. Kablosuz (bluetooth) 5 ~ 10 metre.
+3.OBD-II Yazılım 327 bluetooth için bilgi almak için PC'nizi ve donanım arayüzünü kullanmanızı sağlayan ücretsiz bir programdır 
+arabanızın bilgisayarından.
+3. Program oldukça kullanıcı dostudur ve öğrenmesi kolaydır. Kurulumu da çok kolaydır: dosyaları bilgisayarınızdaki bir klasöre çıkartmanız yeterlidir. sabit sürücü ve gitmeye hazırsınız. Programı kaldırmak için, programın bulunduğu klasörün tüm içeriğini silin.
+
+Çok Protokollü Destek:
+	ISO9141-2 (5 baud init, 10.4Kbaud)
+	ISO14230-4 KWP (5 baud init, 10.4 Kbps)
+	ISO14230-4 KWP (hızlı başlatma, 10.4 Kbps)
+	ISO15765-4 CAN (11 bit kimliği, 500 KBaud)
+	ISO15765-4 CAN (29 bit Kimlik, 500 Kb)
+	ISO15765-4 CAN (11bit Kimlik, 250 Kb)
+	ISO15765-4 CAN (29 bit Kimliği, 250 Kb)
+
+Fonksiyonlar:
+	1. Tanılama sorun kodlarını hem generik hem de üreticiye özel olarak okuyun ve anlamlarını görüntüleyin (veritabanında 3000'den fazla genel kod tanımları).
+	2. Sorun kodlarını silin ve MIL'i kapatın ("Motoru Kontrol Et" ışığı)
+	3. Şu özellikleri içeren Ekran akım sensörü verileri:
+	4. Motor RPM
+	5. Hesaplanan Yük Değeri
+	6. Soğutucu Sıcaklığı
+	7. Yakıt Sistemi Durumu
+	8. Araç Hızı
+	9. Kısa Süreli Yakıt Trimi
+	10. Uzun Süreli Yakıt Trimi
+	11. Emme Manifoldu Basıncı
+	12. Zamanlama İlerlemesi
+	13. Emme Hava Sıcaklığı
+	14. Hava Debisi Oranı
+	15. Mutlak Gaz Kelebeği Konumu
+	16. Oksijen sensörü voltajları / ilgili kısa vadeli yakıt trimleri
+	17. Yakıt Sistemi durumu
+	18. Yakıt Basıncı
+	Ve bircok digerleri...
+
+Uyumlu yazılım Android pazarı):
+Pencere sürümü: ScanMaster, ScanTool.net, PCMSCAN
+Android sürümü: Tork, DashCommand, EOBD
+Symbian sürümü: OBDScope
+Destek Sistemi: Windows XP, Windows 7/8, Android, Symbian
+
+Paket içeriği:
+	1 X bluetooth OBD-II Araba Teşhis Tarayıcı
+
+
+
+
+
+
+
+
+
+
+
+
+

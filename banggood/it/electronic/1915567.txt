@@ -1,0 +1,234 @@
+https://it.banggood.com/Tanix-X4-Amlogic-S905X4-DDR-4GB-RAM-eMMC-32GB-ROM-bluetooth-4_0-5G-WiFi-Android-11-4K-HDR-TV-Box-AV1-H_265-VP9-4K-at-30fps-Video-Decoder-OTT-Box-p-1915567.html?cur_warehouse=CN&ID=47757&rmmds=CategoryElectronicsPop
+Tanix X4 Amlogic S905X4 DDR 4GB RAM eMMC 32GB ROM bluetooth 4.0 5G Wi-Fi Android 11 TV HDR 4K Scatola AV1 H.265 VP9 Decodificatore video 4K@30fps OTT Scatola
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Specifica:
+
+
+
+processore
+Amlogic S905X4 64 bit Quad Core ARM Cortex A55
+
+
+GPU
+Processore GPU G31™ MP2
+
+
+Memoria
+DDR 4GB
+
+
+Veloce
+eMMC 32GB
+
+
+Wi-Fi
+IEEE 802.11 a/b/g/n/ac; 2.4G / 5G
+
+
+Bluetooth
+Supporta BT4.X
+
+
+Muffola
+Plastica: colore nero
+
+
+I/O
+1 x HDMI
+
+
+2 x USB
+
+
+1 x IR ricevitore
+
+
+1 x RJ45
+
+
+1 x CARTA TF
+
+
+Potenza
+DC 5V/2A
+
+
+Sistema operativo
+Android 11
+
+
+video
+Amlogic video Engine (AVE) con decoder e codificatori hardware dedicatiSupporta più sessioni di decodifica video "protette" e decodifica e codifica simultaneeDecodifica video/immagine- VP9 Profilo-2 fino a 8Kx4K@24 fps- H.265 HEVC MP-10@L5.1 fino a 8Kx4K@24 fps- Profilo AVS2-P2 fino a 8Kx4K@24 fps- H.264 AVC HP@L5.1 fino a 4Kx2K@30fps- MPEG-4 ASP@L5 fino a 1080P@60fps (ISO-14496)- WMV/VC-1 SP/MP/AP fino a 1080P@60fps- Profilo JiZhun AVS-P16(AVS+) /AVS-P2 fino a 1080P@60fps- MPEG-2 MP / HL fino a 1080P @ 60fps (ISO-13818)- MPEG-1 MP / HL fino a 1080P @ 60fps (ISO-11172)- Realvideo 8/9/10 fino a 1080P@60fps- Supporto video per sottotitoli in più lingue e formati multipli- Decodifica a risoluzione pixel illimitata MJPEG e JPEG (ISO/IEC-10918)- Supporta la miniatura JPEG, il ridimensionamento, la rotazione e gli effetti di transizione- Supporta i formati di file *.mkv,*.wmv,*.mpg, *.mpeg, *.dat, *.avi, *.mov, *.iso, *.mp4, *.rm e *.jpg
+
+
+Audio
+Supporta MP3, AAC, WMA, RM, FLAC, Ogg e programmabile con down-mixing 7.1/5.1VAD a bassa potenzaIngresso/uscita SPDIF/IEC958 audio digitale seriale integrato e ingresso/uscita PCM3 porte TDM/PCM/I2S integrate con modalità TDM/PCM fino a 384 kHz x 32 bit x 16 canali o 96 kHz x 32 bit x 32 canali e modalità I2S fino a 384 kHz x 32 bit x 16 canaliIngresso PDM per microfono digitale con CIC, LPF e HPF programmabili, supporta fino a 8 DMICDAC audio stereo integratoSupporta l'uscita simultanea del doppio canale audio stereo con la combinazione di analogico+PCM o I2S+PCM
+
+
+Immagine
+JPEG HD, BMP, GIF, PNG, TIF
+
+
+Lingua
+Inglese Francese Tedesco Spagnolo Italiano etc lingue multilaterali
+
+
+in linea
+Sfoglia tutti i siti Web di video, supporta Netflix, Hulu, Flixster, Youtube, ecc.
+
+
+App
+Le app si scaricano liberamente da Android Market, Amazon App Store ecc.
+
+
+medio
+Riproduzione multimediale locale, supporto HDD, disco U, scheda TF
+
+
+Parla in linea
+Supporta videochiamate SKYPE, MSN, facebook, twitter, QQ ecc
+
+
+Altri
+Supporto e-mail, tuta da ufficio, ecc.Supporta la funzione DLNA Supporto 2.4G mouse senza fili/tastiera
+
+Caratteristiche:processore: Amlogic S905X4 64 bit Quad Core ARM Cortex A55GPU: Processore GPU G31™ MP2RAM: DDR 4GBROM: eMMC 32GBSistema operativo: Android 11Bluetooth: supporto BT4.0Wi-Fi: IEEE 802.11 a/b/g/n/ac; 2.4G 5GDecodificatore video: AV1, H.265, VP9 8Kx4K@24 fpsIl pacchetto include:1 x Tanix X4 TV Scatola1 x IR remoto Controllo1 x HD Cavo1 manuale utente
+
+
+
+

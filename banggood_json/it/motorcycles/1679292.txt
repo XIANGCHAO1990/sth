@@ -1,0 +1,145 @@
+1679292
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/C4/EA/837030ac-a6ae-4d4d-9976-fee0886f40ab.jpg
+Controller motore 36V 350W 12A XT30 per bici elettrica scooter elettrico
+https://it.banggood.com/36V-350W-12A-XT30-Motor-Controller-For-Scooter-Electric-Bicycle-E-bike-p-1679292.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AvvertimentoQuesto controller è il sostituzione parti per ID: 1647907 e ID: 1679291 , se non si dispone dell'ID: 1647907 o ID: 1679291, non è necessario acquistarloO puoi acquistare ID:1740476Specifica:VoltaggioDC 36VPotenza nominale350WSottotensione30VLimitatori di correnteÈ possibile utilizzare uno scooter 12A （15A, ma la velocità sarebbe lenta）Istruzioni:1. Avvio: premere a lungo l'avvio (circa 1 secondo). Allo stesso tempo, il cicalino suona due volte.2. Spegnimento: premere e tenere premuto 3s per spegnere. Allo stesso tempo, il cicalino suona due volte.3. Luce: nello stato di accensione, premere brevemente (entro 1 secondo) una volta, accendere le luci anteriore e posteriore,i fari sono sempre accesi e i fanali posteriori lampeggiano.4. Freno: freno elettronico + freni a disco. Il fanale posteriore è lungo sui freni.5. Cambio: lo stato di accensione, il valore predefinito è il file a bassa velocità;premere due volte il pulsante (premere due volte in un secondo) per cambiare la posizione della marcia; Il verde è marcia bassa; il rosso è marcia alta6. Display Batteria: 33v-36v La prima luce è lunga36v-37v una o due luci lunghe luminose37v-38.5v una o due luci lunghe luminose38,5 v o più, uno, due, tre, quattro luciAllarme di bassa tensione: la prima luce lampeggia queo la batteria è al di sotto di 33 V e il cicalino suona 6 volte.7. Modalità velocità allarme bassa tensione: il limite di velocità è di circa 15 km / h. Queo l'alimentazione ritorna a 37 V,l'acceleratore deve ritornare nella posizione iniziale per rilasciare la bassa tensione e tornare al normale funzionamento.8. Crociera a velocità costante: la velocità è stabile per circa 6 secondi per avviare automaticamente il controllo della velocità di crociera;dopo aver corretto la crociera, è possibile rilasciare l'acceleratore; premere il frenooppure premere di nuovo l'acceleratore per rilasciare il controllo automatico della velocità e accedere alla modalità manuale.9. Velocità: la marcia a bassa velocità è di 15 ± 2 km / h; la marcia ad alta velocità è di 25 ± 2 km / h.10.Spegnimento automatico: spegnimento automatico 10 minuti dopo nessuna operazione.Display di potenza:1) Voltaggio 38,2V-42V Le luci del primo secondo terzo quarto quinto sono sempre accese2) Tensione 36,6 V-38,2 V La prima seconda terza quarta luce è sempre accesa 3) Tensione 34,5 V-36,6 V Le prime seconde terze luci sono sempre accese 4) Tensione 32,8 V-34,5 V La prima seconda luce è sempre accesa5) Tensione 31,5 V-32,8 V La prima luce è sempre accesa 6) Tensione 30-31,5 V L'ultima griglia lampeggia7) Spegnimento del motore con tensione inferiore a 31VCodice di errore:1) "E1" Motor Hall guasto2) "E2" MOSGuasto MOS o guasto di corto circuito della linea di fase del motore3) "E3" Guasto al freno4) Guasto al manubrio "E4"5) "E5" Protezione da sottotensione6) "E6" Errore di comunicazione strumento / controllo7) "E7" Protezione da sovratensioni8) "E8" Controllore operazionale guasto9) "E9" Protezione da stalloSchema della porta di cablaggio:Cavo di alimentazione: gree linea rossa neraCavo motore: cavo blu / cavo verde / cavo gialloCavo Hall: cavo rosso / cavo giallo / cavo blu / cavo verde / cavo neroFilo del fanale posteriore: filo rosso piccolo e filo neroLinea di masterizzazione software: linea verde / linea rossa / linea neraLinea di comunicazione: linea verde / linea blu / linea nera / linea rossa / linea gialla Il pacchetto include:1 XControllore
+
+
+
+

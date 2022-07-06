@@ -1,0 +1,386 @@
+https://es.banggood.com/H96-Max-X3-Amlogic-S905X3-4GB-RAM-32GB-ROM-5G-WIFI-bluetooth-4_0-1000M-LAN-Android-Android-9_0-4K-8K-VP9-H_265-TV-Box-p-1617882.html?cur_warehouse=CN&ID=533601&rmmds=CategoryElectronicsPop
+H96 Max X3 Amlogic S905X3 4GB RAM 32GB ROM 5G WIFI bluetooth 4.0 1000M LAN Android Android 9.0 4K 8K VP9 H.265 TV Caja
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificaciones:
+
+
+
+
+
+
+
+
+
+Hardware
+
+
+
+UPC
+
+UPC Amlogic S905X3 de cuatro núcleos ARM® Cortex™ A55 de 64 bits
+
+
+
+GPU
+
+Procesador GPU G31™ MP2
+
+
+
+Memoria
+
+DDR3 4GB
+
+
+
+Flash
+
+eMMC 32GB
+
+
+
+Wifi
+
+IEEE 802.11a/b/g/n; 2.4G / 5G            
+
+
+
+Bluetooth
+
+ BT; (Voz de soporte Control remoto)
+
+
+
+molde
+
+El plastico; De color negro
+
+
+
+E/S
+
+1 x HD HD 2.1, admite HD CEC, Dynamic HDR y salida de resolución máxima de 8Kx4K @ 24
+
+
+
+1 salida de definición estándar AV OUT 480i/576i
+
+
+
+1 USB 3.0
+				1 USB 2.0
+
+
+
+1 x IR Receptor Control remoto Receptor Conectar
+
+
+
+1 x SPDIF
+
+
+
+1 interfaz Ethernet RJ45; soporte 10/100M/1000M
+
+
+
+1 tarjeta TF compatible con 4GB/8GB/16GB/32GB/64GB
+
+
+
+Energía
+
+CC 5V/2A
+
+
+
+Software
+
+
+
+sistema operativo
+
+Android 9.0
+
+
+
+Video
+
+Amlogic Video Motor (AVE) con codificadores y decodificadores de hardware dedicados
+				Admite decodificador de video múltiple hasta 4x1080P @ 60fps
+				Admite múltiples sesiones de decodificación de video "seguras" y decodificación y codificación simultáneas
+				Decodificación de video/imagen
+				Perfil VP9-2 hasta 8Kx4K@24 fps
+				H.265 HEVC MP-10@L5.1 hasta 8Kx4K@24 fps
+				Perfil AVS2-P2 hasta 8Kx4K@24 fps
+				H.264 AVC HP@L5.1 hasta 4Kx2K@30fps
+				MPEG-4 ASP@L5 hasta 1080P@60fps (ISO-14496)
+				WMV/VC-1 SP/MP/AP hasta 1080P@60fps
+				AVS-P16(AVS+) /AVS-P2 Perfil JiZhun hasta 1080P@60fps
+				MPEG-2MP/HL hasta 1080P@60fps (ISO-13818)
+				MPEG-1MP/HL hasta 1080P@60fps (ISO-11172)
+				RealVideo 8/9/10 hasta 1080P@60fps
+				Soporte de video de subtítulos en múltiples idiomas y múltiples formatos
+				Decodificación de resolución ilimitada de píxeles MJPEG y JPEG (ISO/IEC-10918)
+				Admite efectos de miniatura, escalado, rotación y transición JPEG
+				Admite los formatos de archivo *.mkv, *.wmv, *.mpg, *.mpeg, *.dat, *.avi, *.mov, *.iso, *.mp4, *.rm y *.jpg
+
+
+
+Audio
+
+Admite MP3, AAC, WMA, RM, FLAC, Ogg y programable con mezcla descendente 7.1/5.1
+				VAD de bajo consumo
+				Entrada/salida de audio digital en serie SPDIF/IEC958 y entrada/salida PCM integradas
+				3 puertos TDM/PCM/I2S integrados con modo TDM/PCM de hasta 384 kHz x 32 bits x 16 canales o 96 kHz x 32 bits x 32 canales y modo I2S de hasta 384 kHz x 32 bits x 16 canales
+				Entrada PDM de micrófono digital con CIC, LPF y HPF programables, admite hasta 8 DMIC
+				DAC de audio estéreo incorporado
+				Admite salida de canal de audio estéreo dual concurrente con combinación de analógico+PCM o I2S+PCM
+
+
+
+Imagen
+
+HD JPEG, BMP, GIF, PNG, TIF
+
+
+
+Idioma
+
+Inglés Francés Alemán Español Italiano etc idiomas multilaterales
+
+
+
+Aplicaciones
+
+
+
+En línea
+
+Explore todos los sitios web de videos, admita Netflix, Hulu, Flixster, Youtube, etc. 
+
+
+
+aplicaciones
+
+Las aplicaciones se descargan libremente desde Android Market, Amazon solicitud tienda, etc
+
+
+
+Medio
+
+Reproducción de medios locales, soporte HDD, disco U, tarjeta TF.
+
+
+
+Hablar en línea
+
+Admite videollamadas de SKYPE, MSN, facebook, twitter, QQ, etc.
+
+
+
+Otros
+
+Correo electrónico de soporte, traje de oficina, etc.
+				Admite la función DLNA
+				Soporte 2.4G ratón inalámbrico/teclado
+
+
+
+Embalaje
+
+
+
+Dimensión del producto
+
+114 x 21mm
+
+
+
+Embalaje unitario (GW)
+
+0.4KG
+
+
+
+
+El paquete incluye:
+
+1 x H96 Máx. X3 S905X3 Televisor 4G/32G Caja
+1 cable HD.
+1 x IR Control remoto (no es un controlador de voz)
+1 adaptador de corriente.
+1 manual de usuario.Características:
+
+
+UPC UPC Amlogic S905X3 de cuatro núcleos ARM® Cortex™ A55 de 64 bits
+
+GPU Procesador GPU G31™ MP2
+
+RAM: DDR3 4GB
+
+ROM: eMMC 32GB
+	Sistema operativo: Android 9.0
+	Ethernet: soporte 10/100M/1000M
+
+Wifi: IEEE 802.11a/b/g/n; 2.4G / 5G            
+
+Bluetooth: BT; (Voz de soporte Control remoto)
+	Decodificación de video: VP9 Profile-2 hasta 8Kx4K@24 fps, H.265 HEVC MP-10@L5.1 hasta 8Kx4K@24 fps
+Admite el Asistente de Google (necesitas comprar un control de voz para esta función)
+
+
+Otras opciones:
+
+H96 máx. X3 S905X3 Televisor 4G/32G CAJA: [ENLACE]
+H96 máx. X3 S905X3 Televisor 4G/64G CAJA: [ENLACE]
+H96 Max X3 S905X3 CAJA DE TV 4G/128G: [ENLACE]
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,205 @@
+https://es.banggood.com/Excellway-REX-C100-110-240V-1300-Degree-Digital-PID-Temperature-Controller-Kit-with-400-Degree-Probe-p-965589.html?cur_warehouse=CN&rmmds=CategoryToolsPop
+Excellway® REX-C100 110-240V Kit de controlador de temperatura digital PID de 1300 grados con sonda de 400 grados
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Características :
+
+Controlador de temperatura REX-C100
+
+	Precisión de medición: ±0.5% FS
+	Tolerancia de compensación de extremo frío: ± 2 ℃ se puede modificar por software en 0 ~ 50 ℃
+	Resolución: 14 bits
+	Ciclo de muestreo: 0,5 segundos
+	Potencia: CA 110-240V 50/60HZ
+	Valor de proceso (PV), Valor de ajuste (SV)
+	Salida, alarma y autoajuste pueden ser indicados por : LED
+	Control PIN (incluido ON/OFF, PID de tipo escalonado y PID continuo)
+	Control de autoajuste
+	Salida de relé: capacidad de contacto 250 V CA 3A (carga resistiva)
+	Salida de función de alarma: 2 vías
+	Bya proporcional (P): 0 ~ rango completo (control ON/OFF cuyo se establece en 0)
+	Rango de temperatura de detección: 0 a 1300 ℃
+	Resistencia de aislamiento: >50 M ohmios (500 V CC)
+	Resistencia de aislamiento : 1500V AC/min
+	Resistencia de aislamiento: Consumo de energía < 10 VA
+	Entorno de servicio: 0 ~ 50 ℃
+	Ambiente sin gas corrosivo 30~85% HR
+
+Cable de sonda de termopar K
+
+	Longitud : 1M
+	Diámetro del sensor: 4,5 mm
+	La temperatura sonó: 0 a 400 ℃
+	Aislamiento Interno : Fibra de Vidrio
+	Blindaje externo: Blindaje aislado
+
+	Max.40A SSR
+
+	Rango de voltaje de salida: Estándar Tipo
+	Corriente de salida: 40A
+	Voltaje de entrada: CC 3-32 V.
+	Voltaje de salida: 24-380 V CA
+
+El paquete incluye : 
+
+	1 controlador de temperatura PID REX-C100
+	1 sonda K Tipo Sensor
+	1 SSR de 40 A máx.
+
+	Más productos :
+	Ahora hemos creado un SKU108327 eso es 220V, 0 ~ 400℃.
+	y  SKU188430 eso es 110-240V, 0 ~ 400℃.
+
+Cuadros de los detalles:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,266 @@
+1537029
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/0D/D1/909bd2ac-a1c4-4ff7-91fd-912638b765bb.JPG
+ICL7107 Voltmetre DIY Elektronik Üretim Kit DC5V 35mA Voltaj Ölçer Dijital Voltmetre
+https://tr.banggood.com/ICL7107-Voltmeter-DIY-Electronic-Production-Kit-DC5V-35mA-Voltage-Meter-Digital-Voltmeter-p-1537029.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Açıklama:
+
+	Kit Adı: ICL7107 Voltmetre DIY Kit
+
+PCB boyutu: 70,6 * 39 mm
+
+Baş montaj açıklığı boyutu: 77 * 40mm
+
+Ekran penceresi boyutu: 51 * 24mm
+
+Soldering manual: Buraya Tıkla.
+
+Elektriksel parametreler:
+
+
+Çalışma gerilimi: DC5V
+
+Çalışma akımı: 35mA
+
+Ölçüm doğruluğu: Daha yüksek hassasiyet elde etmek için kalibre edilebilir ve şu anda parametre yoktur.
+
+Ölçüm aralığı: 3 dosyaya bölünmüş, 0-2V dosya Küçük voltaj ölçümü
+
+                                                            Düşük voltajı ölçen 0-20V dosyası
+
+                                                            0-200V, daha yüksek voltaj ölçümü.
+
+Aralık seçim yöntemi: kart üzerinde dişli seçimi ile lehim bağlantıları,
+
+0-2V dosyasının iki noktası birlikte lehimlendiğinde ve RX lehimleme direncinin direnci 1K olduğunda, ölçüm aralığı 0-2V;
+
+2 nokta 0-20V dosyasını birlikte lehimlerken, RX lehimleme direnci 100K, ölçüm aralığı 0-20V;
+
+0-200V dosyasının 2 noktasını birlikte lehimlerken, RX lehimleme direnci 1M, ölçüm aralığı 0-200V;
+
+Aralık üstü ekran: ilk konum 1 veya -1 gösterir
+
+Kitte, RX 100K ve 1M olarak mevcuttur ve alıcı, lehimlemeyi ölçüm aralığına göre seçer. Bu voltmetre aynı zamanda bir ampermetreye dönüştürülebilir. Akım ölçeri değiştirme yöntemi: PCB, kart üzerinde 2W 0.1 ohm yüksek hassasiyetli direnç lehimleme pozisyonu ayırır, bu direnci lehimleyin ve ardından RX'in lehimlenmesine gerek yoktur. Bu bir 0-2A ampermetredir.
+
+Ekran rengi: kırmızı
+
+Üretimi yapmak için gerekli aletler: multimetreler, elektrikli ütüler ve su pensesi gereklidir.
+
+
+Paket içeriği:
+
+
+1 x PCB kartı
+
+3 x 1N4148
+
+1 x 5.1V Zener Diyot
+
+1 x 100 ohm direnç
+
+1 x 270 ohm direnç
+
+2 x 2K direnç
+
+1 x 20K direnç
+
+1 x 47K direnç
+
+1 x 56K direnç
+
+2 x 100K direnç
+
+1 x 1M direnç
+
+1 x 2.2MH indüktör
+
+2 x 104 monolitik kapasitör
+
+2 x 101 monolitik kapasitör
+
+1 x 224 monolitik kondansatör
+
+1 x 474 monolitik kondansatör
+
+2 x 10UF25V elektrolitik kondansatör
+
+1 x C1815
+
+1 x TL431
+
+2 x 3296-202 potansiyometre
+
+1 x XH2.54-2P düz koltuk
+
+1 x XH2.54-2P hattı
+
+1 x KF301-2 koltuk
+
+1 x 40P çip tutucu
+
+1 x LT7107 yongası
+
+4 x 0.56 bir ortak dijital tüp
+
+1 x case
+
+4 x M2 * 6 kendinden diş açan vidalar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

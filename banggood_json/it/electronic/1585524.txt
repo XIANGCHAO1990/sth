@@ -1,0 +1,263 @@
+1585524
+https://imgaz2.staticbg.com/thumb/large/oaupload/ser1/banggood/images/5C/1D/b39ce39c-46f9-40eb-907f-f4dd85dbf682.jpg
+ZK-4KX CNC DC DC Buck Boost Converter CC CV 0,5-30 V 4A Alimentatore regolabile regolabile per solare Batteria Ricarica
+https://it.banggood.com/ZK-4KX-CNC-DC-DC-Buck-Boost-Converter-CC-CV-0_5-30V-4A-Power-Module-Adjustable-Regulated-Power-Supply-for-Solar-Battery-Charging-p-1585524.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Caratteristiche:
+
+
+
+1. LCD può visualizzare tensione di ingresso/uscita, corrente di uscita/potenza di uscita/capacità di uscita/tempo di uscita;
+
+2. La regolazione CNC, precisa e veloce, può aumentare e ridurre la tensione, la tensione di uscita può essere regolata a piacimento da 0,5-30 V, la corrente limite 0-4a può essere regolata a piacimento;
+
+3. Protezione anti-inversione del collegamento dell'estremità di ingresso, che non si brucerà;
+
+4. Irrigazione anti-inversione all'estremità di uscita, non è necessario alcun diodo di irrigazione anti-inversione aggiuntivo per caricare la batteria;
+
+5. Il modulo può essere impostato per aprire/chiudere per impostazione predefinita;
+
+6. Sono disponibili più meccanismi di protezione del software e la soglia di protezione è regolabile. Quando i parametri di lavoro del modulo superano la soglia di protezione, l'uscita verrà automaticamente chiusa.
+
+7. L'ondulazione dell'uscita è piccola e il filtro PI è disponibile;
+
+8. Addensare le alette del radiatore.
+
+
+
+Specifiche:
+
+
+
+Tensione di ingresso: 5,0-30 v
+
+Tensione di uscita: 0,5-30 v
+
+Corrente di uscita: può funzionare stabilmente a 3A per lungo tempo e può raggiungere i 4 A con una dissipazione del calore migliorata
+
+Potenza in uscita: dissipazione del calore naturale 35 W, rafforzamento della dissipazione del calore 50 W
+
+Risoluzione del display della tensione: 0,01 V
+
+Risoluzione display attuale: 0.001A
+
+Efficienza di conversione: circa 88%
+
+Soft avvio: sì (con modulo ad alta potenza e carico potrebbe non funzionare all'avvio)
+
+Meccanismo di protezione:
+
+Connessione antiritorno in ingresso;
+
+Uscita antiritorno irrigazione;
+
+Protezione da sottotensione in ingresso (4,8-30 V regolabile, predefinito 4,8 V)
+
+Protezione da sovratensione in uscita (0,5-31 V regolabile, impostazione predefinita 31 V)
+
+Protezione da sovracorrente in uscita 0-4.1a (regolabile, default 4.1a)
+
+Protezione da sovraccarico (0-50 W regolabile, predefinito 50 W)
+
+Protezione da sovratemperatura (80-110℃ regolabile, default 110℃)
+
+Protezione timeout (0-100 h regolabile, disattivata per impostazione predefinita)
+
+Protezione super capacità (0-60ah regolabile, disattivata per impostazione predefinita)
+
+Frequenza operativa: 180KHZ 
+
+Dimensioni: 79mmx43mmx26mm
+
+
+
+Metodo di utilizzo:
+
+
+
+1. Cambia i parametri del display: nell'interfaccia normale, premi SW per cambiare il display sotto lo schermo del display e cambia il contenuto del display tra la corrente A potenza W capacità Ah tempo h. Premi a lungo il pulsante SW per cambiare la visualizzazione di uplink sul display schermo e commutare il contenuto del display tra tensione di ingresso IN tensione di uscita OUT.
+
+2. Impostare la tensione di uscita: premere il pulsante U/I nell'interfaccia normale per accedere all'interfaccia di impostazione della corrente costante di tensione. Si può notare che una certa cifra del valore della tensione di uscita lampeggia. Ruotare l'encoder a sinistra e a destra per regolare il maggiore e il minore. Premere brevemente il codificatore rotante per scegliere quale bit di tensione di uscita impostare. Dopo l'impostazione, premere il pulsante U/I 2 volte per tornare all'interfaccia normale. Oppure tornare automaticamente al interfaccia normale dopo l'arresto del funzionamento per 10 secondi.
+
+3. Impostare il valore di corrente costante (ovvero, il valore di corrente massimo consentito per l'uscita dal modulo) -- premere il pulsante U/I nell'interfaccia normale per accedere all'interfaccia di impostazione della corrente costante di tensione. Quindi premere il pulsante U/I e passare a impostazione del valore di corrente costante. È possibile vedere un po' del valore di corrente costante di impostazione lampeggiare. Ruotare il codificatore rotante a sinistra e a destra per regolare il maggiore e il minore. Premere brevemente il codificatore rotante per scegliere quale bit impostare il valore di corrente costante. Dopo l'impostazione, premere U/I per uscire dall'interfaccia di corrente costante di tensione di impostazione e tornare al normale interfaccia. Oppure torna automaticamente all'interfaccia normale dopo aver interrotto l'operazione per 10 secondi.
+
+4. Impostare lo stato di attivazione/disattivazione predefinito dell'accensione del modulo: premere a lungo U/I nell'interfaccia normale per accedere all'interfaccia di impostazione dei parametri. È possibile vedere che mostra "OPEN OFF" o "OPEN ON". "OPEN OFF" significa che l'uscita è disattivata per impostazione predefinita quando l'alimentazione è ON e "OPEN ON" significa che l'uscita è attivata per impostazione predefinita quando l'alimentazione è ON. Premere a lungo l'encoder per cambiare due stati. Dopo l'impostazione, premere a lungo U /I per tornare all'interfaccia normale.
+
+5. Impostazione dei parametri di protezione su stato e soglia: premere a lungo U/I per accedere all'interfaccia di impostazione dei parametri nell'interfaccia normale. Premere SW fino a visualizzare la protezione desiderata. LUP - soglia di protezione da sottotensione; OUP - soglia di protezione da sovratensione ;OCP - soglia di protezione da sovracorrente;OPP - soglia di protezione da sovratensione;OAP - soglia di protezione da ultra-capacità;Soglia di protezione da timeout OHP;OTP - soglia di protezione da sovratemperatura.Premere brevemente e ruotare l'encoder per selezionare quale bit si desidera impostare parametro di protezione.Premere a lungo il codificatore rotante per attivare o disattivare i parametri di protezione (solo la protezione da timeout e la protezione da supercapacità possono essere impostate per l'attivazione/disattivazione e altri parametri di protezione sono attivati per impostazione predefinita). Ruotare l'encoder a sinistra e a destra per ingrandire e ridurre i parametri. Dopo l'impostazione, premere a lungo U/I per tornare all'interfaccia normale.
+
+6. Tensione e corrente di calibrazione: premere il pulsante U/I per accedere all'interfaccia di impostazione dei parametri nell'interfaccia normale. Premere SW finché non viene visualizzata un'interfaccia dei parametri con CAL. interfaccia di tensione con il simbolo CAL+OUT+V;L'interfaccia di corrente di uscita di calibrazione con il simbolo CAL+OUT+A.Ruotare l'encoder a sinistra ea destra per regolare la dimensione dei parametri.Dopo aver completato la regolazione, premere a lungo l'encoder rotativo per confermare che la regolazione è completata e il valore del parametro non lampeggia più. Premere a lungo U/I per tornare all'interfaccia normale. 
+
+Nota: per garantire l'accuratezza della calibrazione, la tensione di calibrazione - superiore a 12V può essere avviata solo; Corrente di calibrazione - avviare la calibrazione solo quando la corrente è superiore a 1A.
+
+
+
+Suggerimenti:
+
+
+
+1. È vietato un cortocircuito tra l'ingresso IN e l'uscita OUT del modulo, altrimenti la funzione di corrente costante fallirà.
+
+2. Assicurarsi che il momento di potenza dell'alimentatore superi la potenza richiesta del carico di uscita!
+
+3. Se il modulo desidera l'uscita a pieno carico, la tensione di ingresso deve essere superiore a 8V. Quando la tensione di ingresso è 5 V, la potenza di uscita è di circa 15 W. Il valore di corrente massimo del modulo è 4 A, soggetto alla potenza di uscita massima, ad esempio 17 V, la corrente non deve essere maggiore di 2 A.
+
+4. Quando questo modulo viene utilizzato su 3A e 35 W, rafforzare la dissipazione del calore!!!
+
+5. Il modulo ha una funzione di protezione da sottotensione in ingresso, che è di circa 4,8 V per impostazione predefinita (può essere impostata) e l'uscita verrà automaticamente disconnessa dopo che il valore è inferiore a questo valore (si noti che la tensione alla porta del modulo è inferiore rispetto alla soglia di protezione da sottotensione e quando la corrente di ingresso è relativamente elevata, non ignorare la tensione parziale sul cavo di ingresso).
+
+
+
+Il pacchetto include:
+
+
+
+1 x ZK-4KX CNC DC DC Buck Boost Converter CC CV 0.5-30V 4A Modulo di alimentazione
+
+
+
+
+
+
+
+
+
+
+
+
+

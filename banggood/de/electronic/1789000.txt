@@ -1,0 +1,153 @@
+https://de.banggood.com/Ender-3-V4_2_7-Mute-Super-Quiet-Motherboard-+-Touch-Auto-Leveling-Sensor-Kit-for-Ender-3-or-Ender-3-pro-3D-Prinetr-p-1789000.html?cur_warehouse=CN&ID=6287830&rmmds=CategoryElectronicsPop
+Ender-3 V4.2.7 Super leises Motherboard stummschalten + Touch Auto Leveling Sensor Satz für Ender-3 / Ender-3 pro 3D Prinetr
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Einführung des Mainboards:Super leise. Kompatibel mit Creality Ender 3, Ender 3 Pro, Ender 5 3D-Drucker. BITTE BEACHTEN SIE: Es ist nur Plug-and-Play für Ender-3 & Ender 3 Pro. Wenn Sie es auf Ender-5 installieren möchten, flashen Sie bitte die Firmware Ender-5. Hier können Sie die Firmware herunterladen. 
+https://www.creality.com/downloadTreiber - TMC2208 Treiber & Marlin 1.1.8 für V1.1.5 Board während TMC2225 Treiber & Marlin 2.0.1 für V4.2.7 Board. Bootloader auf beiden Versionskarten vorinstalliert.Firmware aktualisieren - Wenn die Karte, die Sie erhalten haben, V1.1.5 ist, flashen Sie bitte die Firmware mit dem ISP-Kabel. Wenn die Karte, die Sie erhalten haben, V4.2.7 ist, kopieren Sie die Firmware-Datei auf eine formatierte SD-Karte, auf der sich keine anderen Dateien befinden. Schalten Sie den Drucker aus und ziehen Sie das Netzkabel ab. Legen Sie die SD-Karte und das Netzkabel ein und schalten Sie den Drucker ein. Warten Sie 10s, um den Firmware-Aktualisierungsvorgang abzuschließen.Der thermische Durchgehensschutz ist aktiviert. Die Platine wird durch Schaltung optimiert, um das Heizproblem effektiv zu lösen.Einführung von BLtouch:BLTouch ist eine Art Halbleiter-Hallsensor und eine elektronische Komponente für 3D-Drucker.BL Berühren Sie ist ein Auto-Leveling-Sensor für 3D-Drucker, der die Neigung der Bettoberfläche genau messen kann. Es kann mit allen Arten von Bettmaterialien wie Gläsern, Hölzern, Metallen usw. verwendet werden.BLTouch
+ wird durch einfache Struktur und hohe Präzision durch die Verwendung von progressiv gestalteten Magnet- und Hallsensoren erfüllt. Es bietet dem Benutzer Komfort und angenehmes Drucken, indem es viele intelligente Funktionen wie Selbsttest, Alarm, Alarmauslösung und Touch-Switch-Modus, Blau LED für die Anzeige von Servosignalen und Z-Probe (Zmin) -Tests hinzufügt. Merkmale:Die Hauptfunktionen und Steuerungen von BLTouch sind die gleichen wie beim üblichen automatischen Bettnivellierungssensor, der aus einem RC-Servo und einem Mikroschalter besteht. Somit kann BLTouch auf fast jedem Board angewendet werden.Selbsttest: Der Druckstift arbeitet bei einem Test zweimal, wenn die Stromversorgung eingeschaltet ist.Alarm: Die Anzeige LED blinkt, wenn bei einem Selbsttest oder während des Betriebs ein Problem festgestellt wurdeVerdrahtungsfehleranzeige: Blau und Rot LED zur Anzeige von Verdrahtungsfehlern.Einfache Bedienung: Dieser automatische Bettnivellierungssensor erleichtert das Nivellieren der Brutstätte, wodurch die Neigung der Bettoberfläche präzise gemessen werden kann. Bettnivellierung ist kein Problem mehr.Intelligenz-Selbsttest und Alarm: Die Funktion der automatischen Nivellierung wird übernommen, um die Verwendung zu vereinfachen und die Erfolgsrate der Formgebung zu erhöhen.Notiz:Einige 3D-Drucker-Motherboards verfügen nicht über eine ausreichende Stromversorgung für 5V und erfordern möglicherweise eine externe Stromversorgung für 5V, was zeigt, dass die Sonde schwer herauszudrücken ist oder die Hauptsteuerung für den Schutz der Logikschaltung während des Betriebs neu startet. Wenn angetroffen, ist es Im Allgemeinen wird empfohlen, ein DC-DC-Abwärtsmodul zu verwenden Strom aus der Hauptstromversorgung ziehen. 
+
+  1. + 5V und GND sollten längere Zeit nicht umgekehrt angeschlossen werden, da sie brennen können
+
+  2. Bitte halten Sie sich von starken Magneten, Motoren, Lüftern und anderen magnetischen Komponenten fern
+  3. Ein versehentliches Schlagen auf den Kunststoffstab der Sonde kann die Erkennungsgenauigkeit beschädigen oder beeinträchtigen
+  4. Zum Einstellen oder Zusammenbauen der Stellschraube der Sonde ist Gewindekleber erforderlich
+
+  5. Bitte vermeiden Sie beim Einbau der Sonde eine Verformung der Schale. 6. Wenn Sie den Aluminiumstab fest ziehen, wird die Erkennungsgenauigkeit beschädigt oder beeinträchtigtLieferinhalt:1 x Hauptplatine1 x BLtouch mit Kabel
+
+
+
+

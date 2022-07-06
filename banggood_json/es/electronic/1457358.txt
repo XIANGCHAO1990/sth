@@ -1,0 +1,200 @@
+1457358
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/3F/A3/8056cc48-59a4-4593-a87a-67a16776fc08.JPG
+DHT22 Temperatura y humedad digitales de bus único Módulo Sensor Bloques de construcción electrónicos AM2302 3.3V-5V DC
+https://es.banggood.com/DHT22-Single-bus-Digital-Temperature-and-Humidity-Sensor-Module-Electronic-Building-Blocks-AM2302-3_3V-5V-DC-p-1457358.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilidad
+Para confirmar que si esta pieza se ajusta a su vehículo, ingrese los detalles a continuación.
+
+
+
+
+
+Año:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Hacer:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Recortar:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor seleccione
+
+
+
+
+
+
+
+
+Borrar todo
+
+
+
+
+Esta parte es compatible con 0 vehículo(s).
+Mostrar todos vehículos compatibles
+
+
+
+
+  Esta parte es compatible con 1 vehículo(s) correspondiente 
+ Esta parte no es compatible con
+
+
+
+Última búsqueda
+
+
+
+
+
+
+
+
+
+
+
+Año
+Hacer
+Modelo
+Submodelo
+Recortar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificaciones:
+
+
+
+Voltaje de funcionamiento: 3 V - 5,5 V
+
+Forma de salida de señal: señal digital
+
+Rango de medición de temperatura: - 40 ° C a 80 ° C
+
+Precisión de medición: 0,5 ° C
+
+El rango de medición de humedad: 0-100% RH
+
+Precisión de medición: 2% RH
+
+Resolución: 16
+
+Con orificios para tornillos fijos, instalación y fijación convenientes. Diámetro de 2,6 mm
+
+Tamaño: 28,2 x 13,1x10 mm 
+
+
+
+Alfiler:
+
+
+
+"+": positivo
+
+"-": el poder del ánodo
+
+"Out": el puerto IO del microcontrolador
+
+
+
+Paquete incluido:
+
+
+
+1 x DHT22 Módulo de temperatura y humedad
+
+1 x cable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,263 @@
+1585524
+https://imgaz1.staticbg.com/thumb/large/oaupload/ser1/banggood/images/5C/1D/b39ce39c-46f9-40eb-907f-f4dd85dbf682.jpg
+ZK-4KX CNC DC DC Buck Boost Converter CC CV 0,5-30V 4A Leistungsmodul Einstellbares geregeltes Netzteil für Solar Batterie Aufladen
+https://de.banggood.com/ZK-4KX-CNC-DC-DC-Buck-Boost-Converter-CC-CV-0_5-30V-4A-Power-Module-Adjustable-Regulated-Power-Supply-for-Solar-Battery-Charging-p-1585524.html?cur_warehouse=CN&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Merkmale:
+
+
+
+1. LCD kann Eingangs-/Ausgangsspannung, Ausgangsstrom/Ausgangsleistung/Ausgangskapazität/Ausgangszeit anzeigen;
+
+2. CNC-Einstellung, genau und schnell, kann die Spannung erhöhen und senken, die Ausgangsspannung kann nach Belieben von 0,5-30 V eingestellt werden, der Grenzstrom 0-4a kann nach Belieben eingestellt werden;
+
+3. Anti-Reverse-Anschlussschutz des Eingangsendes, der nicht ausbrennt;
+
+4. Anti-Reverse-Bewässerung am Ausgangsende, keine zusätzliche Anti-Reverse-Bewässerungsdiode wird benötigt, um die Batterie aufzuladen;
+
+5. Das Modul kann standardmäßig auf Öffnen/Schließen eingestellt werden;
+
+6. Es stehen mehrere Softwareschutzmechanismen zur Verfügung, und die Schutzschwelle ist einstellbar. Wenn die Arbeitsparameter des Moduls die Schutzschwelle überschreiten, wird der Ausgang automatisch geschlossen.
+
+7. Ausgangswelligkeit ist klein und PI-Filter ist verfügbar;
+
+8. Kühlerlamellen verdicken.
+
+
+
+Spezifikationen:
+
+
+
+Eingangsspannung: 5.0-30v
+
+Ausgangsspannung: 0,5-30V
+
+Ausgangsstrom: kann lange Zeit stabil bei 3A arbeiten und bei verbesserter Wärmeableitung 4 A erreichen
+
+Ausgangsleistung: natürliche Wärmeableitung 35W, verstärken die Wärmeableitung 50W
+
+Auflösung der Spannungsanzeige: 0,01 V
+
+Aktuelle Bildschirmauflösung: 0,001A
+
+Umwandlungseffizienz: ca. 88%
+
+Soft Start: ja (bei hoher Leistung und Lastmodul kann beim Start ausfallen)
+
+Schutzmechanismus:
+
+Eingang Anti-Reverse-Verbindung;
+
+Ausgang Anti-Reverse-Bewässerung;
+
+Eingangsunterspannungsschutz (4,8-30V einstellbar, Standard 4,8V)
+
+Überspannungsschutz am Ausgang (0,5-31V einstellbar, Standard 31V)
+
+Überstromschutz am Ausgang 0-4.1a (einstellbar, Standard 4.1a)
+
+Überspannungsschutz (0-50 W einstellbar, Standard 50 W)
+
+Übertemperaturschutz (80-110℃ einstellbar, Standard 110℃)
+
+Timeout-Schutz (0-100h einstellbar, standardmäßig aus)
+
+Superkapazitätsschutz (0-60ah einstellbar, standardmäßig ausgeschaltet)
+
+Betriebsfrequenz: 180KHZ 
+
+Abmessungen: 79 mm x 43 mm x 26 mm
+
+
+
+Verwendungsmethode:
+
+
+
+1. Umschalten der Anzeigeparameter -- Drücken Sie in der normalen Benutzeroberfläche SW, um die Anzeige unter dem Anzeigebildschirm umzuschalten, und wechseln Sie den Anzeigeinhalt zwischen der aktuellen A Leistung W Kapazität Ah Zeit h. Drücken Sie die SW-Taste lange, um die Uplink-Anzeige auf dem Display umzuschalten Bildschirm und schalten Sie den Anzeigeinhalt zwischen Eingangsspannung IN Ausgangsspannung OUT um.
+
+2. Ausgangsspannung einstellen -- Drücken Sie die U / I-Taste in der normalen Schnittstelle, um die Schnittstelle zur Einstellung der Spannung konstanten Stroms aufzurufen. Es ist zu sehen, dass eine bestimmte Stelle des Ausgangsspannungswerts blinkt. Drehen Sie den Encoder nach links und rechts, um Major und Minor einzustellen. Drücken Sie kurz den Drehknopf, um auszuwählen, welches Bit der Ausgangsspannung eingestellt werden soll. Drücken Sie nach der Einstellung die U / I-Taste zweimal, um zur normalen Schnittstelle zurückzukehren. Oder kehren Sie automatisch zum normale Schnittstelle nach dem Stoppen des Betriebs für 10s.
+
+3. Stellen Sie den Konstantstromwert ein (d. h. den maximalen Stromwert, der vom Modul ausgegeben werden darf) -- drücken Sie die U/I-Taste in der normalen Schnittstelle, um die Einstellungsspannungs-Konstantstromschnittstelle aufzurufen. Drücken Sie dann die U/I-Taste und wechseln Sie zu Konstantstromwert einstellen. Sie können sehen, dass ein bisschen der eingestellte Konstantstromwert blinkt. Drehen Sie den Drehgeber nach links und rechts, um Major und Minor einzustellen. Drücken Sie kurz den Drehgeber, um auszuwählen, welches Bit der Konstantstromwert eingestellt werden soll. Drücken Sie nach der Einstellung U/I, um die Einstellungsspannungs-Konstantstromschnittstelle zu verlassen und zum Normalzustand zurückzukehren interface.Oder automatisch zur normalen Schnittstelle zurückkehren, nachdem der Betrieb für 10s gestoppt wurde.
+
+4. Stellen Sie den Standard-Ein/Aus-Zustand des Moduls beim Einschalten ein -- drücken Sie lange auf U/I in der normalen Schnittstelle, um die Parametereinstellungsschnittstelle aufzurufen. Sie können sehen, dass "OPEN OFF" oder "OPEN ON" angezeigt wird. „OPEN OFF“ bedeutet, dass der Ausgang standardmäßig ausgeschaltet ist, wenn die Stromversorgung eingeschaltet ist, und „OPEN ON“ bedeutet, dass der Ausgang standardmäßig eingeschaltet ist, wenn die Stromversorgung eingeschaltet ist. Drehen Sie den Encoder lange, um zwei Zustände zu wechseln. Drücken Sie nach der Einstellung lange U /I, um zur normalen Schnittstelle zurückzukehren.
+
+5. Einstellung der Schutzparameter für Zustand und Schwellwert – U/I lange drücken, um die Parametereinstellungsschnittstelle in der normalen Schnittstelle aufzurufen. SW drücken, bis der gewünschte Schutz erscheint.LUP – Unterspannungsschutzschwelle;OUP – Überspannungsschutzschwelle ;OCP – Überstromschutzschwelle;OPP – Überstromschutzschwelle;OAP – Ultra-Kapazitätsschutzschwelle;OHP-Zeitüberschreitungsschutzschwelle;OTP – Übertemperaturschutzschwelle.Kurz drücken, drehen Sie den Encoder, um auszuwählen, welches Bit Sie einstellen möchten Schutzparameter.Drücken Sie lange auf den Drehgeber, um die Schutzparameter ein- oder auszuschalten (nur der Zeitüberschreitungsschutz und der Superkapazitätsschutz können auf Ein-/Ausschalten eingestellt werden, und andere Schutzparameter sind standardmäßig aktiviert.).Drehen Sie den Encoder nach links und rechts um die Parameter größer und kleiner zu machen. Drücken Sie nach der Einstellung lange auf U/I, um zur normalen Schnittstelle zurückzukehren.
+
+6. Kalibrierungsspannung und -strom -- Drücken Sie die U/I-Taste, um die Parametereinstellungsschnittstelle unter der normalen Schnittstelle zu öffnen. Drücken Sie SW, bis eine Parameterschnittstelle mit CAL erscheint. Die Kalibrierungseingangsspannungsschnittstelle mit dem Symbol CAL+IN+V;Der Kalibrierungsausgang Spannungsschnittstelle mit dem Symbol CAL+OUT+V;Die Kalibrierungsausgangsstromschnittstelle mit dem Symbol CAL+OUT+A.Drehen Sie den Encoder nach links und rechts, um die Größe der Parameter anzupassen.Nach Abschluss der Einstellung drücken Sie den Drehgeber lange auf Bestätigen Sie, dass die Einstellung abgeschlossen ist und der Parameterwert nicht mehr blinkt. Drücken Sie lange auf U/I, um zur normalen Schnittstelle zurückzukehren. 
+
+Hinweis: Um die Genauigkeit der Kalibrierung zu gewährleisten, kann die Kalibrierungsspannung – über 12 V nur gestartet werden; Kalibrierungsstrom – Starten Sie die Kalibrierung nur, wenn der Strom über 1 A liegt.
+
+
+
+Tipps:
+
+
+
+1. Eine kurze Verbindung zwischen Eingang IN Ausgang OUT des Moduls ist verboten, oder die Konstantstromfunktion schlägt fehl.
+
+2. Stellen Sie sicher, dass das Leistungsmoment des Netzteils die erforderliche Leistung der Ausgangslast überschreitet!
+
+3. Wenn das Modul mit Volllast ausgeben möchte, sollte die Eingangsspannung über 8V liegen. Bei einer Eingangsspannung von 5 V beträgt die Ausgangsleistung etwa 15 W. Der maximale Modulstromwert beträgt 4 A, abhängig von der maximalen Ausgangsleistung, z. B. 17 V, sollte der Strom nicht größer als 2 A sein.
+
+4. Wenn dieses Modul über 3A und 35W verwendet wird, verstärken Sie bitte die Wärmeableitung!!!
+
+5. Das Modul verfügt über eine Eingangsunterspannungsschutzfunktion, die standardmäßig etwa 4,8 V beträgt (kann eingestellt werden), und der Ausgang wird automatisch getrennt, wenn der Wert niedriger als dieser Wert ist (beachten Sie, dass die Spannung am Modulanschluss niedriger ist als die Unterspannungsschutzschwelle und wenn der Eingangsstrom relativ groß ist, ignorieren Sie nicht die Teilspannung an der Eingangsleitung).
+
+
+
+Lieferinhalt:
+
+
+
+1 x ZK-4KX CNC DC DC Buck Boost Converter CC CV 0,5-30V 4A Leistungsmodul
+
+
+
+
+
+
+
+
+
+
+
+
+

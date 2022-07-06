@@ -1,0 +1,146 @@
+1713874
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/50/A0/2974a131-260b-4aeb-8181-4aeca1357676.png
+Ulefone Armor 9 Caméra d'imagerie thermique IP68 IP69K Étanche 6,3 pouces 8 Go 128 Go 64MP Caméra NFC 6600mAh Helio P90 Smartphone robuste Octa Core 4G
+https://fr.banggood.com/Ulefone-Armor-9-Thermal-Imaging-Camera-IP68-IP69K-Waterproof-6_3-inch-8GB-128GB-64MP-Camera-NFC-6600mAh-Helio-P90-Octa-Core-4G-Rugged-Smartphone-p-1713874.html?cur_warehouse=HK&ID=2246295403&rmmds=CategoryPhonesPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Noter: Il existe deux versions. Version UE et version autre zone. Si vous venez de l'Union européenne, veuillez choisir la version UE. Sinon, vous pouvez choisir la version autre zone.  Spécification:Modèle Ulefone Armor 9Réseau 2G : GSM B2/3/5/8 (1900/1800/850/900)        CDMA 1X BC0/BC1 (800/1900) 3G : WCDMA B1/B2/B4/B5/B8                                TD-WCDMA B34/B39        CDMA EVDO BC0/BC1 4G: FDD-LTE B1/2/3/4/5/7/8/12/13/17/18/19/20/25/26 / 28A / 28B / 66        TDD-LTE B34/B38/B39/B40/B41 Emplacements pour carte SIM : double carte SIM double veille (Nano SIM), emplacement pour carte 2 prend en charge la carte Nano-SIM/carte TF.Cliquez iciEn tant que pour la fréquence du réseau de votre pays. Veuillez vérifier auprès de votre opérateur/fournisseur avant d'acheter cet article.Matériel Système d'exploitation : Android 10 Processeur : Helio P90 (MT6779) Processeur Octa-core 64 bits 2,2 GHz Processeur graphique : IMG PowerVR GM9446 à 970 MHz RAM : 8 Go ROM : 128 Go Extension de carte : prend en charge une carte TF externe jusqu'à 2 To (VFAT)Afficher Taille de l'écran : 6,3 pouces Type : Écran tactile capacitif FHD+ Résolution : 2340*1080pixelsCaméra arrière Caméra principale : 64MP + 5MP (caméra secondaire pour la fonction d'imagerie thermique FLIR) + 2MP Super 4 en 1 Pixel * Quatre flash arrière, Mise au point tactile Résolution d'enregistrement vidéo: 1080P / 4K Caméra d'imagerie thermique  Module d'imagerie thermique: FLIR Lepton 2.5, 80X60, 50 ° HFOV, radiométrique Technologie de capteur: Microbolomètre VOx non refroidi Fréquence d'images effective: 8,6 Hz (application commerciale exportable) Horloge d'entrée: 25 MHz nominal, niveaux de tension CMOS IO Format de sortie: sélectionnable par l'utilisateur 14 bits, 8 bits (AGC appliqué) ou 24 bits RVB (AGC et colorisation appliqués) Taille de pixel: 17 µm Plage dynamique de scène: -10-140 ° C (gain élevé); jusqu'à 400 ° C (faible gain) typique Gamme spectrale: infrarouge à ondes longues, 8 µm à 14 µm Compensation de température: automatique. Image de sortie indépendante de la température de la caméra. Sensibilité thermique: <50 mK (0,050 ° C) Interface de données vidéo: vidéo sur SPI Plage de température hors fonctionnement: -40 ° C à +80 ° C Plage de température optimale: -10 ° C à + 80 ° C Choc: 1500 G @ 0,4 ms Format de matrice: 80 × 60, balayage progressif FOV - Diagonale: 63,5 ° FOV - Horizontal: 50 ° (nominal) Optimisation de l'image: configurée en usine et entièrement automatisée Correction de non-uniformité (NUC): automatique avec obturateur Protection solaire: intégrale Tension d'alimentation d'entrée: 2,8 V, 1,2 V, 2,5 V à 3,1 V IO Dissipation de puissance: 150 mW (en fonctionnement), 650 mW (pendant un événement d'obturation), 4 mW (en veille)  Application MyFLIR  Caractéristiques  Mètres spot: 3 mobiles ROI: image entière et rectangle (redimensionnable)Min, Max, Moyenne MSX: Oui Visible uniquement: Oui Outil d'alignement: Oui Enregistrer l'image: photo, vidéo, time-lapse, YouTube Live Jpeg radiométrique: Oui Compatible FLIR Tools®: Oui Reporting: Oui Rappeler l'image et la vidéo: Oui Réglage de la portée et du niveau: Oui Verrouillage de la portée et du niveau: Oui Palettes de couleurs: Oui, 9 Échelle de température: Oui, fixe et personnalisable Menu Aide: Oui, maintenez l'icône pour la description ou utilisez le menu guidé * L'appareil photo 64MP indique que le capteur d'image principal a 64 millions de pixels physiques. Comme le capteur d'image GW1 adopte la technologie Quad Bayer (Tetracell), certains tests de référence ne peuvent détecter que ce mode technologique et afficher le capteur de la caméra comme 16MP. Le mode 64MP est immédiatement capable de prendre en charge 64MP.Caméra frontale Caméra secondaire : caméra frontale 8,0 MPLangue Indonésien, malais, catalan, tchèque, danois, allemand, estonien, anglais, espagnol, philippin, français, croate, italien, letton, lituanien, hongrois, néerlandais, norvégien, polonais, portugais, roumain, slovaque, finnois, suédois, vietnamien, Grec, turc, bulgare, russe, serbe, ukrainien, arménien, hébreu, ourdou, arabe, persan, hindi, bengali, thaï, coréen, birman, japonais, chinois simplifié, chinois traditionnelBatterie en charge Batterie: 6600mAh (typ), Intégré Charge rapide: 9V 2A, charge rapide 18W Interface de chargement : USB Type-C Type de chargeur : Type UEAutres caractéristiques Wi-Fi : 802.11 a/b/g/n/ac, 2.4G/5G VoLTE : la possibilité d'utiliser VoLTE dépend des opérateurs locaux, car tous les opérateurs locaux ne peuvent pas prendre en charge cette fonction.  Bluetooth : BT5.0 Positionnement : GPS/AGPS/GLONASS/BEIDOU/Galileo Matériel: TPU + 10% GF + PC Capteur: Capteur d'accélération, capteur G, capteur P, capteur L, boussole électronique, gyroscope, NFC, coulombmètre, OTG, empreinte digitale latérale, reconnaissance faciale Radio FM : Oui Étanche : IP68/IP69K étanche Jeu de puces audio : FS1860U Prise audio: CTIA 3,5 mm Voyant de notification : oui Voyant d'état de la batterie : OuiTaille poids Taille du produit: 168,2 * 82 * 15 mm Poids du produit: 324gListe de colisage 1 x Ulefone Armor 9 Téléphone intelligent 1 câble de données (100 cm) 1 x Type-C vers adaptateur micro-USB 1 x protecteur d'écran en verre trempé 1 x élingue 1 x aiguille SIM 1 x câble OTG 1 x chargeur UE
+
+
+
+

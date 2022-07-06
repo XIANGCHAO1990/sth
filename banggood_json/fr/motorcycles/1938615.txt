@@ -1,0 +1,145 @@
+1938615
+https://imgaz1.staticbg.com/thumb/large/oaupload/banggood/images/A1/D3/82cf226d-b030-4cb9-9412-80a2fe11ff38.jpg
+V313 ODB2 LCD affichage lecteur de Code moteur outil de Diagnostic de voiture mise à jour gratuite Scanner automobile OBDII Batterie testeur
+https://fr.banggood.com/V313-ODB2-LCD-Display-Engine-Code-Reader-Car-Diagnostic-Tool-Free-Update-Automotive-Scanner-OBDII-Battery-Tester-p-1938615.html?cur_warehouse=CN&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+La description:En tant que1. Il s'agit d'une carte de lecture de code multifonctionnelle qui intègre la détection générale OBD, la détection de batterie et l'impression (impression de port série). Il fournit une détection précise du véhicule, une détection de la batterie et l'impression des résultats des tests. Présentation du produit V313 Un produit de carte de lecture de code de chariot,Il a les fonctions suivantes :1. Prise en charge de neuf protocoles standard OBD II/EOBD ;2. Prend en charge les fonctions OBD telles que le diagnostic des défauts du véhicule et le streaming de données en temps réel ;3. Avec des fonctions de lecture de données telles que la visualisation des informations de code d'erreur enregistrées, le flux de données et la détection de batterie ;4. Données avec test d'émission5. Les données enregistrées dans la carte de lecture de code peuvent être imprimées via le port série USB ;6. Prise en charge de la fonction de mise à niveau USB7. allemand, néerlandais, anglais, espagnol, français, italien8. Testez rapidement le courant de démarrage à froid, la résistance interne, la durée de vie de la batterie et la puissance restante de la batterie au plomb de démarrage 12 V pour déterminer si la batterie doit être remplacée : détection de tension en temps réel, détection d'impédance de la batterie et combien il reste de l'énergie après une période de pleine charge (SOC ) Batterie valeur du courant de charge (SOH), détection du courant de démarrage à froid (CCA)Données de véhicule prises en charge：Lire le code de diagnostic d'erreurEffacez le code d'erreur et éteignez le MIL (voyant "Check Engine")Tours moteur par minute (RPM)Valeur de charge calculéeTempérature du liquide de refroidissementÉtat du système de carburantLa vitesseSituation de carburant à court termeSituation de carburant à long termePression du collecteur d'admissionTemps d'avance à l'injection de carburantTempérature de l'air d'admissionVitesse de l'airPosition absolue de la soupape d'étranglementTension de détection de l'oxygène associée à l'état du combustible à court termeÉtat du système de carburantPression de carburantIl existe bien d'autres données pour le suivi de la consommation de carburant...Remarque : Le nombre d'éléments de données pris en charge par différentes années de modèle est également différent, et la situation de prise en charge réelle prévaudra.Protocoles pris en chargeSAE J1850 PWM (41,6 Kbaud)SAE J1850 VPW (10,4 Kbaud)ISO 9141-2 (5 baud init, 10,4 Kbaud)ISO 14230-4 KWP (initialisation 5 bauds, 10,4 Kbauds)ISO 14230-4 KWP (démarrage rapide, 10,4 kbauds)ISO 15765-4 CAN (ID 11 bits, 500 Kbauds)ISO 15765-4 CAN (ID 29 bits, 500 kbauds)ISO 15765-4 CAN (ID 11 bits, 2500 Kbaud)ISO 15765-4 CAN (ID 29 bits, 250 Kbauds)Spécification:Paramètres techniques Puce de contrôle principale STM32F103VET6Tension de travailDC 12VCourant de travail 98mAEnvironnement d'exploitation -20～70℃Température de stockage-20～80℃Dimensions 181.5*81*29mmEmballage inclus:1 XAnalyseur OBD2
+
+
+
+

@@ -1,0 +1,189 @@
+940937
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/EE/8A/ba4e7e35-d74c-45a8-947d-c9d440e6d3ba.JPG
+Geekcreit® ATmega328P Nano V3 Carte contrôleur Version améliorée Carte de développement de module
+https://fr.banggood.com/Geekcreit-ATmega328P-Nano-V3-Controller-Board-Improved-Version-Module-Development-Board-p-940937.html?cur_warehouse=CN&ID=6300464&rmmds=CategoryElectronicsPop
+
+
+
+
+
+
+
+Compatibilité
+Pour confirmer que cette pièce convient à votre véhicule, veuillez entrer les détails de votre véhicule ci-dessous.
+
+
+
+
+
+An:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Faire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Sous-modèle:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Réduire:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Moteur:
+
+
+Sélectionnez S'il vous plaît
+
+
+
+
+
+
+
+
+Effacer tout
+
+
+
+
+Cette partie est compatible avec 0 Véhicule(s).
+Afficher tous les véhicules compatibles
+
+
+
+
+  Cette partie est compatible avec 1 Véhicule(s) correspondant à 
+ Cette partie n'est pas compatible avec
+
+
+
+Recherches récentes
+
+
+
+
+
+
+
+
+
+
+
+An
+Faire
+Modèle
+Sous-modèle
+Réduire
+Moteur
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Spécification:
+
+Microcontrôleur ATmega328
+Tension de fonctionnement (niveau logique) : 5V
+Tension d'entrée (recommandée) : 7 V ~ 12 V
+Tension d'entrée (limites) : 6 V ~ 20 V
+Broches d'E/S numériques : 14 (dont 6 fournissent une sortie PWM)
+Broches d'entrée analogique : 8
+Courant CC par broche d'E/S : 40 mA
+Flash Mémoire : 32 Ko (ATmega328) (dont 2 Ko utilisés par le bootloader)
+SRAM : 2 Ko (ATmega328)
+EEPROM : 1 Ko (ATmega328)
+Vitesse d'horloge : 16 MHz
+Puce: CH340C / G Livraison aléatoire (CH340B est la version mise à jour de CH340G, CH340B est livré avec cristal, mais CH340G ne le fait pas)
+
+Noter:
+
+Puce USB améliorée pour la vitesse et la stabilité avec WIN7/WIN8. Cette version est livrée avec les en-têtes de broches non soudés et non inclus le câble USB.
+
+Emballage inclus:
+
+1/2/3/5/10 x Sans soudure Carte compatible Nano V3.0 (en option)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Note: Joint product & Provided by Banggood and Newchic.
+
+
+

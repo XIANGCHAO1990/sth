@@ -1,0 +1,230 @@
+1651561
+https://imgaz3.staticbg.com/thumb/large/oaupload/banggood/images/83/31/16845317-3ac6-4db0-845c-8314f7875410.jpg
+iMars® Enusic™ CJ720 Global Version Röle Küresel Konumlama Sistemi Takip Cihazı Real Süre GSM Konumlandırıcı Hırsızlığa Karşı Koruma Kesme Yakıt Gücü Sistemi İşlevi
+https://tr.banggood.com/IMars-Enusic-CJ720-Global-Version-Relay-GPS-Tracker-Real-Time-GSM-Locator-Anti-theft-Cut-off-Fuel-Power-System-Function-p-1651561.html?cur_warehouse=USA&rmmds=CategoryAutomobilesPop
+
+
+
+
+
+
+
+Uygunluk
+Bu parçanın araçınız ile uyumlu olduğunuz onaylamak için lütfen aşağıdaki aracınız ile ilgili bilgileri giriniz.
+
+
+
+
+
+Yıl:
+
+
+Seç
+
+
+
+
+
+
+
+
+Yapım:
+
+
+Seç
+
+
+
+
+
+
+
+
+Model:
+
+
+Seç
+
+
+
+
+
+
+
+
+Altmodel:
+
+
+Seç
+
+
+
+
+
+
+
+
+Kırpmak:
+
+
+Seç
+
+
+
+
+
+
+
+
+Motor:
+
+
+Seç
+
+
+
+
+
+
+
+
+Hepsini Temizle
+
+
+
+
+Bu parça uyumlu 0 Taşıt(lar).
+Tüm uyumlu araçları göster
+
+
+
+
+  Bu parça uyumlu 1 Taşıt(lar) eşleştirme 
+ Bu parça uyumlud değil
+
+
+
+Son aramalar
+
+
+
+
+
+
+
+
+
+
+
+Yıl
+Yapım
+Model
+Altmodel
+Kırpmak
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Youtube Bağlantısı:https://www.youtube.com/watch?v=Bi7mxvcE4wIYazılım Süre Sonu Sorunu: Sağlamak IMEI çevrimiçi müşteri hizmetlerine bir numara veririz ve tedarikçiye hesap kullanım süresini uzatacaklarını (100 yıl) veririz.https://www.banggood.com/Contact-Us_hi111Tanım:
+
+Küresel Konumlama Sistemi ve Rusça GLONASS çift modlu konumlandırma
+
+◆ Gerçek zamanlı izleme  ◆Sözde baz istasyonuna karşı & tespit
+
+◆ Titreşim / Yer Değiştirme / Düşük pil / Güç kapalı / aşırı hız uyarısı
+
+◆ Ana elektrik kesintisi uyarısı  ◆ Geo-çit
+
+◆ Tarih Güzergahı ◆ Kes ve devam et Yakıt Pompa uzaktan  ◆ AKüresel Konumlama Sistemi bulma
+
+İşlevler ve Ürün parametreleri (Röle Küresel Konumlama Sistemi Takip Cihazı CJ720 / Kapalı benzin ve elektrik)
+
+
+
+Specifciation:Terminal Numara31x 31x 57mmSistem DiliÇince/İngilizceNet ağırlığı50gYedekleme Batarya3.7V 100mAhAğGSM / GPRS,ağ Band850/900/1800/1900MhzDestek olmakDünya çapında çalışabilen 4 frekanslı GSM 850/900/1800/1900 MHzKüresel Konumlama Sistemi modülüMTK2503Küresel Konumlama Sistemi hassasiyet159dBmKüresel Konumlama Sistemi konumu doğruluğu10mİlk konumlandırma zamanıSoğuk çalıştırma 45-120 saniyesıcak başlangıç35 saniyesıcak başlangıç1 secondÇalışma gerilimi10-50V girişYağ kesme işleviVoltaj 5-15V, Akım <10ApilDahili lityum pil 3.7V 110mAhDepolama sıcaklığı-40 ° C ila + 85 ° CÇalışma sıcaklığı-20 ° C ila + 55 ° CNem% 5 -% 95 Katılaşmamış Güç tüketimiGüç tüketimi, işte yaklaşık 40 mA ve uykuda 1 mA'dır. Yakıt ve elektrik kısmının anlık akımı 45A'ya kadardır.
+
+Özel not:
+
+YAKIT Pompa çizgi arama
+
+Profesyonellere ihtiyacım var.
+
+Ya da otomatik mekanik tamircisi bulmanıza yardımcı olur.
+
+Güç kaynağı, Yakıt Pompa kontrol hattı kesmek
+
+(1) Bu ekipmanın standart güç kaynağı 10V-50VDC'dir, kırmızı kablo güç kaynağının pozitif kutbudur,
+		ve sarı (siyah) güç kaynağının negatif kutbu;
+		Güç kaynağının negatif kutbunu takarken, lütfen topraklamayı veya topraklamayı ayrı olarak seçin,
+		ve diğer toprak çizgilerle paylaşmayın;
+
+(2) Yakıt Pompa kesme kontrol hattı (yeşil / mavi çizgi) bağlı Yakıt Pompa astar.
+
+Komut Gönder
+
+
+
+
+Nasıl kullanılır:
+
+1. kapağı açın, NANO SIM kart desteği GSM/GPRS ağını yuvaya yerleştirin ve yonga tarafının yukarı kaldırıldığından emin olun.
+	(mavi ışık yanıp söner, yeşil ışık yanıp söner,)
+
+2.Aset APN: APN123456 CMNET
+	(lütfen CMNET yerine yerel APN'nizi kullanın, APN içeriğini bilmiyorsanız, SIM kart tedarikçinize başvurmalısınız)
+
+3. Cihazın içindeki SIM karta SMS komutu göndererek yönetici numarasını ayarlayın.
+
+Örneğin: admin123456 + 86186 ****** (+ 86186 ***** size bir telefon numarası olmalıdır)
+
+4.Connect kablosu resmi izleyin, (Yakıt Pompa Test kablolama videosunu kesin: https://www.youtube.com/watch?v=FiUN5nbAVMA)
+
+
+Kullanım kılavuzu:
+http://myosuploads3.banggood.com/products/20190814/20190814025004SKUD05342.doc
+
+Kullanım Önlemleri:1. Cihaz kasasını açın. (Bazı ülkelerin GSM hizmetini kaydettirmek için 15 haneli bir IMEI numarası göndermek için Küresel Konumlama Sistemi cihazını kullanması gerekir. Türkiye'nin siparişi verirken IMEI numarasını göndermesi gerekiyor, sizin için değiştireceğiz)2. SIM kartı takın (SIM kartın 2G ağ bandıyla uyumlu olması gerekir: 850/900/1800/1900Mhz, ve açık SMS işlevi, İnternet trafik ücreti.)3. Bağlantı 12V güç kaynağı: (Küresel Konumlama Sistemi sinyal: mavi ışık yanıp söner, GSM sinyal: yeşil ışık yanıp söner)4. APN kodunu ayarlayın: APN ayarlayın: APN123456 CMNET (APN içeriğini bilmiyorsanız lütfen CMNET yerine yerel APN'nizi kullanın, SIM kart tedarikçinizle iletişime geçmelisiniz) Videodaki ayar, Şili ülkesi için sizsiniz.5. Küresel Konumlama Sistemi cihaz parametre sorgulama SMS komutu: (s42, 1234). Küresel Konumlama Sistemi cihazının IP adresini ve APN ayarlarını kontrol edin.6. Küresel Konumlama Sistemi cihaz durumu sorgulama komutu: durum Ana görünüm: GPRS sinyal, GSM sinyal, Küresel Konumlama Sistemi sinyal, ana güç bağlantısı.7. Platform IP adresi: adminip123456 113.98.254.179:77008. Küresel Konumlama Sistemi cihazının durumunu çevrimiçi olarak kontrol etmek için web sitesinde veya APP'de oturum açın.http://www.gpscj.netUYGULAMA: YunTrackDeneyim hesabı: TEST00Şifre:123456
+
+Paket içeriği:1 X Röle Küresel Konumlama Sistemi Takip Cihazı1 X Manuel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

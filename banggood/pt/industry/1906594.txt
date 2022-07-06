@@ -1,0 +1,144 @@
+https://pt.banggood.com/ORTUR-Laser-Master-2-Pro-S2-LU2-4-LF-SF-Laser-Engraving-Cutting-Machine-400-x-430mm-Large-Engraving-Area-Fast-Speed-10,000mm-or-Min-High-Precision-Laser-Engraver-p-1906594.html?cur_warehouse=CN&ID=6315360&rmmds=CategoryToolsPop
+ORTUR Laser Master 2 Pro S2 LU2-4 LF SF Laser Engraving Cutting Machine 400 x 430mm Large Engraving Area Fast Speed 10,000mm/Min High Precision Laser Engraver
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LU2-4 SFOrtur Laser Master = Ortur Laser Master 2ProS2-SF gravador do laser tem detecção de chama, parada de emergência, etc., é equipado com a mais recente placa-mãe OLM-MAXUP-V10 e sistema de confiabilidade mais forte, gravação suave, velocidade de gravação mais rápida, maior precisão e muito mais produtos de gravação refinados. LU2-4-SF Laser O ponto focal do módulo é 0,12x0,15 mm. É de alta potência e tem um ponto de laser comprimido, por isso é bom no corte e melhor na gravação de materiais mais duros.LU2-4 LFOrtur Laser Master = Ortur Laser Master 2ProS2-LF gravador do laser tem detecção de chamas, parada de emergência, etc., é equipado com a mais recente placa-mãe OLM-MAXUP-V10 e sistema de confiabilidade mais forte, gravação suave, velocidade de gravação mais rápida, maior precisão. LU2-4-LF Laser Modould é um ponto focal comprimido de segunda geração com cabeça de laser Long Focus com Air Assist, melhor para cortar, especialmente materiais mais espessos. O ponto focal tem 0,17 x 0,25 mm e pode cortar de forma limpa tábuas de pinho de 6 mm em uma passagem rund.Descrição- Firmware avançado= Ortur Laser firmware 1.8, mais inteligente, mais rápido, maior precisão e mais fácil de usar. Placa-mãe especializada com MCU de 32 bits. Ele poderia pré-processar 32 instruções, suportar taxa de transmissão de até 921600, mais poderoso! Qualificado para ESP32 MCUs, otimiza o algoritmo de movimento e aumenta a velocidade máxima dos motores de passo de 4000mm / min a 10000mm / min.- Ampla Compatibilidade= Ortur laser master 2ProS2 gravador do laser pode ser compatível com vários softwares de gravação maduros, como LaserGRBL, LightBurn, suporte Win XP / Win 7 / Win 8 / Win 10, e também suporte a sistemas MAcs e Linux (LightBurn, pago), arquivo de gravação formato compatível com JPG, PNG, BMP, JPEG, SVG, ETC, etc.- 5 Proteção de Segurança=1. Quando a máquina de gravação é deslocada ou inclinada, ela parará automaticamente o laser para evitar danos ao alvo pelo laser. 2. Quando a máquina de gravação ou computador trava, o laser para de funcionar imediatamente para evitar fogo contínuo. 3. A máquina de gravação está ligada, mas não há movimento por um longo tempo, ela estará protegida e o laser será desligado automaticamente. 4. Detector de Chama + Campainha 5. Botão de Parada de Emergência.EspecificaçãoMarca: Ortur Número do modelo: Laser Master 2 pro S2Tipo de lazer: LU2-4 SF (Melhor para gravação), LU2-4 LF (Melhor para corte / Com bico auxiliar de ar)Material: Alumínio + Aço Revestido a PóPotência do laser: LU2-4 Módulo de laser de ponto focal comprimido 20w （Potência elétrica: 20W, Potência luminosa: 5000-5500mw） Faixa de alcance do laser: 445 ± 5nm Alimentação por: Adaptador de alimentação 24V 2APeso do pacote: 4,6 000 kgTamanho do produto (C x L x A): 600x570x189 mmTamanho do pacote (C x L x A): 660x250x110mmRecursos1.  ● Placa-mãe especializada com MCU de 32 bits- Pode pré-processar 32 instruções, suportar taxa de transmissão de até 921600, mais poderoso!2. O mais avançado firmware de gravador de 32 bits Laser- Firmware mestre do laser Ortur, mais inteligente, mais rápido, com maior precisão e mais fácil de usar.3. A faixa de potência de Laser poderia ser S0 - S1000, em comparação com gravadores a laser de mesa de 8bits, que só tem S0 - S255, Ortur Laser Master poderia controlar o feixe de laser com mais precisão, poderia até mesmo usar a unidade de laser de alta potência para "desenhar" uma imagem papel, que os gravadores a laser de alta potência de 8 bits não podiam fazer.4. A velocidade de gravação pode ser tão alta quanto 3000MM / Min. (Se não considerar o resultado de escultura a laser, as velocidades de movimento podem ser tão altas quanto 1000 MM / S)5. Proteção de posição ativa- Há um sensor G na placa-mãe, se a máquina detectar movimento não autorizado, o feixe de laser irá parar.6. Proteção de feixe de laser- Se o seu sistema de computador parar ou o cabo USB for desconectado, fizer com que o gravador do laser pare de se mover, o feixe de laser irá parar, para evitar incêndio.7. Detecção e limitação da duração da exposição- Se gravador do laser estiver sob controle, mas os usuários se esquecerem de operar e manter o feixe de laser funcionando, a segurança extra será cortada caso o motor pare de se mover, para evitar incêndio.8. LaserGRBL (software livre) suporta Windows XP, 7, 8, 10. LaserGRBL é o software de escultura mais popular do mundo, pode importar imagens em diferentes formatos, você pode editar em PhotoShop, Inkscape, CAD, etc. e, em seguida, conectar-se a o gravador via laser LaserGRBL para gravação e corte.9. LightBurn (software pago, lightburnsoftware.com) oferece suporte a Windows, Macs OS e Linux. É o software de escultura pago mais popular do mundo, muito fácil de usar.10. Este gravador do laser oferece suporte ao modo PWM.11. Peças pré-montadas, só precisa de 10 a 20 minutos para instalar a máquina.12. Grande área de gravação de 400 x 430 mm.13. Estrutura em perfil de alumínio + cabeamento estruturado, estrutura sólida, operação suave, aparência atraente.14. Sincronizando a estrutura mecânica do eixo, evite a fora de sincronia em dois trilhos Y, durante a gravação em velocidade total.Perguntas e respostasP: Quanto tempo leva para montar?R: 10-15 minutos (depende da sua preparação).P: Qual software de gravação é compatível?R: LaserGrbl (gratuito) (Windows XP, Windows 7, Windows 8, Windows 10): Baixar páginaLightBurn (avaliação gratuita paga de 30 dias) (Macs OS, Linux, Windows XP, Windows 7, Windows 8, Windows 10): Baixar página P: Posso gravar metal e aço inoxidável?R: Você pode marcar o metal após o chapeamento ou pulverização (agindo no revestimento ou camada de óxido), aço inoxidável (o efeito é melhor depois que o aço inoxidável é pintado de preto. Obs: Não é gravação, mas descoloração).P: Qual é a espessura máxima de corte da placa?R: Com o módulo a laser LU2-4, ele pode cortar madeira compensada de 4 mm (madeira compensada) ou placa de pinho de 6 mm com um corte.P: Quantas horas o Laser Master 2 Pro pode trabalhar continuamente?A: 24 horas (em ambiente bem ventilado).P: O módulo de laser pode ser substituído?R: Sim, mas a tensão de entrada do módulo Laser precisa suportar 24V.Q: Quanto tempo é o período de garantia?A: One anos de garantia (nós lhe enviaremos as peças danificadas não artificialmente correspondentes gratuitamente).P: É possível gravar superfícies cilíndricas?R: Necessidade de adquirir Ortur YRR série Rotary Rolete como um acessório para esculpir a superfície cilíndrica.P: Como definir o comprimento focal correto?R: Todos os módulos de laser Ortur têm um comprimento focal fixo (a distância do módulo de laser à superfície do objeto é fixa).Observação● Use óculos de proteção ao operar o gravador a laser. Use óculos de segurança para evitar cegueira.● Não toque no emissor de laser com a mão, ou pode queimar sua mão.● Evite impactos fortes na máquina.● Crianças menores de 14 anos não podem usar este produto e crianças maiores de 14 anos precisam da supervisão de um adulto.● A máquina de gravação de luz não pode ser aplicada diretamente a nenhum objeto que reflita um espelho, o que pode causar ferimentos ao operador ou queimar o laser.● Este produto não é recomendado para corte industrial devido à sua alta velocidade de gravação.ManualClique aquiIncluído no Pacote1 x Laser Máquina de GravaçãoAcessóriosMais detalhes:
+
+
+
+

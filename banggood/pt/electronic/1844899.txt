@@ -1,0 +1,246 @@
+https://pt.banggood.com/FLSUN-Super-Racer(SR)-3D-Printer-260mmX330mm-Print-Size-Fast-Print-or-Three-axis-Linkage-with-3_5inch-DANGLY-Touch-Screen-or-Removable-Crystal-Lattice-Glass-Hotbed-or-Dual-Drive-Extruder-p-1844899.html?cur_warehouse=CZ&ID=47184&rmmds=CategoryElectronicsPop
+FLSUN® Super Racer(SR) 3D Printer 260mmX330mm Print Size Fast Print/Three-axis Linkage with 3.5inch DANGLY Touch Screen/Removable Crystal Lattice Glass Hotbed/Dual-Drive Extruder
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+▶ Os produtos não serão mais enviados com cartões SD e cartões USB e TF.▶ Recursos:Tamanho de impressão: 260mmX330mm. O tamanho do impressora 3d em uma ampla gama de grupos de público interessado no tamanho da região, para atender às necessidades de uma ampla gama de grupos de público.Capacitivo full-color tela sensível ao toque, equipado com cabo retrátil e suporte móvel tela sensível ao toque, a experiência é mais humana, mais conveniente e confortável de usar.Articulação de três eixos, a velocidade de impressão é 2-3 vezes os resultados do mercado I3, o mesmo modelo, com a mesma precisão e qualidade de superfície, pode ser reduzido pela metade do tempo, que é o principal ponto de venda da máquina.Com detecção de material quebrado, função de renovação de falha de energia.placa-mãe de 32 bits processador, mais estável, mais eficiente, controla o módulo de acionamento de aterramento do motor para Unidade silenciosa TMC2209, o efeito silencioso pertence ao nível superior das impressoras de nível de mesa.Instalação do módulo efetor: ventilador turbo duplo + 4010 ventilador comum um total de 3 ventiladores, efeito de sopro de dissipação de calor é muito bom.O guia de movimento é um medidor de fio de nível industrial para garantir uma impressão mais precisa e estável.Sistema de nivelamento automático, um nivelamento chave, memória permanente.Cama quente de treliça de cristal, aquecendo a cama quente durante a impressão, o modelo pode grudar melhor na plataforma, depois que a impressão acabar e a cama quente esfriar, fica mais fácil tirar o modelo.Extrusora de dupla engrenagem(Mecanismo de extrusão de engrenagem dupla), mais torque, extrusão mais forte, mais estável e mais durável.3K braço paralelo fibra de carbono de alta resistência, mais eficaz para garantir a precisão do movimento, estabilidade.Montagem modular, os clientes precisam apenas de 10 a 15 minutos para concluir a experiência de montagem.A máquina é equipada com caixa de peças, peças comumente usadas podem ser armazenadas na caixa de peças, serviço mais humano e mais confortável.Placa lateral de alumínio personalizado de alta resistência, pode garantir que a máquina no processo de impressão de alta velocidade, para manter um corpo estável.O cinto é de 10 mm de alta resistência à abrasão, para garantir o cliente no estado de movimento de alta velocidade impressora 3d de uso a longo prazo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Especificações
+
+
+Tecnologia: Modelagem de deposição fundida (FDM)
+Ano: 2021
+
+Montagem: parcialmente montado
+
+Arranjo mecânico: Deltaprinter
+
+Fabricante: Flsun
+
+Propriedades da impressora 3D
+
+Volume de construção: Ø260 x 330 mm
+
+Velocidade de impressão: 100-200mm / s
+
+Sistema de alimentação: Bowden
+
+Cabeça de impressão: bico único
+
+Tamanho do bocal: 0,4 mm
+
+Máx. temperatura final quente: 260 ℃
+
+Máx. temperatura do leito aquecido: 100 ℃
+
+Material de impressão da cama: vidro
+
+Quadro: N / A
+
+Nivelamento da cama: Automático
+
+Conectividade: USB, cartão SD
+
+Recuperação de impressão: Sim
+
+Sensor de filamento: Sim
+
+Câmera: Não
+
+Materiais
+
+Diâmetro do filamento: 1,75 mm
+
+Filamento de terceiros: Sim
+
+Materiais de filamento: materiais de consumo (PLA, ABS, PETG)
+
+Programas
+
+Fatiador recomendado: Cura, Repetier-Host
+
+Sistema operacional: Windows, OSX, Linux
+
+Tipos de arquivo: STL, OBJ, AMF
+
+Dimensões e peso
+
+Dimensões da estrutura: 440 x 390 x 960 mm
+
+Peso: 13,6 kg
+
+
+
+
+
+

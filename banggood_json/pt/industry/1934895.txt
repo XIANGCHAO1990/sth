@@ -1,0 +1,145 @@
+1934895
+https://imgaz2.staticbg.com/thumb/large/oaupload/banggood/images/8C/91/5e466eac-aad9-4f5e-9c34-2f4459237745.jpg
+DL24M-H 2-200V 600W 3mA-40A Indicador de Tensão de Carga Eletrônico Banco de Energia Bateria Testador 18650 Pacote Monitor de Capacidade Ferramenta Verificador
+https://pt.banggood.com/DL24M-H-2-200V-600W-3mA-40A-Electronic-Load-Voltage-Indicator-Power-Bank-Battery-Tester-18650-Pack-Capacity-Monitor-Checker-Tool-p-1934895.html?cur_warehouse=CN&ID=6292509&rmmds=CategoryToolsPop
+
+
+
+
+
+
+
+Compatibilidade
+Para confirmar que esta peça é adequada ao seu veículo, insira os detalhes do veículo abaixo.
+
+
+
+
+
+Ano:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Fazer:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Modelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Submodelo:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Aparar:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Motor:
+
+
+Por favor Selecione
+
+
+
+
+
+
+
+
+Limpar tudo
+
+
+
+
+Essa parte não é compatível com 0 veículo(s).
+Mostrar todos os veículos compatíveis
+
+
+
+
+  Essa parte não é compatível com 1 veículo(s) coincidindo 
+ Essa parte não é compatível com
+
+
+
+Pesquisas recentes
+
+
+
+
+
+
+
+
+
+
+
+Ano
+Fazer
+Modelo
+Submodelo
+Aparar
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introdução à operação de teclas de funções usadas com frequência:1) Pressione rapidamente o botão "ON/OFF" para iniciar e parar, pressione rapidamente o canto superior esquerdo do botão "M" para mover o cursor e ajuste o valor correspondente com o botão "+/-"2) Pressione e segure o botão "+/-" ao mesmo tempo para limpar todos os dados acumulados, como a capacidade atual, tempo da bateria, etc. (Pressione e segure o botão "ON/OFF" para entrar no fundo, também pode ser limpo no menu de fundo)3) Pressione e segure o botão “M” e o modo de função começa a piscar, então pressione rapidamente o botão “+/-” para selecionar a função (CC/CV/CR/CP/BRT/PT)4) No modo OFF, pressione e segure o botão "ON/OFF" para entrar na interface de fundo, depois pressione rapidamente o botão "M" para alternar a coluna de configuração e o botão "+/-" para ajustar o número5) Pressione rapidamente o botão "+/-" na coluna de precisão de corrente constante da interface de configuração de fundo para alternar a precisão de corrente constante (10mA ou 1mA)6) Quando o sistema não estiver fornecendo energia, pressione e segure o botão "M" e não solte. Em seguida, ligue novamente. Entre na opção de potência de emenda e pule para o valor de potência real antes de soltar7) Pressione e segure o botão "M" o modo de função começa a piscar, pressione rapidamente o botão "M" novamente para inserir o valor de ajuste de configuração da descarga limitada por tempo e o valor da coluna de tensão de corte.Botões principais e descrição do painel:Ⅰ: indicador Bluetooth (piscando aguardando conexão Bluetooth, luz longa indica conexão bem-sucedida)Ⅱ: Botão "+" Vave Aumentar (Pressione brevemente o botão para aumentar o número, pressione e segure o botão para aumentar continuamente, Quando o modo estiver piscando, pressione rapidamente o botão para retroceder)Ⅲ: Botão Definir "M" (pressione e segure a tecla "M" para iniciar o modo de função, pressione a tecla "+" ou "-" para alternar o modo CC/CV/CP/CR/BRT/PT, pressione e segure a tecla "M" para iniciar o modo de função, pressione rapidamente "M" novamente Tecla para alternar entre Descarga de Tempo e tensão de corte. Pressione a tecla "+" ou "-" para definir o valor, o padrão é OFF)Ⅳ: "-" botão de redução de valor (pressione rapidamente o botão para diminuir o número e pressione e segure o botão para diminuir continuamente. Quando o modo estiver piscando, pressione rapidamente para avançar)Ⅴ: "ON/OFF" Executar o botão ON/OFF (pressione o botão brevemente, está ligado ou desligadoPressione e segure o botão para inserir as configurações de plano de fundo do produto e use o botão "M" e o botão "+" ou "-" para definir os parâmetros)Quatro modos de operação de operação:1. Operação de corrente constante (CC)2. Operação de resistência constante (CR)3. Operação de energia constante (CP)4. Operação de tensão constante (CV)Parâmetros e descrição do host:1. Teste várias entradas de energia DC2. Entradas da porta de detecção USB Mini3. Entradas de porta de detecção micro USB4. Entradas de porta de detecção USB tipo c5. Montagem DIY Diferentes posições de jumper de reserva de energia (150W/300W/450W/600W)6. Sonda de temperatura externa NTC7. Sede de agulha reta XH2.54-2P (Por favor, ignore, não combina)8. Assento de agulha reto XH2.54-2P (Por favor, ignore, não combina)9. Cabo 8p conectado ao painel10. Fonte de alimentação do sistema DC5.5 (deve fornecer DC12V 1A)11. Aumente a potência e expanda a interface12. Resistência X4pcsIncluído no Pacote: (opcional)150W Tipo#1:1 x DL24M -150W Color Display Bluetooth Digital Control Curve Versão Load Tesr1 x fonte de alimentação DC12V 1A1 x 5 conjunto de parafusos macho e fêmea1 x sonda de temperatura1 x linha de clipe de crocodilo de linha única vermelha e preta1 x US para adaptador da UE1 x placa de teste do adaptador300W Tipo#2:1 x DL24M-150W Host Color Display Bluetooth Digital Control Curve Versão Load Tesr1 x fonte de alimentação DC12V 1A2 x 5 conjunto de parafusos macho e fêmea1 x sonda de temperatura1 x linha de clipe de crocodilo de linha única vermelha e preta1 x US para adaptador da UE1 x acessórios de ventilador de 150 W1 x placa de teste do adaptador450W Tipo#3:1 x DL24M-150W Host Color Display Bluetooth Digital Control Curve Versão Load Tesr1 x fonte de alimentação DC12V 1A3 x 5 conjunto de parafusos macho e fêmea1 x sonda de temperatura1 x linha de clipe de crocodilo de linha única vermelha e preta1 x US para adaptador da UE2 x acessórios de ventoinha de 150 W1 x placa de teste do adaptador600W Tipo#4:1 x DL24M-150W Host Color Display Bluetooth Digital Control Curve Versão Load Tesr1 x fonte de alimentação DC12V 1A4 x 5 conjunto de parafusos macho e fêmea1 x sonda de temperatura1 x linha de clipe de crocodilo de linha única vermelha e preta1 x US para adaptador da UE3 x acessórios de ventoinha de 150 W1 x placa de teste do adaptador
+
+
+
+

@@ -1,0 +1,225 @@
+https://de.banggood.com/ALTERA-Cyclone-IV-EP4CE6-FPGA-Development-Board-Kit-Altera-EP4CE-NIOSII-FPGA-Board-and-USB-Downloader-Infrared-Controller-p-1622523.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+ALTERA Cyclone IV EP4CE6 FPGA-Entwicklungsplatine Satz Altera EP4CE NIOSII FPGA-Platine und USB-Downloader-Infrarot-Controller
+
+
+
+
+
+
+
+Kompatibilität
+Um zu bestätigen, dass dieses Teil zu Ihrem Fahrzeug passt, geben Sie bitte Ihre Fahrzeugdaten ein.
+
+
+
+
+
+Jahr:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Machen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Modell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Untermodell:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Trimmen:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Motor:
+
+
+Wählen
+
+
+
+
+
+
+
+
+Alle löschen
+
+
+
+
+Dieser Teil ist kompatibel mit 0 Fahrzeug (e).
+Zeige alle kompatiblen Fahrzeuge
+
+
+
+
+  Dieser Teil ist kompatibel mit 1 Fahrzeug (e) gültig 
+ Dieser Teil ist kompatibel mit
+
+
+
+Letzte Durchsuchungen
+
+
+
+
+
+
+
+
+
+
+
+Jahr
+Machen
+Modell
+Untermodell
+Trimmen
+Motor
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Handbuch: Zum Öffnen hier klicken>>>Handbuch 1 <<<>>>Handbuch 2 <<<>>>Handbuch 3 <<<>>>Handbuch 4 <<<>>>Handbuch 5 <<<Merkmale:
+
+
+
+1. der Hauptchip der neuen FPGA Cyclone IV-Serie EP4CE6E22C8N des Unternehmens ALTERA
+
+2. Integrierter serieller EPCS16N-Konfigurationschip mit hoher Kapazität, unterstützt JTAG/AS-Zwei-Download-Modus
+
+3. Integriertes 64-Mbit-SDRAM, unterstützt SOPC- und NIOSII-Entwicklung
+
+4. Onboard 50 MHz aktiver Quarz, die Stabilität des Haupttaktsystems
+
+5. Verwenden Sie einen 1117-3,3-V-Spannungsregler-Chip, um eine Ausgangsspannung von 3,3 V bereitzustellen
+
+6. Verwendung eines 1117-1,2-V-Spannungsreglerchips zur Bereitstellung der FPGA-Kernspannung
+
+7. Verwenden Sie einen 1117-2,5-V-Spannungsregler-Chip, um den PLL-Spannungsausgang bereitzustellen
+
+8. Verwendung einer großen Anzahl von Entkopplungskondensatoren, Entkopplungsdesign
+
+9. 5V DC-Stromversorgungsbuchse und USB-Schnittstellen-Stromversorgungsbuchse, zwei Arten von Stromversorgungsmodus
+
+10. 1 Reset-Taste, kann auch als Benutzereingabetaste verwendet werden
+
+11. 1 selbstsichernder Netzschalter
+
+12. 1 LED Betriebsanzeigeleuchte
+
+13. Von allen IO-Schnittstellen kann der universelle Abstand von 2,54 mm leicht erweitert werden
+
+14. JTAG-Download-Schnittstelle zum Herunterladen der Datei ist .SOF, die Geschwindigkeit ist schnell, die übliche Verwendung dieser Schnittstelle wird empfohlen
+
+15. AS-Download-Schnittstelle zum Herunterladen der Datei ist .POF, die Geschwindigkeit ist langsam, Sie müssen diese Schnittstelle beim Aushärten verwenden
+
+
+
+Peripherieschnittstelle:
+
+
+
+1. 4 unabhängige Tasten
+
+2. 4 LED Dioden,
+
+3. 4 digitale Röhre
+
+4. 4 Wahlschalter
+
+5. 1 Summer
+
+6. PS2-Schnittstelle
+
+7. Serielle Schnittstelle RS232
+
+8. 1 * 20-polige LCD-Buchse, Unterstützung LCD1602, LCD12864, TFT LCD
+
+9. Temperatursensorchip LM754A, für Thermometerexperiment
+
+10. Präzision einstellbarer Widerstand, einstellbare Hintergrundbeleuchtung LCD
+
+11. VGA-Schnittstelle für Anzeigeexperimente
+
+12. I2C seriell EEPROMAT24C08, für IIC-Bus-Experiment
+
+13. Infrarot-Empfangsmodul
+
+
+
+Lieferinhalt:
+
+
+
+1 x Hauptplatine
+
+1 x USB-Downloader
+
+1 x Fernbedienung
+
+1 x USB-Kabel
+
+
+
+
+
+
+

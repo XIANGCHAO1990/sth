@@ -1,0 +1,345 @@
+https://it.banggood.com/Nextion-NX8048K070_011C-7_0-Inch-Enhanced-HMI-Intelligent-Smart-USART-UART-Serial-TFT-LCD-Screen-Module-Display-Capacitive-Multi-Touch-Panel-With-Enclosure-p-1338659.html?cur_warehouse=CZ&rmmds=CategoryElectronicsPop
+Nextion NX8048K070_011C 7.0 Pollici Enhanced HMI Intelligent Smart USART UART seriale TFT LCD Modulo schermo Display Capacitivo Multi-Toccare Pannello con custodia
+
+
+
+
+
+
+
+Compatibilità
+Per confermare che questa parte si adatta al tuo veicolo, inserisci i dettagli del tuo veicolo di seguito.
+
+
+
+
+
+Anno:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Fare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Sotto modello:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+tagliare:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Motore:
+
+
+Si prega di selezionare
+
+
+
+
+
+
+
+
+Resetta tutto
+
+
+
+
+Questa parte è compatibile con 0 veicolo(i).
+Mostra tutti i veicoli compatibili
+
+
+
+
+  Questa parte è compatibile con 1 veicolo(i) coordinato 
+ Questa parte non è compatibile con
+
+
+
+Ricerche recenti
+
+
+
+
+
+
+
+
+
+
+
+Anno
+Fare
+Modello
+Sotto modello
+tagliare
+Motore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Panoramica:
+
+Display touch resistivo/capacitivo HMI Nextion migliorato da 7,0'' con custodia. Lo schermo Nextion è un pannello LCD aggiornato con funzionalità più potenti. Sono disponibili due modelli: NX8048K070_011C e NX8048K070_011R. NX8048K070_011C è un potente display multi-touch capacitivo HMI TFT da 7,0 pollici con custodia, mentre NX8048K070_011R è un pannello touch resistivo con custodia. Entrambi si integrano con 32 MB di spazio di archiviazione dati Flash, EEPROM da 1024 byte, RAM da 8192 byte e con GPIO supportati.
+
+
+
+Cosa può fare il Nextion?
+
+Durante il processo di progettazione del sistema embedded, una delle cose più fastidiose e che richiedono tempo è la progettazione dell'interfaccia uomo-macchina. Hai bisogno di un grafico o di un grafico slick, disegni di pagine veloci, hai bisogno di risorse memorizzate per un'elaborazione rapida, troverai la risposta all'interno della fantastica linea di prodotti Nextion.
+
+Nextion è ottimizzato per soddisfare le vostre specifiche esigenze di interfaccia uomo-macchina utilizzando interfacce aperte e standardizzate in hardware e software, che consentono un'integrazione efficiente nei vostri sistemi di automazione.
+
+Sistemi uomo-macchina, visualizzazione, interazione umana, cognizione, percezione visiva, intelligenza artificiale, cibernetica, persino robotica, sono solo alcuni esempi, in cui i concetti HMI giocano un ruolo importante.
+
+Che valore può portare Nextion?
+
+Come ingegnere embedded, ricordi quei vecchi tempi in cui progettavi l'interfaccia uomo-macchina per un sistema embedded? Devi passare settimane nel design di basso livello.
+
+Nextion è progettato per funzionare con il minimo sforzo di progettazione poiché tutti i dati e i segnali di controllo sono forniti dal dispositivo per interfacciarsi direttamente con il display. Ciò offre un enorme vantaggio al progettista in termini di tempo di sviluppo e risparmio sui costi e rimuove tutti gli oneri della progettazione di basso livello.
+
+Nextion ti aiuterà a progettare rapidamente visivamente in ore e non settimane, trasformando il lungo lavoro di codifica in una semplice operazione di trascinamento della selezione, a un costo ragionevole. Quello di cui hai solo bisogno è interfacciare una porta seriale con l'hardware del display Nextion.
+
+La demo parla più forte delle parole, ecco che arriva un altro video che mostra quanto velocemente e facilmente un'applicazione può essere progettata trascinando e rilasciando obiezioni sullo schermo virtuale su un WYSIWYG design IDE - Nextion Editor.
+
+
+
+Rispetto ai display Nextion di base, quelli migliorati hanno aggiunto alcune nuove funzioni, come: supporto di RTC integrato, supporto di salvataggio dei dati su Flash, supporto di GPIO, capacità flash più grande e clock della CPU più grande. 
+
+
+
+Caratteristiche:
+
+
+
+Supporta RTC integrato
+
+Supporta GPIO
+
+Interfaccia scheda SD: supporta max 32G Micro TF/SD card (formato file FAT32)
+
+Spazio di archiviazione dati flash: 32 MB
+
+EEPROM: 1024 byte
+
+RAM: 8192 byte
+
+Buffer istruzioni: 1024 byte
+
+Colore: 65K (65536) colori
+
+Risoluzione: 800×480 pixel
+
+Luminosità regolabile: 0~230 nit- l'intervallo di regolazione è 1%
+
+Certificates: CE/EMC, RoHS (certificates)
+
+
+
+
+Specifica:
+
+
+
+
+Dimensioni:
+
+
+
+
+
+Installazione facile:
+
+
+
+
+
+
+Documenti:
+
+
+Please visit wiki pagina per ulteriori informazioni su questo prodotto. 
+
+
+Supporto tecnico:
+
+
+For technical support, please open Nextion Forum.
+
+
+
+INFORMAZIONI AGGIUNTIVE:
+
+
+
+
+
+
+
+
+
+
+fuori produzione
+
+No
+
+
+
+Link Wiki
+
+No
+
+
+
+Risoluzione dello schermo
+
+800 x 480
+
+
+
+Interfaccia di visualizzazione
+
+Seriale
+
+
+
+Schermo Tipo
+
+Touch screen
+
+
+
+Controller dello schermo
+
+No
+
+
+
+Interfaccia display TFT
+
+N / A
+
+
+
+Dimensioni dello schermo
+
+7,0"
+
+
+
+Dimensioni della tavola
+
+181mm*108mm
+
+
+
+Espandere
+
+
+
+Scheda SD presa di corrente
+
+Touch screen
+
+
+
+
+
+Il peso
+
+598 g
+
+
+
+
+
+
+Il pacchetto include:
+
+1 x Nextion 7,0 Pollici Migliorato Capacitivo Multi-Toccare Pannello con custodia
+1 x Micro USB a 2P Connettore Board
+1 x cavo Grove a 4 pin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
